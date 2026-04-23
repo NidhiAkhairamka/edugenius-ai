@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EduGenius AI</string>
+    <string name="title_activity_main">EduGenius AI</string>
+    <string name="package_name">com.edugenius.ai</string>
+    <string name="custom_url_scheme">com.edugenius.ai</string>
+</resources>

@@ -1,0 +1,35 @@
+# Environment variables — contains API keys
+.env
+.env.local
+.env.production
+
+# Keystore — never commit this, losing it means losing app updates
+*.jks
+*.keystore
+
+# Build outputs
+dist/
+android/app/release/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+myenv/
+venv/
+.venv/
+
+# Database — contains student data
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android build
+android/.gradle/
+android/app/build/
+android/build/

@@ -1,0 +1,8 @@
+
+{
+  "name": "EduGenius AI: GCSE Mastery",
+  "description": "An advanced, AI-powered revision platform for Year 5 to Year 11 GCSE students. Features Socratic agents, exam markers, and vision-based worksheet analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
