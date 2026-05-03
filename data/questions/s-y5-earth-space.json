@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y5-earth-space_beginner_001",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the name of the star that the Earth and other planets in our solar system orbit.",
+      "options": [
+        "A. The Moon",
+        "B. Mars",
+        "C. The Sun",
+        "D. Jupiter"
+      ],
+      "correctAnswer": "C. The Sun",
+      "explanation": "The Earth and all the other planets in our solar system travel in a path called an orbit around the Sun. The Sun is the star at the centre of our solar system, providing light and heat. The Moon orbits the Earth, while Mars and Jupiter are other planets that orbit the Sun.",
+      "hint": "Think about what is at the very centre of our solar system, providing light and heat, around which all the planets move.",
+      "generatedAt": "2026-04-29T16:31:36.776407"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_002",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which scientific term correctly describes the curved path that the Earth and other planets follow as they move around the Sun?",
+      "options": [
+        "A) Rotation",
+        "B) Spin",
+        "C) Orbit",
+        "D) Journey"
+      ],
+      "correctAnswer": "C) Orbit",
+      "explanation": "The Earth and other planets move around the Sun in a continuous, curved path. This specific type of movement and the path taken is scientifically called an 'orbit'. 'Rotation' or 'spin' refers to a planet turning on its own axis, not moving around another object. 'Journey' is a general term and not scientifically precise for this motion.",
+      "hint": "Think about the specific term used to describe one celestial body circling around another larger celestial body in space.",
+      "generatedAt": "2026-04-29T16:31:50.240387"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_003",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following statements accurately describes how the Earth moves in relation to the Sun?",
+      "options": [
+        "A) The Earth spins on its axis while remaining in one fixed spot.",
+        "B) The Earth travels in a straight line directly towards the Sun.",
+        "C) The Earth follows a curved path around the Sun.",
+        "D) The Earth and the Sun both remain completely still."
+      ],
+      "correctAnswer": "C) The Earth follows a curved path around the Sun.",
+      "explanation": "The Earth orbits the Sun, meaning it travels in a continuous, curved path around it. This movement is called revolution. Option A describes the Earth's rotation (spinning), not its movement around the Sun. Options B and D are incorrect because the Earth does not move in a straight line towards the Sun, nor do both the Earth and the Sun remain still relative to each other.",
+      "hint": "Consider the shape of the path that planets, including Earth, take as they travel around a star.",
+      "generatedAt": "2026-04-29T16:32:02.081033"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_004",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Consider the movement of the Earth and other planets in our solar system. Which statement accurately describes how they move relative to the Sun?",
+      "options": [
+        "The Sun moves around the Earth.",
+        "The Earth and other planets move around the Sun.",
+        "The Earth moves around the Moon.",
+        "All planets move in straight lines away from the Sun."
+      ],
+      "correctAnswer": "The Earth and other planets move around the Sun.",
+      "explanation": "In our solar system, the Sun is a star and the largest object. The Earth and all other planets are celestial bodies that travel in elliptical paths, known as orbits, around the Sun. This is the established heliocentric model.",
+      "hint": "Think about what is at the centre of our solar system and which celestial bodies orbit around it.",
+      "generatedAt": "2026-04-29T16:32:14.124086"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_005",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "The Earth and all the other planets in our Solar System move around the Sun. Which statement correctly describes the path they follow?",
+      "options": [
+        "A) They spin on their own axis as they stay in one place.",
+        "B) They fly in straight lines away from the Sun.",
+        "C) They follow a curved path around the Sun.",
+        "D) They stay still while the Sun moves around them."
+      ],
+      "correctAnswer": "C) They follow a curved path around the Sun.",
+      "explanation": "Planets in our Solar System, including Earth, do not stay still or move in straight lines away from the Sun. Instead, they travel in a continuous curved path around the Sun. This movement is called orbiting, and it is caused by the gravitational pull of the Sun.",
+      "hint": "Think about the shape of the journey planets take as they travel around a central point like the Sun.",
+      "generatedAt": "2026-04-29T16:32:32.388026"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_006",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the approximate time it takes for the Earth to complete one full orbit around the Sun.",
+      "options": [
+        "One day",
+        "One week",
+        "One month",
+        "One year"
+      ],
+      "correctAnswer": "One year",
+      "explanation": "The Earth moves around the Sun in a path called an orbit. It takes approximately 365 days for the Earth to travel all the way around the Sun and return to its starting point. This period of 365 days is defined as one year.",
+      "hint": "Think about how we measure the passage of a year and how it relates to the Earth's journey around the Sun.",
+      "generatedAt": "2026-04-29T16:32:43.015912"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_007",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the approximate shape of the path Earth takes as it moves around the Sun.",
+      "options": [
+        "A. A straight line",
+        "B. A square",
+        "C. A circle",
+        "D. A zigzag"
+      ],
+      "correctAnswer": "C. A circle",
+      "explanation": "The Earth travels around the Sun in a continuous, repeating path. This path is called an orbit, and its approximate shape is a circle (although scientifically, it is an ellipse, 'circle' is a good approximation for this level).",
+      "hint": "Consider the steady, repeating journey Earth makes around the Sun. What common shape does a regular, continuous loop resemble?",
+      "generatedAt": "2026-04-29T16:32:52.619218"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_008",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the name of the star around which Earth and all other planets in our Solar System move.",
+      "options": [
+        "Mars",
+        "The Moon",
+        "The Sun",
+        "Jupiter"
+      ],
+      "correctAnswer": "The Sun",
+      "explanation": "The Earth and all the other planets in our Solar System revolve around a central star. This star, which is at the center of our Solar System and provides light and heat, is called the Sun.",
+      "hint": "Think about the celestial body at the very centre of our Solar System that Earth and other planets orbit.",
+      "generatedAt": "2026-04-29T16:33:02.677707"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_009",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the name of the celestial body that all the planets in our Solar System orbit.",
+      "options": [
+        "The Moon",
+        "The Earth",
+        "The Sun",
+        "Mars"
+      ],
+      "correctAnswer": "The Sun",
+      "explanation": "In our Solar System, the Sun is a star that is located at the centre. All eight planets, including Earth, move in an orbit around the Sun. This movement happens because of the Sun's strong gravitational pull, which keeps the planets in their paths.",
+      "hint": "Consider the largest and brightest object at the centre of our Solar System around which everything else moves.",
+      "generatedAt": "2026-04-29T16:33:13.608824"
+    },
+    {
+      "id": "s-y5-earth-space_beginner_010",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "The Earth moves in two main ways. One way is when it spins around its own central imaginary line, which causes the cycle of day and night. What is the scientific term for this spinning movement of the Earth?",
+      "options": [
+        "A) Orbit",
+        "B) Revolution",
+        "C) Rotation",
+        "D) Trajectory"
+      ],
+      "correctAnswer": "C) Rotation",
+      "explanation": "The scientific term for the spinning of a planet, such as Earth, on its own axis is 'Rotation'. This movement is what causes different parts of the Earth to face the Sun at different times, leading to the cycle of day and night. 'Orbit' and 'Revolution' both refer to the movement of a celestial body around another, for example, the Earth moving around the Sun.",
+      "hint": "Think about the specific movement that makes different parts of the Earth experience daylight and darkness over a 24-hour period.",
+      "generatedAt": "2026-04-29T16:33:26.838319"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y5-earth-space_intermediate_001",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Mars orbits the Sun at an average distance of 2.28 x 10^11 meters. Its orbital period is approximately 687 Earth days.\n\nCalculate the average orbital speed of Mars in km/s. Show your working.\n\n(Assume 1 Earth day = 24 hours, 1 hour = 60 minutes, 1 minute = 60 seconds. Use π = 3.142)",
+      "options": [
+        "A. 24.1 km/s",
+        "B. 24128 m/s",
+        "C. 3.84 km/s",
+        "D. 6.70 km/s"
+      ],
+      "correctAnswer": "A. 24.1 km/s",
+      "explanation": "To calculate the average orbital speed, we first need to find the total distance Mars travels in one orbit (the circumference) and the total time taken for one orbit in seconds.\n\nStep 1: Convert the orbital period from days to seconds.\nOrbital period (T) = 687 days\nT = 687 days * 24 hours/day * 60 minutes/hour * 60 seconds/minute\nT = 59,380,000 seconds (or 5.938 x 10^7 s)\n\nStep 2: Calculate the circumference of Mars' orbit (the distance, d).\nThe orbit is assumed to be circular, so circumference (d) = 2πr\nGiven average distance (r) = 2.28 x 10^11 m\nd = 2 * 3.142 * 2.28 x 10^11 m\nd = 1.4325664 x 10^12 m\n\nStep 3: Calculate the average orbital speed (v).\nv = d / T\nv = (1.4325664 x 10^12 m) / (5.938 x 10^7 s)\nv = 24128.84 m/s\n\nStep 4: Convert the speed from m/s to km/s.\n1 km = 1000 m, so to convert m/s to km/s, divide by 1000.\nv = 24128.84 m/s / 1000\nv = 24.12884 km/s\n\nRounding to three significant figures (consistent with the input values):\nv ≈ 24.1 km/s",
+      "hint": "First, convert the orbital period to seconds and calculate the circumference of the orbit using the average distance as the radius. Then, use the formula speed = distance / time, and finally, ensure your answer is in kilometres per second.",
+      "generatedAt": "2026-04-29T16:33:43.459992"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_002",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "The Earth orbits the Sun at an average distance of 1.5 x 10^11 meters.\n\na) Describe the general movement of planets relative to the Sun. (2 marks)\n\nb) Explain why planets further from the Sun have longer orbital periods. (3 marks)\n\nc) Assuming the Earth's orbit is circular and its orbital period is 365 days, calculate the average orbital speed of the Earth in meters per second (m/s). Show your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) The Earth (and other planets) orbit/revolve around the Sun (1 mark). Their path is generally elliptical, or approximately circular (1 mark).\n\nb) Planets further from the Sun experience a weaker gravitational pull from the Sun (1 mark). This means they move at a slower average speed (1 mark) and also have a much longer orbital path (circumference) to cover, resulting in a significantly longer time to complete one orbit (1 mark).\n\nc) **Step 1: Calculate the distance of one orbit (circumference).**\nFormula: Circumference (d) = 2πr\nd = 2 × π × (1.5 × 10^11 m)\nd = 9.4247... × 10^11 m (using π ≈ 3.14159)\n\n**Step 2: Convert the orbital period from days to seconds.**\nPeriod (T) = 365 days\n1 day = 24 hours × 60 minutes/hour × 60 seconds/minute = 86,400 seconds\nT = 365 days × 86,400 seconds/day = 31,536,000 seconds\n\n**Step 3: Calculate the average orbital speed.**\nFormula: Speed (v) = Distance (d) / Time (T)\nv = (9.4247... × 10^11 m) / (31,536,000 s)\nv = 29,886.9... m/s\n\nRounding to 3 significant figures (consistent with input values):\nv = 29,900 m/s",
+      "explanation": "a) Planets follow orbital paths around the central star due to gravitational attraction.\nb) Gravitational force diminishes with increasing distance, leading to slower orbital speeds for outer planets. Combined with the longer distance they must travel in their larger orbits, this results in extended orbital periods.\nc) To find the average orbital speed, you first need to determine the total distance covered in one orbit by calculating the circumference of the circular path using the formula C = 2πr. Next, convert the given orbital period from days into seconds to ensure consistent units (meters and seconds). Finally, apply the speed formula, Speed = Distance / Time, using the calculated circumference as the distance and the period in seconds as the time.",
+      "hint": "For part (c), remember that the distance travelled in one orbit is the circumference of the circle. You will also need to convert the orbital period into seconds before calculating the speed.",
+      "generatedAt": "2026-04-29T16:34:05.509084"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_003",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A newly discovered exoplanet, 'Kepler-452b', orbits its star. Scientists have estimated its average orbital radius to be 1.6 x 10^11 meters. It takes this exoplanet approximately 385 Earth days to complete one full orbit around its star.\n\nAnother exoplanet, 'Gliese 581g', orbits its star much closer, with an average orbital radius of 2.2 x 10^10 meters. Its orbital speed is estimated to be 1.2 x 10^5 m/s.\n\nCalculate the difference in orbital speed between Kepler-452b and Gliese 581g. Give your answer in meters per second to two significant figures.",
+      "options": [],
+      "correctAnswer": "To calculate the difference in orbital speed, we first need to find the orbital speed of Kepler-452b.\n\n**Step 1: Calculate the orbital speed of Kepler-452b.**\n\n1.  **Convert the orbital period from days to seconds:**\n    *   1 day = 24 hours\n    *   1 hour = 60 minutes\n    *   1 minute = 60 seconds\n    *   Orbital period (T) = 385 days * 24 hours/day * 60 minutes/hour * 60 seconds/minute\n    *   T = 33,264,000 seconds (or 3.3264 x 10^7 s)\n\n2.  **Use the formula for orbital speed (v):**\n    *   v = 2πr / T\n    *   Where r = orbital radius = 1.6 x 10^11 m\n    *   v_Kepler-452b = (2 * π * 1.6 x 10^11 m) / (3.3264 x 10^7 s)\n    *   v_Kepler-452b ≈ 30227 m/s (or 3.0227 x 10^4 m/s)\n\n**Step 2: Calculate the difference in orbital speed.**\n\n1.  **Orbital speed of Gliese 581g** (v_Gliese 581g) = 1.2 x 10^5 m/s = 120,000 m/s\n\n2.  **Difference in speed = |v_Gliese 581g - v_Kepler-452b|**\n    *   Difference = |120,000 m/s - 30227 m/s|\n    *   Difference = 89773 m/s\n\n**Step 3: Round the answer to two significant figures.**\n\n*   89773 m/s ≈ 90,000 m/s\n*   Or, in standard form: 9.0 x 10^4 m/s\n\n**Final Answer:** The difference in orbital speed is 9.0 x 10^4 m/s.",
+      "explanation": "To calculate the difference in orbital speed, we first need to find the orbital speed of Kepler-452b. This involves two main steps:\n\n**Step 1: Calculate the orbital speed of Kepler-452b.**\n\n1.  **Convert the orbital period (T) from Earth days to seconds:**\n    *   1 day = 24 hours\n    *   1 hour = 60 minutes\n    *   1 minute = 60 seconds\n    *   T = 385 days * 24 hours/day * 60 minutes/hour * 60 seconds/minute = 33,264,000 seconds\n    *   This can be written as 3.3264 x 10^7 seconds.\n\n2.  **Apply the formula for orbital speed (v) for a circular orbit:**\n    *   The distance covered in one orbit is the circumference of the circle: 2πr.\n    *   Speed = Distance / Time, so v = 2πr / T.\n    *   Given orbital radius (r) = 1.6 x 10^11 meters.\n    *   v_Kepler-452b = (2 * π * 1.6 x 10^11 m) / (3.3264 x 10^7 s)\n    *   v_Kepler-452b ≈ 30227.4 m/s (approximately 3.0227 x 10^4 m/s).\n\n**Step 2: Calculate the difference in orbital speed.**\n\n1.  The orbital speed of Gliese 581g (v_Gliese 581g) is given as 1.2 x 10^5 m/s, which is 120,000 m/s.\n\n2.  The difference in orbital speed is the absolute difference between the two speeds:\n    *   Difference = |v_Gliese 581g - v_Kepler-452b|\n    *   Difference = |120,000 m/s - 30227.4 m/s|\n    *   Difference = 89772.6 m/s.\n\n**Step 3: Round the final answer to two significant figures as requested.**\n\n*   89772.6 m/s rounded to two significant figures is 90,000 m/s.\n*   In standard form, this is 9.0 x 10^4 m/s.",
+      "hint": "First, calculate the orbital speed of Kepler-452b. Remember to convert its orbital period from Earth days into seconds before using the orbital speed formula (v = 2πr / T). Once you have both orbital speeds in m/s, find their absolute difference and then round to the specified significant figures.",
+      "generatedAt": "2026-04-29T16:34:27.602738"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_004",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Neptune orbits the Sun at an average distance of 4.5 x 10^12 meters. Its orbital period is approximately 165 Earth years. Assume 1 Earth year = 3.156 x 10^7 seconds. Calculate Neptune's average orbital speed in meters per second (m/s). Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Convert the orbital period from Earth years to seconds.\nOrbital period (T) = 165 years * 3.156 x 10^7 seconds/year\nT = 5.2074 x 10^9 s\n\nStep 2: Calculate the total distance travelled in one orbit (the circumference).\nFormula: Circumference (C) = 2 * π * radius (R)\nC = 2 * π * 4.5 x 10^12 m\nC = 2.82743 x 10^13 m\n\nStep 3: Calculate the average orbital speed.\nFormula: Speed (v) = Distance / Time\nv = C / T\nv = (2.82743 x 10^13 m) / (5.2074 x 10^9 s)\nv = 5429.5 m/s\n\nRounding to 3 significant figures, Neptune's average orbital speed is **5430 m/s**.",
+      "explanation": "To calculate the average orbital speed of Neptune, you need to determine the total distance it travels in one complete orbit and the time it takes to complete that orbit. First, convert the given orbital period from Earth years into seconds to ensure consistent units. Next, use the average distance from the Sun as the radius of the orbit to calculate the circumference, which represents the total distance travelled in one orbit (C = 2πR). Finally, divide this calculated distance by the orbital period in seconds to find the average orbital speed (v = C/T).",
+      "hint": "Remember that speed is calculated as distance divided by time. For an orbit, the distance is the circumference of the orbital path, and the time is the orbital period. Make sure all your units are consistent before the final calculation.",
+      "generatedAt": "2026-04-29T16:34:45.372482"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_005",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A newly discovered exoplanet, 'Exoplanet X', orbits a distant star at an average distance of 7.5 x 10^11 meters.\n\na) Explain why planets, like Exoplanet X, orbit their star in a curved path instead of moving in a straight line. (3 marks)\n\nb) Calculate the time it takes for light from the star to reach Exoplanet X.\nState the formula you use, show your substitution, and give your answer with appropriate units. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Planets orbit stars because the star exerts a strong gravitational force on the planet. This continuous gravitational pull acts as a centripetal force, constantly changing the direction of the planet's velocity. Therefore, instead of moving in a straight line (as per Newton's First Law), the planet follows a curved orbital path around the star.\n\nb) Formula: Speed = Distance / Time (or Time = Distance / Speed)\nSubstitution: Time = 7.5 x 10^11 m / 3.0 x 10^8 m/s\nAnswer: Time = 2.5 x 10^3 seconds (or 2500 s)",
+      "explanation": "For part b):\n1.  Identify the known values: The distance (d) from the star to Exoplanet X is 7.5 x 10^11 m.\n2.  Recall the speed of light (c) in a vacuum, which is a fundamental constant in physics: c = 3.0 x 10^8 m/s.\n3.  Select the appropriate formula that relates speed, distance, and time. The formula is: Speed = Distance / Time. To find the time, rearrange this to: Time = Distance / Speed.\n4.  Substitute the known distance and the speed of light into the formula: Time = (7.5 x 10^11 m) / (3.0 x 10^8 m/s).\n5.  Perform the calculation: Divide the numerical parts (7.5 / 3.0 = 2.5) and subtract the exponents of 10 (10^11 / 10^8 = 10^(11-8) = 10^3).\n6.  The result is 2.5 x 10^3 seconds. Ensure the correct unit for time (seconds, s) is included.",
+      "hint": "For part b), remember that light travels at a constant speed in a vacuum (3.0 x 10^8 m/s) and you need to use the relationship between speed, distance, and time.",
+      "generatedAt": "2026-04-29T16:35:03.308445"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_006",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "The planet Mercury completes one full orbit around the Sun in approximately 88 Earth days. Its average distance from the Sun is 5.79 × 10^10 meters.\n\nCalculate the approximate average orbital speed of Mercury in kilometers per hour (km/h).",
+      "options": [
+        "A) 1.72 × 10^5 km/h",
+        "B) 4.78 × 10^4 km/h",
+        "C) 1.72 × 10^8 km/h",
+        "D) 6.20 × 10^6 km/h"
+      ],
+      "correctAnswer": "A) 1.72 × 10^5 km/h",
+      "explanation": "To calculate the average orbital speed, we first need to determine the total distance Mercury travels in one orbit and then divide it by the orbital period expressed in hours.\n\nStep 1: Calculate the orbital circumference (total distance travelled).\nFormula for circumference (distance, d) = 2πr\nGiven average radius (r) = 5.79 × 10^10 meters\nd = 2 × π × (5.79 × 10^10 m)\nd ≈ 3.6373 × 10^11 m\n\nStep 2: Convert the orbital period from days to hours.\nGiven orbital period (T) = 88 Earth days\nThere are 24 hours in a day.\nT = 88 days × 24 hours/day\nT = 2112 hours\n\nStep 3: Calculate the average orbital speed in meters per hour.\nFormula for speed (v) = Distance / Time\nv = (3.6373 × 10^11 m) / (2112 hours)\nv ≈ 1.7222 × 10^8 m/h\n\nStep 4: Convert the speed from meters per hour to kilometers per hour.\nThere are 1000 meters in 1 kilometer.\nv (km/h) = (1.7222 × 10^8 m/h) / 1000 m/km\nv ≈ 1.7222 × 10^5 km/h\n\nRounding to three significant figures, the average orbital speed of Mercury is approximately 1.72 × 10^5 km/h.",
+      "hint": "Start by calculating the circumference of Mercury's orbit. Remember to convert the orbital period from days into hours, and the final speed from meters per hour into kilometers per hour.",
+      "generatedAt": "2026-04-29T16:35:29.143470"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_007",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Scientists are observing two newly discovered exoplanets, Aethel and Beryl, orbiting a star similar to our Sun. Aethel is closer to the star and completes one full orbit in 5 Earth years. Beryl is further from the star and takes 20 Earth years to complete one full orbit.\n\nCalculate how many full orbits Aethel would complete in the time it takes Beryl to complete 3 full orbits.\nShow your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total time Beryl takes to complete 3 full orbits.\nTime = Number of orbits × Orbital period\nTime = 3 orbits × 20 Earth years/orbit\nTime = 60 Earth years.\n\nStep 2: Calculate how many full orbits Aethel would complete in this total time.\nNumber of orbits for Aethel = Total time / Aethel's orbital period\nNumber of orbits for Aethel = 60 Earth years / 5 Earth years/orbit\nNumber of orbits for Aethel = 12 orbits.\n\nAnswer: 12 orbits",
+      "explanation": "To solve this two-step problem, first, we determine the total time that passes while Beryl completes 3 orbits. This is found by multiplying Beryl's orbital period (20 Earth years) by the number of orbits (3), giving a total of 60 Earth years. Second, we use this total time to find out how many full orbits Aethel, the closer and faster planet, would complete. This is done by dividing the total time (60 Earth years) by Aethel's orbital period (5 Earth years), which results in 12 orbits.",
+      "hint": "Begin by calculating the total duration in Earth years for Beryl to complete its specified number of orbits. Then, use this total time to work out the number of orbits Aethel would complete.",
+      "generatedAt": "2026-04-29T16:35:50.090034"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_008",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "The Earth completes one full orbit around the Sun in approximately 365 days. The planet Mars completes one full orbit around the Sun in approximately 687 days. Calculate the number of full orbits Mars would complete around the Sun in a period of 5 Earth years.",
+      "options": [
+        "A. 1 orbit",
+        "B. 2 orbits",
+        "C. 3 orbits",
+        "D. 4 orbits"
+      ],
+      "correctAnswer": "B. 2 orbits",
+      "explanation": "Step 1: Calculate the total time in days for 5 Earth years.\nTotal time = 5 Earth years × 365 days/Earth year = 1825 days.\n\nStep 2: Calculate how many full Mars orbits fit into this total time.\nNumber of Mars orbits = Total time / Mars' orbital period\nNumber of Mars orbits = 1825 days / 687 days/orbit ≈ 2.656 orbits.\n\nSince the question asks for the number of *full* orbits, we round down to the nearest whole number.\nTherefore, Mars would complete 2 full orbits.",
+      "hint": "First, convert the total duration from Earth years into days. Then, divide this total duration by Mars' orbital period to find the number of orbits.",
+      "generatedAt": "2026-04-29T16:36:06.851025"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_009",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A newly discovered exoplanet, 'Helios', orbits its star. It completes one full orbit in 225 Earth days. Scientists have calculated its average orbital speed to be 35 km/s.\n\nCalculate the total distance, in kilometres (km), that exoplanet Helios travels during three full orbits around its star.",
+      "options": [
+        "A) 2.04 x 10^9 km",
+        "B) 6.80 x 10^8 km",
+        "C) 3.40 x 10^7 km",
+        "D) 3.31 x 10^9 km"
+      ],
+      "correctAnswer": "A) 2.04 x 10^9 km",
+      "explanation": "**Step 1: Convert the orbital period for one orbit from days to seconds.**\nThe orbital period (time, T) for one full orbit is 225 Earth days.\nWe need to convert this to seconds to match the speed units (km/s).\n1 day = 24 hours\n1 hour = 60 minutes\n1 minute = 60 seconds\nSo, 1 day = 24 × 60 × 60 = 86,400 seconds.\nTime for one orbit (T) = 225 days × 86,400 seconds/day = 19,440,000 seconds.\n\n**Step 2: Calculate the distance travelled in one orbit.**\nWe use the formula: Distance = Speed × Time.\nThe average orbital speed (v) is given as 35 km/s.\nDistance for one orbit = v × T\nDistance for one orbit = 35 km/s × 19,440,000 s = 680,400,000 km.\n\n**Step 3: Calculate the total distance travelled for three full orbits.**\nThe question asks for the distance travelled during three full orbits.\nTotal distance = Distance for one orbit × 3\nTotal distance = 680,400,000 km × 3 = 2,041,200,000 km.\n\nConverting to standard form and rounding to three significant figures, the total distance is 2.04 × 10^9 km.",
+      "hint": "First, ensure all units are consistent by converting the orbital period from days to seconds. Then, use the formula Distance = Speed × Time to find the distance for a single orbit, before scaling this value for three orbits.",
+      "generatedAt": "2026-04-29T16:36:46.683995"
+    },
+    {
+      "id": "s-y5-earth-space_intermediate_010",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A hypothetical planet, 'Zoltan', orbits the Sun at an average distance of 1.5 x 10^8 km. It completes one full orbit around the Sun in 240 Earth days. Calculate the average orbital speed of planet Zoltan in km/s.",
+      "options": [
+        "A) 45.5 km/s",
+        "B) 22.7 km/s",
+        "C) 7.23 km/s",
+        "D) 4.55 km/s"
+      ],
+      "correctAnswer": "A) 45.5 km/s",
+      "explanation": "To calculate the average orbital speed, we need to find the distance travelled in one orbit and the time taken, then use the formula Speed = Distance / Time.\n\n**Step 1: Calculate the distance travelled (circumference of the orbit).**\nAssuming the orbit is approximately circular, the distance is the circumference (C = 2πr).\nGiven radius (r) = 1.5 x 10^8 km\nC = 2 × π × (1.5 x 10^8 km)\nC ≈ 9.42477796 x 10^8 km\n\n**Step 2: Convert the time taken to seconds.**\nGiven time (t) = 240 Earth days\n1 day = 24 hours\n1 hour = 60 minutes\n1 minute = 60 seconds\nt = 240 days × 24 hours/day × 60 minutes/hour × 60 seconds/minute\nt = 240 × 24 × 60 × 60 seconds\nt = 20,736,000 seconds\n\n**Step 3: Calculate the average orbital speed.**\nSpeed = Distance / Time\nSpeed = (9.42477796 x 10^8 km) / (20,736,000 s)\nSpeed ≈ 45.4518 km/s\n\nRounding to three significant figures, the average orbital speed is 45.5 km/s.",
+      "hint": "Remember that the path of a planet's orbit can be approximated as a circle. You will need to calculate the circumference of this circle and convert all time units to seconds before applying the speed formula.",
+      "generatedAt": "2026-04-29T16:37:06.397431"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y5-earth-space_advanced_001",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Scientists have discovered two new planets orbiting the Sun: Planet X and Planet Y. Observations show that Planet X takes 4 Earth years to complete one full orbit around the Sun. Planet Y, however, completes one full orbit around the Sun in just 0.5 Earth years. If 8 Earth years have passed since the planets were first observed, which statement correctly describes the number of 'years' that would have passed on Planet X and Planet Y?",
+      "options": [
+        "A) 2 Planet X years and 4 Planet Y years.",
+        "B) 4 Planet X years and 8 Planet Y years.",
+        "C) 2 Planet X years and 16 Planet Y years.",
+        "D) 8 Planet X years and 2 Planet Y years."
+      ],
+      "correctAnswer": "C) 2 Planet X years and 16 Planet Y years.",
+      "explanation": "To determine how many 'years' have passed on each planet, we need to divide the total time elapsed (8 Earth years) by the length of one 'year' on that specific planet.\n\n**For Planet X:**\nOne 'year' on Planet X is 4 Earth years.\nNumber of Planet X years = Total Earth years passed / Length of one Planet X year\nNumber of Planet X years = 8 Earth years / 4 Earth years/Planet X year = 2 Planet X years.\n\n**For Planet Y:**\nOne 'year' on Planet Y is 0.5 Earth years.\nNumber of Planet Y years = Total Earth years passed / Length of one Planet Y year\nNumber of Planet Y years = 8 Earth years / 0.5 Earth years/Planet Y year = 16 Planet Y years.\n\nTherefore, after 8 Earth years, 2 Planet X years and 16 Planet Y years would have passed.",
+      "hint": "Remember that a 'year' on a planet is simply the time it takes for that planet to complete one full orbit around the Sun. To find out how many years have passed, divide the total time by the length of one year on that planet.",
+      "generatedAt": "2026-04-29T16:37:22.899928"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_002",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "To launch a probe to a newly discovered exoplanet, 'Zembla', orbiting its star 'Solara', scientists need to precisely calculate its average orbital speed. They have gathered the following data: Zembla has an average orbital radius of 4.5 x 10^11 metres and completes one full orbit in 820 Earth days. Assuming Zembla's orbit is perfectly circular, calculate Zembla's average orbital speed in metres per second (m/s). Show your working clearly and include appropriate units. (4 marks)",
+      "options": [
+        "A) 1.99 x 10^4 m/s",
+        "B) 3.45 x 10^9 m/s",
+        "C) 3.99 x 10^4 m/s",
+        "D) 6.35 x 10^3 m/s"
+      ],
+      "correctAnswer": "C) 3.99 x 10^4 m/s",
+      "explanation": "Here's the step-by-step working:\n\n1.  **Convert the orbital period from Earth days to seconds:**\n    1 Earth day = 24 hours\n    1 hour = 60 minutes\n    1 minute = 60 seconds\n    Orbital period (t) = 820 days * 24 hours/day * 60 minutes/hour * 60 seconds/minute\n    t = 70,912,000 seconds\n\n2.  **Calculate the distance travelled in one orbit (circumference of the circular orbit):**\n    The formula for the circumference (C) of a circle is C = 2πr, where r is the radius.\n    C = 2 * π * (4.5 x 10^11 m)\n    C = 2.827433388 x 10^12 m\n\n3.  **Calculate the average orbital speed (v):**\n    The formula for speed is v = distance / time.\n    v = C / t\n    v = (2.827433388 x 10^12 m) / (70,912,000 s)\n    v = 39872.20 m/s\n\n4.  **Round to an appropriate number of significant figures (e.g., 3 significant figures):**\n    v ≈ 3.99 x 10^4 m/s\n\nTherefore, the correct answer is C.",
+      "hint": "Remember to first convert the orbital period into standard SI units (seconds) and then use the formula for the circumference of a circle to find the total distance travelled in one orbit before calculating speed.",
+      "generatedAt": "2026-04-29T16:38:10.339891"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_003",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Imagine two celestial bodies orbiting the Sun: Earth and a dwarf planet called 'Eris Minor'. The Sun's gravitational pull keeps both in orbit.\n\n**Data for Earth:**\n*   Average orbital radius (distance from the Sun): 1.5 x 10^11 m\n*   Orbital period: 365 days\n\n**Data for Eris Minor:**\n*   Average orbital radius (distance from the Sun): 6.0 x 10^11 m\n*   Orbital period: 1680 days\n\na) State the primary force responsible for keeping both Earth and Eris Minor in their orbits around the Sun. (1 mark)\n\nb) Calculate the average orbital speed of Earth in metres per second (m/s). Show your working, including the formula and unit in your final answer. (4 marks)\n\nc) Calculate the average orbital speed of Eris Minor in metres per second (m/s). Show your working, including the formula and unit in your final answer. (4 marks)\n\nd) Explain why Eris Minor has a significantly longer orbital period than Earth, referencing the forces, distances, and speeds involved. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravitational force / Gravity (1 mark)\n\nb) Calculation for Earth's orbital speed:\nFormula for orbital speed: v = 2πr / T (1 mark)\nConvert period to seconds: T = 365 days × 24 hours/day × 60 minutes/hour × 60 seconds/minute = 31,536,000 s (1 mark for conversion)\nSubstitute values: v = (2 × π × 1.5 × 10^11 m) / 31,536,000 s\nv = 9.4247... × 10^11 m / 31,536,000 s\nv = 29885.8 m/s (or 2.99 × 10^4 m/s to 3 significant figures) (1 mark for answer + 1 mark for unit)\n\nc) Calculation for Eris Minor's orbital speed:\nFormula for orbital speed: v = 2πr / T (1 mark)\nConvert period to seconds: T = 1680 days × 24 hours/day × 60 minutes/hour × 60 seconds/minute = 145,152,000 s (1 mark for conversion)\nSubstitute values: v = (2 × π × 6.0 × 10^11 m) / 145,152,000 s\nv = 3.7699... × 10^12 m / 145,152,000 s\nv = 25972.1 m/s (or 2.60 × 10^4 m/s to 3 significant figures) (1 mark for answer + 1 mark for unit)\n\nd) Explanation for Eris Minor's longer orbital period:\nEris Minor orbits at a much greater distance from the Sun than Earth (6.0 × 10^11 m compared to 1.5 × 10^11 m), so it has a significantly larger orbital circumference to cover. (1 mark for greater distance/circumference)\nBecause it is further away, the gravitational force from the Sun acting on Eris Minor is considerably weaker compared to the force on Earth. (1 mark for weaker gravitational force due to increased distance)\nA weaker gravitational force means the centripetal acceleration required to keep it in orbit is also less, resulting in Eris Minor moving at a slower average orbital speed (as calculated in part c). (1 mark for slower speed/less centripetal acceleration)\nTherefore, Eris Minor takes much longer to complete its orbit because it has to travel a greater distance at a slower speed. (1 mark for linking greater distance + slower speed = longer period)",
+      "explanation": "This question assesses understanding of orbital mechanics by combining fundamental knowledge with calculation and explanation skills. Part (a) tests the basic concept of the force holding celestial bodies in orbit. Parts (b) and (c) require applying the formula for circular speed (v = 2πr / T), which involves calculating the circumference of the orbit and converting the orbital period from days to seconds. This demonstrates an ability to use scientific formulae and manage units. Part (d) demands a multi-step explanation, requiring students to link the concepts of orbital distance, the strength of gravitational force, centripetal acceleration, and ultimately, orbital speed and period. It requires understanding that objects further from the Sun experience a weaker gravitational pull, leading to slower orbital speeds, and despite a larger orbital path, this slower speed results in a significantly longer time to complete an orbit.",
+      "hint": "For parts (b) and (c), remember that the distance travelled in one orbit is the circumference of a circle (2πr), and that time must be converted into seconds for the speed calculation. For part (d), consider how the strength of gravitational force changes with distance and what effect this has on the orbital speed and the time taken to complete an orbit.",
+      "generatedAt": "2026-04-29T16:38:34.237316"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_004",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A new comet, named 'Comet Stellaris', has been observed in our solar system. Scientists have determined that Comet Stellaris follows an elliptical orbit around the Sun. At its closest approach to the Sun (perihelion), its distance is 0.6 AU. At its furthest point (aphelion), its distance is 28 AU.\n\na) Explain why Comet Stellaris travels fastest at perihelion and slowest at aphelion, referring to the principle of conservation of energy. (3 marks)\n\nb) During a particular observation period, Comet Stellaris is at an average distance of 14 AU from the Sun. Calculate its orbital speed at this average distance, assuming a circular orbit for this calculation.\n(Given: Gravitational constant, G = 6.67 x 10^-11 N m^2 kg^-2; Mass of the Sun, M_Sun = 1.99 x 10^30 kg; 1 Astronomical Unit, AU = 1.5 x 10^11 m).\nShow your working clearly and include appropriate units. (5 marks)",
+      "options": [],
+      "correctAnswer": "a) As Comet Stellaris orbits the Sun, its total mechanical energy (sum of kinetic energy and gravitational potential energy) remains constant because gravitational force is a conservative force. At perihelion (the point closest to the Sun), the comet has the lowest gravitational potential energy because it is closest to the Sun's strong gravitational field. To conserve its total energy, its kinetic energy must therefore be at its maximum, resulting in its highest speed. Conversely, at aphelion (the point furthest from the Sun), the comet has the highest gravitational potential energy. Consequently, its kinetic energy must be at its minimum, which means its speed is slowest at this point.\n\nb) Calculation of orbital speed:\n1.  **Convert average distance from AU to metres:**\n    Average distance, r = 14 AU\n    r = 14 * (1.5 x 10^11 m/AU) = 2.1 x 10^12 m\n\n2.  **State the relevant formula by equating gravitational force to centripetal force:**\n    F_g = F_c\n    GMm/r^2 = mv^2/r\n\n3.  **Rearrange the formula to find orbital speed (v):**\n    v^2 = GM/r\n    v = sqrt(GM/r)\n\n4.  **Substitute the given values into the formula:**\n    v = sqrt((6.67 x 10^-11 N m^2 kg^-2 * 1.99 x 10^30 kg) / 2.1 x 10^12 m)\n\n5.  **Calculate the final answer with units:**\n    v = sqrt((1.32733 x 10^20) / (2.1 x 10^12))\n    v = sqrt(6.3206 x 10^7)\n    v = 7950.2 m/s (or 7.95 x 10^3 m/s to 3 significant figures).\n\n    *Final Answer for part b: The orbital speed of Comet Stellaris at an average distance of 14 AU is approximately 7950 m/s (or 7.95 km/s).* ",
+      "explanation": "Part (a) requires an explanation based on the principle of conservation of mechanical energy in an elliptical orbit. Students must understand that total energy (kinetic + potential) is constant and how changes in gravitational potential energy (dependent on distance from the Sun) inversely affect kinetic energy (and thus speed).\n\nPart (b) is a multi-step calculation. First, the student must convert the average distance from Astronomical Units (AU) to SI units (metres). Then, they need to apply the formula for orbital speed, which is derived by equating the gravitational force (Newton's Law of Universal Gravitation, F_g = GMm/r^2) to the centripetal force required for circular motion (F_c = mv^2/r). Rearranging this to solve for v gives v = sqrt(GM/r). Finally, students must substitute the given values, perform the calculation correctly, and state the answer with the appropriate SI unit (m/s). Marks are awarded for each logical step: unit conversion, correct formula/derivation, substitution, and final answer with units.",
+      "hint": "For part (a), consider the relationship between gravitational potential energy and kinetic energy when the total mechanical energy is conserved. For part (b), start by converting the distance to metres. Then, equate the gravitational force (which provides the centripetal force) to the formula for centripetal force, and rearrange to solve for orbital speed (v).",
+      "generatedAt": "2026-04-29T16:38:59.276303"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_005",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A hypothetical exoplanet, 'Aethel', orbits a distant star with characteristics similar to our Sun. Observational data indicates that Aethel has an average orbital radius of 8.0 x 10^12 meters from its star. It is estimated to complete one full orbit in 950 Earth years. For comparison, Earth orbits the Sun at an average radius of 1.5 x 10^11 meters and completes one orbit in 1.0 Earth year.\n\nGiven that 1 Earth year = 3.15 x 10^7 seconds, **calculate** the approximate average orbital speed of exoplanet Aethel in meters per second (m/s). Assume Aethel's orbit is perfectly circular.",
+      "options": [
+        "A) 1.68 x 10^3 m/s",
+        "B) 8.40 x 10^2 m/s",
+        "C) 6.12 x 10^5 m/s",
+        "D) 2.99 x 10^4 m/s"
+      ],
+      "correctAnswer": "A) 1.68 x 10^3 m/s",
+      "explanation": "To calculate the average orbital speed, we need to find the total distance Aethel travels in one orbit and divide it by the time taken for one orbit (its orbital period).\n\n1.  **Convert the orbital period to seconds:**\n    Aethel's orbital period = 950 Earth years\n    Given: 1 Earth year = 3.15 x 10^7 seconds\n    Period (T) = 950 years * (3.15 x 10^7 s/year) = 29925 x 10^6 s = 2.9925 x 10^10 s\n\n2.  **Calculate the orbital distance (circumference):**\n    Aethel's average orbital radius (r) = 8.0 x 10^12 m\n    For a circular orbit, the distance traveled in one orbit is its circumference:\n    Distance (d) = 2 * π * r\n    d = 2 * 3.14159 * (8.0 x 10^12 m) = 5.026544 x 10^13 m\n\n3.  **Calculate the average orbital speed:**\n    Speed (v) = Distance / Time\n    v = (5.026544 x 10^13 m) / (2.9925 x 10^10 s)\n    v = 1680.93 m/s\n\n4.  **Round to an appropriate number of significant figures (e.g., 3 sig figs) and express in standard form:**\n    v ≈ 1.68 x 10^3 m/s",
+      "hint": "Remember to convert the orbital period into seconds first. Then, use the formula for the circumference of a circle (2πr) to find the total distance traveled during one orbit before calculating the speed.",
+      "generatedAt": "2026-04-29T16:39:48.832883"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_006",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "The Earth orbits the Sun with an average orbital radius of 1.50 x 10^11 m and completes one orbit in approximately 3.15 x 10^7 seconds. Mars orbits the Sun with an average orbital radius of 2.28 x 10^11 m and completes one orbit in approximately 5.94 x 10^7 seconds.\n\n**Explain** how the difference in orbital radius affects the orbital speed and orbital period of Mars compared to Earth. Choose the correct statement below that describes this relationship.",
+      "options": [
+        "A. Mars is further from the Sun, experiencing a weaker gravitational force. This weaker force means it travels at a slower average orbital speed, and combined with a larger orbital path, results in a longer orbital period.",
+        "B. Mars is further from the Sun, so it needs to travel a greater distance. Therefore, it must travel faster to complete its orbit in a reasonable time, resulting in a longer period due to the huge distance.",
+        "C. Mars has a longer orbital period simply because its orbital path is much larger than Earth's. The gravitational force does not significantly affect the speed, only the path.",
+        "D. Mars has a longer orbital period, which means it experiences stronger gravitational attraction from the Sun, pulling it along a longer path at a faster speed."
+      ],
+      "correctAnswer": "A. Mars is further from the Sun, experiencing a weaker gravitational force. This weaker force means it travels at a slower average orbital speed, and combined with a larger orbital path, results in a longer orbital period.",
+      "explanation": "To explain the relationship, we need to consider both the gravitational force and the geometry of the orbit. First, we can calculate the average orbital speeds of both planets to confirm the 'slower average orbital speed' aspect:\n\n**1. Calculate Earth's average orbital speed (v_E):**\nFormula: Speed = Distance / Time\nOrbital distance = Circumference = 2πr_E\nOrbital distance = 2π * (1.50 x 10^11 m) = 9.42477 x 10^11 m\nv_E = (9.42477 x 10^11 m) / (3.15 x 10^7 s) = 29920 m/s (or 2.99 x 10^4 m/s)\n\n**2. Calculate Mars' average orbital speed (v_M):**\nFormula: Speed = Distance / Time\nOrbital distance = Circumference = 2πr_M\nOrbital distance = 2π * (2.28 x 10^11 m) = 1.43257 x 10^12 m\nv_M = (1.43257 x 10^12 m) / (5.94 x 10^7 s) = 24117 m/s (or 2.41 x 10^4 m/s)\n\nFrom these calculations, we confirm that Earth travels at a faster average orbital speed than Mars (29.9 km/s vs 24.1 km/s), and Mars has a significantly longer orbital period (5.94 x 10^7 s vs 3.15 x 10^7 s).\n\n**Now, to explain the relationship (Option A):**\n*   **Gravitational Force:** According to Newton's Law of Universal Gravitation, the gravitational force between two objects is inversely proportional to the square of the distance between their centres. Since Mars is further from the Sun than Earth, the gravitational force exerted by the Sun on Mars is significantly weaker.\n*   **Orbital Speed:** A weaker gravitational force means that the Sun's pull on Mars is less strong. This provides a smaller centripetal force and, consequently, a smaller acceleration towards the Sun, leading to a slower average orbital speed for Mars compared to Earth.\n*   **Orbital Period:** Mars has a larger orbital radius, meaning its orbital path (circumference) is longer than Earth's. Combined with its slower average orbital speed, it takes Mars a much longer time to complete one full orbit around the Sun. This results in Mars having a considerably longer orbital period than Earth.\n\nOption A accurately describes this comprehensive relationship between distance, gravitational force, orbital speed, and orbital period.",
+      "hint": "Consider how the strength of gravitational force changes with distance from the Sun, and how both the length of the orbital path and the speed of travel affect the time taken for a complete orbit.",
+      "generatedAt": "2026-04-29T16:40:17.024972"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_007",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "The table below provides orbital data for Earth and Mars, both orbiting the Sun:\n\n| Planet | Average Orbital Radius (m) | Orbital Period (days) |\n| :----- | :------------------------- | :-------------------- |\n| Earth  | 1.50 x 10^11               | 365.25                |\n| Mars   | 2.28 x 10^11               | 687                   |\n\n**(a) State** the name of the primary force that keeps both Earth and Mars in orbit around the Sun. (1 mark)\n\n**(b) Calculate** the average orbital speed of Earth in metres per second (m/s). Show your working. (3 marks)\n\n**(c) Explain**, using scientific principles, how the difference in average orbital radius between Earth and Mars affects their orbital speed and orbital period. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Gravitational force / Gravity**\n\n**(b) Calculation of Earth's average orbital speed:**\n1.  **Convert orbital period (T) to seconds:**\n    T = 365.25 days × 24 hours/day × 60 minutes/hour × 60 seconds/minute\n    T = 31,557,600 seconds\n\n2.  **Use the formula for average orbital speed (v):** v = 2πr / T\n    Where r = average orbital radius = 1.50 x 10^11 m\n    v = (2 × π × 1.50 x 10^11 m) / 31,557,600 s\n    v = (9.42477... x 10^11 m) / 31,557,600 s\n    v ≈ 29864.5 m/s\n\n3.  **Final Answer (to 3 significant figures):** v = 2.99 x 10^4 m/s (or 29900 m/s)\n\n**(c) Explanation of orbital speed and period differences:**\n1.  **Greater Orbital Radius:** Mars orbits at a significantly larger average orbital radius (2.28 x 10^11 m) compared to Earth (1.50 x 10^11 m).\n2.  **Weaker Gravitational Force:** The strength of the gravitational force between two objects decreases with increasing distance between their centres. Therefore, the Sun's gravitational pull on Mars is weaker than its pull on Earth.\n3.  **Slower Orbital Speed:** To maintain a stable orbit at a greater distance, where the gravitational force is weaker, Mars requires a slower average orbital speed than Earth.\n4.  **Longer Orbital Path:** Despite moving slower, Mars also has a much greater circumference to travel for one complete orbit due to its larger radius (circumference = 2πr).\n5.  **Resulting Longer Period:** The combined effect of a slower orbital speed and a significantly longer orbital path means that Mars takes much longer to complete one revolution around the Sun, resulting in its much longer orbital period of 687 days compared to Earth's 365.25 days.",
+      "explanation": "This question assesses multiple advanced GCSE concepts. Part (a) requires recall of the fundamental force responsible for planetary orbits. Part (b) demands a multi-step calculation involving the formula for orbital speed (v=2πr/T), unit conversion from days to seconds, and correct application of significant figures. Part (c) is an application of scientific principles, requiring students to explain the relationship between orbital radius, gravitational force, orbital speed, and orbital period. They must articulate how a greater distance leads to a weaker gravitational force, which in turn affects the required orbital speed for stability, and how this combines with the longer orbital path to determine the orbital period.",
+      "hint": "For part (b), remember to convert the orbital period from days into seconds before using the formula for orbital speed. For part (c), consider how the strength of the Sun's gravitational force changes with distance and how this influences the speed a planet needs to maintain its orbit, as well as the total distance it must travel.",
+      "generatedAt": "2026-04-29T16:40:41.514545"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_008",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "An asteroid, 'Vagabond', is detected orbiting the Sun in a near-circular path. Scientists are studying its trajectory.\nIts average orbital speed is measured as 2.40 x 10^4 m/s.\nIts average orbital radius from the Sun is 4.50 x 10^11 m.\n\na) State the primary force responsible for keeping 'Vagabond' in its orbit around the Sun. (1 mark)\n\nb) Calculate the orbital period of 'Vagabond' in Earth days. Assume 1 Earth day = 86400 seconds. Show your formula, substitution, and final answer with appropriate units. (4 marks)\n\nc) If 'Vagabond' were to lose energy and gradually spiral into a new, stable orbital path with a smaller radius, explain how its average orbital speed would change and the scientific reason for this change. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravitational force (or Gravity). (1 mark)\n\nb) Formula: Orbital speed (v) = (2πr) / Period (T)\nRearranging for T: T = (2πr) / v\nSubstitution: T = (2 * π * 4.50 x 10^11 m) / (2.40 x 10^4 m/s)\nT = (2.827433 x 10^12 m) / (2.40 x 10^4 m/s)\nT = 1.178097 x 10^8 seconds\nConvert to Earth days: T = (1.178097 x 10^8 s) / (86400 s/day)\nT ≈ 1363.54 days (rounded to 2 decimal places).\n(1 mark for formula, 1 mark for substitution, 1 mark for answer in seconds, 1 mark for final answer in days with unit).\n\nc) If 'Vagabond' moved to a smaller orbital radius, its average orbital speed would increase (1 mark). This is because as the asteroid moves closer to the Sun, the gravitational force of attraction between the Sun and 'Vagabond' becomes stronger (1 mark). A stronger gravitational force means a larger centripetal force can be provided by gravity. For a stable orbit, a larger centripetal force is required to keep an object in a tighter (smaller radius) circular path (1 mark), and this larger force at a closer distance results in a faster orbital speed (1 mark).",
+      "explanation": "Part (a) tests knowledge of the fundamental force governing planetary motion. Part (b) requires rearranging the orbital speed formula, performing a multi-step calculation with scientific notation, and converting units. Part (c) demands an explanation of how orbital speed is affected by changes in orbital radius, linking it to the gravitational force and the concept of centripetal force required for stable orbits.",
+      "hint": "For part (b), remember the relationship between orbital speed, the circumference of the orbit (2πr), and the orbital period. For part (c), consider how the strength of gravitational force changes with distance and what effect this has on the object's motion in a stable orbit.",
+      "generatedAt": "2026-04-29T16:41:29.082027"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_009",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Planet X is a newly discovered hypothetical planet orbiting the Sun at an average distance twice that of Earth's average orbital radius. Assume Planet X has the same mass as Earth.\n\na) State how the gravitational force between Planet X and the Sun compares to the gravitational force between Earth and the Sun. (1 mark)\n\nb) Describe how Planet X's orbital period would compare to Earth's orbital period. (2 marks)\n\nc) Explain why Planet X's average orbital speed is slower than Earth's average orbital speed, considering its larger orbital radius. (3 marks)\n\nd) Calculate the average orbital speed of Planet X, given that Earth's average orbital speed is 3.0 x 10^4 m/s and its average orbital radius is 1.5 x 10^11 m. Assume Planet X's orbital period is 8.95 Earth years. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) The gravitational force between Planet X and the Sun would be one quarter (1/4) of the gravitational force between Earth and the Sun. \n\nb) Planet X's orbital period would be significantly longer than Earth's orbital period. According to Kepler's Third Law (T² ∝ r³), if the orbital radius (r) doubles, the period squared (T²) increases by a factor of 2³, which is 8. So, the period (T) increases by a factor of √8 ≈ 2.83. Given in part d) it's 8.95 Earth years, confirming it's much longer. \n\nc) Planet X is at a much greater distance from the Sun (larger orbital radius). This means the gravitational force of attraction from the Sun is significantly weaker (as force is inversely proportional to the square of the distance). Because the gravitational force pulling it towards the Sun is weaker, Planet X does not need to move as fast to maintain a stable orbit, and therefore travels a much longer distance over a much longer period, resulting in a slower average orbital speed.\n\nd) Calculation of average orbital speed for Planet X:\n\n**Step 1: Determine Earth's orbital period (T_E) to establish a baseline.**\nFormula: Orbital speed (v) = 2πr / T  => T = 2πr / v\nEarth's orbital radius (r_E) = 1.5 x 10^11 m\nEarth's orbital speed (v_E) = 3.0 x 10^4 m/s\nT_E = (2 * π * 1.5 x 10^11 m) / (3.0 x 10^4 m/s)\nT_E = 3.14159265 x 10^7 seconds\n\n**Step 2: Determine Planet X's orbital radius (r_X) and period (T_X).**\nPlanet X's orbital radius (r_X) = 2 * r_E = 2 * (1.5 x 10^11 m) = 3.0 x 10^11 m\nPlanet X's orbital period (T_X) = 8.95 Earth years\nT_X = 8.95 * T_E = 8.95 * (3.14159265 x 10^7 s) = 2.8105299 x 10^8 seconds\n\n**Step 3: Calculate Planet X's average orbital speed (v_X).**\nFormula: v_X = 2πr_X / T_X\nv_X = (2 * π * 3.0 x 10^11 m) / (2.8105299 x 10^8 s)\nv_X = 6711.94 m/s\n\n**Answer:** The average orbital speed of Planet X is approximately **6.71 x 10^3 m/s** (or 6710 m/s to 3 significant figures).",
+      "explanation": "This question assesses understanding of gravitational force (inverse square law), Kepler's Third Law (relationship between orbital period and radius), and the calculation of orbital speed using the formula v = 2πr/T. \n\na) The gravitational force (F) between two masses is inversely proportional to the square of the distance (r²) between their centres. If the distance (r) doubles, the force becomes 1/2² = 1/4 as strong.\n\nb) Kepler's Third Law states that the square of a planet's orbital period (T²) is directly proportional to the cube of its average orbital radius (r³). If r doubles, T² increases by a factor of 2³ = 8, so T increases by a factor of √8 ≈ 2.83. This confirms a significantly longer orbital period.\n\nc) A larger orbital radius means a weaker gravitational pull from the Sun. For a stable orbit, the centripetal force required to keep the planet in orbit is provided by gravity. A weaker gravitational force means the planet does not need to move as fast to maintain its curved path, thus resulting in a slower average orbital speed. This slower speed allows it to cover the larger orbital circumference over its much longer orbital period.\n\nd) The calculation is multi-step. First, Earth's orbital period is calculated using its given speed and radius. This value is then used to find Planet X's period (given as 8.95 Earth years). Planet X's radius is found by doubling Earth's radius. Finally, Planet X's orbital speed is calculated using the standard formula v = 2πr/T with its determined radius and period.",
+      "hint": "For part (d), recall that orbital speed (v) is calculated by dividing the circumference of the orbit (2πr) by the orbital period (T). You will need to first calculate Earth's orbital period to determine Planet X's period in seconds before applying the orbital speed formula for Planet X.",
+      "generatedAt": "2026-04-29T16:42:56.476290"
+    },
+    {
+      "id": "s-y5-earth-space_advanced_010",
+      "topicId": "s-y5-earth-space",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Astronomers are tracking Comet Helios, a newly discovered comet with a highly elliptical orbit around the Sun. At its furthest point from the Sun (aphelion), Comet Helios is 8.0 x 10^12 m away. At its closest point (perihelion), it is 2.0 x 10^11 m away. The speed of light in a vacuum is 3.0 x 10^8 m/s.\n\na) State the name of the force responsible for keeping Comet Helios in orbit around the Sun. (1 mark)\n\nb) Calculate the time, in hours, it would take for light from the Sun to reach Comet Helios when the comet is at its aphelion. Show your working. (4 marks)\n\nc) Describe how the gravitational force exerted by the Sun on Comet Helios changes as the comet moves from perihelion to aphelion. (2 marks)\n\nd) Explain how this change in gravitational force affects the orbital speed of Comet Helios as it moves from perihelion to aphelion. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravitational force / Gravity\n\nb) Formula: Time = Distance / Speed\nSubstitution: Time = (8.0 x 10^12 m) / (3.0 x 10^8 m/s)\nCalculation in seconds: Time = 26666.666...\nConversion to hours: Time = 26666.666... s / 3600 s/hour = 7.41 hours (to 2 decimal places)\nAnswer: 7.41 hours\n\nc) As Comet Helios moves from perihelion to aphelion, its distance from the Sun increases. The gravitational force exerted by the Sun on the comet decreases / becomes weaker.\n\nd) As Comet Helios moves from perihelion to aphelion, the gravitational force pulling it towards the Sun becomes weaker. Because the force is weaker, the comet experiences less acceleration towards the Sun and needs a slower speed to maintain its orbit at a greater distance. So, its orbital speed decreases as it moves further away from the Sun towards aphelion.",
+      "explanation": "Part a: The force that attracts objects with mass towards each other, like the Sun and a comet, is called gravitational force or gravity, and it is responsible for maintaining orbits.\nPart b: To find the time taken for light to travel, use the formula Time = Distance / Speed. The distance is given as 8.0 x 10^12 m (aphelion distance) and the speed is the speed of light, 3.0 x 10^8 m/s. The calculation initially yields the time in seconds. To convert this to hours, you must divide the result by 3600 (since there are 60 seconds in a minute and 60 minutes in an hour, 60 x 60 = 3600 seconds in an hour).\nPart c: Gravitational force is inversely proportional to the square of the distance between two objects. Therefore, as the distance between the comet and the Sun increases (from perihelion to aphelion), the gravitational force between them decreases significantly.\nPart d: The orbital speed of an object is related to the gravitational force acting on it. When the gravitational force is weaker (at aphelion), less acceleration is applied to the comet towards the Sun. For a stable orbit, objects moving further away from the central body (where gravity is weaker) must move at a slower speed. This is also a consequence of the conservation of angular momentum in an elliptical orbit.",
+      "hint": "For part b, remember the relationship between distance, speed, and time, and don't forget the unit conversion from seconds to hours. For parts c and d, consider how the strength of gravity changes with distance and what effect this has on the object's motion.",
+      "generatedAt": "2026-04-29T16:43:20.812555"
+    }
+  ]
+}

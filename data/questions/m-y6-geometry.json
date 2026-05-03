@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y6-geometry_beginner_001",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A triangle has three interior angles. Two of the angles measure 65 degrees and 40 degrees. What is the measure of the third angle?",
+      "options": [
+        "75 degrees",
+        "105 degrees",
+        "180 degrees",
+        "25 degrees"
+      ],
+      "correctAnswer": "75 degrees",
+      "explanation": "The sum of the interior angles in any triangle is always 180 degrees. \nFirst, add the two given angles: 65 degrees + 40 degrees = 105 degrees.\nNext, subtract this sum from 180 degrees to find the third angle: 180 degrees - 105 degrees = 75 degrees.\nSo, the measure of the third angle is 75 degrees.",
+      "hint": "Remember the rule about the sum of angles inside a triangle.",
+      "generatedAt": "2026-04-29T17:12:25.846992"
+    },
+    {
+      "id": "m-y6-geometry_beginner_002",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A quadrilateral shape ABCD has four interior angles. Angle A measures 100 degrees, Angle B measures 85 degrees, and Angle C measures 75 degrees. The sum of all four interior angles in any quadrilateral is 360 degrees. What is the size of Angle D?",
+      "options": [
+        "A. 90 degrees",
+        "B. 100 degrees",
+        "C. 110 degrees",
+        "D. 120 degrees"
+      ],
+      "correctAnswer": "B. 100 degrees",
+      "explanation": "1. First, add the measures of the three known angles: 100 degrees + 85 degrees + 75 degrees = 260 degrees.\n2. The question states that the sum of all four interior angles in a quadrilateral is 360 degrees.\n3. To find the size of Angle D, subtract the sum of the known angles from the total sum: 360 degrees - 260 degrees = 100 degrees.\nTherefore, Angle D is 100 degrees.",
+      "hint": "Start by adding the three angle measurements you are given. Then use the total sum for a quadrilateral to find the missing angle.",
+      "generatedAt": "2026-04-29T17:12:41.217282"
+    },
+    {
+      "id": "m-y6-geometry_beginner_003",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A triangle, PQR, is an isosceles triangle. The side PQ is equal in length to the side PR. The angle at Q (angle PQR) measures 72 degrees. What is the measure of the angle at R (angle PRQ)?",
+      "options": [
+        "A. 36 degrees",
+        "B. 54 degrees",
+        "C. 72 degrees",
+        "D. 108 degrees"
+      ],
+      "correctAnswer": "C. 72 degrees",
+      "explanation": "In an isosceles triangle, the angles opposite the equal sides are also equal. \nGiven that side PQ is equal in length to side PR, the angles opposite these sides must be equal.\nThe angle opposite side PR is angle Q (angle PQR).\nThe angle opposite side PQ is angle R (angle PRQ).\nSince angle PQR is given as 72 degrees, angle PRQ must also be 72 degrees.",
+      "hint": "Consider the special properties of an isosceles triangle regarding its equal sides and the angles opposite them.",
+      "generatedAt": "2026-04-29T17:12:51.463401"
+    },
+    {
+      "id": "m-y6-geometry_beginner_004",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A regular polygon has 8 equal sides. All its interior angles are equal and all its exterior angles are equal. Calculate the size of one exterior angle of this polygon. Show your working.",
+      "options": [
+        "30 degrees",
+        "45 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "45 degrees",
+      "explanation": "For any regular polygon, the sum of all its exterior angles is always 360 degrees. To find the size of one exterior angle in a regular polygon, you divide the total sum of exterior angles (360 degrees) by the number of sides (n).\n\nNumber of sides (n) = 8\nSize of one exterior angle = 360 degrees / n\nSize of one exterior angle = 360 degrees / 8\nSize of one exterior angle = 45 degrees.",
+      "hint": "Think about the total sum of the exterior angles for any polygon.",
+      "generatedAt": "2026-04-29T17:13:00.315149"
+    },
+    {
+      "id": "m-y6-geometry_beginner_005",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "In a triangle named PQR, the angle P measures 75 degrees and the angle Q measures 35 degrees. Calculate the size of the angle R.",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "70 degrees",
+      "explanation": "The sum of the interior angles in any triangle is always 180 degrees.\nSo, Angle P + Angle Q + Angle R = 180 degrees.\nWe are given Angle P = 75 degrees and Angle Q = 35 degrees.\nFirst, add the known angles: 75 degrees + 35 degrees = 110 degrees.\nNext, subtract this sum from 180 degrees to find Angle R:\nAngle R = 180 degrees - 110 degrees = 70 degrees.",
+      "hint": "Remember the total number of degrees inside any triangle.",
+      "generatedAt": "2026-04-29T17:13:10.759359"
+    },
+    {
+      "id": "m-y6-geometry_beginner_006",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A flat shape has four straight sides that are all the same length. All four of its interior angles are also equal to each other. What is the size, in degrees, of one interior angle of this shape?",
+      "options": [
+        "45 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "The description 'a flat shape has four straight sides that are all the same length' and 'all four of its interior angles are also equal to each other' precisely defines a square.\n\nA square is a type of quadrilateral, and the sum of the interior angles in any quadrilateral is always 360 degrees.\n\nSince all four interior angles in a square are equal, to find the size of one angle, you divide the total sum of angles by the number of angles (4):\n\n360 degrees / 4 = 90 degrees.\n\nTherefore, one interior angle of this shape is 90 degrees.",
+      "hint": "Consider the name of the specific shape being described by these properties. What do you know about its corners?",
+      "generatedAt": "2026-04-29T17:13:26.350868"
+    },
+    {
+      "id": "m-y6-geometry_beginner_007",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A flat shape has exactly four straight sides. This shape is called a quadrilateral. What is the total sum of the four interior angles of any quadrilateral shape?",
+      "options": [
+        "A) 90 degrees",
+        "B) 180 degrees",
+        "C) 270 degrees",
+        "D) 360 degrees"
+      ],
+      "correctAnswer": "D) 360 degrees",
+      "explanation": "A quadrilateral is any polygon with four straight sides. A fundamental property of all quadrilaterals, regardless of their specific shape (e.g., square, rectangle, rhombus, trapezium), is that the sum of their interior angles always equals 360 degrees. This can be understood by dividing any quadrilateral into two triangles; since each triangle has an angle sum of 180 degrees, the total for two triangles is 2 × 180 = 360 degrees.",
+      "hint": "Think about how many triangles you can split any quadrilateral into, and remember the sum of angles in a single triangle.",
+      "generatedAt": "2026-04-29T17:13:40.830550"
+    },
+    {
+      "id": "m-y6-geometry_beginner_008",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A flat shape has exactly three straight sides. This shape is a triangle. Two of the interior angles in this triangle measure 45 degrees and 65 degrees. What is the size of the third interior angle?",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "70 degrees",
+      "explanation": "The sum of the interior angles in any triangle is always 180 degrees. \nFirst, add the two given angles: 45 degrees + 65 degrees = 110 degrees. \nThen, subtract this sum from 180 degrees to find the third angle: 180 degrees - 110 degrees = 70 degrees. \nTherefore, the third interior angle is 70 degrees.",
+      "hint": "Think about the total sum of angles inside any triangle.",
+      "generatedAt": "2026-04-29T17:13:51.059207"
+    },
+    {
+      "id": "m-y6-geometry_beginner_009",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Consider a triangle named RST. The length of side RS is equal to the length of side ST. The angle at vertex S measures 70 degrees. Calculate the measure of angle R.",
+      "options": [
+        "A. 40 degrees",
+        "B. 55 degrees",
+        "C. 70 degrees",
+        "D. 110 degrees"
+      ],
+      "correctAnswer": "B. 55 degrees",
+      "explanation": "1. In triangle RST, side RS is equal to side ST. This means that triangle RST is an isosceles triangle.\n2. In an isosceles triangle, the angles opposite the equal sides are also equal. The angle opposite side ST is angle R, and the angle opposite side RS is angle T. Therefore, angle R = angle T.\n3. The sum of the interior angles in any triangle is always 180 degrees.\n4. So, Angle R + Angle S + Angle T = 180 degrees.\n5. We are given that Angle S = 70 degrees, and we know that Angle R = Angle T. Substitute these into the equation:\n   Angle R + 70 degrees + Angle R = 180 degrees.\n6. Combine the Angle R terms:\n   2 * Angle R + 70 degrees = 180 degrees.\n7. Subtract 70 degrees from both sides of the equation:\n   2 * Angle R = 180 degrees - 70 degrees\n   2 * Angle R = 110 degrees.\n8. Divide by 2 to find the measure of Angle R:\n   Angle R = 110 degrees / 2\n   Angle R = 55 degrees.",
+      "hint": "Remember two key facts: In an isosceles triangle, two of the angles are equal. Also, the sum of all angles inside any triangle is 180 degrees.",
+      "generatedAt": "2026-04-29T17:14:06.860244"
+    },
+    {
+      "id": "m-y6-geometry_beginner_010",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A quadrilateral has four interior angles. Three of these angles measure 70 degrees, 110 degrees, and 85 degrees. What is the measure of the fourth angle?",
+      "options": [
+        "85 degrees",
+        "90 degrees",
+        "95 degrees",
+        "100 degrees"
+      ],
+      "correctAnswer": "95 degrees",
+      "explanation": "The sum of the interior angles in any quadrilateral is 360 degrees.\nFirst, add the three given angles: 70 + 110 + 85 = 265 degrees.\nNext, subtract this sum from 360 degrees to find the fourth angle: 360 - 265 = 95 degrees.\nTherefore, the measure of the fourth angle is 95 degrees.",
+      "hint": "Remember that the total sum of all interior angles in a quadrilateral is 360 degrees.",
+      "generatedAt": "2026-04-29T17:14:21.881618"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y6-geometry_intermediate_001",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A regular octagon is a polygon with 8 equal sides and 8 equal interior angles. Let this octagon be called ABCDEFGH.\n\nFirst, calculate the size of one interior angle of this regular octagon. You must show your working for this step.\n\nNext, an isosceles triangle, ABX, is built outwards from the side AB of the octagon. This means that point X is outside the octagon, and the sides AX and BX are equal in length.\n\nIf angle XAB is 20 degrees, determine the size of angle AXB, showing all your working for this second step.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the interior angle of a regular octagon.\nA regular octagon has n = 8 sides.\nThe formula for the sum of interior angles of an n-sided polygon is (n-2) * 180 degrees.\nSum of interior angles = (8-2) * 180 = 6 * 180 = 1080 degrees.\nSince it is a regular octagon, all interior angles are equal.\nSize of one interior angle = 1080 / 8 = 135 degrees.\n\nStep 2: Determine angle AXB in isosceles triangle ABX.\nIn triangle ABX, it is given that AX = BX. This means triangle ABX is an isosceles triangle.\nIn an isosceles triangle, the base angles opposite the equal sides are equal.\nTherefore, angle XAB = angle XBA.\nGiven angle XAB = 20 degrees, so angle XBA = 20 degrees.\n\nThe sum of angles in any triangle is 180 degrees.\nSo, angle AXB + angle XAB + angle XBA = 180 degrees.\nAngle AXB + 20 degrees + 20 degrees = 180 degrees.\nAngle AXB + 40 degrees = 180 degrees.\nAngle AXB = 180 - 40 = 140 degrees.\n\nFinal Answer: The interior angle of the regular octagon is 135 degrees. Angle AXB is 140 degrees.",
+      "explanation": "Step 1: Calculate the interior angle of a regular octagon.\nA regular octagon has n = 8 sides. The formula for the sum of interior angles of an n-sided polygon is (n-2) * 180 degrees. So, for an octagon, the sum is (8-2) * 180 = 6 * 180 = 1080 degrees. Since it's a regular octagon, all 8 interior angles are equal, so each angle is 1080 / 8 = 135 degrees.\n\nStep 2: Determine angle AXB in isosceles triangle ABX.\nIn triangle ABX, it is stated that AX = BX, which means it is an isosceles triangle. In an isosceles triangle, the angles opposite the equal sides are also equal. Therefore, angle XAB = angle XBA. Given that angle XAB is 20 degrees, then angle XBA is also 20 degrees.\nThe sum of angles in any triangle is 180 degrees. So, angle AXB + angle XAB + angle XBA = 180 degrees. Substituting the known values: angle AXB + 20 degrees + 20 degrees = 180 degrees. This simplifies to angle AXB + 40 degrees = 180 degrees. Subtracting 40 from 180 gives angle AXB = 140 degrees.",
+      "hint": "For the octagon, remember the formula for the sum of interior angles of an n-sided polygon, or how exterior angles relate to interior angles. For the triangle, recall the properties of an isosceles triangle and the sum of angles in a triangle.",
+      "generatedAt": "2026-04-29T17:15:12.245296"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_002",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A quadrilateral ABCD is formed by joining two triangles, ABD and BCD, along the common side BD.\nIn triangle ABD: Angle DAB is 75 degrees, and Angle ADB is 40 degrees.\nIn triangle BCD: Angle DBC is 50 degrees, and Angle BCD is 105 degrees.\nCalculate the size of the interior angle ABC of the quadrilateral. Show your working clearly.",
+      "options": [
+        "90 degrees",
+        "105 degrees",
+        "115 degrees",
+        "125 degrees"
+      ],
+      "correctAnswer": "115 degrees",
+      "explanation": "To find the interior angle ABC, we need to find the sum of Angle ABD and Angle DBC.\n\nStep 1: Find Angle ABD in triangle ABD.\nWe know that the sum of interior angles in a triangle is 180 degrees.\nAngle ABD = 180 degrees - (Angle DAB + Angle ADB)\nAngle ABD = 180 degrees - (75 degrees + 40 degrees)\nAngle ABD = 180 degrees - 115 degrees\nAngle ABD = 65 degrees.\n\nStep 2: Calculate Angle ABC of the quadrilateral.\nThe interior angle ABC is formed by Angle ABD and Angle DBC.\nAngle ABC = Angle ABD + Angle DBC\nAngle ABC = 65 degrees + 50 degrees\nAngle ABC = 115 degrees.",
+      "hint": "Start by finding the missing angle in triangle ABD. Remember that angles in a triangle add up to 180 degrees.",
+      "generatedAt": "2026-04-29T17:15:30.163325"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_003",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "The sum of the interior angles of a polygon with 'n' sides is calculated using the formula (n-2) multiplied by 180 degrees.\nA regular polygon has all its sides equal in length and all its interior angles equal in size.\n\nConsider a regular pentagon named PQRST. A straight line segment connects vertex P to vertex R, forming a triangle PQR inside the pentagon.\n\nCalculate the size of angle QRP. Show your working clearly, as this is a multi-step problem.",
+      "options": [
+        "A. 108 degrees",
+        "B. 72 degrees",
+        "C. 36 degrees",
+        "D. 54 degrees"
+      ],
+      "correctAnswer": "C. 36 degrees",
+      "explanation": "Step 1: Calculate the sum of interior angles of the regular pentagon.\nFor a pentagon, the number of sides (n) is 5.\nUsing the formula: Sum = (n-2) * 180 = (5-2) * 180 = 3 * 180 = 540 degrees.\n\nStep 2: Calculate the size of one interior angle of the regular pentagon.\nSince it is a regular pentagon, all 5 interior angles are equal.\nEach interior angle = Sum / n = 540 / 5 = 108 degrees.\nTherefore, angle PQR (which is an interior angle of the pentagon) = 108 degrees.\n\nStep 3: Identify the properties of triangle PQR.\nIn a regular pentagon, all sides are equal in length. This means that side PQ and side QR are equal in length. \nWhen two sides of a triangle are equal, it is an isosceles triangle. The angles opposite the equal sides are also equal.\nSo, in triangle PQR, angle QPR = angle QRP.\n\nStep 4: Calculate angle QRP.\nThe sum of angles in any triangle is 180 degrees.\nIn triangle PQR: angle QPR + angle QRP + angle PQR = 180 degrees.\nWe know angle PQR = 108 degrees, and angle QPR = angle QRP.\nLet angle QRP be 'x'. Then angle QPR is also 'x'.\nx + x + 108 = 180\n2x + 108 = 180\n2x = 180 - 108\n2x = 72\nx = 72 / 2\nx = 36 degrees.\nTherefore, the size of angle QRP is 36 degrees.",
+      "hint": "First, use the provided formula to find the sum of the interior angles of the pentagon. Then, calculate the size of one interior angle. Remember how this relates to one of the angles in triangle PQR and what you know about the sides of a regular pentagon.",
+      "generatedAt": "2026-04-29T17:15:54.171520"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_004",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A regular pentagon, PQRST, has all its sides equal in length and all its interior angles equal. An isosceles triangle PQU is joined to the side PQ of the pentagon, such that the side PQ is equal in length to the side PU. The angle QPU within the triangle is 20 degrees. Calculate the size of angle UQR. You must show all your working.",
+      "options": [],
+      "correctAnswer": "Here's the step-by-step working:\n\nStep 1: Calculate the interior angle of a regular pentagon.\nA regular pentagon has 5 equal sides and 5 equal interior angles.\nThe sum of the interior angles of a polygon with 'n' sides is given by the formula (n-2) × 180 degrees.\nFor a pentagon, n = 5.\nSum of interior angles = (5-2) × 180 = 3 × 180 = 540 degrees.\nSince all interior angles are equal, each interior angle of the regular pentagon = 540 / 5 = 108 degrees.\nSo, angle PQR = 108 degrees.\n\nStep 2: Calculate the angles in the isosceles triangle PQU.\nWe are given that triangle PQU is isosceles with PQ = PU. This means the base angles opposite these equal sides are also equal: angle PQU = angle PUQ.\nWe are also given that angle QPU = 20 degrees.\nThe sum of angles in a triangle is 180 degrees.\nSo, angle PQU + angle PUQ + angle QPU = 180.\nSince angle PQU = angle PUQ, we can write:\n2 × angle PQU + 20 = 180\n2 × angle PQU = 180 - 20\n2 × angle PQU = 160\nangle PQU = 160 / 2 = 80 degrees.\n\nStep 3: Calculate angle UQR.\nFrom Step 1, we know that angle PQR, an interior angle of the pentagon, is 108 degrees.\nFrom Step 2, we found that angle PQU is 80 degrees.\nAngle PQR is composed of angle PQU and angle UQR (angle PQU + angle UQR = angle PQR).\nTherefore, angle UQR = angle PQR - angle PQU.\nangle UQR = 108 degrees - 80 degrees.\nangle UQR = 28 degrees.\n\nThe final answer is 28 degrees.",
+      "explanation": "The problem requires two main steps: first, determining the interior angle of the regular pentagon, and second, using the properties of the isosceles triangle to find its relevant angle. Finally, these two calculated angles are used to find the target angle by subtraction. The interior angle of a regular pentagon is found using the formula (n-2) * 180 / n, which gives 108 degrees. For the isosceles triangle PQU, since PQ = PU and the vertex angle QPU is 20 degrees, the base angles (PQU and PUQ) must each be (180 - 20) / 2 = 80 degrees. The angle PQR of the pentagon is 108 degrees. Since angle PQR is made up of angle PQU and angle UQR, we can subtract angle PQU from angle PQR to find angle UQR: 108 - 80 = 28 degrees.",
+      "hint": "Start by calculating the size of an interior angle in a regular pentagon. Then, consider the properties of the isosceles triangle, specifically how its equal sides relate to its equal base angles. Finally, use these findings to work out the required angle by considering how the angles combine at point Q.",
+      "generatedAt": "2026-04-29T17:16:11.916300"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_005",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A quadrilateral ABCD has angle A measuring 90 degrees and angle C measuring 110 degrees. Angle B is an interior angle of a regular pentagon. Calculate the size of angle D. Show your working.",
+      "options": [],
+      "correctAnswer": "First, calculate the interior angle of a regular pentagon. The formula for the interior angle of a regular n-sided polygon is (n-2) × 180 / n.\nFor a regular pentagon, n = 5.\nInterior angle = (5-2) × 180 / 5 = 3 × 180 / 5 = 540 / 5 = 108 degrees.\nSo, Angle B = 108 degrees.\n\nNext, use the sum of interior angles in a quadrilateral. The sum of the interior angles of any quadrilateral is 360 degrees.\nWe have Angle A = 90 degrees, Angle B = 108 degrees, and Angle C = 110 degrees.\nAngle A + Angle B + Angle C + Angle D = 360\n90 + 108 + 110 + Angle D = 360\n308 + Angle D = 360\nAngle D = 360 - 308\nAngle D = 52 degrees.\n\nTherefore, the size of angle D is 52 degrees.",
+      "explanation": "First, calculate the interior angle of a regular pentagon. The formula for the interior angle of a regular n-sided polygon is (n-2) × 180 / n.\nFor a regular pentagon, n = 5.\nInterior angle = (5-2) × 180 / 5 = 3 × 180 / 5 = 540 / 5 = 108 degrees.\nSo, Angle B = 108 degrees.\n\nNext, use the sum of interior angles in a quadrilateral. The sum of the interior angles of any quadrilateral is 360 degrees.\nWe have Angle A = 90 degrees, Angle B = 108 degrees, and Angle C = 110 degrees.\nAngle A + Angle B + Angle C + Angle D = 360\n90 + 108 + 110 + Angle D = 360\n308 + Angle D = 360\nAngle D = 360 - 308\nAngle D = 52 degrees.",
+      "hint": "Remember to first calculate the interior angle of a regular pentagon, and then use the property that the sum of angles in a quadrilateral is 360 degrees.",
+      "generatedAt": "2026-04-29T17:16:28.598728"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_006",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A regular pentagon has all its sides equal in length and all its interior angles equal. One side of this regular pentagon, side AB, is also a side of a quadrilateral ABCD. The interior angle of the regular pentagon at vertex B is the same size as angle ABC within the quadrilateral. Angle BCD in the quadrilateral is 75 degrees, and angle CDA is 120 degrees. Calculate the size of angle DAB in the quadrilateral ABCD. Show your working.",
+      "options": [],
+      "correctAnswer": "57 degrees",
+      "explanation": "Step 1: Calculate the size of one interior angle of a regular pentagon.\nThe formula for the sum of interior angles of a polygon with 'n' sides is (n-2) × 180 degrees.\nFor a regular pentagon, n = 5.\nSum of interior angles = (5-2) × 180 = 3 × 180 = 540 degrees.\nSince all interior angles in a regular pentagon are equal, one interior angle = 540 / 5 = 108 degrees.\nTherefore, angle ABC = 108 degrees.\n\nStep 2: Calculate the missing angle in the quadrilateral ABCD.\nThe sum of the interior angles in any quadrilateral is 360 degrees.\nWe know the following angles in quadrilateral ABCD:\nAngle ABC = 108 degrees (from Step 1)\nAngle BCD = 75 degrees (given)\nAngle CDA = 120 degrees (given)\nAngle DAB = ?\n\nSo, Angle DAB + Angle ABC + Angle BCD + Angle CDA = 360 degrees\nAngle DAB + 108 + 75 + 120 = 360\nAngle DAB + 303 = 360\nAngle DAB = 360 - 303\nAngle DAB = 57 degrees.",
+      "hint": "First, find the measure of one interior angle of a regular pentagon. Then, use the properties of angles in a quadrilateral.",
+      "generatedAt": "2026-04-29T17:16:46.956251"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_007",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A regular octagon has all its sides equal in length and all its interior angles equal. The vertices of the octagon are labelled P, Q, R, S, T, U, V, W in a clockwise order. A triangle is formed by connecting the vertices P, Q, and R. Calculate the size of angle QPR. Show your working clearly.",
+      "options": [
+        "22.5 degrees",
+        "45 degrees",
+        "67.5 degrees",
+        "135 degrees"
+      ],
+      "correctAnswer": "22.5 degrees",
+      "explanation": "1.  **Calculate the interior angle of a regular octagon:**\n    A regular octagon has 8 sides (n=8).\n    The sum of the interior angles of any polygon is given by the formula (n-2) × 180 degrees.\n    For an octagon: (8-2) × 180 = 6 × 180 = 1080 degrees.\n    Since it's a *regular* octagon, all interior angles are equal.\n    Each interior angle = 1080 / 8 = 135 degrees.\n    Therefore, the angle at vertex Q, which is angle PQR, is 135 degrees.\n\n2.  **Use the properties of triangle PQR:**\n    The triangle PQR is formed by connecting three vertices of the regular octagon.\n    Because the octagon is regular, all its sides are equal in length. This means the side PQ is equal in length to the side QR (PQ = QR).\n    If two sides of a triangle are equal, it is an isosceles triangle. In an isosceles triangle, the angles opposite the equal sides are also equal.\n    So, angle QPR must be equal to angle QRP.\n\n    The sum of angles in any triangle is 180 degrees.\n    So, angle QPR + angle QRP + angle PQR = 180 degrees.\n    Let angle QPR = x. Then angle QRP = x.\n    x + x + 135 = 180\n    2x + 135 = 180\n    2x = 180 - 135\n    2x = 45\n    x = 45 / 2\n    x = 22.5 degrees.\n\n    Therefore, the size of angle QPR is 22.5 degrees.",
+      "hint": "First, find the measure of one interior angle of the regular octagon. Then, think about the type of triangle formed by the three given vertices and its properties.",
+      "generatedAt": "2026-04-29T17:17:02.295521"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_008",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A quadrilateral, ABCD, is formed by joining two triangles, ABC and ADC, along the common side AC. Triangle ABC is a right-angled triangle, with the right angle at B. Angle BAC is 40 degrees. Triangle ADC is an isosceles triangle, where side AD is equal in length to side DC. Angle ADC is 100 degrees. Calculate the size of angle BCD. Show your working clearly.",
+      "options": [
+        "70 degrees",
+        "80 degrees",
+        "90 degrees",
+        "100 degrees"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "Step 1: Calculate angle BCA in triangle ABC.\nIn a right-angled triangle ABC, angle B is 90 degrees and angle BAC is 40 degrees. The sum of angles in any triangle is 180 degrees.\nSo, angle BCA = 180 degrees - 90 degrees - 40 degrees = 50 degrees.\n\nStep 2: Calculate angle DCA in triangle ADC.\nIn isosceles triangle ADC, side AD is equal in length to side DC. This means the angles opposite these sides are equal: angle DAC = angle DCA.\nAngle ADC is given as 100 degrees. The sum of angles in any triangle is 180 degrees.\nSo, the sum of angle DAC and angle DCA = 180 degrees - 100 degrees = 80 degrees.\nSince angle DAC = angle DCA, then angle DCA = 80 degrees / 2 = 40 degrees.\n\nStep 3: Calculate angle BCD.\nAngle BCD is made up of the sum of angle BCA and angle DCA.\nAngle BCD = angle BCA + angle DCA = 50 degrees + 40 degrees = 90 degrees.",
+      "hint": "First, use the fact that angles in a triangle sum to 180 degrees to find the missing angles in both triangle ABC and triangle ADC separately. Remember the special properties of right-angled and isosceles triangles.",
+      "generatedAt": "2026-04-29T17:17:40.081858"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_009",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A square, ABCD, has all its internal angles equal. An equilateral triangle, CDE, is attached to the square such that the side CD of the triangle is also a side of the square. Point E is positioned outside the square. What is the size, in degrees, of angle ADE? Show your working.",
+      "options": [
+        "A) 120 degrees",
+        "B) 135 degrees",
+        "C) 150 degrees",
+        "D) 180 degrees"
+      ],
+      "correctAnswer": "C) 150 degrees",
+      "explanation": "1.  A square is a quadrilateral where all internal angles are 90 degrees. Therefore, angle ADC = 90 degrees.\n2.  An equilateral triangle is a regular polygon where all internal angles are equal to 60 degrees. Therefore, angle CDE = 60 degrees.\n3.  Angle ADE is formed by combining the adjacent angles ADC and CDE. Since point E is outside the square, these two angles add up.\n4.  Angle ADE = Angle ADC + Angle CDE = 90 degrees + 60 degrees = 150 degrees.",
+      "hint": "Remember the specific measure of each internal angle in a square and in an equilateral triangle. Consider how these two angles join together to form the requested angle.",
+      "generatedAt": "2026-04-29T17:17:55.531088"
+    },
+    {
+      "id": "m-y6-geometry_intermediate_010",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A regular hexagon, labelled ABCDEF, has an interior angle of 120 degrees. A point G is located inside the hexagon. Triangle ABG is an isosceles triangle with sides AG and BG being equal in length. The angle AGB measures 80 degrees. Calculate the size of angle FBG. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "First, find the angles in triangle ABG. Since triangle ABG is isosceles with AG = BG, the base angles opposite these sides are equal. So, angle GAB = angle GBA.\nThe sum of angles in a triangle is 180 degrees.\nAngle GAB + Angle GBA + Angle AGB = 180 degrees.\nAngle GAB + Angle GBA + 80 degrees = 180 degrees.\n2 * (Angle GBA) = 180 - 80 = 100 degrees.\nAngle GBA = 100 / 2 = 50 degrees.\n\nNext, use the interior angle of the regular hexagon.\nAn interior angle of the regular hexagon ABCDEF, specifically angle ABC, is given as 120 degrees.\n\nAngle ABC is made up of angle GBA and angle FBG.\nAngle ABC = Angle GBA + Angle FBG.\n120 degrees = 50 degrees + Angle FBG.\n\nTo find angle FBG, subtract angle GBA from angle ABC.\nAngle FBG = 120 degrees - 50 degrees = 70 degrees.\n\nTherefore, the size of angle FBG is 70 degrees.",
+      "explanation": "The problem requires two main steps. First, understanding the properties of the isosceles triangle ABG to find its base angles. Since AG = BG and angle AGB is 80 degrees, the other two angles (GAB and GBA) must be equal. As angles in a triangle sum to 180 degrees, each of these base angles is (180 - 80) / 2 = 50 degrees. The second step involves using the given interior angle of the regular hexagon, which is 120 degrees for angle ABC. Since angle ABC is composed of angle GBA and angle FBG, we can subtract the calculated angle GBA (50 degrees) from the total angle ABC (120 degrees) to find angle FBG. So, 120 - 50 = 70 degrees.",
+      "hint": "Start by using the properties of the isosceles triangle ABG to find the angles GAB and GBA. Remember that angles in a triangle sum to 180 degrees and the base angles of an isosceles triangle are equal. Then consider how this angle relates to the interior angle of the regular hexagon.",
+      "generatedAt": "2026-04-29T17:18:15.878424"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y6-geometry_advanced_001",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A quadrilateral ABCD has internal angles Angle A = 95 degrees, Angle B = 105 degrees, and Angle C = 70 degrees. Side AD is extended in a straight line past D to a point E. A point F is located such that triangle DEF is an isosceles triangle where side DE = side EF. The angle DEF is 70 degrees. The point F is on the opposite side of the straight line AE compared to point C. Calculate the size of angle CDF. Show your working.",
+      "options": [
+        "A) 85 degrees",
+        "B) 110 degrees",
+        "C) 145 degrees",
+        "D) 160 degrees"
+      ],
+      "correctAnswer": "C) 145 degrees",
+      "explanation": "Here is the step-by-step working:\n\n1.  **Find Angle ADC in the quadrilateral ABCD:**\n    The sum of the interior angles in any quadrilateral is 360 degrees.\n    Angle A + Angle B + Angle C + Angle ADC = 360 degrees\n    95 degrees + 105 degrees + 70 degrees + Angle ADC = 360 degrees\n    270 degrees + Angle ADC = 360 degrees\n    Angle ADC = 360 degrees - 270 degrees = 90 degrees.\n\n2.  **Find Angle CDE:**\n    The line segment AD is extended to E, making ADE a straight line. Angles on a straight line add up to 180 degrees.\n    Angle ADC + Angle CDE = 180 degrees\n    90 degrees + Angle CDE = 180 degrees\n    Angle CDE = 180 degrees - 90 degrees = 90 degrees.\n\n3.  **Find Angle FDE in the isosceles triangle DEF:**\n    Triangle DEF is isosceles with DE = EF. In an isosceles triangle, the angles opposite the equal sides are equal. So, Angle FDE = Angle DFE.\n    The sum of angles in a triangle is 180 degrees.\n    Angle DEF + Angle FDE + Angle DFE = 180 degrees\n    We know Angle DEF = 70 degrees, and Angle FDE = Angle DFE. Let's call them 'x'.\n    70 degrees + x + x = 180 degrees\n    70 degrees + 2x = 180 degrees\n    2x = 180 degrees - 70 degrees\n    2x = 110 degrees\n    x = 110 degrees / 2 = 55 degrees.\n    So, Angle FDE = 55 degrees.\n\n4.  **Calculate Angle CDF:**\n    The problem states that point F is on the opposite side of the straight line AE (which is the line segment A-D-E) compared to point C. This means that Angle CDE and Angle FDE are adjacent angles that add up to form Angle CDF because they are on opposite sides of the line AE.\n    Angle CDF = Angle CDE + Angle FDE\n    Angle CDF = 90 degrees + 55 degrees\n    Angle CDF = 145 degrees.",
+      "hint": "Remember to use the sum of angles in a quadrilateral, angles on a straight line, and the properties of isosceles triangles to find the required angle step-by-step.",
+      "generatedAt": "2026-04-29T17:19:54.400106"
+    },
+    {
+      "id": "m-y6-geometry_advanced_002",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Consider triangle PQR where the length of side PQ is equal to the length of side PR. The angle at vertex P, Angle QPR, is 40 degrees.\n\nSide QR is extended in a straight line past R to a point S.\n\nA new triangle, PRS, is formed. The angle at vertex P within this new triangle, Angle RPS, is 20 degrees.\n\nCalculate the size of Angle PSR. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step-by-step working is required.\n\n1.  **Find the base angles of triangle PQR:**\n    Since triangle PQR has PQ = PR, it is an isosceles triangle. This means the base angles, Angle PQR and Angle PRQ, are equal.\n    The sum of angles in a triangle is 180 degrees.\n    Angle PQR + Angle PRQ + Angle QPR = 180 degrees\n    Angle PQR + Angle PRQ + 40 degrees = 180 degrees\n    Angle PQR + Angle PRQ = 180 - 40 = 140 degrees\n    Since Angle PQR = Angle PRQ, each base angle is 140 / 2 = 70 degrees.\n    So, Angle PRQ = 70 degrees.\n\n2.  **Find Angle PRS:**\n    The line QRS is a straight line. Angles on a straight line add up to 180 degrees.\n    Angle PRQ + Angle PRS = 180 degrees\n    70 degrees + Angle PRS = 180 degrees\n    Angle PRS = 180 - 70 = 110 degrees.\n\n3.  **Find Angle PSR in triangle PRS:**\n    The sum of angles in triangle PRS is 180 degrees.\n    Angle RPS + Angle PRS + Angle PSR = 180 degrees\n    20 degrees + 110 degrees + Angle PSR = 180 degrees\n    130 degrees + Angle PSR = 180 degrees\n    Angle PSR = 180 - 130 = 50 degrees.\n\nTherefore, Angle PSR is 50 degrees.",
+      "explanation": "The problem requires a multi-step approach involving properties of triangles and angles on a straight line. First, recognise that triangle PQR is isosceles (PQ=PR) to find its base angles. Then use the fact that angles on a straight line sum to 180 degrees to find Angle PRS. Finally, use the sum of angles in triangle PRS to find the required Angle PSR.",
+      "hint": "Start by using the properties of the isosceles triangle PQR to find Angle PRQ. Remember that angles on a straight line add up to 180 degrees.",
+      "generatedAt": "2026-04-29T17:20:09.392584"
+    },
+    {
+      "id": "m-y6-geometry_advanced_003",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A regular hexagon, PQRSTU, has its vertices labelled in order around the shape. You may use the fact that the interior angle of a regular hexagon is 120 degrees.\n\nAn isosceles triangle, RTX, is attached to side RT of the hexagon. The point X is outside the hexagon.\n\nIn triangle RTX, the length of side RT is equal to the length of side RX. The angle at vertex T within triangle RTX, formed by sides RT and TX, is 25 degrees (Angle RTX = 25 degrees).\n\nCalculate the size of angle STX. You must show all your working.",
+      "options": [
+        "135 degrees",
+        "140 degrees",
+        "145 degrees",
+        "150 degrees"
+      ],
+      "correctAnswer": "145 degrees",
+      "explanation": "1.  **Identify angles in the regular hexagon:**\n    *   A regular hexagon has equal interior angles. The size of each interior angle is given as 120 degrees. Therefore, Angle RST (the interior angle at vertex T) = 120 degrees.\n\n2.  **Identify angles in the isosceles triangle RTX:**\n    *   We are given that RT = RX, which means triangle RTX is an isosceles triangle.\n    *   We are given that Angle RTX = 25 degrees. This is the angle at vertex T, formed by sides RT and TX.\n    *   Since RT = RX, the angles opposite these equal sides are also equal. The angle opposite side RT is Angle TXR, and the angle opposite side RX is Angle RTX. So, Angle TXR = Angle RTX = 25 degrees.\n    *   (The third angle in triangle RTX, Angle TRX, would be 180 - 25 - 25 = 130 degrees, but it is not needed for this calculation).\n\n3.  **Calculate angle STX:**\n    *   Consider vertex T. Angle RST is an interior angle of the hexagon (120 degrees). \n    *   Triangle RTX is attached to side RT, and point X is outside the hexagon. This means the angle RTX (25 degrees) extends outwards from the side RT, adjacent to the hexagon's interior angle.\n    *   To find Angle STX, we add the interior angle RST of the hexagon to Angle RTX from the triangle.\n    *   Angle STX = Angle RST + Angle RTX\n    *   Angle STX = 120 degrees + 25 degrees\n    *   Angle STX = 145 degrees.",
+      "hint": "Consider the angles around point T. The angle STX is formed by two lines: one that is a side of the hexagon (ST) and one that is a side of the attached triangle (TX). Think about how the interior angle of the hexagon and the angle of the attached triangle combine at vertex T when the triangle is 'outside' the hexagon.",
+      "generatedAt": "2026-04-29T17:20:46.351330"
+    },
+    {
+      "id": "m-y6-geometry_advanced_004",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A regular pentagon, ABCDE, has its vertices labelled in order around the shape. \nSide AB is also one side of an isosceles triangle ABF, where F is a point outside the pentagon. The lengths AF and BF are equal. The angle AFB is 36 degrees.\nSide BC is also one side of a quadrilateral BCXG, where X and G are points outside the pentagon. The internal angles BCX, CXG, and XGC are in the ratio 2:3:4. The sum of these three angles is 270 degrees.\n\nCalculate the difference between angle FAB and angle BGC. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate angle FAB from the isosceles triangle ABF.\nIn isosceles triangle ABF, since AF = BF, the angles opposite these sides are equal: angle FAB = angle FBA.\nThe sum of angles in a triangle is 180 degrees.\nSo, Angle FAB + Angle FBA + Angle AFB = 180 degrees.\n2 × Angle FAB + 36 degrees = 180 degrees.\n2 × Angle FAB = 180 - 36 = 144 degrees.\nAngle FAB = 144 / 2 = 72 degrees.\n\nStep 2: Calculate angle BGC from the quadrilateral BCXG.\nThe internal angles BCX, CXG, and XGC are in the ratio 2:3:4. Their sum is 270 degrees.\nLet the angles be represented by 2k, 3k, and 4k.\nAdding these parts: 2k + 3k + 4k = 9k.\nWe know 9k = 270 degrees.\nSo, k = 270 / 9 = 30 degrees.\nNow we can find the measure of each angle:\nAngle BCX = 2 × 30 = 60 degrees.\nAngle CXG = 3 × 30 = 90 degrees.\nAngle XGC = 4 × 30 = 120 degrees.\nThe question asks for angle BGC, which is the angle XGC, so Angle BGC = 120 degrees.\n\nStep 3: Calculate the difference between angle FAB and angle BGC.\nDifference = Angle BGC - Angle FAB\nDifference = 120 degrees - 72 degrees = 48 degrees.\n\nThe difference between angle FAB and angle BGC is 48 degrees.",
+      "explanation": "This problem requires combining knowledge of angle properties in different shapes. First, we determine angle FAB from the isosceles triangle ABF. Since AF=BF, angle FAB and angle FBA are equal. Using the sum of angles in a triangle (180 degrees), we subtract the given angle AFB (36 degrees) from 180, and then divide by 2 to find angle FAB = 72 degrees. \nNext, we find angle BGC from the quadrilateral BCXG. We are given the ratio of three internal angles (BCX, CXG, XGC) as 2:3:4 and their sum as 270 degrees. By setting the angles as 2k, 3k, and 4k, their sum is 9k. Solving 9k = 270 gives k = 30. Angle BGC corresponds to angle XGC, which is 4k, so BGC = 4 * 30 = 120 degrees. \nFinally, we calculate the difference between angle BGC (120 degrees) and angle FAB (72 degrees), which is 120 - 72 = 48 degrees.",
+      "hint": "Remember the properties of isosceles triangles (base angles are equal) and how to use ratios to find individual angle measures when their sum is known. The sum of angles in a triangle is 180 degrees. While not directly needed for the final answer, recalling the interior angle formula for a regular polygon can be useful in related problems.",
+      "generatedAt": "2026-04-29T17:21:11.582122"
+    },
+    {
+      "id": "m-y6-geometry_advanced_005",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Four points, P, Q, R, and S, are arranged around a central point O. The angles formed at the central point O are Angle POQ, Angle QOR, Angle ROS, and Angle SOP. \n\nAngle POQ is 75 degrees.\n\nTriangle QOR is an isosceles triangle with sides OQ and OR being equal in length. Angle OQR (the angle at Q inside this triangle) is 60 degrees.\n\nTriangle ROS is an equilateral triangle.\n\nFind the size of angle SOP. You must show all your working.",
+      "options": [],
+      "correctAnswer": "The sum of angles around a central point O is 360 degrees.\n\n1.  **Calculate Angle QOR:**\n    In isosceles triangle QOR, with OQ = OR, the angles opposite these sides (the base angles) are equal. So, Angle OQR = Angle ORQ.\n    Given that Angle OQR = 60 degrees, then Angle ORQ is also 60 degrees.\n    The sum of angles in a triangle is 180 degrees.\n    Angle QOR = 180 degrees - (Angle OQR + Angle ORQ) = 180 - (60 + 60) = 180 - 120 = 60 degrees.\n    (As all angles are 60 degrees, triangle QOR is an equilateral triangle, which confirms our calculation).\n\n2.  **Calculate Angle ROS:**\n    Triangle ROS is an equilateral triangle. All internal angles in an equilateral triangle are 60 degrees.\n    So, Angle ROS = 60 degrees.\n\n3.  **Calculate Angle SOP:**\n    The sum of all angles around the central point O is 360 degrees.\n    Angle POQ + Angle QOR + Angle ROS + Angle SOP = 360 degrees.\n    Substitute the known values:\n    75 degrees + 60 degrees + 60 degrees + Angle SOP = 360 degrees.\n    195 degrees + Angle SOP = 360 degrees.\n    Angle SOP = 360 - 195 = 165 degrees.\n\nTherefore, the size of angle SOP is 165 degrees.",
+      "explanation": "First, we need to find the sizes of Angle QOR and Angle ROS.\n\n1.  **Angle QOR:** Triangle QOR is isosceles with OQ = OR and Angle OQR = 60 degrees. In an isosceles triangle, the base angles (angles opposite the equal sides) are equal, so Angle ORQ is also 60 degrees. The sum of angles in a triangle is 180 degrees, so Angle QOR = 180 - (60 + 60) = 180 - 120 = 60 degrees.\n\n2.  **Angle ROS:** Triangle ROS is an equilateral triangle. All angles in an equilateral triangle are 60 degrees. So, Angle ROS = 60 degrees.\n\n3.  **Angle SOP:** The angles around a central point sum to 360 degrees. We have Angle POQ = 75 degrees, Angle QOR = 60 degrees, and Angle ROS = 60 degrees. To find Angle SOP, we subtract the sum of these angles from 360 degrees:\n    Angle SOP = 360 - (Angle POQ + Angle QOR + Angle ROS)\n    Angle SOP = 360 - (75 + 60 + 60)\n    Angle SOP = 360 - 195\n    Angle SOP = 165 degrees.",
+      "hint": "Remember that angles in a triangle sum to 180 degrees, and angles around a point sum to 360 degrees. Also recall the properties of isosceles and equilateral triangles.",
+      "generatedAt": "2026-04-29T17:21:49.939946"
+    },
+    {
+      "id": "m-y6-geometry_advanced_006",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Consider a regular pentagon named PQRST, with its vertices labelled in order around the shape. All five sides of the pentagon are equal in length, and all five internal angles are equal.\nA line segment is drawn connecting vertex P to vertex R. Another line segment is drawn connecting vertex R to vertex T. These two line segments, PR and RT, meet at vertex R.\nWhat is the size of the angle formed at vertex R, inside the triangle PRT? In other words, what is the size of angle PRT?\nYou must show your working out to receive full marks.",
+      "options": [
+        "72 degrees",
+        "108 degrees",
+        "36 degrees",
+        "54 degrees"
+      ],
+      "correctAnswer": "36 degrees",
+      "explanation": "Step 1: Calculate the sum of interior angles of a regular pentagon.\nA pentagon has 5 sides. The sum of interior angles is given by the formula (n-2) * 180 degrees, where n is the number of sides.\nFor a pentagon, Sum = (5-2) * 180 = 3 * 180 = 540 degrees.\n\nStep 2: Calculate the size of one interior angle of the regular pentagon.\nSince the pentagon is regular, all its interior angles are equal.\nEach interior angle = Sum / 5 = 540 / 5 = 108 degrees.\nSo, angle PQR = angle QRS = angle RST = angle STP = angle TPQ = 108 degrees.\n\nStep 3: Consider the triangle PQR.\nSince PQRST is a regular pentagon, the side lengths PQ and QR are equal. This means triangle PQR is an isosceles triangle.\nThe angle at vertex Q, angle PQR, is an interior angle of the pentagon, so angle PQR = 108 degrees.\nIn an isosceles triangle, the base angles are equal. So, angle QPR = angle QRP.\nThe sum of angles in a triangle is 180 degrees.\nAngle QPR + Angle QRP + Angle PQR = 180 degrees.\n2 * Angle QRP + 108 = 180 degrees.\n2 * Angle QRP = 180 - 108 = 72 degrees.\nAngle QRP = 72 / 2 = 36 degrees.\n\nStep 4: Consider the triangle RST.\nSimilarly, since PQRST is a regular pentagon, the side lengths RS and ST are equal. This means triangle RST is an isosceles triangle.\nThe angle at vertex S, angle RST, is an interior angle of the pentagon, so angle RST = 108 degrees.\nIn an isosceles triangle, the base angles are equal. So, angle SRT = angle STR.\nThe sum of angles in a triangle is 180 degrees.\nAngle SRT + Angle STR + Angle RST = 180 degrees.\n2 * Angle SRT + 108 = 180 degrees.\n2 * Angle SRT = 180 - 108 = 72 degrees.\nAngle SRT = 72 / 2 = 36 degrees.\n\nStep 5: Calculate angle PRT.\nThe full interior angle at vertex R is angle QRS, which is 108 degrees.\nAngle QRS is made up of three smaller angles: angle QRP, angle PRT, and angle SRT.\nSo, Angle QRS = Angle QRP + Angle PRT + Angle SRT.\nWe know Angle QRS = 108 degrees, Angle QRP = 36 degrees, and Angle SRT = 36 degrees.\n108 = 36 + Angle PRT + 36.\n108 = 72 + Angle PRT.\nAngle PRT = 108 - 72.\nAngle PRT = 36 degrees.",
+      "hint": "Start by finding the size of an interior angle of a regular pentagon. Then, consider the isosceles triangles formed by the sides and the line segments PR and RT.",
+      "generatedAt": "2026-04-29T17:22:14.676865"
+    },
+    {
+      "id": "m-y6-geometry_advanced_007",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Consider a regular pentagon, ABCDE, with its vertices labelled in clockwise order. All side lengths of the pentagon are equal. Point F is located inside the pentagon such that triangle ABF is an equilateral triangle. This means all sides of triangle ABF are equal and all its angles are 60 degrees.\n\nCalculate the size of angle EFA. You must show your working.",
+      "options": [
+        "48 degrees",
+        "60 degrees",
+        "66 degrees",
+        "108 degrees"
+      ],
+      "correctAnswer": "66 degrees",
+      "explanation": "1.  **Calculate the interior angle of the regular pentagon:**\n    A regular pentagon can be divided into 3 triangles from one vertex. The sum of angles in these 3 triangles is 3 × 180° = 540°.\n    Since all 5 interior angles of a regular pentagon are equal, each interior angle is 540° ÷ 5 = 108°.\n    So, angle EAB = 108°.\n\n2.  **Use the properties of the equilateral triangle ABF:**\n    Since triangle ABF is an equilateral triangle, all its angles are 60°.\n    So, angle FAB = 60°.\n\n3.  **Calculate angle FAE:**\n    Angle FAE is part of the pentagon's interior angle EAB. We can find it by subtracting angle FAB from angle EAB:\n    Angle FAE = Angle EAB - Angle FAB = 108° - 60° = 48°.\n\n4.  **Identify isosceles triangle AFE:**\n    All sides of a regular pentagon are equal in length. So, side EA = side AB.\n    All sides of an equilateral triangle are equal in length. So, side AB = side FA.\n    Therefore, EA = FA. This means triangle AFE is an isosceles triangle.\n\n5.  **Calculate the base angles of isosceles triangle AFE:**\n    In an isosceles triangle, the angles opposite the equal sides are equal. So, angle AEF = angle AFE.\n    The sum of angles in triangle AFE is 180°.\n    Angle AFE = (180° - Angle FAE) ÷ 2\n    Angle AFE = (180° - 48°) ÷ 2\n    Angle AFE = 132° ÷ 2\n    Angle AFE = 66°.\n\nTherefore, the size of angle EFA is 66 degrees.",
+      "hint": "Start by finding the interior angle of the regular pentagon, and then use the properties of the equilateral triangle to find another useful angle.",
+      "generatedAt": "2026-04-29T17:22:36.925152"
+    },
+    {
+      "id": "m-y6-geometry_advanced_008",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A quadrilateral ABCD has its vertices labelled in clockwise order. Remember that the sum of the interior angles in any quadrilateral is 360 degrees. Angle DAB is 90 degrees, angle ABC is 100 degrees, and angle BCD is 80 degrees.\nAn isosceles triangle CDE is attached to the side CD of the quadrilateral, such that point E is outside the quadrilateral. In triangle CDE, side CD is equal in length to side DE.\nThe line segment CE forms an angle of 25 degrees with the line segment BC, meaning angle BCE is 25 degrees.\nCalculate the size of angle CDE. You must show all your working.",
+      "options": [],
+      "correctAnswer": "The size of angle CDE is 70 degrees.\n\n**Step 1: Find angle ADC in quadrilateral ABCD.**\nThe sum of interior angles in a quadrilateral is 360 degrees.\nAngle DAB + Angle ABC + Angle BCD + Angle ADC = 360°\n90° + 100° + 80° + Angle ADC = 360°\n270° + Angle ADC = 360°\nAngle ADC = 360° - 270°\nAngle ADC = 90°\n\n**Step 2: Find angle DCE.**\nAngle BCD is given as 80 degrees.\nAngle BCE is given as 25 degrees.\nSince point E is outside the quadrilateral and triangle CDE is attached to side CD, angle DCE is part of angle BCD.\nAngle DCE = Angle BCD - Angle BCE\nAngle DCE = 80° - 25°\nAngle DCE = 55°\n\n**Step 3: Find angle CDE in isosceles triangle CDE.**\nIn triangle CDE, side CD is equal in length to side DE. This means it is an isosceles triangle.\nIn an isosceles triangle, the base angles opposite the equal sides are equal.\nSo, Angle DEC = Angle DCE.\nAngle DEC = 55°.\nThe sum of interior angles in any triangle is 180 degrees.\nAngle CDE + Angle DCE + Angle DEC = 180°\nAngle CDE + 55° + 55° = 180°\nAngle CDE + 110° = 180°\nAngle CDE = 180° - 110°\nAngle CDE = 70°",
+      "explanation": "This question requires combining several angle properties. First, use the fact that the sum of angles in a quadrilateral is 360 degrees to find the missing angle in ABCD. Then, use the given angle BCE and the calculated angle BCD to find angle DCE. Finally, apply the properties of an isosceles triangle (equal base angles) and the sum of angles in a triangle (180 degrees) to find angle CDE.",
+      "hint": "",
+      "generatedAt": "2026-04-29T17:23:07.247259"
+    },
+    {
+      "id": "m-y6-geometry_advanced_009",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Consider a regular hexagon. All its six sides are of equal length, and all its six interior angles are of equal size. The vertices are labelled A, B, C, D, E, F, in a sequence around the shape. Imagine a point O at the very centre of the hexagon. Straight lines connect O to each vertex, dividing the hexagon into six identical equilateral triangles. For example, triangle OAB is an equilateral triangle. A long straight line segment, BE, connects vertex B to vertex E, passing directly through the centre point O. Calculate the size of angle CBE. Show your working clearly.",
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "60 degrees",
+      "explanation": "Here is a step-by-step guide to calculate angle CBE, showing your working:\n\n1.  **Understand the properties of the central triangles in a regular hexagon:**\n    The question states that a regular hexagon can be divided into six identical equilateral triangles by drawing lines from the centre point O to each vertex. This means that triangle OBC is one of these equilateral triangles.\n\n2.  **Recall the properties of an equilateral triangle:**\n    In an equilateral triangle, all three sides are equal in length, and all three interior angles are equal. Since the sum of angles in any triangle is 180 degrees, each angle in an equilateral triangle is 180 ÷ 3 = 60 degrees.\n\n3.  **Identify the relevant angle in triangle OBC:**\n    In the equilateral triangle OBC, the angle at vertex B (angle OBC) is 60 degrees.\n\n4.  **Connect the line segment BE to the angle you need to find:**\n    The problem tells us that the line segment BE connects vertex B to vertex E and passes directly through the centre point O. This means that points B, O, and E all lie on a single straight line. The angle CBE is formed by the line segment CB and the line segment BE. Since O lies on BE, the line segment BO is a part of the line segment BE.\n\n5.  **Determine angle CBE:**\n    Because BO is part of the straight line BE, the angle CBE is the same as the angle CBO (which is the same as angle OBC). Since we found that angle OBC is 60 degrees (from Step 3), the size of angle CBE is also 60 degrees.\n\nTherefore, angle CBE = 60 degrees.",
+      "hint": "Focus on the triangles formed by the centre of the hexagon and its vertices. Remember the properties of equilateral triangles.",
+      "generatedAt": "2026-04-29T17:23:47.407408"
+    },
+    {
+      "id": "m-y6-geometry_advanced_010",
+      "topicId": "m-y6-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A square ABCD has its vertices labelled in clockwise order. An equilateral triangle BCE is constructed on side BC, such that point E is outside the square. Calculate the size of angle ADE. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To calculate angle ADE, we follow these steps:\n\n**Step 1: Understand the properties of the square.**\nA square has four equal sides and four equal interior angles, each measuring 90 degrees.\nTherefore:\n*   AB = BC = CD = DA\n*   Angle ABC = Angle BCD = Angle CDA = Angle DAB = 90 degrees.\n\n**Step 2: Understand the properties of the equilateral triangle.**\nAn equilateral triangle has three equal sides and three equal interior angles, each measuring 60 degrees.\nTherefore:\n*   BC = CE = EB\n*   Angle BCE = Angle CEB = Angle EBC = 60 degrees.\n\n**Step 3: Identify equal side lengths and form new triangles.**\nFrom Step 1, we know CD = BC.\nFrom Step 2, we know BC = CE.\nThis means that CD = CE. This tells us that triangle CDE is an isosceles triangle.\n\n**Step 4: Calculate angle DCE.**\nAngle BCD is an angle of the square, so Angle BCD = 90 degrees.\nAngle BCE is an angle of the equilateral triangle, so Angle BCE = 60 degrees.\nSince point E is constructed outside the square, angle DCE is the sum of angle BCD and angle BCE.\nAngle DCE = Angle BCD + Angle BCE = 90 degrees + 60 degrees = 150 degrees.\n\n**Step 5: Calculate the base angles of the isosceles triangle CDE.**\nIn isosceles triangle CDE, we know CD = CE, so the angles opposite these sides are equal: Angle CDE = Angle CED.\nThe sum of angles in any triangle is 180 degrees.\nSo, Angle CDE + Angle CED + Angle DCE = 180 degrees.\n2 * Angle CDE + 150 degrees = 180 degrees.\n2 * Angle CDE = 180 degrees - 150 degrees = 30 degrees.\nAngle CDE = 30 degrees / 2 = 15 degrees.\n\n**Step 6: Calculate angle ADE.**\nAngle CDA is an angle of the square, so Angle CDA = 90 degrees.\nWe found Angle CDE = 15 degrees.\nAngle ADE is the difference between Angle CDA and Angle CDE.\nAngle ADE = Angle CDA - Angle CDE = 90 degrees - 15 degrees = 75 degrees.\n\nTherefore, the size of angle ADE is 75 degrees.",
+      "explanation": "This question requires combining knowledge of the properties of squares, equilateral triangles, and isosceles triangles, along with the rule that angles in a triangle sum to 180 degrees. The key steps involve finding the measure of the reflex angle formed by the square and the equilateral triangle (Angle DCE), using this to determine the base angles of the resulting isosceles triangle (CDE), and then subtracting this from the square's corner angle (Angle CDA) to find the final answer.",
+      "hint": "Start by identifying all known angle and side properties of the square and the equilateral triangle. Look for any new isosceles triangles that are formed by combining the shapes, especially those sharing a side.",
+      "generatedAt": "2026-04-29T17:24:36.074556"
+    }
+  ]
+}

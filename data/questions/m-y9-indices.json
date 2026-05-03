@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-indices_beginner_001",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `m^4 * m^2`.",
+      "options": [
+        "m^8",
+        "m^6",
+        "m^2",
+        "2m^6"
+      ],
+      "correctAnswer": "m^6",
+      "explanation": "When multiplying terms with the same base, you add their powers. \nHere, the base is 'm' and the powers are '4' and '2'.\nSo, m^4 * m^2 = m^(4+2) = m^6.",
+      "hint": "Recall the first law of indices: When multiplying powers with the same base, what operation do you perform on the exponents?",
+      "generatedAt": "2026-04-30T17:31:39.710491"
+    },
+    {
+      "id": "m-y9-indices_beginner_002",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `(p^5)^3`.",
+      "options": [
+        "p^8",
+        "p^15",
+        "3p^5",
+        "p^(5/3)"
+      ],
+      "correctAnswer": "p^15",
+      "explanation": "When you have a power raised to another power, you multiply the exponents together. In this expression, `(p^5)^3`, the exponent 5 is multiplied by the exponent 3. \nSo, `p^(5 * 3) = p^15`.",
+      "hint": "Recall the law of indices that states: `(a^m)^n = a^(m*n)`.",
+      "generatedAt": "2026-04-30T17:31:47.377746"
+    },
+    {
+      "id": "m-y9-indices_beginner_003",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `y^8 ÷ y^3`.",
+      "options": [
+        "y^11",
+        "y^5",
+        "y^24",
+        "y^6"
+      ],
+      "correctAnswer": "y^5",
+      "explanation": "When dividing terms with the same base, you subtract the exponents (powers). \nSo, for the expression `y^8 ÷ y^3`, we subtract the powers: `8 - 3 = 5`. \nTherefore, the simplified expression is `y^5`.",
+      "hint": "Recall the rule for dividing powers with the same base.",
+      "generatedAt": "2026-04-30T17:31:53.933485"
+    },
+    {
+      "id": "m-y9-indices_beginner_004",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `(4x^3)^2`.",
+      "options": [
+        "8x^5",
+        "16x^5",
+        "16x^6",
+        "8x^6"
+      ],
+      "correctAnswer": "16x^6",
+      "explanation": "To simplify `(4x^3)^2`, you need to apply the outside power (2) to both the numerical coefficient (4) and the variable term (x^3):\n\n1.  **For the coefficient:** `4^2 = 4 * 4 = 16`.\n2.  **For the variable term:** `(x^3)^2`. When you raise a power to another power, you multiply the indices. So, `3 * 2 = 6`, which gives `x^6`.\n\nCombine these results: `16x^6`.",
+      "hint": "Remember that when you have a term like `(ab)^n`, the power `n` applies to both `a` and `b`. Also, recall the rule for `(x^m)^n`.",
+      "generatedAt": "2026-04-30T17:32:07.113368"
+    },
+    {
+      "id": "m-y9-indices_beginner_005",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "What is the value of the expression `(12xyz)^0`?",
+      "options": [
+        "0",
+        "1",
+        "12",
+        "12xyz"
+      ],
+      "correctAnswer": "1",
+      "explanation": "The law of indices states that any non-zero base raised to the power of zero is equal to 1. In this case, the entire expression `12xyz` is raised to the power of 0. Therefore, `(12xyz)^0 = 1`.",
+      "hint": "Recall the special rule for any number or expression raised to the power of zero.",
+      "generatedAt": "2026-04-30T17:32:16.768248"
+    },
+    {
+      "id": "m-y9-indices_beginner_006",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Given the equation `m^x * m^7 = m^12`, where `m` is a non-zero number, what is the value of `x`?",
+      "options": [
+        "A) 5",
+        "B) 7",
+        "C) 12",
+        "D) 19"
+      ],
+      "correctAnswer": "A) 5",
+      "explanation": "The law of indices states that when multiplying powers with the same base, you add the exponents. \nSo, `m^x * m^7` can be written as `m^(x+7)`. \nWe are given the equation `m^x * m^7 = m^12`. \nTherefore, we can set the exponents equal to each other:\n`x + 7 = 12`\nTo find the value of `x`, subtract 7 from both sides of the equation:\n`x = 12 - 7`\n`x = 5`",
+      "hint": "Recall the rule for multiplying powers with the same base: you add the exponents.",
+      "generatedAt": "2026-04-30T17:32:31.920141"
+    },
+    {
+      "id": "m-y9-indices_beginner_007",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `3^4 * 3^2`, leaving your answer in index form.",
+      "options": [
+        "3^6",
+        "3^8",
+        "9^6",
+        "6^6"
+      ],
+      "correctAnswer": "3^6",
+      "explanation": "When multiplying powers with the same base, you add the indices (exponents). In this case, the base is 3, and the indices are 4 and 2. \nSo, `3^4 * 3^2 = 3^(4+2) = 3^6`.",
+      "hint": "Recall the law of indices for multiplying powers with the same base.",
+      "generatedAt": "2026-04-30T17:32:40.888556"
+    },
+    {
+      "id": "m-y9-indices_beginner_008",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `(a^5)^3`.",
+      "options": [
+        "a^8",
+        "a^15",
+        "a^125",
+        "3a^5"
+      ],
+      "correctAnswer": "a^15",
+      "explanation": "When raising a power to another power, you multiply the indices (the exponents). In this expression, `(a^5)^3`, you multiply the powers 5 and 3 together. So, `5 * 3 = 15`. Therefore, the simplified expression is `a^15`.",
+      "hint": "Remember the law of indices for when a power is raised to another power.",
+      "generatedAt": "2026-04-30T17:32:50.860931"
+    },
+    {
+      "id": "m-y9-indices_beginner_009",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Simplify the expression `k^8 / k^2`. Give your answer in index form.",
+      "options": [
+        "k^10",
+        "k^4",
+        "k^6",
+        "k^16"
+      ],
+      "correctAnswer": "k^6",
+      "explanation": "To simplify an expression when dividing terms with the same base, you subtract the exponents (powers).\nSo, `k^8 / k^2 = k^(8-2) = k^6`.",
+      "hint": "Recall the law of indices for division. What operation should you perform on the exponents when the bases are the same?",
+      "generatedAt": "2026-04-30T17:32:59.595647"
+    },
+    {
+      "id": "m-y9-indices_beginner_010",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "What is the value of 6 raised to the power of -2?",
+      "options": [
+        "A) -36",
+        "B) 12",
+        "C) 1/12",
+        "D) 1/36"
+      ],
+      "correctAnswer": "D) 1/36",
+      "explanation": "The law of indices states that for any non-zero number 'a' and any positive integer 'n', a raised to the power of -n is equal to 1 divided by a raised to the power of n. \nSo, a⁻ⁿ = 1/aⁿ.\n\nIn this question, a = 6 and n = 2.\nTherefore, 6⁻² = 1 / 6².\n\nFirst, calculate 6²:\n6² = 6 × 6 = 36.\n\nNow substitute this back into the expression:\n6⁻² = 1 / 36.\n\nSo, the value of 6 raised to the power of -2 is 1/36.",
+      "hint": "Recall the law of indices for negative powers. How do you convert a term with a negative exponent into a fraction with a positive exponent?",
+      "generatedAt": "2026-04-30T17:33:09.078785"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-indices_intermediate_001",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Simplify the following expression, giving your answer in the form a^n:\n\n(9^4 * 3^7) / 27^3\n\nShow your working clearly.",
+      "options": [
+        "3^4",
+        "3^6",
+        "3^7",
+        "3^9"
+      ],
+      "correctAnswer": "3^6",
+      "explanation": "To simplify the expression, we need to convert all numbers to the same base, which is 3 in this case.\n\n1.  **Convert 9^4 to base 3:**\n    Since 9 can be written as 3^2, we can rewrite 9^4 as (3^2)^4.\n    Using the power of a power rule, (a^m)^n = a^(m*n):\n    (3^2)^4 = 3^(2 * 4) = 3^8\n\n2.  **Convert 27^3 to base 3:**\n    Since 27 can be written as 3^3, we can rewrite 27^3 as (3^3)^3.\n    Using the power of a power rule, (a^m)^n = a^(m*n):\n    (3^3)^3 = 3^(3 * 3) = 3^9\n\n3.  **Substitute these back into the original expression:**\n    The expression now becomes (3^8 * 3^7) / 3^9\n\n4.  **Simplify the multiplication in the numerator:**\n    Using the multiplication rule of indices, a^m * a^n = a^(m+n):\n    3^8 * 3^7 = 3^(8 + 7) = 3^15\n\n5.  **Perform the division:**\n    The expression is now 3^15 / 3^9\n    Using the division rule of indices, a^m / a^n = a^(m-n):\n    3^15 / 3^9 = 3^(15 - 9) = 3^6\n\nTherefore, the simplified expression is 3^6.",
+      "hint": "First, express all the numbers (9 and 27) as powers of a common base, which is 3. Then apply the laws of indices for powers of powers, multiplication, and division.",
+      "generatedAt": "2026-04-30T17:33:28.472798"
+    },
+    {
+      "id": "m-y9-indices_intermediate_002",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Calculate the exact value of the expression: (4^3 * 2^5) / 8^2. Show your working clearly.",
+      "options": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctAnswer": "32",
+      "explanation": "To calculate the exact value of (4^3 * 2^5) / 8^2, we need to express all terms with the same base, which in this case is 2.\n\nFirst, express 4 and 8 as powers of 2:\n4 = 2^2\n8 = 2^3\n\nSubstitute these into the expression:\n( (2^2)^3 * 2^5 ) / (2^3)^2\n\nNext, apply the law of indices (a^m)^n = a^(mn) to simplify the terms with powers of powers:\n( 2^(2*3) * 2^5 ) / 2^(3*2)\n( 2^6 * 2^5 ) / 2^6\n\nNow, apply the law of indices a^m * a^n = a^(m+n) to the numerator:\n2^(6+5) / 2^6\n2^11 / 2^6\n\nFinally, apply the law of indices a^m / a^n = a^(m-n) to simplify the division:\n2^(11-6)\n2^5\n\nCalculate the value of 2^5:\n2^5 = 2 * 2 * 2 * 2 * 2 = 32\n\nTherefore, the exact value of the expression is 32.",
+      "hint": "Try to express all numbers in the expression as powers of the same base before applying the laws of indices for multiplication and division.",
+      "generatedAt": "2026-04-30T17:33:40.093054"
+    },
+    {
+      "id": "m-y9-indices_intermediate_003",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Given that 9^x * 3^4 = 27^2, find the value of x. Show your working.",
+      "options": [],
+      "correctAnswer": "To solve 9^x * 3^4 = 27^2, we first need to express all numbers as powers of the same base, which in this case is 3.\n\n1.  **Convert the bases:**\n    *   9 can be written as 3^2.\n    *   27 can be written as 3^3.\n\n    Substitute these into the equation:\n    (3^2)^x * 3^4 = (3^3)^2\n\n2.  **Apply the power of a power rule ((a^m)^n = a^(mn)):**\n    3^(2 * x) * 3^4 = 3^(3 * 2)\n    3^(2x) * 3^4 = 3^6\n\n3.  **Apply the product rule for indices (a^m * a^n = a^(m+n)):**\n    3^(2x + 4) = 3^6\n\n4.  **Equate the powers (since the bases are the same):**\n    2x + 4 = 6\n\n5.  **Solve the linear equation for x:**\n    2x = 6 - 4\n    2x = 2\n    x = 2 / 2\n    x = 1\n\nTherefore, the value of x is 1.",
+      "explanation": "The correct approach involves converting all terms to the same base, applying the relevant laws of indices, and then solving the resulting linear equation. First, express 9 as 3^2 and 27 as 3^3. Then, use the power of a power rule ((a^m)^n = a^(mn)) to simplify (3^2)^x and (3^3)^2. Next, use the product rule (a^m * a^n = a^(m+n)) on the left side of the equation. Once both sides have the same base, equate the exponents and solve for x.",
+      "hint": "Start by expressing all numbers in the equation (9 and 27) as powers of the same prime base (3).",
+      "generatedAt": "2026-04-30T17:33:51.462790"
+    },
+    {
+      "id": "m-y9-indices_intermediate_004",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Calculate the exact value of the expression: (27^(2/3) * 9^(-1)) / 3^(-2). Show your working.",
+      "options": [
+        "1/9",
+        "3",
+        "9",
+        "27"
+      ],
+      "correctAnswer": "9",
+      "explanation": "To calculate the exact value of the expression (27^(2/3) * 9^(-1)) / 3^(-2), we need to simplify it step-by-step using the laws of indices.\n\nStep 1: Convert all numbers in the expression to the same base, which is 3.\n   *   We know that 27 = 3 * 3 * 3 = 3^3.\n   *   We know that 9 = 3 * 3 = 3^2.\n\nSubstitute these into the original expression:\n   ( (3^3)^(2/3) * (3^2)^(-1) ) / 3^(-2)\n\nStep 2: Apply the 'power of a power' rule, which states (a^m)^n = a^(m*n).\n   *   For the first term: (3^3)^(2/3) = 3^(3 * 2/3) = 3^2.\n   *   For the second term: (3^2)^(-1) = 3^(2 * -1) = 3^(-2).\n\nNow the expression becomes:\n   (3^2 * 3^(-2)) / 3^(-2)\n\nStep 3: Apply the 'multiplication rule' for indices, a^m * a^n = a^(m+n), to the numerator.\n   *   3^2 * 3^(-2) = 3^(2 + (-2)) = 3^0.\n\nNow the expression is simplified to:\n   3^0 / 3^(-2)\n\nStep 4: Apply the 'division rule' for indices, a^m / a^n = a^(m-n).\n   *   3^0 / 3^(-2) = 3^(0 - (-2)) = 3^(0 + 2) = 3^2.\n\nStep 5: Calculate the final numerical value.\n   *   3^2 = 3 * 3 = 9.\n\nTherefore, the exact value of the expression is 9.",
+      "hint": "Begin by expressing all numbers in the expression as powers of the same base. Then, apply the rules for powers of powers, multiplication, and division of indices.",
+      "generatedAt": "2026-04-30T17:34:06.212996"
+    },
+    {
+      "id": "m-y9-indices_intermediate_005",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Quantity P is defined as (4^3 * 2^5). Quantity Q is defined as (16^2). Calculate the exact value of the expression (P / Q). Show your working clearly.",
+      "options": [],
+      "correctAnswer": "First, express P and Q using a common base, which is 2.\n\nFor Quantity P:\nP = 4^3 * 2^5\nP = (2^2)^3 * 2^5\nP = 2^(2*3) * 2^5\nP = 2^6 * 2^5\nP = 2^(6+5)\nP = 2^11\n\nFor Quantity Q:\nQ = 16^2\nQ = (2^4)^2\nQ = 2^(4*2)\nQ = 2^8\n\nNow, calculate (P / Q):\nP / Q = 2^11 / 2^8\nP / Q = 2^(11-8)\nP / Q = 2^3\nP / Q = 8\n\nThe exact value of (P / Q) is 8.",
+      "explanation": "To solve this problem, you need to apply the laws of indices by converting all numbers to a common base. In this case, the common base is 2.\n\n**Step 1: Express Quantity P with base 2.**\nP = 4^3 * 2^5\nSince 4 can be written as 2^2, substitute this into the expression for P:\nP = (2^2)^3 * 2^5\nApply the power of a power rule (a^m)^n = a^(m*n):\nP = 2^(2*3) * 2^5\nP = 2^6 * 2^5\nApply the multiplication rule for indices (a^m * a^n = a^(m+n)):\nP = 2^(6+5)\nP = 2^11\n\n**Step 2: Express Quantity Q with base 2.**\nQ = 16^2\nSince 16 can be written as 2^4, substitute this into the expression for Q:\nQ = (2^4)^2\nApply the power of a power rule (a^m)^n = a^(m*n):\nQ = 2^(4*2)\nQ = 2^8\n\n**Step 3: Calculate (P / Q).**\nNow that P and Q are both expressed with base 2, divide P by Q:\nP / Q = 2^11 / 2^8\nApply the division rule for indices (a^m / a^n = a^(m-n)):\nP / Q = 2^(11-8)\nP / Q = 2^3\nFinally, calculate the numerical value:\nP / Q = 8",
+      "hint": "Remember to convert all terms to a common base before applying the laws of indices for multiplication and division.",
+      "generatedAt": "2026-04-30T17:34:22.072831"
+    },
+    {
+      "id": "m-y9-indices_intermediate_006",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Calculate the value of the expression `(16^3 * 2^5) / 8^4`. Give your answer in the form `2^k`, where `k` is an integer. Show your working.",
+      "options": [
+        "2^4",
+        "2^5",
+        "2^13",
+        "2^17"
+      ],
+      "correctAnswer": "2^5",
+      "explanation": "To solve this, we need to express all numbers as powers of the common base 2 and then apply the laws of indices.\n\n1.  **Express 16 and 8 as powers of 2:**\n    *   `16 = 2^4`\n    *   `8 = 2^3`\n\n2.  **Substitute these into the expression:**\n    *   `16^3` becomes `(2^4)^3`\n    *   `8^4` becomes `(2^3)^4`\n    So the expression is `((2^4)^3 * 2^5) / (2^3)^4`\n\n3.  **Apply the power of a power rule ( (a^m)^n = a^(m*n) ):**\n    *   `(2^4)^3 = 2^(4 * 3) = 2^12`\n    *   `(2^3)^4 = 2^(3 * 4) = 2^12`\n    Now the expression is `(2^12 * 2^5) / 2^12`\n\n4.  **Apply the multiplication rule for indices ( a^m * a^n = a^(m+n) ) to the numerator:**\n    *   `2^12 * 2^5 = 2^(12 + 5) = 2^17`\n    The expression is now `2^17 / 2^12`\n\n5.  **Apply the division rule for indices ( a^m / a^n = a^(m-n) ):**\n    *   `2^17 / 2^12 = 2^(17 - 12) = 2^5`\n\nTherefore, the value of the expression is `2^5`.",
+      "hint": "First, express all the numbers (16 and 8) as powers of 2. Then, apply the laws of indices for powers of a power, multiplication, and division in the correct order.",
+      "generatedAt": "2026-04-30T17:34:44.611137"
+    },
+    {
+      "id": "m-y9-indices_intermediate_007",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Simplify the expression (25^4 * 5^3) / 125^2. Write your final answer in the form 5^k, where k is an integer. Show your working.",
+      "options": [
+        "5^5",
+        "5^3",
+        "5^6",
+        "5^2"
+      ],
+      "correctAnswer": "5^5",
+      "explanation": "To simplify the expression (25^4 * 5^3) / 125^2, we first need to express all numbers as powers of the same base, which is 5.\n\n1.  Express 25 as a power of 5: 25 = 5^2.\n2.  Express 125 as a power of 5: 125 = 5^3.\n\nNow substitute these into the expression:\n\n( (5^2)^4 * 5^3 ) / (5^3)^2\n\nNext, apply the law of indices (a^m)^n = a^(m*n):\n\n( 5^(2*4) * 5^3 ) / 5^(3*2)\n\n( 5^8 * 5^3 ) / 5^6\n\nNow, apply the law of indices a^m * a^n = a^(m+n) for the numerator:\n\n5^(8+3) / 5^6\n\n5^11 / 5^6\n\nFinally, apply the law of indices a^m / a^n = a^(m-n):\n\n5^(11-6)\n\n5^5\n\nSo, the simplified expression is 5^5.",
+      "hint": "Start by converting all the bases (25 and 125) into powers of 5. Then apply the laws of indices for powers of powers, multiplication, and division.",
+      "generatedAt": "2026-04-30T17:35:01.013169"
+    },
+    {
+      "id": "m-y9-indices_intermediate_008",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Expression P is given by `(4^3 * 2^5)`. Expression Q is given by `(8^2 / 2^3)`. Calculate the exact value of P / Q. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To calculate P/Q, we first simplify P and Q separately using the laws of indices.\n\n**Step 1: Simplify Expression P**\nP = `(4^3 * 2^5)`\nFirst, express 4 as a power of 2: `4 = 2^2`.\nSubstitute this into the expression for P:\nP = `( (2^2)^3 * 2^5 )`\nApply the power of a power rule, `(a^m)^n = a^(mn)`:\nP = `( 2^(2*3) * 2^5 )`\nP = `( 2^6 * 2^5 )`\nApply the multiplication rule, `a^m * a^n = a^(m+n)`:\nP = `2^(6+5)`\nP = `2^11`\n\n**Step 2: Simplify Expression Q**\nQ = `(8^2 / 2^3)`\nFirst, express 8 as a power of 2: `8 = 2^3`.\nSubstitute this into the expression for Q:\nQ = `( (2^3)^2 / 2^3 )`\nApply the power of a power rule, `(a^m)^n = a^(mn)`:\nQ = `( 2^(3*2) / 2^3 )`\nQ = `( 2^6 / 2^3 )`\nApply the division rule, `a^m / a^n = a^(m-n)`:\nQ = `2^(6-3)`\nQ = `2^3`\n\n**Step 3: Calculate P / Q**\nNow we have P = `2^11` and Q = `2^3`.\nP / Q = `2^11 / 2^3`\nApply the division rule, `a^m / a^n = a^(m-n)`:\nP / Q = `2^(11-3)`\nP / Q = `2^8`\n\n**Step 4: Calculate the exact value of 2^8**\n`2^8 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2`\n`2^8 = 256`\n\nTherefore, the exact value of P / Q is 256.",
+      "explanation": "The problem requires simplifying two expressions, P and Q, and then finding their ratio P/Q. The key strategy is to express all numbers as powers of a common base, which in this case is 2.\n\nFor Expression P: `(4^3 * 2^5)`\n1. Convert `4` to `2^2`. So, `P = ((2^2)^3 * 2^5)`.\n2. Apply the power of a power rule `(a^m)^n = a^(mn)`: `(2^2)^3 = 2^(2*3) = 2^6`. So, `P = (2^6 * 2^5)`.\n3. Apply the multiplication rule `a^m * a^n = a^(m+n)`: `P = 2^(6+5) = 2^11`.\n\nFor Expression Q: `(8^2 / 2^3)`\n1. Convert `8` to `2^3`. So, `Q = ((2^3)^2 / 2^3)`.\n2. Apply the power of a power rule `(a^m)^n = a^(mn)`: `(2^3)^2 = 2^(3*2) = 2^6`. So, `Q = (2^6 / 2^3)`.\n3. Apply the division rule `a^m / a^n = a^(m-n)`: `Q = 2^(6-3) = 2^3`.\n\nFinally, calculate P / Q:\n1. `P / Q = 2^11 / 2^3`.\n2. Apply the division rule `a^m / a^n = a^(m-n)`: `P / Q = 2^(11-3) = 2^8`.\n3. Calculate the numerical value of `2^8`: `2^8 = 256`.",
+      "hint": "To simplify expressions involving different bases, convert all numbers to a common prime base (in this case, base 2) before applying the laws of indices.",
+      "generatedAt": "2026-04-30T17:35:19.713021"
+    },
+    {
+      "id": "m-y9-indices_intermediate_009",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Solve the equation for x, showing all your working:\n(4^x)^2 * 8^3 = 2^13",
+      "options": [
+        "x = 1",
+        "x = 2",
+        "x = 3",
+        "x = 4"
+      ],
+      "correctAnswer": "x = 1",
+      "explanation": "To solve the equation (4^x)^2 * 8^3 = 2^13, we need to express all terms with the same base, which is 2.\n\n1.  **Rewrite bases in terms of 2:**\n    *   4 can be written as 2^2.\n    *   8 can be written as 2^3.\n    Substitute these into the equation:\n    ( (2^2)^x )^2 * (2^3)^3 = 2^13\n\n2.  **Apply the 'power of a power' rule ( (a^m)^n = a^(m*n) ):**\n    *   ( (2^2)^x )^2 simplifies to (2^(2x))^2, which further simplifies to 2^(2x * 2) = 2^(4x).\n    *   (2^3)^3 simplifies to 2^(3 * 3) = 2^9.\n    The equation becomes:\n    2^(4x) * 2^9 = 2^13\n\n3.  **Apply the 'multiplication rule' for indices ( a^m * a^n = a^(m+n) ):**\n    *   2^(4x) * 2^9 simplifies to 2^(4x + 9).\n    The equation is now:\n    2^(4x + 9) = 2^13\n\n4.  **Equate the exponents:**\n    Since the bases are the same (both are 2), their exponents must be equal:\n    4x + 9 = 13\n\n5.  **Solve the linear equation for x:**\n    Subtract 9 from both sides:\n    4x = 13 - 9\n    4x = 4\n    Divide by 4:\n    x = 4 / 4\n    x = 1",
+      "hint": "Start by expressing all numerical bases as powers of the smallest common prime number.",
+      "generatedAt": "2026-04-30T17:35:32.264877"
+    },
+    {
+      "id": "m-y9-indices_intermediate_010",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Given that P = 3^4 and Q = 9^2. Calculate the exact numerical value of the expression (P^2 * Q) / 3^5. Show all your working.",
+      "options": [],
+      "correctAnswer": "Working:\nFirst, express Q with base 3:\nQ = 9^2\nSince 9 = 3^2, we can write Q = (3^2)^2\nUsing the law of indices (a^m)^n = a^(m*n):\nQ = 3^(2*2) = 3^4\n\nNow, substitute P = 3^4 and Q = 3^4 into the expression (P^2 * Q) / 3^5:\n((3^4)^2 * 3^4) / 3^5\n\nApply the power of a power rule (a^m)^n = a^(m*n) to (3^4)^2:\n(3^(4*2) * 3^4) / 3^5 = (3^8 * 3^4) / 3^5\n\nApply the multiplication rule for indices (a^m * a^n = a^(m+n)) in the numerator:\n3^(8+4) / 3^5 = 3^12 / 3^5\n\nApply the division rule for indices (a^m / a^n = a^(m-n)):\n3^(12-5) = 3^7\n\nFinally, calculate the numerical value of 3^7:\n3^1 = 3\n3^2 = 9\n3^3 = 27\n3^4 = 81\n3^5 = 243\n3^6 = 729\n3^7 = 2187\n\nTherefore, the value of the expression is 2187.",
+      "explanation": "The problem requires simplifying an expression involving variables P and Q, which are themselves defined using powers. The key steps are: 1. Expressing all terms with a common base (in this case, base 3). 2. Substituting the base-3 forms of P and Q into the main expression. 3. Applying the laws of indices for 'power of a power', 'multiplication of powers', and 'division of powers' sequentially. 4. Calculating the final numerical value of the simplified power.",
+      "hint": "Begin by expressing Q as a power of 3. Then, substitute the expressions for P and Q into the main formula and simplify using the laws of indices: (a^m)^n = a^(mn), a^m * a^n = a^(m+n), and a^m / a^n = a^(m-n).",
+      "generatedAt": "2026-04-30T17:35:48.945252"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-indices_advanced_001",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Simplify the following expression, showing all your working:\n\n$(4x^3y^2)^3 \\times (2x^5y^4) \\div (16x^7y^9)$\n",
+      "options": [
+        "A. $8x^7y$",
+        "B. $8x^4$",
+        "C. $8x^7$",
+        "D. $4x^7y$"
+      ],
+      "correctAnswer": "A. $8x^7y$",
+      "explanation": "To simplify the expression, we apply the laws of indices step-by-step:\n\n**Step 1: Simplify the first term using $(ab)^n = a^n b^n$ and $(a^m)^n = a^{mn}$**\n$(4x^3y^2)^3 = 4^3 \\times (x^3)^3 \\times (y^2)^3$\n$= 64 \\times x^{3 \\times 3} \\times y^{2 \\times 3}$\n$= 64x^9y^6$\n\n**Step 2: Substitute this back into the expression**\nThe expression becomes: $(64x^9y^6) \\times (2x^5y^4) \\div (16x^7y^9)$\n\n**Step 3: Multiply the terms in the numerator using $a^m \\times a^n = a^{m+n}$**\n$(64x^9y^6) \\times (2x^5y^4) = (64 \\times 2) \\times (x^9 \\times x^5) \\times (y^6 \\times y^4)$\n$= 128 \\times x^{9+5} \\times y^{6+4}$\n$= 128x^{14}y^{10}$\n\n**Step 4: Substitute this back into the expression**\nThe expression is now: $128x^{14}y^{10} \\div (16x^7y^9)$\n\n**Step 5: Divide the terms using $a^m \\div a^n = a^{m-n}$**\n$(128 \\div 16) \\times (x^{14} \\div x^7) \\times (y^{10} \\div y^9)$\n$= 8 \\times x^{14-7} \\times y^{10-9}$\n$= 8x^7y^1$\n$= 8x^7y$\n\nThus, the simplified expression is $8x^7y$. The correct option is A.",
+      "hint": "Remember to deal with coefficients (numbers) and each variable separately. Apply the power rules in the correct order: first, 'power of a power/product', then 'multiplication of powers', and finally 'division of powers'.",
+      "generatedAt": "2026-04-30T17:36:13.829356"
+    },
+    {
+      "id": "m-y9-indices_advanced_002",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A scientist is studying the growth of two different types of bacteria, Type A and Type B.\nThe number of bacteria of Type A at time `t` hours can be modelled by the expression `N_A = 5 \\times (2^{t})^2`.\nThe number of bacteria of Type B at time `t` hours can be modelled by the expression `N_B = (3^{t+1}) \\times (3^{t})`.\n\nAt time `t = 2` hours, which type of bacteria has a greater number, and by how many? Show all your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "To determine which type of bacteria has a greater number at `t = 2` hours, we first calculate `N_A` and `N_B` at this time.\n\n**For Type A bacteria:**\nThe given expression is `N_A = 5 \\times (2^{t})^2`.\nUsing the law of indices `(a^m)^n = a^{mn}`, we can simplify the power part:\n`(2^{t})^2 = 2^{t \\times 2} = 2^{2t}`\nSo, `N_A = 5 \\times 2^{2t}`.\n\nNow, substitute `t = 2` into the simplified expression:\n`N_A = 5 \\times 2^{2 \\times 2}`\n`N_A = 5 \\times 2^4`\n`N_A = 5 \\times 16`\n`N_A = 80`\n\n**For Type B bacteria:**\nThe given expression is `N_B = (3^{t+1}) \\times (3^{t})`.\nUsing the law of indices `a^m \\times a^n = a^{m+n}`, we can simplify this expression:\n`N_B = 3^{(t+1) + t}`\n`N_B = 3^{2t+1}`\n\nNow, substitute `t = 2` into the simplified expression:\n`N_B = 3^{(2 \\times 2) + 1}`\n`N_B = 3^{4+1}`\n`N_B = 3^5`\n`N_B = 243`\n\n**Comparing the numbers:**\nWe have `N_A = 80` and `N_B = 243`.\nSince `243 > 80`, Type B bacteria has a greater number.\n\n**Calculating the difference:**\nDifference = `N_B - N_A = 243 - 80 = 163`\n\nTherefore, Type B bacteria has a greater number by 163.",
+      "explanation": "The problem requires calculating the number of two types of bacteria, Type A and Type B, at a specific time `t=2` hours, and then comparing these numbers. The expressions for the number of bacteria, `N_A` and `N_B`, involve laws of indices. For `N_A = 5 \\times (2^{t})^2`, the power of a power rule `(a^m)^n = a^{mn}` is applied to simplify `(2^{t})^2` to `2^{2t}`. For `N_B = (3^{t+1}) \\times (3^{t})`, the multiplication rule `a^m \\times a^n = a^{m+n}` is applied to simplify `(3^{t+1}) \\times (3^{t})` to `3^{(t+1)+t} = 3^{2t+1}`. After simplifying, the value `t=2` is substituted into both simplified expressions. `N_A` becomes `5 \\times 2^{2 \\times 2} = 5 \\times 2^4 = 5 \\times 16 = 80`. `N_B` becomes `3^{(2 \\times 2)+1} = 3^5 = 243`. Finally, these two values are compared (`243 > 80`), and their difference is calculated (`243 - 80 = 163`) to answer the question.",
+      "hint": "Remember to use the laws of indices to simplify each expression for `N_A` and `N_B` first, such as `(a^m)^n = a^{mn}` and `a^m \\times a^n = a^{m+n}`, before substituting the value of `t`.",
+      "generatedAt": "2026-04-30T17:36:36.752024"
+    },
+    {
+      "id": "m-y9-indices_advanced_003",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A rectangle has a length, $L$, given by $8^{x+1}$ cm. Its width, $W$, is given by $4^{x-2}$ cm. The area of the rectangle is $2^{7x-5}$ cm$^2$. Find the value of $x$. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the value of $x$, we use the formula for the area of a rectangle: $Area = Length \\times Width$.\n\n1.  **Substitute the given expressions into the area formula:**\n    $2^{7x-5} = (8^{x+1}) \\times (4^{x-2})$\n\n2.  **Convert all bases to a common base, which is 2:**\n    We know that $8 = 2^3$ and $4 = 2^2$. Substitute these into the equation:\n    $2^{7x-5} = ( (2^3)^{x+1} ) \\times ( (2^2)^{x-2} )$\n\n3.  **Apply the power of a power rule $(a^m)^n = a^{mn}$:**\n    This means we multiply the exponents for each term:\n    $2^{7x-5} = (2^{3(x+1)}) \\times (2^{2(x-2)})$\n    Expand the exponents:\n    $2^{7x-5} = (2^{3x+3}) \\times (2^{2x-4})$\n\n4.  **Apply the multiplication rule $a^m \\times a^n = a^{m+n}$:**\n    When multiplying powers with the same base, we add their exponents:\n    $2^{7x-5} = 2^{(3x+3) + (2x-4)}$\n    Combine like terms in the exponent:\n    $2^{7x-5} = 2^{5x-1}$\n\n5.  **Equate the exponents:**\n    Since the bases on both sides of the equation are the same (both are 2), their exponents must be equal:\n    $7x-5 = 5x-1$\n\n6.  **Solve the linear equation for $x$:**\n    Subtract $5x$ from both sides:\n    $2x-5 = -1$\n    Add 5 to both sides:\n    $2x = 4$\n    Divide by 2:\n    $x = 2$",
+      "explanation": "To find the value of $x$, we use the formula for the area of a rectangle: $Area = Length \\times Width$.\n\n1.  **Substitute the given expressions into the area formula:**\n    $2^{7x-5} = (8^{x+1}) \\times (4^{x-2})$\n\n2.  **Convert all bases to a common base, which is 2:**\n    We know that $8 = 2^3$ and $4 = 2^2$. Substitute these into the equation:\n    $2^{7x-5} = ( (2^3)^{x+1} ) \\times ( (2^2)^{x-2} )$\n\n3.  **Apply the power of a power rule $(a^m)^n = a^{mn}$:**\n    This means we multiply the exponents for each term:\n    $2^{7x-5} = (2^{3(x+1)}) \\times (2^{2(x-2)})$\n    Expand the exponents:\n    $2^{7x-5} = (2^{3x+3}) \\times (2^{2x-4})$\n\n4.  **Apply the multiplication rule $a^m \\times a^n = a^{m+n}$:**\n    When multiplying powers with the same base, we add their exponents:\n    $2^{7x-5} = 2^{(3x+3) + (2x-4)}$\n    Combine like terms in the exponent:\n    $2^{7x-5} = 2^{5x-1}$\n\n5.  **Equate the exponents:**\n    Since the bases on both sides of the equation are the same (both are 2), their exponents must be equal:\n    $7x-5 = 5x-1$\n\n6.  **Solve the linear equation for $x$:**\n    Subtract $5x$ from both sides:\n    $2x-5 = -1$\n    Add 5 to both sides:\n    $2x = 4$\n    Divide by 2:\n    $x = 2",
+      "hint": "Remember to express all terms with the same base before combining the exponents. The common base for 8, 4, and 2 is 2.",
+      "generatedAt": "2026-04-30T17:36:58.800495"
+    },
+    {
+      "id": "m-y9-indices_advanced_004",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A scientist is comparing two different types of plant cells, Cell Type P and Cell Type Q. The estimated number of mitochondria in a single Cell Type P is given by $9^{2k-1}$. The estimated number of mitochondria in a single Cell Type Q is given by $27^{k+2}$. Given that $k=5$, determine which cell type has a greater estimated number of mitochondria and calculate the exact difference between their estimated numbers. Show all your working.",
+      "options": [],
+      "correctAnswer": "First, calculate the estimated number of mitochondria for Cell Type P when $k=5$:\nNumber of mitochondria for Cell Type P = $9^{2k-1}$\nSubstitute $k=5$:\n$9^{2(5)-1} = 9^{10-1} = 9^9$\n\nNext, calculate the estimated number of mitochondria for Cell Type Q when $k=5$:\nNumber of mitochondria for Cell Type Q = $27^{k+2}$\nSubstitute $k=5$:\n$27^{5+2} = 27^7$\n\nTo compare $9^9$ and $27^7$, convert them to a common base. Both 9 and 27 can be expressed as powers of 3:\n$9 = 3^2$\n$27 = 3^3$\n\nFor Cell Type P:\n$9^9 = (3^2)^9 = 3^{2 \\times 9} = 3^{18}$\n\nFor Cell Type Q:\n$27^7 = (3^3)^7 = 3^{3 \\times 7} = 3^{21}$\n\nComparing $3^{18}$ and $3^{21}$:\nSince $21 > 18$, $3^{21}$ is greater than $3^{18}$.\nTherefore, Cell Type Q has a greater estimated number of mitochondria.\n\nNow, calculate the exact difference between their estimated numbers:\nDifference = (Number for Cell Type Q) - (Number for Cell Type P)\nDifference = $3^{21} - 3^{18}$\n\nTo simplify this, factor out the common term $3^{18}$:\nDifference = $3^{18}(3^3 - 1)$\nDifference = $3^{18}(27 - 1)$\nDifference = $3^{18}(26)$\nDifference = $26 \\times 3^{18}$\n\nFinal Answer: Cell Type Q has a greater estimated number of mitochondria. The exact difference is $26 \\times 3^{18}$.",
+      "explanation": "The explanation is included within the 'correctAnswer' for open-ended questions.",
+      "hint": "To compare the numbers, express both quantities using the same base. Remember the power of a power rule: $(a^m)^n = a^{mn}$. When calculating the difference, look for a common factor using index laws.",
+      "generatedAt": "2026-04-30T17:37:14.287681"
+    },
+    {
+      "id": "m-y9-indices_advanced_005",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A mathematical quantity, P, is defined by the expression $P = 8^{3k-1}$. Another mathematical quantity, Q, is defined by the expression $Q = 16^{k+2}$. Given that $P = Q$, calculate the exact value of $k$. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "Given $P = 8^{3k-1}$ and $Q = 16^{k+2}$.\nWe are told that $P = Q$, so we can set up the equation:\n$8^{3k-1} = 16^{k+2}$\n\nStep 1: Express both bases (8 and 16) as powers of a common prime number. The common base for 8 and 16 is 2.\n$8 = 2^3$\n$16 = 2^4$\n\nSubstitute these equivalent expressions back into the equation:\n$(2^3)^{3k-1} = (2^4)^{k+2}$\n\nStep 2: Apply the power of a power rule of indices, which states that $(a^m)^n = a^{mn}$.\nFor the left side: $2^{3 \\times (3k-1)} = 2^{9k-3}$\nFor the right side: $2^{4 \\times (k+2)} = 2^{4k+8}$\n\nSo the equation becomes:\n$2^{9k-3} = 2^{4k+8}$\n\nStep 3: Since the bases are now the same, we can equate the exponents.\n$9k-3 = 4k+8$\n\nStep 4: Solve the resulting linear equation for $k$.\nSubtract $4k$ from both sides of the equation:\n$9k - 4k - 3 = 8$\n$5k - 3 = 8$\n\nAdd 3 to both sides of the equation:\n$5k = 8 + 3$\n$5k = 11$\n\nDivide by 5:\n$k = \\frac{11}{5}$\n\nThe exact value of $k$ is $\\frac{11}{5}$ (or $2.2$).",
+      "explanation": "This problem tests your understanding of the laws of indices, specifically the power of a power rule and the ability to work with different bases by converting them to a common base. The key steps involve recognizing that 8 and 16 can both be expressed as powers of 2, applying the index law $(a^m)^n = a^{mn}$, and then equating the exponents to solve a linear algebraic equation.",
+      "hint": "To begin, look for a common base for the numbers 8 and 16. Both numbers can be expressed as powers of the same prime number.",
+      "generatedAt": "2026-04-30T17:37:28.242776"
+    },
+    {
+      "id": "m-y9-indices_advanced_006",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A special type of crystal grows such that its volume, in cubic millimetres, can be modelled by different expressions depending on the stage of growth. \n\nAt Stage 1, its volume is $V_1 = 2^{3k+5}$ mm$^3$.\nAt Stage 2, its volume is $V_2 = (4^{k-1})^2$ mm$^3$.\nAt Stage 3, its volume is $V_3 = 8^{k+3}$ mm$^3$.\n\nIf the volume at Stage 1 multiplied by the volume at Stage 2 is equal to the volume at Stage 3, find the value of $k$. Show all your working.",
+      "options": [],
+      "correctAnswer": "The problem states that $V_1 \\times V_2 = V_3$.\n\nFirst, express all volumes with a common base, which is 2:\n\n$V_1 = 2^{3k+5}$\n\nFor $V_2$: \n$V_2 = (4^{k-1})^2$ \nSince $4 = 2^2$, substitute this into the expression:\n$V_2 = ((2^2)^{k-1})^2$\nApply the rule $(a^m)^n = a^{mn}$:\n$V_2 = (2^{2(k-1)})^2$\n$V_2 = (2^{2k-2})^2$\nApply the rule $(a^m)^n = a^{mn}$ again:\n$V_2 = 2^{2(2k-2)}$\n$V_2 = 2^{4k-4}$\n\nFor $V_3$: \n$V_3 = 8^{k+3}$\nSince $8 = 2^3$, substitute this into the expression:\n$V_3 = (2^3)^{k+3}$\nApply the rule $(a^m)^n = a^{mn}$:\n$V_3 = 2^{3(k+3)}$\n$V_3 = 2^{3k+9}$\n\nNow substitute these expressions into the equation $V_1 \\times V_2 = V_3$:\n$2^{3k+5} \\times 2^{4k-4} = 2^{3k+9}$\n\nApply the rule $a^m \\times a^n = a^{m+n}$ to the left side of the equation:\n$2^{(3k+5) + (4k-4)} = 2^{3k+9}$\n$2^{7k+1} = 2^{3k+9}$\n\nSince the bases are equal, the exponents must be equal:\n$7k+1 = 3k+9$\n\nSolve the linear equation for $k$:\n$7k - 3k = 9 - 1$\n$4k = 8$\n$k = \\frac{8}{4}$\n$k = 2$",
+      "explanation": "The problem requires you to set up an equation using the given information about the volumes at different stages. The core of the problem lies in converting all base numbers (4 and 8) to a common base (2) and then applying the laws of indices for multiplying powers and for raising a power to another power. Once all expressions are in the same base, you can equate the exponents and solve the resulting linear equation for 'k'. Careful algebraic manipulation of the exponents is crucial to arrive at the correct value.",
+      "hint": "Begin by expressing all the given volumes as powers of the same base, which is 2. Remember that $4 = 2^2$ and $8 = 2^3$. Then apply the laws of indices for multiplication and for raising a power to another power, and finally, equate the exponents to solve for $k$.",
+      "generatedAt": "2026-04-30T17:37:43.901939"
+    },
+    {
+      "id": "m-y9-indices_advanced_007",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A Year 9 student is challenged to simplify complex expressions involving the laws of indices. They are given two expressions, M and N.\n\nExpression M is defined as: $M = \\frac{(4^{2k+1}) \\times (16^{-k})}{2^{3k-2}}$\n\nExpression N is defined as: $N = \\frac{8^{k-1}}{(1/2)^{2-k}}$\n\na) Show that M can be written in the form $2^a$, where $a$ is an expression in terms of $k$. (3 marks)\nb) Show that N can be written in the form $2^b$, where $b$ is an expression in terms of $k$. (3 marks)\nc) Hence, find the exact value of $M \\times N$ when $k = -1$. Give your answer as an integer or a fraction in its simplest form. (4 marks)\n\n(Working must be shown for all parts of this question.)",
+      "options": [],
+      "correctAnswer": "a) To simplify M, convert all numerical bases to base 2:\n$M = \\frac{(4^{2k+1}) \\times (16^{-k})}{2^{3k-2}}$\nSince $4 = 2^2$ and $16 = 2^4$:\n$M = \\frac{(2^2)^{2k+1} \\times (2^4)^{-k}}{2^{3k-2}}$\nApply the rule $(x^p)^q = x^{pq}$ (power of a power):\n$M = \\frac{2^{2(2k+1)} \\times 2^{4(-k)}}{2^{3k-2}}$\n$M = \\frac{2^{4k+2} \\times 2^{-4k}}{2^{3k-2}}$\nApply the rule $x^p \\times x^q = x^{p+q}$ (multiplication of powers) to the numerator:\n$M = \\frac{2^{(4k+2) + (-4k)}}{2^{3k-2}}$\n$M = \\frac{2^{4k+2-4k}}{2^{3k-2}}$\n$M = \\frac{2^2}{2^{3k-2}}$\nApply the rule $x^p \\div x^q = x^{p-q}$ (division of powers):\n$M = 2^{2 - (3k-2)}$\n$M = 2^{2 - 3k + 2}$\n$M = 2^{4 - 3k}$\nSo, $a = 4 - 3k$.\n\nb) To simplify N, convert all numerical bases to base 2:\n$N = \\frac{8^{k-1}}{(1/2)^{2-k}}$\nSince $8 = 2^3$ and $1/2 = 2^{-1}$:\n$N = \\frac{(2^3)^{k-1}}{(2^{-1})^{2-k}}$\nApply the rule $(x^p)^q = x^{pq}$ (power of a power):\n$N = \\frac{2^{3(k-1)}}{2^{-1(2-k)}}$\n$N = \\frac{2^{3k-3}}{2^{-2+k}}$\nApply the rule $x^p \\div x^q = x^{p-q}$ (division of powers):\n$N = 2^{(3k-3) - (-2+k)}$\n$N = 2^{3k-3 + 2 - k}$\n$N = 2^{2k - 1}$\nSo, $b = 2k - 1$.\n\nc) To find $M \\times N$ when $k = -1$, first use the simplified expressions for M and N:\n$M = 2^{4-3k}$ and $N = 2^{2k-1}$\n$M \\times N = 2^{4-3k} \\times 2^{2k-1}$\nApply the rule $x^p \\times x^q = x^{p+q}$ (multiplication of powers):\n$M \\times N = 2^{(4-3k) + (2k-1)}$\n$M \\times N = 2^{4-3k+2k-1}$\n$M \\times N = 2^{3-k}$\n\nNow substitute the given value $k = -1$ into the expression for $M \\times N$:\n$M \\times N = 2^{3 - (-1)}$\n$M \\times N = 2^{3+1}$\n$M \\times N = 2^4$\n$M \\times N = 16$",
+      "explanation": "This question requires a thorough understanding and application of various laws of indices. For parts (a) and (b), the key strategy is to express all numbers (4, 16, 8, 1/2) as powers of a common base, which in this case is 2. This allows all terms in the numerator and denominator to have the same base. Then, the rules for raising a power to another power (e.g., $(a^m)^n = a^{mn}$), multiplying powers with the same base (e.g., $a^m \\times a^n = a^{m+n}$), and dividing powers with the same base (e.g., $a^m \\div a^n = a^{m-n}$) are applied sequentially to simplify the expressions to the desired form $2^a$ or $2^b$.\n\nFor part (c), once M and N are simplified to their base 2 forms, they are multiplied together. This again involves applying the rule $a^m \\times a^n = a^{m+n}$ to combine their exponents. Finally, the given value of $k = -1$ is substituted into the combined exponent to calculate the numerical value of the product. It's crucial to handle the negative value of $k$ correctly during substitution, especially when it is subtracted or multiplied.",
+      "hint": "For parts (a) and (b), begin by converting all numerical bases (4, 16, 8, and 1/2) into powers of 2. For example, $4 = 2^2$ and $1/2 = 2^{-1}$. Then, systematically apply the laws of indices for powers of powers, multiplication, and division.",
+      "generatedAt": "2026-04-30T17:38:12.352829"
+    },
+    {
+      "id": "m-y9-indices_advanced_008",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Simplify the following expression, giving your answer as a single power of 5. Show all your working.\n\n$$ \\frac{(5^3 \\times 5^{-2})^4}{(5^5 \\div 5^{-1})^2} $$",
+      "options": [
+        "5^{16}",
+        "5^{-8}",
+        "5^8",
+        "5^{-16}"
+      ],
+      "correctAnswer": "5^{-8}",
+      "explanation": "To simplify the expression, we apply the laws of indices step-by-step:\n\n**Step 1: Simplify the numerator**\nThe numerator is $(5^3 \\times 5^{-2})^4$.\nFirst, simplify the expression inside the parentheses using the rule $a^m \\times a^n = a^{m+n}$:\n$5^3 \\times 5^{-2} = 5^{3 + (-2)} = 5^{3-2} = 5^1$\nNow, apply the power of a power rule $(a^m)^n = a^{mn}$ to $(5^1)^4$:\n$(5^1)^4 = 5^{1 \\times 4} = 5^4$\nSo, the simplified numerator is $5^4$.\n\n**Step 2: Simplify the denominator**\nThe denominator is $(5^5 \\div 5^{-1})^2$.\nFirst, simplify the expression inside the parentheses using the rule $a^m \\div a^n = a^{m-n}$:\n$5^5 \\div 5^{-1} = 5^{5 - (-1)} = 5^{5+1} = 5^6$\nNow, apply the power of a power rule $(a^m)^n = a^{mn}$ to $(5^6)^2$:\n$(5^6)^2 = 5^{6 \\times 2} = 5^{12}$\nSo, the simplified denominator is $5^{12}$.\n\n**Step 3: Divide the simplified numerator by the simplified denominator**\nNow we have $\\frac{5^4}{5^{12}}$.\nUse the rule $a^m \\div a^n = a^{m-n}$:\n$5^{4-12} = 5^{-8}$\n\nTherefore, the simplified expression is $5^{-8}$.",
+      "hint": "Start by simplifying the expressions inside the parentheses for both the numerator and the denominator, applying the rules for multiplying and dividing powers with the same base. Then, apply the power of a power rule to each simplified part.",
+      "generatedAt": "2026-04-30T17:38:27.736013"
+    },
+    {
+      "id": "m-y9-indices_advanced_009",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A quantity, $A$, is defined by the expression $A = (8^4 \\times 4^{-3})^2$. Another quantity, $B$, is defined by the expression $B = \\frac{16^3}{2^{-5}}$. Find the value of $\\frac{A}{B}$, expressing your answer as a single power of 2. Show all your working.",
+      "options": [
+        "$2^{-5}$",
+        "$2^{29}$",
+        "$2^{-1}$",
+        "$2^5$"
+      ],
+      "correctAnswer": "$2^{-5}$",
+      "explanation": "Step 1: Simplify quantity A.\n$A = (8^4 \\times 4^{-3})^2$\nFirst, express the bases 8 and 4 as powers of 2:\n$8 = 2^3$, so $8^4 = (2^3)^4$\n$4 = 2^2$, so $4^{-3} = (2^2)^{-3}$\nApplying the power of a power rule (($a^m)^n = a^{mn}$):\n$8^4 = 2^{3 \\times 4} = 2^{12}$\n$4^{-3} = 2^{2 \\times (-3)} = 2^{-6}$\nSubstitute these back into the expression for A:\n$A = (2^{12} \\times 2^{-6})^2$\nApply the multiplication rule for indices ($a^m \\times a^n = a^{m+n}$):\n$A = (2^{12 + (-6)})^2 = (2^6)^2$\nApply the power of a power rule again:\n$A = 2^{6 \\times 2} = 2^{12}$\n\nStep 2: Simplify quantity B.\n$B = \\frac{16^3}{2^{-5}}$\nFirst, express the base 16 as a power of 2:\n$16 = 2^4$, so $16^3 = (2^4)^3$\nApplying the power of a power rule:\n$16^3 = 2^{4 \\times 3} = 2^{12}$\nSubstitute this back into the expression for B:\n$B = \\frac{2^{12}}{2^{-5}}$\nApply the division rule for indices ($\\frac{a^m}{a^n} = a^{m-n}$):\n$B = 2^{12 - (-5)} = 2^{12 + 5} = 2^{17}$\n\nStep 3: Calculate $\\frac{A}{B}$.\nNow we have $A = 2^{12}$ and $B = 2^{17}$.\n$\\frac{A}{B} = \\frac{2^{12}}{2^{17}}$\nApply the division rule for indices:\n$\\frac{A}{B} = 2^{12 - 17} = 2^{-5}$\n\nThe final answer, expressed as a single power of 2, is $2^{-5}$.",
+      "hint": "Start by expressing all numerical bases (8, 4, 16) as powers of 2. Then, systematically apply the laws of indices for powers of powers, multiplication, and division, paying close attention to negative exponents.",
+      "generatedAt": "2026-04-30T17:39:11.899226"
+    },
+    {
+      "id": "m-y9-indices_advanced_010",
+      "topicId": "m-y9-indices",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "The estimated value of an antique coin, in pounds, is given by the expression $V_C = (5^{2x} \times 25^3)^{-1}$. The estimated value of an antique stamp, also in pounds, is given by the expression $V_S = (125^x / 5^{2x-2})^2$. If the value of the coin is exactly equal to the square root of the value of the stamp, find the value of $x$. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the value of $x$, we first need to simplify both expressions $V_C$ and $V_S$ to have a common base, which is 5.\n\n**For $V_C$:**\n$V_C = (5^{2x} \\times 25^3)^{-1}$\nSince $25 = 5^2$, substitute this into the expression:\n$V_C = (5^{2x} \\times (5^2)^3)^{-1}$\nUsing the rule $(a^m)^n = a^{mn}$:\n$V_C = (5^{2x} \\times 5^6)^{-1}$\nUsing the rule $a^m \\times a^n = a^{m+n}$:\n$V_C = (5^{2x+6})^{-1}$\nUsing the rule $(a^m)^n = a^{mn}$ (or $a^{-1} = 1/a$):\n$V_C = 5^{-(2x+6)}$\n$V_C = 5^{-2x-6}$\n\n**For $V_S$:**\n$V_S = (125^x / 5^{2x-2})^2$\nSince $125 = 5^3$, substitute this into the expression:\n$V_S = ((5^3)^x / 5^{2x-2})^2$\nUsing the rule $(a^m)^n = a^{mn}$:\n$V_S = (5^{3x} / 5^{2x-2})^2$\nUsing the rule $a^m / a^n = a^{m-n}$:\n$V_S = (5^{3x - (2x-2)})^2$\n$V_S = (5^{3x - 2x + 2})^2$\n$V_S = (5^{x+2})^2$\nUsing the rule $(a^m)^n = a^{mn}$:\n$V_S = 5^{2(x+2)}$\n$V_S = 5^{2x+4}$\n\n**Applying the condition $V_C = \\sqrt{V_S}$:**\nRecall that $\\sqrt{a} = a^{1/2}$. So, $V_C = V_S^{1/2}$.\nSubstitute the simplified expressions for $V_C$ and $V_S$:\n$5^{-2x-6} = (5^{2x+4})^{1/2}$\nUsing the rule $(a^m)^n = a^{mn}$:\n$5^{-2x-6} = 5^{(2x+4) \\times (1/2)}$\n$5^{-2x-6} = 5^{x+2}$\n\n**Equating the exponents:**\nSince the bases are the same, we can equate the exponents:\n$-2x-6 = x+2$\n\n**Solving for $x$:**\nSubtract $x$ from both sides:\n$-2x - x - 6 = 2$\n$-3x - 6 = 2$\nAdd 6 to both sides:\n$-3x = 2 + 6$\n$-3x = 8$\nDivide by -3:\n$x = -8/3$",
+      "explanation": "The problem requires simplifying two expressions involving indices by converting to a common base (5), then applying various laws of indices (product rule, quotient rule, power of a power rule, negative exponents, and fractional exponents for square root). Finally, equate the resulting powers to solve for $x$.",
+      "hint": "First, express all terms in both expressions using a common base (5). Then simplify each expression fully using the laws of indices before applying the condition $V_C = \\sqrt{V_S}$ and equating the powers.",
+      "generatedAt": "2026-04-30T17:39:34.988553"
+    }
+  ]
+}

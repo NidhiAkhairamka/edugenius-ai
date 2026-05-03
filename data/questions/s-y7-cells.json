@@ -1,0 +1,477 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y7-cells_beginner_001",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following structures is found in a plant cell but NOT in an animal cell?",
+      "options": [
+        "A. Nucleus",
+        "B. Cytoplasm",
+        "C. Cell wall",
+        "D. Cell membrane"
+      ],
+      "correctAnswer": "C. Cell wall",
+      "explanation": "Plant cells have a rigid outer layer called a cell wall, which provides support and protection. Animal cells do not possess a cell wall. Both plant and animal cells contain a nucleus, cytoplasm, and a cell membrane.",
+      "hint": "Consider the structures that give plant cells their fixed shape, unlike animal cells.",
+      "generatedAt": "2026-04-29T22:32:30.196813"
+    },
+    {
+      "id": "s-y7-cells_beginner_002",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A student is using a light microscope to observe a slide. The eyepiece lens has a magnification of x10, and the objective lens being used has a magnification of x40. Calculate the total magnification of the microscope.",
+      "options": [],
+      "correctAnswer": "Formula: Total Magnification = Eyepiece Magnification × Objective Magnification\nSubstitution: Total Magnification = 10 × 40\nAnswer: Total Magnification = 400x",
+      "explanation": "1. To find the total magnification of a light microscope, you multiply the magnification of the eyepiece lens by the magnification of the objective lens.\n2. In this question, the eyepiece lens has a magnification of x10.\n3. The objective lens has a magnification of x40.\n4. So, Total Magnification = 10 × 40 = 400.\n5. The total magnification of the microscope is 400x.",
+      "hint": "Remember that to find the total magnification of a microscope, you need to combine the magnifications of both the eyepiece and the objective lens.",
+      "generatedAt": "2026-04-29T22:32:39.244371"
+    },
+    {
+      "id": "s-y7-cells_beginner_003",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Calculate the total magnification of a light microscope if the eyepiece lens magnifies by x10 and the objective lens magnifies by x40.",
+      "options": [],
+      "correctAnswer": "Formula: Total Magnification = Eyepiece Magnification × Objective Magnification\nSubstitution: Total Magnification = 10 × 40\nAnswer: Total Magnification = 400x",
+      "explanation": "To find the total magnification of a light microscope, you need to multiply the magnification of the eyepiece lens by the magnification of the objective lens. The eyepiece lens magnifies the image by 10 times, and the objective lens further magnifies it by 40 times. Therefore, 10 multiplied by 40 equals 400. This means the specimen appears 400 times larger than its actual size.",
+      "hint": "Remember the formula for total magnification: Eyepiece magnification × Objective magnification.",
+      "generatedAt": "2026-04-29T22:32:51.949502"
+    },
+    {
+      "id": "s-y7-cells_beginner_004",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the main function of the nucleus within an animal cell.",
+      "options": [
+        "A. To carry out photosynthesis",
+        "B. To control the cell's activities",
+        "C. To store water and nutrients",
+        "D. To provide a rigid shape to the cell"
+      ],
+      "correctAnswer": "B. To control the cell's activities",
+      "explanation": "The nucleus is often called the 'control centre' of the cell. It contains the cell's genetic material (DNA) and sends instructions to other parts of the cell, directing all vital activities like growth, metabolism, and reproduction. Photosynthesis (A) is carried out by chloroplasts, mainly in plant cells. Storing water and nutrients (C) is a primary function of the vacuole. Providing a rigid shape (D) is a function of the cell wall, which is found in plant cells but not animal cells.",
+      "hint": "Consider which part of the cell contains the instructions and directs all the other organelles.",
+      "generatedAt": "2026-04-29T22:33:00.362009"
+    },
+    {
+      "id": "s-y7-cells_beginner_005",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the name of the jelly-like substance that fills both plant and animal cells, where many chemical reactions take place.",
+      "options": [
+        "A. Nucleus",
+        "B. Cytoplasm",
+        "C. Cell wall",
+        "D. Vacuole"
+      ],
+      "correctAnswer": "B. Cytoplasm",
+      "explanation": "The cytoplasm is the jelly-like substance that fills the cell, surrounding the organelles. It is where many of the cell's chemical reactions occur and is a fundamental component found in both plant and animal cells.",
+      "hint": "Think about the general internal environment of the cell, not a specific organelle or outer layer.",
+      "generatedAt": "2026-04-29T22:33:08.902552"
+    },
+    {
+      "id": "s-y7-cells_beginner_006",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Describe two steps a scientist would take to focus a light microscope to get a clear image of a specimen.",
+      "options": [],
+      "correctAnswer": "1. First, use the coarse adjustment knob to move the stage up or down until the specimen appears roughly in focus.\n2. Second, use the fine adjustment knob to make small, precise adjustments until the image is sharp and clear.",
+      "explanation": "To correctly focus a light microscope, one first uses the coarse adjustment knob for large movements to get the specimen generally into view. Then, the fine adjustment knob is used for smaller, more precise adjustments to achieve a sharp and clear final image.",
+      "hint": "Consider the two main adjustment knobs on a microscope and what each is primarily used for when bringing a slide into focus.",
+      "generatedAt": "2026-04-29T22:33:18.962696"
+    },
+    {
+      "id": "s-y7-cells_beginner_007",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the main reason why a stain, such as iodine solution, is often added to a plant cell specimen before viewing it under a light microscope.",
+      "options": [
+        "To increase the magnification of the microscope.",
+        "To prevent the specimen from drying out too quickly.",
+        "To make specific cell structures more visible.",
+        "To kill any microorganisms present on the specimen."
+      ],
+      "correctAnswer": "To make specific cell structures more visible.",
+      "explanation": "Stains, such as iodine solution, are coloured chemicals that are used to add contrast to parts of a cell. Many cell components are naturally transparent or very faint, making them difficult to see clearly under a light microscope. By adding a stain, certain structures absorb the colour and become more distinct, allowing scientists to observe them more easily and identify different parts of the cell, like the nucleus or starch grains.",
+      "hint": "Consider why you might add colour to something that is otherwise difficult to see or is transparent.",
+      "generatedAt": "2026-04-29T22:33:29.610642"
+    },
+    {
+      "id": "s-y7-cells_beginner_008",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the main function of the stage clips on a light microscope.",
+      "options": [
+        "To adjust the brightness of the light source.",
+        "To securely hold the microscope slide in place.",
+        "To change the magnification of the image.",
+        "To move the stage up and down to focus."
+      ],
+      "correctAnswer": "To securely hold the microscope slide in place.",
+      "explanation": "The stage clips on a light microscope are specifically designed to keep the microscope slide steady and prevent it from moving accidentally. This is important because any movement of the slide can cause the specimen to move out of the field of view or become blurry, making it difficult to observe and focus on.",
+      "hint": "Consider the purpose of the 'stage' itself – it's where the specimen is placed. What would help keep that specimen from moving while being viewed?",
+      "generatedAt": "2026-04-29T22:33:38.637999"
+    },
+    {
+      "id": "s-y7-cells_beginner_009",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "When observing a cell through a light microscope, which action would increase the total magnification?",
+      "options": [
+        "Moving the slide on the stage.",
+        "Switching to a higher power objective lens.",
+        "Adjusting the coarse focus knob.",
+        "Turning on the light source."
+      ],
+      "correctAnswer": "Switching to a higher power objective lens.",
+      "explanation": "The total magnification of a light microscope is found by multiplying the magnification of the eyepiece lens by the magnification of the objective lens. To increase the total magnification, you need to use an objective lens with a greater magnifying power.",
+      "hint": "Think about which parts of the microscope are labelled with magnification values.",
+      "generatedAt": "2026-04-29T22:33:48.944781"
+    },
+    {
+      "id": "s-y7-cells_beginner_010",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following structures is present in a plant cell but is absent in an animal cell?",
+      "options": [
+        "A) Nucleus",
+        "B) Cytoplasm",
+        "C) Cell Wall",
+        "D) Cell Membrane"
+      ],
+      "correctAnswer": "C) Cell Wall",
+      "explanation": "Plant cells have a cell wall, which is a rigid outer layer that provides structural support and protection to the cell. Animal cells do not have a cell wall. Both plant and animal cells contain a nucleus (which controls cell activities), cytoplasm (the jelly-like substance filling the cell), and a cell membrane (which controls what enters and leaves the cell).",
+      "hint": "Think about the structures that give plant cells their fixed, rigid shape compared to animal cells.",
+      "generatedAt": "2026-04-29T22:33:58.674690"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y7-cells_intermediate_001",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A Year 7 student is observing an onion cell under a light microscope. They know that the actual length of the onion cell is 25 µm (micrometres). If the microscope's total magnification is ×200, calculate the observed length of the cell in millimetres (mm) when viewed through the eyepiece.",
+      "options": [
+        "A) 0.5 mm",
+        "B) 5 mm",
+        "C) 50 mm",
+        "D) 500 mm"
+      ],
+      "correctAnswer": "B) 5 mm",
+      "explanation": "1.  **Recall the magnification formula:** Magnification = Image size / Actual size.\n    This can be rearranged to find the Image size: Image size = Actual size × Magnification.\n2.  **Substitute the given values:**\n    Actual size = 25 µm\n    Magnification = ×200\n    Image size = 25 µm × 200\n    Image size = 5000 µm\n3.  **Convert the image size from micrometres (µm) to millimetres (mm):**\n    You need to remember that 1 mm = 1000 µm.\n    To convert µm to mm, divide by 1000.\n    Image size = 5000 µm / 1000\n    Image size = 5 mm\nTherefore, the observed length of the cell is 5 mm.",
+      "hint": "First, use the magnification formula to find the image size in micrometres (µm). Then, remember how to convert between micrometres (µm) and millimetres (mm).",
+      "generatedAt": "2026-04-29T22:35:24.654252"
+    },
+    {
+      "id": "s-y7-cells_intermediate_002",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A Year 7 student is observing an animal cell under a light microscope. They make a clear drawing of the cell, which measures 30 mm across its widest point. The microscope is set to a total magnification of x600. Calculate the actual size of the animal cell in micrometres (µm). Show your working.",
+      "options": [],
+      "correctAnswer": "Formula: Actual Size = Image Size / Magnification\nImage Size = 30 mm\nMagnification = x600\n\n1. Calculate actual size in millimetres:\n   Actual Size = 30 mm / 600 = 0.05 mm\n\n2. Convert millimetres to micrometres:\n   Since 1 mm = 1000 µm,\n   0.05 mm × 1000 = 50 µm\n\nActual size of the animal cell = 50 µm",
+      "explanation": "To solve this problem, you need to perform two steps. First, calculate the actual size of the cell in millimetres using the magnification formula: Actual Size = Image Size / Magnification. The image size is the measurement of the drawing (30 mm) and the magnification is x600. So, Actual Size = 30 mm / 600 = 0.05 mm. Second, convert this value from millimetres (mm) to micrometres (µm) by multiplying by 1000, because there are 1000 micrometres in 1 millimetre. Therefore, 0.05 mm × 1000 = 50 µm.",
+      "hint": "Remember the formula relating image size, actual size, and magnification. Pay close attention to the units required for your final answer and the conversion factor between mm and µm.",
+      "generatedAt": "2026-04-29T22:35:38.664932"
+    },
+    {
+      "id": "s-y7-cells_intermediate_003",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A scientist is observing a sample of human cheek cells under a light microscope. The eyepiece lens has a magnification of x10.\n\na) State the name of one organelle found in the cheek cell that is visible with a light microscope. (1 mark)\n\nb) Describe one safety precaution that should be followed when preparing a slide to observe cells under a microscope. (2 marks)\n\nc) To observe the cells in more detail, the scientist uses an objective lens with a magnification of x40. Calculate the total magnification when the scientist uses this objective lens. Show your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Nucleus (1 mark)\n(Accept cytoplasm or cell membrane as visible features too)\n\nb) Wear safety goggles to protect eyes from stains or broken glass. (1 mark for precaution, 1 mark for explanation of why)\n(Other valid precautions: Handle glass slides and cover slips carefully to avoid cuts; keep work area tidy to prevent knocking over equipment; wash hands after handling biological samples and stains.)\n\nc) Formula: Total Magnification = Eyepiece Magnification × Objective Lens Magnification (1 mark)\nSubstitution: Total Magnification = x10 × x40 (1 mark)\nAnswer: Total Magnification = x400 (1 mark)",
+      "explanation": "a) The nucleus is the largest and most easily visible organelle within an animal cell when viewed with a basic light microscope.\n\nb) Safety precautions are essential when handling equipment and chemicals. Wearing safety goggles protects the eyes from potential splashes of stains or fragments of broken glass slides. Handling glass carefully prevents cuts.\n\nc) The total magnification of a light microscope is determined by multiplying the magnification of the eyepiece lens by the magnification of the objective lens being used. First, identify the correct formula. Second, substitute the given values for the eyepiece lens (x10) and the objective lens (x40) into the formula. Finally, perform the multiplication to get the total magnification.",
+      "hint": "For part (c), remember the relationship between the eyepiece magnification, the objective lens magnification, and the total magnification of a light microscope.",
+      "generatedAt": "2026-04-29T22:35:50.442821"
+    },
+    {
+      "id": "s-y7-cells_intermediate_004",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A prepared slide of a biological sample, when viewed under a light microscope, reveals cells that possess a rigid outer layer and contain small green structures. The main objective of the observation is to clearly identify the position and shape of the nucleus within these cells. Which of the following would be the *most appropriate* next step to achieve this objective?",
+      "options": [
+        "A) Decrease the magnification to view the entire cell more broadly.",
+        "B) Apply a suitable stain, such as methylene blue or iodine solution, to the sample.",
+        "C) Increase the light intensity to make all parts of the cell brighter.",
+        "D) Switch from a high-power objective lens to a low-power objective lens."
+      ],
+      "correctAnswer": "B) Apply a suitable stain, such as methylene blue or iodine solution, to the sample.",
+      "explanation": "The description of the cells (a rigid outer layer, indicating a cell wall, and small green structures, indicating chloroplasts) identifies them as plant cells. To clearly observe internal structures like the nucleus, which are often colourless or translucent and can be difficult to distinguish from the surrounding cytoplasm, a suitable stain is typically used. Stains like methylene blue or iodine solution selectively bind to certain organelles, increasing their contrast and making them much more visible under the light microscope. Decreasing magnification or switching to a low-power objective lens would reduce the level of detail, while simply increasing light intensity might cause glare without improving the specific contrast needed to see the nucleus.",
+      "hint": "Consider how colourless or transparent organelles within cells can be made more visible and distinguishable under a light microscope.",
+      "generatedAt": "2026-04-29T22:36:24.133649"
+    },
+    {
+      "id": "s-y7-cells_intermediate_005",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is studying a preserved sample of pond water using a light microscope. An image of a *Paramecium* (a single-celled organism) is captured. The captured image shows the *Paramecium* to have an observed length of 4.0 mm. The microscope was used at a total magnification of x200.\n\nCalculate the actual length of the *Paramecium* in micrometres (µm).\n(1 mm = 1000 µm)",
+      "options": [
+        "A) 20 µm",
+        "B) 0.02 µm",
+        "C) 2 µm",
+        "D) 800 µm"
+      ],
+      "correctAnswer": "A) 20 µm",
+      "explanation": "To calculate the actual length, you need to use the formula: Actual Length = Image Length / Magnification.\n\nStep 1: Convert the image length from millimetres (mm) to micrometres (µm).\nGiven: 1 mm = 1000 µm\nImage Length = 4.0 mm = 4.0 × 1000 µm = 4000 µm.\n\nStep 2: Apply the formula to find the actual length.\nMagnification = x200\nActual Length = 4000 µm / 200\nActual Length = 20 µm.\n\nTherefore, the actual length of the *Paramecium* is 20 µm.",
+      "hint": "First, ensure all measurements are in the same unit. Remember the formula that links magnification, image size, and actual size.",
+      "generatedAt": "2026-04-29T22:36:43.776829"
+    },
+    {
+      "id": "s-y7-cells_intermediate_006",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is preparing to observe the internal organelles of a plant cell, such as chloroplasts, using a light microscope. The microscope has an eyepiece lens with a magnification of x10. The student has two objective lenses they can choose from:\n\n*   Objective Lens A: x4 magnification\n*   Objective Lens B: x40 magnification\n\nTo get the most detailed view of the internal organelles, which objective lens should the student choose, and what would be the total magnification achieved with that choice?",
+      "options": [
+        "A) Objective Lens A; Total magnification = x40",
+        "B) Objective Lens A; Total magnification = x50",
+        "C) Objective Lens B; Total magnification = x400",
+        "D) Objective Lens B; Total magnification = x50"
+      ],
+      "correctAnswer": "C) Objective Lens B; Total magnification = x400",
+      "explanation": "To observe small, internal organelles in detail, a higher magnification is required. Objective Lens B (x40) provides a much higher magnification than Objective Lens A (x4), allowing for a more detailed view. The total magnification of a microscope is calculated by multiplying the eyepiece lens magnification by the objective lens magnification.\n\nTotal Magnification = Eyepiece Magnification × Objective Lens Magnification\nTotal Magnification = x10 × x40 = x400",
+      "hint": "Think about how magnification affects the level of detail you can see. Remember the formula for calculating total magnification.",
+      "generatedAt": "2026-04-29T22:37:00.015646"
+    },
+    {
+      "id": "s-y7-cells_intermediate_007",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is preparing to observe a plant cell using a light microscope. They have an eyepiece lens with a magnification of x10. They can choose between two objective lenses: Lens 1 (x4 magnification) and Lens 2 (x40 magnification).\n\nWhich of the following statements correctly compares the total magnification produced by Lens 1 and Lens 2, and explains why Lens 2 would be chosen to observe smaller organelles like chloroplasts?",
+      "options": [
+        "A) Lens 1 provides x40 total magnification, and Lens 2 provides x400 total magnification. Lens 2 is better for chloroplasts because its lower magnification allows a wider field of view.",
+        "B) Lens 1 provides x14 total magnification, and Lens 2 provides x50 total magnification. Lens 2 is better for chloroplasts because it has a higher total magnification, revealing finer details.",
+        "C) Lens 1 provides x40 total magnification, and Lens 2 provides x400 total magnification. Lens 2 is better for chloroplasts because its higher total magnification allows more detailed observation.",
+        "D) Lens 1 provides x400 total magnification, and Lens 2 provides x40 total magnification. Lens 2 is better for chloroplasts because its higher magnification shows the cell's overall structure."
+      ],
+      "correctAnswer": "C) Lens 1 provides x40 total magnification, and Lens 2 provides x400 total magnification. Lens 2 is better for chloroplasts because its higher total magnification allows more detailed observation.",
+      "explanation": "To calculate the total magnification of a light microscope, you multiply the eyepiece lens magnification by the objective lens magnification.\n\n**Step 1: Calculate total magnification for Lens 1.**\nEyepiece magnification = x10\nObjective lens magnification = x4\nTotal magnification (Lens 1) = x10 × x4 = x40\n\n**Step 2: Calculate total magnification for Lens 2.**\nEyepiece magnification = x10\nObjective lens magnification = x40\nTotal magnification (Lens 2) = x10 × x40 = x400\n\n**Step 3: Evaluate the options and explanation.**\n- Option A correctly calculates the magnifications but incorrectly explains why Lens 2 would be chosen, as higher magnification provides less field of view but more detail.\n- Option B incorrectly calculates the total magnifications (it adds them instead of multiplying).\n- Option C correctly calculates both total magnifications (x40 for Lens 1 and x400 for Lens 2) and correctly explains that Lens 2 is better for observing smaller structures like chloroplasts **because** its higher total magnification (x400) allows for a more detailed observation.\n- Option D incorrectly calculates total magnifications and swaps them.\n\nTherefore, option C is the correct answer as it accurately states the total magnifications and provides a correct scientific reason for choosing the higher magnification lens to observe small organelles.",
+      "hint": "Remember that total magnification is found by multiplying the magnification of the eyepiece lens by the magnification of the objective lens. To see small details, you generally need a higher total magnification.",
+      "generatedAt": "2026-04-29T22:37:19.986327"
+    },
+    {
+      "id": "s-y7-cells_intermediate_008",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is using a light microscope to observe a leaf epidermal cell. They use an eyepiece lens with a magnification of x10 and an objective lens with a magnification of x40.\n\n1.  **Calculate** the total magnification of the microscope. (2 marks)\n2.  The student then observes a human cheek cell using the *same* eyepiece lens (x10) but switches to an objective lens with a magnification of x20. **Describe** one key difference they would expect to see between the leaf epidermal cell and the human cheek cell at this new magnification, and **explain** *why* this difference exists. (4 marks)",
+      "options": [],
+      "correctAnswer": "1. **Calculation of Total Magnification:**\n    *   Formula: Total Magnification = Eyepiece lens magnification × Objective lens magnification\n    *   Substitution: Total Magnification = x10 × x40\n    *   Answer: Total Magnification = x400 (2 marks)\n\n2. **Description and Explanation of Difference:**\n    *   **Description:** The leaf epidermal cell will have a rigid cell wall (1 mark), which is absent in the human cheek cell. (Alternatively: The leaf epidermal cell will have chloroplasts, which are absent in the human cheek cell. OR The leaf epidermal cell will have a large, permanent vacuole, which is absent or much smaller in the human cheek cell.)\n    *   **Explanation:** The cell wall provides structural support and protection to the plant cell (1 mark), helping it maintain a fixed, rigid shape (1 mark). Animal cells, such as human cheek cells, do not need a cell wall because they have other forms of support, like a cytoskeleton or a skeleton for the organism as a whole (1 mark). (Alternatively for chloroplasts: Chloroplasts are the site of photosynthesis, allowing plant cells to produce their own food. Animal cells obtain food by consuming other organisms and therefore do not have chloroplasts.)",
+      "explanation": "1.  To calculate the total magnification, multiply the magnification of the eyepiece lens by the magnification of the objective lens. For the leaf cell, this is 10 (eyepiece) * 40 (objective) = 400. So, the total magnification is x400.\n2.  This part requires recalling the fundamental structural differences between plant and animal cells. A key distinguishing feature of plant cells (like the leaf epidermal cell) is the presence of a cell wall. Animal cells (like the human cheek cell) do not have a cell wall. The explanation must link the presence of the cell wall to its function and the absence of it in animal cells to their different needs. The cell wall provides rigidity and support to plant cells, which helps plants stand upright. Animal cells have other mechanisms for support and do not require a cell wall.",
+      "hint": "For the first part, remember the formula for calculating total magnification. For the second part, consider the basic structural features that are present in plant cells but absent in animal cells, and what function these structures serve.",
+      "generatedAt": "2026-04-29T22:37:36.120172"
+    },
+    {
+      "id": "s-y7-cells_intermediate_009",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is using a light microscope to observe the cells from an onion peel. They want to get the clearest possible image of the cells.\n\n(a) State one specific feature that the student would *not* be able to clearly see in an onion cell, even with good microscope technique, which is present in a leaf plant cell. (1 mark)\n\n(b) Describe two adjustments the student could make to the light microscope to improve the clarity and detail of the onion cells they are observing. (2 marks)",
+      "options": [],
+      "correctAnswer": "(a) Chloroplasts / Chlorophyll (1 mark)\n\n(b) \n1. Adjust the fine focus knob: This makes small movements to the objective lens or stage, allowing the image to be brought into sharp focus, which improves both clarity and detail. (1 mark)\n2. Adjust the diaphragm / aperture: This controls the amount of light passing through the specimen. Finding the optimal light level reduces glare and improves contrast, thereby enhancing clarity and revealing more detail. (1 mark)\n\n*Other acceptable answers for (b) include: switching to a higher power objective lens (then refocusing and adjusting light), cleaning the lenses (eyepiece/objective).* ",
+      "explanation": "Part (a) assesses the student's understanding of different plant cell types and their specific features. Onion cells grow underground and do not perform photosynthesis, therefore they lack chloroplasts, which are essential for photosynthesis in plant cells found in leaves. Part (b) evaluates the student's practical knowledge of using a light microscope. Adjusting the fine focus is crucial for achieving a sharp, detailed image, while adjusting the diaphragm controls light intensity and contrast, both of which are vital for improving the clarity and visibility of cellular structures.",
+      "hint": "For part (a), consider the main function of an onion cell compared to a leaf cell. For part (b), think about how you control the focus and the light intensity on a microscope.",
+      "generatedAt": "2026-04-29T22:38:50.813270"
+    },
+    {
+      "id": "s-y7-cells_intermediate_010",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A Year 7 student is observing a slide of plant cells under a light microscope using the low power objective lens. They notice the cells appear very faint and mostly transparent, making it hard to identify distinct internal structures like the nucleus or vacuole.\n\nConsider the following possible actions:\n\nP: Increase the magnification to high power immediately.\nQ: Add a drop of distilled water to the slide.\nR: Adjust the diaphragm to allow more light through.\nS: Add a suitable stain, such as iodine solution, to the slide preparation.\n\n1.  **State** which single action (P, Q, R, or S) would be *most effective* to improve the visibility of the internal structures mentioned. (1 mark)\n2.  **Explain** how this chosen action helps to make the internal structures more visible. (3 marks)",
+      "options": [],
+      "correctAnswer": "1. **S** (1 mark)\n\n2. Adding a stain like iodine (S) helps make internal structures visible because:\n    *   Stains are coloured chemicals that are absorbed by (or bind to) specific parts of the cell, such as the nucleus or starch granules in plant cells. (1 mark)\n    *   This absorption of the coloured stain makes these structures appear darker or a different colour compared to the surrounding transparent cytoplasm. (1 mark)\n    *   This increases the contrast between the internal structures and their background, allowing them to absorb or reflect light differently, making them much easier to identify and observe under the microscope. (1 mark)",
+      "explanation": "The problem states that internal structures are 'faint and mostly transparent', making them hard to identify. This indicates a lack of contrast.\n\n*   **P (Increase magnification):** While higher magnification makes structures appear larger, it won't solve the issue of them being faint and transparent. It might even make them harder to see if they lack contrast, potentially just enlarging a blurry, faint image. It is also usually done after focusing on low power.\n*   **Q (Add distilled water):** Adding distilled water might prevent the slide from drying out if that was the issue, but it would not add contrast to already transparent internal structures. In fact, it might dilute any existing medium.\n*   **R (Adjust diaphragm):** Adjusting the diaphragm controls the amount of light passing through the specimen. While important for overall brightness and some contrast, it generally affects the whole field of view and doesn't selectively colour or highlight specific transparent internal organelles for easier identification against a transparent background. It might make the entire cell brighter or dimmer, but not necessarily differentiate faint internal parts effectively.\n*   **S (Add a suitable stain):** Stains are specifically designed to bind to or be absorbed by certain cell components. For example, iodine stains starch (often found in plant cells) and also helps highlight the nucleus by providing colour and increasing the contrast between these structures and the surrounding cytoplasm. This direct addition of colour makes transparent structures visible and identifiable.\n\nTherefore, action S is the most effective way to improve the visibility of *internal structures* that are faint and transparent by directly increasing their contrast.",
+      "hint": "Think about how transparent objects can be made easier to see. What can be added to them to make them stand out against their background?",
+      "generatedAt": "2026-04-29T22:39:11.535969"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y7-cells_advanced_001",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student, Ben, is using a light microscope to observe some cells. He first uses an eyepiece lens with a magnification of x10 and an objective lens with a magnification of x4. \n\na) Calculate the total magnification of the microscope Ben is using. (2 marks)\n\nBen then switches to a higher power objective lens (x40) to look at a different type of cell. He observes a cell that is rectangular in shape and contains green, oval structures. It also has a distinct outer layer that is thicker than the inner membrane. \n\nb) State two structures visible in Ben's observation that tell him this is a plant cell and not an animal cell. (2 marks)\n\nc) Explain why it is important to start observing a slide using the lowest power objective lens before switching to a higher power lens. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Formula: Total Magnification = Eyepiece Magnification × Objective Lens Magnification\n   Substitution: Total Magnification = x10 × x4\n   Answer: Total Magnification = x40 (or 40 times)\n\nb) 1. Cell wall (identified by the 'distinct outer layer that is thicker than the inner membrane').\n   2. Chloroplasts (identified by the 'green, oval structures').\n\nc) Starting with the lowest power objective lens provides a wider field of view (1 mark), making it easier to locate the specimen on the slide (1 mark). It also allows for safer initial focusing, reducing the risk of the objective lens hitting the slide (1 mark), which is more likely with longer higher power lenses.",
+      "explanation": "a) The total magnification of a light microscope is calculated by multiplying the magnification of the eyepiece lens by the magnification of the objective lens being used. In this case, x10 (eyepiece) multiplied by x4 (objective) gives a total magnification of x40.\n\nb) Plant cells have specific structures that are absent in animal cells. The description 'distinct outer layer that is thicker than the inner membrane' points to the cell wall, which provides structural support and protection to plant cells. The 'green, oval structures' are chloroplasts, the sites of photosynthesis, a process unique to plants and some other organisms. Animal cells lack both cell walls and chloroplasts.\n\nc) It is a fundamental technique in microscopy to begin observation using the lowest power objective lens. This is because lower power lenses offer a significantly wider field of view, making it much easier to find and center the desired specimen on the slide. If a higher power lens were used first, the field of view would be very narrow, making it difficult to locate the specimen. Additionally, lower power objective lenses are shorter, which reduces the chance of the lens accidentally making contact with and damaging the slide while focusing, a risk that increases with the longer, higher power lenses.",
+      "hint": "For part (a), remember the formula for calculating total magnification. For part (b), recall the key differences in cell structures that distinguish plant cells from animal cells. For part (c), think about the practical advantages of starting with a broad view and safety when using a microscope.",
+      "generatedAt": "2026-04-29T22:39:28.187770"
+    },
+    {
+      "id": "s-y7-cells_advanced_002",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A scientist discovers a new single-celled organism living in pond water and observes it using a light microscope.\n\n**(a)** Describe two distinct structural features the scientist would look for to determine if this unknown organism is more similar to a plant cell or an animal cell. (4 marks)\n\n**(b)** The scientist uses an eyepiece lens with a magnification of 10x. To achieve a total magnification of 400x, calculate the magnification of the objective lens they must use. Show your working. (3 marks)\n\n**(c)** At a total magnification of 400x, the scientist measures the diameter of the field of view to be 0.5 mm. They estimate that 5 of the unknown organisms can fit side-by-side across this entire diameter. Explain how the scientist can use this information to determine the *actual* average length of one organism. Then, state the actual average length of one organism in micrometres (µm). (5 marks)",
+      "options": [],
+      "correctAnswer": "**(a)**\n1.  **Cell Wall:** The scientist would look for a rigid outer layer called a cell wall. If present, it suggests the organism is more like a plant cell, as animal cells do not have a cell wall. (2 marks)\n2.  **Chloroplasts:** The scientist would look for green organelles called chloroplasts inside the cell. If present, it suggests the organism is more like a plant cell, as chloroplasts are responsible for photosynthesis and are not found in animal cells. (2 marks)\n*(Alternative valid points include: large permanent vacuole in plant-like vs no/small temporary vacuoles in animal-like cells.)*\n\n**(b) Calculate the magnification of the objective lens:**\nFormula: Total Magnification = Eyepiece Magnification × Objective Magnification (1 mark)\nSubstitution: 400x = 10x × Objective Magnification (1 mark)\nObjective Magnification = 400x / 10x\nObjective Magnification = 40x (1 mark)\n\n**(c) Explain and state the actual average length:**\n**Explanation:**\n1.  The scientist would first divide the total diameter of the field of view (0.5 mm) by the number of organisms that fit across it (5) to find the length of one organism in millimetres (mm). (1 mark)\n2.  Then, they would convert this length from millimetres (mm) to micrometres (µm) by multiplying the value by 1000, because there are 1000 micrometres in 1 millimetre. (2 marks)\n\n**Actual average length of one organism:**\nLength in mm = 0.5 mm / 5 = 0.1 mm (1 mark)\nLength in µm = 0.1 mm × 1000 µm/mm = 100 µm (1 mark)",
+      "explanation": "This multi-part question assesses the student's understanding of cell structure differences between plants and animals, the calculation of microscope magnification, and the practical application of estimating actual cell size from a microscopic observation. Part (a) requires recall and comparison of cell features. Part (b) involves an inverse calculation of the magnification formula. Part (c) is an 'Advanced' task for Year 7, requiring the student to explain a multi-step process for calculating actual size, involving both division and unit conversion (mm to µm), demonstrating a deeper understanding of practical microscopy. The use of clear command words (Describe, Calculate, Explain, State) ensures that students know the expected depth of their answers, and specific units are required throughout.",
+      "hint": "Remember the formula that links total magnification to the eyepiece and objective lens magnifications. When calculating actual sizes from a microscope's field of view, ensure you perform the necessary unit conversions from millimetres (mm) to micrometres (µm).",
+      "generatedAt": "2026-04-30T08:15:13.377437"
+    },
+    {
+      "id": "s-y7-cells_advanced_003",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student, Maya, is preparing a slide of onion epidermis cells to observe under a light microscope. She carefully places the slide on the stage, adjusts the light, and begins by using the lowest power objective lens.\n\n**(a) Explain two distinct structural features that Maya would observe, allowing her to identify these as plant cells rather than animal cells.** (4 marks)\n*Feature 1: ____________________________*\n*Explanation 1 (why it identifies it as a plant cell): ____________________________________________________________________________________________________________________________________________________________________________________________*\n*Feature 2: ____________________________*\n*Explanation 2 (why it identifies it as a plant cell): ____________________________________________________________________________________________________________________________________________________________________________________________*\n\n**(b) Maya's microscope has an eyepiece lens with a magnification of x10.**\n**i) She initially uses an objective lens with a magnification of x4. Calculate the total magnification of the microscope at this setting. Show your working and include units.** (2 marks)\n\n**ii) Maya then switches the objective lens to x40, without adjusting the focus. Describe the changes in what Maya would observe through the eyepiece regarding the size of the cells, the level of detail visible, and the overall field of view.** (3 marks)",
+      "options": [],
+      "correctAnswer": {
+        "(a)": "Feature 1: Cell wall (1 mark)\nExplanation 1: It is a rigid outer layer around the cell membrane, which provides a fixed, often rectangular shape and support to the cell. Animal cells do not have a cell wall and therefore have more irregular, rounded shapes. (1 mark for describing structure, 1 mark for linking to plant vs animal difference)\n\nFeature 2: Large permanent central vacuole (1 mark)\nExplanation 2: This is a large, membrane-bound sac that stores water, nutrients, and waste, taking up a significant volume of the cell and helping to maintain its turgor pressure. Animal cells typically have small, temporary vacuoles, or none at all. (1 mark for describing structure, 1 mark for linking to plant vs animal difference)",
+        "(b) i)": "Formula: Total Magnification = Eyepiece Magnification × Objective Lens Magnification (1 mark for formula or correct values in calculation)\nSubstitution: Total Magnification = x10 × x4\nAnswer: Total Magnification = x40 (1 mark for correct answer with units)",
+        "(b) ii)": "Size of cells: The cells would appear much larger / more magnified (1 mark).\nLevel of detail visible: More internal detail of the cells would become visible (1 mark).\nOverall field of view: The field of view would become much smaller / less of the slide would be visible (1 mark)."
+      },
+      "explanation": "**(a)** This question requires students to recall and apply their knowledge of plant cell structures and compare them to animal cells. For each feature, they must name it and then explain *why* that feature specifically identifies it as a plant cell, linking the presence of the feature (cause) to its distinguishing characteristic (effect) compared to animal cells. The cell wall provides rigidity and a fixed shape, distinguishing plant cells from the more irregular animal cells. The large central vacuole helps maintain turgor pressure and is a prominent, permanent feature in plant cells, unlike animal cells.\n\n**(b) i)** This part tests the student's ability to perform a standard calculation for light microscopes. The formula for total magnification (eyepiece magnification multiplied by objective lens magnification) is a fundamental concept. Students must show the formula or the correct values in the calculation and provide the correct numerical answer with the appropriate unit (x).\n\n**(b) ii)** This section assesses the student's understanding of how changing magnification affects the view through a microscope. Switching to a higher power objective lens (from x4 to x40) increases the total magnification significantly. This causes the observed cells to appear much larger and often reveals more intricate details within them. However, a direct consequence of higher magnification is a reduced field of view, meaning less of the overall sample can be seen at once. Students need to describe these three key effects clearly.",
+      "hint": "For part (a), think about the key structural differences that give plant cells their characteristic shape and internal features compared to animal cells. For part (b) i), remember the simple multiplication rule for combining eyepiece and objective lens magnifications. For part (b) ii), consider what happens when you 'zoom in' significantly on an image — how does that affect what you see up close versus the overall picture?",
+      "generatedAt": "2026-04-30T08:15:35.155154"
+    },
+    {
+      "id": "s-y7-cells_advanced_004",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A student observes a prepared slide of cells under a light microscope. The eyepiece lens has a magnification of 10x and the objective lens selected has a magnification of 40x. They measure that 5 of these cells fit across the entire field of view. The actual diameter of the field of view under this specific objective lens is 1.25 mm.\n\n**Calculate** the estimated length of a single cell in micrometres (µm).",
+      "options": [
+        "25 µm",
+        "250 µm",
+        "1250 µm",
+        "2500 µm"
+      ],
+      "correctAnswer": "250 µm",
+      "explanation": "1.  First, calculate the length of a single cell in millimetres (mm). This is found by dividing the total diameter of the field of view by the number of cells that fit across it:\n    Length of one cell = Diameter of field of view / Number of cells\n    Length of one cell = 1.25 mm / 5 = 0.25 mm\n2.  Next, convert this length from millimetres (mm) to micrometres (µm). Remember that 1 mm is equal to 1000 µm:\n    Length of one cell = 0.25 mm × 1000 µm/mm = 250 µm\n\nTherefore, the estimated length of a single cell is 250 µm.",
+      "hint": "Start by calculating the length of one cell in millimetres using the field of view and the number of cells. Then, convert that measurement into micrometres, recalling that 1 mm = 1000 µm.",
+      "generatedAt": "2026-04-30T08:15:51.602986"
+    },
+    {
+      "id": "s-y7-cells_advanced_005",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student is observing a prepared slide containing cells from an unknown organism using a light microscope. The eyepiece lens has a magnification of x10, and the objective lens is set to x40. The student observes that the cells are rectangular, possess a distinct cell wall, a large central vacuole, and several green organelles. They also note the presence of a nucleus. The student makes a detailed sketch of one cell, and measures its length in the sketch as 25 mm.\n\n1.  **Describe** two distinct features observed in these cells that strongly suggest they are plant cells rather than animal cells. (2 marks)\n2.  **Explain** why the green organelles observed are essential for the survival of this organism. (3 marks)\n3.  **Calculate** the total magnification achieved by the student using the microscope. (1 mark)\n4.  **Calculate** the actual length, in micrometres (µm), of the cell observed. Show your working clearly. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Describe** two distinct features observed in these cells that strongly suggest they are plant cells rather than animal cells. (2 marks)\n    *   Presence of a **cell wall** (which provides a rigid, fixed shape and structural support, unlike animal cells which lack a cell wall). (1 mark)\n    *   Presence of a **large central vacuole** (which stores water, nutrients, and helps maintain turgor pressure, significantly larger than any vacuole in animal cells). (1 mark)\n    *   Presence of **green organelles (chloroplasts)** (site of photosynthesis, absent in animal cells). (1 mark)\n    *(Award 1 mark for each correctly identified and briefly described feature, up to a maximum of 2 marks. Student must identify the feature AND briefly describe why it indicates a plant cell for full marks for 'describe').*\n\n2.  **Explain** why the green organelles observed are essential for the survival of this organism. (3 marks)\n    *   The green organelles are **chloroplasts** (1 mark).\n    *   They contain **chlorophyll**, which absorbs light energy (1 mark).\n    *   This light energy is used for **photosynthesis**, a process that produces glucose (food/energy) for the plant, providing the necessary energy for its growth and survival (1 mark for linking cause and effect to survival).\n\n3.  **Calculate** the total magnification achieved by the student using the microscope. (1 mark)\n    *   Total magnification = Eyepiece magnification × Objective lens magnification\n    *   Total magnification = x10 × x40 = **x400** (1 mark)\n\n4.  **Calculate** the actual length, in micrometres (µm), of the cell observed. Show your working clearly. (3 marks)\n    *   Formula: Magnification = Image size / Actual size\n    *   Rearranging: Actual size = Image size / Magnification (1 mark for correct formula/rearrangement)\n    *   Substitution: Actual size = 25 mm / 400 (1 mark for correct substitution)\n    *   Actual size = 0.0625 mm\n    *   Convert to micrometres: 0.0625 mm × 1000 µm/mm = **62.5 µm** (1 mark for correct answer with units and conversion)",
+      "explanation": "See model answer for full explanation and working.",
+      "hint": "For calculations, remember the relationship: Total Magnification = Eyepiece Magnification × Objective Magnification. Also, Magnification = Image Size / Actual Size, and ensure you convert units correctly between millimetres and micrometres (1 mm = 1000 µm).",
+      "generatedAt": "2026-04-30T08:16:08.892296"
+    },
+    {
+      "id": "s-y7-cells_advanced_006",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A student is observing a slide containing an unknown type of cell under a light microscope. They make the following observations:\n*   The cell has a fixed, angular shape.\n*   There is a distinct, thick outer layer surrounding the cell membrane.\n*   A large, clear fluid-filled sac occupies most of the cell's volume.\n*   Numerous small, green, oval structures are scattered throughout the cytoplasm.\n\n(a) State whether the student is observing a plant cell or an animal cell. Describe two distinct features from the observations above that lead you to this conclusion. [3 marks]\n\n(b) The student is currently using an eyepiece lens with a magnification of x10 and an objective lens with a magnification of x20.\n    (i) Calculate the total magnification of the microscope setup. Show your working. [2 marks]\n    (ii) At this total magnification, the student uses an eyepiece graticule and measures the cell to be 30 divisions long. They know that each graticule division represents 5 micrometres (µm) at this specific magnification. Calculate the actual length of the cell in micrometres (µm). Show your working and include units. [3 marks]\n\n(c) The student now wants to observe a much smaller organelle, such as a mitochondrion, within the same cell in more detail. Explain two ways the student could adjust the microscope to attempt a clearer, more magnified view, and describe one fundamental limitation of using a light microscope to observe very small organelles like mitochondria. [4 marks]",
+      "options": [],
+      "correctAnswer": "(a) State: Plant cell. [1 mark]\nDescribe: (Any two from the following, clearly linked to observation)\n1. The presence of a distinct, thick outer layer surrounding the cell membrane (cell wall) is characteristic of a plant cell. [1 mark]\n2. The fixed, angular shape indicates the presence of a rigid cell wall, typical of a plant cell. [1 mark]\n3. A large, clear fluid-filled sac (central vacuole) occupying most of the cell's volume is a feature of plant cells. [1 mark]\n4. The numerous small, green, oval structures (chloroplasts) indicate that the cell can perform photosynthesis, which occurs in plant cells. [1 mark]\n\n(b) (i) Calculation of total magnification:\nFormula: Total Magnification = Eyepiece lens magnification × Objective lens magnification [1 mark]\nWorking: Total Magnification = x10 × x20 = x200 [1 mark]\n\n(b) (ii) Calculation of actual cell length:\nFormula: Actual length = Number of graticule divisions × Value of each division [1 mark]\nWorking: Actual length = 30 divisions × 5 µm/division [1 mark]\nAnswer: Actual length = 150 µm [1 mark]\n\n(c) Explanation of adjustments and limitation:\nAdjustments (any two explained): [2 x 1 mark for adjustment + 2 x 1 mark for explanation = 4 marks total]\n1. Increase magnification: Switch to a higher power objective lens (e.g., x40 or x100) to make the mitochondrion appear larger. [1 mark for adjustment, 1 mark for explanation]\n2. Refocus: Use the fine adjustment knob to bring the image into precise focus, as higher magnifications require very careful focusing. [1 mark for adjustment, 1 mark for explanation]\n3. Adjust light: Adjust the diaphragm/aperture or light source intensity to improve contrast and visibility of small, often colourless, organelles. [1 mark for adjustment, 1 mark for explanation]\n\nLimitation: [1 mark]\nA light microscope has a limited resolution, meaning it cannot clearly distinguish between two points that are very close together. Mitochondria are extremely small, often below the resolution limit of standard light microscopes. This means they would appear as blurred dots rather than showing clear internal detail, or they might not be visible at all. [1 mark for limitation]",
+      "explanation": "This question assesses the student's understanding of plant and animal cell structures, their ability to apply mathematical calculations related to microscope magnification and actual size, and their knowledge of how to operate and understand the limitations of a light microscope. \n\nPart (a) requires identification based on key plant cell features (cell wall, fixed shape, large vacuole, chloroplasts) which are distinct from animal cells. \n\nPart (b)(i) tests the fundamental calculation for total magnification. Part (b)(ii) introduces the concept of an eyepiece graticule and its use in measuring actual size, which requires multi-step calculation and application of units. This is an advanced application for Year 7 as it moves beyond simple observation to quantitative measurement.\n\nPart (c) challenges students to explain practical microscope adjustments (increasing magnification, focusing) and critically understand the inherent resolution limitations of light microscopes when observing sub-cellular structures like mitochondria, which are typically only clearly visible with electron microscopes.",
+      "hint": "For calculating actual length, remember that the total length measured in graticule divisions needs to be multiplied by the value of *each* division. For adjusting the microscope, think about how to make an image bigger and clearer, and what fundamental property of light affects how much detail you can see in very tiny objects.",
+      "generatedAt": "2026-04-30T08:16:27.445204"
+    },
+    {
+      "id": "s-y7-cells_advanced_007",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student is observing two different plant cells using a light microscope: an epidermal cell from a plant leaf and a cell from a plant root tip.\n\na) Explain why the student would expect to see chloroplasts in the leaf epidermal cell but not in the root tip cell, even though both are plant cells. (3 marks)\n\nb) The student has focused on the leaf epidermal cell using a x10 eyepiece lens and a x10 objective lens. They now want to observe the cell wall more clearly using a x40 objective lens. Describe the steps the student should take to switch from x100 total magnification to x400 total magnification and bring the cell wall into sharp focus, *without moving the stage up or down significantly*. (3 marks)\n\nc) When viewing the leaf epidermal cell under a total magnification of x400, the student measures its apparent length to be 0.12 mm using an eyepiece graticule. Calculate the actual length of the leaf epidermal cell in micrometres (µm). Show your working.",
+      "options": [],
+      "correctAnswer": "a) Chloroplasts contain chlorophyll and are the site of photosynthesis. Leaf epidermal cells are exposed to sunlight (cause), allowing them to carry out photosynthesis to produce food for the plant (effect). Root tip cells are located underground, away from sunlight (cause), so they cannot perform photosynthesis and therefore do not require or contain chloroplasts (effect).\n\nb) 1. Rotate the revolving nosepiece (or turret) to switch from the x10 objective lens to the x40 objective lens.\n2. Make small, precise adjustments to the fine focus knob only to bring the image into sharp focus.\n\nc) Formula for Actual Size = Image Size / Magnification\nImage Size = 0.12 mm\nMagnification = x400\n\nSubstitution:\nActual Size = 0.12 mm / 400\nActual Size = 0.0003 mm\n\nConvert to micrometres (µm):\n1 mm = 1000 µm\nActual Size = 0.0003 mm * 1000 µm/mm\nActual Size = 0.3 µm\n\nTherefore, the actual length of the leaf epidermal cell is 0.3 µm.",
+      "explanation": "a) This part assesses the student's understanding of the function of chloroplasts (photosynthesis) and how cell structure is adapted to its role and environment. Leaf cells are exposed to light, hence have chloroplasts. Root cells are underground, lack light, and therefore do not have chloroplasts, demonstrating cell specialisation.\n\nb) This question tests the practical knowledge of using a light microscope, specifically the correct procedure for increasing magnification and achieving focus. The key is to use the revolving nosepiece to change objectives and then *only* the fine focus knob for higher magnifications, as objective lenses are often parfocal (meaning the image remains mostly in focus when changing magnification).\n\nc) This calculation requires students to apply the standard formula for calculating actual size from observed image size and total magnification. It also includes an essential unit conversion from millimetres (mm) to micrometres (µm), which adds to the 'advanced' difficulty for a Year 7 student.",
+      "hint": "For part (c), remember the formula linking actual size, image size, and magnification. Also, recall that there are 1000 micrometres (µm) in 1 millimetre (mm) for unit conversion.",
+      "generatedAt": "2026-04-30T08:17:06.661036"
+    },
+    {
+      "id": "s-y7-cells_advanced_008",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A scientist is studying a newly discovered single-celled organism. They use a light microscope to observe its cells and note the following key features:\n1. A rigid outer layer surrounding the cell membrane.\n2. A large, fluid-filled sac occupying much of the cell's volume.\n3. Small, green organelles containing chlorophyll.\n\n**(a) Explain why these observed features indicate that the organism's cells are plant-like rather than animal-like. (3 marks)**\n\n**(b) The scientist initially uses a x4 objective lens with a x10 eyepiece lens to locate the cells. To view one of the small, green organelles clearly, they then switch to a x40 objective lens. Describe the sequence of steps the scientist should follow, starting after they have located the cells at x4 magnification, to successfully observe a single green organelle in sharp focus at x40 magnification. (3 marks)**\n\n**(c) At x40 objective lens magnification (with a x10 eyepiece), the scientist draws the magnified image of a single green organelle. The drawing shows the organelle to be 0.4 mm long. Calculate the actual length of this green organelle in micrometres (µm). Show your working. (3 marks)**",
+      "options": [],
+      "correctAnswer": "**Part (a) Explanation (3 marks):**\nThese features suggest a plant-like cell because:\n- The rigid outer layer is a cell wall, which provides support and protection and is characteristic of plant cells, but not found in animal cells. (1 mark)\n- The large, fluid-filled sac is a large central vacuole, common in plant cells for storage and maintaining turgor pressure, whereas animal cells have small or no vacuoles. (1 mark)\n- The small, green organelles containing chlorophyll are chloroplasts, which are sites of photosynthesis in plant cells, and are absent in animal cells. (1 mark)\n\n**Part (b) Description of steps (3 marks):**\n1.  **Centre the specimen:** Ensure the desired green organelle is in the centre of the field of view before changing magnification. (1 mark)\n2.  **Switch objective lens:** Rotate the revolving nosepiece to switch from the x4 objective lens to the x40 objective lens. (1 mark)\n3.  **Focus:** Use *only* the fine focus knob to bring the image into sharp focus, as the coarse focus knob should not be used at high magnifications. (1 mark)\n*(Award an additional mark if they mention adjusting the light intensity (e.g., iris diaphragm) if the field of view becomes too dark, but max 3 marks total).* \n\n**Part (c) Calculation (3 marks):**\n1.  **Calculate Total Magnification:**\n    Total Magnification = Eyepiece Magnification × Objective Lens Magnification\n    Total Magnification = x10 × x40 = x400 (1 mark)\n2.  **Convert Image Length to Micrometres (µm):**\n    Image Length = 0.4 mm\n    1 mm = 1000 µm\n    Image Length = 0.4 × 1000 µm = 400 µm (1 mark)\n3.  **Calculate Actual Length:**\n    Actual Length = Image Length / Total Magnification\n    Actual Length = 400 µm / 400\n    Actual Length = 1 µm (1 mark for correct answer with units)",
+      "explanation": "This question assesses a Year 7 student's understanding of:\n(a) Plant and animal cell structures: requiring them to identify key organelles (cell wall, central vacuole, chloroplasts) and explain their specific presence in plant cells as a differentiator from animal cells, linking cause (structure) to effect (plant cell identification).\n(b) Light microscope use at higher magnification: requiring a multi-step description of the correct procedure for switching objective lenses, focusing (emphasising fine focus only), and potentially light adjustment, demonstrating practical knowledge.\n(c) Magnification calculations: requiring them to combine knowledge of total magnification calculation (eyepiece x objective), unit conversion (mm to µm), and the formula Actual Size = Image Size / Magnification. This involves several steps and unit handling, making it advanced for Year 7.",
+      "hint": "For part (c), remember the formula for total magnification and how to calculate actual size from image size and total magnification. Pay close attention to unit conversions (mm to µm).",
+      "generatedAt": "2026-04-30T08:17:26.500697"
+    },
+    {
+      "id": "s-y7-cells_advanced_009",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student, Maya, is using a light microscope to observe cells. She prepares a slide of onion epidermal cells and places it under the microscope. She uses an eyepiece lens with a magnification of x10 and an objective lens with a magnification of x40.\n\nShe observes a single onion cell and then sketches this cell on paper, making her drawing 75 mm long. Maya knows that the *actual* length of the onion cell she observed is 0.15 mm.\n\n**Calculate the magnification of Maya's drawing.**",
+      "options": [
+        "A: 40",
+        "B: 150",
+        "C: 400",
+        "D: 500"
+      ],
+      "correctAnswer": "D: 500",
+      "explanation": "To calculate the magnification of Maya's drawing, you need to use the formula:\n\nMagnification = Image size / Actual size\n\n1.  Identify the image size: The length of Maya's drawing is 75 mm.\n2.  Identify the actual size: The actual length of the onion cell is 0.15 mm.\n3.  Substitute the values into the formula:\n    Magnification = 75 mm / 0.15 mm\n4.  Perform the calculation:\n    Magnification = 500\n\nThe magnification of Maya's drawing is 500 times. Note that the total magnification of the microscope (x10 eyepiece * x40 objective = x400) is a distractor, as the question specifically asks for the magnification of the *drawing*, which may or may not be the same as the microscope's magnification.",
+      "hint": "Remember the formula for magnification relating the size of the drawing to the actual size of the object: Magnification = Image size / Actual size.",
+      "generatedAt": "2026-04-30T08:17:45.812825"
+    },
+    {
+      "id": "s-y7-cells_advanced_010",
+      "topicId": "s-y7-cells",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 student, Chloe, is observing cells under a light microscope. She uses an eyepiece lens with a magnification of x10 and an objective lens with a magnification of x20. Under these settings, she measures the diameter of the field of view to be 2.0 mm. Chloe carefully focuses on a single, elongated cell. She estimates that 5 of these cells, placed end-to-end, would fit exactly across the diameter of her field of view. She then notes that this cell has a cell wall, a large central vacuole, and a nucleus, but no chloroplasts. Which of the following statements accurately describes Chloe's observations and calculations?",
+      "options": [
+        "A) The total magnification is x200, and the actual length of one cell is 0.4 mm. This cell is most likely an onion epidermal cell.",
+        "B) The total magnification is x30, and the actual length of one cell is 0.04 mm. This cell is most likely a cheek cell.",
+        "C) The total magnification is x200, and the actual length of one cell is 4.0 mm. This cell is most likely a palisade mesophyll cell.",
+        "D) The total magnification is x20, and the actual length of one cell is 0.2 mm. This cell is most likely a root hair cell."
+      ],
+      "correctAnswer": "A) The total magnification is x200, and the actual length of one cell is 0.4 mm. This cell is most likely an onion epidermal cell.",
+      "explanation": "1.  **Calculate Total Magnification**: The total magnification of a light microscope is calculated by multiplying the magnification of the eyepiece lens by the magnification of the objective lens.\n    Total Magnification = Eyepiece magnification × Objective lens magnification\n    Total Magnification = x10 × x20 = x200.\n\n2.  **Calculate Actual Cell Length**: The actual length of one cell can be determined by dividing the diameter of the field of view by the number of cells that fit across it.\n    Actual Cell Length = Field of View Diameter / Number of cells fitting across\n    Actual Cell Length = 2.0 mm / 5 = 0.4 mm.\n\n3.  **Identify Cell Type**: The observations state the cell has a cell wall, a large central vacuole, and a nucleus, but no chloroplasts. The presence of a cell wall and large central vacuole indicates it is a plant cell. The absence of chloroplasts means it is not a photosynthetic cell (like a palisade mesophyll cell). An onion epidermal cell is a common example of a plant cell that fits this description (acting as a protective layer and not carrying out photosynthesis). Root hair cells also fit the description of a plant cell without chloroplasts, but the general description of 'elongated' and organelles provided align well with an onion epidermal cell.\n\nTherefore, Option A correctly states the total magnification (x200), the actual length of one cell (0.4 mm), and a likely identification for the cell type (onion epidermal cell) based on its observed features.",
+      "hint": "First, calculate the total magnification of the microscope. Then, use the field of view diameter and the estimated number of cells to find the actual length of a single cell. Finally, use the described cell structures to identify the most probable cell type.",
+      "generatedAt": "2026-04-30T08:18:45.663900"
+    }
+  ]
+}

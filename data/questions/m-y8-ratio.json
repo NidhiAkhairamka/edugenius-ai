@@ -1,0 +1,483 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y8-ratio_beginner_001",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Sarah and Tom share a prize of £80 in the ratio 3:5. How much money does Tom receive?",
+      "options": [
+        "£30",
+        "£40",
+        "£48",
+        "£50"
+      ],
+      "correctAnswer": "£50",
+      "explanation": "1. Add the parts of the ratio: 3 + 5 = 8 parts.\n2. Divide the total amount by the total number of parts to find the value of one part: £80 ÷ 8 = £10 per part.\n3. Tom's share is represented by 5 parts. Multiply the value of one part by 5: 5 × £10 = £50.\nTherefore, Tom receives £50.",
+      "hint": "Start by finding the total number of parts in the given ratio. Then, use this to calculate the value of one part of the ratio.",
+      "generatedAt": "2026-04-30T12:07:41.152026"
+    },
+    {
+      "id": "m-y8-ratio_beginner_002",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "In a fruit bowl, the ratio of apples to bananas is 3:5. If there are 18 apples, how many bananas are there in the bowl? Show your working.",
+      "options": [],
+      "correctAnswer": "The ratio of apples to bananas is 3:5.\nThis means that 3 'parts' of the ratio correspond to apples, and 5 'parts' correspond to bananas.\nWe are given that there are 18 apples, which represents 3 parts.\nTo find the value of one part: Number of apples / Apple ratio part = 18 apples / 3 = 6 fruit per part.\nNow, to find the number of bananas, multiply the banana ratio part by the value of one part:\nNumber of bananas = Banana ratio part * Value of one part = 5 * 6 = 30 bananas.\nThere are 30 bananas in the fruit bowl.",
+      "explanation": "The question provides a ratio of apples to bananas (3:5) and the actual number of apples (18). The first step is to determine what value one 'part' of the ratio represents. Since 3 parts correspond to 18 apples, dividing 18 by 3 gives us 6, meaning each 'part' is equal to 6 fruits. Then, to find the number of bananas, we use the banana's ratio part (5) and multiply it by the value of one part (6). This gives 5 * 6 = 30 bananas.",
+      "hint": "Identify how many fruits are represented by one 'part' of the ratio, given that 3 parts are equal to 18 apples.",
+      "generatedAt": "2026-04-30T12:07:50.899006"
+    },
+    {
+      "id": "m-y8-ratio_beginner_003",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A builder uses 15 kg of cement to lay 3 square metres of paving. How much cement would the builder need to lay 7 square metres of paving? Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the amount of cement needed for 1 square metre of paving.\n15 kg / 3 m² = 5 kg per m².\n\nStep 2: Calculate the total cement needed for 7 square metres.\n5 kg/m² × 7 m² = 35 kg.\n\nThe builder would need 35 kg of cement.",
+      "explanation": "This is a direct proportion problem because the amount of cement needed increases directly with the area of paving. To solve, first find the unit rate (cement per square metre), then multiply this rate by the new required area.",
+      "hint": "First, work out how many kilograms of cement are needed for each square metre of paving.",
+      "generatedAt": "2026-04-30T12:08:03.472213"
+    },
+    {
+      "id": "m-y8-ratio_beginner_004",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A car uses 10 litres of fuel to travel 120 miles. Assuming the car's fuel consumption rate is constant, how far can the car travel on 25 litres of fuel?",
+      "options": [
+        "A: 48 miles",
+        "B: 135 miles",
+        "C: 300 miles",
+        "D: 250 miles"
+      ],
+      "correctAnswer": "C: 300 miles",
+      "explanation": "To solve this direct proportion problem, we first need to find out how many miles the car travels per litre of fuel (the unit rate):\n1.  **Calculate miles per litre:** Divide the total miles travelled by the total litres of fuel used: 120 miles ÷ 10 litres = 12 miles per litre.\n2.  **Calculate distance for 25 litres:** Multiply the miles per litre by the new amount of fuel: 12 miles/litre × 25 litres = 300 miles.\nTherefore, the car can travel 300 miles on 25 litres of fuel.",
+      "hint": "Think about how many miles the car travels for each single litre of fuel. Once you have that, you can calculate the distance for 25 litres.",
+      "generatedAt": "2026-04-30T12:08:25.777985"
+    },
+    {
+      "id": "m-y8-ratio_beginner_005",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A classroom has 12 red chairs and 18 blue chairs. What is the ratio of red chairs to blue chairs in its simplest form?",
+      "options": [
+        "A) 2:3",
+        "B) 3:2",
+        "C) 12:18",
+        "D) 6:9"
+      ],
+      "correctAnswer": "A) 2:3",
+      "explanation": "1. Write down the initial ratio of red chairs to blue chairs: 12 : 18.\n2. To simplify a ratio, find the highest common factor (HCF) of both numbers.\n3. The HCF of 12 and 18 is 6.\n4. Divide both parts of the ratio by the HCF:\n   12 ÷ 6 = 2\n   18 ÷ 6 = 3\n5. So, the simplified ratio of red chairs to blue chairs is 2:3.",
+      "hint": "To simplify a ratio, divide both numbers by their highest common factor (the largest number that divides into both of them exactly).",
+      "generatedAt": "2026-04-30T12:08:40.294089"
+    },
+    {
+      "id": "m-y8-ratio_beginner_006",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A chef mixes olive oil and vinegar for a salad dressing in the ratio 3:4. This means for every 3 parts of olive oil, there are 4 parts of vinegar. If 1 'part' in this ratio is equal to 25 millilitres, calculate the total amount of vinegar needed.",
+      "options": [
+        "75 millilitres",
+        "100 millilitres",
+        "125 millilitres",
+        "175 millilitres"
+      ],
+      "correctAnswer": "100 millilitres",
+      "explanation": "The ratio of olive oil to vinegar is 3:4.\nThis means there are 4 'parts' of vinegar.\nWe are told that 1 'part' in this ratio is equal to 25 millilitres.\nTo find the total amount of vinegar needed, multiply the number of vinegar parts by the value of one part:\nAmount of vinegar = Number of vinegar parts × Value of 1 part\nAmount of vinegar = 4 × 25 millilitres\nAmount of vinegar = 100 millilitres",
+      "hint": "Identify how many 'parts' of vinegar are in the given ratio, then use the provided value for a single 'part'.",
+      "generatedAt": "2026-04-30T12:09:00.071254"
+    },
+    {
+      "id": "m-y8-ratio_beginner_007",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Sarah and Ben share a total of £45 in the ratio 2:3. How much money does Ben receive?",
+      "options": [
+        "£18",
+        "£27",
+        "£9",
+        "£15"
+      ],
+      "correctAnswer": "£27",
+      "explanation": "1. Add the parts of the ratio together to find the total number of parts: 2 + 3 = 5 parts.\n2. Divide the total amount of money by the total number of parts to find the value of one part: £45 ÷ 5 = £9 per part.\n3. Ben's share is 3 parts of the ratio, so multiply the value of one part by Ben's share: 3 × £9 = £27.\nTherefore, Ben receives £27.",
+      "hint": "To share an amount in a given ratio, first find the total number of 'parts' in the ratio.",
+      "generatedAt": "2026-04-30T12:09:10.281151"
+    },
+    {
+      "id": "m-y8-ratio_beginner_008",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Liam and Maya share some marbles in the ratio 3:5. Maya receives 20 marbles. How many marbles does Liam receive?",
+      "options": [
+        "12 marbles",
+        "15 marbles",
+        "20 marbles",
+        "25 marbles"
+      ],
+      "correctAnswer": "12 marbles",
+      "explanation": "The ratio of marbles Liam receives to Maya receives is 3:5.\nMaya receives 20 marbles, which corresponds to 5 parts of the ratio.\nSo, 5 parts = 20 marbles.\nTo find the value of 1 part, divide the number of marbles Maya received by her share in the ratio: 1 part = 20 marbles / 5 = 4 marbles.\nLiam receives 3 parts of the ratio.\nSo, Liam's marbles = 3 parts * 4 marbles/part = 12 marbles.",
+      "hint": "Use the number of marbles Maya received and her part of the ratio to work out the value of '1 part' of the ratio.",
+      "generatedAt": "2026-04-30T12:09:21.444357"
+    },
+    {
+      "id": "m-y8-ratio_beginner_009",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A specific shade of green paint is created by mixing blue paint and yellow paint in the ratio 2:5. If a painter uses 10 litres of blue paint, how many litres of yellow paint are needed to make this specific shade?",
+      "options": [
+        "4 litres",
+        "10 litres",
+        "25 litres",
+        "50 litres"
+      ],
+      "correctAnswer": "25 litres",
+      "explanation": "1. The ratio of blue paint to yellow paint is given as 2:5. This means for every 2 parts of blue paint, there are 5 parts of yellow paint.\n2. We are told the painter uses 10 litres of blue paint. In the ratio, blue paint corresponds to 2 parts.\n3. So, 2 parts of the ratio are equal to 10 litres.\n4. To find the quantity that 1 part represents, divide the blue paint amount by its ratio parts: 10 litres ÷ 2 = 5 litres per part.\n5. Now we know that 1 part is equal to 5 litres.\n6. The yellow paint corresponds to 5 parts in the ratio.\n7. To find the amount of yellow paint needed, multiply the value of 1 part by the number of parts for yellow paint: 5 litres/part × 5 parts = 25 litres.\nTherefore, 25 litres of yellow paint are needed.",
+      "hint": "First, determine what quantity one 'part' of the ratio represents using the information given for blue paint.",
+      "generatedAt": "2026-04-30T12:09:35.380962"
+    },
+    {
+      "id": "m-y8-ratio_beginner_010",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A car travels 120 miles in 2 hours at a constant speed. How many miles would the car travel in 3 hours at the same speed?",
+      "options": [
+        "150 miles",
+        "180 miles",
+        "200 miles",
+        "240 miles"
+      ],
+      "correctAnswer": "180 miles",
+      "explanation": "To solve this problem, we first need to find the car's speed. \nSpeed = Distance / Time\nSpeed = 120 miles / 2 hours = 60 miles per hour.\n\nNow we can use this speed to find the distance travelled in 3 hours:\nDistance = Speed × Time\nDistance = 60 miles/hour × 3 hours = 180 miles.",
+      "hint": "Start by calculating the distance the car travels in one hour (its speed).",
+      "generatedAt": "2026-04-30T12:09:49.280427"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y8-ratio_intermediate_001",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "Alex and Ben share a prize of £1200 in the ratio 3:5, where Alex receives the first part of the ratio. Alex decides to spend his share of the money on gifts for his friends. Each gift costs £15. How many gifts can Alex buy? Show your working.",
+      "options": [
+        "10",
+        "30",
+        "50",
+        "80"
+      ],
+      "correctAnswer": "30",
+      "explanation": "1.  **Find the total number of parts in the ratio:**\n    The ratio of Alex's share to Ben's share is 3:5. So, the total number of parts is 3 + 5 = 8 parts.\n\n2.  **Calculate the value of one part:**\n    The total prize money is £1200. To find the value of one part, divide the total prize by the total number of parts:\n    Value of one part = £1200 / 8 = £150.\n\n3.  **Calculate Alex's share of the money:**\n    Alex receives 3 parts of the ratio. So, Alex's share is:\n    Alex's share = 3 × £150 = £450.\n\n4.  **Calculate the number of gifts Alex can buy:**\n    Each gift costs £15, and Alex has £450 to spend. To find out how many gifts he can buy, divide his share by the cost per gift:\n    Number of gifts = £450 / £15 = 30 gifts.\n\nTherefore, Alex can buy 30 gifts.",
+      "hint": "First, determine how much money Alex receives by sharing the total prize in the given ratio. Then, use that amount to figure out how many gifts can be purchased.",
+      "generatedAt": "2026-04-30T12:10:05.031579"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_002",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "Chloe, Dan, and Emily share a bag of sweets. The number of sweets they receive is in the ratio Chloe : Dan : Emily = 2 : 3 : 5. Emily receives 12 more sweets than Chloe.\n\nHow many sweets does Dan receive? Show your working.",
+      "options": [
+        "8",
+        "12",
+        "20",
+        "40"
+      ],
+      "correctAnswer": "12",
+      "explanation": "1.  First, determine the difference in the number of parts between Emily and Chloe.\n    Emily has 5 parts.\n    Chloe has 2 parts.\n    Difference in parts = 5 - 2 = 3 parts.\n\n2.  We are told that Emily receives 12 more sweets than Chloe. This means that 3 parts of the ratio correspond to 12 sweets.\n    3 parts = 12 sweets.\n\n3.  Calculate the value of one part.\n    1 part = 12 sweets / 3 = 4 sweets.\n\n4.  Now, find the number of sweets Dan receives. Dan has 3 parts in the ratio.\n    Dan's sweets = 3 parts * 4 sweets/part = 12 sweets.",
+      "hint": "Start by finding the difference in the number of ratio parts between Emily and Chloe. Use this difference, along with the given information about the 12 sweets, to work out the value of one single part of the ratio.",
+      "generatedAt": "2026-04-30T12:10:29.901515"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_003",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A primary school is planning a fun day. For safety, the ratio of adult helpers to children must be 1:12. If 156 children are expected to attend the fun day, and each adult helper is paid £30 for the day, calculate the total amount of money that will be paid to all the adult helpers. Show your working.",
+      "options": [],
+      "correctAnswer": "First, determine the number of adult helpers needed:\nThe ratio of adult helpers to children is 1:12.\nThere are 156 children expected.\nThis means that 12 'parts' of the ratio correspond to 156 children.\n1 part = 156 ÷ 12 = 13.\nSo, 13 adult helpers are needed.\n\nNext, calculate the total amount paid to the adult helpers:\nEach adult helper is paid £30.\nTotal amount = Number of adult helpers × Pay per adult helper\nTotal amount = 13 × £30 = £390.\n\nTherefore, the total amount of money that will be paid to all the adult helpers is £390.",
+      "explanation": "The problem requires two steps. First, you need to use the given ratio to find the number of adult helpers. The ratio of helpers to children is 1:12. Since there are 156 children, and 12 parts of the ratio correspond to the children, you divide 156 by 12 to find the value of one 'part', which represents the number of adult helpers. 156 ÷ 12 = 13. So, 13 adult helpers are needed. Second, you use this number to calculate the total cost. Each helper is paid £30. So, you multiply the number of helpers (13) by the pay per helper (£30) to get the total amount: 13 × £30 = £390.",
+      "hint": "First, use the given ratio and the number of children to find out how many adult helpers are needed. Then, use that number and the pay per helper to find the total cost.",
+      "generatedAt": "2026-04-30T12:10:42.067082"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_004",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A recipe for a fruit salad uses apples, grapes, and oranges in the ratio of their weights 5:3:2. Tom wants to make a total of 2.5 kg of fruit salad.\n\nWorking must be shown.\n\nIf 200g of grapes costs £0.80, what is the total cost of the grapes needed for Tom's fruit salad?",
+      "options": [
+        "£1.00",
+        "£2.40",
+        "£3.00",
+        "£4.00"
+      ],
+      "correctAnswer": "£3.00",
+      "explanation": "Step 1: Calculate the total number of parts in the ratio.\nThe ratio of apples:grapes:oranges is 5:3:2. \nTotal parts = 5 + 3 + 2 = 10 parts.\n\nStep 2: Convert the total weight of fruit salad to grams and calculate the weight of one part.\nTotal fruit salad weight = 2.5 kg = 2.5 * 1000g = 2500g.\nWeight of one part = 2500g / 10 = 250g.\n\nStep 3: Calculate the weight of grapes needed.\nGrapes represent 3 parts of the ratio.\nWeight of grapes needed = 3 * 250g = 750g.\n\nStep 4: Calculate the cost per gram of grapes.\n200g of grapes costs £0.80.\nCost per gram = £0.80 / 200g = £0.004 per gram.\n\nStep 5: Calculate the total cost of the required grapes.\nTotal cost = Weight of grapes needed * Cost per gram\nTotal cost = 750g * £0.004/g = £3.00.",
+      "hint": "First, determine the weight of grapes Tom needs by using the ratio and the total weight of the fruit salad. Remember to convert units if necessary. Then, use the given cost information to find the cost of that specific amount of grapes.",
+      "generatedAt": "2026-04-30T12:10:58.695311"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_005",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A certain shade of green paint is mixed using yellow paint and blue paint in the ratio 3:4. To make a small batch, 2.7 litres of yellow paint were used. If a decorator now needs to make a total of 21 litres of this green paint, how much blue paint will be required? Show your working.",
+      "options": [
+        "9 litres",
+        "12 litres",
+        "3.6 litres",
+        "18.9 litres"
+      ],
+      "correctAnswer": "12 litres",
+      "explanation": "1. Understand the ratio: The ratio of yellow paint to blue paint is 3:4. This means for every 3 parts of yellow paint, there are 4 parts of blue paint.\n2. Calculate the total number of parts: The total number of parts in the ratio is 3 (yellow) + 4 (blue) = 7 parts.\n3. Determine the value of one part for the total batch: The decorator needs to make a total of 21 litres of green paint. Since this total represents 7 parts, we can find the volume for one part by dividing the total volume by the total number of parts: 21 litres / 7 parts = 3 litres per part.\n4. Calculate the amount of blue paint needed: Blue paint accounts for 4 parts of the mixture. So, multiply the volume of one part by 4: 4 parts * 3 litres/part = 12 litres.\n\n(The information about 2.7 litres of yellow paint used for a small batch helps to understand the ratio but is not directly needed for calculating the blue paint for the 21-litre total batch.)",
+      "hint": "First, consider the total number of ratio parts. Then, use the total volume of paint required to find the volume equivalent to one ratio part.",
+      "generatedAt": "2026-04-30T12:11:22.766005"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_006",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A factory manufactures two types of electronic components, Component X and Component Y. The number of Component X to Component Y produced each week is in the ratio 5:9. To manufacture 60 Component Y, 8 kg of a special alloy is required. If the factory produces a total of 504 components (X and Y combined) in a week, how much special alloy (in kg) is needed for all the Component Y items produced that week? Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Determine the number of Component Y produced.\nTotal parts in the ratio = 5 (for X) + 9 (for Y) = 14 parts.\nValue of one part = Total components / Total parts = 504 components / 14 parts = 36 components per part.\nNumber of Component Y = Number of parts for Y × Value of one part = 9 × 36 = 324 Component Y.\n\nStep 2: Calculate the special alloy needed for Component Y.\nFrom the given information, 60 Component Y require 8 kg of alloy.\nAlloy required per Component Y = 8 kg / 60 components = 2/15 kg per component.\nTotal alloy needed for 324 Component Y = (2/15) kg/component × 324 components.\nTotal alloy = 648 / 15 kg.\nTotal alloy = 43.2 kg.\n\nTherefore, 43.2 kg of special alloy is needed.",
+      "explanation": "This problem requires a two-step approach. First, you need to use the given total number of components (504) and the ratio of Component X to Component Y (5:9) to calculate the exact number of Component Y produced. This involves finding the total number of ratio parts and then determining the quantity that corresponds to the 'Y' portion of the ratio. Second, once you have the specific number of Component Y, you use the information about the alloy required for a known quantity of Component Y (8 kg for 60 components) to calculate the total alloy needed for the quantity of Component Y you found. This is a direct proportion calculation.",
+      "hint": "Begin by finding the actual number of Component Y produced in a week using the total component count and the given ratio. Then, use this quantity to calculate the total amount of special alloy required, applying the concept of direct proportion.",
+      "generatedAt": "2026-04-30T12:11:39.821269"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_007",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A library has a budget of £1200 to spend on new books. The budget is split between Fiction and Non-Fiction books in the ratio 5:3 respectively. Each Fiction book costs £8. Calculate the maximum number of Fiction books the library can buy. Show your working.",
+      "options": [],
+      "correctAnswer": "1.  **Calculate the total number of parts in the ratio:**\n    5 (Fiction) + 3 (Non-Fiction) = 8 parts\n2.  **Calculate the value of one part of the budget:**\n    Total budget / Total parts = £1200 / 8 = £150 per part\n3.  **Calculate the money allocated to Fiction books:**\n    Fiction ratio part * Value per part = 5 * £150 = £750\n4.  **Calculate the number of Fiction books that can be bought:**\n    Money for Fiction / Cost per Fiction book = £750 / £8 = 93.75\n5.  **Determine the maximum whole number of books:**\n    Since you cannot buy a fraction of a book, the library can buy a maximum of 93 Fiction books.",
+      "explanation": "To solve this, first sum the parts of the ratio (5 + 3 = 8) to find the total number of parts. Then, divide the total budget (£1200) by the total parts (8) to find the value of one part (£150). Multiply this value by the fiction ratio part (5) to find the budget specifically allocated to fiction books (5 * £150 = £750). Finally, divide the fiction budget (£750) by the cost of one fiction book (£8) to determine how many fiction books can be bought (93.75). As you cannot purchase a fraction of a book, round down to the nearest whole number to find the maximum number of books, which is 93.",
+      "hint": "Begin by finding the total number of parts in the ratio and then calculate how much money each 'part' represents from the total budget.",
+      "generatedAt": "2026-04-30T12:11:51.937645"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_008",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "Alex, Ben, and Chris share a prize fund of £360 in the ratio 2:3:4 respectively. Ben uses his share of the prize money to buy collectible cards. If 5 collectible cards cost £15, how many cards can Ben buy with his money? Show your working.",
+      "options": [],
+      "correctAnswer": "To find out how many cards Ben can buy, we first need to determine how much money Ben receives from the prize fund.\n\nStep 1: Calculate the total number of parts in the ratio.\nRatio for Alex:Ben:Chris is 2:3:4.\nTotal parts = 2 + 3 + 4 = 9 parts.\n\nStep 2: Calculate the value of one part.\nThe total prize fund is £360.\nValue of one part = £360 / 9 = £40.\n\nStep 3: Calculate Ben's share of the prize money.\nBen has 3 parts in the ratio.\nBen's share = 3 * £40 = £120.\n\nStep 4: Determine the cost per collectible card.\n5 collectible cards cost £15.\nCost per card = £15 / 5 = £3 per card.\n\nStep 5: Calculate how many cards Ben can buy with his money.\nBen has £120 and each card costs £3.\nNumber of cards = £120 / £3 = 40 cards.\n\nBen can buy 40 collectible cards.",
+      "explanation": "To find out how many cards Ben can buy, we first need to determine how much money Ben receives from the prize fund.\n\nStep 1: Calculate the total number of parts in the ratio.\nRatio for Alex:Ben:Chris is 2:3:4.\nTotal parts = 2 + 3 + 4 = 9 parts.\n\nStep 2: Calculate the value of one part.\nThe total prize fund is £360.\nValue of one part = £360 / 9 = £40.\n\nStep 3: Calculate Ben's share of the prize money.\nBen has 3 parts in the ratio.\nBen's share = 3 * £40 = £120.\n\nStep 4: Determine the cost per collectible card.\n5 collectible cards cost £15.\nCost per card = £15 / 5 = £3 per card.\n\nStep 5: Calculate how many cards Ben can buy with his money.\nBen has £120 and each card costs £3.\nNumber of cards = £120 / £3 = 40 cards.\n\nBen can buy 40 collectible cards.",
+      "hint": "First, work out how much money Ben receives from the prize fund. Then, use that amount to find out how many cards he can buy.",
+      "generatedAt": "2026-04-30T12:13:05.746014"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_009",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A machine manufactures toy cars. It takes 4 hours to manufacture 240 toy cars. These cars are then painted red, yellow, or blue in the ratio 3:5:2. How many yellow toy cars are manufactured in 7 hours? Show your working.",
+      "options": [
+        "84",
+        "120",
+        "126",
+        "210"
+      ],
+      "correctAnswer": "210",
+      "explanation": "Step 1: Calculate the rate of toy car manufacturing.\nRate = Total cars / Time taken = 240 cars / 4 hours = 60 cars per hour.\n\nStep 2: Calculate the total number of toy cars manufactured in 7 hours.\nTotal cars in 7 hours = Rate × Time = 60 cars/hour × 7 hours = 420 cars.\n\nStep 3: Share the total number of cars according to the given ratio for colours (Red:Yellow:Blue = 3:5:2).\nTotal parts in the ratio = 3 + 5 + 2 = 10 parts.\n\nStep 4: Determine the number of yellow cars.\nNumber of yellow parts = 5.\nValue of one part = Total cars / Total parts = 420 / 10 = 42 cars per part.\nNumber of yellow cars = Number of yellow parts × Value of one part = 5 × 42 = 210 yellow cars.",
+      "hint": "First, calculate the total number of cars manufactured in 7 hours. Then, use this total and the given ratio to find the number of yellow cars.",
+      "generatedAt": "2026-04-30T12:13:17.951453"
+    },
+    {
+      "id": "m-y8-ratio_intermediate_010",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A recipe for a chocolate cake uses cocoa powder and flour in the ratio 2:7. The amount of flour used in this recipe is for a cake that serves 8 people.\n\nIf a baker uses 75g of cocoa powder, calculate the total amount of flour needed to make enough cake for 28 people. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the amount of flour for a cake serving 8 people.\nThe ratio of cocoa powder to flour is 2:7.\nIf cocoa powder = 75g, then 2 parts = 75g.\n1 part = 75g / 2 = 37.5g.\nFlour (7 parts) = 7 * 37.5g = 262.5g.\nSo, 262.5g of flour is needed for a cake serving 8 people.\n\nStep 2: Calculate the total amount of flour needed for 28 people.\nWe need to scale the recipe from 8 people to 28 people.\nScaling factor = Number of people needed / Number of people served by current amount\nScaling factor = 28 / 8 = 3.5.\n\nTotal flour needed = Flour for 8 people * Scaling factor\nTotal flour needed = 262.5g * 3.5 = 918.75g.\n\nTherefore, 918.75g of flour is needed to make enough cake for 28 people.",
+      "explanation": "This is a two-step problem. First, you use the given ratio (cocoa powder to flour) and the known amount of cocoa powder (75g) to find out how much flour is needed for a cake that serves 8 people. You do this by finding the value of one 'part' in the ratio and then multiplying it by the number of parts for flour. Second, once you have the amount of flour for 8 people, you then use direct proportion to scale this amount up to serve 28 people. You find the scaling factor by dividing the desired number of servings (28) by the current number of servings (8), and then multiply the flour amount by this factor.",
+      "hint": "First, use the ratio to find the amount of flour needed for the cake that serves 8 people. Then, use direct proportion to calculate the total flour for 28 people.",
+      "generatedAt": "2026-04-30T12:13:33.535795"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y8-ratio_advanced_001",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A decorator mixes blue paint and yellow paint in the ratio 3:5 to make a particular shade of green. \n\nFor a specific job, the decorator uses 10.5 litres of yellow paint.\n\nIf blue paint costs £12 per litre and yellow paint costs £8 per litre, calculate the total cost, in pounds (£), of all the paint (blue and yellow) needed for this job. Show your working.",
+      "options": [
+        "£159.60",
+        "£176.40",
+        "£134.40",
+        "£174.00"
+      ],
+      "correctAnswer": "£159.60",
+      "explanation": "1.  **Understand the ratio:** The ratio of blue paint to yellow paint is 3:5. This means for every 3 'parts' of blue paint, there are 5 'parts' of yellow paint.\n2.  **Find the value of one 'part':** We know that 10.5 litres of yellow paint were used, and this corresponds to 5 parts of yellow paint in the ratio. So, 5 parts = 10.5 litres.\n    To find the volume for 1 part, divide the total yellow paint by 5: 1 part = 10.5 litres / 5 = 2.1 litres.\n3.  **Calculate the volume of blue paint:** Since blue paint corresponds to 3 parts in the ratio, multiply the volume of 1 part by 3: Blue paint = 3 parts * 2.1 litres/part = 6.3 litres.\n4.  **Calculate the cost of blue paint:** Blue paint costs £12 per litre. Cost of blue paint = 6.3 litres * £12/litre = £75.60.\n5.  **Calculate the cost of yellow paint:** Yellow paint costs £8 per litre. Cost of yellow paint = 10.5 litres * £8/litre = £84.00.\n6.  **Calculate the total cost:** Add the cost of blue paint and yellow paint: Total cost = £75.60 + £84.00 = £159.60.",
+      "hint": "First, use the amount of yellow paint and the ratio to work out how many litres correspond to one 'part' of the ratio. Then, calculate the volume of blue paint needed. Finally, determine the cost for each type of paint before finding the total.",
+      "generatedAt": "2026-04-30T12:13:57.890212"
+    },
+    {
+      "id": "m-y8-ratio_advanced_002",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A local community centre is undertaking a renovation project for its library. A total grant of £15,000 is secured and is allocated to three main areas: new books, furniture, and technology upgrades, in the ratio 5:4:3 respectively.\n\n(a) How much money is allocated to new books? (Show your working)\n\nThe centre decides to purchase a particular series of novels for the new books section. It is known that 4 of these novels cost £36. The cost of the novels is directly proportional to the number of novels purchased.\n\n(b) Using the money allocated for new books from part (a), what is the maximum number of these novels the centre can buy? (Show your working)\n\nAdditionally, a separate donation of £900 is received specifically for decorating the library. From this donation, a fixed delivery charge of £150 for all materials is first deducted. The remaining amount is then spent on paint and brushes in the ratio 7:2.\n\n(c) Calculate the exact amount of money spent on paint. (Show your working)",
+      "options": [],
+      "correctAnswer": "**(a) Money allocated to new books:**\nTotal parts in the ratio = 5 + 4 + 3 = 12 parts.\nValue of 1 part = Total grant / Total parts = £15,000 / 12 = £1,250.\nMoney allocated to new books (5 parts) = 5 * £1,250 = £6,250.\n\n**(b) Maximum number of novels:**\nCost of 4 novels = £36.\nCost of 1 novel = £36 / 4 = £9.\nMoney available for new books (from part a) = £6,250.\nMaximum number of novels = Money available / Cost per novel = £6,250 / £9.\n£6,250 / £9 = 694.44...\nSince only whole novels can be bought, the maximum number is 694 novels.\n\n**(c) Exact amount of money spent on paint:**\nTotal donation for decorating = £900.\nFixed delivery charge = £150.\nAmount remaining after deduction = £900 - £150 = £750.\nRatio for paint : brushes = 7:2.\nTotal parts in this ratio = 7 + 2 = 9 parts.\nValue of 1 part = Remaining amount / Total parts = £750 / 9 = £250/3.\nAmount spent on paint (7 parts) = 7 * (£250/3) = £1750/3.\nAs a decimal, this is £583.33 (to 2 decimal places). The exact fractional amount is £1750/3.",
+      "explanation": "Please refer to the 'correctAnswer' field for the step-by-step working and full explanation.",
+      "hint": "Break down the problem into sequential steps. For ratio problems, calculate the value of one 'part'. For direct proportion, find the unit cost or value first. Remember to apply deductions *before* sharing amounts in a ratio.",
+      "generatedAt": "2026-04-30T12:14:18.616020"
+    },
+    {
+      "id": "m-y8-ratio_advanced_003",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A specialty coffee blend is made from three types of beans: Arabica, Robusta, and Liberica. The beans are mixed in a ratio of 5:3:2 by mass, respectively. In a particular large batch of this blend, the mass of Arabica beans used is 175 kg.\n\nThe cost of Arabica beans is £6.80 per kg. Robusta beans cost £5.20 per kg. Liberica beans cost £7.50 per kg.\n\nCalculate the total cost of this large batch of specialty coffee blend. Show all your working.",
+      "options": [],
+      "correctAnswer": "£2261.00",
+      "explanation": "Step 1: Determine the mass represented by one 'part' of the ratio.\nThe ratio for Arabica beans is 5 parts.\nWe are given that the mass of Arabica beans is 175 kg.\nSo, 5 parts = 175 kg.\nTo find the mass of 1 part, divide the total Arabica mass by its ratio parts: \n1 part = 175 kg / 5 = 35 kg.\n\nStep 2: Calculate the mass of Robusta and Liberica beans.\nFor Robusta beans, the ratio is 3 parts.\nMass of Robusta = 3 parts * 35 kg/part = 105 kg.\nFor Liberica beans, the ratio is 2 parts.\nMass of Liberica = 2 parts * 35 kg/part = 70 kg.\n\nStep 3: Calculate the cost of each type of bean.\nCost of Arabica beans = Mass of Arabica * Cost per kg = 175 kg * £6.80/kg = £1190.00\nCost of Robusta beans = Mass of Robusta * Cost per kg = 105 kg * £5.20/kg = £546.00\nCost of Liberica beans = Mass of Liberica * Cost per kg = 70 kg * £7.50/kg = £525.00\n\nStep 4: Calculate the total cost of the blend.\nTotal cost = Cost of Arabica + Cost of Robusta + Cost of Liberica\nTotal cost = £1190.00 + £546.00 + £525.00 = £2261.00\n\nThe total cost of this large batch of specialty coffee blend is £2261.00.",
+      "hint": "Start by determining the mass represented by one 'part' of the ratio based on the given mass of Arabica beans.",
+      "generatedAt": "2026-04-30T12:14:35.403531"
+    },
+    {
+      "id": "m-y8-ratio_advanced_004",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A school club is preparing for a charity fete by making two types of bracelets: 'Sparkle' and 'Charm'. They have a total budget of £120 for materials. This budget is divided between the materials for 'Sparkle' bracelets and 'Charm' bracelets in the ratio 3:5 respectively.\n\nFor 'Sparkle' bracelets:\n- 5 'Sparkle' bracelets require 12 cm of special thread.\n- The cost of this special thread is £0.20 per cm.\n\nFor 'Charm' bracelets:\n- 3 'Charm' bracelets require 8 cm of a different type of thread.\n- The cost of this different thread is £0.25 per cm.\n\nCalculate the maximum number of 'Sparkle' bracelets and 'Charm' bracelets the club can make. Then, if each 'Sparkle' bracelet is sold for £2.50 and each 'Charm' bracelet is sold for £3.00, calculate the total possible revenue from selling all the bracelets made. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Divide the total budget according to the ratio.\nTotal parts in ratio = 3 + 5 = 8 parts.\nValue of 1 part = £120 / 8 = £15.\nBudget for 'Sparkle' bracelets = 3 parts * £15/part = £45.\nBudget for 'Charm' bracelets = 5 parts * £15/part = £75.\n\nStep 2: Calculate the length of thread available for each type of bracelet.\nFor 'Sparkle' bracelets: Length of thread = Budget / Cost per cm = £45 / £0.20/cm = 225 cm.\nFor 'Charm' bracelets: Length of thread = Budget / Cost per cm = £75 / £0.25/cm = 300 cm.\n\nStep 3: Calculate the number of each type of bracelet that can be made.\nFor 'Sparkle' bracelets:\nThread needed per bracelet = 12 cm for 5 bracelets = 12 cm / 5 = 2.4 cm/bracelet.\nNumber of 'Sparkle' bracelets = Total thread / Thread per bracelet = 225 cm / 2.4 cm/bracelet = 93.75 bracelets.\nSince you cannot make a fraction of a bracelet, the maximum number of 'Sparkle' bracelets is 93.\n\nFor 'Charm' bracelets:\nThread needed per bracelet = 8 cm for 3 bracelets = 8/3 cm/bracelet (approximately 2.667 cm/bracelet).\nNumber of 'Charm' bracelets = Total thread / Thread per bracelet = 300 cm / (8/3) cm/bracelet = 300 * (3/8) = 900 / 8 = 112.5 bracelets.\nSince you cannot make a fraction of a bracelet, the maximum number of 'Charm' bracelets is 112.\n\nStep 4: Calculate the total possible revenue.\nRevenue from 'Sparkle' bracelets = Number of bracelets * Sale price = 93 * £2.50 = £232.50.\nRevenue from 'Charm' bracelets = Number of bracelets * Sale price = 112 * £3.00 = £336.00.\nTotal possible revenue = £232.50 + £336.00 = £568.50.\n\nFinal Answer: The club can make 93 'Sparkle' bracelets and 112 'Charm' bracelets. The total possible revenue from selling all bracelets is £568.50.",
+      "explanation": "The problem requires several steps combining ratio sharing and direct proportion. First, the total budget is split into two separate budgets for 'Sparkle' and 'Charm' materials using the given ratio. Then, for each type of bracelet, the allocated budget is used to determine the total length of thread that can be purchased based on the thread's cost per cm. Next, using the information about how much thread is needed per set of bracelets, the total number of whole bracelets for each type is calculated. Finally, these numbers of bracelets are multiplied by their respective selling prices to find the individual revenues, which are then summed to get the total revenue.",
+      "hint": "Start by dividing the total budget according to the given ratio to find the individual budgets for each type of bracelet. Then, for each bracelet type, calculate how much thread can be bought, and from that, how many whole bracelets can be made.",
+      "generatedAt": "2026-04-30T12:14:52.445265"
+    },
+    {
+      "id": "m-y8-ratio_advanced_005",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A group of students plans a sponsored walk with a total distance of 124 km. The entire route is divided into three sections: Section P, Section Q, and Section R.\n\nThe ratio of the length of Section P to Section Q is 3:5.\nThe ratio of the length of Section Q to Section R is 2:3.\n\nOne student walks Section P at an average speed of 4 km/h.\nThey walk Section R at an average speed of 5 km/h.\n\nCalculate the total time, in hours, the student spends walking Sections P and R combined. Show your working clearly.",
+      "options": [
+        "A) 15 hours",
+        "B) 18 hours",
+        "C) 21 hours",
+        "D) 24 hours"
+      ],
+      "correctAnswer": "B) 18 hours",
+      "explanation": "Step 1: Combine the two given ratios to find the ratio P:Q:R.\nWe have P:Q = 3:5 and Q:R = 2:3.\nTo combine, find a common multiple for the 'Q' part of the ratio. The least common multiple (LCM) of 5 and 2 is 10.\nAdjust the first ratio: P:Q = (3 × 2) : (5 × 2) = 6:10.\nAdjust the second ratio: Q:R = (2 × 5) : (3 × 5) = 10:15.\nSo, the combined ratio P:Q:R is 6:10:15.\n\nStep 2: Determine the total number of parts in the combined ratio.\nTotal parts = 6 + 10 + 15 = 31 parts.\n\nStep 3: Calculate the distance represented by one part.\nThe total distance of the walk is 124 km.\nDistance per part = Total distance / Total parts = 124 km / 31 = 4 km/part.\n\nStep 4: Calculate the actual lengths of Section P and Section R.\nLength of Section P = 6 parts × 4 km/part = 24 km.\nLength of Section R = 15 parts × 4 km/part = 60 km.\n\nStep 5: Calculate the time taken to walk Section P.\nTime = Distance / Speed.\nTime for Section P = 24 km / 4 km/h = 6 hours.\n\nStep 6: Calculate the time taken to walk Section R.\nTime for Section R = 60 km / 5 km/h = 12 hours.\n\nStep 7: Calculate the total time spent walking Sections P and R combined.\nTotal combined time = Time for Section P + Time for Section R = 6 hours + 12 hours = 18 hours.\n\nTherefore, the student spends a total of 18 hours walking Sections P and R combined.",
+      "hint": "Begin by combining the individual ratios (P:Q and Q:R) into a single extended ratio (P:Q:R). Then, use the total distance to find the actual length of each section of the walk. Finally, use the formula 'Time = Distance ÷ Speed' for Sections P and R separately, and sum these times to get the final answer.",
+      "generatedAt": "2026-04-30T12:15:16.631557"
+    },
+    {
+      "id": "m-y8-ratio_advanced_006",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A chemical company produces a specialised cleaning fluid called 'CrystalClear'. The fluid is made from three different chemicals: A, B, and C, mixed in the ratio 3:5:8 by volume.\n\nChemical A costs £1.50 per litre.\nChemical B costs £2.20 per litre.\nChemical C costs £0.90 per litre.\n\nThe company needs to prepare a large tank of 'CrystalClear' solution. The total cost of the chemicals for this tank must not exceed £750.\n\nWhat is the maximum total volume of 'CrystalClear' solution, in litres, that can be made if the company wants to maximise the volume within the budget? Give your answer to one decimal place. Show all your working.",
+      "options": [],
+      "correctAnswer": "Here's the step-by-step working:\n\n1.  **Determine the ratio parts:**\n    The chemicals A, B, and C are mixed in the ratio 3:5:8.\n    Total ratio parts = 3 + 5 + 8 = 16 parts.\n\n2.  **Calculate the cost of one 'standard' batch (where each ratio part represents 1 litre):**\n    If 1 ratio part is 1 litre:\n    -   Volume of Chemical A = 3 litres. Cost = 3 litres * £1.50/litre = £4.50\n    -   Volume of Chemical B = 5 litres. Cost = 5 litres * £2.20/litre = £11.00\n    -   Volume of Chemical C = 8 litres. Cost = 8 litres * £0.90/litre = £7.20\n\n    Total cost for this 16-litre 'standard' batch = £4.50 + £11.00 + £7.20 = £22.70.\n\n3.  **Calculate the cost per litre of the 'CrystalClear' solution:**\n    A 16-litre batch costs £22.70.\n    Cost per litre of 'CrystalClear' = Total cost of batch / Total volume of batch\n    Cost per litre = £22.70 / 16 litres = £1.41875 per litre.\n\n4.  **Calculate the maximum total volume within the budget:**\n    The total budget for chemicals is £750.\n    Maximum Volume = Total Budget / Cost per litre of 'CrystalClear'\n    Maximum Volume = £750 / £1.41875\n    Maximum Volume = 528.63436...\n\n5.  **Round the answer to one decimal place:**\n    Maximum Volume ≈ 528.6 litres.\n\n**Final Answer:** 528.6 litres",
+      "explanation": "The question requires calculating the cost of a 'unit' volume of the mixed solution first, based on the given ratios and individual chemical costs. Once the average cost per litre of the final mixture is determined, direct proportion is used to find the maximum total volume that can be produced within the specified budget.",
+      "hint": "First, consider a simplified batch where each 'part' in the ratio represents 1 litre. Calculate the total volume and total cost for this batch. Then use this information to find the cost per litre of the final 'CrystalClear' solution, and finally, use the total budget to find the maximum possible volume.",
+      "generatedAt": "2026-04-30T12:15:32.132383"
+    },
+    {
+      "id": "m-y8-ratio_advanced_007",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A pastry chef is preparing for a large event and needs to bake a specific type of cake. The recipe for 6 cakes requires 750 grams of flour, 450 grams of sugar, and 9 eggs.\n\nThe chef needs to make 20 cakes in total for the event.\n\nFlour is sold in 1.2 kilogram bags, and each bag costs £1.80.\n\nWhat is the total cost of the flour the chef needs to buy to make 20 cakes? Show your working.",
+      "options": [],
+      "correctAnswer": "To find the total cost of the flour:\n\n1.  **Calculate the amount of flour needed for 1 cake:**\n    The recipe uses 750 grams of flour for 6 cakes.\n    Flour per cake = 750 g / 6 = 125 grams.\n\n2.  **Calculate the total flour needed for 20 cakes:**\n    Total flour = 125 g/cake * 20 cakes = 2500 grams.\n\n3.  **Convert the total flour needed from grams to kilograms:**\n    There are 1000 grams in 1 kilogram.\n    2500 grams = 2500 / 1000 kg = 2.5 kg.\n\n4.  **Determine the number of flour bags the chef needs to buy:**\n    Each bag contains 1.2 kg of flour.\n    Number of bags = 2.5 kg / 1.2 kg/bag ≈ 2.083 bags.\n    Since the chef cannot buy parts of a bag, they must buy a whole number of bags, rounding up to ensure enough flour. So, the chef needs to buy 3 bags.\n\n5.  **Calculate the total cost of the flour:**\n    Each bag costs £1.80.\n    Total cost = 3 bags * £1.80/bag = £5.40.\n\nThe total cost of the flour the chef needs to buy is £5.40.",
+      "explanation": "To find the total cost of the flour:\n\n1.  **First, determine the scaling factor for the recipe.** The chef needs to make 20 cakes from a recipe designed for 6 cakes. The scaling factor is 20 / 6 = 10/3.\n\n2.  **Calculate the total amount of flour needed.** The recipe uses 750 grams of flour for 6 cakes.\n    Flour for 20 cakes = 750 grams * (10/3) = (750/3) * 10 = 250 * 10 = 2500 grams.\n\n3.  **Convert the required flour from grams to kilograms.** There are 1000 grams in 1 kilogram.\n    2500 grams = 2500 ÷ 1000 kg = 2.5 kg.\n\n4.  **Calculate the number of flour bags needed.** Each bag contains 1.2 kg of flour.\n    Number of bags = Total flour needed / Flour per bag = 2.5 kg / 1.2 kg ≈ 2.083 bags.\n    Since the chef can only buy full bags, they must buy 3 bags to ensure they have enough flour.\n\n5.  **Calculate the total cost of the flour.** Each bag costs £1.80.\n    Total cost = Number of bags * Cost per bag = 3 * £1.80 = £5.40.\n\nThe total cost of the flour the chef needs to buy is £5.40.",
+      "hint": "Start by finding out how much flour is needed for one cake, or determine a scaling factor for the recipe. Remember to convert units carefully and consider that you must buy whole bags of flour.",
+      "generatedAt": "2026-04-30T12:15:48.557442"
+    },
+    {
+      "id": "m-y8-ratio_advanced_008",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A specific shade of green paint is created by mixing blue, yellow, and white paint in the ratio 3 : 2 : 1 respectively. A batch of 12 litres of this mixed green paint can cover a total area of 60 square metres. A decorator needs to paint a large room where the total wall area to be painted is 150 square metres. How many litres of yellow paint will the decorator need to buy to create enough of this specific shade of green paint for the room? Show your working.",
+      "options": [
+        "5 litres",
+        "10 litres",
+        "15 litres",
+        "30 litres"
+      ],
+      "correctAnswer": "10 litres",
+      "explanation": "Step 1: Determine the total number of parts in the ratio.\nBlue : Yellow : White = 3 : 2 : 1\nTotal parts = 3 + 2 + 1 = 6 parts.\n\nStep 2: Determine the fraction of yellow paint in the mixture.\nThe yellow paint makes up 2 parts out of 6 total parts. So, the fraction of yellow paint in the mixture is 2/6, which simplifies to 1/3.\n\nStep 3: Calculate the total amount of mixed paint needed for the job.\nWe know that 12 litres of mixed paint covers 60 square metres.\nThe decorator needs to cover 150 square metres.\nTo find the amount of paint needed per square metre: 12 litres / 60 m² = 0.2 litres/m².\nFor 150 square metres, the total mixed paint needed will be 0.2 litres/m² * 150 m² = 30 litres.\n\nStep 4: Calculate the amount of yellow paint needed from the total mixed paint.\nSince yellow paint is 1/3 of the total mixture, the amount of yellow paint needed is (1/3) * 30 litres = 10 litres.\n\nTherefore, the decorator will need 10 litres of yellow paint.",
+      "hint": "First, work out how much total mixed green paint is required to cover the 150 square metres. Then, use the given ratio to find the specific amount of yellow paint needed from that total mixture.",
+      "generatedAt": "2026-04-30T12:16:08.199064"
+    },
+    {
+      "id": "m-y8-ratio_advanced_009",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A manufacturing company produces two types of metal components, Component A and Component B. The total mass of raw metal alloy used each day is distributed between Component A and Component B in the ratio 7:5.\nOn a specific day, the company used a total of 2520 kg of raw metal alloy. Each Component A requires 0.3 kg of metal, and each Component B requires 0.2 kg of metal.\nFor the next month, the company plans to increase its production. They aim to increase the number of Component B units produced by 20% compared to the specific day. To maintain the same *ratio of the number of components produced* (Component A : Component B), what will be the total mass of raw metal alloy required for Component A units for the next month? Show your working.",
+      "options": [],
+      "correctAnswer": "Here's the step-by-step working:\n\n**Step 1: Calculate the mass of alloy for Component A and Component B on the specific day.**\nThe total ratio parts for the alloy mass is 7 + 5 = 12.\nMass per ratio part = 2520 kg / 12 = 210 kg.\nMass for Component A (M_A_initial) = 7 parts * 210 kg/part = 1470 kg.\nMass for Component B (M_B_initial) = 5 parts * 210 kg/part = 1050 kg.\n\n**Step 2: Calculate the number of Component A and Component B units produced on the specific day.**\nNumber of Component A units (N_A_initial) = M_A_initial / 0.3 kg/unit = 1470 kg / 0.3 kg/unit = 4900 units.\nNumber of Component B units (N_B_initial) = M_B_initial / 0.2 kg/unit = 1050 kg / 0.2 kg/unit = 5250 units.\n\n**Step 3: Determine the initial ratio of the number of components produced (Component A : Component B).**\nRatio = N_A_initial : N_B_initial = 4900 : 5250.\nDivide both by 10: 490 : 525.\nDivide both by 5: 98 : 105.\nDivide both by 7: 14 : 15.\nSo, the initial ratio of Component A units to Component B units is 14:15.\n\n**Step 4: Calculate the new number of Component B units for the next month.**\nThe number of Component B units is increased by 20%.\nNew N_B = N_B_initial * (1 + 0.20) = 5250 * 1.20 = 6300 units.\n\n**Step 5: Calculate the new number of Component A units, maintaining the component ratio of 14:15.**\nNew N_A : New N_B = 14 : 15\nNew N_A / 6300 = 14 / 15\nNew N_A = (14 / 15) * 6300\nNew N_A = 14 * (6300 / 15) = 14 * 420 = 5880 units.\n\n**Step 6: Calculate the total mass of raw metal alloy required for Component A units for the next month.**\nMass required for Component A (M_A_new) = New N_A * 0.3 kg/unit\nM_A_new = 5880 units * 0.3 kg/unit = 1764 kg.\n\n**Final Answer:** The total mass of raw metal alloy required for Component A units for the next month will be **1764 kg**.",
+      "explanation": "The step-by-step working is provided within the 'correctAnswer' field as requested for open-ended questions.",
+      "hint": "First, calculate the mass of each component, then determine the number of each type of component produced on the specific day. Use these numbers to find the initial ratio of components. After calculating the increased number of Component B units, apply the initial component ratio to find the new number of Component A units, and finally convert this back to mass.",
+      "generatedAt": "2026-04-30T12:16:35.557449"
+    },
+    {
+      "id": "m-y8-ratio_advanced_010",
+      "topicId": "m-y8-ratio",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A beverage company uses a total of 1080 litres of fruit concentrate to produce two popular drinks: 'Zesty Zing' and 'Fruity Fusion'. The concentrate is shared between Zesty Zing and Fruity Fusion in the ratio 5:4 respectively.\n\nTo make Zesty Zing, the fruit concentrate is mixed with water in a ratio of 1:3 (concentrate:water).\nTo make Fruity Fusion, the fruit concentrate is mixed with water in a ratio of 1:4 (concentrate:water).\n\nCalculate the total volume of Fruity Fusion juice produced. Show your working.",
+      "options": [
+        "A. 1920 litres",
+        "B. 2400 litres",
+        "C. 2880 litres",
+        "D. 3000 litres"
+      ],
+      "correctAnswer": "B. 2400 litres",
+      "explanation": "1.  **Calculate the total parts for sharing the concentrate:** The ratio for Zesty Zing to Fruity Fusion concentrate is 5:4. Total parts = 5 + 4 = 9 parts.\n2.  **Determine the value of one part:** The total concentrate is 1080 litres. So, 1 part = 1080 litres / 9 = 120 litres.\n3.  **Calculate the amount of concentrate for Fruity Fusion:** Fruity Fusion receives 4 parts of the concentrate. So, concentrate for Fruity Fusion = 4 parts * 120 litres/part = 480 litres.\n4.  **Calculate the amount of water for Fruity Fusion:** To make Fruity Fusion, the concentrate is mixed with water in a ratio of 1:4 (concentrate:water). This means for every 1 part of concentrate, there are 4 parts of water. Since 1 part of concentrate is 480 litres, the water needed is 4 * 480 litres = 1920 litres.\n5.  **Calculate the total volume of Fruity Fusion juice:** Total juice volume = Concentrate + Water = 480 litres + 1920 litres = 2400 litres.",
+      "hint": "First, use the initial ratio (5:4) to find the amount of concentrate allocated to Fruity Fusion. Then, use the concentrate to water ratio (1:4) for Fruity Fusion to determine the volume of water needed and finally, the total juice volume.",
+      "generatedAt": "2026-04-30T12:16:57.202367"
+    }
+  ]
+}

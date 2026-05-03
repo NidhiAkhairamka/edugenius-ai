@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y8-statistics_beginner_001",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A group of 200 students were asked to choose their favourite sport. The results are represented as if in a pie chart. The data shows that 25% of the students chose Football, 30% chose Basketball, 15% chose Swimming, and the remaining students chose Athletics.\n\nHow many students chose Football as their favourite sport?",
+      "options": [
+        "A. 25",
+        "B. 30",
+        "C. 50",
+        "D. 75"
+      ],
+      "correctAnswer": "C. 50",
+      "explanation": "To find the number of students who chose Football, you need to calculate 25% of the total number of students.\n\nTotal number of students = 200\nPercentage of students who chose Football = 25%\n\nNumber of students who chose Football = 25% of 200\n= (25/100) * 200\n= 0.25 * 200\n= 50\n\nTherefore, 50 students chose Football as their favourite sport.",
+      "hint": "To find a percentage of a number, convert the percentage to a decimal (divide by 100) and then multiply it by the total amount.",
+      "generatedAt": "2026-04-30T12:25:54.512924"
+    },
+    {
+      "id": "m-y8-statistics_beginner_002",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A class of students recorded the number of books they read in a month. The results are shown in the frequency table below.\n\n| Number of Books | Frequency |\n|-----------------|-----------|\n| 0               | 4         |\n| 1               | 9         |\n| 2               | 7         |\n| 3               | 3         |\n| 4               | 2         |\n\nHow many students are in the class altogether? Working is required.",
+      "options": [],
+      "correctAnswer": "To find the total number of students, you need to add up all the frequencies:\n4 + 9 + 7 + 3 + 2 = 25\nThere are 25 students in the class altogether.",
+      "explanation": "The 'Frequency' column in the table tells you how many students recorded a specific number of books. To find the total number of students surveyed in the class, you sum up all these individual frequencies.",
+      "hint": "To find the total number of items or individuals from a frequency table, you should add up all the values in the 'Frequency' column.",
+      "generatedAt": "2026-04-30T12:26:03.560584"
+    },
+    {
+      "id": "m-y8-statistics_beginner_003",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A delivery service tracked the types of packages sent in a week. The data was represented on a pie chart. Packages categorised as 'Small Parcels' made up an angle of 144 degrees on this pie chart. If a total of 750 packages were sent that week, how many of them were 'Small Parcels'?",
+      "options": [
+        "250",
+        "300",
+        "350",
+        "400"
+      ],
+      "correctAnswer": "300",
+      "explanation": "1. A complete pie chart represents 360 degrees in total.\n2. The fraction of packages that were 'Small Parcels' is the angle for 'Small Parcels' divided by the total degrees: 144 / 360.\n3. This fraction simplifies to 2/5.\n4. To find the number of 'Small Parcels', multiply this fraction by the total number of packages: (2/5) * 750.\n5. (2 * 750) / 5 = 1500 / 5 = 300.\nTherefore, 300 packages were 'Small Parcels'.",
+      "hint": "Think about what fraction of the total 360 degrees the given angle represents, then apply that fraction to the total number of packages.",
+      "generatedAt": "2026-04-30T12:26:14.271111"
+    },
+    {
+      "id": "m-y8-statistics_beginner_004",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A local community centre recorded the ages of members who attended a weekly event. The data was organised into a frequency table:\n\nAge Group (years) | Number of Members\n---|---\n0 to 10 | 7\n11 to 20 | 15\n21 to 30 | 11\n31 to 40 | 4\n41 to 50 | 3\n\nHow many members were aged 20 years or younger?",
+      "options": [
+        "A: 7",
+        "B: 15",
+        "C: 22",
+        "D: 33"
+      ],
+      "correctAnswer": "C: 22",
+      "explanation": "To find the number of members aged 20 years or younger, you need to consider the age groups that fall within or end at this age.\n\nThe '0 to 10' age group contains members from 0 years old up to and including 10 years old. There are 7 members in this group.\n\nThe '11 to 20' age group contains members from 11 years old up to and including 20 years old. There are 15 members in this group.\n\nTo find the total number of members aged 20 or younger, you add the frequencies from these two groups:\n7 (members aged 0-10) + 15 (members aged 11-20) = 22 members.\n\nThe other age groups (21-30, 31-40, 41-50) are for members older than 20 years.",
+      "hint": "Identify all the age groups that include members aged 20 years or less, then sum their corresponding frequencies.",
+      "generatedAt": "2026-04-30T12:26:23.703697"
+    },
+    {
+      "id": "m-y8-statistics_beginner_005",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A pet shop tracked the sales of different types of pet food over one week. The data is presented in the table below:\n\n| Pet Food Type | Number of Bags Sold |\n|---------------|---------------------|\n| Dog Food      | 45                  |\n| Cat Food      | 30                  |\n| Bird Food     | 15                  |\n| Fish Food     | 10                  |\n\nWhat was the total number of bags of pet food sold by the shop during this week?",
+      "options": [
+        "A) 85",
+        "B) 90",
+        "C) 100",
+        "D) 110"
+      ],
+      "correctAnswer": "C) 100",
+      "explanation": "To find the total number of bags of pet food sold, you need to add the number of bags sold for each type of pet food.\nNumber of bags of Dog Food = 45\nNumber of bags of Cat Food = 30\nNumber of bags of Bird Food = 15\nNumber of bags of Fish Food = 10\n\nTotal bags sold = 45 + 30 + 15 + 10 = 100.\nTherefore, the total number of bags of pet food sold was 100.",
+      "hint": "To find the total number of items from a frequency table, you should sum up all the frequencies (the 'Number of Bags Sold' values in this case).",
+      "generatedAt": "2026-04-30T12:26:36.165505"
+    },
+    {
+      "id": "m-y8-statistics_beginner_006",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A researcher recorded the number of hours spent exercising by a group of people in one week. The data was organised into a grouped frequency table as follows:\n\nFor hours (h) between 0 and 2 (0 < h ≤ 2), the frequency is 15.\nFor hours (h) between 2 and 4 (2 < h ≤ 4), the frequency is 28.\nFor hours (h) between 4 and 6 (4 < h ≤ 6), the frequency is 12.\nFor hours (h) between 6 and 8 (6 < h ≤ 8), the frequency is 5.\nFor hours (h) between 8 and 10 (8 < h ≤ 10), the frequency is 3.\n\nHow many people spent more than 4 hours but no more than 6 hours exercising in one week?",
+      "options": [
+        "15",
+        "28",
+        "12",
+        "5"
+      ],
+      "correctAnswer": "12",
+      "explanation": "The question asks for the number of people who spent more than 4 hours but no more than 6 hours exercising. We need to look for the group that matches this description in the provided data.\n\nThe group 'For hours (h) between 4 and 6 (4 < h ≤ 6)' precisely defines the range of time 'more than 4 hours but no more than 6 hours'.\n\nThe frequency given for this specific group is 12.\n\nTherefore, 12 people spent more than 4 hours but no more than 6 hours exercising.",
+      "hint": "Locate the specific row in the grouped frequency table that corresponds to the given range of hours for exercise.",
+      "generatedAt": "2026-04-30T12:26:47.117088"
+    },
+    {
+      "id": "m-y8-statistics_beginner_007",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A clothes shop recorded the colours of t-shirts sold during the first hour of opening on a Saturday. The results are shown in the frequency table below:\n\nColour | Frequency\n-------|----------\nRed    | 10\nBlue   | 15\nGreen  | 7\nYellow | 8\n\nHow many more blue t-shirts were sold than green t-shirts?",
+      "options": [
+        "A) 5",
+        "B) 8",
+        "C) 12",
+        "D) 22"
+      ],
+      "correctAnswer": "B) 8",
+      "explanation": "1. From the frequency table, find the number of blue t-shirts sold: 15.\n2. From the frequency table, find the number of green t-shirts sold: 7.\n3. To find how many more blue t-shirts were sold than green t-shirts, subtract the smaller number from the larger number: 15 - 7 = 8.\nTherefore, 8 more blue t-shirts were sold than green t-shirts.",
+      "hint": "To find out 'how many more' of one item there are compared to another, you need to find the difference between their quantities using a subtraction.",
+      "generatedAt": "2026-04-30T12:26:58.192002"
+    },
+    {
+      "id": "m-y8-statistics_beginner_008",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A Year 8 maths teacher asked her students to record the number of fiction books they read during the summer holidays. She then organised the results into the following frequency table:\n\n| Number of Books Read | Frequency |\n| :------------------- | :-------- |\n| 0-4                  | 8         |\n| 5-9                  | 12        |\n| 10-14                | 6         |\n| 15-19                | 4         |\n\nWhat is the total number of students who were surveyed?",
+      "options": [
+        "20",
+        "26",
+        "30",
+        "40"
+      ],
+      "correctAnswer": "30",
+      "explanation": "To find the total number of students surveyed, you need to add up all the frequencies from the table.\n\nFrequency for 0-4 books: 8 students\nFrequency for 5-9 books: 12 students\nFrequency for 10-14 books: 6 students\nFrequency for 15-19 books: 4 students\n\nTotal students = 8 + 12 + 6 + 4 = 30\n\nSo, 30 students were surveyed in total.",
+      "hint": "The 'Frequency' column tells you how many students fall into each group. To find the total number of students, you need to sum all the values in this column.",
+      "generatedAt": "2026-04-30T12:27:17.946578"
+    },
+    {
+      "id": "m-y8-statistics_beginner_009",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A cafe owner recorded the number of hot drinks sold each hour during a slow afternoon. The results over 20 hours are shown in the frequency table below:\n\nNumber of Hot Drinks Sold | Frequency (Number of Hours)\n0                         | 2\n1                         | 5\n2                         | 8\n3                         | 4\n4                         | 1\n\nWhat is the modal number of hot drinks sold per hour?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": "2",
+      "explanation": "The mode is the data value that appears most frequently in a set. In a frequency table, this means identifying the value that has the highest frequency.\n\nFrom the given frequency table:\n- The number of hot drinks '0' has a frequency of 2 hours.\n- The number of hot drinks '1' has a frequency of 5 hours.\n- The number of hot drinks '2' has a frequency of 8 hours.\n- The number of hot drinks '3' has a frequency of 4 hours.\n- The number of hot drinks '4' has a frequency of 1 hour.\n\nThe highest frequency in the table is 8. This frequency corresponds to '2 hot drinks sold'. Therefore, the modal number of hot drinks sold per hour is 2.",
+      "hint": "To find the mode from a frequency table, look for the data value with the largest frequency.",
+      "generatedAt": "2026-04-30T12:27:28.707317"
+    },
+    {
+      "id": "m-y8-statistics_beginner_010",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A school sports team recorded the number of points they scored in several matches. The results were organised into a frequency table as follows:\n\n| Points Scored | Number of Matches |\n|---------------|-------------------|\n| 0             | 5                 |\n| 1             | 8                 |\n| 2             | 10                |\n| 3             | 6                 |\n| 4             | 3                 |\n\nHow many matches did the team play in total?",
+      "options": [
+        "5",
+        "10",
+        "32",
+        "4"
+      ],
+      "correctAnswer": "32",
+      "explanation": "To find the total number of matches, you need to sum all the values in the 'Number of Matches' (frequency) column.\n\nTotal matches = 5 (matches with 0 points) + 8 (matches with 1 point) + 10 (matches with 2 points) + 6 (matches with 3 points) + 3 (matches with 4 points)\nTotal matches = 5 + 8 + 10 + 6 + 3 = 32 matches.",
+      "hint": "The 'Number of Matches' column tells you how many times each 'Points Scored' value occurred. Add all the values in this column to find the total number of matches played.",
+      "generatedAt": "2026-04-30T12:39:23.195858"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y8-statistics_intermediate_001",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A survey was conducted among students to find out how many books they read last month. The results are shown in the frequency table below.\n\n| Number of Books Read | Number of Students |\n|----------------------|--------------------|\n| 0 - 2                | 15                 |\n| 3 - 5                | 22                 |\n| 6 - 8                | 18                 |\n| 9 - 11               | 10                 |\n| 12 or more           | 5                  |\n\nCalculate the percentage of students who read 6 or more books last month. Give your answer to one decimal place. Show your working.",
+      "options": [
+        "47.1%",
+        "33.0%",
+        "42.9%",
+        "52.9%"
+      ],
+      "correctAnswer": "47.1%",
+      "explanation": "Step 1: Calculate the total number of students surveyed.\nTotal students = 15 + 22 + 18 + 10 + 5 = 70 students.\n\nStep 2: Calculate the number of students who read 6 or more books.\nStudents who read 6-8 books = 18\nStudents who read 9-11 books = 10\nStudents who read 12 or more books = 5\nTotal students who read 6 or more books = 18 + 10 + 5 = 33 students.\n\nStep 3: Calculate the percentage of students who read 6 or more books.\nPercentage = (Number of students who read 6 or more books ÷ Total number of students) × 100\nPercentage = (33 ÷ 70) × 100\nPercentage = 0.471428...× 100\nPercentage = 47.1428...\n\nRounding to one decimal place, the percentage is 47.1%.",
+      "hint": "First, calculate the total number of students surveyed. Then, identify the total number of students who read 6 or more books. Finally, use these two totals to calculate the percentage.",
+      "generatedAt": "2026-04-30T12:39:36.300191"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_002",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A primary school recorded the time, in minutes, that a group of its Year 6 students spent on reading each evening for a week. The data was collected and summarised in the following grouped frequency table:\n\n| Time spent reading (t minutes) | Number of Students |\n|--------------------------------|--------------------|\n| 0 < t <= 10                    | 8                  |\n| 10 < t <= 20                   | 18                 |\n| 20 < t <= 30                   | 14                 |\n| 30 < t <= 40                   | 6                  |\n\nShow your working for all parts of your answer.\n\nCalculate the percentage of students who spent more than 20 minutes reading each evening. Give your answer to one decimal place.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total number of students.\nTotal students = 8 + 18 + 14 + 6 = 46 students.\n\nStep 2: Identify the number of students who spent more than 20 minutes reading.\nStudents who spent more than 20 minutes are those in the '20 < t <= 30' category and the '30 < t <= 40' category.\nNumber of students > 20 minutes = 14 + 6 = 20 students.\n\nStep 3: Calculate the percentage.\nPercentage = (Number of students > 20 minutes / Total number of students) * 100\nPercentage = (20 / 46) * 100\nPercentage = 0.4347826... * 100\nPercentage = 43.47826...%\n\nRounding to one decimal place, the percentage is 43.5%.",
+      "explanation": "To solve this problem, you first need to determine the total number of students surveyed by summing all the frequencies in the table. Next, identify the specific groups of students who spent more than 20 minutes reading each evening and sum their frequencies. Finally, divide this sum by the total number of students and multiply by 100 to express the result as a percentage.",
+      "hint": "First, calculate the total number of students surveyed. Then, identify the number of students in the relevant time categories, which are those where 't' is greater than 20 minutes.",
+      "generatedAt": "2026-04-30T12:39:54.930749"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_003",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A company surveyed its employees about their favourite hot drink. The results were displayed in a pie chart. There were 720 employees surveyed in total. The sector representing 'Coffee' has an angle of 150 degrees at the centre. The sector representing 'Tea' has an angle of 90 degrees at the centre. Calculate how many more employees chose 'Coffee' as their favourite hot drink compared to those who chose 'Tea'. Show your working.",
+      "options": [
+        "60",
+        "120",
+        "150",
+        "180"
+      ],
+      "correctAnswer": "120",
+      "explanation": "1.  **Calculate the number of employees who chose Coffee:**\n    A full circle in a pie chart represents 360 degrees. The total number of employees surveyed is 720.\n    To find the number of employees who chose Coffee, we use the ratio of the angle for Coffee to the total angle, multiplied by the total number of employees:\n    Number of Coffee employees = (Angle for Coffee / Total angle) × Total employees\n    Number of Coffee employees = (150 / 360) × 720\n    Number of Coffee employees = 150 × (720 / 360)\n    Number of Coffee employees = 150 × 2 = 300 employees.\n\n2.  **Calculate the number of employees who chose Tea:**\n    Similarly, for Tea:\n    Number of Tea employees = (Angle for Tea / Total angle) × Total employees\n    Number of Tea employees = (90 / 360) × 720\n    Number of Tea employees = 90 × (720 / 360)\n    Number of Tea employees = 90 × 2 = 180 employees.\n\n3.  **Calculate the difference:**\n    To find how many more employees chose Coffee than Tea, subtract the number of Tea employees from the number of Coffee employees:\n    Difference = Number of Coffee employees - Number of Tea employees\n    Difference = 300 - 180 = 120 employees.\n\nTherefore, 120 more employees chose Coffee than Tea.",
+      "hint": "Remember that a full circle in a pie chart represents 360 degrees. You need to convert the angles for each category into the actual number of employees first before finding the difference.",
+      "generatedAt": "2026-04-30T12:40:08.548335"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_004",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A local council monitored the amount of litter collected from a park each day over a 30-day period. The results, showing the weight of litter (w kg) and the frequency (number of days) it was collected, are presented in the table below:\n\nWeight of litter (w kg): 0 < w ≤ 1 | Frequency (days): 5\nWeight of litter (w kg): 1 < w ≤ 2 | Frequency (days): 12\nWeight of litter (w kg): 2 < w ≤ 3 | Frequency (days): 8\nWeight of litter (w kg): 3 < w ≤ 4 | Frequency (days): 5\n\nCalculate the percentage of days where the weight of litter collected was more than 2 kg. If the council aims for less than 40% of days to have more than 2 kg of litter, did they achieve their aim? Show your working.",
+      "options": [
+        "The percentage of days with more than 2 kg of litter was 36.7%, so they achieved their aim.",
+        "The percentage of days with more than 2 kg of litter was 43.3%, so they did not achieve their aim.",
+        "The percentage of days with more than 2 kg of litter was 33.3%, so they achieved their aim.",
+        "The percentage of days with more than 2 kg of litter was 40.0%, so they did not achieve their aim."
+      ],
+      "correctAnswer": "The percentage of days with more than 2 kg of litter was 43.3%, so they did not achieve their aim.",
+      "explanation": "Step 1: Identify the number of days where the weight of litter collected was more than 2 kg.\nLooking at the table, 'more than 2 kg' corresponds to the groups '2 < w ≤ 3' and '3 < w ≤ 4'.\nNumber of days = Frequency for (2 < w ≤ 3) + Frequency for (3 < w ≤ 4)\nNumber of days = 8 + 5 = 13 days.\n\nStep 2: Calculate the total number of days monitored.\nTotal days = 5 + 12 + 8 + 5 = 30 days.\n\nStep 3: Calculate the percentage of days with more than 2 kg of litter.\nPercentage = (Number of days with more than 2 kg / Total number of days) × 100%\nPercentage = (13 / 30) × 100%\nPercentage = 0.4333... × 100%\nPercentage = 43.3% (rounded to one decimal place).\n\nStep 4: Compare this percentage with the council's aim.\nThe council aims for less than 40% of days to have more than 2 kg of litter. Our calculated percentage is 43.3%.\nSince 43.3% is not less than 40%, the council did not achieve their aim.",
+      "hint": "First, identify which frequency groups represent 'more than 2 kg' and sum their frequencies. Then, divide this sum by the total number of days and multiply by 100 to find the percentage.",
+      "generatedAt": "2026-04-30T12:40:25.211024"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_005",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A survey was conducted among 200 adults about their daily commute method. The results for those who use 'Bus', 'Train', and 'Walk' are given in the frequency table below:\n\nCommute Method | Number of Adults\n---|---\nBus | 60\nTrain | 40\nWalk | 50\n\nThe remaining adults travel either by 'Car' or 'Bicycle'. A separate pie chart was drawn to represent only these two methods ('Car' and 'Bicycle'). In this pie chart, the sector representing 'Bicycle' travel has an angle of 72 degrees.\n\nCalculate the percentage of *all* 200 surveyed adults who travel to work by 'Car'. Show your working.",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Step 1: Find the total number of adults who travel by Bus, Train, or Walk.\nNumber of adults (Bus) + Number of adults (Train) + Number of adults (Walk) = 60 + 40 + 50 = 150 adults.\n\nStep 2: Find the number of adults who travel by Car or Bicycle.\nTotal surveyed adults - Adults using Bus/Train/Walk = 200 - 150 = 50 adults.\n\nStep 3: Use the pie chart information to find the number of adults who travel by Bicycle.\nThe pie chart represents only 'Car' and 'Bicycle' users, which total 50 adults. A full circle in a pie chart is 360 degrees.\nThe angle representing 'Bicycle' is 72 degrees. So, the number of Bicycle users is:\n(72 degrees / 360 degrees) * 50 adults = (1/5) * 50 = 10 adults.\n\nStep 4: Find the number of adults who travel by Car.\nTotal Car/Bicycle users - Bicycle users = 50 - 10 = 40 adults.\n\nStep 5: Calculate the percentage of *all* surveyed adults who travel by Car.\n(Number of Car users / Total surveyed adults) * 100% = (40 / 200) * 100% = (1/5) * 100% = 20%.\n\nTherefore, 20% of all surveyed adults travel to work by 'Car'.",
+      "hint": "First, determine how many adults are left after accounting for Bus, Train, and Walk. These remaining adults are split between Car and Bicycle. Then, use the given angle for 'Bicycle' in the pie chart to calculate the number of Bicycle users, which will allow you to find the number of Car users.",
+      "generatedAt": "2026-04-30T12:40:43.627416"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_006",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A factory produces a batch of 2400 light bulbs, consisting of LED, Halogen, and Fluorescent types.\nA pie chart, representing the proportion of each type in the batch, shows the sector for LED bulbs has an angle of 150 degrees, and the sector for Halogen bulbs has an angle of 90 degrees. The remaining bulbs are Fluorescent.\n\nFor the Fluorescent bulbs specifically, their expected lifespan, in thousands of hours, is recorded. A grouped frequency table summarises the percentages of Fluorescent bulbs falling into different lifespan categories:\n\n| Lifespan (thousands of hours) | Percentage of Fluorescent bulbs |\n| :---------------------------- | :------------------------------ |\n| 5-10                          | 40%                             |\n| 11-15                         | 30%                             |\n| 16-20                         | 20%                             |\n| 21-25                         | 10%                             |\n\nA Fluorescent bulb is considered \"long-lasting\" if its expected lifespan is 16 thousand hours or more.\n\nCalculate the total number of Fluorescent bulbs in this batch that are expected to be long-lasting.\nShow your working clearly for full marks.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the angle for Fluorescent bulbs in the pie chart.\nTotal angle in a circle = 360 degrees.\nAngle for Fluorescent bulbs = 360 degrees - (Angle for LED + Angle for Halogen)\nAngle for Fluorescent bulbs = 360 - (150 + 90)\nAngle for Fluorescent bulbs = 360 - 240 = 120 degrees.\n\nStep 2: Calculate the total number of Fluorescent bulbs in the batch.\nProportion of Fluorescent bulbs = (Angle for Fluorescent bulbs) / 360\nProportion of Fluorescent bulbs = 120 / 360 = 1/3.\nTotal Fluorescent bulbs = (1/3) * Total batch size\nTotal Fluorescent bulbs = (1/3) * 2400 = 800 bulbs.\n\nStep 3: Determine the percentage of long-lasting Fluorescent bulbs from the grouped frequency table.\nA Fluorescent bulb is long-lasting if its lifespan is 16 thousand hours or more.\nThis includes the categories '16-20 thousands of hours' and '21-25 thousands of hours'.\nPercentage of long-lasting Fluorescent bulbs = 20% + 10% = 30%.\n\nStep 4: Calculate the number of long-lasting Fluorescent bulbs.\nNumber of long-lasting Fluorescent bulbs = 30% of 800\nNumber of long-lasting Fluorescent bulbs = 0.30 * 800 = 240 bulbs.\n\nTherefore, 240 Fluorescent bulbs in this batch are expected to be long-lasting.",
+      "explanation": "The problem requires two main steps: first, determining the absolute number of Fluorescent bulbs from the given pie chart sector angles and total production. Second, using that number and the percentages from the grouped frequency table to find the count of 'long-lasting' Fluorescent bulbs based on their defined lifespan criteria.",
+      "hint": "Start by determining the number of Fluorescent bulbs produced using the pie chart information, then apply the percentages from the grouped frequency table to find the subset of 'long-lasting' bulbs.",
+      "generatedAt": "2026-04-30T12:41:01.775374"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_007",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A local gym recorded the number of calories burned by a group of its members during a 30-minute workout session. The results are summarised in the grouped frequency table below and partially represented in a pie chart. \n\nGrouped Frequency Table:\n| Calories Burned (C) | Frequency |\n| :------------------ | :-------- |\n| 100 ≤ C < 150       | 15        |\n| 150 ≤ C < 200       | x         |\n| 200 ≤ C < 250       | 25        |\n| 250 ≤ C < 300       | 20        |\n\nIn the pie chart, the sector representing members who burned '100 ≤ C < 150' calories has a central angle of 72 degrees.\n\nCalculate the percentage of members who burned 200 or more calories during the session. Show all your working.",
+      "options": [
+        "40%",
+        "45%",
+        "50%",
+        "60%"
+      ],
+      "correctAnswer": "60%",
+      "explanation": "1.  **Find the total number of members:**\n    The category '100 ≤ C < 150' has 15 members and corresponds to a central angle of 72 degrees in the pie chart.\n    Since a full circle represents 360 degrees, we can find the total number of members (N) by setting up a proportion:\n    (Number of members in category / Total members) = (Angle for category / Total angle in circle)\n    (15 / N) = (72 / 360)\n    N = 15 * (360 / 72)\n    N = 15 * 5\n    N = 75 members.\n\n2.  **Identify members who burned 200 or more calories:**\n    These are the members in the categories '200 ≤ C < 250' and '250 ≤ C < 300'.\n    Number of members = 25 (for 200 ≤ C < 250) + 20 (for 250 ≤ C < 300) = 45 members.\n\n3.  **Calculate the percentage:**\n    Percentage = (Number of members who burned 200 or more calories / Total number of members) * 100%\n    Percentage = (45 / 75) * 100%\n    Percentage = (3 / 5) * 100%\n    Percentage = 0.6 * 100%\n    Percentage = 60%.",
+      "hint": "Start by using the information from the pie chart (the angle and corresponding frequency) to determine the total number of members surveyed. Once you have the total, you can use the frequency table to find the number of members in the required categories.",
+      "generatedAt": "2026-04-30T12:41:18.545523"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_008",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A local library recorded the number of books borrowed by 200 members during the first week of October. The data is partly shown in a pie chart and partly in a frequency table.\n\nThe pie chart represents the proportion of members who borrowed 0 books, 1-3 books, 4-6 books, or 7 or more books.\n*   The sector for members who borrowed 0 books has an angle of 72 degrees.\n*   The sector for members who borrowed 1-3 books has an angle of 108 degrees.\n*   The sector for members who borrowed 4-6 books has an angle of 144 degrees.\n*   The remaining sector represents members who borrowed 7 or more books.\n\nThe frequency table provides more detailed information for those members who borrowed 1-3 books:\n\n| Number of books | Frequency |\n|---|---|\n| 1 | 25 |\n| 2 | 30 |\n| 3 | ? |\n\nCalculate how many members borrowed exactly 3 books. Show your working.",
+      "options": [],
+      "correctAnswer": "5",
+      "explanation": "1.  **Calculate the total number of members who borrowed 1-3 books using the pie chart:**\n    *   The total number of members is 200.\n    *   The sector angle for members who borrowed 1-3 books is 108 degrees.\n    *   The total degrees in a circle (for the pie chart) is 360 degrees.\n    *   Number of members who borrowed 1-3 books = (Angle for 1-3 books / Total angle) * Total members\n    *   Number of members = (108 / 360) * 200\n    *   To simplify the fraction 108/360: Divide both by 36 (108 ÷ 36 = 3, 360 ÷ 36 = 10), so the fraction is 3/10.\n    *   Number of members = (3/10) * 200 = 3 * (200 / 10) = 3 * 20 = 60 members.\n\n2.  **Calculate the number of members who borrowed exactly 3 books using the frequency table:**\n    *   From the frequency table, we know:\n        *   Members who borrowed 1 book = 25\n        *   Members who borrowed 2 books = 30\n    *   The total number of members who borrowed 1-3 books is 60 (as calculated in Step 1).\n    *   Let 'x' be the number of members who borrowed exactly 3 books.\n    *   The sum of frequencies for 1, 2, and 3 books must equal the total for 1-3 books:\n        25 + 30 + x = 60\n    *   Combine the known frequencies: 55 + x = 60\n    *   Solve for x: x = 60 - 55\n    *   x = 5\n\nTherefore, 5 members borrowed exactly 3 books.",
+      "hint": "First, use the pie chart information to find the total number of members who borrowed between 1 and 3 books. Then, use this total with the frequency table to find the missing value.",
+      "generatedAt": "2026-04-30T12:41:38.743700"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_009",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A local theatre recorded the age distribution of 240 attendees for a matinée show. The data is presented in a grouped frequency table:\n\nAge group (years) | Frequency\n------------------|-----------\n0 to 12           | 60\n13 to 25          | 96\n26 to 40          | 48\nOver 40           | 36\n\nIf this data were to be represented in a pie chart, what would be the angle, in degrees, for the '13 to 25' age group? Show your working.",
+      "options": [
+        "A. 90 degrees",
+        "B. 144 degrees",
+        "C. 72 degrees",
+        "D. 40 degrees"
+      ],
+      "correctAnswer": "B. 144 degrees",
+      "explanation": "To find the angle for a category in a pie chart, you need to determine the proportion of that category relative to the total and then multiply by 360 degrees (the total angle in a circle).\n\nStep 1: Identify the frequency for the '13 to 25' age group and the total frequency.\nFrequency for '13 to 25' age group = 96\nTotal number of attendees = 240\n\nStep 2: Calculate the proportion of the '13 to 25' age group.\nProportion = (Frequency of '13 to 25' group) / (Total frequency)\nProportion = 96 / 240\n\nStep 3: Multiply the proportion by 360 degrees to find the angle.\nAngle = (96 / 240) * 360\nAngle = 0.4 * 360\nAngle = 144 degrees\n\nTherefore, the angle for the '13 to 25' age group in the pie chart would be 144 degrees.",
+      "hint": "To calculate the angle for a category in a pie chart, determine its proportion of the total data first, then multiply this proportion by 360 degrees, as there are 360 degrees in a full circle.",
+      "generatedAt": "2026-04-30T12:41:55.124116"
+    },
+    {
+      "id": "m-y8-statistics_intermediate_010",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A cinema surveyed 360 customers about the number of minutes they spent watching adverts before their film started. The results were presented as a pie chart.\n\n- The sector for customers who watched adverts for \"0 to 5 minutes\" had an angle of 120 degrees.\n- The sector for customers who watched adverts for \"6 to 10 minutes\" had an angle of 90 degrees.\n- The sector for customers who watched adverts for \"11 to 15 minutes\" had an angle of 60 degrees.\n- The remaining customers watched adverts for \"more than 15 minutes\".\n\nFrom the group of customers who watched adverts for \"6 to 10 minutes\", exactly three-fifths (3/5) of them watched for exactly 8 minutes.\n\nHow many customers watched adverts for exactly 8 minutes? Show your working.",
+      "options": [
+        "A) 45",
+        "B) 54",
+        "C) 60",
+        "D) 72"
+      ],
+      "correctAnswer": "B) 54",
+      "explanation": "Step 1: Calculate the number of customers who watched adverts for \"6 to 10 minutes\".\nThe total angle in a pie chart is 360 degrees. The sector representing customers who watched for \"6 to 10 minutes\" is 90 degrees.\nTo find the fraction of customers in this group, divide the sector angle by the total angle: 90 / 360 = 1/4.\nNow, calculate the number of customers: (1/4) * 360 total customers = 90 customers.\n\nStep 2: Calculate three-fifths (3/5) of these customers.\nThe question states that three-fifths (3/5) of the customers in the \"6 to 10 minutes\" group watched for exactly 8 minutes.\nNumber of customers who watched for exactly 8 minutes = (3/5) * 90.\nTo calculate this: (3 * 90) / 5 = 270 / 5 = 54 customers.\n\nTherefore, 54 customers watched adverts for exactly 8 minutes.",
+      "hint": "First, determine the number of customers represented by the 90-degree sector in the pie chart. Remember that a full circle contains 360 degrees.",
+      "generatedAt": "2026-04-30T12:42:16.416596"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y8-statistics_advanced_001",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A school conducted a survey to find out the favourite types of books among its Year 7 and Year 8 students.\n\nFor Year 8 students, the results are summarised in the frequency table below:\n| Book Type       | Frequency |\n|-----------------|-----------|\n| Fantasy         | 45        |\n| Science Fiction | 30        |\n| Mystery         | 60        |\n| Adventure       | 75        |\n\nFor Year 7 students, the results were displayed in a pie chart. In this pie chart, the sector representing 'Mystery' books had an angle of 90 degrees, and exactly 50 Year 7 students chose 'Mystery' books. Additionally, it was recorded that 100 Year 7 students chose 'Adventure' books.\n\nBased on this information, which of the following statements is true regarding the popularity of 'Adventure' books between Year 7 and Year 8? Show your working clearly.",
+      "options": [
+        "A. 'Adventure' books were proportionally more popular among Year 8 students.",
+        "B. 'Adventure' books were proportionally more popular among Year 7 students.",
+        "C. 'Adventure' books were equally popular proportionally in both Year 7 and Year 8.",
+        "D. It is not possible to compare the proportional popularity of 'Adventure' books between the two years with the given information."
+      ],
+      "correctAnswer": "B. 'Adventure' books were proportionally more popular among Year 7 students.",
+      "explanation": "To determine the proportional popularity, we need to calculate the percentage of students who chose 'Adventure' books for both Year 7 and Year 8.\n\n**Step 1: Calculate the proportion for Year 8 students.**\nFirst, find the total number of Year 8 students:\nTotal Year 8 students = Frequency (Fantasy) + Frequency (Science Fiction) + Frequency (Mystery) + Frequency (Adventure)\nTotal Year 8 students = 45 + 30 + 60 + 75 = 210 students.\n\nNumber of Year 8 students who chose 'Adventure' = 75.\n\nProportion of 'Adventure' books in Year 8 = (Number of 'Adventure' students / Total Year 8 students) * 100%\nProportion of 'Adventure' books in Year 8 = (75 / 210) * 100% ≈ 35.71%\n\n**Step 2: Calculate the proportion for Year 7 students.**\nThe pie chart shows that 90 degrees represents 'Mystery' books, and this corresponds to 50 Year 7 students.\nA full circle in a pie chart is 360 degrees. We can use this to find the total number of Year 7 students:\nAngle for 'Mystery' / Total angle = Number of 'Mystery' students / Total Year 7 students\n90 / 360 = 50 / Total Year 7 students\n1/4 = 50 / Total Year 7 students\nTotal Year 7 students = 50 * 4 = 200 students.\n\nNumber of Year 7 students who chose 'Adventure' = 100.\n\nProportion of 'Adventure' books in Year 7 = (Number of 'Adventure' students / Total Year 7 students) * 100%\nProportion of 'Adventure' books in Year 7 = (100 / 200) * 100% = 50%\n\n**Step 3: Compare the proportions.**\nProportion of 'Adventure' in Year 8 ≈ 35.71%\nProportion of 'Adventure' in Year 7 = 50%\n\nSince 50% > 35.71%, 'Adventure' books were proportionally more popular among Year 7 students.\n\nTherefore, the correct statement is B.",
+      "hint": "To compare the popularity proportionally, you need to calculate the percentage of students who chose 'Adventure' books for each year group. Remember that the total angle in a pie chart is 360 degrees.",
+      "generatedAt": "2026-04-30T12:42:34.678701"
+    },
+    {
+      "id": "m-y8-statistics_advanced_002",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A company has two branches, Branch A and Branch B. They both recorded the number of hours their employees worked overtime in a particular week.\n\nFor Branch A, the data is summarised in a frequency table:\nOvertime Hours (h): 0 to under 2 | Number of Employees: 15\nOvertime Hours (h): 2 to under 4 | Number of Employees: 28\nOvertime Hours (h): 4 to under 6 | Number of Employees: 12\nOvertime Hours (h): 6 to under 8 | Number of Employees: 5\nThe total number of employees in Branch A is 60.\n\nFor Branch B, the data is represented by a pie chart. The pie chart shows the following percentages for overtime hours:\nSector 1 (0 to under 2 hours): 25%\nSector 2 (2 to under 4 hours): 40%\nSector 3 (4 to under 6 hours): 20%\nSector 4 (6 to under 8 hours): 15%\nThe total number of employees in Branch B is 80.\n\nCalculate which branch has a higher percentage of its employees working 4 hours or more overtime. Show all your working.",
+      "options": [
+        "Branch A, with approximately 28.3%",
+        "Branch B, with exactly 35%",
+        "Branch A, with exactly 30%",
+        "Branch B, with approximately 32.5%"
+      ],
+      "correctAnswer": "Branch B, with exactly 35%",
+      "explanation": "To determine which branch has a higher percentage of employees working 4 hours or more overtime, we need to calculate this percentage for each branch.\n\n**For Branch A:**\n1.  Identify the number of employees working 4 hours or more overtime. From the frequency table, these are employees in the '4 to under 6 hours' category (12 employees) and '6 to under 8 hours' category (5 employees).\n2.  Total employees working 4+ hours in Branch A = 12 + 5 = 17 employees.\n3.  The total number of employees in Branch A is given as 60.\n4.  Calculate the percentage: (Number of employees working 4+ hours / Total employees) × 100%\n    Percentage for Branch A = (17 / 60) × 100% = 0.28333... × 100% = 28.33% (rounded to two decimal places).\n\n**For Branch B:**\n1.  Identify the percentage of employees working 4 hours or more overtime. From the pie chart description, these are employees in 'Sector 3 (4 to under 6 hours): 20%' and 'Sector 4 (6 to under 8 hours): 15%'.\n2.  Total percentage for 4+ hours in Branch B = 20% + 15% = 35%.\n    (Note: We do not need to calculate the actual number of employees (0.35 * 80 = 28) for this comparison, as we are comparing percentages directly.)\n\n**Comparison:**\nBranch A: 28.33%\nBranch B: 35%\n\nComparing the two percentages, 35% (Branch B) is greater than 28.33% (Branch A).\nTherefore, Branch B has a higher percentage of its employees working 4 hours or more overtime.",
+      "hint": "First, for each branch, identify the total number or percentage of employees working 4 hours or more overtime. Then, calculate the overall percentage for each branch and compare them.",
+      "generatedAt": "2026-04-30T12:42:55.026069"
+    },
+    {
+      "id": "m-y8-statistics_advanced_003",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A logistics company operates a large fleet of self-driving delivery vehicles. The total number of vehicles in their fleet is 800. A statistical analysis of the fleet's primary functions was represented using a pie chart.\nThe pie chart showed three categories: 'Long-haul', 'Urban', and 'Specialist'. The sector angle for 'Long-haul' vehicles was 108 degrees, and for 'Urban' vehicles was 180 degrees. The remaining sector angle represented 'Specialist' vehicles.\n\nFor the 'Urban' category of vehicles, a detailed frequency table was created to show the distribution of their battery capacities.\n\n**Battery Capacity (kWh) | Number of Urban Vehicles**\n-----------------------|--------------------------\n20-29                  | 75\n30-39                  | 120\n40-49                  | 105\n50-59                  | X\n\nShow all your working for the following questions.\n\na) Calculate the number of 'Long-haul' vehicles in the fleet.\nb) Determine the number of 'Urban' vehicles in the fleet.\nc) Find the value of X, the number of 'Urban' vehicles with a battery capacity between 50-59 kWh.\nd) What percentage of the *entire* fleet of 800 vehicles has a battery capacity between 30-39 kWh? Give your answer to one decimal place.",
+      "options": [],
+      "correctAnswer": "a) Number of Long-haul vehicles = (108 / 360) * 800 = 0.3 * 800 = 240 vehicles.\n\nb) Number of Urban vehicles = (180 / 360) * 800 = 0.5 * 800 = 400 vehicles.\n\nc) The total number of Urban vehicles is 400 (from part b).\n   Sum of known frequencies for Urban vehicles = 75 + 120 + 105 = 300.\n   X = Total Urban vehicles - Sum of known frequencies = 400 - 300 = 100.\n\nd) Number of vehicles with 30-39 kWh capacity = 120 (from the frequency table).\n   Total fleet = 800 vehicles.\n   Percentage = (Number of vehicles with 30-39 kWh capacity / Total fleet) * 100\n   Percentage = (120 / 800) * 100\n   Percentage = (12 / 80) * 100\n   Percentage = (3 / 20) * 100\n   Percentage = 15%\n   As a one decimal place number, this is 15.0%.",
+      "explanation": "This question requires you to interpret information from two different statistical diagrams: a pie chart and a frequency table, and combine them to answer multi-step questions.\n\n**Part a):** To find the number of 'Long-haul' vehicles, you need to use the given sector angle (108 degrees) and the total number of vehicles (800). A full circle is 360 degrees. So, the proportion of 'Long-haul' vehicles is 108/360. Multiply this proportion by the total number of vehicles: (108 / 360) * 800 = 240 vehicles.\n\n**Part b):** Similarly, for 'Urban' vehicles, the sector angle is 180 degrees. This is exactly half of a circle (180/360 = 0.5). So, the number of 'Urban' vehicles is 0.5 * 800 = 400 vehicles.\n\n**Part c):** The frequency table shows the distribution of battery capacities *only for the 'Urban' vehicles*. From part b), we know there are 400 'Urban' vehicles in total. The table gives frequencies for three categories: 75, 120, and 105. To find X, sum the known frequencies and subtract this from the total number of 'Urban' vehicles: 75 + 120 + 105 = 300. Then, X = 400 - 300 = 100 vehicles.\n\n**Part d):** This part requires combining information from both the pie chart calculation and the frequency table. First, identify the number of vehicles with a 30-39 kWh battery capacity from the frequency table, which is 120. This is the number of 'Urban' vehicles with that specific capacity. The question asks for this as a percentage of the *entire fleet* (all 800 vehicles). So, you need to calculate (120 / 800) * 100. (120 / 800) = 0.15. Multiplying by 100 gives 15%. To one decimal place, this is 15.0%.",
+      "hint": "Remember that a proportion from a pie chart (angle/360) can be used to find a number if the total is known. The total for a frequency table must equal the sum of its frequencies. When calculating percentages, ensure you use the correct 'part' and 'whole' values, especially when combining information from different diagrams.",
+      "generatedAt": "2026-04-30T12:43:15.625540"
+    },
+    {
+      "id": "m-y8-statistics_advanced_004",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A wildlife conservation team monitored bird sightings in two different nature reserves, Reserve A and Reserve B, over a one-month period. They focused on four specific species: Larks, Robins, Sparrows, and Wrens.\n\n**Reserve A Data:**\nIn Reserve A, the distribution of these bird sightings is represented in a pie chart. The angle for Larks is 72 degrees. The angle for Robins is 108 degrees. The number of Sparrows sighted was 60. The remaining sightings were Wrens. There were a total of 300 bird sightings in Reserve A.\n\n**Reserve B Data:**\nIn Reserve B, the sightings over the same period are summarised in a frequency table:\n| Bird Species | Number of Sightings |\n| :----------- | :------------------ |\n| Lark         | 45                  |\n| Robin        | 75                  |\n| Sparrow      | 60                  |\n| Wren         | 90                  |\n\nThe conservation team wants to identify which reserve has a higher proportion of Robin sightings. Calculate the percentage of Robin sightings in Reserve A and Reserve B. State which reserve has the higher proportion of Robin sightings and by how many percentage points (to one decimal place). Show all your working.",
+      "options": [],
+      "correctAnswer": "Working Required:\n\n**For Reserve A:**\n1.  **Calculate the number of Robins sighted:**\n    A pie chart has a total of 360 degrees. The angle for Robins is 108 degrees.\n    Total sightings in Reserve A = 300.\n    Number of Robins = (Angle for Robins / 360) × Total sightings\n    Number of Robins = (108 / 360) × 300\n    Number of Robins = (3 / 10) × 300 = 90 Robins.\n\n2.  **Calculate the percentage of Robin sightings in Reserve A:**\n    Percentage = (Number of Robins / Total sightings) × 100%\n    Percentage = (90 / 300) × 100%\n    Percentage = (3 / 10) × 100% = 30%\n\n**For Reserve B:**\n1.  **Calculate the total number of sightings in Reserve B:**\n    Total sightings = Number of Larks + Number of Robins + Number of Sparrows + Number of Wrens\n    Total sightings = 45 + 75 + 60 + 90 = 270 sightings.\n\n2.  **Calculate the percentage of Robin sightings in Reserve B:**\n    Number of Robins in Reserve B = 75.\n    Percentage = (Number of Robins / Total sightings) × 100%\n    Percentage = (75 / 270) × 100%\n    Percentage = 27.777...%\n    Rounding to one decimal place, this is 27.8%.\n\n**Comparison:**\n*   Percentage of Robin sightings in Reserve A = 30%\n*   Percentage of Robin sightings in Reserve B = 27.8% (to 1 d.p.)\n\nReserve A has a higher proportion of Robin sightings.\n\n**Difference in percentage points:**\nDifference = Percentage in Reserve A - Percentage in Reserve B\nDifference = 30% - 27.777...%\nDifference = 2.222...%\nRounding to one decimal place, the difference is 2.2 percentage points.\n\n**Final Answer:** Reserve A has a higher proportion of Robin sightings by 2.2 percentage points.",
+      "explanation": "This question requires calculating proportions from two different types of statistical diagrams (a pie chart described in text and a frequency table) and then comparing them. First, for Reserve A, you must use the given angle for Robins and the total number of sightings to find the actual number of Robins, then convert this number into a percentage of the total sightings. For Reserve B, you must first sum all the frequencies in the table to find the total number of sightings, then use the number of Robins from the table to calculate its percentage. Finally, compare the two calculated percentages and find their difference, rounding to one decimal place as requested.",
+      "hint": "Remember that a full circle in a pie chart represents 360 degrees, and you can use this to find the number of sightings for a category if you know its angle and the total number of sightings. For a frequency table, sum all the frequencies to find the total number of items. To find a percentage, divide the 'part' by the 'whole' and multiply by 100.",
+      "generatedAt": "2026-04-30T12:44:06.972134"
+    },
+    {
+      "id": "m-y8-statistics_advanced_005",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A digital well-being research team collected data on the daily screen time (in hours) of two different groups of teenagers, Group A and Group B, over a holiday period.\n\n**Group A Data:**\nThe screen time for 100 teenagers in Group A is summarised in the frequency table below:\n| Screen Time (h) | Number of Teenagers |\n|-----------------|---------------------|\n| 0 < h ≤ 2      | 15                  |\n| 2 < h ≤ 4      | 25                  |\n| 4 < h ≤ 6      | 30                  |\n| 6 < h ≤ 8      | 20                  |\n| 8 < h ≤ 10     | 10                  |\n\n**Group B Data:**\nFor Group B, a total of 120 teenagers were surveyed. Their screen time data is represented in a pie chart, described below.\n- The sector representing teenagers with screen time 0 < h ≤ 2 hours has an angle of 72 degrees.\n- There are 36 teenagers whose screen time was 2 < h ≤ 4 hours.\n- The sector representing teenagers with screen time 4 < h ≤ 6 hours has an angle of 90 degrees.\n- The sector representing teenagers with screen time 6 < h ≤ 8 hours has an angle of 60 degrees.\n- The remaining teenagers had screen time 8 < h ≤ 10 hours.\n\n**(a)** For Group B:\n**(i)** Calculate the number of teenagers whose screen time was 8 < h ≤ 10 hours. Show your working.\n**(ii)** Calculate the angle of the sector representing teenagers whose screen time was 8 < h ≤ 10 hours. Show your working.\n\n**(b)** The research team wants to identify which group has a higher proportion of teenagers with *moderate* screen time. A moderate screen time is defined as more than 4 hours but no more than 8 hours (i.e., 4 < h ≤ 8 hours).\nDetermine which group (Group A or Group B) has a higher percentage of teenagers with moderate screen time. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "**(a) (i) For Group B, number of teenagers with 8 < h ≤ 10 hours:**\nTotal teenagers in Group B = 120.\nNumber of teenagers for 0 < h ≤ 2 hours: (72 degrees / 360 degrees) * 120 = (1/5) * 120 = 24 teenagers.\nNumber of teenagers for 2 < h ≤ 4 hours: Given as 36 teenagers.\nNumber of teenagers for 4 < h ≤ 6 hours: (90 degrees / 360 degrees) * 120 = (1/4) * 120 = 30 teenagers.\nNumber of teenagers for 6 < h ≤ 8 hours: (60 degrees / 360 degrees) * 120 = (1/6) * 120 = 20 teenagers.\n\nTotal teenagers in other categories = 24 + 36 + 30 + 20 = 110 teenagers.\nNumber of teenagers for 8 < h ≤ 10 hours = Total teenagers - Total accounted for = 120 - 110 = 10 teenagers.\n\n**(a) (ii) For Group B, angle of the sector for 8 < h ≤ 10 hours:**\nMethod 1: Using the number of teenagers calculated in (a)(i).\nFraction of teenagers = 10 teenagers / 120 total teenagers = 1/12.\nAngle = (1/12) * 360 degrees = 30 degrees.\n\nMethod 2: Using the sum of given angles.\nAngle for 0 < h ≤ 2 hours = 72 degrees.\nAngle for 2 < h ≤ 4 hours: (36 teenagers / 120 total teenagers) * 360 degrees = (3/10) * 360 = 108 degrees.\nAngle for 4 < h ≤ 6 hours = 90 degrees.\nAngle for 6 < h ≤ 8 hours = 60 degrees.\n\nTotal angle for other categories = 72 + 108 + 90 + 60 = 330 degrees.\nAngle for 8 < h ≤ 10 hours = Total angle - Total accounted for = 360 degrees - 330 degrees = 30 degrees.\n\n**(b) Comparison of moderate screen time (4 < h ≤ 8 hours):**\n\n**For Group A:**\nNumber of teenagers with 4 < h ≤ 6 hours = 30.\nNumber of teenagers with 6 < h ≤ 8 hours = 20.\nTotal teenagers with moderate screen time in Group A = 30 + 20 = 50 teenagers.\nTotal teenagers in Group A = 100.\nPercentage of moderate screen time in Group A = (50 / 100) * 100% = 50%.\n\n**For Group B:**\nNumber of teenagers with 4 < h ≤ 6 hours = 30 (calculated in part a.i.).\nNumber of teenagers with 6 < h ≤ 8 hours = 20 (calculated in part a.i.).\nTotal teenagers with moderate screen time in Group B = 30 + 20 = 50 teenagers.\nTotal teenagers in Group B = 120.\nPercentage of moderate screen time in Group B = (50 / 120) * 100% = (5/12) * 100% ≈ 41.67% (to 2 decimal places).\n\n**Conclusion:**\nGroup A has 50% of teenagers with moderate screen time.\nGroup B has approximately 41.67% of teenagers with moderate screen time.\n\nTherefore, **Group A** has a higher percentage of teenagers with moderate screen time.",
+      "explanation": "This multi-step problem requires students to interpret data from a frequency table and a pie chart described in words. In part (a), students must use the properties of a pie chart (total angle 360 degrees, and proportionality between frequency and angle) to calculate missing values. This involves working forwards from angles to frequencies, and backwards from given frequencies to calculate missing frequencies and then the corresponding angles. In part (b), students need to identify the relevant data categories for 'moderate screen time' from both the frequency table and the pie chart data. They then calculate the number of teenagers in this category for each group. Finally, they convert these numbers into percentages of their respective group totals and compare them to determine which group has a higher proportion. This combines understanding of different statistical diagrams with proportional reasoning and percentage calculations.",
+      "hint": "For pie charts, remember that the total angle is 360 degrees, and the number of items in a category is proportional to its sector angle relative to the total angle. To compare proportions between groups of different sizes, converting to percentages is often the clearest method.",
+      "generatedAt": "2026-04-30T12:44:32.641516"
+    },
+    {
+      "id": "m-y8-statistics_advanced_006",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A national energy grid monitors electricity production over a 24-hour period from its four primary generation methods: Solar, Wind, Hydro, and Fossil Fuels. The number of hours each method was actively generating power during this period is recorded in the following frequency table. This data is also used to construct a pie chart.\n\n| Generation Method | Hours Actively Generating Power |\n|---|---|\n| Solar | 6 |\n| Wind | 8 |\n| Hydro | 4 |\n| Fossil Fuels | Y |\n\n(a) Calculate the value of Y, the number of hours Fossil Fuels were actively generating power. (1 mark)\n\n(b) Calculate the angle of the sector representing 'Wind' power in the pie chart. Show your working. (2 marks)\n\n(c) For the following 24-hour period, the total hours of active generation across all methods remains the same. However, due to new environmental policies, the hours for Fossil Fuels are reduced by 25% compared to the initial period. This entire reduction is then equally re-allocated to increase the hours for Solar and Hydro generation. Calculate the percentage increase in Hydro power generation (in terms of hours) for this next period, compared to the initial period. Give your answer to one decimal place where appropriate. Show your working clearly. (5 marks)",
+      "options": [],
+      "correctAnswer": "(a) The total hours in a 24-hour period is 24.\nSo, Y = 24 - (Hours for Solar + Hours for Wind + Hours for Hydro)\nY = 24 - (6 + 8 + 4)\nY = 24 - 18\nY = 6 hours\n\n(b) Total hours = 24.\nHours for Wind = 8.\nAngle for Wind sector = (Hours for Wind / Total Hours) * 360°\nAngle = (8 / 24) * 360°\nAngle = (1/3) * 360°\nAngle = 120°\n\n(c) **Initial Period Values:**\nSolar = 6 hours\nWind = 8 hours\nHydro = 4 hours\nFossil Fuels (Y) = 6 hours\nTotal = 24 hours\n\n**Changes for the Next Period:**\n1.  **Reduction in Fossil Fuels:**\n    Fossil Fuels reduction = 25% of initial Fossil Fuels hours\n    Reduction = 0.25 * 6 hours = 1.5 hours\n    New Fossil Fuels hours = 6 - 1.5 = 4.5 hours\n\n2.  **Re-allocation of Reduction:**\n    The 1.5 hours reduction is equally re-allocated to Solar and Hydro.\n    Amount re-allocated to Solar = 1.5 / 2 = 0.75 hours\n    Amount re-allocated to Hydro = 1.5 / 2 = 0.75 hours\n\n3.  **New Hydro Hours:**\n    New Hydro hours = Initial Hydro hours + re-allocated amount\n    New Hydro hours = 4 + 0.75 = 4.75 hours\n\n4.  **Percentage Increase in Hydro:**\n    Percentage Increase = ((New Hydro hours - Initial Hydro hours) / Initial Hydro hours) * 100%\n    Percentage Increase = ((4.75 - 4) / 4) * 100%\n    Percentage Increase = (0.75 / 4) * 100%\n    Percentage Increase = 0.1875 * 100%\n    Percentage Increase = 18.75%\n\n    Rounding to one decimal place: 18.8%\n\nTherefore, the percentage increase in Hydro power generation is 18.8%.",
+      "explanation": "The question requires several steps of calculation and interpretation of data. Part (a) involves simple subtraction from the total hours to find the missing value in the frequency table. Part (b) uses the found total hours and the hours for Wind to calculate the corresponding angle in a pie chart, using the formula (part / total) * 360°. Part (c) is a multi-step problem. First, calculate the 25% reduction in Fossil Fuels hours. Then, divide this reduction equally between Solar and Hydro. Finally, calculate the new Hydro hours and use the percentage increase formula ((New - Old) / Old) * 100% to find the answer, rounding to one decimal place as required.",
+      "hint": "For part (c), start by calculating the actual reduction in Fossil Fuel hours. Then, distribute this amount equally to Solar and Hydro. Remember that percentage increase is calculated based on the original value.",
+      "generatedAt": "2026-04-30T12:45:18.560027"
+    },
+    {
+      "id": "m-y8-statistics_advanced_007",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A school conducted two separate surveys among its students. The first survey, administered to 240 students, investigated their favourite subject. The results, which would be displayed on a pie chart, showed that 25% chose Maths, 35% chose English, 15% chose Science, and the remaining percentage chose Arts. The second survey, conducted on a different day with 180 different students, recorded the time (in minutes) each student spent reading outside of lessons. This data is presented in a grouped frequency table: for 0-15 minutes, the frequency was 40 students; for 16-30 minutes, the frequency was 60 students; for 31-45 minutes, the frequency was an unknown number of students; and for 46-60 minutes, the frequency was also an unknown number of students. \n\nIt is known that the number of students who chose Arts as their favourite subject is equal to the number of students who spent between 31 and 45 minutes reading. Additionally, the total number of students who spent more than 30 minutes reading is 80. Working required. \n\nWhat is the total number of students who chose Maths or Science as their favourite subject?",
+      "options": [
+        "60",
+        "96",
+        "120",
+        "80"
+      ],
+      "correctAnswer": "96",
+      "explanation": "Step 1: Calculate the number of students who chose Arts as their favourite subject from the first survey (pie chart data).\nTotal students in first survey = 240.\nPercentage for Arts = 100% - (25% for Maths + 35% for English + 15% for Science) = 100% - 75% = 25%.\nNumber of students who chose Arts = 25% of 240 = 0.25 × 240 = 60 students.\n\nStep 2: Use the first linking condition to find the number of students who spent between 31 and 45 minutes reading.\nIt is known that the number of students who chose Arts as their favourite subject is equal to the number of students who spent between 31 and 45 minutes reading.\nSo, number of students who spent 31-45 minutes reading = 60 students.\n\nStep 3: Use the second linking condition to find the number of students who spent between 46 and 60 minutes reading.\nIt is known that the total number of students who spent more than 30 minutes reading is 80.\nStudents who spent more than 30 minutes reading are those in the 31-45 minute group and the 46-60 minute group.\nSo, (Number of students in 31-45 minutes group) + (Number of students in 46-60 minutes group) = 80.\n60 + (Number of students in 46-60 minutes group) = 80.\nNumber of students in 46-60 minutes group = 80 - 60 = 20 students.\n\nStep 4: Verify the total number of students in the second survey (optional but good for consistency check).\nTotal students in second survey = 40 (0-15 min) + 60 (16-30 min) + 60 (31-45 min) + 20 (46-60 min) = 180 students.\nThis matches the given total of 180 students for the second survey, confirming our calculated frequencies are consistent.\n\nStep 5: Calculate the total number of students who chose Maths or Science as their favourite subject.\nNumber of students who chose Maths = 25% of 240 = 0.25 × 240 = 60 students.\nNumber of students who chose Science = 15% of 240 = 0.15 × 240 = 36 students.\nTotal students who chose Maths or Science = 60 + 36 = 96 students.",
+      "hint": "First, calculate the number of students for 'Arts' from the pie chart data. Then use the given conditions to find the unknown frequencies in the grouped data table. Finally, use the initial pie chart data to answer the main question.",
+      "generatedAt": "2026-04-30T12:45:51.330655"
+    },
+    {
+      "id": "m-y8-statistics_advanced_008",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "The 'Champions' local sports club has a total of 360 members. The distribution of members by age group is given in the table below:\n\nAge Group (years) | Number of Members\n-----------------|------------------\nUnder 18         | 108\n18-30            | N\n31-50            | 80\nOver 50          | 64\n\nFor the members in the 18-30 age group, their preferred sport activities are represented by a pie chart. The angles for three of the activities are: Football: 100 degrees, Tennis: 80 degrees, Swimming: 90 degrees. The fourth activity is 'Basketball'.\n\n**Question:**\n\n1.  First, determine the number of members in the 18-30 age group (represented by 'N' in the table).\n2.  Next, calculate the angle representing 'Basketball' in the pie chart for the 18-30 age group.\n3.  Finally, the club manager wants to know how many members prefer 'Basketball' in total. He knows that exactly 1/4 of the 'Under 18' members prefer 'Basketball'. For all *other* age groups (31-50 and Over 50), the proportion of members who prefer 'Basketball' is the *same* as the proportion calculated for the 18-30 age group. Calculate the *total number of members* across all age groups who prefer 'Basketball'. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "Here is a step-by-step solution showing the working:\n\n**Part 1: Determine the number of members in the 18-30 age group (N).**\n*   The total number of members is 360.\n*   The sum of known age groups is: 108 (Under 18) + 80 (31-50) + 64 (Over 50) = 252 members.\n*   To find N, subtract this sum from the total members:\n    N = 360 - 252\n    N = 108 members\n    Therefore, there are 108 members in the 18-30 age group.\n\n**Part 2: Calculate the angle representing 'Basketball' in the pie chart.**\n*   The total angle in a pie chart is always 360 degrees.\n*   The sum of the given angles for Football, Tennis, and Swimming is: 100 + 80 + 90 = 270 degrees.\n*   To find the angle for Basketball, subtract this sum from 360 degrees:\n    Angle for Basketball = 360 - 270\n    Angle for Basketball = 90 degrees\n    Therefore, the angle representing 'Basketball' is 90 degrees.\n\n**Part 3: Calculate the total number of members who prefer 'Basketball'.**\n\nFirst, calculate the proportion of members who prefer 'Basketball' in the 18-30 age group:\n*   Proportion = (Angle for Basketball) / (Total angle)\n*   Proportion = 90 / 360\n*   Proportion = 1/4 or 0.25\n\nNow, calculate the number of members preferring 'Basketball' for each age group:\n*   **Under 18 age group:**\n    It is given that 1/4 of the 'Under 18' members prefer 'Basketball'.\n    Number of 'Under 18' members = 108\n    Members preferring 'Basketball' = (1/4) * 108 = 27 members.\n\n*   **18-30 age group:**\n    Number of '18-30' members (N) = 108\n    Proportion preferring 'Basketball' = 1/4\n    Members preferring 'Basketball' = (1/4) * 108 = 27 members.\n\n*   **31-50 age group:**\n    Number of '31-50' members = 80\n    Proportion preferring 'Basketball' (same as 18-30) = 1/4\n    Members preferring 'Basketball' = (1/4) * 80 = 20 members.\n\n*   **Over 50 age group:**\n    Number of 'Over 50' members = 64\n    Proportion preferring 'Basketball' (same as 18-30) = 1/4\n    Members preferring 'Basketball' = (1/4) * 64 = 16 members.\n\nFinally, add the number of members preferring 'Basketball' from all age groups to find the total:\n*   Total members preferring 'Basketball' = 27 (Under 18) + 27 (18-30) + 20 (31-50) + 16 (Over 50)\n*   Total members preferring 'Basketball' = 90 members\n\nTherefore, a total of 90 members prefer 'Basketball'.",
+      "explanation": "The solution requires three main steps:\n1.  **Interpret Frequency Table:** Use the total number of members and the given numbers for other age groups to calculate the missing value in the frequency table. This is a basic subtraction problem.\n2.  **Interpret Pie Chart (Angles):** Use the fact that angles in a pie chart sum to 360 degrees to find the missing angle for 'Basketball'.\n3.  **Apply Proportions and Combine Data:**\n    *   Calculate the proportion (as a fraction or decimal) of members who prefer 'Basketball' from the 18-30 age group's pie chart. This involves dividing the 'Basketball' angle by 360 degrees.\n    *   Apply the given fraction (1/4) to the 'Under 18' age group to find those preferring 'Basketball'.\n    *   Apply the proportion calculated in the previous step to the remaining age groups (31-50 and Over 50) to find those preferring 'Basketball' in those groups.\n    *   Sum up the numbers from all four age groups to get the final total. This question tests the ability to extract information from different statistical diagrams and combine it through multi-step calculations involving fractions, percentages, and basic arithmetic.",
+      "hint": "Remember that the sum of all parts in a frequency table equals the total, and the angles in a pie chart always add up to 360 degrees. To find a proportion from a pie chart, divide the specific category's angle by 360 degrees.",
+      "generatedAt": "2026-04-30T12:46:29.507033"
+    },
+    {
+      "id": "m-y8-statistics_advanced_009",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A large book club tracked its members' reading habits for a month.\n\nThe number of books (b) borrowed by 200 junior members is summarised in the frequency table below:\n| Number of Books (b) | Frequency |\n|---------------------|-----------|\n| 0 < b ≤ 2           | 40        |\n| 2 < b ≤ 4           | 70        |\n| 4 < b ≤ 6           | 50        |\n| 6 < b ≤ 8           | 30        |\n| 8 < b ≤ 10          | 10        |\n\nThe types of books borrowed by 360 adult members are represented by a pie chart. The angles for three categories are given:\n- Fiction: 144 degrees\n- Non-Fiction: 96 degrees\n- Biography: 72 degrees\n- The remaining category is 'Other'.\n\nThe book club is planning a special event for members who either borrow a *moderate* number of books (for junior members) or prefer *Non-Fiction* titles (for adult members).\nFor junior members, a moderate number of books is defined as borrowing more than 2 books but no more than 6 books.\n\nCalculate the total number of members (junior and adult combined) who fit these criteria. Show your working clearly.",
+      "options": [
+        "168",
+        "192",
+        "216",
+        "264"
+      ],
+      "correctAnswer": "216",
+      "explanation": "Step 1: Calculate the number of junior members who borrowed a moderate number of books.\nThe definition of a moderate number of books for junior members is 'more than 2 books but no more than 6 books'. This corresponds to two intervals in the frequency table:\n- '2 < b ≤ 4' has a frequency of 70 members.\n- '4 < b ≤ 6' has a frequency of 50 members.\nTotal junior members fitting this criterion = 70 + 50 = 120 members.\n\nStep 2: Calculate the number of adult members who prefer Non-Fiction titles.\nThe total number of adult members is 360. The pie chart shows the angle for Non-Fiction books is 96 degrees.\nThe number of adult members who prefer Non-Fiction is calculated as a proportion of the total adult members:\nNumber of adult members = (Angle for Non-Fiction / Total angle in a circle) × Total adult members\nNumber of adult members = (96 / 360) × 360\nNumber of adult members = 96 members.\n\nStep 3: Calculate the total number of members who fit the criteria.\nTotal members = (Junior members with moderate borrowing) + (Adult members preferring Non-Fiction)\nTotal members = 120 + 96 = 216 members.",
+      "hint": "First, identify the correct frequency intervals for junior members and sum their frequencies. Then, use the given angle for 'Non-Fiction' and the total number of adult members to find the count of adult members. Finally, add these two numbers together.",
+      "generatedAt": "2026-04-30T12:46:51.199632"
+    },
+    {
+      "id": "m-y8-statistics_advanced_010",
+      "topicId": "m-y8-statistics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Sweet Treats bakery sells three types of pastry: Croissants, Muffins, and Danishes. They track their weekly sales and customer satisfaction.\n\n**Data 1: Weekly Sales Distribution**\nA total of 1080 pastries were sold last week. The sales distribution for each pastry type can be represented as angles in a pie chart:\n*   Croissants: 150 degrees\n*   Muffins: 120 degrees\n*   Danishes: The remaining angle\n\n**Data 2: Customer Satisfaction Survey**\n180 customers were surveyed about their overall satisfaction with Sweet Treats on a scale of 1 to 10 (where 10 is excellent). The results were grouped as follows:\n*   'Low' satisfaction (scores 1-3): 54 customers\n*   'Medium' satisfaction (scores 4-7): 72 customers\n*   'High' satisfaction (scores 8-10): The remaining customers\n\na) Calculate the number of Danishes sold last week. (1 mark)\n\nb) Calculate the percentage of customers who reported 'High' satisfaction. Show your working. (2 marks)\n\nc) Sweet Treats wants to project its sales for next month. They decide to reduce the price of the pastry type that had the *highest* sales in the previous week by 10%. They predict this will increase its sales by 20%. For the pastry type that had the *lowest* sales, they decide to remove it from their menu *if* the percentage of its sales out of total weekly sales is less than the percentage of 'Low' satisfaction customers out of the total surveyed customers. Calculate the new total number of pastries expected to be sold next month *if* the most popular item increases as predicted *and* the least popular item is *removed*. Show your working. (5 marks)",
+      "options": [],
+      "correctAnswer": "a) First, find the angle for Danishes: 360 - 150 - 120 = 90 degrees.\nNumber of Danishes sold = (90 / 360) * 1080 = (1/4) * 1080 = 270 Danishes.\n\nb) First, find the number of 'High' satisfaction customers: 180 - 54 - 72 = 54 customers.\nPercentage of 'High' satisfaction customers = (54 / 180) * 100% = 0.3 * 100% = 30%.\n\nc) Step 1: Calculate initial sales for each pastry type:\nTotal pastries = 1080\nCroissants: (150/360) * 1080 = 450 pastries\nMuffins: (120/360) * 1080 = 360 pastries\nDanishes: (90/360) * 1080 = 270 pastries\n\nStep 2: Identify highest and lowest sales:\nHighest sales: Croissants (450 pastries)\nLowest sales: Danishes (270 pastries)\n\nStep 3: Project new sales for the most popular item (Croissants):\nOriginal sales = 450\nPredicted increase by 20% = 450 * (1 + 0.20) = 450 * 1.20 = 540 Croissants.\n\nStep 4: Evaluate the condition for removing the least popular item (Danishes):\nPercentage of Danishes sales out of total weekly sales = (270 / 1080) * 100% = 0.25 * 100% = 25%.\nNumber of 'Low' satisfaction customers = 54.\nPercentage of 'Low' satisfaction customers out of total surveyed customers = (54 / 180) * 100% = 0.3 * 100% = 30%.\nCondition check: Is 25% < 30%? Yes, 25% is less than 30%.\nTherefore, Danishes *are removed*, so their projected sales for next month are 0.\n\nStep 5: Muffins sales remain unchanged:\nProjected Muffins sales = 360 pastries.\n\nStep 6: Calculate the new total number of pastries expected to be sold:\nNew total = Projected Croissants + Projected Muffins + Projected Danishes\nNew total = 540 + 360 + 0 = 900 pastries.",
+      "explanation": "a) To find the number of Danishes, first calculate the angle for Danishes by subtracting the angles for Croissants and Muffins from 360 degrees. Then, multiply this fraction of the total angle by the total number of pastries sold.\nb) To find the percentage of 'High' satisfaction customers, first calculate the number of 'High' satisfaction customers by subtracting the 'Low' and 'Medium' counts from the total surveyed customers. Then, divide this number by the total surveyed customers and multiply by 100%.\nc) This multi-step problem requires several calculations:\n1.  Determine the initial sales number for each pastry type from the pie chart data.\n2.  Identify which pastry type had the highest and lowest sales.\n3.  Calculate the new sales for the most popular item by applying the given percentage increase.\n4.  Calculate the percentage of the lowest-selling item's sales out of the total, and the percentage of 'Low' satisfaction customers out of the total surveyed customers.\n5.  Compare these two percentages to see if the condition for removal of the least popular item is met.\n6.  Finally, sum up the new projected sales for all three pastry types (including 0 if an item was removed and no change for the middle item) to get the total.",
+      "hint": "For part c), break down the problem into smaller steps: calculate initial sales for all types, then apply the percentage increase for the most popular item, then calculate the relevant percentages to check the condition for the least popular item's removal, and finally sum up the revised sales figures.",
+      "generatedAt": "2026-04-30T12:47:28.262115"
+    }
+  ]
+}

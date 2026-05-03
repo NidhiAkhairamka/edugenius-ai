@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y10-prob-trees_beginner_001",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A fair spinner has three equally sized sections coloured Red, Blue, and Yellow. The spinner is spun twice. What is the probability of the spinner landing on Red on the first spin and then landing on Blue on the second spin? Show your working.",
+      "options": [
+        "A. 1/3",
+        "B. 1/6",
+        "C. 1/9",
+        "D. 2/3"
+      ],
+      "correctAnswer": "C. 1/9",
+      "explanation": "1.  **Probability of the first event:** The spinner has 3 equally sized sections (Red, Blue, Yellow). The probability of landing on Red on the first spin is P(Red) = 1/3.\n2.  **Probability of the second event:** Since the two spins are independent events, the probability of landing on Blue on the second spin is P(Blue) = 1/3.\n3.  **Combined probability:** To find the probability of both events happening (Red on the first spin AND Blue on the second spin), you multiply their individual probabilities:\n    P(Red and Blue) = P(Red) × P(Blue)\n    P(Red and Blue) = (1/3) × (1/3)\n    P(Red and Blue) = 1/9",
+      "hint": "Consider the probability of each spin separately. How do you combine probabilities for two independent events?",
+      "generatedAt": "2026-04-30T18:54:15.001423"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_002",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A bag contains 8 counters in total. There are 5 red counters and 3 blue counters.\nA counter is picked at random from the bag and its colour is noted. The counter is NOT replaced.\nA second counter is then picked at random from the bag.\n\nCalculate the probability that both counters picked are red. Show your working.",
+      "options": [
+        "5/8",
+        "25/64",
+        "5/14",
+        "4/7"
+      ],
+      "correctAnswer": "5/14",
+      "explanation": "To find the probability that both counters are red, we need to consider two events happening in sequence:\n\n1.  **Probability of picking a red counter first:**\n    There are 5 red counters out of a total of 8 counters.\n    P(1st Red) = 5/8\n\n2.  **Probability of picking a second red counter (given the first was red and not replaced):**\n    After picking one red counter, there are now 4 red counters left and a total of 7 counters remaining in the bag.\n    P(2nd Red | 1st Red) = 4/7\n\n3.  **To find the probability of both events happening, we multiply their probabilities:**\n    P(Both Red) = P(1st Red) × P(2nd Red | 1st Red)\n    P(Both Red) = (5/8) × (4/7)\n    P(Both Red) = 20/56\n\n4.  **Simplify the fraction:**\n    Divide both the numerator and the denominator by their greatest common divisor, which is 4.\n    P(Both Red) = 20 ÷ 4 / 56 ÷ 4 = 5/14",
+      "hint": "Start by finding the probability of the first event. Then, consider how the total number of counters and the number of red counters change for the second event because the first counter was not replaced.",
+      "generatedAt": "2026-04-30T18:54:25.951148"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_003",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A box contains 10 sweets in total. There are 6 lemon sweets and 4 strawberry sweets. Maria picks a sweet at random from the box and eats it. Then, she picks a second sweet at random from the remaining sweets in the box.\nWhat is the probability that both sweets Maria picks are lemon flavoured?\nShow your working.",
+      "options": [
+        "1/3",
+        "9/25",
+        "3/5",
+        "1/2"
+      ],
+      "correctAnswer": "1/3",
+      "explanation": "To find the probability of picking two lemon sweets, we need to consider the probabilities of each pick sequentially:\n\n1.  **Probability of picking the first lemon sweet:**\n    There are 6 lemon sweets out of a total of 10 sweets.\n    P(1st Lemon) = 6/10\n\n2.  **Probability of picking the second lemon sweet (after the first was lemon and eaten):**\n    After Maria picks and eats one lemon sweet, there are now 9 sweets left in the box.\n    The number of lemon sweets remaining is 6 - 1 = 5.\n    P(2nd Lemon | 1st was Lemon) = 5/9\n\n3.  **Probability of both events happening:**\n    To find the probability that both sweets picked are lemon, we multiply the probabilities of the two consecutive events:\n    P(Both Lemon) = P(1st Lemon) * P(2nd Lemon | 1st was Lemon)\n    P(Both Lemon) = (6/10) * (5/9)\n    P(Both Lemon) = 30/90\n\n4.  **Simplify the fraction:**\n    30/90 simplifies to 1/3.\n\nTherefore, the probability that both sweets Maria picks are lemon flavoured is 1/3.",
+      "hint": "Remember that picking the first sweet changes the total number of sweets, and the number of lemon sweets, available for the second pick. Multiply the probabilities along the relevant branches of the probability tree.",
+      "generatedAt": "2026-04-30T18:54:40.012347"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_004",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "In a science class, there are 20 students in total. 12 of these students are boys, and the remaining 8 students are girls.\nThe teacher randomly selects two students, one after the other, to help with an experiment. Once a student is selected, they do not return to the group for the second selection.\nWhat is the probability that both students selected are boys? Show your working.",
+      "options": [
+        "33/95",
+        "9/25",
+        "11/19",
+        "12/20"
+      ],
+      "correctAnswer": "33/95",
+      "explanation": "1.  **Probability of the first student being a boy:**\n    There are 12 boys out of 20 students in total.\n    P(1st student is a boy) = 12/20.\n\n2.  **Probability of the second student being a boy (given the first was a boy):**\n    After one boy has been selected, there are now 11 boys remaining in the class.\n    The total number of students remaining is 19.\n    P(2nd student is a boy | 1st student was a boy) = 11/19.\n\n3.  **Probability of both events happening:**\n    To find the probability that both students selected are boys, multiply the probability of the first event by the conditional probability of the second event.\n    P(Both students are boys) = P(1st boy) × P(2nd boy | 1st boy)\n    P(Both students are boys) = (12/20) × (11/19)\n    P(Both students are boys) = (3/5) × (11/19) (by simplifying 12/20 to 3/5)\n    P(Both students are boys) = 33/95",
+      "hint": "Consider how the number of boys and the total number of students change for the second selection, because the first student chosen is not put back into the group. Multiply the probabilities along the branch that represents both students being boys.",
+      "generatedAt": "2026-04-30T18:54:57.839100"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_005",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A student is taking two tests, one in Mathematics and one in English. The probability that the student passes the Mathematics test is 0.75. The probability that the student passes the English test is 0.8. The outcomes of the two tests are independent events.\n\nCalculate the probability that the student passes both the Mathematics test and the English test.\n\nShow your working.",
+      "options": [],
+      "correctAnswer": "To calculate the probability that the student passes both tests, we multiply the probabilities of passing each individual test, as the events are independent.\n\nProbability of passing Mathematics (P(Maths)) = 0.75\nProbability of passing English (P(English)) = 0.8\n\nP(Pass Maths and Pass English) = P(Maths) × P(English)\nP(Pass Maths and Pass English) = 0.75 × 0.8\nP(Pass Maths and Pass English) = 0.60\n\nThe probability that the student passes both the Mathematics test and the English test is 0.60.",
+      "explanation": "Step 1: Identify the given probabilities for each independent event.\nProbability of passing Mathematics = 0.75\nProbability of passing English = 0.8\n\nStep 2: For two independent events, the probability of both events occurring is found by multiplying their individual probabilities.\nP(Event A and Event B) = P(Event A) × P(Event B)\n\nStep 3: Apply the formula using the given values.\nP(Pass Maths and Pass English) = 0.75 × 0.8\n\nStep 4: Calculate the final probability.\n0.75 × 0.8 = 0.60\n\nTherefore, the probability that the student passes both tests is 0.60.",
+      "hint": "For independent events, the probability of both events happening is found by multiplying their individual probabilities. Think about following a specific path on a probability tree.",
+      "generatedAt": "2026-04-30T18:55:09.534049"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_006",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A local council monitors weather patterns. The probability of rain on a randomly chosen Saturday in June is 0.45. The probability of rain on a randomly chosen Sunday in June is 0.3. The weather on Saturday is independent of the weather on Sunday. Calculate the probability that it rains on Saturday but does not rain on Sunday.",
+      "options": [
+        "0.315",
+        "0.135",
+        "0.75",
+        "0.385"
+      ],
+      "correctAnswer": "0.315",
+      "explanation": "To find the probability that it rains on Saturday but does not rain on Sunday, we first need to determine the probability of 'not raining' on Sunday.\n\n1.  **Probability of not raining on Sunday**: If the probability of rain on Sunday is 0.3, then the probability of not raining on Sunday is 1 - 0.3 = 0.7.\n\n2.  **Probability of rain on Saturday**: This is given as 0.45.\n\n3.  **Combined Probability**: Since the events (weather on Saturday and weather on Sunday) are independent, we multiply their individual probabilities to find the probability of both events happening:\n    P(Rain on Saturday AND Not Rain on Sunday) = P(Rain on Saturday) × P(Not Rain on Sunday)\n    = 0.45 × 0.7\n    = 0.315\n\nTherefore, the probability that it rains on Saturday but does not rain on Sunday is 0.315.",
+      "hint": "Start by calculating the probability of 'not raining' on Sunday. Then, remember that for independent events, the probability of both events occurring is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T18:55:27.498711"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_007",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "The probability that it rains on Monday is 0.6. If it rains on Monday, the probability that it rains on Tuesday is 0.7. If it does not rain on Monday, the probability that it rains on Tuesday is 0.3.\n\nCalculate the probability that it rains on both Monday and Tuesday.\n\nShow your working.",
+      "options": [
+        "0.18",
+        "0.42",
+        "0.6",
+        "0.7"
+      ],
+      "correctAnswer": "0.42",
+      "explanation": "To find the probability that it rains on both Monday and Tuesday, we need to consider the specific path on the probability tree where both events occur:\n\n1.  First event: It rains on Monday. The probability is given as P(Rain on Monday) = 0.6.\n2.  Second event: It rains on Tuesday, *given* that it rained on Monday. The conditional probability is given as P(Rain on Tuesday | Rain on Monday) = 0.7.\n\nFor two consecutive events to both happen, we multiply their probabilities along the corresponding branch of the probability tree:\n\nP(Rain on Monday AND Rain on Tuesday) = P(Rain on Monday) × P(Rain on Tuesday | Rain on Monday)\nP(Rain on Monday AND Rain on Tuesday) = 0.6 × 0.7\nP(Rain on Monday AND Rain on Tuesday) = 0.42\n\nTherefore, the probability that it rains on both Monday and Tuesday is 0.42.",
+      "hint": "To find the probability of two consecutive events both happening, you need to multiply the probabilities along the correct branch of the probability tree for those specific outcomes.",
+      "generatedAt": "2026-04-30T18:55:40.612505"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_008",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A bag contains 8 cards in total. There are 5 red cards and 3 blue cards. A card is drawn at random from the bag and not replaced. A second card is then drawn at random. Calculate the probability that the first card drawn is red and the second card drawn is blue.",
+      "options": [
+        "5/8",
+        "15/56",
+        "15/64",
+        "3/7"
+      ],
+      "correctAnswer": "15/56",
+      "explanation": "1.  **Probability of the first card being red:**\n    There are 5 red cards out of a total of 8 cards.\n    P(1st Red) = 5/8\n\n2.  **Probability of the second card being blue (given the first was red and not replaced):**\n    After drawing one red card, there are now 4 red cards and 3 blue cards left in the bag. The total number of cards remaining is 7.\n    P(2nd Blue | 1st Red) = 3/7\n\n3.  **Probability of the first card being red AND the second card being blue:**\n    To find the probability of both events happening in this sequence, multiply the probabilities together (as you would follow a path down a probability tree):\n    P(1st Red and 2nd Blue) = P(1st Red) * P(2nd Blue | 1st Red)\n    = (5/8) * (3/7)\n    = 15/56",
+      "hint": "To find the probability of a sequence of events, multiply the probabilities along the specific path of the probability tree. Remember to adjust the probabilities for the second draw if items are not replaced.",
+      "generatedAt": "2026-04-30T18:55:50.844831"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_009",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A baker is preparing two items for a charity bake sale: a cake and a batch of muffins. The probability that the cake burns during baking is 0.1. The probability that the muffins burn during baking is 0.25. The events of the cake burning and the muffins burning are independent. What is the probability that the cake does NOT burn and the muffins DO burn?",
+      "options": [
+        "A) 0.025",
+        "B) 0.1",
+        "C) 0.18",
+        "D) 0.225"
+      ],
+      "correctAnswer": "D) 0.225",
+      "explanation": "Let P(C_burn) be the probability that the cake burns, and P(M_burn) be the probability that the muffins burn.\n\nWe are given:\nP(C_burn) = 0.1\nP(M_burn) = 0.25\n\nFirst, we need to find the probability that the cake does NOT burn:\nP(C_not_burn) = 1 - P(C_burn) = 1 - 0.1 = 0.9\n\nNext, we need the probability that the muffins DO burn, which is already given:\nP(M_burn) = 0.25\n\nSince the events are independent, the probability that the cake does NOT burn AND the muffins DO burn is found by multiplying their individual probabilities:\nP(C_not_burn AND M_burn) = P(C_not_burn) * P(M_burn)\nP(C_not_burn AND M_burn) = 0.9 * 0.25\nP(C_not_burn AND M_burn) = 0.225\n\nTherefore, the probability is 0.225.",
+      "hint": "Start by finding the probability that the cake does NOT burn. Then, remember that for independent events, you multiply the probabilities of the individual events occurring together.",
+      "generatedAt": "2026-04-30T18:56:04.381366"
+    },
+    {
+      "id": "m-y10-prob-trees_beginner_010",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A box contains 7 green marbles and 3 yellow marbles. A marble is chosen at random from the box and its colour is noted. The marble is not replaced. A second marble is then chosen at random from the box.\n\nCalculate the probability that the first marble chosen is green and the second marble chosen is yellow. Show your working.",
+      "options": [
+        "21/100",
+        "7/30",
+        "7/10",
+        "3/10"
+      ],
+      "correctAnswer": "7/30",
+      "explanation": "1.  First, determine the probability of choosing a green marble for the first pick:\n    There are 7 green marbles out of a total of 10 marbles (7 green + 3 yellow).\n    P(1st Green) = 7/10\n\n2.  Next, determine the probability of choosing a yellow marble for the second pick, given that the first marble chosen was green and was NOT replaced:\n    After one green marble is removed, there are now 6 green marbles and 3 yellow marbles left in the box. The total number of marbles is now 9 (6 + 3).\n    P(2nd Yellow | 1st Green) = 3/9\n\n3.  To find the probability of both events happening (first green AND second yellow), multiply the probabilities:\n    P(1st Green AND 2nd Yellow) = P(1st Green) * P(2nd Yellow | 1st Green)\n    P(1st Green AND 2nd Yellow) = (7/10) * (3/9)\n    P(1st Green AND 2nd Yellow) = 21/90\n\n4.  Simplify the fraction:\n    21/90 can be simplified by dividing both the numerator and the denominator by their greatest common divisor, which is 3.\n    21 ÷ 3 = 7\n    90 ÷ 3 = 30\n    So, P(1st Green AND 2nd Yellow) = 7/30",
+      "hint": "Remember to adjust the total number of marbles and the number of specific coloured marbles for the second pick, since the first marble is not replaced. Multiply the probabilities along the correct branch of the probability tree.",
+      "generatedAt": "2026-04-30T18:56:17.765648"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y10-prob-trees_intermediate_001",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A bag contains 7 red counters and 3 blue counters. A counter is taken at random from the bag and not replaced. A second counter is then taken at random from the bag. What is the probability that both counters are the same colour? Show your working.",
+      "options": [
+        "8/15",
+        "7/15",
+        "58/100",
+        "1/15"
+      ],
+      "correctAnswer": "8/15",
+      "explanation": "To find the probability that both counters are the same colour, we need to consider two mutually exclusive scenarios: drawing two red counters (R, R) OR drawing two blue counters (B, B).\n\n**Scenario 1: Drawing two red counters (R, R)**\n\n1.  **Probability of drawing the first red counter:** \n    P(1st Red) = (Number of red counters) / (Total number of counters) = 7/10.\n2.  After the first red counter is taken and not replaced, there are now 6 red counters left and a total of 9 counters in the bag.\n3.  **Probability of drawing the second red counter:** \n    P(2nd Red | 1st Red) = 6/9.\n4.  **Probability of drawing two red counters in a row:** \n    P(R, R) = P(1st Red) * P(2nd Red | 1st Red) = (7/10) * (6/9) = 42/90.\n\n**Scenario 2: Drawing two blue counters (B, B)**\n\n1.  **Probability of drawing the first blue counter:** \n    P(1st Blue) = (Number of blue counters) / (Total number of counters) = 3/10.\n2.  After the first blue counter is taken and not replaced, there are now 2 blue counters left and a total of 9 counters in the bag.\n3.  **Probability of drawing the second blue counter:** \n    P(2nd Blue | 1st Blue) = 2/9.\n4.  **Probability of drawing two blue counters in a row:** \n    P(B, B) = P(1st Blue) * P(2nd Blue | 1st Blue) = (3/10) * (2/9) = 6/90.\n\n**Total Probability of drawing both counters of the same colour:**\n\nSince these two scenarios are the only ways to get two counters of the same colour, we add their probabilities:\n\nP(Same colour) = P(R, R) + P(B, B) = 42/90 + 6/90 = 48/90.\n\n**Simplify the fraction:**\n\nTo simplify 48/90, divide both the numerator and the denominator by their greatest common divisor, which is 6:\n\n48 ÷ 6 = 8\n90 ÷ 6 = 15\n\nSo, the probability that both counters are the same colour is **8/15**.",
+      "hint": "Start by considering the two possible paths on a probability tree that lead to 'same colour'. For each step, remember that the total number of counters and the number of specific coloured counters change because the first counter is not replaced.",
+      "generatedAt": "2026-04-30T18:56:41.044011"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_002",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A group of 25 students is planning a field trip. Data on their preferences and year groups is collected:\n*   12 students prefer visiting historical sites. Out of these, 8 are in Year 10 and 4 are in Year 11.\n*   13 students prefer visiting science museums. Out of these, 6 are in Year 10 and 7 are in Year 11.\n\nTwo students are chosen at random, one after the other, without replacement, to be the trip's student leaders.\n\nWorking must be shown. What is the probability that one of the chosen students is from Year 10 and the other student is from Year 11?",
+      "options": [
+        "77/150",
+        "11/25",
+        "7/15",
+        "154/625"
+      ],
+      "correctAnswer": "77/150",
+      "explanation": "First, identify the total number of students and the number of students in each year group:\nTotal students = 25\nNumber of Year 10 students = 8 (from historical sites) + 6 (from science museums) = 14\nNumber of Year 11 students = 4 (from historical sites) + 7 (from science museums) = 11\n\nWe are looking for the probability that one student is from Year 10 and the other is from Year 11. This can happen in two ways:\n\n**Case 1: The first student chosen is Year 10, and the second student chosen is Year 11.**\n1.  Probability that the first student is Year 10: P(1st Y10) = (Number of Y10 students) / (Total students) = 14/25\n2.  After one Year 10 student is chosen, there are 24 students remaining. The number of Year 10 students remaining is 13, and the number of Year 11 students remaining is 11.\n3.  Probability that the second student is Year 11 (given the first was Year 10): P(2nd Y11 | 1st Y10) = (Number of Y11 students remaining) / (Total students remaining) = 11/24\n4.  Probability of Case 1 = P(1st Y10) × P(2nd Y11 | 1st Y10) = (14/25) × (11/24) = 154/600\n\n**Case 2: The first student chosen is Year 11, and the second student chosen is Year 10.**\n1.  Probability that the first student is Year 11: P(1st Y11) = (Number of Y11 students) / (Total students) = 11/25\n2.  After one Year 11 student is chosen, there are 24 students remaining. The number of Year 10 students remaining is 14, and the number of Year 11 students remaining is 10.\n3.  Probability that the second student is Year 10 (given the first was Year 11): P(2nd Y10 | 1st Y11) = (Number of Y10 students remaining) / (Total students remaining) = 14/24\n4.  Probability of Case 2 = P(1st Y11) × P(2nd Y10 | 1st Y11) = (11/25) × (14/24) = 154/600\n\n**Total Probability:**\nTo find the overall probability that one student is Year 10 and the other is Year 11, we add the probabilities of these two mutually exclusive cases:\nP(one Y10 and one Y11) = P(Case 1) + P(Case 2)\n= 154/600 + 154/600\n= 308/600\n\nSimplify the fraction by dividing the numerator and denominator by their greatest common divisor (4):\n308 ÷ 4 = 77\n600 ÷ 4 = 150\n\nSo, the probability is 77/150.",
+      "hint": "Remember to account for both possible orders in which the students could be chosen, and how the probabilities change after the first student has been selected (as the selection is without replacement).",
+      "generatedAt": "2026-04-30T18:57:02.255660"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_003",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Ben is preparing for two online quizzes: History and Science. The outcome of his History quiz affects the probability of his Science quiz outcome.\nThe probability that Ben passes his History quiz is 0.7.\nIf Ben passes his History quiz, the probability that he passes his Science quiz is 0.8.\nIf Ben fails his History quiz, the probability that he passes his Science quiz is 0.4.\n\nAfter completing both quizzes, Ben attempts a bonus question to earn extra points. The probability that Ben answers this bonus question correctly is 0.6, regardless of his quiz results.\n\na) Calculate the probability that Ben passes exactly one of the two quizzes. Show your working. \nb) Calculate the probability that Ben passes exactly one of the two quizzes AND answers the bonus question correctly. Show your working.",
+      "options": [],
+      "correctAnswer": "a) To calculate the probability that Ben passes exactly one quiz, we need to consider two mutually exclusive scenarios:\n   1. Ben passes History AND fails Science.\n   2. Ben fails History AND passes Science.\n\n   Let P(H) be the probability of passing History, and P(F_H) be the probability of failing History.\n   Let P(S) be the probability of passing Science, and P(F_S) be the probability of failing Science.\n\n   Given probabilities:\n   P(H) = 0.7\n   P(F_H) = 1 - P(H) = 1 - 0.7 = 0.3\n\n   Conditional probabilities for Science:\n   P(S | H) = 0.8  (Probability of passing Science given Ben passed History)\n   P(F_S | H) = 1 - P(S | H) = 1 - 0.8 = 0.2 (Probability of failing Science given Ben passed History)\n\n   P(S | F_H) = 0.4 (Probability of passing Science given Ben failed History)\n   P(F_S | F_H) = 1 - P(S | F_H) = 1 - 0.4 = 0.6 (Probability of failing Science given Ben failed History)\n\n   Now, calculate the probabilities for the two scenarios:\n   Scenario 1: P(H and F_S) = P(H) × P(F_S | H) = 0.7 × 0.2 = 0.14\n   Scenario 2: P(F_H and S) = P(F_H) × P(S | F_H) = 0.3 × 0.4 = 0.12\n\n   The probability of passing exactly one quiz is the sum of these two probabilities:\n   P(exactly one quiz) = P(H and F_S) + P(F_H and S) = 0.14 + 0.12 = 0.26\n\nb) To calculate the probability that Ben passes exactly one quiz AND answers the bonus question correctly, we multiply the probability of passing exactly one quiz (calculated in part a) by the probability of answering the bonus question correctly, as these are independent events.\n\n   Let P(B) be the probability of answering the bonus question correctly.\n   P(B) = 0.6\n\n   P(exactly one quiz AND B) = P(exactly one quiz) × P(B)\n                                = 0.26 × 0.6\n                                = 0.156\n\n   The probability is 0.156.",
+      "explanation": "Part a) requires constructing a probability tree (mentally or explicitly) to model the dependent outcomes of the History and Science quizzes. You need to identify the two specific branches of the tree that lead to Ben passing exactly one quiz (Pass History then Fail Science, or Fail History then Pass Science). Calculate the probability for each branch by multiplying along the branches, then sum these probabilities because they are mutually exclusive outcomes.\nPart b) extends the problem by introducing an independent event (the bonus question). Since the outcome of the bonus question is independent of the quiz results, you can find the combined probability by multiplying the probability calculated in part a) by the probability of answering the bonus question correctly.",
+      "hint": "Begin by determining the probabilities for all possible outcomes of the two quizzes. Think about how 'passing exactly one quiz' translates into specific paths through a probability tree. Remember that for independent events, probabilities are multiplied.",
+      "generatedAt": "2026-04-30T18:57:24.314682"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_004",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A local coffee shop tracks its customer loyalty cards. It is known that 60% of their customers hold a Gold card, and the remaining customers hold a Silver card. On any given visit, a customer with a Gold card has a probability of 0.8 of making a purchase. A customer with a Silver card has a probability of 0.5 of making a purchase. Calculate the probability that a randomly selected customer, on a single visit, makes a purchase. Show your working.",
+      "options": [
+        "0.48",
+        "0.68",
+        "0.72",
+        "0.80"
+      ],
+      "correctAnswer": "0.68",
+      "explanation": "Let G be the event that a customer has a Gold card, and S be the event that a customer has a Silver card.\nLet P be the event that a customer makes a purchase.\n\nFrom the question:\nP(G) = 0.60\nP(S) = 1 - P(G) = 1 - 0.60 = 0.40\n\nP(P|G) = 0.8 (Probability of purchase given they have a Gold card)\nP(P|S) = 0.5 (Probability of purchase given they have a Silver card)\n\nWe need to find the probability that a customer makes a purchase, P(P). This can happen in two mutually exclusive ways:\n1.  The customer has a Gold card AND makes a purchase.\n2.  The customer has a Silver card AND makes a purchase.\n\nProbability of (Gold AND Purchase): P(G and P) = P(G) * P(P|G) = 0.60 * 0.8 = 0.48\n\nProbability of (Silver AND Purchase): P(S and P) = P(S) * P(P|S) = 0.40 * 0.5 = 0.20\n\nThe total probability of a customer making a purchase is the sum of these probabilities:\nP(P) = P(G and P) + P(S and P) = 0.48 + 0.20 = 0.68\n\nTherefore, the probability that a randomly selected customer makes a purchase is 0.68.",
+      "hint": "Consider drawing a probability tree. There are two initial branches (Gold or Silver card), and from each of those, two more branches (purchase or no purchase). You need to find the probabilities of the paths that lead to a purchase and sum them up.",
+      "generatedAt": "2026-04-30T18:57:36.467119"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_005",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A delivery company tracks its service performance for individual orders. The probability that an order is delivered on time is 0.9. If an order is delivered on time, the probability that the customer gives a 5-star rating for that order is 0.8. If an order is delivered late, the probability that the customer gives a 5-star rating for that order is 0.3.\n\nCalculate the probability that a randomly selected order receives a 5-star rating. Show your working clearly.",
+      "options": [
+        "0.72",
+        "0.75",
+        "0.81",
+        "0.90"
+      ],
+      "correctAnswer": "0.75",
+      "explanation": "Let T be the event that an order is delivered on time, and L be the event that an order is delivered late.\nLet S be the event that a customer gives a 5-star rating.\n\nWe are given the following probabilities:\nP(T) = 0.9\n\nIf the order is on time, the probability of a 5-star rating is P(S | T) = 0.8.\nIf the order is late, the probability of a 5-star rating is P(S | L) = 0.3.\n\nFirst, calculate the probability that the order is delivered late:\nP(L) = 1 - P(T) = 1 - 0.9 = 0.1\n\nNext, we calculate the probability of two distinct scenarios that lead to a 5-star rating:\n\n1.  **Probability of an order being on time AND receiving a 5-star rating:**\n    P(T and S) = P(T) × P(S | T)\n    P(T and S) = 0.9 × 0.8 = 0.72\n\n2.  **Probability of an order being late AND receiving a 5-star rating:**\n    P(L and S) = P(L) × P(S | L)\n    P(L and S) = 0.1 × 0.3 = 0.03\n\nFinally, to find the total probability that a randomly selected order receives a 5-star rating, we add the probabilities of these two mutually exclusive events:\nP(S) = P(T and S) + P(L and S)\nP(S) = 0.72 + 0.03\nP(S) = 0.75",
+      "hint": "Consider drawing a probability tree to model the two sequential events: first, the delivery status (on time or late), and second, the customer rating (5-star or not 5-star). Remember to multiply probabilities along the branches and then add the probabilities of all paths that lead to the desired outcome.",
+      "generatedAt": "2026-04-30T18:57:52.945413"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_006",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A fairground game involves two stages. In the first stage, a player spins a spinner which has three equally sized sectors labelled Red, Green, and Blue. \nIn the second stage, the player draws a ball from a bag, where the bag chosen depends on the spinner's outcome.\nIf the spinner lands on Red, the player draws a ball from Bag A, which contains 5 white balls and 3 black balls.\nIf the spinner lands on Green, the player draws a ball from Bag B, which contains 4 white balls and 6 black balls.\nIf the spinner lands on Blue, the player draws a ball from Bag C, which contains 7 white balls and 1 black ball.\nA player wins a prize if they draw a black ball. Calculate the probability that a player wins a prize. Show your working.",
+      "options": [],
+      "correctAnswer": "Let R be the event the spinner lands on Red, G be Green, and B be Blue. Let K be the event a black ball is drawn.\n\nSince the spinner has three equally sized sectors:\nP(R) = 1/3\nP(G) = 1/3\nP(B) = 1/3\n\nProbabilities of drawing a black ball from each bag (conditional probabilities):\nIf Red (Bag A): P(K | R) = Number of black balls in Bag A / Total balls in Bag A = 3 / (5 + 3) = 3/8\nIf Green (Bag B): P(K | G) = Number of black balls in Bag B / Total balls in Bag B = 6 / (4 + 6) = 6/10 = 3/5\nIf Blue (Bag C): P(K | B) = Number of black balls in Bag C / Total balls in Bag C = 1 / (7 + 1) = 1/8\n\nTo win a prize, the player must spin Red AND draw a black ball, OR spin Green AND draw a black ball, OR spin Blue AND draw a black ball. These are mutually exclusive paths.\n\nProbability of (Red AND Black) = P(R) × P(K | R) = (1/3) × (3/8) = 3/24 = 1/8\nProbability of (Green AND Black) = P(G) × P(K | G) = (1/3) × (3/5) = 3/15 = 1/5\nProbability of (Blue AND Black) = P(B) × P(K | B) = (1/3) × (1/8) = 1/24\n\nTotal probability of winning = P(Red AND Black) + P(Green AND Black) + P(Blue AND Black)\nTotal probability of winning = 1/8 + 1/5 + 1/24\n\nTo sum these fractions, find a common denominator. The least common multiple (LCM) of 8, 5, and 24 is 120.\n1/8 = 15/120\n1/5 = 24/120\n1/24 = 5/120\n\nTotal probability of winning = 15/120 + 24/120 + 5/120 = (15 + 24 + 5) / 120 = 44/120\n\nSimplify the fraction by dividing the numerator and denominator by their greatest common divisor, which is 4.\n44 ÷ 4 = 11\n120 ÷ 4 = 30\n\nThe probability that a player wins a prize is 11/30.",
+      "explanation": "The problem requires calculating the total probability of an event (drawing a black ball) that can occur through several different sequences of independent and dependent events. First, identify the probability of each outcome of the spinner (Red, Green, Blue). Then, for each spinner outcome, calculate the conditional probability of drawing a black ball from the corresponding bag. Multiply the probabilities along each 'winning' branch of the conceptual probability tree (e.g., P(Red) * P(Black|Red)). Finally, add the probabilities of all the mutually exclusive 'winning' branches together to get the overall probability of winning. Ensure all fractions are simplified and calculations are accurate, finding a common denominator for summation.",
+      "hint": "Start by listing the probabilities for each outcome of the spinner. Then, for each spinner outcome, determine the probability of drawing a black ball from the specific bag. A probability tree can help organise these events and their probabilities.",
+      "generatedAt": "2026-04-30T18:58:11.710606"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_007",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A small box contains 15 individually wrapped chocolates. There are 8 dark chocolates and 7 milk chocolates. A customer randomly selects one chocolate from the box and eats it. Without replacing the first, the customer then randomly selects a second chocolate from the remaining ones. Working is required.\n\nCalculate the probability that at least one of the two chocolates selected is a dark chocolate.",
+      "options": [],
+      "correctAnswer": "Let D represent picking a dark chocolate and M represent picking a milk chocolate.\n\nTotal chocolates = 15\nNumber of dark chocolates = 8\nNumber of milk chocolates = 7\n\n**First pick:**\nProbability of picking a dark chocolate first, P(D1) = 8/15\nProbability of picking a milk chocolate first, P(M1) = 7/15\n\n**Second pick (after the first chocolate is eaten):**\n\n*   **If the first chocolate was dark (D1):**\n    Remaining chocolates: 7 dark, 7 milk (Total 14)\n    Probability of picking a dark chocolate second, P(D2 | D1) = 7/14 = 1/2\n    Probability of picking a milk chocolate second, P(M2 | D1) = 7/14 = 1/2\n\n*   **If the first chocolate was milk (M1):**\n    Remaining chocolates: 8 dark, 6 milk (Total 14)\n    Probability of picking a dark chocolate second, P(D2 | M1) = 8/14 = 4/7\n    Probability of picking a milk chocolate second, P(M2 | M1) = 6/14 = 3/7\n\n**Calculate the probabilities of each sequence of two chocolates:**\n\n1.  **P(Dark then Dark) = P(D1 and D2)**\n    P(D1 and D2) = P(D1) * P(D2 | D1) = (8/15) * (7/14) = (8/15) * (1/2) = 8/30 = 4/15\n\n2.  **P(Dark then Milk) = P(D1 and M2)**\n    P(D1 and M2) = P(D1) * P(M2 | D1) = (8/15) * (7/14) = (8/15) * (1/2) = 8/30 = 4/15\n\n3.  **P(Milk then Dark) = P(M1 and D2)**\n    P(M1 and D2) = P(M1) * P(D2 | M1) = (7/15) * (8/14) = (7/15) * (4/7) = 28/105 = 4/15\n\n4.  **P(Milk then Milk) = P(M1 and M2)**\n    P(M1 and M2) = P(M1) * P(M2 | M1) = (7/15) * (6/14) = (7/15) * (3/7) = 21/105 = 1/5\n\n**To find the probability that at least one of the chocolates selected is a dark chocolate:**\nThis includes the outcomes (Dark, Dark), (Dark, Milk), and (Milk, Dark).\n\nMethod 1: Summing probabilities of relevant outcomes\nP(at least one Dark) = P(DD) + P(DM) + P(MD)\nP(at least one Dark) = 4/15 + 4/15 + 4/15 = 12/15 = 4/5\n\nMethod 2: Using the complement rule\nP(at least one Dark) = 1 - P(no Dark chocolates)\nP(no Dark chocolates) means both chocolates were milk, which is P(MM).\nP(MM) = 1/5\nP(at least one Dark) = 1 - 1/5 = 4/5\n\nThe probability that at least one of the two chocolates selected is a dark chocolate is **4/5**.",
+      "explanation": "To solve this, construct a probability tree (mentally or on paper) to model the two sequential selections without replacement. First, determine the probabilities for the initial pick. Then, for the second pick, adjust the total number of chocolates and the number of specific types based on what was picked first (since it's 'without replacement'). Finally, identify the paths on the tree that satisfy the condition 'at least one dark chocolate' (DD, DM, MD) and sum their probabilities, or use the complement rule (1 - P(MM)).",
+      "hint": "Consider the probabilities for the first pick and how they change for the second pick since the chocolate is not replaced. You can calculate the probability of picking 'no dark chocolates' and subtract it from 1.",
+      "generatedAt": "2026-04-30T18:58:30.881095"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_008",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A basketball coach needs to select two players from a squad of 10 players for a special training drill. The squad consists of 6 guards and 4 forwards. The coach selects the first player, and then from the remaining players, selects a second player. What is the probability that the coach selects exactly one guard and exactly one forward in total? Show your working.",
+      "options": [],
+      "correctAnswer": "Let G denote a Guard and F denote a Forward. We are selecting two players without replacement. We want the probability of selecting exactly one guard and one forward, which can happen in two ways: selecting a guard first then a forward, OR selecting a forward first then a guard.\n\nPath 1: Guard first (G1), then Forward second (F2)\n- Probability of selecting a Guard first, P(G1) = Number of Guards / Total Players = 6/10.\n- After selecting one guard, there are 9 players left: 5 guards and 4 forwards.\n- Probability of selecting a Forward second, given the first was a Guard, P(F2|G1) = Number of Forwards / Remaining Players = 4/9.\n- Probability of this path = P(G1) * P(F2|G1) = (6/10) * (4/9) = 24/90.\n\nPath 2: Forward first (F1), then Guard second (G2)\n- Probability of selecting a Forward first, P(F1) = Number of Forwards / Total Players = 4/10.\n- After selecting one forward, there are 9 players left: 6 guards and 3 forwards.\n- Probability of selecting a Guard second, given the first was a Forward, P(G2|F1) = Number of Guards / Remaining Players = 6/9.\n- Probability of this path = P(F1) * P(G2|F1) = (4/10) * (6/9) = 24/90.\n\nTotal Probability:\nTo find the total probability of selecting exactly one guard and one forward, we add the probabilities of these two mutually exclusive paths:\nP(exactly one guard and one forward) = P(G1 then F2) + P(F1 then G2) = 24/90 + 24/90 = 48/90.\n\nSimplifying the fraction: 48/90 can be divided by 6 to give 8/15.\n\nFinal Answer: 8/15",
+      "explanation": "Let G denote a Guard and F denote a Forward. We are selecting two players without replacement. We want the probability of selecting exactly one guard and one forward, which can happen in two ways: selecting a guard first then a forward, OR selecting a forward first then a guard.\n\nPath 1: Guard first (G1), then Forward second (F2)\n- Probability of selecting a Guard first, P(G1) = Number of Guards / Total Players = 6/10.\n- After selecting one guard, there are 9 players left: 5 guards and 4 forwards.\n- Probability of selecting a Forward second, given the first was a Guard, P(F2|G1) = Number of Forwards / Remaining Players = 4/9.\n- Probability of this path = P(G1) * P(F2|G1) = (6/10) * (4/9) = 24/90.\n\nPath 2: Forward first (F1), then Guard second (G2)\n- Probability of selecting a Forward first, P(F1) = Number of Forwards / Total Players = 4/10.\n- After selecting one forward, there are 9 players left: 6 guards and 3 forwards.\n- Probability of selecting a Guard second, given the first was a Forward, P(G2|F1) = Number of Guards / Remaining Players = 6/9.\n- Probability of this path = P(F1) * P(G2|F1) = (4/10) * (6/9) = 24/90.\n\nTotal Probability:\nTo find the total probability of selecting exactly one guard and one forward, we add the probabilities of these two mutually exclusive paths:\nP(exactly one guard and one forward) = P(G1 then F2) + P(F1 then G2) = 24/90 + 24/90 = 48/90.\n\nSimplifying the fraction: 48/90 can be divided by 6 to give 8/15.",
+      "hint": "Consider the two possible orders in which a guard and a forward could be selected. Remember that the probabilities for the second selection will change based on the outcome of the first selection, as players are selected 'without replacement'.",
+      "generatedAt": "2026-04-30T18:58:53.056681"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_009",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student, Liam, is preparing for an upcoming maths test. The probability that Liam revises for the test is 0.6. If Liam revises, the probability that he passes the test is 0.8. If Liam does not revise for the test, the probability that he passes the test is 0.3.\n\nCalculate the probability that Liam passes the maths test. Show your working.",
+      "options": [
+        "0.48",
+        "0.6",
+        "0.7",
+        "0.3"
+      ],
+      "correctAnswer": "0.6",
+      "explanation": "To find the probability that Liam passes the maths test, we need to consider the two ways he can pass:\n\nScenario 1: Liam revises AND passes the test.\n- The probability Liam revises is 0.6.\n- Given he revises, the probability he passes is 0.8.\n- The probability of both these events happening is P(Revises and Passes) = 0.6 * 0.8 = 0.48.\n\nScenario 2: Liam does NOT revise AND passes the test.\n- The probability Liam does not revise is 1 - P(Revises) = 1 - 0.6 = 0.4.\n- Given he does not revise, the probability he passes is 0.3.\n- The probability of both these events happening is P(Does Not Revise and Passes) = 0.4 * 0.3 = 0.12.\n\nSince these two scenarios are mutually exclusive (Liam either revises or he doesn't), the total probability that Liam passes the test is the sum of the probabilities of these two scenarios:\nP(Passes) = P(Revises and Passes) + P(Does Not Revise and Passes)\nP(Passes) = 0.48 + 0.12\nP(Passes) = 0.60\n\nTherefore, the probability that Liam passes the maths test is 0.6.",
+      "hint": "Consider drawing a probability tree to model the sequence of events. Remember to multiply probabilities along the branches for combined events and add probabilities for mutually exclusive paths leading to the desired outcome.",
+      "generatedAt": "2026-04-30T18:59:25.347104"
+    },
+    {
+      "id": "m-y10-prob-trees_intermediate_010",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A pencil case contains a total of 10 pens. There are 7 red pens and 3 blue pens. A student randomly selects a pen from the case, notes its colour, and then, without replacing it, selects a second pen. Calculate the probability that both pens selected are the same colour. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the probability that both pens selected are the same colour, we consider two scenarios: selecting two red pens or selecting two blue pens.\n\n**Scenario 1: Selecting two red pens (R then R)**\n*   Probability of selecting a red pen first (P(R1)): There are 7 red pens out of 10 total pens. So, P(R1) = 7/10.\n*   After selecting one red pen, there are now 6 red pens left and a total of 9 pens.\n*   Probability of selecting a second red pen (P(R2 | R1)): P(R2 | R1) = 6/9.\n*   The probability of selecting two red pens is P(R1 and R2) = P(R1) * P(R2 | R1) = (7/10) * (6/9) = 42/90.\n\n**Scenario 2: Selecting two blue pens (B then B)**\n*   Probability of selecting a blue pen first (P(B1)): There are 3 blue pens out of 10 total pens. So, P(B1) = 3/10.\n*   After selecting one blue pen, there are now 2 blue pens left and a total of 9 pens.\n*   Probability of selecting a second blue pen (P(B2 | B1)): P(B2 | B1) = 2/9.\n*   The probability of selecting two blue pens is P(B1 and B2) = P(B1) * P(B2 | B1) = (3/10) * (2/9) = 6/90.\n\n**Total Probability**\nThe probability that both pens are the same colour is the sum of the probabilities of these two mutually exclusive scenarios:\nP(Same Colour) = P(R1 and R2) + P(B1 and B2)\nP(Same Colour) = 42/90 + 6/90 = 48/90.\n\nThis fraction can be simplified by dividing the numerator and denominator by their greatest common divisor, which is 6:\n48 ÷ 6 = 8\n90 ÷ 6 = 15\nSo, P(Same Colour) = 8/15.",
+      "explanation": "The problem requires calculating the probability of two dependent events occurring: drawing pens without replacement. The desired outcome is 'both pens are the same colour', which means either drawing Red then Red OR Blue then Blue.\n1. Calculate the probability of drawing a Red pen first (7/10) then another Red pen (6/9), and multiply them: (7/10) * (6/9) = 42/90.\n2. Calculate the probability of drawing a Blue pen first (3/10) then another Blue pen (2/9), and multiply them: (3/10) * (2/9) = 6/90.\n3. Since these two outcomes (RR and BB) are mutually exclusive, add their probabilities to get the total probability of drawing two pens of the same colour: 42/90 + 6/90 = 48/90.\n4. Simplify the fraction: 48/90 = 8/15.",
+      "hint": "Consider the two possible paths on a probability tree that result in pens of the same colour. Remember that the probabilities for the second pen change because the first pen is not replaced.",
+      "generatedAt": "2026-04-30T18:59:40.873007"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y10-prob-trees_advanced_001",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A factory manufactures light bulbs, which undergo a two-stage quality control process. \n\nIn the first stage, Quality Control 1 (QC1), a bulb either passes or fails.\n*   The probability that a bulb passes QC1 is 0.85.\n*   The probability that a bulb fails QC1 is 0.15.\n\nIf a bulb passes QC1, it proceeds to Quality Control 2 (QC2).\n*   The probability that a bulb passes QC2, given it already passed QC1, is 0.90.\n*   The probability that a bulb fails QC2, given it already passed QC1, is 0.10.\n\nIf a bulb fails QC1, it is sent for re-inspection.\n*   The probability that a bulb passes re-inspection, given it initially failed QC1, is 0.70.\n*   The probability that a bulb fails re-inspection, given it initially failed QC1, is 0.30.\n\nA bulb is deemed \"fit for sale\" if it either passes both QC1 and QC2, OR if it initially fails QC1 but then passes re-inspection.\n\nCalculate the probability that a randomly selected light bulb from the factory is fit for sale. Show your working clearly.",
+      "options": [
+        "0.765",
+        "0.850",
+        "0.870",
+        "0.915"
+      ],
+      "correctAnswer": "0.870",
+      "explanation": "To find the probability that a bulb is fit for sale, we need to consider the two distinct paths that lead to this outcome:\n\n**Path 1: The bulb passes QC1 AND then passes QC2.**\n*   The probability of passing QC1 is 0.85.\n*   The probability of passing QC2, given it passed QC1, is 0.90.\n*   The probability of Path 1 = P(Pass QC1) × P(Pass QC2 | Pass QC1)\n    = 0.85 × 0.90 = 0.765\n\n**Path 2: The bulb fails QC1 AND then passes re-inspection.**\n*   The probability of failing QC1 is 0.15.\n*   The probability of passing re-inspection, given it failed QC1, is 0.70.\n*   The probability of Path 2 = P(Fail QC1) × P(Pass Re-inspection | Fail QC1)\n    = 0.15 × 0.70 = 0.105\n\nSince these two paths are the only ways a bulb can be deemed \"fit for sale\" and are mutually exclusive (a bulb cannot both pass QC1 and fail QC1), we add their probabilities to find the total probability:\n\nP(Fit for Sale) = P(Path 1) + P(Path 2)\n= 0.765 + 0.105\n= 0.870",
+      "hint": "Start by identifying the distinct sequences of events that result in a bulb being 'fit for sale'. For each sequence, multiply the probabilities of the events along that path. Then, add the probabilities of all successful paths.",
+      "generatedAt": "2026-04-30T18:59:55.570802"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_002",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Bag X contains 7 green tokens and 3 yellow tokens. Bag Y contains 4 green tokens and 6 yellow tokens. \n\nA token is randomly selected from Bag X and transferred to Bag Y. Then, a token is randomly selected from Bag Y.\n\nWorking is required for full marks.\n\nWhat is the probability that the token transferred from Bag X was yellow, given that the token subsequently selected from Bag Y was green?",
+      "options": [
+        "12/47",
+        "3/10",
+        "47/110",
+        "3/11"
+      ],
+      "correctAnswer": "12/47",
+      "explanation": "Let G1 be the event that the first token transferred from Bag X is green, and Y1 be the event that the first token transferred from Bag X is yellow.\nLet G2 be the event that the second token selected from Bag Y is green, and Y2 be the event that the second token selected from Bag Y is yellow.\n\nFirst, we determine the probabilities for the token transferred from Bag X:\nP(G1) = Number of green tokens in Bag X / Total tokens in Bag X = 7 / (7+3) = 7/10\nP(Y1) = Number of yellow tokens in Bag X / Total tokens in Bag X = 3 / (7+3) = 3/10\n\nNext, we consider how the transfer affects Bag Y and the probabilities for the second selection:\n\nCase 1: A green token (G1) was transferred from Bag X to Bag Y.\nBag Y initially had 4 green and 6 yellow tokens. After adding a green token, Bag Y now contains (4+1) = 5 green tokens and 6 yellow tokens. The total number of tokens in Bag Y is now 11.\nP(G2 | G1) = Probability of selecting a green token from Bag Y, given G1 = 5/11\nP(Y2 | G1) = Probability of selecting a yellow token from Bag Y, given G1 = 6/11\n\nCase 2: A yellow token (Y1) was transferred from Bag X to Bag Y.\nBag Y initially had 4 green and 6 yellow tokens. After adding a yellow token, Bag Y now contains 4 green tokens and (6+1) = 7 yellow tokens. The total number of tokens in Bag Y is now 11.\nP(G2 | Y1) = Probability of selecting a green token from Bag Y, given Y1 = 4/11\nP(Y2 | Y1) = Probability of selecting a yellow token from Bag Y, given Y1 = 7/11\n\nNow, we calculate the probabilities of the combined events (representing the paths on a probability tree):\n1. P(G1 and G2) = P(G1) * P(G2 | G1) = (7/10) * (5/11) = 35/110\n2. P(G1 and Y2) = P(G1) * P(Y2 | G1) = (7/10) * (6/11) = 42/110\n3. P(Y1 and G2) = P(Y1) * P(G2 | Y1) = (3/10) * (4/11) = 12/110\n4. P(Y1 and Y2) = P(Y1) * P(Y2 | Y1) = (3/10) * (7/11) = 21/110\n(As a check, the sum of these probabilities is (35+42+12+21)/110 = 110/110 = 1, which is correct.)\n\nThe question asks for the probability that the token transferred from Bag X was yellow, *given that* the token subsequently selected from Bag Y was green. This is P(Y1 | G2).\n\nUsing the formula for conditional probability: P(A | B) = P(A and B) / P(B)\nSo, P(Y1 | G2) = P(Y1 and G2) / P(G2)\n\nFirst, we need to calculate P(G2), the total probability that the second token selected from Bag Y is green. This involves summing the probabilities of all paths leading to G2:\nP(G2) = P(G1 and G2) + P(Y1 and G2)\nP(G2) = 35/110 + 12/110 = 47/110\n\nNow, we can substitute the values into the conditional probability formula:\nP(Y1 | G2) = (12/110) / (47/110)\nP(Y1 | G2) = 12 / 47\n\nTherefore, the probability that the token transferred from Bag X was yellow, given that the token subsequently selected from Bag Y was green, is 12/47.",
+      "hint": "Start by drawing a probability tree to model the two-stage process. Remember to adjust the probabilities for the second stage based on the outcome of the first stage. Then, use the conditional probability formula: P(A|B) = P(A and B) / P(B).",
+      "generatedAt": "2026-04-30T19:00:16.686915"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_003",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Leo is preparing for two upcoming maths tests: Test A (Algebra) and Test G (Geometry). The probability of Leo studying for a test and passing it depends on various factors.\n\nHere are the probabilities:\n*   The probability Leo *studies* for Test A is 0.7.\n*   If Leo *studies* for Test A, the probability of passing Test A is 0.9.\n*   If Leo *does not study* for Test A, the probability of passing Test A is 0.4.\n\nFor Test G:\n*   If Leo *passes* Test A, the probability Leo *studies* for Test G is 0.6.\n*   If Leo *fails* Test A, the probability Leo *studies* for Test G is 0.8.\n*   If Leo *studies* for Test G, the probability of passing Test G is 0.85.\n*   If Leo *does not study* for Test G, the probability of passing Test G is 0.3.\n\nCalculate the probability that Leo passes *exactly one* of the two tests. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the probability that Leo passes exactly one of the two tests, we need to consider two scenarios:\n1.  Leo passes Test A AND fails Test G.\n2.  Leo fails Test A AND passes Test G.\n\nWe will construct a multi-stage probability tree to find the probabilities of all relevant outcomes.\n\n**Stage 1: Study for Test A (S_A) or Not Study for Test A (N_A)**\n*   P(S_A) = 0.7\n*   P(N_A) = 1 - 0.7 = 0.3\n\n**Stage 2: Pass Test A (P_A) or Fail Test A (F_A)**\n*   P(P_A | S_A) = 0.9  => P(F_A | S_A) = 0.1\n*   P(P_A | N_A) = 0.4  => P(F_A | N_A) = 0.6\n\n**Stage 3: Study for Test G (S_G) or Not Study for Test G (N_G) - Dependent on Test A outcome**\n*   If Leo passes Test A: P(S_G | P_A) = 0.6 => P(N_G | P_A) = 0.4\n*   If Leo fails Test A: P(S_G | F_A) = 0.8 => P(N_G | F_A) = 0.2\n\n**Stage 4: Pass Test G (P_G) or Fail Test G (F_G) - Dependent on studying for Test G**\n*   If Leo studies for Test G: P(P_G | S_G) = 0.85 => P(F_G | S_G) = 0.15\n*   If Leo does not study for Test G: P(P_G | N_G) = 0.3 => P(F_G | N_G) = 0.7\n\nNow, let's calculate the probabilities for the two scenarios:\n\n**Scenario 1: Leo passes Test A and fails Test G (P_A and F_G)**\nThis can happen through four paths:\n\na)  **Studies for A, Passes A, Studies for G, Fails G:**\n    P(S_A and P_A and S_G and F_G) = P(S_A) * P(P_A | S_A) * P(S_G | P_A) * P(F_G | S_G)\n    = 0.7 * 0.9 * 0.6 * 0.15 = 0.0567\n\nb)  **Studies for A, Passes A, Does Not Study for G, Fails G:**\n    P(S_A and P_A and N_G and F_G) = P(S_A) * P(P_A | S_A) * P(N_G | P_A) * P(F_G | N_G)\n    = 0.7 * 0.9 * 0.4 * 0.7 = 0.1764\n\nc)  **Does Not Study for A, Passes A, Studies for G, Fails G:**\n    P(N_A and P_A and S_G and F_G) = P(N_A) * P(P_A | N_A) * P(S_G | P_A) * P(F_G | S_G)\n    = 0.3 * 0.4 * 0.6 * 0.15 = 0.0108\n\nd)  **Does Not Study for A, Passes A, Does Not Study for G, Fails G:**\n    P(N_A and P_A and N_G and F_G) = P(N_A) * P(P_A | N_A) * P(N_G | P_A) * P(F_G | N_G)\n    = 0.3 * 0.4 * 0.4 * 0.7 = 0.0336\n\nTotal P(P_A and F_G) = 0.0567 + 0.1764 + 0.0108 + 0.0336 = **0.2775**\n\n**Scenario 2: Leo fails Test A and passes Test G (F_A and P_G)**\nThis can also happen through four paths:\n\ne)  **Studies for A, Fails A, Studies for G, Passes G:**\n    P(S_A and F_A and S_G and P_G) = P(S_A) * P(F_A | S_A) * P(S_G | F_A) * P(P_G | S_G)\n    = 0.7 * 0.1 * 0.8 * 0.85 = 0.0476\n\nf)  **Studies for A, Fails A, Does Not Study for G, Passes G:**\n    P(S_A and F_A and N_G and P_G) = P(S_A) * P(F_A | S_A) * P(N_G | F_A) * P(P_G | N_G)\n    = 0.7 * 0.1 * 0.2 * 0.3 = 0.0042\n\ng)  **Does Not Study for A, Fails A, Studies for G, Passes G:**\n    P(N_A and F_A and S_G and P_G) = P(N_A) * P(F_A | N_A) * P(S_G | F_A) * P(P_G | S_G)\n    = 0.3 * 0.6 * 0.8 * 0.85 = 0.1224\n\nh)  **Does Not Study for A, Fails A, Does Not Study for G, Passes G:**\n    P(N_A and F_A and N_G and P_G) = P(N_A) * P(F_A | N_A) * P(N_G | F_A) * P(P_G | N_G)\n    = 0.3 * 0.6 * 0.2 * 0.3 = 0.0108\n\nTotal P(F_A and P_G) = 0.0476 + 0.0042 + 0.1224 + 0.0108 = **0.1850**\n\nFinally, the probability that Leo passes exactly one of the two tests is the sum of these two scenarios:\nP(exactly one test passed) = P(P_A and F_G) + P(F_A and P_G)\n= 0.2775 + 0.1850 = **0.4625**",
+      "explanation": "The problem requires calculating the probability of two mutually exclusive outcomes: (Pass A and Fail G) OR (Fail A and Pass G). Due to the conditional probabilities affecting whether Leo studies for Test G based on the outcome of Test A, a four-stage probability tree is the most systematic approach. Each path on the tree represents a sequence of events (e.g., studies for A, passes A, studies for G, passes G). The probability of each path is found by multiplying the probabilities along its branches. We then identify all paths that result in 'exactly one test passed' and sum their probabilities. There are 8 such paths contributing to the final probability.",
+      "hint": "Consider drawing a four-stage probability tree. The first stage should be 'Studies for Test A'/'Does not study for Test A'. The second stage is 'Passes Test A'/'Fails Test A'. The third stage 'Studies for Test G'/'Does not study for Test G' will depend on the outcome of Test A. The fourth stage 'Passes Test G'/'Fails Test G' will depend on whether Leo studied for Test G. Identify all branches that lead to passing exactly one test.",
+      "generatedAt": "2026-04-30T19:00:53.548848"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_004",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A researcher is studying the effectiveness of a new plant fertilizer. For a randomly selected plant treated with this fertilizer, the probability that it shows 'excellent growth' after two weeks is 0.65. If a plant shows 'excellent growth', the probability that it then produces 'abundant fruit' later in the season is 0.8. If a plant does not show 'excellent growth' (meaning its growth is 'average' or 'poor'), the probability that it produces 'abundant fruit' later in the season is 0.3.\n\nA plant is randomly selected and observed to have produced 'abundant fruit'. Calculate the probability that this plant initially showed 'excellent growth'. Show all your working.",
+      "options": [
+        "0.8",
+        "0.65",
+        "0.52",
+        "0.832"
+      ],
+      "correctAnswer": "0.832",
+      "explanation": "Let G be the event that a plant shows 'excellent growth'.\nLet G' be the event that a plant does not show 'excellent growth'.\nLet F be the event that a plant produces 'abundant fruit'.\n\nFrom the question, we are given the following probabilities:\nP(G) = 0.65\nP(G') = 1 - P(G) = 1 - 0.65 = 0.35\nP(F | G) = 0.8 (Probability of abundant fruit given excellent growth)\nP(F | G') = 0.3 (Probability of abundant fruit given not excellent growth)\n\nWe need to find P(G | F), which is the probability that the plant showed 'excellent growth' given that it produced 'abundant fruit'.\n\nStep 1: Calculate the probability of a plant showing 'excellent growth' AND producing 'abundant fruit' (P(G and F)).\nP(G and F) = P(F | G) × P(G) = 0.8 × 0.65 = 0.52\n\nStep 2: Calculate the probability of a plant showing 'not excellent growth' AND producing 'abundant fruit' (P(G' and F)).\nP(G' and F) = P(F | G') × P(G') = 0.3 × 0.35 = 0.105\n\nStep 3: Calculate the total probability of a plant producing 'abundant fruit' (P(F)). This is the sum of the probabilities from Step 1 and Step 2.\nP(F) = P(G and F) + P(G' and F) = 0.52 + 0.105 = 0.625\n\nStep 4: Calculate the conditional probability P(G | F) using the formula P(G | F) = P(G and F) / P(F).\nP(G | F) = 0.52 / 0.625 = 0.832\n\nTherefore, the probability that a plant initially showed 'excellent growth', given it produced 'abundant fruit', is 0.832.",
+      "hint": "Construct a probability tree to visualise the given information. To find P(A|B), you'll need to calculate P(A and B) and P(B) first. Remember that P(B) can be found by summing the probabilities of all paths that lead to event B.",
+      "generatedAt": "2026-04-30T19:01:15.092171"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_005",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A smart security system uses two stages to monitor a property: a motion sensor and a facial recognition camera. \n\n**Stage 1: Motion Sensor**\nIn any given hour, there is a probability of 0.04 that a legitimate security event (e.g., an intruder) occurs.\n*   If a legitimate security event occurs, the motion sensor has a 0.95 probability of detecting it and triggering the next stage.\n*   If no legitimate security event occurs, the motion sensor has a 0.03 probability of triggering by mistake (a false positive).\n\n**Stage 2: Facial Recognition Camera**\nIf the motion sensor triggers, the facial recognition camera activates.\n*   If the motion sensor was triggered by a *legitimate security event* (meaning a legitimate event occurred AND the sensor detected it), the camera has a 0.92 probability of correctly identifying the threat.\n*   If the motion sensor was triggered by a *false positive* (meaning no legitimate event occurred but the sensor triggered anyway), the camera has a 0.05 probability of also incorrectly identifying a threat.\n\nAll other outcomes (e.g., sensor not detecting, camera not identifying) result in no alarm being raised or the threat not being identified.\n\nWhat is the probability, in any given hour, that the system correctly identifies a legitimate security event, and what is the probability that a false alarm is raised (meaning the system identifies a threat, but no legitimate security event actually occurred)? Show your working clearly. Give your answers to three significant figures.",
+      "options": [],
+      "correctAnswer": "To solve this, we construct a probability tree.\n\nLet:\n*   L = A legitimate security event occurs.\n*   L' = No legitimate security event occurs.\n*   S = Motion sensor triggers.\n*   S' = Motion sensor does not trigger.\n*   C = Camera identifies a threat.\n*   C' = Camera does not identify a threat.\n\nGiven probabilities:\n*   P(L) = 0.04\n*   P(L') = 1 - P(L) = 1 - 0.04 = 0.96\n*   P(S|L) = 0.95 (Sensor detects if event occurs)\n*   P(S'|L) = 1 - P(S|L) = 1 - 0.95 = 0.05\n*   P(S|L') = 0.03 (Sensor false positive if no event occurs)\n*   P(S'|L') = 1 - P(S|L') = 1 - 0.03 = 0.97\n*   P(C | L and S) = 0.92 (Camera correctly identifies if legitimate event and sensor triggered)\n*   P(C' | L and S) = 1 - P(C | L and S) = 1 - 0.92 = 0.08\n*   P(C | L' and S) = 0.05 (Camera incorrectly identifies if false positive sensor trigger)\n*   P(C' | L' and S) = 1 - P(C | L' and S) = 1 - 0.05 = 0.95\n\n**Part 1: Probability that the system correctly identifies a legitimate security event.**\nThis occurs when a legitimate event happens (L), the sensor detects it (S), and the camera correctly identifies the threat (C). We follow the path L -> S -> C.\n\nP(L and S and C) = P(L) * P(S|L) * P(C | L and S)\n= 0.04 * 0.95 * 0.92\n= 0.038 * 0.92\n= 0.03496\n\nRounding to three significant figures, the probability is **0.0350**.\n\n**Part 2: Probability that a false alarm is raised (system identifies a threat, but no legitimate security event actually occurred).**\nThis occurs when no legitimate event happens (L'), but the sensor triggers mistakenly (S), and then the camera also incorrectly identifies a threat (C). We follow the path L' -> S -> C.\n\nP(L' and S and C) = P(L') * P(S|L') * P(C | L' and S)\n= 0.96 * 0.03 * 0.05\n= 0.0288 * 0.05\n= 0.00144\n\nRounding to three significant figures, the probability is **0.00144**.\n\nFinal Answers:\nProbability of correctly identifying a legitimate event: 0.0350 (3 s.f.)\nProbability of a false alarm: 0.00144 (3 s.f.)",
+      "explanation": "The problem requires constructing a three-stage probability tree. The first stage considers whether a legitimate event occurs or not. The second stage branches based on whether the motion sensor triggers, dependent on the first stage's outcome. The third stage branches based on whether the facial recognition camera identifies a threat, dependent on the outcomes of the first two stages. To find the probability of a specific sequence of events (a path through the tree), multiply the probabilities along that path. \n\nFor the first part, 'correctly identifies a legitimate security event', we look for the path where a legitimate event occurs, the sensor detects it, and the camera identifies it. This is L -> S -> C. The probabilities along this path are P(L)=0.04, P(S|L)=0.95, and P(C|L and S)=0.92. Multiplying these gives 0.04 * 0.95 * 0.92 = 0.03496.\n\nFor the second part, 'a false alarm is raised', we look for the path where no legitimate event occurs, but the sensor falsely triggers, and the camera then also falsely identifies a threat. This is L' -> S -> C. The probabilities along this path are P(L')=0.96, P(S|L')=0.03, and P(C|L' and S)=0.05. Multiplying these gives 0.96 * 0.03 * 0.05 = 0.00144.\n\nFinally, the results are rounded to three significant figures.",
+      "hint": "Consider drawing a probability tree with three stages: first, whether a legitimate event occurs; second, the sensor's outcome; and third, the camera's outcome. Remember to multiply probabilities along branches and identify the specific paths that lead to the desired outcomes.",
+      "generatedAt": "2026-04-30T19:01:44.618391"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_006",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A local sports club is planning its annual open day, and the success of the event is highly dependent on the weather. The club uses a weather app to anticipate conditions.\n\nThe probability that the app predicts \"sunny\" for the open day is 0.65.\nThe probability that the app predicts \"rainy\" for the open day is 0.35.\n\nThe accuracy of the prediction varies:\n*   If the app predicts \"sunny\", the probability that the *actual weather* on the open day is sunny is 0.8.\n*   If the app predicts \"sunny\", the probability that the *actual weather* on the open day is rainy is 0.2.\n*   If the app predicts \"rainy\", the probability that the *actual weather* on the open day is sunny is 0.3.\n*   If the app predicts \"rainy\", the probability that the *actual weather* on the open day is rainy is 0.7.\n\n(a) Calculate the probability that the actual weather on the open day is sunny. Show your working.\n(b) Given that the actual weather on the open day was sunny, calculate the probability that the app had predicted \"rainy\". Show your working.\n(c) The club expects to make a profit of £1200 if the actual weather is sunny. However, if the actual weather is rainy, they anticipate a loss of £500 due to reduced attendance and higher operational costs. Calculate the expected financial outcome for the open day. Show your working.",
+      "options": [],
+      "correctAnswer": "(a) 0.625\n(b) 0.168\n(c) £562.50",
+      "explanation": "Let S_pred be a sunny prediction, R_pred be a rainy prediction.\nLet S_actual be actual sunny weather, R_actual be actual rainy weather.\n\nWe are given:\nP(S_pred) = 0.65\nP(R_pred) = 0.35\nP(S_actual | S_pred) = 0.8\nP(R_actual | S_pred) = 0.2\nP(S_actual | R_pred) = 0.3\nP(R_actual | R_pred) = 0.7\n\nFirst, calculate the probabilities of all possible combined events:\n1.  P(S_pred and S_actual) = P(S_pred) * P(S_actual | S_pred) = 0.65 * 0.8 = 0.52\n2.  P(S_pred and R_actual) = P(S_pred) * P(R_actual | S_pred) = 0.65 * 0.2 = 0.13\n3.  P(R_pred and S_actual) = P(R_pred) * P(S_actual | R_pred) = 0.35 * 0.3 = 0.105\n4.  P(R_pred and R_actual) = P(R_pred) * P(R_actual | R_pred) = 0.35 * 0.7 = 0.245\n\n(a) Calculate the probability that the actual weather on the open day is sunny.\nThis involves summing the probabilities of all paths leading to actual sunny weather:\nP(S_actual) = P(S_pred and S_actual) + P(R_pred and S_actual)\nP(S_actual) = 0.52 + 0.105 = 0.625\n\n(b) Given that the actual weather on the open day was sunny, calculate the probability that the app had predicted \"rainy\".\nThis is a conditional probability, P(R_pred | S_actual).\nThe formula for conditional probability is P(A|B) = P(A and B) / P(B).\nSo, P(R_pred | S_actual) = P(R_pred and S_actual) / P(S_actual)\nP(R_pred | S_actual) = 0.105 / 0.625 = 0.168\n\n(c) Calculate the expected financial outcome for the open day.\nFirst, we need the probability of actual rainy weather:\nP(R_actual) = P(S_pred and R_actual) + P(R_pred and R_actual)\nP(R_actual) = 0.13 + 0.245 = 0.375\n\nExpected Outcome = (P(S_actual) * Profit if sunny) + (P(R_actual) * Loss if rainy)\nExpected Outcome = (0.625 * £1200) + (0.375 * -£500)\nExpected Outcome = £750 + (-£187.50)\nExpected Outcome = £562.50",
+      "hint": "For part (a), sum the probabilities of all distinct paths on the probability tree that result in actual sunny weather. For part (b), apply the conditional probability formula P(A|B) = P(A and B) / P(B). For part (c), calculate the probability of each financial outcome (profit or loss) and multiply by its corresponding value, then sum these results to find the expected value.",
+      "generatedAt": "2026-04-30T19:02:09.591790"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_007",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A small bakery produces two types of bread: Sourdough (S) and Wholemeal (W).\n\nInitially, the baker decides to make Sourdough bread 60% of the time, and Wholemeal bread for the remaining time.\n\nFor Sourdough bread, the probability that a loaf is rated as 'Excellent' (E) is 0.85.\nFor Wholemeal bread, the probability that a loaf is rated as 'Excellent' (E) is 0.90.\n\nThe baker wants to adjust the production proportions to achieve an overall probability of 0.88 that a randomly chosen loaf is rated as 'Excellent'. The individual probabilities of a loaf being rated 'Excellent' (0.85 for Sourdough, 0.90 for Wholemeal) remain unchanged.\n\nLet 'p' be the new probability that the baker chooses to make Sourdough bread. Determine the value of 'p', correct to two decimal places. Show your working clearly.",
+      "options": [
+        "0.30",
+        "0.40",
+        "0.50",
+        "0.60"
+      ],
+      "correctAnswer": "0.40",
+      "explanation": "Let P(S) be the probability of making Sourdough bread and P(W) be the probability of making Wholemeal bread.\nLet P(E|S) be the probability of an Excellent loaf given it is Sourdough, and P(E|W) be the probability of an Excellent loaf given it is Wholemeal.\n\nFrom the question, we are given:\nP(E|S) = 0.85\nP(E|W) = 0.90\n\nThe new probability of making Sourdough bread is 'p', so P(S) = p.\nSince only two types of bread are made, the new probability of making Wholemeal bread is P(W) = 1 - p.\n\nThe overall probability of a randomly chosen loaf being rated as 'Excellent', P(E), is given by the formula:\nP(E) = P(S) * P(E|S) + P(W) * P(E|W)\n\nThe baker wants this overall probability P(E) to be 0.88.\n\nSubstitute the known values and 'p' into the formula:\n0.88 = p * 0.85 + (1 - p) * 0.90\n\nNow, expand and solve for 'p':\n0.88 = 0.85p + 0.90 - 0.90p\n\nCombine the 'p' terms:\n0.88 = 0.90 - 0.05p\n\nSubtract 0.90 from both sides:\n0.88 - 0.90 = -0.05p\n-0.02 = -0.05p\n\nDivide by -0.05:\np = -0.02 / -0.05\np = 0.4\n\nCorrect to two decimal places, p = 0.40.\n\nTherefore, the new probability that the baker chooses to make Sourdough bread is 0.40.",
+      "hint": "Set up an equation for the total probability of an 'Excellent' loaf using the formula P(E) = P(S) * P(E|S) + P(W) * P(E|W), where P(S) is 'p' and P(W) is '1-p'. Then solve the equation for 'p'.",
+      "generatedAt": "2026-04-30T19:02:28.758788"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_008",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A public transport company operates buses on two main routes: Route A and Route B. 65% of the company's buses are assigned to Route A, and the remaining buses are assigned to Route B.\n\nThe probability that a bus assigned to Route A arrives on time for a journey is 0.80. The probability that a bus assigned to Route B arrives on time for a journey is 0.70.\n\nA bus is randomly selected from the company's fleet and assigned to its regular route. It completes its first journey. The probability of it being on time for a second journey (on the same route) depends on the outcome of the first journey:\n\nIf the first journey was on time, the probability of the second journey also being on time increases by 0.05.\nIf the first journey was late, the probability of the second journey being on time decreases by 0.10.\n\nCalculate the probability that the randomly selected bus arrives on time for exactly one of its two journeys. Show your working clearly.",
+      "options": [
+        "0.2880",
+        "0.29325",
+        "0.2985",
+        "0.3020"
+      ],
+      "correctAnswer": "0.29325",
+      "explanation": "Let R_A be the event that a bus is assigned to Route A, and R_B be the event that a bus is assigned to Route B.\nLet O1 be the event that the first journey is on time, and L1 be the event that the first journey is late.\nLet O2 be the event that the second journey is on time, and L2 be the event that the second journey is late.\n\nFirst, list the given probabilities:\nP(R_A) = 0.65\nP(R_B) = 1 - 0.65 = 0.35\n\nFor Route A:\nP(O1 | R_A) = 0.80  => P(L1 | R_A) = 1 - 0.80 = 0.20\n\nFor Route B:\nP(O1 | R_B) = 0.70  => P(L1 | R_B) = 1 - 0.70 = 0.30\n\nNext, calculate the conditional probabilities for the second journey, based on the first journey's outcome and the route:\n\nIf the first journey was on time (O1):\n  For Route A:\n  P(O2 | O1, R_A) = P(O1 | R_A) + 0.05 = 0.80 + 0.05 = 0.85\n  P(L2 | O1, R_A) = 1 - 0.85 = 0.15\n  For Route B:\n  P(O2 | O1, R_B) = P(O1 | R_B) + 0.05 = 0.70 + 0.05 = 0.75\n  P(L2 | O1, R_B) = 1 - 0.75 = 0.25\n\nIf the first journey was late (L1):\n  For Route A:\n  P(O2 | L1, R_A) = P(O1 | R_A) - 0.10 = 0.80 - 0.10 = 0.70\n  P(L2 | L1, R_A) = 1 - 0.70 = 0.30\n  For Route B:\n  P(O2 | L1, R_B) = P(O1 | R_B) - 0.10 = 0.70 - 0.10 = 0.60\n  P(L2 | L1, R_B) = 1 - 0.60 = 0.40\n\nWe want to find the probability that exactly one of the two journeys is on time. This means two possible scenarios for the journey outcomes: (O1 and L2) OR (L1 and O2). We calculate the probability of each path through the probability tree:\n\n1.  **Route A, First On Time (O1), Second Late (L2):**\n    P(R_A and O1 and L2) = P(R_A) * P(O1 | R_A) * P(L2 | O1, R_A)\n    = 0.65 * 0.80 * 0.15 = 0.078\n\n2.  **Route A, First Late (L1), Second On Time (O2):**\n    P(R_A and L1 and O2) = P(R_A) * P(L1 | R_A) * P(O2 | L1, R_A)\n    = 0.65 * 0.20 * 0.70 = 0.091\n\n3.  **Route B, First On Time (O1), Second Late (L2):**\n    P(R_B and O1 and L2) = P(R_B) * P(O1 | R_B) * P(L2 | O1, R_B)\n    = 0.35 * 0.70 * 0.25 = 0.06125\n\n4.  **Route B, First Late (L1), Second On Time (O2):**\n    P(R_B and L1 and O2) = P(R_B) * P(L1 | R_B) * P(O2 | L1, R_B)\n    = 0.35 * 0.30 * 0.60 = 0.063\n\nFinally, sum the probabilities of these four paths to get the total probability of exactly one journey being on time:\nTotal P(Exactly one on time) = 0.078 + 0.091 + 0.06125 + 0.063 = 0.29325",
+      "hint": "Construct a probability tree with three stages: first, the route selection; second, the outcome of the first journey; and third, the outcome of the second journey, carefully adjusting the probabilities for the third stage based on the second.",
+      "generatedAt": "2026-04-30T19:03:39.880298"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_009",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A software development company is launching a new mobile application. The app consists of two crucial modules, Module X and Module Y, which are tested sequentially.\n\nInitially, Module X is tested. The probability that Module X passes this initial test is 0.7.\nIf Module X passes its initial test, Module Y is then tested. The probability that Module Y passes its test, given Module X has passed, is 0.9.\n\nIf Module X fails its initial test, it undergoes an immediate debugging and re-testing phase. The probability that Module X passes this re-test is 0.6.\nIf Module X passes its re-test, Module Y is then tested. The probability that Module Y passes its test, given Module X passed its re-test, is 0.8.\nIf Module X fails its initial test and then also fails its re-test, the development of Module Y is abandoned, and the app's launch is delayed.\n\nCalculate the overall probability that Module Y passes its test. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To calculate the overall probability that Module Y passes its test, we need to consider all the distinct pathways through the testing process that result in Module Y passing.\n\nThere are two main scenarios where Module Y can pass:\n\n**Scenario 1: Module X passes its initial test, and then Module Y passes.**\n*   Probability that Module X passes its initial test = 0.7\n*   Probability that Module Y passes, given Module X passed its initial test = 0.9\n*   The probability of this scenario is P(X initial pass and Y pass) = 0.7 * 0.9 = 0.63\n\n**Scenario 2: Module X fails its initial test, then passes its re-test, and then Module Y passes.**\n*   Probability that Module X fails its initial test = 1 - P(X passes initial test) = 1 - 0.7 = 0.3\n*   Probability that Module X passes its re-test, given it failed initially = 0.6\n*   Probability that Module Y passes, given Module X passed its re-test = 0.8\n*   The probability of this scenario is P(X initial fail and X re-test pass and Y pass) = 0.3 * 0.6 * 0.8 = 0.18 * 0.8 = 0.144\n\nSince these two scenarios are mutually exclusive (they cannot both happen at the same time), the overall probability that Module Y passes its test is the sum of the probabilities of these two scenarios.\n\nOverall P(Y passes) = P(Scenario 1) + P(Scenario 2)\nOverall P(Y passes) = 0.63 + 0.144\nOverall P(Y passes) = 0.774\n\n**The final answer is 0.774**",
+      "explanation": "The problem describes a sequence of events with conditional probabilities, which is best modeled using a probability tree. We need to identify all paths in the tree where Module Y successfully passes its test and then sum the probabilities of those distinct paths.\n\n1.  **Identify the first branch point:** Module X's initial test.\n    *   P(X passes initial) = 0.7\n    *   P(X fails initial) = 1 - 0.7 = 0.3\n\n2.  **Follow the 'X passes initial' branch:**\n    *   If X passes initial, Y is tested. P(Y passes | X passes initial) = 0.9.\n    *   This path's probability of Y passing is 0.7 * 0.9 = 0.63.\n\n3.  **Follow the 'X fails initial' branch:**\n    *   If X fails initial, it's re-tested. P(X passes re-test | X fails initial) = 0.6.\n    *   P(X fails re-test | X fails initial) = 1 - 0.6 = 0.4 (This leads to abandonment, so Y doesn't get tested).\n\n4.  **From the 'X passes re-test' sub-branch:**\n    *   If X passes re-test, Y is tested. P(Y passes | X passes re-test) = 0.8.\n    *   The probability of this specific path (X initial fail AND X re-test pass AND Y pass) is 0.3 * 0.6 * 0.8 = 0.144.\n\n5.  **Sum the probabilities of all successful Y passing paths:**\n    *   The overall probability that Module Y passes its test is the sum of the probabilities calculated in step 2 and step 4.\n    *   Total P(Y passes) = 0.63 + 0.144 = 0.774.",
+      "hint": "Consider all distinct pathways through the testing process that result in Module Y passing its test. For each path, multiply the probabilities of the events along that path. Then, sum the probabilities of all such successful paths, as these paths represent mutually exclusive ways for Module Y to pass.",
+      "generatedAt": "2026-04-30T19:03:58.030802"
+    },
+    {
+      "id": "m-y10-prob-trees_advanced_010",
+      "topicId": "m-y10-prob-trees",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A space agency is performing a sequence of two critical tests on a new satellite component before its deployment: Test A and Test B.\n\nInitially, Test A is conducted. The probability of Test A being successful is 0.9.\n\nIf Test A is successful, Test B is then conducted. The probability of Test B being successful, given that Test A was successful, is 0.95.\n\nIf Test A is unsuccessful, the component undergoes a recalibration process. Following recalibration, Test A is attempted a second time, referred to as Test A'. The probability of Test A' being successful after recalibration is 0.7.\n\nIf this second attempt, Test A', is successful, Test B is then conducted. The probability of Test B being successful, given that Test A' was successful, is 0.8.\n\nIf Test A' is unsuccessful, the component is deemed a complete failure and cannot be deployed.\n\nThe satellite component is considered 'ready for deployment' only if *both* Test A (or Test A' if Test A initially failed) *and* Test B are successful.\n\nFor full marks, ensure all your working is clearly shown.\nWhat is the probability that the satellite component is ready for deployment?",
+      "options": [
+        "0.855",
+        "0.911",
+        "0.925",
+        "0.760"
+      ],
+      "correctAnswer": "0.911",
+      "explanation": "To solve this problem, we need to consider the different paths that lead to the satellite component being 'ready for deployment' and sum their probabilities. We can visualise this using a probability tree.\n\n**Path 1: Test A is successful AND Test B is successful.**\n*   Probability of Test A being successful = P(A_success) = 0.9\n*   Probability of Test B being successful, given Test A was successful = P(B_success | A_success) = 0.95\n*   The probability of Path 1 = P(A_success) * P(B_success | A_success) = 0.9 * 0.95 = 0.855\n\n**Path 2: Test A is unsuccessful AND Test A' is successful AND Test B is successful.**\n*   Probability of Test A being unsuccessful = P(A_unsuccess) = 1 - P(A_success) = 1 - 0.9 = 0.1\n*   Probability of Test A' being successful after recalibration (given A was unsuccessful) = P(A'_success | A_unsuccess) = 0.7\n*   Probability of Test B being successful, given Test A' was successful (after A was unsuccessful) = P(B_success | A'_success and A_unsuccess) = 0.8\n*   The probability of Path 2 = P(A_unsuccess) * P(A'_success | A_unsuccess) * P(B_success | A'_success and A_unsuccess) = 0.1 * 0.7 * 0.8 = 0.07 * 0.8 = 0.056\n\n**Total Probability:**\nThe two paths (Path 1 and Path 2) are mutually exclusive ways for the component to be ready for deployment. Therefore, we add their probabilities:\nTotal P(Ready for deployment) = P(Path 1) + P(Path 2) = 0.855 + 0.056 = 0.911",
+      "hint": "Construct a probability tree diagram to model the sequence of tests, including the recalibration and second attempt at Test A. Identify all distinct branches that lead to the component being 'ready for deployment' and sum their probabilities.",
+      "generatedAt": "2026-04-30T19:04:18.276709"
+    }
+  ]
+}

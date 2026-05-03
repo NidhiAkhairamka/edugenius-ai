@@ -1,0 +1,518 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-geometry_beginner_001",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Two angles are on a straight line. One of the angles measures 65 degrees. What is the size of the other angle?",
+      "options": [
+        "A) 25 degrees",
+        "B) 65 degrees",
+        "C) 115 degrees",
+        "D) 125 degrees"
+      ],
+      "correctAnswer": "C) 115 degrees",
+      "explanation": "Angles on a straight line always add up to 180 degrees. To find the size of the other angle, subtract the given angle from 180 degrees. So, 180 degrees - 65 degrees = 115 degrees.",
+      "hint": "Remember that the total number of degrees on a straight line is 180 degrees.",
+      "generatedAt": "2026-04-29T10:03:59.810001"
+    },
+    {
+      "id": "m-y5-geometry_beginner_002",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square is a four-sided shape where all sides are the same length and all internal angles are right angles. How many degrees are in one right angle?",
+      "options": [
+        "45 degrees",
+        "90 degrees",
+        "180 degrees",
+        "360 degrees"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "A right angle is a specific type of angle that measures exactly 90 degrees. All internal angles in a square are right angles, and therefore each one measures 90 degrees.",
+      "hint": "Consider what you call the angle at the corner of a square or a book.",
+      "generatedAt": "2026-04-29T10:04:12.669865"
+    },
+    {
+      "id": "m-y5-geometry_beginner_003",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Imagine a complete turn, like a full spin around. How many right angles are needed to make a complete turn?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "4",
+      "explanation": "A right angle measures 90 degrees. A complete turn (or a full rotation) measures 360 degrees. To find out how many right angles make a complete turn, you divide the total degrees in a complete turn by the degrees in one right angle: 360 degrees / 90 degrees = 4. Therefore, 4 right angles make a complete turn.",
+      "hint": "Think about the number of degrees in one right angle and the total number of degrees in a complete turn.",
+      "generatedAt": "2026-04-29T10:04:23.813020"
+    },
+    {
+      "id": "m-y5-geometry_beginner_004",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Imagine a closed box shaped like a cuboid. All of its flat surfaces are rectangles. How many flat surfaces does this cuboid have?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": "6",
+      "explanation": "A cuboid is a three-dimensional shape. It has a top face, a bottom face, a front face, a back face, a left side face, and a right side face. Counting these gives a total of 6 flat surfaces.",
+      "hint": "Think about a common object shaped like a cuboid, such as a shoebox or a building brick. How many different sides can you count?",
+      "generatedAt": "2026-04-29T10:04:31.282149"
+    },
+    {
+      "id": "m-y5-geometry_beginner_005",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A triangle has three angles inside it. One angle measures 90 degrees and another angle measures 45 degrees. What is the size of the third angle?",
+      "options": [
+        "35 degrees",
+        "45 degrees",
+        "55 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "45 degrees",
+      "explanation": "The three angles inside any triangle always add up to a total of 180 degrees.\nFirst, add the two known angles: 90 degrees + 45 degrees = 135 degrees.\nThen, subtract this sum from 180 degrees to find the third angle: 180 degrees - 135 degrees = 45 degrees.\nSo, the third angle is 45 degrees.",
+      "hint": "Remember that the three angles inside any triangle always add up to 180 degrees.",
+      "generatedAt": "2026-04-29T10:04:45.721001"
+    },
+    {
+      "id": "m-y5-geometry_beginner_006",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "An angle measures 250 degrees. Which term best describes this type of angle?",
+      "options": [
+        "Acute angle",
+        "Obtuse angle",
+        "Right angle",
+        "Reflex angle"
+      ],
+      "correctAnswer": "Reflex angle",
+      "explanation": "An acute angle measures less than 90 degrees. A right angle measures exactly 90 degrees. An obtuse angle measures more than 90 degrees but less than 180 degrees. A reflex angle measures more than 180 degrees but less than 360 degrees. Since 250 degrees is greater than 180 degrees and less than 360 degrees, it is a reflex angle.",
+      "hint": "Consider the definitions of different angle types based on their size in degrees relative to 90, 180, and 360 degrees.",
+      "generatedAt": "2026-04-29T10:04:56.470261"
+    },
+    {
+      "id": "m-y5-geometry_beginner_007",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A straight line has a total angle of 180 degrees. If this straight line is divided into two smaller angles, and one of these smaller angles measures 70 degrees, what is the size of the other angle?",
+      "options": [
+        "A) 70 degrees",
+        "B) 90 degrees",
+        "C) 110 degrees",
+        "D) 180 degrees"
+      ],
+      "correctAnswer": "C) 110 degrees",
+      "explanation": "Angles on a straight line always add up to 180 degrees. You are given that one of the angles is 70 degrees. To find the size of the other angle, you need to subtract the known angle from 180 degrees: 180 degrees - 70 degrees = 110 degrees. Therefore, the other angle measures 110 degrees.",
+      "hint": "Think about the total number of degrees in any straight line.",
+      "generatedAt": "2026-04-29T10:05:07.472906"
+    },
+    {
+      "id": "m-y5-geometry_beginner_008",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Imagine you are standing still and facing forward. You turn your body to the right by 90 degrees. Then, without stopping, you turn to the right again by another 90 degrees from your new position. What is the total number of degrees you have turned from your original starting position?",
+      "options": [
+        "A: 180 degrees",
+        "B: 90 degrees",
+        "C: 270 degrees",
+        "D: 360 degrees"
+      ],
+      "correctAnswer": "A: 180 degrees",
+      "explanation": "To find the total number of degrees you have turned, you need to add the two separate turns together. First, you turn 90 degrees to the right. Then, you turn another 90 degrees to the right. So, the total turn is 90 degrees + 90 degrees = 180 degrees.",
+      "hint": "Think about combining the two separate turns. What mathematical operation should you use to find the total?",
+      "generatedAt": "2026-04-29T10:05:21.778426"
+    },
+    {
+      "id": "m-y5-geometry_beginner_009",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A four-sided shape has all four of its interior angles measuring 90 degrees. What is the total sum of all angles inside this shape, in degrees?",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correctAnswer": "360 degrees",
+      "explanation": "The shape described has four interior angles. Each of these angles measures 90 degrees.\nTo find the total sum of all angles, you multiply the number of angles by the measure of each angle:\nNumber of angles = 4\nMeasure of each angle = 90 degrees\nTotal sum = 4 × 90 degrees = 360 degrees.",
+      "hint": "To find the total sum when you have multiple equal parts, you can use multiplication.",
+      "generatedAt": "2026-04-29T10:39:17.115470"
+    },
+    {
+      "id": "m-y5-geometry_beginner_010",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A standard cube has six faces. Each face of a cube is a flat square shape. How many degrees does each interior angle measure inside one of these square faces?",
+      "options": [
+        "A) 45 degrees",
+        "B) 90 degrees",
+        "C) 180 degrees",
+        "D) 360 degrees"
+      ],
+      "correctAnswer": "B) 90 degrees",
+      "explanation": "A square is a four-sided shape where all sides are equal in length and all interior angles are equal. For any square, each of its four interior angles measures exactly 90 degrees. This is also known as a right angle. Therefore, each interior angle in a square face of a cube is 90 degrees.",
+      "hint": "Consider what kind of angle is formed at the corner of a square.",
+      "generatedAt": "2026-04-29T10:39:26.650434"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-geometry_intermediate_001",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A regular hexagon has its vertices labelled alphabetically, starting from P, then Q, R, S, T, U in a clockwise direction. A triangle is formed by connecting vertices P, Q, and R. Calculate the size of angle QPR.",
+      "options": [
+        "30 degrees",
+        "45 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "30 degrees",
+      "explanation": "1.  **Calculate the interior angle of a regular hexagon:**\n    A regular hexagon has 6 equal sides and 6 equal interior angles.\n    The formula for the sum of interior angles of a polygon with 'n' sides is (n-2) * 180 degrees.\n    For a hexagon, n = 6.\n    Sum of interior angles = (6-2) * 180 = 4 * 180 = 720 degrees.\n    Since it's a regular hexagon, each interior angle is equal to the sum divided by the number of sides:\n    Each interior angle = 720 / 6 = 120 degrees.\n    Therefore, angle PQR = 120 degrees.\n\n2.  **Analyse triangle PQR:**\n    Vertices P, Q, and R are consecutive vertices of the regular hexagon. This means that the side length PQ is equal to the side length QR (they are both sides of the regular hexagon).\n    Since two sides of triangle PQR (PQ and QR) are equal, triangle PQR is an isosceles triangle.\n    In an isosceles triangle, the angles opposite the equal sides are also equal. The angles opposite sides PQ and QR are angle QRP and angle QPR, respectively. So, angle QRP = angle QPR.\n\n3.  **Calculate angle QPR:**\n    The sum of angles in any triangle is 180 degrees.\n    In triangle PQR: Angle PQR + Angle QRP + Angle QPR = 180 degrees.\n    Substitute the known value for Angle PQR and the relationship between Angle QRP and Angle QPR:\n    120 degrees + Angle QPR + Angle QPR = 180 degrees.\n    120 degrees + 2 * Angle QPR = 180 degrees.\n    Subtract 120 degrees from both sides:\n    2 * Angle QPR = 180 - 120 degrees.\n    2 * Angle QPR = 60 degrees.\n    Divide by 2 to find Angle QPR:\n    Angle QPR = 60 / 2 = 30 degrees.",
+      "hint": "First, determine the measure of an interior angle of a regular hexagon. Then, consider the properties of the triangle formed by three consecutive vertices within that hexagon.",
+      "generatedAt": "2026-04-29T10:40:02.893230"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_002",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Two identical regular pentagons share a common side. The first pentagon has its vertices labelled A, B, C, D, E in clockwise order. The second pentagon has its vertices labelled B, C, F, G, H in clockwise order, where BC is the shared side. Calculate the non-reflex angle formed at vertex B between side AB and side BG. Show your working clearly.",
+      "options": [
+        "72 degrees",
+        "108 degrees",
+        "144 degrees",
+        "216 degrees"
+      ],
+      "correctAnswer": "144 degrees",
+      "explanation": "1.  **Calculate the interior angle of a regular pentagon:**\n    The formula for the interior angle of a regular polygon with 'n' sides is (n-2) * 180 / n.\n    For a pentagon, n=5.\n    Interior angle = (5-2) * 180 / 5 = 3 * 180 / 5 = 3 * 36 = 108 degrees.\n    Therefore, angle ABC (an interior angle of the first pentagon) is 108 degrees.\n    And angle CBG (an interior angle of the second pentagon) is also 108 degrees.\n\n2.  **Calculate the total angle formed by side AB and side BG:**\n    At vertex B, the angles ABC and CBG are adjacent, sharing the common side BC. The angle formed between side AB and side BG is the sum of these two angles:\n    Reflex Angle ABG = Angle ABC + Angle CBG = 108 degrees + 108 degrees = 216 degrees.\n\n3.  **Find the non-reflex angle:**\n    The question asks for the *non-reflex* angle. A full turn around a point is 360 degrees.\n    Non-reflex Angle ABG = 360 degrees - Reflex Angle ABG = 360 degrees - 216 degrees = 144 degrees.",
+      "hint": "First, recall the formula for the interior angle of a regular polygon. Then, consider how adjacent angles combine at a vertex, and how to find a non-reflex angle from a reflex one.",
+      "generatedAt": "2026-04-29T10:40:28.248783"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_003",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A solid three-dimensional shape has 6 flat faces, all of which are squares. How many vertices does this shape have? Let this number of vertices be represented by the value V.\n\nOn a perfectly straight line, three angles meet at a single point. The first angle is equal to (V multiplied by 5) degrees. The second angle measures 60 degrees. Calculate the size of the third angle. You must show your working.",
+      "options": [
+        "70 degrees",
+        "80 degrees",
+        "90 degrees",
+        "100 degrees"
+      ],
+      "correctAnswer": "80 degrees",
+      "explanation": "Step 1: Identify the 3D shape and its properties.\nA shape with 6 flat faces, all of which are squares, is a cube. A cube has 8 vertices.\nSo, the value of V is 8.\n\nStep 2: Calculate the size of the first angle.\nThe first angle is (V multiplied by 5) degrees.\nFirst angle = 8 × 5 = 40 degrees.\n\nStep 3: Calculate the size of the third angle on a straight line.\nAngles on a straight line add up to 180 degrees.\nWe have two angles: 40 degrees and 60 degrees.\nSum of known angles = 40 + 60 = 100 degrees.\nThird angle = 180 degrees - 100 degrees = 80 degrees.\n\nThe size of the third angle is 80 degrees.",
+      "hint": "First, identify the three-dimensional shape described and count its vertices. Then, use this number to find the value of the first angle. Remember the sum of angles on a straight line.",
+      "generatedAt": "2026-04-29T10:40:44.060881"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_004",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A convex quadrilateral ABCD has interior angle A equal to 95 degrees, interior angle B equal to 110 degrees, and interior angle C equal to 85 degrees. Side AD is extended in a straight line past point D to a point E. Calculate the size of angle CDE. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the size of angle CDE, we first need to find the interior angle at D, which is angle ADC, within the quadrilateral.\n\nThe sum of the interior angles in any convex quadrilateral is 360 degrees.\nSo, Angle A + Angle B + Angle C + Angle ADC = 360 degrees.\n95 degrees + 110 degrees + 85 degrees + Angle ADC = 360 degrees.\n\nAdding the known angles: 95 + 110 + 85 = 290 degrees.\n\nTherefore, 290 degrees + Angle ADC = 360 degrees.\nAngle ADC = 360 degrees - 290 degrees.\nAngle ADC = 70 degrees.\n\nNext, we consider the line segment AD extended to point E. Angle ADC and angle CDE are adjacent angles that form a straight line. Angles on a straight line sum to 180 degrees.\n\nAngle ADC + Angle CDE = 180 degrees.\n70 degrees + Angle CDE = 180 degrees.\nAngle CDE = 180 degrees - 70 degrees.\nAngle CDE = 110 degrees.\n\nThe size of angle CDE is 110 degrees.",
+      "explanation": "This question is a two-step problem. The first step involves recalling and applying the property that the sum of the interior angles in a quadrilateral is 360 degrees to find the missing interior angle D. The second step requires applying the property that angles on a straight line sum to 180 degrees to find the exterior angle CDE.",
+      "hint": "Consider the properties of interior angles in a quadrilateral and angles on a straight line. You will need to use both.",
+      "generatedAt": "2026-04-29T10:41:00.281267"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_005",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A regular pentagon has its vertices labelled A, B, C, D, E in clockwise order. The side AB is extended in a straight line past point B to a point F. Calculate the size of the angle EBF. Show your working clearly.",
+      "options": [
+        "72 degrees",
+        "108 degrees",
+        "54 degrees",
+        "36 degrees"
+      ],
+      "correctAnswer": "72 degrees",
+      "explanation": "1. First, determine the interior angle of a regular pentagon. A regular pentagon has 5 equal sides and 5 equal interior angles.\n   The formula for the interior angle of a regular polygon with 'n' sides is given by: (n-2) × 180 / n.\n   For a pentagon, n=5. So, the interior angle = (5-2) × 180 / 5 = 3 × 180 / 5 = 540 / 5 = 108 degrees.\n   Therefore, angle ABC (which is an interior angle of the pentagon) = 108 degrees.\n\n2. Next, consider the straight line ABF. Angles on a straight line sum to 180 degrees.\n   Angle EBF and angle ABC are adjacent angles that form a straight line (ABF).\n   So, Angle EBF + Angle ABC = 180 degrees.\n\n3. Substitute the value of Angle ABC into the equation:\n   Angle EBF + 108 degrees = 180 degrees.\n\n4. Solve for Angle EBF:\n   Angle EBF = 180 degrees - 108 degrees = 72 degrees.",
+      "hint": "Start by finding the interior angle of a regular pentagon. Then, remember the property of angles on a straight line.",
+      "generatedAt": "2026-04-29T10:41:16.222649"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_006",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Consider a solid cuboid. An ant starts at a vertex, let's call it P. The ant walks along an edge from P to a vertex Q. At Q, the ant makes a turn to walk along another edge from Q to a vertex R. This edge QR is perpendicular to PQ, as they meet at a corner of a rectangular face of the cuboid. After walking to R, the ant then turns around completely to face back along the path it just came from (towards Q). What is the total number of degrees the ant has turned from its original direction (along PQ) when it completes its turn at R? Show your working.",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correctAnswer": "270 degrees",
+      "explanation": "1. The ant first walks from P to Q, then turns at Q to walk along QR. Since the edges PQ and QR are perpendicular and meet at a corner of a rectangular face of the cuboid, the turn the ant makes at Q is 90 degrees.\n2. After reaching R, the ant turns around completely to face back along the path it just came from (towards Q). A complete turn-around means reversing direction, which is an angle of 180 degrees.\n3. The total number of degrees the ant has turned from its original direction (along PQ) is the sum of these two turns: 90 degrees + 180 degrees = 270 degrees.",
+      "hint": "Think about the angle formed by two perpendicular lines, and the angle for making a complete U-turn or facing the opposite direction.",
+      "generatedAt": "2026-04-29T10:41:33.277480"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_007",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Consider four angles, named Alpha, Beta, Gamma, and Delta. These four angles meet at a single central point. Angle Alpha measures 90 degrees. Angle Beta is exactly twice the size of Angle Alpha. Angle Gamma is half the size of Angle Alpha. Find the measure of Angle Delta. Show your working.",
+      "options": [
+        "45 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "45 degrees",
+      "explanation": "1. First, calculate the measures of Angle Beta and Angle Gamma:\n   Angle Alpha = 90 degrees.\n   Angle Beta = 2 × Angle Alpha = 2 × 90 degrees = 180 degrees.\n   Angle Gamma = Angle Alpha ÷ 2 = 90 degrees ÷ 2 = 45 degrees.\n2. Angles that meet at a central point sum up to 360 degrees.\n   So, Angle Alpha + Angle Beta + Angle Gamma + Angle Delta = 360 degrees.\n3. Substitute the known angle measures into the equation:\n   90 degrees + 180 degrees + 45 degrees + Angle Delta = 360 degrees.\n4. Sum the known angles:\n   315 degrees + Angle Delta = 360 degrees.\n5. Subtract the sum from 360 degrees to find Angle Delta:\n   Angle Delta = 360 degrees - 315 degrees = 45 degrees.\nTherefore, Angle Delta measures 45 degrees.",
+      "hint": "Remember the total number of degrees for angles that meet at a central point.",
+      "generatedAt": "2026-04-29T10:41:51.516903"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_008",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A regular octagon has its vertices labelled A, B, C, D, E, F, G, H in clockwise order. The length of each side is 6 cm. Two straight lines are drawn inside the octagon: one from vertex A to vertex C, and another from vertex A to vertex G. Calculate the size of angle GAC. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the size of angle GAC, we first need to determine the measure of an interior angle of a regular octagon.\n\nStep 1: Calculate the interior angle of a regular octagon.\nThe formula for the sum of interior angles of a regular polygon with 'n' sides is (n-2) × 180 degrees. For an octagon, n=8.\nSum of interior angles = (8-2) × 180 = 6 × 180 = 1080 degrees.\nSince it's a regular octagon, all interior angles are equal.\nEach interior angle = 1080 / 8 = 135 degrees.\nSo, angle ABC = angle BCD = ... = angle HAB = 135 degrees.\n\nStep 2: Identify and use properties of isosceles triangles.\nConsider the triangle ABC. Since AB and BC are sides of a regular octagon, AB = BC = 6 cm. Therefore, triangle ABC is an isosceles triangle.\nThe angles opposite the equal sides are equal: angle BAC = angle BCA.\nThe sum of angles in a triangle is 180 degrees. So, angle BAC + angle BCA + angle ABC = 180 degrees.\n2 × angle BAC + 135 = 180\n2 × angle BAC = 180 - 135\n2 × angle BAC = 45\nangle BAC = 45 / 2 = 22.5 degrees.\n\nSimilarly, consider the triangle AHG. AH and HG are also sides of the regular octagon, so AH = HG = 6 cm. Therefore, triangle AHG is an isosceles triangle.\nThe interior angle AHG is 135 degrees.\nangle HAG + angle HGA + angle AHG = 180 degrees.\n2 × angle HAG + 135 = 180\n2 × angle HAG = 45\nangle HAG = 45 / 2 = 22.5 degrees.\n\nStep 3: Calculate angle GAC.\nAngle HAB is an interior angle of the regular octagon, which is 135 degrees.\nAngle GAC is formed by subtracting angle HAG and angle BAC from the full interior angle HAB.\nAngle GAC = Angle HAB - Angle HAG - Angle BAC\nAngle GAC = 135 - 22.5 - 22.5\nAngle GAC = 135 - 45\nAngle GAC = 90 degrees.\n\nTherefore, the size of angle GAC is 90 degrees.",
+      "explanation": "The problem requires calculating an angle formed by diagonals within a regular octagon. The first step involves finding the measure of an interior angle of a regular octagon using the formula (n-2) * 180 / n. For an octagon (n=8), each interior angle is 135 degrees. The second step involves recognizing that triangles like ABC and AHG are isosceles because their sides are also sides of the regular octagon. Using the interior angle of 135 degrees and the property that base angles of an isosceles triangle are equal, we find angles BAC and HAG to be 22.5 degrees each ( (180-135)/2 ). Finally, angle GAC is found by subtracting these two angles from the full interior angle at vertex A (angle HAB), which is 135 - 22.5 - 22.5 = 90 degrees.",
+      "hint": "First, calculate the measure of an interior angle of a regular octagon. Then, consider the isosceles triangles formed by the sides of the octagon and the diagonals drawn from vertex A to adjacent vertices.",
+      "generatedAt": "2026-04-29T10:42:09.352884"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_009",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Consider a solid wooden block shaped like a cuboid. All its faces are rectangles and all its corners are right angles. One of the rectangular faces is labelled PQRS, with vertices P, Q, R, S in clockwise order.\nA pencil line is drawn from vertex P to a point T on the side QR. This line PT creates an angle QPT measuring 55 degrees.\nAnother pencil line is drawn from vertex P to a point U on the side RS. This line PU creates an angle SPU measuring 20 degrees.\n\nCalculate the size of angle TPU. Show your working.",
+      "options": [
+        "10 degrees",
+        "15 degrees",
+        "25 degrees",
+        "35 degrees"
+      ],
+      "correctAnswer": "15 degrees",
+      "explanation": "1.  Identify the properties of the shape: A cuboid's faces are rectangles, and all corners of a rectangle are right angles. Therefore, the angle at vertex P on the face PQRS, which is angle QPS, measures 90 degrees.\n2.  Identify the given angle measurements: Angle QPT is 55 degrees. Angle SPU is 20 degrees.\n3.  Recognise that the angles QPT, TPU, and SPU are adjacent angles that collectively form the total angle QPS.\n4.  Set up the equation based on the sum of angles: Angle QPT + Angle TPU + Angle SPU = Angle QPS.\n5.  Substitute the known values into the equation: 55 degrees + Angle TPU + 20 degrees = 90 degrees.\n6.  Combine the known angles: 75 degrees + Angle TPU = 90 degrees.\n7.  Solve for Angle TPU by subtracting 75 degrees from 90 degrees: Angle TPU = 90 degrees - 75 degrees.\n8.  Calculate the final answer: Angle TPU = 15 degrees.",
+      "hint": "Remember that a right angle measures 90 degrees, and the angles inside it add up to this total.",
+      "generatedAt": "2026-04-29T10:42:37.227104"
+    },
+    {
+      "id": "m-y5-geometry_intermediate_010",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A regular hexagon has six equal sides and six equal interior angles. Imagine one of its vertices, let's call it Vertex A. Two sides meet at Vertex A, one going to Vertex B and the other going to Vertex F. So, angle FAB is an interior angle of the hexagon. Now, consider a straight line that passes through Vertex F, Vertex A, and continues beyond Vertex A to a point C. This means F-A-C is a straight line. What is the measure, in degrees, of angle BAC? Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the sum of the interior angles of a regular hexagon.\nA hexagon has 6 sides, so n=6.\nSum of interior angles = (n-2) × 180°\nSum = (6-2) × 180°\nSum = 4 × 180°\nSum = 720°\n\nStep 2: Calculate the measure of one interior angle (angle FAB) of the regular hexagon.\nSince it's a regular hexagon, all interior angles are equal.\nInterior angle = Sum of interior angles / number of sides\nInterior angle FAB = 720° / 6\nInterior angle FAB = 120°\n\nStep 3: Use the property of angles on a straight line.\nThe points F, A, and C form a straight line. Angles on a straight line sum to 180°.\nAngle FAB + Angle BAC = 180°\n120° + Angle BAC = 180°\nAngle BAC = 180° - 120°\nAngle BAC = 60°\n\nTherefore, the measure of angle BAC is 60 degrees.",
+      "explanation": "The problem requires two main steps: first, determining the size of an interior angle of a regular hexagon, and second, using the property of angles on a straight line to find the unknown angle. The sum of interior angles for any polygon with 'n' sides is given by the formula (n-2) × 180°. For a regular hexagon (n=6), this sum is (6-2) × 180° = 720°. Since all angles in a regular hexagon are equal, each interior angle is 720° / 6 = 120°. The problem states that F-A-C is a straight line. Angles on a straight line add up to 180°. Therefore, angle FAB + angle BAC = 180°. Substituting the known interior angle, 120° + angle BAC = 180°, which means angle BAC = 180° - 120° = 60°.",
+      "hint": "Start by finding the sum of the interior angles of a regular hexagon. Then, use the fact that angles on a straight line add up to a specific total.",
+      "generatedAt": "2026-04-29T10:42:58.516601"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-geometry_advanced_001",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A Year 5 student is designing a complex model by combining shapes and rotating them.\n\nFirst, the student takes a cube and performs the following rotations:\n*   Three quarter turns clockwise.\n*   One half turn anticlockwise.\n*   One full turn clockwise.\n\nNext, the student takes a square-based pyramid and counts its total number of faces, edges, and vertices. They add these three numbers together.\n\nWhat is the sum of the total degrees the cube has rotated from its original position (ignoring the direction of each turn, only adding the magnitude of each turn) AND the total sum of faces, edges, and vertices of the square-based pyramid? Show your working clearly.",
+      "options": [
+        "810",
+        "828",
+        "846",
+        "792"
+      ],
+      "correctAnswer": "828",
+      "explanation": "This problem requires two main calculations to be combined:\n\n**Part 1: Calculate the total degrees the cube has rotated.**\n*   One quarter turn is 90 degrees.\n*   Three quarter turns clockwise = 3 × 90 degrees = 270 degrees.\n*   One half turn is 180 degrees.\n*   One half turn anticlockwise = 180 degrees.\n*   One full turn is 360 degrees.\n*   One full turn clockwise = 360 degrees.\n*   The question asks for the sum of the magnitude of each turn, ignoring direction. So, we add all these values together:\n    270 degrees + 180 degrees + 360 degrees = 810 degrees.\n\n**Part 2: Calculate the sum of faces, edges, and vertices of a square-based pyramid.**\n*   A square-based pyramid has:\n    *   Faces: 5 (1 square base + 4 triangular sides)\n    *   Edges: 8 (4 edges on the base + 4 edges meeting at the apex)\n    *   Vertices: 5 (4 vertices on the base + 1 apex)\n*   Sum of faces, edges, and vertices = 5 + 8 + 5 = 18.\n\n**Final Step: Add the results from Part 1 and Part 2.**\n*   Total sum = 810 (degrees rotated) + 18 (pyramid properties) = 828.\n\nTherefore, the correct answer is 828.",
+      "hint": "Remember that a quarter turn is 90 degrees, a half turn is 180 degrees, and a full turn is 360 degrees. For the pyramid, carefully count its faces, edges, and vertices.",
+      "generatedAt": "2026-04-29T10:43:22.641711"
+    },
+    {
+      "id": "m-y5-geometry_advanced_002",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A regular tetrahedron is a 3D shape with four identical faces, six edges, and four vertices. Each of its faces is an equilateral triangle. \nA small beetle walks along the edges of a regular tetrahedron. It starts at vertex A, walks along an edge to vertex B, then turns and walks along an edge to vertex C, and finally turns again and walks along an edge to vertex D. \nAt each vertex where it changes direction (B and C), the beetle makes the smallest possible turn to continue along an adjacent edge on the same face. \nFor Year 5 students, remember that all angles in an equilateral triangle are equal, and the sum of angles in any triangle is 180 degrees. \n\nWhat is the total number of degrees the beetle has turned during its journey from vertex A to vertex D? Show your working.",
+      "options": [
+        "60 degrees",
+        "90 degrees",
+        "120 degrees",
+        "180 degrees"
+      ],
+      "correctAnswer": "120 degrees",
+      "explanation": "1.  **Understand the face shape:** The question states that each face of a regular tetrahedron is an equilateral triangle.\n2.  **Recall angle properties of an equilateral triangle:** You are told that all angles in an equilateral triangle are equal, and the sum of angles in any triangle is 180 degrees.\n3.  **Calculate the measure of one angle:** Since an equilateral triangle has three equal angles, each angle measures 180 degrees ÷ 3 = 60 degrees. This is the size of each turn the beetle makes.\n4.  **Identify the number of turns:** The beetle walks from A to B (no turn), then from B to C (first turn), and finally from C to D (second turn). So, the beetle makes two turns during its journey.\n5.  **Calculate the total degrees turned:** Each turn is 60 degrees. With two turns, the total degrees turned is 60 degrees + 60 degrees = 120 degrees.",
+      "hint": "First, use the information about the sum of angles in a triangle and the properties of an equilateral triangle to find the size of one angle. Then, count how many times the beetle makes a turn in its journey.",
+      "generatedAt": "2026-04-29T10:43:43.923389"
+    },
+    {
+      "id": "m-y5-geometry_advanced_003",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A child has two wooden blocks: a cube and a triangular prism.\n\nThe cube has six identical square faces. All angles in each square face are 90 degrees.\n\nThe triangular prism has two identical triangular faces and three identical rectangular faces. The triangular faces are equilateral triangles, meaning all angles in these triangles are equal.\n\nImagine a tiny toy car is placed at a corner of one of the square faces of the cube. It starts facing directly along one edge of the cube. It then makes a turn that is 1/4 of a full circle clockwise. Next, it makes a turn equal to the sum of two angles from the equilateral triangular faces, but in the anti-clockwise direction.\n\nHow many more degrees, and in which direction (clockwise or anti-clockwise), must the car turn from its current position to face the same way it started? Show your working clearly.",
+      "options": [
+        "30 degrees anti-clockwise",
+        "30 degrees clockwise",
+        "90 degrees clockwise",
+        "120 degrees anti-clockwise"
+      ],
+      "correctAnswer": "30 degrees clockwise",
+      "explanation": "Here's the step-by-step working:\n\n1.  **Calculate the angle of one equilateral triangular face:** An equilateral triangle has three equal angles. The sum of angles in any triangle is 180 degrees. So, one angle in an equilateral triangle is 180 degrees / 3 = 60 degrees.\n\n2.  **Calculate the value of the first turn:** The car turns 1/4 of a full circle clockwise. A full circle is 360 degrees. So, 1/4 * 360 degrees = 90 degrees clockwise.\n\n3.  **Calculate the value of the second turn:** The car turns by the sum of two angles from the equilateral triangular faces, anti-clockwise. This sum is 2 * 60 degrees = 120 degrees anti-clockwise.\n\n4.  **Determine the car's current orientation relative to its start:**\n    *   Start: 0 degrees\n    *   After first turn: 90 degrees clockwise\n    *   After second turn: From the 90 degrees clockwise position, it turns 120 degrees anti-clockwise.\n    *   To calculate the net turn, we can consider clockwise as positive (+) and anti-clockwise as negative (-).\n        +90 degrees (clockwise) - 120 degrees (anti-clockwise) = -30 degrees.\n    *   A result of -30 degrees means the car is currently 30 degrees anti-clockwise from its starting direction.\n\n5.  **Calculate the final turn needed to return to the start:** To return to its starting direction from 30 degrees anti-clockwise, the car must turn 30 degrees in the opposite direction.\n\n    Therefore, the car must turn 30 degrees clockwise.",
+      "hint": "Remember that a full circle is 360 degrees and the sum of angles in any triangle is 180 degrees. Keep track of the direction of each turn (clockwise or anti-clockwise).",
+      "generatedAt": "2026-04-29T10:44:11.789364"
+    },
+    {
+      "id": "m-y5-geometry_advanced_004",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A puzzle piece is made in the shape of a triangular prism. This prism has two identical triangular faces and three identical rectangular faces. All the angles within each of the triangular faces are 60 degrees. All the angles within each of the rectangular faces are 90 degrees.\n\nMr. Jones is designing a pathway on the surface of this puzzle piece for a tiny robot. The robot starts at a corner (vertex) of one of the *rectangular* faces. It travels along one edge to the next corner, makes a turn, and then travels along another edge that is part of the *same rectangular face*. It repeats this turn-and-travel process four times until it has visited all four corners of that single rectangular face and returned to its starting point.\n\nAfter completing this path, the robot then moves to a corner of one of the *triangular* faces. It travels along one edge to the next corner, makes a turn, and then travels along another edge that is part of the *same triangular face*. It repeats this turn-and-travel process three times until it has visited all three corners of that single triangular face and returned to its starting point.\n\nWhat is the *total number of degrees* the robot turned through during its entire journey on both faces combined? Show your working. (3 marks)",
+      "options": [
+        "450 degrees",
+        "540 degrees",
+        "630 degrees",
+        "720 degrees"
+      ],
+      "correctAnswer": "540 degrees",
+      "explanation": "1.  **Journey on the rectangular face:**\n    A rectangular face has four corners (vertices). The problem states that all angles within each rectangular face are 90 degrees. When the robot travels along the edges and turns at each corner to complete a full path around the rectangle, it makes four turns, and each turn is through an angle of 90 degrees.\n    Total degrees turned on the rectangular face = 4 turns x 90 degrees/turn = 360 degrees.\n\n2.  **Journey on the triangular face:**\n    A triangular face has three corners (vertices). The problem states that all angles within each triangular face are 60 degrees. When the robot travels along the edges and turns at each corner to complete a full path around the triangle, it makes three turns, and each turn is through an angle of 60 degrees.\n    Total degrees turned on the triangular face = 3 turns x 60 degrees/turn = 180 degrees.\n\n3.  **Total degrees for the entire journey:**\n    To find the total number of degrees the robot turned through during its entire journey, we add the degrees from both paths:\n    Total degrees = Degrees from rectangular face + Degrees from triangular face\n    Total degrees = 360 degrees + 180 degrees = 540 degrees.\n\nTherefore, the total number of degrees the robot turned through is 540 degrees.",
+      "hint": "Consider the sum of the internal angles for each type of face (rectangle and triangle) that the robot travels around. Remember how many corners (vertices) each shape has, as the robot makes a turn at each one.",
+      "generatedAt": "2026-04-29T10:44:35.851178"
+    },
+    {
+      "id": "m-y5-geometry_advanced_005",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A small robot is programmed to make a series of turns. It starts facing directly North.\n\n1.  First, the robot turns clockwise by a number of degrees equal to the total number of faces on a cube, multiplied by 10.\n2.  Next, it turns anti-clockwise by a number of degrees equal to the total number of edges on a cuboid, multiplied by 5.\n3.  Finally, it turns clockwise by a number of degrees equal to the total number of vertices on a triangular prism, multiplied by 15.\n\nAfter all these turns, which direction is the robot facing?\n\n(Assume North is 0 degrees, East is 90 degrees, South is 180 degrees, and West is 270 degrees. Working is required to show your thought process.)",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "correctAnswer": "East",
+      "explanation": "Here is a step-by-step calculation:\n\n1.  **First turn (clockwise):**\n    *   A cube has 6 faces.\n    *   The turn is 6 multiplied by 10 degrees = 60 degrees clockwise.\n    *   Starting from North (0 degrees), turning 60 degrees clockwise means the robot is now facing 0 + 60 = 60 degrees.\n\n2.  **Second turn (anti-clockwise):**\n    *   A cuboid has 12 edges.\n    *   The turn is 12 multiplied by 5 degrees = 60 degrees anti-clockwise.\n    *   From 60 degrees (current facing), turning 60 degrees anti-clockwise means the robot is now facing 60 - 60 = 0 degrees.\n\n3.  **Third turn (clockwise):**\n    *   A triangular prism has 6 vertices (3 vertices on one triangular end and 3 vertices on the other triangular end).\n    *   The turn is 6 multiplied by 15 degrees = 90 degrees clockwise.\n    *   From 0 degrees (current facing), turning 90 degrees clockwise means the robot is now facing 0 + 90 = 90 degrees.\n\nLooking at the directions provided:\n*   North is 0 degrees\n*   East is 90 degrees\n*   South is 180 degrees\n*   West is 270 degrees\n\nThe robot is facing 90 degrees, which corresponds to East.",
+      "hint": "First, identify the number of faces, edges, and vertices for each 3D shape mentioned. Then, calculate each turn in degrees, carefully adding for clockwise turns and subtracting for anti-clockwise turns. Remember to keep track of the robot's current facing direction after each turn, relative to North being 0 degrees.",
+      "generatedAt": "2026-04-29T10:44:57.577289"
+    },
+    {
+      "id": "m-y5-geometry_advanced_006",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A special 'shape-spinner' toy has a central axis. Attached to this axis is a display that can show different flat faces from standard 3D shapes. \n\nInitially, the spinner displays one of the rectangular faces of a cuboid. A cuboid is a 3D shape with 6 faces in total. The spinner makes its first turn, rotating clockwise by exactly one-quarter of a full circle.\n\nAfter this, the spinner automatically changes its display. It now shows one of the triangular faces from a square-based pyramid. A square-based pyramid is a 3D shape with 5 faces in total: one square face and four triangular faces. From its new display and current rotational position, the spinner then makes a second turn. This second turn is exactly half the number of degrees of the first turn, and it rotates anti-clockwise.\n\nYou need to work out two things, showing your working:\n1. What is the total number of degrees the spinner has turned from its very first starting position, and in which direction (clockwise or anti-clockwise)?\n2. Which type of 3D shape's face was being displayed when the spinner made its second turn?",
+      "options": [
+        "A: 45 degrees clockwise, a triangular face",
+        "B: 135 degrees anti-clockwise, a rectangular face",
+        "C: 90 degrees clockwise, a triangular face",
+        "D: 45 degrees anti-clockwise, a square face"
+      ],
+      "correctAnswer": "A: 45 degrees clockwise, a triangular face",
+      "explanation": "Here's the step-by-step working:\n\n**Step 1: Calculate the first turn.**\nA full circle is 360 degrees.\nThe first turn is 'exactly one-quarter of a full circle' in a clockwise direction.\nCalculation: 1/4 * 360 degrees = 90 degrees clockwise.\n\n**Step 2: Calculate the second turn.**\nThe second turn is 'exactly half the number of degrees of the first turn' in an anti-clockwise direction.\nFirst turn was 90 degrees.\nHalf of 90 degrees = 45 degrees anti-clockwise.\n\n**Step 3: Calculate the total (net) turn from the starting position.**\nThe first turn was 90 degrees clockwise.\nThe second turn was 45 degrees anti-clockwise.\nTo find the net turn, we subtract the anti-clockwise turn from the clockwise turn (since they are in opposite directions):\n90 degrees (clockwise) - 45 degrees (anti-clockwise) = 45 degrees (clockwise).\nThe direction of the larger turn determines the overall direction.\n\n**Step 4: Identify the type of face displayed during the second turn.**\nThe question states: 'It now shows one of the triangular faces from a square-based pyramid' when it makes its second turn.\nTherefore, a triangular face was being displayed.\n\n**Conclusion:** The total turn is 45 degrees clockwise, and a triangular face was displayed during the second turn. This matches option A.",
+      "hint": "Remember that a full circle is 360 degrees. Calculate each turn separately, noting its direction (clockwise or anti-clockwise), before working out the total net turn.",
+      "generatedAt": "2026-04-29T10:45:18.196512"
+    },
+    {
+      "id": "m-y5-geometry_advanced_007",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "I am a 3D shape. I have 6 faces, 12 edges, and 8 vertices. All my faces are identical in shape and size. If you were to walk along one of my edges and then turn exactly 90 degrees to your left, staying on the same face, you would be ready to walk along another of my edges.\n\na) What is the name of this 3D shape? (You must show your reasoning for your choice.)\n\nb) Imagine a tiny robot starts at one of the top corners of this shape, facing along one of the edges that runs along the top face. The robot then performs a series of turns:\n    i) First, it turns 180 degrees clockwise.\n    ii) Next, it turns 90 degrees anti-clockwise.\n    iii) Finally, it turns another 270 degrees clockwise.\n    How many degrees in total has the robot effectively turned clockwise from its original starting direction after completing all these turns? (Show your working.)",
+      "options": [],
+      "correctAnswer": "a) Reasoning:\nThe shape has 6 faces, 12 edges, and 8 vertices. This set of properties describes a cuboid.\nThe additional clue \"All my faces are identical in shape and size\" means that all the faces must be squares, making it a regular cuboid.\nThe final clue, \"If you were to walk along one of my edges and then turn exactly 90 degrees to your left, staying on the same face, you would be ready to walk along another of my edges,\" confirms that the internal angles of the faces are all 90 degrees, which is true for a square face. \nTherefore, the 3D shape is a **cube**.\n\nb) Working:\nTo find the total effective turn clockwise, we add all the clockwise turns and subtract any anti-clockwise turns.\nTotal clockwise turns = 180 degrees + 270 degrees = 450 degrees.\nTotal anti-clockwise turns = 90 degrees.\nNet turn = Total clockwise turns - Total anti-clockwise turns\nNet turn = 450 degrees - 90 degrees\nNet turn = 360 degrees clockwise.\nAfter all the turns, the robot has effectively turned a total of **360 degrees clockwise** from its original starting direction.",
+      "explanation": "Part (a) requires students to combine several properties to identify a specific 3D shape. The initial face, edge, and vertex count points to a cuboid. The subsequent conditions about identical faces and the 90-degree turn on a face further specify that the faces must be squares, uniquely identifying the shape as a cube. This requires logical deduction.\n\nPart (b) is a multi-step problem involving angle arithmetic and understanding of 'clockwise' and 'anti-clockwise' directions. Students need to correctly sum the clockwise turns and subtract the anti-clockwise turns to find the net change in orientation. The result of 360 degrees indicates a full rotation back to the starting orientation, which is a key concept in angle measurement.",
+      "hint": "For part (a), consider what type of flat shape must make up the faces of the 3D object, given the angle clue. For part (b), remember that anti-clockwise turns can be thought of as 'negative' clockwise turns when calculating a total.",
+      "generatedAt": "2026-04-29T10:45:42.963805"
+    },
+    {
+      "id": "m-y5-geometry_advanced_008",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A children's building block is a 3D shape with specific features. It has two identical flat ends, and each of these ends is a triangle. The three other flat sides of the block are rectangles. You are told that one of the angles in each triangular end measures 70 degrees, and the other two angles in each triangle are exactly the same size as each other.\n\nA tiny toy car is programmed to drive along the edges around the perimeter of one of these triangular ends. It starts at the vertex (corner) where the 70-degree angle is located. It drives along one edge, then makes a turn at the next vertex to its left to drive along the second edge. At the third vertex, it makes another turn to its left to drive along the third edge, returning to its starting vertex. At this starting vertex, it makes one final turn to its left to complete the circuit, effectively aligning itself as if to continue another lap.\n\nFor 3 marks, working required: What is the total number of degrees the toy car turned throughout its entire journey around this triangular end?",
+      "options": [
+        "180 degrees",
+        "270 degrees",
+        "360 degrees",
+        "540 degrees"
+      ],
+      "correctAnswer": "360 degrees",
+      "explanation": "Step 1: Determine the unknown angles of the triangular end.\nA triangle's angles always add up to 180 degrees. We know one angle is 70 degrees. The other two angles are equal. \nSo, 180 degrees - 70 degrees = 110 degrees.\nThen, 110 degrees / 2 = 55 degrees. \nSo, the angles of the triangular end are 70 degrees, 55 degrees, and 55 degrees.\n\nStep 2: Calculate the amount of turn at each vertex.\nWhen the toy car drives along an edge and then turns to drive along the next edge, the turn it makes is an 'exterior angle' of the triangle. The exterior angle is found by subtracting the interior angle from 180 degrees (because a straight line is 180 degrees).\n\nTurn 1 (at the 55-degree angle vertex): 180 degrees - 55 degrees = 125 degrees.\nTurn 2 (at the other 55-degree angle vertex): 180 degrees - 55 degrees = 125 degrees.\nTurn 3 (at the 70-degree angle vertex, where it returns to the start): 180 degrees - 70 degrees = 110 degrees.\n\nStep 3: Calculate the total number of degrees the toy car turned.\nAdd up all the turns:\n125 degrees + 125 degrees + 110 degrees = 360 degrees.\n\nAlternatively, a key property of any polygon is that the sum of its exterior angles (when consistently turning in one direction, e.g., always left) is always 360 degrees.",
+      "hint": "First, calculate the sizes of all three angles inside the triangular end. Then, think about how a 'turn' at a corner relates to the angle inside that corner.",
+      "generatedAt": "2026-04-29T10:46:06.273973"
+    },
+    {
+      "id": "m-y5-geometry_advanced_009",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A special monument is constructed using two solid 3D shapes. The base of the monument is a cuboid. On top of this cuboid, a square-based pyramid is placed, with its square base perfectly aligned and joined to the top face of the cuboid. \n\n1. How many vertices does the entire monument have? Show your working.\n2. Imagine an ant starts at one of the bottom corners of the cuboid. It walks along an edge to an adjacent bottom corner, then makes a turn to walk along another edge of the cuboid's bottom perimeter. This turn is a right angle. How many more right-angle turns would the ant need to make to complete a full 360-degree circuit along the cuboid's bottom perimeter and return to its exact starting corner? Show your working.\n3. An artist wants to paint the triangular faces of the pyramid. She starts painting one triangular face. From the centre of that face, she turns horizontally to face an adjacent triangular face. If she makes the smallest possible turn to face the next adjacent triangular face, how many degrees would this turn be? Show your working. (Hint: A square-based pyramid has 4 triangular faces.)",
+      "options": [],
+      "correctAnswer": "1. A cuboid has 8 vertices. A square-based pyramid has 5 vertices (4 at the base, 1 at the apex). When the pyramid's base is perfectly aligned and joined to the cuboid's top face, the 4 vertices of the pyramid's base merge with the 4 top vertices of the cuboid.\nTherefore, the number of distinct vertices for the entire monument is:\n(Number of bottom vertices of the cuboid) + (Number of merged top vertices/pyramid base vertices) + (Number of apex vertices of the pyramid)\n= 4 + 4 + 1 = 9 vertices.\n\n2. The ant makes a right-angle turn, which is 90 degrees. A full 360-degree circuit requires 360 degrees of turning in total. \nEach turn is 90 degrees. To find out how many turns are needed for a full circuit, we divide the total degrees by the degrees per turn: 360 degrees ÷ 90 degrees/turn = 4 turns.\nSince the ant has already made one right-angle turn, it needs 4 - 1 = 3 more right-angle turns.\n\n3. A square-based pyramid has 4 triangular faces. To turn from one triangular face to an adjacent one, the artist would effectively be making a fraction of a full turn around the pyramid's central axis. Since there are 4 faces, and they are equally spaced around the pyramid, the turn required to move from one face to the next adjacent one is 1/4 of a full turn. \nA full turn is 360 degrees.\nSo, the smallest possible turn would be 360 degrees ÷ 4 = 90 degrees.",
+      "explanation": "This question requires students to apply their knowledge of 3D shape properties (vertices, faces) and angles (right angles, degrees, full turns) in a multi-step problem. \n\nFor part 1, students must understand how vertices merge when two shapes are joined, requiring careful counting beyond simple addition of individual shape vertices.\n\nFor part 2, students need to relate a 'right angle turn' to 90 degrees and understand that a 'full 360-degree circuit' means a total turn of 360 degrees, then perform a division and subtraction based on the given initial turn.\n\nFor part 3, students must visualise the arrangement of the pyramid's faces and deduce that turning to an adjacent face means covering an equal fraction of a full circle (360 degrees), based on the number of faces.",
+      "hint": "For calculating vertices in part 1, remember to only count vertices that are unique to the combined shape. For part 2, think about how many 90-degree turns make up a full 360-degree rotation. For part 3, consider how many equal parts a full circle can be divided into by the pyramid's faces.",
+      "generatedAt": "2026-04-29T10:46:30.977604"
+    },
+    {
+      "id": "m-y5-geometry_advanced_010",
+      "topicId": "m-y5-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A children's toy block is shaped like a triangular prism. It has two identical triangular faces and three identical rectangular faces. Each triangular face is an isosceles triangle where the angle at the apex (the top vertex) is 30 degrees. All angles in the rectangular faces are right angles.\n\nWhat is the sum of all the *unique* internal angle measures found on the faces of this triangular prism? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the sum of all unique internal angle measures on the faces of the triangular prism, we first need to identify the different types of faces and their angles.\n\n1.  **Identify the faces of a triangular prism:** A triangular prism has two triangular faces and three rectangular faces.\n\n2.  **Calculate angles in the triangular faces:**\n    *   The problem states that each triangular face is an isosceles triangle. This means two of its angles are equal.\n    *   The angle at the apex (the top vertex) is given as 30 degrees.\n    *   We know that the sum of angles in any triangle is 180 degrees.\n    *   So, the sum of the other two equal angles is 180 degrees - 30 degrees = 150 degrees.\n    *   Each of these two equal base angles is 150 degrees / 2 = 75 degrees.\n    *   Therefore, the unique internal angle measures found on the triangular faces are 30 degrees and 75 degrees.\n\n3.  **Identify angles in the rectangular faces:**\n    *   The problem states that all angles in the rectangular faces are right angles.\n    *   A right angle measures 90 degrees.\n    *   Therefore, the unique internal angle measure found on the rectangular faces is 90 degrees.\n\n4.  **List all unique internal angle measures from all faces:**\n    *   From the triangular faces: 30 degrees, 75 degrees.\n    *   From the rectangular faces: 90 degrees.\n    *   The complete list of unique internal angle measures is 30 degrees, 75 degrees, and 90 degrees.\n\n5.  **Calculate the sum of these unique angle measures:**\n    *   Sum = 30 + 75 + 90\n    *   Sum = 105 + 90\n    *   Sum = 195 degrees\n\nThe sum of all the unique internal angle measures found on the faces of this triangular prism is 195 degrees.",
+      "explanation": "The explanation details how to identify the types of faces, calculate the specific angles within each type of face (using knowledge of isosceles triangles and rectangles, and the sum of angles in a triangle), and then how to identify the *unique* angles before summing them up to arrive at the final answer.",
+      "hint": "First, identify the shapes of the two different types of faces on a triangular prism. Then, calculate all the different angle sizes for each of those face shapes, remembering the properties of angles in triangles (sum to 180 degrees) and rectangles (all right angles).",
+      "generatedAt": "2026-04-29T10:46:56.285424"
+    }
+  ]
+}

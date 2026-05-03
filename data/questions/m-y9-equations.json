@@ -1,0 +1,483 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-equations_beginner_001",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the equation: 3(x + 4) = 21",
+      "options": [
+        "x = 3",
+        "x = 7",
+        "x = 11",
+        "x = 15"
+      ],
+      "correctAnswer": "x = 3",
+      "explanation": "Step 1: Divide both sides of the equation by 3 to simplify.\n3(x + 4) / 3 = 21 / 3\nx + 4 = 7\n\nStep 2: Subtract 4 from both sides of the equation to isolate x.\nx + 4 - 4 = 7 - 4\nx = 3",
+      "hint": "You can either start by expanding the bracket or by dividing both sides of the equation by the number outside the bracket.",
+      "generatedAt": "2026-04-30T14:14:51.388066"
+    },
+    {
+      "id": "m-y9-equations_beginner_002",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the following linear equation, showing your working: \n\n5(x + 2) + 7 = 42",
+      "options": [
+        "x = 4",
+        "x = 5",
+        "x = 7",
+        "x = 9"
+      ],
+      "correctAnswer": "x = 5",
+      "explanation": "To solve the equation 5(x + 2) + 7 = 42, we need to isolate 'x'.\n\nStep 1: Subtract 7 from both sides of the equation to remove the constant term outside the bracket.\n5(x + 2) + 7 - 7 = 42 - 7\n5(x + 2) = 35\n\nStep 2: Divide both sides by 5 to remove the multiplier from the bracket.\n(5(x + 2)) / 5 = 35 / 5\nx + 2 = 7\n\nStep 3: Subtract 2 from both sides of the equation to isolate 'x'.\nx + 2 - 2 = 7 - 2\nx = 5\n\nSo, the solution is x = 5.",
+      "hint": "Start by simplifying the equation by dealing with the number that is added or subtracted outside the bracket. Then, address the number multiplying the bracket.",
+      "generatedAt": "2026-04-30T14:15:05.339117"
+    },
+    {
+      "id": "m-y9-equations_beginner_003",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the linear equation: 2(x + 3) = x + 8.",
+      "options": [
+        "x = 2",
+        "x = 5",
+        "x = 1",
+        "x = 14"
+      ],
+      "correctAnswer": "x = 2",
+      "explanation": "To solve the equation 2(x + 3) = x + 8, follow these steps:\n\n1.  **Expand the bracket** on the left side of the equation:\n    2 * x + 2 * 3 = x + 8\n    2x + 6 = x + 8\n\n2.  **Collect the 'x' terms** on one side of the equation. Subtract 'x' from both sides:\n    2x - x + 6 = x - x + 8\n    x + 6 = 8\n\n3.  **Isolate 'x'** by collecting the constant terms on the other side. Subtract '6' from both sides:\n    x + 6 - 6 = 8 - 6\n    x = 2\n\nTherefore, the solution is x = 2.",
+      "hint": "First, use the distributive property to remove the bracket on the left side of the equation.",
+      "generatedAt": "2026-04-30T14:15:32.440532"
+    },
+    {
+      "id": "m-y9-equations_beginner_004",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the following linear equation, showing your working:\n\n20 - 3(x + 4) = 5",
+      "options": [
+        "A) x = 1",
+        "B) x = -1",
+        "C) x = 9",
+        "D) x = -9"
+      ],
+      "correctAnswer": "A) x = 1",
+      "explanation": "To solve the equation 20 - 3(x + 4) = 5:\n\n1.  **Expand the bracket:** Multiply the 3 by each term inside the bracket.\n    3 * x = 3x\n    3 * 4 = 12\n    So, 3(x + 4) becomes (3x + 12). The equation is now: 20 - (3x + 12) = 5\n\n2.  **Distribute the negative sign:** The minus sign in front of the bracket means you subtract the entire expanded expression. This changes the sign of each term inside the bracket.\n    20 - 3x - 12 = 5\n\n3.  **Combine constant terms:** Group and calculate the constant numbers on the left side.\n    (20 - 12) - 3x = 5\n    8 - 3x = 5\n\n4.  **Isolate the term with x:** Subtract 8 from both sides of the equation to move the constant to the right side.\n    8 - 3x - 8 = 5 - 8\n    -3x = -3\n\n5.  **Solve for x:** Divide both sides by -3.\n    -3x / -3 = -3 / -3\n    x = 1\n\nTherefore, the correct answer is x = 1.",
+      "hint": "First, expand the bracket carefully by multiplying the -3 by each term inside. Remember that the minus sign applies to both terms when you expand.",
+      "generatedAt": "2026-04-30T14:16:21.581084"
+    },
+    {
+      "id": "m-y9-equations_beginner_005",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "When 3 is added to a number, x, and the result is multiplied by 5, the answer is 23 more than the original number, x. Find the value of x. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Formulate the equation from the word problem.\n'3 is added to a number, x' can be written as (x + 3).\n'the result is multiplied by 5' means 5(x + 3).\n'the answer is 23 more than the original number, x' means x + 23.\nSo the equation is: 5(x + 3) = x + 23\n\nStep 2: Expand the bracket.\n5 * x + 5 * 3 = x + 23\n5x + 15 = x + 23\n\nStep 3: Collect x terms on one side.\nSubtract x from both sides:\n5x - x + 15 = 23\n4x + 15 = 23\n\nStep 4: Collect constant terms on the other side.\nSubtract 15 from both sides:\n4x = 23 - 15\n4x = 8\n\nStep 5: Solve for x.\nDivide both sides by 4:\nx = 8 / 4\nx = 2\n\nTherefore, the value of x is 2.",
+      "explanation": "The problem requires translating a word problem into a linear equation, then solving it. The first step is to correctly set up the equation, which involves using brackets to represent 'the result' of an operation before it is multiplied. Once the equation is formed, expand any brackets present. Then, rearrange the equation to gather all terms involving x on one side and all constant terms on the other side. Finally, divide by the coefficient of x to find its value.",
+      "hint": "First, translate the word problem into an algebraic equation. Remember to use brackets correctly when 'the result' of an operation is then multiplied.",
+      "generatedAt": "2026-04-30T14:17:05.250006"
+    },
+    {
+      "id": "m-y9-equations_beginner_006",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the linear equation: 2(x + 4) + x = 20.",
+      "options": [
+        "A: x = 4",
+        "B: x = 6",
+        "C: x = 16/3",
+        "D: x = -4"
+      ],
+      "correctAnswer": "A: x = 4",
+      "explanation": "To solve the equation 2(x + 4) + x = 20, follow these steps:\n\n1.  **Expand the brackets:** Multiply the 2 by each term inside the bracket.\n    2 * x = 2x\n    2 * 4 = 8\n    So the equation becomes: 2x + 8 + x = 20\n\n2.  **Collect like terms:** Combine the 'x' terms on the left side of the equation.\n    2x + x = 3x\n    So the equation becomes: 3x + 8 = 20\n\n3.  **Isolate the term with 'x':** Subtract 8 from both sides of the equation.\n    3x + 8 - 8 = 20 - 8\n    3x = 12\n\n4.  **Solve for 'x':** Divide both sides by 3.\n    3x / 3 = 12 / 3\n    x = 4\n\nTherefore, the correct answer is x = 4.",
+      "hint": "First, use the distributive property to expand the brackets. Then, combine any like terms before isolating the variable on one side of the equation.",
+      "generatedAt": "2026-04-30T14:17:37.870056"
+    },
+    {
+      "id": "m-y9-equations_beginner_007",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A rectangle has a length of (x + 3) cm and a width of 4 cm. The perimeter of the rectangle is 26 cm. Calculate the value of x. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "The formula for the perimeter of a rectangle is P = 2(length + width).\nGiven length = (x + 3) cm, width = 4 cm, and perimeter P = 26 cm.\n\nSubstitute the values into the formula:\n26 = 2((x + 3) + 4)\n\nFirst, simplify inside the bracket:\n26 = 2(x + 7)\n\nNow, to solve for x, divide both sides by 2:\n26 ÷ 2 = x + 7\n13 = x + 7\n\nSubtract 7 from both sides:\n13 - 7 = x\nx = 6",
+      "explanation": "The problem is solved by first writing down the formula for the perimeter of a rectangle. Then, substitute the given algebraic expression for the length and the numerical value for the width into the formula, equating it to the given total perimeter. This creates a linear equation involving brackets, which is then simplified and solved step-by-step using inverse operations to find the value of x.",
+      "hint": "Start by recalling the formula for the perimeter of a rectangle. Use the given length and width to set up an equation for the perimeter.",
+      "generatedAt": "2026-04-30T14:17:49.846270"
+    },
+    {
+      "id": "m-y9-equations_beginner_008",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Solve the following linear equation, showing your working:\n\n4(x - 3) + 5 = 21",
+      "options": [
+        "x = 4",
+        "x = 7",
+        "x = 9",
+        "x = 12"
+      ],
+      "correctAnswer": "x = 7",
+      "explanation": "To solve the equation 4(x - 3) + 5 = 21, follow these steps:\n\n1.  **Expand the bracket:** Multiply 4 by each term inside the bracket.\n    4 * x - 4 * 3 = 4x - 12\n    The equation now is: 4x - 12 + 5 = 21\n\n2.  **Combine the constant terms:** Combine the numbers without 'x' on the left side.\n    -12 + 5 = -7\n    The equation simplifies to: 4x - 7 = 21\n\n3.  **Isolate the term with x:** Add 7 to both sides of the equation to move the constant to the right side.\n    4x - 7 + 7 = 21 + 7\n    4x = 28\n\n4.  **Solve for x:** Divide both sides by 4 to find the value of x.\n    x = 28 / 4\n    x = 7\n\nTherefore, the correct answer is x = 7.",
+      "hint": "Remember to use the distributive property to expand the bracket first. Then, combine any constant terms before isolating the variable 'x'.",
+      "generatedAt": "2026-04-30T14:18:07.460353"
+    },
+    {
+      "id": "m-y9-equations_beginner_009",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Find the value of x in the equation 2(x + 5) + 3 = 17. Show your working to earn full marks.",
+      "options": [
+        "x = 2",
+        "x = 4.5",
+        "x = 8",
+        "x = 15"
+      ],
+      "correctAnswer": "x = 2",
+      "explanation": "To solve the equation 2(x + 5) + 3 = 17:\n\n1.  **Expand the bracket:** Multiply the number outside the bracket (2) by each term inside the bracket (x and 5).\n    2 * x + 2 * 5 + 3 = 17\n    2x + 10 + 3 = 17\n\n2.  **Combine like terms:** Add the constant numbers on the left side of the equation.\n    2x + 13 = 17\n\n3.  **Isolate the term with x:** Subtract 13 from both sides of the equation to move the constant to the right side.\n    2x + 13 - 13 = 17 - 13\n    2x = 4\n\n4.  **Solve for x:** Divide both sides by 2 to find the value of x.\n    2x / 2 = 4 / 2\n    x = 2\n\nTherefore, the value of x is 2.",
+      "hint": "First, use the distributive property to expand the bracket. Remember to multiply the number outside by EVERY term inside the bracket.",
+      "generatedAt": "2026-04-30T14:18:27.534253"
+    },
+    {
+      "id": "m-y9-equations_beginner_010",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A student is asked to determine the value of x that satisfies the equation `2(x - 6) + 5 = 15`. What should their final answer for x be?",
+      "options": [
+        "x = 8",
+        "x = 11",
+        "x = 14",
+        "x = 20"
+      ],
+      "correctAnswer": "x = 11",
+      "explanation": "To solve the equation `2(x - 6) + 5 = 15`, follow these steps:\n\n1.  First, subtract 5 from both sides of the equation to isolate the term with the brackets:\n    `2(x - 6) + 5 - 5 = 15 - 5`\n    `2(x - 6) = 10`\n\n2.  Next, divide both sides by 2 to remove the multiplication outside the brackets:\n    `2(x - 6) / 2 = 10 / 2`\n    `x - 6 = 5`\n\n3.  Finally, add 6 to both sides to find the value of x:\n    `x - 6 + 6 = 5 + 6`\n    `x = 11`\n\nTherefore, the correct value for x is 11.",
+      "hint": "Begin by performing the inverse operations on the constants outside the brackets to isolate the term with x.",
+      "generatedAt": "2026-04-30T14:18:54.254552"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-equations_intermediate_001",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Solve the equation `5(2x - 7) = 15`. Show your working.",
+      "options": [
+        "x = 5",
+        "x = 11",
+        "x = -2",
+        "x = 10"
+      ],
+      "correctAnswer": "x = 5",
+      "explanation": "There are two main methods to solve this equation:\n\n**Method 1: Divide first**\n1. Divide both sides of the equation by 5 to remove the multiplication outside the bracket:\n   `5(2x - 7) / 5 = 15 / 5`\n   `2x - 7 = 3`\n2. Add 7 to both sides of the equation to isolate the term with x:\n   `2x - 7 + 7 = 3 + 7`\n   `2x = 10`\n3. Divide both sides by 2 to solve for x:\n   `2x / 2 = 10 / 2`\n   `x = 5`\n\n**Method 2: Expand the bracket first**\n1. Multiply each term inside the bracket by 5:\n   `5 * 2x - 5 * 7 = 15`\n   `10x - 35 = 15`\n2. Add 35 to both sides of the equation to isolate the term with x:\n   `10x - 35 + 35 = 15 + 35`\n   `10x = 50`\n3. Divide both sides by 10 to solve for x:\n   `10x / 10 = 50 / 10`\n   `x = 5`\n\nBoth methods lead to the same correct answer, `x = 5`.",
+      "hint": "Consider whether it's easier to expand the bracket first or to divide both sides of the equation by the number outside the bracket first. Both methods will lead to the correct answer.",
+      "generatedAt": "2026-04-30T14:19:12.482748"
+    },
+    {
+      "id": "m-y9-equations_intermediate_002",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The perimeter of a rectangle is 52 cm. The length of the rectangle is given by the expression `3(x + 1)` cm and the width is given by the expression `(x - 2)` cm. Calculate the value of x. Show your working.",
+      "options": [
+        "A) x = 6.25",
+        "B) x = 12.75",
+        "C) x = 6.75",
+        "D) x = 5.25"
+      ],
+      "correctAnswer": "A) x = 6.25",
+      "explanation": "The formula for the perimeter of a rectangle is P = 2(Length + Width).\nGiven:\nPerimeter (P) = 52 cm\nLength = `3(x + 1)` cm\nWidth = `(x - 2)` cm\n\nSubstitute the given expressions into the perimeter formula:\n52 = 2 [ `3(x + 1)` + `(x - 2)` ]\n\nFirst, expand the term for the length:\n`3(x + 1)` = `3x + 3`\n\nNow substitute this expanded term back into the equation:\n52 = 2 [ `(3x + 3)` + `(x - 2)` ]\n\nCombine the like terms inside the square brackets:\n`(3x + x)` + `(3 - 2)` = `4x + 1`\n\nThe equation now simplifies to:\n52 = 2(`4x + 1`)\n\nNext, expand the right side of the equation:\n52 = `8x + 2`\n\nTo isolate the term with x, subtract 2 from both sides of the equation:\n`52 - 2` = `8x`\n`50` = `8x`\n\nFinally, divide both sides by 8 to solve for x:\nx = `50 / 8`\nx = `25 / 4`\nx = `6.25`",
+      "hint": "Remember the formula for the perimeter of a rectangle and substitute the given expressions for length and width. Make sure to expand all brackets carefully before collecting like terms.",
+      "generatedAt": "2026-04-30T14:21:07.067879"
+    },
+    {
+      "id": "m-y9-equations_intermediate_003",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Alice is 'x' years old. Ben is 3 years older than Alice. Carol is twice Ben's age. The sum of their ages is 53 years. Calculate Alice's age. Show your working.",
+      "options": [
+        "10 years",
+        "11 years",
+        "12 years",
+        "14 years"
+      ],
+      "correctAnswer": "11 years",
+      "explanation": "Let Alice's age be 'x' years.\nBen's age is 3 years older than Alice, so Ben's age = x + 3.\nCarol's age is twice Ben's age, so Carol's age = 2(x + 3).\n\nThe sum of their ages is 53 years. So, we form the equation:\nAlice's age + Ben's age + Carol's age = 53\nx + (x + 3) + 2(x + 3) = 53\n\nFirst, expand the bracket:\nx + x + 3 + 2x + 6 = 53\n\nNext, collect the like terms (the 'x' terms and the constant terms):\n(x + x + 2x) + (3 + 6) = 53\n4x + 9 = 53\n\nNow, solve the two-step linear equation for 'x':\nSubtract 9 from both sides of the equation:\n4x = 53 - 9\n4x = 44\n\nDivide both sides by 4:\nx = 44 / 4\nx = 11\n\nSo, Alice's age is 11 years.",
+      "hint": "Represent each person's age using 'x' for Alice's age. Then, form an equation where the sum of their ages equals the given total.",
+      "generatedAt": "2026-04-30T17:06:34.093728"
+    },
+    {
+      "id": "m-y9-equations_intermediate_004",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Solve the following linear equation, showing all your working:\n\n`3(x + 4) = 2(2x - 1)`",
+      "options": [
+        "x = 6",
+        "x = 10",
+        "x = 14",
+        "x = 2"
+      ],
+      "correctAnswer": "x = 14",
+      "explanation": "To solve the equation `3(x + 4) = 2(2x - 1)`:\n\nStep 1: Expand the brackets on both sides of the equation.\n`3 * x + 3 * 4 = 2 * 2x - 2 * 1`\n`3x + 12 = 4x - 2`\n\nStep 2: Collect all the 'x' terms on one side and constant terms on the other side. It's generally easier to move the 'x' term with the smaller coefficient to avoid negative 'x' terms.\nSubtract `3x` from both sides:\n`3x + 12 - 3x = 4x - 2 - 3x`\n`12 = x - 2`\n\nStep 3: Isolate 'x' by adding `2` to both sides:\n`12 + 2 = x - 2 + 2`\n`14 = x`\n\nTherefore, `x = 14`.",
+      "hint": "Begin by expanding the brackets on both sides of the equation. Remember to multiply every term inside each bracket by the number outside it. After expanding, gather all the 'x' terms on one side and all the constant terms on the other side to solve for x.",
+      "generatedAt": "2026-04-30T17:06:47.065938"
+    },
+    {
+      "id": "m-y9-equations_intermediate_005",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Three numbers are defined in terms of a variable, `x`. The first number is `4(x + 2)`. The second number is `3(x - 1)`. The third number is `2x + 15`. If the sum of the first and second numbers is equal to the third number, what is the value of `x`? Show your working.",
+      "options": [
+        "A. x = 2",
+        "B. x = 4",
+        "C. x = 0.8",
+        "D. x = -4"
+      ],
+      "correctAnswer": "A. x = 2",
+      "explanation": "Let the first number be N1, the second number be N2, and the third number be N3.\nGiven:\nN1 = `4(x + 2)`\nN2 = `3(x - 1)`\nN3 = `2x + 15`\n\nThe problem states that the sum of the first and second numbers is equal to the third number. We can write this as an equation:\nN1 + N2 = N3\n`4(x + 2) + 3(x - 1) = 2x + 15`\n\nStep 1: Expand the brackets on the left side of the equation.\n`4 * x + 4 * 2 + 3 * x + 3 * (-1) = 2x + 15`\n`4x + 8 + 3x - 3 = 2x + 15`\n\nStep 2: Collect like terms on the left side of the equation.\n`(4x + 3x) + (8 - 3) = 2x + 15`\n`7x + 5 = 2x + 15`\n\nStep 3: Isolate the terms involving 'x' on one side of the equation. Subtract `2x` from both sides.\n`7x - 2x + 5 = 15`\n`5x + 5 = 15`\n\nStep 4: Isolate the constant terms on the other side of the equation. Subtract `5` from both sides.\n`5x = 15 - 5`\n`5x = 10`\n\nStep 5: Solve for `x` by dividing both sides by `5`.\n`x = 10 / 5`\n`x = 2`\n\nTherefore, the value of `x` is 2.",
+      "hint": "First, write down the equation that represents the given relationship between the three numbers. Then, expand any brackets, collect like terms on each side, and finally, rearrange the equation to solve for 'x'.",
+      "generatedAt": "2026-04-30T17:07:06.370907"
+    },
+    {
+      "id": "m-y9-equations_intermediate_006",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "When a particular number is multiplied by 3 and then 7 is added to the result, the value obtained is the same as when the original number is decreased by 2 and that new result is multiplied by 4. Find the original number. Show your working.",
+      "options": [
+        "9",
+        "15",
+        "-1",
+        "1"
+      ],
+      "correctAnswer": "15",
+      "explanation": "Let the original number be 'x'.\n\nFirst part of the statement: \"multiplied by 3 and then 7 is added to the result\" can be written as `3x + 7`.\n\nSecond part of the statement: \"original number is decreased by 2 and that new result is multiplied by 4\" can be written as `4(x - 2)`.\n\nThe problem states that these two values are the same, so we can set up the equation:\n`3x + 7 = 4(x - 2)`\n\nNow, solve the equation:\n1. Expand the bracket on the right side:\n   `3x + 7 = 4x - 8`\n\n2. Gather the 'x' terms on one side and the constant terms on the other side. Subtract `3x` from both sides:\n   `7 = 4x - 3x - 8`\n   `7 = x - 8`\n\n3. Add 8 to both sides to isolate 'x':\n   `7 + 8 = x`\n   `15 = x`\n\nSo, the original number is 15.",
+      "hint": "Start by representing the unknown number with a variable (e.g., 'x'). Then, translate each part of the word problem into an algebraic expression and set them equal to each other. Remember to expand any brackets carefully when solving.",
+      "generatedAt": "2026-04-30T17:07:19.756549"
+    },
+    {
+      "id": "m-y9-equations_intermediate_007",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A stationery shop sells pens and pencils. A pen costs £x. A pencil costs £2 less than a pen. Sarah buys 4 pens and 3 pencils. The total cost of her purchase is £19. Find the cost of one pen.",
+      "options": [],
+      "correctAnswer": "First, define the cost of a pencil in terms of x:\nCost of one pen = £x\nCost of one pencil = £(x - 2)\n\nNext, set up an equation for the total cost:\nCost of 4 pens = 4 * £x = £4x\nCost of 3 pencils = 3 * £(x - 2) = £3(x - 2)\n\nTotal cost = Cost of 4 pens + Cost of 3 pencils\n£19 = £4x + £3(x - 2)\n\nNow, solve the equation:\n19 = 4x + 3x - 6  (Expand the bracket)\n19 = 7x - 6        (Collect like terms)\n19 + 6 = 7x        (Add 6 to both sides)\n25 = 7x\nx = 25 / 7\n\nSince this is money, we typically round to two decimal places:\nx ≈ 3.5714...\nx ≈ £3.57\n\nTherefore, the cost of one pen is £3.57.",
+      "explanation": "The problem requires setting up a linear equation from a word problem and then solving it. The first step is to define the cost of a pencil using the given information, which is £(x-2). Then, an equation is formed by multiplying the number of pens by their cost and the number of pencils by their cost, and summing these to the total cost (£19). This results in an equation with brackets: 4x + 3(x-2) = 19. The equation is then solved by expanding the bracket, collecting like terms (4x + 3x = 7x), isolating the x term, and finally dividing to find the value of x. The final answer is rounded to two decimal places as it represents money.",
+      "hint": "Start by writing an algebraic expression for the cost of a pencil in terms of 'x'. Then, form an equation that represents the total cost of Sarah's purchase using these expressions.",
+      "generatedAt": "2026-04-30T17:07:36.691968"
+    },
+    {
+      "id": "m-y9-equations_intermediate_008",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A rectangle has a length expressed as `3(x + 2)` cm and a width expressed as `(x + 5)` cm. The perimeter of the rectangle is 62 cm.\n\na) Form an equation for the perimeter of the rectangle in terms of `x`.\nb) Solve your equation to find the value of `x`. Show all your working.\nc) Calculate the actual length and width of the rectangle.",
+      "options": [],
+      "correctAnswer": "a) The formula for the perimeter of a rectangle is P = 2(Length + Width).\nSubstituting the given expressions:\n62 = 2 * [ `3(x + 2)` + `(x + 5)` ]\n\nb) To solve the equation:\n62 = 2 * [ `3(x + 2)` + `(x + 5)` ]\nDivide both sides by 2:\n31 = `3(x + 2)` + `(x + 5)`\nExpand the brackets:\n31 = `3x + 6` + `x + 5`\nCollect like terms (`x` terms and constant terms):\n31 = `4x + 11`\nSubtract 11 from both sides:\n31 - 11 = `4x`\n20 = `4x`\nDivide both sides by 4:\n`x = 5`\n\nc) Now substitute `x = 5` into the expressions for length and width:\nLength = `3(x + 2)` = `3(5 + 2)` = `3(7)` = `21` cm\nWidth = `(x + 5)` = `(5 + 5)` = `10` cm\n\nFinal Answer: a) `62 = 2(3(x + 2) + (x + 5))`, b) `x = 5`, c) Length = `21` cm, Width = `10` cm",
+      "explanation": "Part (a) requires knowing the perimeter formula P = 2(L+W) and substituting the algebraic expressions for length and width. This forms the initial linear equation.\nPart (b) involves solving this multi-step equation. The first step is to simplify the equation, often by dividing by 2 or expanding brackets. Then, the brackets are expanded using the distributive property. Next, like terms (x terms and constant terms) are collected. Finally, inverse operations (subtraction, then division) are used to isolate `x` and find its value.\nPart (c) requires substituting the found value of `x` back into the original expressions for length and width to calculate their numerical values.",
+      "hint": "Remember the formula for the perimeter of a rectangle and how to expand brackets. Collect like terms before isolating the variable.",
+      "generatedAt": "2026-04-30T17:07:58.403791"
+    },
+    {
+      "id": "m-y9-equations_intermediate_009",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A local community group raised money through donations. They received donations from 5 individual supporters and 3 corporate sponsors. Each individual supporter donated £x. Each corporate sponsor donated £(x + 20). The total amount of money raised was £370. Calculate the amount, in pounds, that each individual supporter donated. Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the amount an individual supporter donated be £x.\nTotal from 5 individual supporters = 5 × £x = £5x.\n\nEach corporate sponsor donated £(x + 20).\nTotal from 3 corporate sponsors = 3 × £(x + 20) = £3(x + 20).\n\nThe total amount of money raised is £370.\nSo, we can set up the equation:\n5x + 3(x + 20) = 370\n\nExpand the bracket:\n5x + 3x + 60 = 370\n\nCombine like terms:\n8x + 60 = 370\n\nSubtract 60 from both sides:\n8x = 370 - 60\n8x = 310\n\nDivide by 8:\nx = 310 / 8\nx = 38.75\n\nTherefore, each individual supporter donated £38.75.",
+      "explanation": "The problem requires you to first represent the total donations from individuals and corporate sponsors as algebraic expressions involving 'x'. The sum of these expressions forms a linear equation, which you then need to solve by expanding brackets, collecting like terms, and isolating 'x' to find the amount donated by each individual supporter.",
+      "hint": "Start by writing an expression for the total money raised by individual supporters and another expression for the total money raised by corporate sponsors. Then, form an equation by adding these two expressions and setting them equal to the total amount raised.",
+      "generatedAt": "2026-04-30T17:08:31.837249"
+    },
+    {
+      "id": "m-y9-equations_intermediate_010",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "In a mathematics competition, a participant's score for Problem 1 is given by the expression `3(x + 4) - 5`. Their score for Problem 2 is given by the expression `2x + 10`. If the participant achieves the same score for both problems, what is the value of `x`? Show your working.",
+      "options": [
+        "x = 3",
+        "x = 12",
+        "x = -3",
+        "x = 5"
+      ],
+      "correctAnswer": "x = 3",
+      "explanation": "To find the value of x, we need to set the two expressions for the scores equal to each other:\n\n1.  **Set up the equation:**\n    `3(x + 4) - 5 = 2x + 10`\n\n2.  **Expand the bracket on the left side:**\n    `3 * x + 3 * 4 - 5 = 2x + 10`\n    `3x + 12 - 5 = 2x + 10`\n\n3.  **Simplify the left side by combining the constant terms:**\n    `3x + 7 = 2x + 10`\n\n4.  **Gather x terms on one side (e.g., subtract 2x from both sides):**\n    `3x - 2x + 7 = 10`\n    `x + 7 = 10`\n\n5.  **Isolate x by subtracting 7 from both sides:**\n    `x = 10 - 7`\n    `x = 3`\n\nThus, the value of x is 3.",
+      "hint": "First, form an equation by setting the two score expressions equal to each other. Then, remember to expand any brackets before collecting like terms on each side and finally isolating the variable 'x'.",
+      "generatedAt": "2026-04-30T17:08:43.672267"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-equations_advanced_001",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Amelia is 3 years older than Ben. Chloe is twice as old as Ben. In 4 years' time, the sum of their ages will be 71. Calculate Ben's current age. You must show all your working.",
+      "options": [],
+      "correctAnswer": "Let Ben's current age be 'x' years.\nAmelia's current age: x + 3 years.\nChloe's current age: 2x years.\n\nIn 4 years' time:\nBen's age will be x + 4 years.\nAmelia's age will be (x + 3) + 4 = x + 7 years.\nChloe's age will be 2x + 4 years.\n\nThe sum of their ages in 4 years' time is 71:\n(x + 4) + (x + 7) + (2x + 4) = 71\n\nCombine like terms:\nx + x + 2x + 4 + 7 + 4 = 71\n4x + 15 = 71\n\nSubtract 15 from both sides:\n4x = 71 - 15\n4x = 56\n\nDivide by 4:\nx = 56 / 4\nx = 14\n\nBen's current age is 14 years.",
+      "explanation": "To solve this problem, first define Ben's current age as a variable. Then, express Amelia's and Chloe's current ages in terms of this variable. The crucial next step is to calculate each person's age in 4 years by adding 4 to their current age expressions. Finally, sum these future age expressions and set them equal to 71 to form a linear equation. Solve this multi-step equation by expanding brackets (if necessary, though in this case they just clarify), collecting like terms, and isolating the variable.",
+      "hint": "Start by defining Ben's current age as a variable, then express Amelia's and Chloe's current ages in terms of that variable. Remember to consider their ages in 4 years' time before forming the equation.",
+      "generatedAt": "2026-04-30T17:09:00.772456"
+    },
+    {
+      "id": "m-y9-equations_advanced_002",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Rectangle A has a length expressed as (3x - 5) cm and a width expressed as (x + 2) cm. Rectangle B has a length expressed as (2x + 1) cm and a width expressed as (x + 4) cm. Given that the perimeter of Rectangle A is equal to the perimeter of Rectangle B, find the value of x. Show all your working. After finding x, calculate the area of Rectangle A. Show all your working for the area calculation.",
+      "options": [],
+      "correctAnswer": "Step 1: Write expressions for the perimeters.\nPerimeter of Rectangle A:\nP_A = 2 * ((3x - 5) + (x + 2))\nP_A = 2 * (4x - 3)\nP_A = 8x - 6\n\nPerimeter of Rectangle B:\nP_B = 2 * ((2x + 1) + (x + 4))\nP_B = 2 * (3x + 5)\nP_B = 6x + 10\n\nStep 2: Set the perimeters equal and solve for x.\nP_A = P_B\n8x - 6 = 6x + 10\nSubtract 6x from both sides:\n2x - 6 = 10\nAdd 6 to both sides:\n2x = 16\nDivide by 2:\nx = 8\n\nStep 3: Calculate the dimensions of Rectangle A using x = 8.\nLength of Rectangle A = 3x - 5 = 3(8) - 5 = 24 - 5 = 19 cm\nWidth of Rectangle A = x + 2 = 8 + 2 = 10 cm\n\nStep 4: Calculate the area of Rectangle A.\nArea of Rectangle A = Length * Width\nArea_A = 19 cm * 10 cm\nArea_A = 190 cm^2",
+      "explanation": "The problem requires setting up algebraic expressions for the perimeters of two rectangles, equating them to form a linear equation, solving this equation for 'x', and then substituting 'x' back into the expressions for Rectangle A's dimensions to calculate its area. This combines knowledge of perimeter and area formulas with advanced multi-step equation solving.",
+      "hint": "First, write down the algebraic expression for the perimeter of each rectangle. Remember the formula for the perimeter of a rectangle is 2 * (length + width). Then, set these two expressions equal to each other to form an equation.",
+      "generatedAt": "2026-04-30T17:09:15.391260"
+    },
+    {
+      "id": "m-y9-equations_advanced_003",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A craft shop sells three types of decorative boxes: small, medium, and large. The cost of a small box is £x. The cost of a medium box is £(2x - 3). The cost of a large box is £(x + 7).\n\nOn a particular day, the shop sold 5 small boxes, 3 medium boxes, and 2 large boxes.\nThe total revenue generated from selling the medium and large boxes combined was exactly £35 more than the total revenue generated from selling only the small boxes.\n\nCalculate the cost of one large box. Show all your working.",
+      "options": [
+        "£10",
+        "£15",
+        "£17",
+        "£23"
+      ],
+      "correctAnswer": "£17",
+      "explanation": "Let x be the cost of a small box.\nCost of a small box = £x\nCost of a medium box = £(2x - 3)\nCost of a large box = £(x + 7)\n\nRevenue from 5 small boxes = 5 * x = 5x\nRevenue from 3 medium boxes = 3 * (2x - 3) = 6x - 9\nRevenue from 2 large boxes = 2 * (x + 7) = 2x + 14\n\nThe total revenue from medium and large boxes combined is (6x - 9) + (2x + 14). \nThis simplifies to 8x + 5.\n\nAccording to the problem, this total revenue is £35 more than the revenue from small boxes:\n8x + 5 = 5x + 35\n\nNow, solve the linear equation for x:\nSubtract 5x from both sides: \n8x - 5x + 5 = 35\n3x + 5 = 35\n\nSubtract 5 from both sides:\n3x = 35 - 5\n3x = 30\n\nDivide by 3:\nx = 30 / 3\nx = 10\n\nThe question asks for the cost of one large box. \nCost of a large box = £(x + 7)\nSubstitute the value of x = 10 into the expression:\nCost of a large box = £(10 + 7) = £17.\n\nTherefore, the cost of one large box is £17.",
+      "hint": "First, write down expressions for the revenue generated by each type of box sold. Then, set up an equation that represents the given relationship between these revenues and solve for x. Finally, use the value of x to find the cost of a large box.",
+      "generatedAt": "2026-04-30T17:09:50.343572"
+    },
+    {
+      "id": "m-y9-equations_advanced_004",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Liam, Maya, and Noah are collecting stamps. \nLiam has a certain number of stamps. \nMaya has 6 fewer stamps than twice the number Liam has. \nNoah has 5 more stamps than half the number of stamps Maya has. \nThe total number of stamps collected by all three is 96. \nHow many stamps does Maya have? Show all your working.",
+      "options": [
+        "44",
+        "25",
+        "27",
+        "41"
+      ],
+      "correctAnswer": "44",
+      "explanation": "Let 'x' be the number of stamps Liam has.\n\n1.  **Express Maya's stamps in terms of x:**\n    Maya has 6 fewer stamps than twice Liam's, so Maya has `2x - 6` stamps.\n\n2.  **Express Noah's stamps in terms of Maya's (and then x):**\n    Noah has 5 more stamps than half of Maya's. \n    Half of Maya's stamps is `(1/2)(2x - 6)`.\n    Simplifying this: `(1/2)(2x) - (1/2)(6) = x - 3`.\n    Noah has 5 more than this, so Noah has `(x - 3) + 5 = x + 2` stamps.\n\n3.  **Set up the total equation:**\n    The total number of stamps is the sum of Liam's, Maya's, and Noah's stamps, which is 96.\n    Liam + Maya + Noah = 96\n    `x + (2x - 6) + (x + 2) = 96`\n\n4.  **Solve the linear equation for x:**\n    Combine like terms:\n    `(x + 2x + x) + (-6 + 2) = 96`\n    `4x - 4 = 96`\n    Add 4 to both sides:\n    `4x = 96 + 4`\n    `4x = 100`\n    Divide by 4:\n    `x = 100 / 4`\n    `x = 25`\n    So, Liam has 25 stamps.\n\n5.  **Find the number of stamps Maya has:**\n    The question asks for Maya's stamps, which is `2x - 6`.\n    Substitute the value of x (25) into Maya's expression:\n    Maya = `2(25) - 6`\n    Maya = `50 - 6`\n    Maya = `44`\n\nTherefore, Maya has 44 stamps.",
+      "hint": "Start by defining a variable for Liam's stamps, then express Maya's and Noah's stamps in terms of this variable. Formulate a single equation based on the total number of stamps.",
+      "generatedAt": "2026-04-30T17:10:16.035946"
+    },
+    {
+      "id": "m-y9-equations_advanced_005",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A car rental service offers two daily pricing plans.\n\nPlan X charges a fixed fee of £25 plus £0.20 for every kilometre driven.\nPlan Y charges a fixed fee of £15 plus £0.15 for every kilometre driven.\n\nOn a particular day, a customer drove a certain number of kilometres, `k`. The total cost for Plan X was exactly £10 less than twice the total cost for Plan Y.\n\nCalculate the number of kilometres, `k`, driven by the customer. Show your working.",
+      "options": [],
+      "correctAnswer": "Let `C_X` be the total cost for Plan X and `C_Y` be the total cost for Plan Y.\n\nFrom the problem description:\nCost for Plan X: `C_X = 25 + 0.20k`\nCost for Plan Y: `C_Y = 15 + 0.15k`\n\nThe relationship given is: The total cost for Plan X was exactly £10 less than twice the total cost for Plan Y.\nThis can be written as: `C_X = 2 * C_Y - 10`\n\nNow, substitute the expressions for `C_X` and `C_Y` into this equation:\n`25 + 0.20k = 2 * (15 + 0.15k) - 10`\n\nExpand the bracket on the right side:\n`25 + 0.20k = (2 * 15) + (2 * 0.15k) - 10`\n`25 + 0.20k = 30 + 0.30k - 10`\n\nSimplify the right side by combining the constant terms:\n`25 + 0.20k = 20 + 0.30k`\n\nNow, collect terms involving `k` on one side and constant terms on the other side. Subtract `0.20k` from both sides:\n`25 = 20 + 0.30k - 0.20k`\n`25 = 20 + 0.10k`\n\nSubtract `20` from both sides:\n`25 - 20 = 0.10k`\n`5 = 0.10k`\n\nTo find `k`, divide both sides by `0.10`:\n`k = 5 / 0.10`\n`k = 50`\n\nSo, the customer drove 50 kilometres.",
+      "explanation": "The problem requires setting up algebraic expressions for the costs of two different plans (Plan X and Plan Y) based on a number of kilometres driven, `k`. Then, an equation is formed by relating these two costs according to the given condition: 'The total cost for Plan X was exactly £10 less than twice the total cost for Plan Y'. This translates to `Cost_X = 2 * Cost_Y - 10`. The subsequent steps involve substituting the expressions, expanding brackets, simplifying, and rearranging the linear equation to solve for `k`.",
+      "hint": "Start by writing an algebraic expression for the total cost of Plan X and another for Plan Y, both in terms of `k`. Then, use the given relationship between the two total costs to form a linear equation.",
+      "generatedAt": "2026-04-30T17:10:39.190699"
+    },
+    {
+      "id": "m-y9-equations_advanced_006",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A logistics company manages a stock of identical components stored in several identical crates. Each crate initially contains an unknown number of components, denoted by 'x'.\n\nOn Monday morning, 7 of these crates are opened. From each of these 7 opened crates, 10 components are carefully removed for inspection. The remaining components from these 7 opened crates are then consolidated and combined with the entire contents of 3 other *unopened* crates.\n\nFinally, this entire combined quantity of components is equally distributed into 4 large industrial bins. It is found that each of these large bins now contains exactly 110 components.\n\nDetermine the original number of components, 'x', in one crate. Show your working.",
+      "options": [],
+      "correctAnswer": "Let 'x' be the original number of components in one crate.\n\n1.  **Components from the 7 opened crates:**\n    Each of these 7 crates originally had 'x' components. After removing 10 components from each, each crate now has (x - 10) components.\n    So, the total components from these 7 crates are: 7 * (x - 10)\n\n2.  **Components from the 3 unopened crates:**\n    Each of these 3 crates still contains 'x' components.\n    So, the total components from these 3 crates are: 3 * x\n\n3.  **Total combined components:**\n    The remaining components from the opened crates are combined with the contents of the unopened crates:\n    Total combined components = 7(x - 10) + 3x\n\n4.  **Components in the large industrial bins:**\n    This total combined quantity is distributed into 4 bins, with each bin containing 110 components.\n    Total components in bins = 4 * 110 = 440\n\n5.  **Formulate the equation:**\n    The total combined components must be equal to the total components in the bins:\n    7(x - 10) + 3x = 440\n\n6.  **Solve the equation:**\n    Expand the bracket:\n    7x - 70 + 3x = 440\n\n    Combine like terms:\n    10x - 70 = 440\n\n    Add 70 to both sides:\n    10x = 440 + 70\n    10x = 510\n\n    Divide by 10:\n    x = 510 / 10\n    x = 51\n\nThe original number of components, 'x', in one crate is 51.",
+      "explanation": "The solution method involves translating the word problem into a multi-step linear equation. First, define the unknown quantity 'x'. Then, construct expressions for the number of components at each stage of the process: components remaining after removal from opened crates, components from unopened crates, and the total combined components. Finally, equate this total to the known total components in the industrial bins, and solve the resulting linear equation by expanding brackets, collecting like terms, and isolating 'x'.",
+      "hint": "Begin by setting up an equation that represents the total number of components after the consolidation, considering the components removed from the opened crates and the full contents of the unopened crates. Then, equate this to the total number of components in the large bins.",
+      "generatedAt": "2026-04-30T17:11:17.455856"
+    },
+    {
+      "id": "m-y9-equations_advanced_007",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "An unknown number, 'x', undergoes a series of operations. First, if 'x' is multiplied by 3 and then 5 is subtracted from the result, we call this value A. Second, if 'x' has 2 added to it, and this sum is then multiplied by 4, we call this value B. It is known that value B is exactly 7 greater than value A. Determine the value of 'x'. Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the unknown number be 'x'.\n\nStep 1: Form an expression for Value A.\nValue A = (x * 3) - 5\nValue A = 3x - 5\n\nStep 2: Form an expression for Value B.\nValue B = (x + 2) * 4\nValue B = 4(x + 2)\n\nStep 3: Set up an equation relating Value A and Value B.\nWe are given that Value B is exactly 7 greater than Value A, so:\nB = A + 7\n\nStep 4: Substitute the expressions for A and B into the equation.\n4(x + 2) = (3x - 5) + 7\n\nStep 5: Solve the linear equation.\nExpand the bracket on the left side:\n4x + 8 = 3x - 5 + 7\n\nSimplify the right side:\n4x + 8 = 3x + 2\n\nSubtract 3x from both sides to gather x-terms:\n4x - 3x + 8 = 2\nx + 8 = 2\n\nSubtract 8 from both sides to isolate x:\nx = 2 - 8\nx = -6\n\nTherefore, the value of 'x' is -6.",
+      "explanation": "To solve this problem, you need to follow these steps:\n1.  **Translate the descriptions into algebraic expressions:** Create an expression for 'Value A' and an expression for 'Value B' using the variable 'x'. Make sure to correctly use brackets where the sum or difference is multiplied.\n2.  **Form a linear equation:** Use the relationship given ('Value B is 7 greater than Value A') to set up an equation that connects your two expressions.\n3.  **Solve the equation:** This involves expanding any brackets, collecting like terms, and isolating 'x' by performing inverse operations to both sides of the equation. Be careful with positive and negative numbers during simplification and rearrangement.",
+      "hint": "Start by writing algebraic expressions for 'Value A' and 'Value B' based on the given operations involving 'x'. Then use the relationship 'B = A + 7' to form your equation.",
+      "generatedAt": "2026-04-30T17:11:35.082423"
+    },
+    {
+      "id": "m-y9-equations_advanced_008",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A rectangular school garden has a length that is 5 metres more than twice its width. A uniform pathway is to be built around the entire perimeter of this garden. The pathway is 0.5 metres wide on all sides. The total length of the outer edge of this pathway, which forms a larger rectangle, is 68 metres.\n\nLet the width of the school garden be represented by 'w' metres.\n\na) Express the length of the school garden in terms of 'w'. (1 mark)\nb) Formulate an equation, in terms of 'w', that represents the total length of the outer edge of the pathway. (2 marks)\nc) Solve your equation to find the width of the school garden. Show all your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Let the width of the garden be 'w' metres.\n   The length is 5 metres more than twice its width, so Length = 2w + 5 metres.\n\nb) The pathway is 0.5 metres wide on all sides. This means the pathway adds 0.5m to each end of the width and each end of the length.\n   New width (including pathway) = w + 0.5 + 0.5 = w + 1 metres.\n   New length (including pathway) = (2w + 5) + 0.5 + 0.5 = 2w + 5 + 1 = 2w + 6 metres.\n\n   The total length of the outer edge of the pathway is the perimeter of the larger rectangle formed by the garden and the pathway. The formula for the perimeter of a rectangle is P = 2 × (Length + Width).\n   So, the equation is: 2 × ((w + 1) + (2w + 6)) = 68.\n\nc) Solving the equation:\n   2 × ((w + 1) + (2w + 6)) = 68\n   First, simplify the terms inside the innermost brackets:\n   2 × (3w + 7) = 68\n   Distribute the 2 on the left side:\n   6w + 14 = 68\n   Subtract 14 from both sides to isolate the term with 'w':\n   6w = 68 - 14\n   6w = 54\n   Divide by 6 to find 'w':\n   w = 54 / 6\n   w = 9\n\n   The width of the school garden is 9 metres.",
+      "explanation": "This question assesses the ability to translate a real-world problem into a linear equation and then solve it. Part (a) requires setting up an algebraic expression based on a descriptive relationship. Part (b) involves understanding how a uniform border affects the dimensions of a shape and then applying the perimeter formula to form a multi-step linear equation with brackets. Finally, part (c) tests the student's proficiency in solving this linear equation by correctly applying inverse operations, including expanding brackets and collecting like terms, to find the value of the unknown variable.",
+      "hint": "Remember that the pathway adds its width to BOTH ends of the garden's original width and BOTH ends of the garden's original length when calculating the dimensions of the outer edge. The outer edge's length is its perimeter.",
+      "generatedAt": "2026-04-30T17:11:53.100811"
+    },
+    {
+      "id": "m-y9-equations_advanced_009",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Two numerical sequences, Sequence A and Sequence B, are generated based on an initial unknown value, 'p'.\n\nFor Sequence A:\n- The first term is given by the expression (5p - 7).\n- Each subsequent term is found by adding 3 to the previous term.\n\nFor Sequence B:\n- The first term is given by the expression (2p + 11).\n- Each subsequent term is found by adding 5 to the previous term.\n\nIf the 4th term of Sequence A is equal to the 3rd term of Sequence B, determine the value of 'p'. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "First, we need to find the expressions for the 4th term of Sequence A and the 3rd term of Sequence B.\n\nFor Sequence A:\nThe first term ($A_1$) = 5p - 7\nThe common difference (d) = 3\n\nThe formula for the nth term of an arithmetic sequence is $A_n = A_1 + (n-1)d$.\nFor the 4th term ($A_4$):\n$A_4 = (5p - 7) + (4-1) \\times 3$\n$A_4 = (5p - 7) + 3 \\times 3$\n$A_4 = 5p - 7 + 9$\n$A_4 = 5p + 2$\n\nFor Sequence B:\nThe first term ($B_1$) = 2p + 11\nThe common difference (d) = 5\n\nFor the 3rd term ($B_3$):\n$B_3 = (2p + 11) + (3-1) \\times 5$\n$B_3 = (2p + 11) + 2 \\times 5$\n$B_3 = 2p + 11 + 10\n$B_3 = 2p + 21$\n\nNow, we are told that the 4th term of Sequence A is equal to the 3rd term of Sequence B:\n$A_4 = B_3$\n$5p + 2 = 2p + 21$\n\nTo solve for 'p', we need to collect like terms:\nSubtract 2p from both sides:\n$5p - 2p + 2 = 21$\n$3p + 2 = 21$\n\nSubtract 2 from both sides:\n$3p = 21 - 2$\n$3p = 19$\n\nDivide by 3:\n$p = \\frac{19}{3}$\n\nTherefore, the value of p is $\\frac{19}{3}$ (or $6\\frac{1}{3}$ or 6.33 recurring).",
+      "explanation": "This problem requires students to apply their understanding of arithmetic sequences, where the initial term itself is an algebraic expression. They need to correctly form expressions for specific terms of each sequence, which involves working with brackets implicitly (e.g., (n-1) * d, where the first term is an expression). Setting these two expressions equal leads to a multi-step linear equation. Solving this equation involves collecting like terms and performing inverse operations, covering core skills in solving multi-step linear equations at an advanced level for Year 9.",
+      "hint": "Start by writing out the expressions for the 4th term of Sequence A and the 3rd term of Sequence B. Remember that for an arithmetic sequence, the nth term can be found using the formula: First Term + (n-1) × Common Difference. Then, set these two expressions equal to each other to form a linear equation.",
+      "generatedAt": "2026-04-30T17:12:12.807852"
+    },
+    {
+      "id": "m-y9-equations_advanced_010",
+      "topicId": "m-y9-equations",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A numerical process takes an input value, x, and transforms it through five stages to produce a final output.\n\nStage 1: The input value is increased by 8.\nStage 2: The result from Stage 1 is then multiplied by 3.\nStage 3: From the result of Stage 2, the original input value, x, is subtracted.\nStage 4: The entire result from Stage 3 is then divided by 5.\nStage 5: Finally, 4 is added to the result of Stage 4.\n\nIf the final output value of this entire process is 17, determine the original input value, x.\nShow your working clearly.",
+      "options": [],
+      "correctAnswer": "To determine the original input value, x, we first formulate an equation based on the description of the numerical process:\n\nStep 1: Write down the expression after each stage.\n- After Stage 1: x + 8\n- After Stage 2: 3(x + 8)\n- After Stage 3: 3(x + 8) - x\n- After Stage 4: (3(x + 8) - x) / 5\n- After Stage 5: (3(x + 8) - x) / 5 + 4\n\nStep 2: Set up the equation using the final output value.\nWe are given that the final output value is 17, so:\n(3(x + 8) - x) / 5 + 4 = 17\n\nStep 3: Solve the equation for x.\nFirst, subtract 4 from both sides of the equation:\n(3(x + 8) - x) / 5 = 17 - 4\n(3(x + 8) - x) / 5 = 13\n\nNext, multiply both sides by 5 to remove the denominator:\n3(x + 8) - x = 13 × 5\n3(x + 8) - x = 65\n\nNow, expand the bracket on the left side:\n3x + 24 - x = 65\n\nCombine the like terms (the 'x' terms) on the left side:\n(3x - x) + 24 = 65\n2x + 24 = 65\n\nSubtract 24 from both sides of the equation:\n2x = 65 - 24\n2x = 41\n\nFinally, divide by 2 to find the value of x:\nx = 41 / 2\nx = 20.5\n\nThe original input value, x, is 20.5.",
+      "explanation": "The problem requires setting up a multi-step linear equation based on a described sequence of operations and then solving it. Each stage of the numerical process translates directly into a part of the algebraic expression. Brackets are essential to correctly represent the order of operations, especially when a result is further operated on (e.g., 'the result from Stage 1 is then multiplied by 3'). Once the full equation is established, standard algebraic techniques are used to isolate and solve for the unknown variable, x. This involves expanding brackets, combining like terms, and applying inverse operations (subtraction, multiplication, division) to both sides of the equation in the correct order.",
+      "hint": "Start by writing down the mathematical expression for each stage of the numerical process, building up the full equation that equals 17. Remember to use brackets appropriately when an operation applies to a whole previous result.",
+      "generatedAt": "2026-04-30T17:12:31.430263"
+    }
+  ]
+}

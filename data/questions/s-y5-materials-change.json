@@ -1,0 +1,473 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y5-materials-change_beginner_001",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following changes is a reversible change?",
+      "options": [
+        "A) Baking a cake",
+        "B) Frying an egg",
+        "C) Dissolving sugar in water",
+        "D) Burning wood"
+      ],
+      "correctAnswer": "C) Dissolving sugar in water",
+      "explanation": "A reversible change is a change where the original materials can be recovered or easily returned to their initial state.\nA) Baking a cake produces new substances that cannot be turned back into the original ingredients (flour, eggs, etc.). This is an irreversible change.\nB) Frying an egg changes its properties permanently; you cannot turn a fried egg back into a raw egg. This is an irreversible change.\nC) When sugar dissolves in water, it mixes to form a solution. The water can be evaporated, leaving the sugar crystals behind, meaning the sugar can be recovered. This makes it a reversible change.\nD) Burning wood creates ash and smoke, which are new substances. You cannot turn these back into wood. This is an irreversible change.\nTherefore, dissolving sugar in water is the reversible change.",
+      "hint": "Consider whether you can get the original materials back again after the change has happened.",
+      "generatedAt": "2026-04-29T16:12:55.487466"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_002",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "When a spoonful of sugar is stirred into a glass of water, the sugar appears to vanish. Describe what happens to the sugar during this process.",
+      "options": [
+        "A. The sugar melts and turns into a liquid.",
+        "B. The sugar breaks down into tiny particles and spreads evenly through the water.",
+        "C. The sugar undergoes a chemical reaction and changes into a new substance.",
+        "D. The sugar evaporates into the air."
+      ],
+      "correctAnswer": "B. The sugar breaks down into tiny particles and spreads evenly through the water.",
+      "explanation": "Dissolving is a physical process where the solute (sugar) breaks down into very tiny particles that are too small to see. These particles then spread out and mix evenly with the solvent (water) to form a solution. The sugar has not melted (that's a change of state due to heat), nor has it undergone a chemical reaction to form a new substance, or evaporated into the air; it is still present in the water.",
+      "hint": "Consider what happens to the sugar's visible form when it 'disappears' in the water. Does it truly cease to exist, or does it just become undetectable by sight?",
+      "generatedAt": "2026-04-29T16:13:06.324958"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_003",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student carries out two different processes in a science lesson.\n\n**Process 1:** Mixing sand and water together.\n**Process 2:** Baking a cake from flour, eggs, and sugar.\n\nState which of these processes involves a reversible change.",
+      "options": [
+        "A) Process 1 only",
+        "B) Process 2 only",
+        "C) Both Process 1 and Process 2",
+        "D) Neither Process 1 nor Process 2"
+      ],
+      "correctAnswer": "A) Process 1 only",
+      "explanation": "1. A reversible change is a change where the original substances can be recovered easily and still have their original properties.\n2. In Process 1, when sand and water are mixed, the sand does not dissolve. The sand can be easily separated from the water by methods like filtering or letting the sand settle and pouring the water away. Both the sand and the water retain their original properties. Therefore, mixing sand and water is a reversible change.\n3. In Process 2, when a cake is baked, the flour, eggs, and sugar undergo chemical reactions due to the heat. New substances are formed, and it is not possible to get the original flour, eggs, and sugar back in their initial state. This makes baking a cake an irreversible change.\n4. Therefore, only Process 1 involves a reversible change.",
+      "hint": "Consider if you can easily separate the materials and get them back in their original form after each process.",
+      "generatedAt": "2026-04-29T16:13:18.925695"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_004",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student adds a spoonful of sugar to a glass of warm water and stirs until the sugar can no longer be seen. The sugar has dissolved in the water.\n\nState one method that could be used to separate the sugar from the water.",
+      "options": [
+        "Filtering the mixture",
+        "Heating the water to evaporate it",
+        "Adding more water to the mixture",
+        "Using a magnet to pull out the sugar"
+      ],
+      "correctAnswer": "Heating the water to evaporate it",
+      "explanation": "When sugar dissolves in water, it forms a solution. The sugar particles are mixed evenly throughout the water and are too small to be seen or caught by a filter. To separate the sugar from the water, the water needs to be removed. Heating the water will cause it to change into water vapour (evaporate) and leave the solid sugar behind in the glass. This is an example of a reversible change.",
+      "hint": "Think about how you can remove the liquid component of the mixture to recover the solid.",
+      "generatedAt": "2026-04-29T16:13:28.767860"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_005",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student adds a spoonful of salt to a glass of warm water and stirs it until all the salt disappears.\n\nState one method the student could use to recover the salt from the water.",
+      "options": [],
+      "correctAnswer": "Evaporation (or heating to evaporate the water / leaving it to evaporate).",
+      "explanation": "When salt dissolves in water, it forms a solution. To recover the solid salt, the liquid water needs to be removed. Evaporation is a physical process where the liquid water turns into a gas (water vapour), leaving the solid salt behind. This shows that dissolving is a reversible change, as the original substances can be separated and recovered.",
+      "hint": "Think about how you could separate a solid that has dissolved in a liquid by removing the liquid.",
+      "generatedAt": "2026-04-29T16:13:38.094969"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_006",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A scientist mixes a spoonful of blue food colouring powder with water in a beaker. The food colouring dissolves and spreads evenly throughout the water, making it blue.\nLater, the scientist manages to separate the food colouring powder from the water by evaporating the water and collecting the dried blue powder.\n\nState the scientific term that best describes the type of change that occurred when the food colouring dissolved in the water.",
+      "options": [
+        "A. Irreversible",
+        "B. Chemical",
+        "C. Reversible",
+        "D. Permanent"
+      ],
+      "correctAnswer": "C. Reversible",
+      "explanation": "1. The question describes food colouring dissolving in water and then being recovered by evaporating the water.\n2. A 'reversible' change is one where the original substances can be retrieved or changed back to their original state after the process.\n3. Since the food colouring powder was successfully recovered from the water, the dissolving process is a reversible change.\n4. 'Irreversible' changes mean the original substances cannot be easily recovered, and 'chemical' changes involve the formation of new substances, neither of which happened here.",
+      "hint": "Consider if the original materials can be easily retrieved after the change has taken place.",
+      "generatedAt": "2026-04-29T16:13:49.518023"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_007",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Imagine you have an ice cube. You leave it on a warm table for a short time, and it changes into water. State what type of change occurs when the ice cube turns into water.",
+      "options": [
+        "Irreversible change",
+        "Chemical change",
+        "Reversible change",
+        "Permanent change"
+      ],
+      "correctAnswer": "Reversible change",
+      "explanation": "Melting is a physical change where a solid (ice) turns into a liquid (water). This change is reversible because the water can be cooled and frozen back into ice. Therefore, the material can return to its original state.",
+      "hint": "Think about whether you can turn the water back into ice easily.",
+      "generatedAt": "2026-04-29T16:13:59.327735"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_008",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following changes is an example of a reversible change?",
+      "options": [
+        "A. Burning a piece of paper",
+        "B. Baking bread",
+        "C. Dissolving salt in water",
+        "D. Frying an egg"
+      ],
+      "correctAnswer": "C. Dissolving salt in water",
+      "explanation": "A reversible change is a change where the original materials can be recovered or returned to their initial state. When salt dissolves in water, the water can be evaporated (turned into a gas), and the salt will be left behind, meaning the original salt can be recovered. Burning paper, baking bread, and frying an egg are all irreversible changes because new substances are formed, and you cannot easily get the original materials back.",
+      "hint": "Consider which option allows you to get the starting materials back easily after the change has happened.",
+      "generatedAt": "2026-04-29T16:14:20.856885"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_009",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A chef pours liquid pancake batter onto a hot griddle. The batter cooks and turns into a solid pancake. Once cooked, the pancake cannot easily be turned back into liquid batter.\n\nState the type of change that occurs when the liquid batter turns into a solid pancake.",
+      "options": [
+        "A) Reversible",
+        "B) Irreversible",
+        "C) Dissolving",
+        "D) Mixing"
+      ],
+      "correctAnswer": "B) Irreversible",
+      "explanation": "An irreversible change is a change where the original materials cannot easily be recovered or turned back into their initial state. When pancake batter is cooked, new substances are formed that give the pancake its solid structure and taste. These new substances cannot easily be converted back into the liquid batter. Therefore, this is an irreversible change.",
+      "hint": "Think about whether the change can be easily undone to get the original material back.",
+      "generatedAt": "2026-04-29T16:14:33.238674"
+    },
+    {
+      "id": "s-y5-materials-change_beginner_010",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student bakes a cake in the oven. The runny cake mixture changes into a solid, fluffy cake.\n\nState whether this change is reversible or irreversible.",
+      "options": [],
+      "correctAnswer": "Irreversible",
+      "explanation": "This change is irreversible because once the cake is baked, new substances are formed due to the chemical reactions caused by the heat. You cannot easily turn the solid cake back into its original runny mixture of raw ingredients.",
+      "hint": "Consider if you can easily change the baked cake back into the original raw ingredients and separate them.",
+      "generatedAt": "2026-04-29T16:21:01.055090"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y5-materials-change_intermediate_001",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student adds 20 g of sugar to 100 cm³ of warm water and stirs until the sugar completely dissolves. They then pour the solution into an evaporating dish and heat it gently until all the water has evaporated, leaving a white solid in the dish. \n\nWhich of the following statements correctly identifies the type of change that occurred when the sugar dissolved, and provides a valid scientific explanation?",
+      "options": [
+        "A. It is a chemical change, because the sugar molecules were broken down and new substances were formed, which explains why the sugar disappeared.",
+        "B. It is a physical change, because the sugar molecules reacted with water molecules to form a new compound, which was then separated by evaporation.",
+        "C. It is a physical change, because the sugar molecules dispersed evenly throughout the water without forming new chemical bonds, and the original sugar can be recovered.",
+        "D. It is a chemical change, because the sugar changed from a solid to a dissolved state, which means its chemical properties were permanently altered."
+      ],
+      "correctAnswer": "C. It is a physical change, because the sugar molecules dispersed evenly throughout the water without forming new chemical bonds, and the original sugar can be recovered.",
+      "explanation": "1. **Identify the type of change:** The dissolving of sugar in water, followed by its recovery through evaporation, indicates a physical change. In a physical change, no new chemical substances are formed.\n2. **Evaluate the options based on scientific principles:**\n   - Option A is incorrect because dissolving sugar is not a chemical change, and new substances are not formed.\n   - Option B is incorrect because while dissolving is a physical change, sugar molecules do not react with water to form a new compound. They simply separate and disperse.\n   - Option C correctly identifies it as a physical change. The explanation 'sugar molecules dispersed evenly throughout the water without forming new chemical bonds' accurately describes the cause of dissolving. The effect 'the original sugar can be recovered' confirms its reversibility, a key characteristic of physical changes.\n   - Option D is incorrect because dissolving is not a chemical change, and while the state changes, the chemical properties of the sugar are not permanently altered.\n3. **Conclusion:** Option C provides both the correct identification of the change (physical) and a valid scientific explanation (no new chemical bonds, reversibility).",
+      "hint": "Consider what defines a physical change versus a chemical change. Does the identity of the substance change, or only its state/arrangement? Can the original substance be easily retrieved?",
+      "generatedAt": "2026-04-29T16:21:19.444659"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_002",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student mixes two clear, colourless liquids, A and B, in a beaker. They observe immediate fizzing and feel the beaker become warm. A white solid, C, is also formed and settles at the bottom. The student then carefully filters the mixture to separate solid C.\n\nWhich of the following statements *most accurately* describes the changes observed and the nature of solid C?",
+      "options": [
+        "A) The initial change is a physical process of mixing, and solid C is an insoluble impurity from liquid A.",
+        "B) The fizzing indicates a reversible change, and solid C is simply liquid B that has solidified due to the reaction.",
+        "C) The initial change is a chemical reaction that formed a new substance, C, making this an irreversible change.",
+        "D) The solid C formed is a solute that has dissolved from liquid A, and the filtration separates the solution."
+      ],
+      "correctAnswer": "C) The initial change is a chemical reaction that formed a new substance, C, making this an irreversible change.",
+      "explanation": "1.  **Identify the type of initial change:** The observations of fizzing (indicating gas production), the beaker becoming warm (indicating an exothermic reaction), and the formation of a *new* solid (C) that settles, are all characteristic signs of a chemical reaction. A physical change like simple mixing or dissolving would not typically show all these features.\n2.  **Understand the outcome of a chemical change:** Chemical reactions involve the formation of entirely new substances with different chemical properties from the original reactants. Therefore, solid C is a new substance formed from the reaction between liquids A and B.\n3.  **Determine reversibility:** Most chemical reactions, especially those that produce gas and a precipitate (a new insoluble solid like C) with a change in temperature, are considered irreversible under normal conditions. This means it is difficult to convert the new substances back into the original reactants without further chemical intervention. Physical changes (like melting, boiling, or dissolving) are typically reversible.\n\n*   Option A is incorrect because fizzing, warmth, and a new solid indicate a chemical, not a physical, change.\n*   Option B is incorrect because fizzing indicates a chemical reaction, which is generally irreversible, and C is a new substance, not just solidified liquid B.\n*   Option D is incorrect because solutes dissolve; solid C is formed as a precipitate, not dissolved, and filtration separates insoluble solids from liquids, not solutions from solutions in this manner.",
+      "hint": "Consider the key observations: fizzing, change in temperature, and the formation of a *new* solid. What type of change do these usually signify, and what does that imply about its reversibility and the nature of the product?",
+      "generatedAt": "2026-04-29T16:21:37.665909"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_003",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student investigates two material changes in the laboratory.\n\n**Change X:** A student adds 50 g of sodium chloride (table salt) to 200 cm³ of warm water and stirs until a clear solution forms. They then gently heat the solution, causing the water to evaporate, and 50 g of solid sodium chloride is recovered from the beaker.\n\n**Change Y:** A different student heats a 25 g sample of copper metal strongly in air until it glows red and turns into a black solid. The mass of the black solid is measured as 31.3 g.\n\nWhich statement *best explains* the nature of Change X and Change Y?",
+      "options": [
+        "A. Change X is an irreversible change because the salt dissolved, and Change Y is a reversible change because the copper changed colour.",
+        "B. Change X is a reversible change because the salt can be recovered by evaporating the water, and Change Y is an irreversible change because a new substance with a different mass was formed.",
+        "C. Change X is a reversible change because dissolving is always reversible, and Change Y is a reversible change because copper can be heated again.",
+        "D. Change X is an irreversible change because the salt was mixed with water, and Change Y is an irreversible change because the copper was heated."
+      ],
+      "correctAnswer": "B. Change X is a reversible change because the salt can be recovered by evaporating the water, and Change Y is an irreversible change because a new substance with a different mass was formed.",
+      "explanation": "To classify a change as reversible or irreversible, you must determine if the original substances can be easily recovered in their original form or if new substances have been formed.\n\n**Change X:** Sodium chloride dissolves in water to form a solution. When the water is evaporated, the 50 g of original solid sodium chloride is recovered. This means no new substance was formed, and the process can be reversed to get the original materials back. Therefore, Change X is a reversible change.\n\n**Change Y:** When copper metal is heated strongly in air, it reacts with oxygen to form a new substance, copper oxide (the black solid). The mass increased from 25 g to 31.3 g, indicating that oxygen atoms from the air have combined with the copper atoms, forming a different chemical compound. This formation of a new substance means the change is irreversible. You cannot easily get the original copper metal back from the copper oxide by simple physical means.\n\nOption B correctly identifies Change X as reversible (due to recovery of original salt) and Change Y as irreversible (due to the formation of a new substance with a different mass).",
+      "hint": "Consider whether the original substances can be easily separated or recovered in their original chemical form after each change, and if any new substances are created.",
+      "generatedAt": "2026-04-29T16:21:54.245526"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_004",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student observes two different changes occurring with common materials:\n\n**Change P:** A block of solid wax is heated gently. It melts into a clear liquid. When the liquid wax is cooled, it solidifies back into a block of wax with its original properties.\n\n**Change Q:** A raw egg is cracked into a hot frying pan. The clear liquid part (egg white) turns white and solid, and the yellow part (yolk) also becomes firm. These changes cannot be reversed, even if the cooked egg is cooled.\n\nExplain why Change P is classified as a reversible change, whereas Change Q is classified as an irreversible change, referring to the formation of new substances and the ability to restore original properties in your answer. (4 marks)",
+      "options": [],
+      "correctAnswer": "Change P is a reversible change because it involves only a change of state (from solid to liquid and back), which is a physical change. No new chemical substances are formed; the wax molecules themselves remain chemically unchanged. Therefore, its original chemical and physical properties can be fully restored by reversing the process (cooling the liquid wax).\n\nChange Q is an irreversible change because new chemical substances are formed during the cooking process. The proteins in the egg undergo denaturation and coagulation, which are chemical reactions. This results in substances with entirely new physical and chemical properties (e.g., altered texture, colour, and taste). Because new substances are formed through chemical bonds being broken and reformed, the cooked egg cannot be easily returned to its original raw state.",
+      "explanation": "This question assesses a student's understanding of reversible and irreversible changes. For Change P, students should identify it as reversible because it is a physical change (change of state) where no new chemical substances are formed, and the original material's properties can be restored. For Change Q, students should identify it as irreversible because it involves chemical reactions (protein denaturation/coagulation) that lead to the formation of new chemical substances with altered properties, making it impossible to return to the original state. Marks are awarded for correctly classifying each change and providing a clear scientific explanation for each, linking the absence/presence of new substances and the ability/inability to restore original properties.",
+      "hint": "Consider whether new chemical substances are formed in each change and if the original materials can be recovered with their initial properties by simply reversing the conditions.",
+      "generatedAt": "2026-04-29T16:22:10.511681"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_005",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student investigates two material changes:\n\n**Experiment 1:** The student dissolves 15 g of a salt (sodium chloride) in 50 cm³ of water at 20°C to create a clear solution. They then carefully heat the solution to evaporate all the water.\n\n**Experiment 2:** The student adds 15 g of baking soda to 50 cm³ of vinegar (acetic acid solution) at 20°C. They observe fizzing and a gas being produced, leaving a different solution.\n\na) Describe what the student would observe when heating the solution in Experiment 1 until all the water has evaporated. (2 marks)\nb) State whether Experiment 1 represents a reversible or irreversible change. Justify your answer. (2 marks)\nc) Explain why Experiment 2 is considered an irreversible change, referring to the observations. (3 marks)\nd) If the student started with 15 g of salt and recovered 14.5 g of salt after evaporating the water in Experiment 1, calculate the percentage of salt recovered. (Show your working and round your answer to one decimal place). (3 marks)",
+      "options": [],
+      "correctAnswer": "To calculate the percentage of salt recovered, use the formula:\n\nPercentage recovered = (Mass recovered / Original mass) × 100%\n\nGiven:\nMass recovered = 14.5 g\nOriginal mass = 15 g\n\nSubstitution:\nPercentage recovered = (14.5 g / 15 g) × 100%\n\nCalculation:\nPercentage recovered = 0.9666... × 100%\nPercentage recovered = 96.66...\n\nRounding to one decimal place:\nPercentage recovered = 96.7%",
+      "explanation": "The problem requires calculating the percentage of a substance recovered from a process. This is a two-step calculation. First, the student must identify the correct formula for percentage recovery, which is the ratio of the recovered mass to the original mass, multiplied by 100. Second, the student must correctly substitute the given values (14.5 g recovered, 15 g original) into the formula and perform the division and multiplication. Finally, the answer must be rounded to the specified number of decimal places (one decimal place) and include the correct unit (%). This demonstrates selecting the appropriate method and applying it accurately.",
+      "hint": "To find a percentage, you need to divide the part by the whole, and then multiply by 100.",
+      "generatedAt": "2026-04-29T16:22:29.137216"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_006",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student is presented with a beaker containing a solid mixture of 40 g of sodium chloride (table salt) and 60 g of fine, insoluble sand. The student's task is to obtain a sample of pure, dry sodium chloride from this mixture.\n\na) Describe the steps the student would take to separate the pure, dry sodium chloride from the sand. Include the type of change occurring when the sodium chloride is dissolved and recovered. (4 marks)\n\nb) After successfully recovering 35 g of pure sodium chloride, the student takes 10 g of this salt and attempts to dissolve it completely in 50 cm³ of cold water. They observe that not all of the 10 g dissolves.\n    i) State the scientific term for a solution that cannot dissolve any more solute at a given temperature. (1 mark)\n    ii) The student then adds 2 g of iron filings to this solution and stirs. Explain why no visible reaction occurs when the iron filings are added to the sodium chloride solution. (3 marks)",
+      "options": [],
+      "correctAnswer": "a)\n1.  **Add water** to the mixture in the beaker and stir thoroughly. The sodium chloride will dissolve, forming a solution, while the sand will remain undissolved. (1 mark)\n    *Dissolving is a **reversible change**.* (1 mark)\n2.  **Filter** the mixture. The insoluble sand will be collected as the residue on the filter paper, and the sodium chloride solution will pass through as the filtrate. (1 mark)\n3.  Gently **heat** the filtrate (sodium chloride solution) in an evaporating basin or dish. The water will evaporate, leaving behind the pure, dry sodium chloride crystals. (1 mark)\n    *Evaporation is also a **reversible change**.* \n\nb)\n    i) **Saturated solution** (1 mark)\n\n    ii) Iron is **less reactive than sodium**. (1 mark)\n    For a displacement reaction to occur, a more reactive metal must displace a less reactive metal from its salt solution. (1 mark)\n    Since iron is less reactive than sodium, it **cannot displace sodium** from sodium chloride solution, therefore no reaction occurs. (1 mark)",
+      "explanation": "a) To separate a soluble solid (sodium chloride) from an insoluble solid (sand), the difference in their solubility in water is exploited. Adding water dissolves the salt, creating a solution, but leaves the sand undissolved. This dissolving process is reversible because the salt can be recovered by removing the water. Filtration is then used to separate the insoluble sand from the salt solution. Finally, the pure salt is recovered from the solution by evaporating the water through gentle heating, which is also a reversible physical change.\nb) i) A solution that has dissolved the maximum amount of solute possible at a given temperature is defined as a saturated solution. Any additional solute will not dissolve.\nb) ii) Whether a metal reacts with a salt solution is determined by its position in the reactivity series. A metal can only displace, or react with, the ions of a less reactive metal from its salt solution. Iron is lower in the reactivity series than sodium, meaning iron is less reactive than sodium. Therefore, iron cannot displace sodium from sodium chloride solution, and no chemical reaction or visible change will occur.",
+      "hint": "For part (a), consider the physical properties of sodium chloride and sand, specifically their solubility in water, and how you would use these differences for separation and recovery. For part (b)ii), recall the reactivity series of metals and the conditions required for a displacement reaction.",
+      "generatedAt": "2026-04-29T16:23:13.301801"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_007",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student dissolves 15.0 g of potassium nitrate in 100 cm³ of water. After stirring, all the solid dissolves, forming a clear solution. The student then carefully evaporates the water from the solution and recovers 14.1 g of solid potassium nitrate. This dissolving process, where the original substance can be recovered, demonstrates a reversible change.\n\nSeparately, another student observes that when a different crystalline solid is heated strongly, it turns into a new black substance that cannot be converted back to its original form by cooling.\n\nWhich statement correctly calculates the percentage of potassium nitrate *recovered* from the dissolving experiment and accurately classifies the two types of material changes described?",
+      "options": [
+        "A) 94% recovered; Dissolving is an irreversible change, and heating the other substance is a reversible change.",
+        "B) 94% recovered; Dissolving is a reversible change, and heating the other substance is an irreversible change.",
+        "C) 6% recovered; Dissolving is an irreversible change, and heating the other substance is a reversible change.",
+        "D) 6% recovered; Dissolving is a reversible change, and heating the other substance is an irreversible change."
+      ],
+      "correctAnswer": "B) 94% recovered; Dissolving is a reversible change, and heating the other substance is an irreversible change.",
+      "explanation": "This question requires two steps: a calculation and a classification of changes.\n\n**Step 1: Calculate the percentage of potassium nitrate recovered.**\nOriginal mass of potassium nitrate = 15.0 g\nRecovered mass of potassium nitrate = 14.1 g\n\nTo calculate the percentage recovered, use the formula:\nPercentage recovered = (Recovered mass / Original mass) × 100%\nPercentage recovered = (14.1 g / 15.0 g) × 100%\nPercentage recovered = 0.94 × 100%\nPercentage recovered = 94%\n\n**Step 2: Classify the types of material changes.**\n*   **Dissolving potassium nitrate:** The question explicitly states that 'This dissolving process, where the original substance can be recovered, demonstrates a reversible change.' A reversible change is one where the original substances can be reformed, as shown by evaporating the water to recover the solid.\n*   **Heating the other crystalline solid:** The observation describes that the solid 'turns into a new black substance that cannot be converted back to its original form by cooling.' This description indicates an irreversible change, where new substances are formed that cannot easily revert to the original ones.\n\nCombining these two findings, the correct statement is that 94% of the potassium nitrate was recovered, dissolving is a reversible change, and heating the other substance is an irreversible change.",
+      "hint": "First, calculate the percentage of the original solid that was recovered using the given masses. Second, recall the definitions of reversible and irreversible changes, considering whether new substances are formed and if the original substances can be easily reformed.",
+      "generatedAt": "2026-04-29T16:23:44.892566"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_008",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student investigates different ways materials can change.\n\n**Change P:** A 5 g sugar cube is fully dissolved in 100 cm³ of hot water, and the solution is then left to evaporate completely over several days.\n**Change Q:** A 5 g sugar cube is heated strongly in a test tube until it turns into a black, brittle substance, and steam is visibly released.\n\n**(a) State the type of change that occurs when the sugar cube dissolves in hot water in Change P.** (1 mark)\n\n**(b) Describe what would be observed in the container after the water has completely evaporated in Change P, and explain why this observation shows the change is reversible.** (3 marks)\n\n**(c) Explain two specific observations from Change Q that indicate it is an irreversible chemical change.** (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a)** Physical change (or Dissolving)\n\n**(b)** A white solid (or sugar crystals) would be observed left behind in the container. This observation shows the change is reversible because the original sugar has been recovered (reformed) after the water was removed, indicating that no new chemical substance was permanently formed during the dissolving process.\n\n**(c)** \n*   **Observation 1:** The formation of a black, brittle substance. This indicates an irreversible chemical change because a new substance has been produced with different properties from the original sugar, meaning the chemical bonds of sugar have broken and reformed.\n*   **Observation 2:** Steam is visibly released. This shows an irreversible chemical change because a gas (water vapour) is produced, which is a sign of a chemical reaction where new products are formed, and these products cannot be easily converted back into the original sugar.",
+      "explanation": "This question assesses the student's ability to distinguish between physical and chemical changes, and to understand the concept of reversibility. \n**(a)** Dissolving is a physical change because the sugar's chemical composition does not change; it just disperses in the water.\n**(b)** The recovery of the original sugar after evaporation demonstrates reversibility, as no new permanent substances were formed. Students need to describe the observation and link it to the definition of reversibility.\n**(c)** Chemical changes are indicated by the formation of new substances (the black, brittle substance) and the production of a gas (steam), both of which are specific observations from the description. Irreversibility is linked to the fact that these new substances cannot be easily converted back to the original sugar. The answer requires explaining two distinct reasons, each linking an observation to both the chemical nature and irreversibility of the change.",
+      "hint": "For part (c), think about the key indicators of a chemical change, such as the formation of new substances or gases, and how these relate to whether a change can be easily undone.",
+      "generatedAt": "2026-04-29T16:24:06.955210"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_009",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student prepares a solution by dissolving 18.0 g of a soluble salt, Y, in 150 cm³ of water. They then take 50 cm³ of this solution and evaporate all the water to recover the solid salt. Assuming the concentration of the salt is uniform throughout the solution, calculate the mass of salt Y that would be recovered from this 50 cm³ portion of the solution.",
+      "options": [
+        "3.0 g",
+        "6.0 g",
+        "9.0 g",
+        "18.0 g"
+      ],
+      "correctAnswer": "6.0 g",
+      "explanation": "Step 1: Determine the proportion of the solution being used. The original solution has a volume of 150 cm³. The student takes 50 cm³ of this solution.\nProportion taken = Volume of portion / Total volume = 50 cm³ / 150 cm³ = 1/3.\n\nStep 2: Calculate the mass of salt in that proportion. Since the salt is uniformly dissolved throughout the solution, the mass of salt in the 50 cm³ portion will be the same proportion of the total mass of salt dissolved.\nMass of salt recovered = (1/3) × Total mass of salt dissolved\nMass of salt recovered = (1/3) × 18.0 g = 6.0 g.\n\nAlternatively, using concentration:\nStep 1: Calculate the concentration of the original solution.\nConcentration = Mass of salt / Volume of water = 18.0 g / 150 cm³ = 0.12 g/cm³.\n\nStep 2: Calculate the mass of salt in the 50 cm³ portion using this concentration.\nMass of salt = Concentration × Volume of portion = 0.12 g/cm³ × 50 cm³ = 6.0 g.",
+      "hint": "First, consider what fraction of the total solution volume the 50 cm³ portion represents, or calculate the concentration of the initial solution.",
+      "generatedAt": "2026-04-29T16:24:32.054327"
+    },
+    {
+      "id": "s-y5-materials-change_intermediate_010",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student investigates how materials change using two experiments.\n\n**Experiment 1:** 8.0 g of iron filings are thoroughly mixed with 8.0 g of sulfur powder. A magnet can then be used to separate the iron filings from the sulfur powder.\n\n**Experiment 2:** 8.0 g of iron filings are strongly heated with 8.0 g of sulfur powder in a test tube. After heating, a new grey solid is formed, which is not attracted to a magnet and has a different appearance from the original mixture.\n\nWhich of the following statements *correctly explains* the primary difference between Experiment 1 and Experiment 2?",
+      "options": [
+        "A. Experiment 1 is a chemical change because the substances are mixed, while Experiment 2 is a physical change because a new solid is produced.",
+        "B. Experiment 1 is a reversible change because the substances only mix and retain their original properties, whereas Experiment 2 is an irreversible change because new substances with different properties are formed.",
+        "C. Experiment 1 is an irreversible change because the iron filings can be separated from the sulfur powder, while Experiment 2 is a reversible change because the new solid formed is still a solid.",
+        "D. Experiment 1 is a physical change because new chemical bonds are formed, whereas Experiment 2 is a chemical change because the original substances can be easily separated."
+      ],
+      "correctAnswer": "B. Experiment 1 is a reversible change because the substances only mix and retain their original properties, whereas Experiment 2 is an irreversible change because new substances with different properties are formed.",
+      "explanation": "In Experiment 1, the iron filings and sulfur powder are simply mixed. They retain their individual properties, such as iron being magnetic, which allows them to be separated by physical means (using a magnet). This indicates a physical change which is reversible, as no new substance is formed and the original components can be recovered.\n\nIn Experiment 2, strongly heating the iron and sulfur causes a chemical reaction. A new substance (iron sulfide) is formed, which has distinct properties different from the original iron and sulfur (e.g., it is not magnetic and has a new appearance). This process cannot be easily reversed to get back the original iron and sulfur, making it an irreversible chemical change because new chemical bonds have formed to create a new compound.",
+      "hint": "Consider whether new substances are formed in each experiment and if the original substances can be easily recovered.",
+      "generatedAt": "2026-04-29T16:24:50.981194"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y5-materials-change_advanced_001",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Maya is preparing for a science project at home. She has a bowl containing 150g of fine sand and 50g of salt.\n\n1. She first carefully stirs the sand and salt together.\n2. Then, she adds 200ml of warm water to the sand and salt mixture and stirs it again until the salt is no longer visible.\n3. Finally, she places the bowl in a sunny spot for several days, and all the water slowly evaporates.\n\n(a) Describe the type of change that occurs when Maya first stirs the sand and salt together. (2 marks)\n\n(b) Explain why the salt seems to disappear when Maya adds water and stirs the mixture. Your explanation must include the terms 'solute' and 'solvent'. (4 marks)\n\n(c) When all the water evaporates, Maya observes a white substance left in the bowl, but the sand is still there. State what this white substance is. (1 mark)\n\n(d) Is the overall process of mixing sand, salt, and water, then evaporating the water, an example of a reversible or an irreversible change? Describe one piece of evidence from the scenario to support your answer. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) This is a **physical change** (1 mark). It is also a **reversible change** because no new substances are formed, and the sand and salt can still be separated from each other (1 mark).\n\n(b) When Maya adds water, the salt (which is the **solute**) dissolves in the water (which is the **solvent**) (1 mark). This happens because the tiny salt particles spread out evenly throughout the water (1 mark), forming a clear liquid called a solution (1 mark). So, the salt appears to disappear because its particles are too small to see individually when mixed thoroughly with the water (1 mark).\n\n(c) Salt (1 mark).\n\n(d) This is a **reversible** change (1 mark).\nEvidence: The salt that dissolved in the water was recovered and left behind after the water evaporated (1 mark). Additionally, the sand remained unchanged and could be seen in the bowl throughout the process (1 mark). This shows the original ingredients can be separated and obtained again.",
+      "explanation": "The provided model answer details the correct scientific explanations and descriptions for each part of the question, demonstrating the application of concepts related to mixing, dissolving, evaporation, and reversible vs. irreversible changes. It explicitly uses the required command words and terminology, such as 'solute', 'solvent', 'physical change', and 'reversible change', linking cause and effect appropriately for an advanced Year 5 student.",
+      "hint": "Remember to consider whether new substances are formed or if original ingredients can be easily recovered to determine the type of change. For dissolving, think about what happens to the particles of the substance.",
+      "generatedAt": "2026-04-29T16:25:10.918251"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_002",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Dr. Elena is setting up an experimental station for a science fair, demonstrating different types of material changes. She prepares a clear glass jar containing 25g of fine, dry sand at the bottom. On top of the sand, she carefully adds 15g of salt, forming a distinct white layer. She then pours 120g of water slowly into the jar.\n\na) **Describe** the changes Dr. Elena would observe in the jar immediately after the water is added and given a gentle stir. (3 marks)\nb) **Explain** why the sand and the salt behave differently when water is added, referring to their properties. (4 marks)\nc) After all observable changes have occurred, Dr. Elena wants to recover the sand and the salt separately.\n    i) **State** one physical method Dr. Elena could use to separate the sand from the salty water mixture. (1 mark)\n    ii) **Describe** how Dr. Elena could then recover the salt from the remaining salty water. **Explain** whether this process is a reversible or irreversible change, giving a reason. (5 marks)",
+      "options": [],
+      "correctAnswer": "a) **Describe** the changes Dr. Elena would observe in the jar immediately after the water is added and given a gentle stir. (3 marks)\n    *   The salt layer would gradually disappear / dissolve (1 mark) into the water, forming a clear solution (1 mark).\n    *   The sand would remain visible at the bottom of the jar (1 mark) / would not dissolve.\n\nb) **Explain** why the sand and the salt behave differently when water is added, referring to their properties. (4 marks)\n    *   Salt is a soluble substance (1 mark), which means it can dissolve in water (1 mark) to form a solution.\n    *   Sand is an insoluble substance (1 mark), which means it cannot dissolve in water (1 mark) and will remain as solid particles.\n\nc) After all observable changes have occurred, Dr. Elena wants to recover the sand and the salt separately.\n    i) **State** one physical method Dr. Elena could use to separate the sand from the salty water mixture. (1 mark)\n    *   Filtration / Decantation (1 mark)\n\n    ii) **Describe** how Dr. Elena could then recover the salt from the remaining salty water. **Explain** whether this process is a reversible or irreversible change, giving a reason. (5 marks)\n    *   **Description:** She would need to heat the salty water (1 mark). The water would evaporate / turn into steam (1 mark), leaving the solid salt behind in the container (1 mark).\n    *   **Explanation:** This is a reversible change (1 mark) because the original salt (solute) can be recovered (1 mark) from the water (solvent).",
+      "explanation": "The full model answer, including step-by-step working and reasoning for each part, is provided in the 'correctAnswer' field. This question requires students to combine their understanding of dissolving, solubility, mixing, and methods of separation, as well as classifying changes as reversible or irreversible, all within an applied context.",
+      "hint": "Think about the properties of the materials (salt and sand) and how they interact with water. Consider the different physical methods used to separate mixtures based on these properties, and what makes a change reversible.",
+      "generatedAt": "2026-04-29T16:25:37.919891"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_003",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A junior chef is experimenting with making a new \"Sparkle Fizz\" drink for a party.\nFirst, they carefully measure out 50g of sugar and stir it into 200ml of warm water until all the sugar disappears. This mixture is called 'Mixture A'.\nNext, they add 5g of baking soda powder to Mixture A and stir gently. There are no immediate visible changes. This is now 'Mixture B'.\nFinally, they pour 30ml of lemon juice into Mixture B. Immediately, the drink begins to bubble vigorously, producing lots of foam and a distinct new smell.\n\na)  **State** the scientific name for the process when the sugar disappears into the water to form Mixture A. (1 mark)\nb)  **Describe** two observations you would make when the lemon juice is added to Mixture B. (2 marks)\nc)  **Explain** whether the change that happened to the sugar when it disappeared into the water (to form Mixture A) is a reversible or irreversible change. You must give a reason for your answer. (3 marks)\nd)  **Explain** why the fizzing and bubbling that occurs when the lemon juice is added is considered an irreversible change. You must include what happens to the substances involved. (4 marks)",
+      "options": [],
+      "correctAnswer": "a)  **Dissolving** (1 mark)\n\nb)  Two observations when lemon juice is added: (2 marks)\n    *   The mixture starts to **fizz / bubble vigorously**.\n    *   **Foam** is produced.\n    *   A **new smell** is produced. (Any two of these or similar appropriate observations)\n\nc)  This is a **reversible** change. (1 mark)\n    *   **Because** the sugar has not turned into a new substance; it has only mixed evenly with the water. (1 mark)\n    *   You could get the sugar back by **evaporating** the water, leaving the solid sugar behind. (1 mark)\n\nd)  The fizzing and bubbling is an **irreversible** change. (1 mark)\n    *   **Because** when the lemon juice (an acid) mixes with the baking soda (an alkali/base), a chemical reaction takes place. (1 mark)\n    *   This reaction produces **new substances**, specifically a gas (carbon dioxide), water, and a salt, which are different from the original baking soda and lemon juice. (1 mark)\n    *   You cannot easily separate these new substances back into the original baking soda and lemon juice using simple methods. (1 mark)",
+      "explanation": "This model answer comprehensively addresses all parts of the question using precise scientific terminology and adhering to the specified command words.\n\nFor part (a), 'Dissolving' correctly identifies the physical change.\nFor part (b), specific observable changes (fizzing/bubbling, foam, new smell) are provided, demonstrating observational skills.\nFor part (c), the answer correctly classifies the change as 'reversible' and provides a clear explanation focusing on the absence of new substances and the possibility of recovering the original sugar through evaporation, linking cause and effect using 'because'.\nFor part (d), the answer correctly identifies the change as 'irreversible' and explains this by detailing the formation of new substances (gas, water, salt) through a chemical reaction between the lemon juice and baking soda, and explicitly stating the inability to easily revert these new substances back to the original ingredients. This explanation clearly links the cause (chemical reaction leading to new substances) with the effect (irreversible change).",
+      "hint": "Remember to consider whether new substances are formed, or if you can get the original ingredients back, when deciding if a change is reversible or irreversible. Pay close attention to what you can observe.",
+      "generatedAt": "2026-04-29T16:25:58.039083"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_004",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A science team is exploring a vast underground cave system. They observe several pools of water where solid minerals have disappeared into the water, making it slightly cloudy. In other parts of the cave, they find solid mineral crystals clinging to the cave walls where water has dried up. The team also discovers ancient volcanic vents that once released intense heat, causing some of the original cave rocks to melt and then cool, forming new types of rock that look very different.\n\n**(a) (3 marks)** Explain why the mineral water in the cave pools could be called a 'solution'. Your explanation should include the terms 'solute' and 'solvent'.\n\n**(b) (2 marks)** Describe one method the science team could use to recover the solid minerals from a sample of the cave pool water.\n\n**(c) (4 marks)** When the water evaporates from the cave pools, solid mineral crystals are left behind on the walls. Is the process of the minerals dissolving in the water a reversible or irreversible change? Explain your answer.\n\n**(d) (4 marks)** The volcanic activity caused some of the original cave rocks to melt and then solidify into completely new types of rock. Is this change in the rocks a reversible or irreversible change? Explain your answer.",
+      "options": [],
+      "correctAnswer": "****(a) (3 marks)**\nThe mineral water in the cave pools could be called a 'solution' because the solid minerals (which are the **solute**) have completely dissolved in the water (which is the **solvent**). This means the mineral particles are evenly spread throughout the water and are no longer visible as separate solid pieces.\n\n****(b) (2 marks)**\nThe science team could take a sample of the mineral water and leave it in a shallow, open container in a warm place. The water would slowly turn into a gas and disappear (evaporate), leaving the solid mineral crystals behind in the container.\n\n****(c) (4 marks)**\nThis is a **reversible** change (1 mark). This is because the original solid minerals can be recovered from the water (1 mark) by evaporating the water (1 mark). This shows that no new substance was formed during the dissolving process; the minerals just changed state and are still present (1 mark).\n\n****(d) (4 marks)**\nThis is an **irreversible** change (1 mark). This is because the intense heat from the volcanic activity caused the original rocks to melt and chemically transform (1 mark). When they cooled, completely new types of rock were formed (1 mark), and these new rocks cannot easily be turned back into the original rock without very complex processes (1 mark).",
+      "explanation": "This question assesses a Year 5 student's advanced understanding of material changes within the specified context (dissolving, mixing, reversible vs. irreversible changes). \n\n**(a)** Requires the student to apply the definitions of 'solution', 'solute', and 'solvent' correctly within an explanation, linking cause and effect ('because'/'so').\n\n**(b)** Demands a description of a practical method (evaporation) to separate a dissolved solid from a liquid, demonstrating understanding of reversible changes.\n\n**(c)** Asks the student to classify a change as reversible or irreversible and provide a detailed explanation. The explanation must clearly state the type of change and justify it by referencing the ability to recover the original substance and the absence of new substance formation.\n\n**(d)** Extends the concept of reversible/irreversible changes to a different scenario (chemical change due to heat). The explanation needs to justify why it's irreversible by highlighting the formation of new substances and the difficulty of reversing the process. The context of an 'underground cave system' and 'volcanic activity' provides an 'unfamiliar setting' that challenges students to apply learned concepts beyond typical classroom examples, making it 'advanced' for Year 5.",
+      "hint": "For explanations, remember to use specific scientific terms like 'solute', 'solvent', 'dissolve', 'evaporate', and link the cause of the change to its observed effect. For reversible/irreversible questions, consider if the original substance can be recovered and if new substances have been formed.",
+      "generatedAt": "2026-04-29T16:26:41.526158"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_005",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Leo, a young inventor, is making a special 'Crystal Art Solution' for a school project. He starts with 150ml of clear water.\n\nFirst, he adds 10g of very fine blue powder to the water and stirs well. The water quickly turns blue, and he can no longer see the blue powder as separate grains.\n\nNext, he adds 5g of tiny, shiny silver flakes (glitter) to the blue liquid and stirs again. The silver flakes spread out but remain clearly visible floating in the blue liquid.\n\n**Part A: Mixing and Dissolving**\n1.  **Describe** two observations Leo would make when he adds the blue powder to the water and stirs. (2 marks)\n2.  **Explain** why the silver flakes (glitter) remain visible in the blue liquid, even after vigorous stirring, but the blue powder does not. (3 marks)\n\nLeo then uses his 'Crystal Art Solution' in two different ways for his project.\n\n**Method A**: He carefully pours 50ml of the blue liquid with glitter into a wide, shallow dish and leaves it in a warm, sunny spot for several days. After some time, all the blue liquid disappears, leaving behind a blue residue and the silver glitter on the dish.\n\n**Method B**: He pours another 50ml of the blue liquid with glitter into a small mould. He then adds a special clear 'setting liquid' to it and stirs gently for one minute. The whole mixture quickly changes into a solid, firm, clear blue jelly-like material, with the glitter trapped inside.\n\n**Part B: Reversible and Irreversible Changes**\n3.  **State** whether the change in Method A (leaving the liquid in a sunny spot) is a reversible or irreversible change. (1 mark)\n4.  **Describe** how Leo could get the water back from the blue liquid that evaporated in Method A, using simple classroom equipment. (2 marks)\n5.  **Explain** why the change in Method B (adding the 'setting liquid') is an example of an irreversible change. (3 marks)",
+      "options": [],
+      "correctAnswer": "Model Answer:\n\n**Part A: Mixing and Dissolving**\n1.  Leo would observe that the water turns blue. He would also observe that the blue powder appears to disappear, or is no longer visible as separate grains in the water. (2 marks)\n\n2.  The silver flakes (glitter) remain visible because they do not dissolve in the water; they only mix in and spread throughout the liquid, so their particles are still large enough to be seen. In contrast, the blue powder dissolved in the water, meaning its particles broke down into tiny, invisible pieces that mixed completely with the water, so it could no longer be seen. (3 marks)\n\n**Part B: Reversible and Irreversible Changes**\n3.  The change in Method A is a reversible change. (1 mark)\n\n4.  Leo could get the water back by collecting the water vapour. He could do this by covering the dish with a cold surface (like a cold plate or lid) above the evaporating liquid. The water vapour would cool down, condense into liquid water droplets, and then could be collected. (2 marks)\n\n5.  The change in Method B is irreversible because a new substance (the solid, jelly-like material) was formed when the 'setting liquid' was added. This new substance has different properties from the original blue liquid and cannot easily be changed back into the starting materials by simple physical methods. (3 marks)",
+      "explanation": "This question requires students to apply their understanding of dissolving, mixing, and reversible/irreversible changes in a multi-step scenario.\n\n1.  **Describe** assesses observational skills related to dissolving.\n2.  **Explain** requires linking the observation to the scientific concept of dissolving vs. suspending, using cause and effect ('because' or 'so').\n3.  **State** tests direct recall of the type of change.\n4.  **Describe** asks for a practical method to reverse a change (condensation).\n5.  **Explain** demands understanding that irreversible changes involve the formation of new substances, making reversal difficult or impossible by simple means, linking cause and effect.",
+      "hint": "Remember that dissolving means a substance disappears and mixes completely to form a solution, while mixing (without dissolving) means particles are still visible. Think about whether you can easily get the original substances back to decide if a change is reversible or irreversible.",
+      "generatedAt": "2026-04-29T16:27:04.035080"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_006",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Imagine you are a junior scientist exploring a peculiar \"Rainbow Lake\" known for its unique properties. You take a sample of the clear lake water (Container A). You also find a sample of \"Moon Dust\" (a very fine, white powder) and \"Sun Shard\" (a small, crystalline solid).\n\nYou conduct three simple experiments:\n\n**Experiment 1:**\nYou add 5g of Sun Shard to 100ml of Rainbow Lake water in a beaker. After stirring, the Sun Shard completely disappears, and the water remains clear. You label this Beaker 1.\n\n**Experiment 2:**\nYou add 5g of Moon Dust to 100ml of Rainbow Lake water in another beaker. After stirring, the Moon Dust mixes with the water, making it cloudy, but slowly settles at the bottom if left undisturbed. You label this Beaker 2.\n\n**Experiment 3:**\nYou then take the cloudy mixture from Beaker 2 and add a special \"Mist Potion\" (a liquid) to it. Immediately, the mixture starts to bubble, and a new, frothy white substance appears on top, while the liquid underneath remains cloudy but no longer has Moon Dust settling. You notice the beaker feels slightly warm. You label this Beaker 3.\n\n**(a) State** the scientific term for what happened to the Sun Shard in Beaker 1. (1 mark)\n\n**(b) Describe** one way you could separate the Moon Dust from the water in Beaker 2 *before* adding the Mist Potion. (2 marks)\n\n**(c) Explain** why the change in Beaker 1 is considered a *reversible* change, and why the change in Beaker 3 is considered an *irreversible* change. Your explanation must include clear observations for each. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) **Dissolving**\n\n(b) One way to separate the Moon Dust from the water in Beaker 2 is by **filtration**. You could pour the cloudy mixture through a filter paper placed in a funnel. The Moon Dust, being a solid, would be trapped on the filter paper, while the clear water would pass through the paper into a container below.\n\n*(Alternatively, by **decanting**: You could leave the beaker undisturbed for a long time until all the Moon Dust settles at the bottom. Then, carefully pour the clear water from the top into another container, leaving the Moon Dust behind.)*\n\n(c) The change in Beaker 1 is considered **reversible**.\n*   **Observation:** The Sun Shard completely disappeared, and the water remained clear, showing it dissolved.\n*   **Explanation:** This is reversible *because* if you were to gently heat the water, it would evaporate, and the Sun Shard would be left behind as a solid, meaning the original substance can be recovered.\n\nThe change in Beaker 3 is considered **irreversible**.\n*   **Observation:** Bubbles were produced, a new frothy white substance appeared on top, and the beaker felt slightly warm. These are signs that new substances have been formed.\n*   **Explanation:** This is irreversible *because* new substances were created that were not present at the start (the bubbles and the frothy substance), and it would be very difficult, if not impossible, to get the original Moon Dust and Mist Potion back in their original forms.",
+      "explanation": "**(a) Dissolving:** When a solid mixes completely with a liquid to form a clear solution where the solid can no longer be seen, the scientific term for this process is dissolving.\n\n**(b) Separation Method:** The Moon Dust in Beaker 2 formed a cloudy mixture and settled at the bottom, indicating it's a suspension. Suspensions can be separated by physical methods. Filtration uses a filter material (like filter paper) to trap the solid particles while allowing the liquid to pass through. Decanting involves allowing the solid to settle and then carefully pouring off the liquid above it.\n\n**(c) Reversible vs. Irreversible:**\n*   **Beaker 1 (Reversible):** The change is reversible because dissolving is a physical change, not a chemical one. The Sun Shard is still present in the water, just spread out. You can reverse this change and recover the original Sun Shard by evaporating the water. The observation that the Sun Shard 'disappeared' and the water remained clear supports this.\n*   **Beaker 3 (Irreversible):** The observations (bubbles, formation of a new frothy substance, and the beaker feeling warm) are all key indicators of a chemical change, where new substances with different properties are formed. Once new substances are created in a chemical reaction, it is typically an irreversible change because you cannot easily convert these new substances back into the original starting materials (Moon Dust and Mist Potion).",
+      "hint": "For part (c), think about whether you can easily get the starting materials back to their original form. If new things are made that weren't there before, it's usually harder, or impossible, to go back.",
+      "generatedAt": "2026-04-29T16:28:33.074720"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_007",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A student is tasked with separating and purifying a sample of rock salt, which is a mixture of sodium chloride (salt) and insoluble sand. The student takes 20.0 g of the rock salt mixture.\n\n**Step 1:** The student adds 150 cm³ of distilled water to the rock salt in a beaker and stirs vigorously for two minutes. Sodium chloride dissolves, but the sand does not.\n\n**Step 2:** The mixture is then filtered using filter paper and a funnel. The sand is collected on the filter paper, washed with a small amount of distilled water, and dried. Its mass is found to be 4.0 g.\n\n**Step 3:** The filtrate (the liquid containing dissolved sodium chloride) is then transferred to an evaporating dish and heated gently using a Bunsen burner until all the water has evaporated, leaving solid sodium chloride behind.\n\n**Question 1:** State the scientific term for the liquid formed in Step 1 after the sodium chloride has dissolved. (1 mark)\n\n**Question 2:** Describe the appearance of the sodium chloride in the evaporating dish immediately after all the water has evaporated in Step 3. (2 marks)\n\n**Question 3:** Explain why the process of dissolving sodium chloride in water is classified as a reversible change, whereas baking a cake is not. (4 marks)\n\n**Question 4:** Calculate the percentage by mass of sodium chloride in the original 20.0 g rock salt mixture. Show your working. (3 marks)",
+      "options": [
+        "A) Suspension",
+        "B) Solution",
+        "C) Mixture",
+        "D) Solvent"
+      ],
+      "correctAnswer": "B) Solution",
+      "explanation": "**Question 1: State**\nThe correct scientific term is a **solution** because sodium chloride has dissolved uniformly in the water, forming a homogeneous mixture. (1 mark)\n\n**Question 2: Describe**\nImmediately after the water has evaporated, the sodium chloride will appear as a **white, crystalline solid/powder**. (1 mark for 'white', 1 mark for 'crystalline solid' or 'powder')\n\n**Question 3: Explain**\nDissolving sodium chloride in water is a reversible change because it is a **physical change** (1 mark). The original sodium chloride can be **recovered in its original chemical form** (cause) by a physical process such as evaporation, so **no new chemical substances are produced** (effect) (1 mark). In contrast, baking a cake is an **irreversible chemical change** (1 mark) because new substances are formed (e.g., gases, changed texture, altered chemical composition) that **cannot be easily converted back** into the original raw ingredients (1 mark).\n\n**Question 4: Calculate**\n**Step 1: Calculate the mass of sodium chloride.**\nMass of rock salt mixture = 20.0 g\nMass of sand = 4.0 g\nMass of sodium chloride = Mass of rock salt mixture - Mass of sand\nMass of sodium chloride = 20.0 g - 4.0 g = **16.0 g** (1 mark for correct mass of NaCl)\n\n**Step 2: Calculate the percentage by mass of sodium chloride.**\nPercentage by mass = (Mass of sodium chloride / Mass of rock salt mixture) × 100%\nPercentage by mass = (16.0 g / 20.0 g) × 100% (1 mark for correct formula/substitution)\nPercentage by mass = 0.8 × 100% = **80.0 %** (1 mark for correct answer with unit)",
+      "hint": "For the calculation in Question 4, first determine the mass of sodium chloride by subtracting the mass of sand from the total mass of the mixture. Then, use this mass and the original mixture's mass to find the percentage.",
+      "generatedAt": "2026-04-29T16:29:00.923857"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_008",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Alex is conducting an experiment for a 'Materials Science' school project, investigating how different substances change when mixed and heated.\n\nFirst, Alex takes 20g of cornflour (a fine white powder) and mixes it thoroughly with 100ml of cold water in a beaker. This creates a cloudy liquid mixture.\n\nNext, Alex divides this cloudy liquid mixture into two equal parts, labelling them Mixture A and Mixture B.\n\nFor Mixture A, Alex gently heats it until it becomes a thick, clear, sticky paste.\n\nFor Mixture B, Alex adds 10g of salt (sodium chloride) to it and stirs it until the salt is no longer visible.\n\nFinally, Alex leaves both Mixture A and Mixture B in separate open dishes in a warm room for several days until all the liquid has evaporated.\n\n(a) Describe what Alex would observe happening to Mixture A after several days and explain why this change would be difficult to reverse. (4 marks)\n\n(b) Explain why the salt added to Mixture B was no longer visible. Describe how Alex could have sped up the process of reversing the change to the salt in Mixture B. (4 marks)\n\n(c) State the total mass of solid material Alex would recover from Mixture B at the end of the experiment, assuming all the water evaporated and no material was lost. (1 mark)",
+      "options": [],
+      "correctAnswer": "(a) (i) **Describe (2 marks):** Alex would observe that Mixture A dries out and hardens, forming a solid, brittle film or crust at the bottom of the dish.\n(ii) **Explain (2 marks):** Heating the cornflour and water mixture caused an irreversible chemical change. The heat permanently changed the cornflour molecules, forming a new substance (the paste). This new substance cannot easily turn back into separate cornflour and water just by adding water, because its chemical structure has been altered.\n\n(b) (i) **Explain (2 marks):** The salt was no longer visible because it dissolved in the water. This means the tiny salt particles spread out evenly throughout the water, becoming too small to see, forming a clear solution.\n(ii) **Describe (2 marks):** Alex could have sped up the reversal by gently heating Mixture B (e.g., on a warm hot plate or in a warm oven) to make the water evaporate faster. Alternatively, spreading the mixture over a larger, flatter surface would increase the surface area for evaporation, speeding up the process.\n\n(c) **State (1 mark):** The total mass of solid material Alex would recover from Mixture B is 20g.\n**Working:**\nOriginal cornflour (20g) divided into two, so 10g cornflour in Mixture B.\nSalt added to Mixture B = 10g.\nTotal solid = 10g (cornflour) + 10g (salt) = 20g.",
+      "explanation": "This question requires students to differentiate between reversible and irreversible changes, understand the concept of dissolving, and apply conservation of mass. \n(a) Heating cornflour and water causes starch gelatinisation, an irreversible change where new chemical bonds form. The description requires observing the physical result of drying (hardening, film). The explanation requires linking the heating to a permanent change in the substance.\n(b) Salt dissolving is a physical change, where salt particles disperse evenly. The explanation needs to state dissolving and explain why it makes the salt invisible. The reversal method (evaporation) needs to be described, and speeding it up involves increasing the rate of evaporation (heat, surface area).\n(c) This part tests the understanding of conservation of mass. Mixture B contained half of the original cornflour (20g/2 = 10g) plus the added salt (10g). The total mass of solids recovered will be the sum of these two components (10g + 10g = 20g), as dissolving is a physical change and evaporation simply separates the solute from the solvent.",
+      "hint": "Remember to consider whether the changes can be easily undone and how dissolving affects the appearance of substances. For the final part, think about all the solid materials that were present in Mixture B before the water evaporated.",
+      "generatedAt": "2026-04-29T16:30:16.419832"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_009",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Amelia is helping her dad prepare for a picnic, which involves several scientific changes.\n\n**Task 1: Making Sweet Tea**\nAmelia adds 50g of sugar to 200ml of hot tea and stirs until the sugar is no longer visible.\n\n**Task 2: Preparing Fruit Salad Dressing**\nShe mixes 100ml of oil with 50ml of vinegar for the dressing. Even after vigorous shaking, the oil and vinegar eventually separate into layers if left to stand.\n\n**Task 3: Toasting Marshmallows**\nFor a treat, Amelia carefully toasts marshmallows over a low flame. The marshmallows turn golden brown, puff up, and become sticky. If left for too long, they turn black and smell burnt.\n\nAnswer the following questions:\n\n(a) Describe what happens to the sugar in Task 1 and explain why it seems to disappear. (4 marks)\n(b) Describe what happens when oil and vinegar are mixed in Task 2 and explain why this occurs, even after shaking. (4 marks)\n(c) Identify one reversible change from Task 1 or Task 2, and one irreversible change from Task 3. Explain the key difference between these two types of changes. (6 marks)",
+      "options": [],
+      "correctAnswer": "(a) Describe what happens to the sugar in Task 1 and explain why it seems to disappear.\n*   **Description (1 mark):** The sugar dissolves in the hot tea.\n*   **Explanation (3 marks):** This happens because the tiny sugar particles break up and spread out evenly throughout the tea, mixing completely with the tea particles. Hot water helps these particles move and mix faster, forming a clear solution, so the sugar appears to disappear but is still present in the liquid.\n\n(b) Describe what happens when oil and vinegar are mixed in Task 2 and explain why this occurs, even after shaking. \n*   **Description (1 mark):** The oil and vinegar separate into two distinct layers.\n*   **Explanation (3 marks):** This occurs because oil and vinegar do not mix together evenly; their particles do not combine well. Oil is less dense than vinegar, so it floats on top, forming separate layers again even after shaking, because they are immiscible.\n\n(c) Identify one reversible change from Task 1 or Task 2, and one irreversible change from Task 3. Explain the key difference between these two types of changes. \n*   **Reversible Change Identification (1 mark):** The sugar dissolving in the tea (Task 1) OR the mixing/separation of oil and vinegar (Task 2).\n*   **Explanation of Reversible Change (2 marks):** A reversible change is one where the original substances can be easily recovered or returned to their initial state, and no new substances are formed. For example, you could evaporate the water from the sweet tea to get the sugar back.\n*   **Irreversible Change Identification (1 mark):** Toasting the marshmallows (Task 3).\n*   **Explanation of Irreversible Change (2 marks):** An irreversible change is one where new substances are formed, and it is very difficult or impossible to change them back to their original state. When marshmallows are toasted, they change colour, texture, and smell, meaning new substances have been created.",
+      "explanation": "This question is designed to be 'advanced' for Year 5 by requiring students to apply and combine multiple scientific concepts related to material changes. It assesses their understanding of:\n\n*   **Dissolving:** Students must describe the process (sugar 'disappearing') and explain it using the concept of particles spreading out to form a solution, highlighting the role of heat.\n*   **Mixing and Immiscibility:** Students need to describe the separation of oil and vinegar into layers and explain this phenomenon by referencing their particles not mixing and differences in density.\n*   **Reversible vs. Irreversible Changes:** Students must correctly identify examples of each type of change from the provided scenario and then clearly explain the fundamental difference between them, specifically focusing on whether new substances are formed and if the original state can be easily recovered.\n\nEach part requires not just recall but application and explanation, demonstrating a deeper understanding of the causes and effects of material changes.",
+      "hint": "Remember to use the terms 'particles' and think carefully about whether new substances are formed, or if the original substances can be separated or returned to their initial state.",
+      "generatedAt": "2026-04-29T16:30:46.846641"
+    },
+    {
+      "id": "s-y5-materials-change_advanced_010",
+      "topicId": "s-y5-materials-change",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Imagine you are part of an advanced research team developing methods to extract valuable substances from Martian soil. You have been given a sample of 'Red Planet Regolith' which is a complex mixture containing:\n\n*   Fine, red iron oxide particles (insoluble in water)\n*   Small, black volcanic rock fragments (insoluble in water)\n*   A newly discovered white crystalline compound, 'Martianite', which is highly soluble in water and forms a clear, colourless solution.\n\nYour task is to separate and recover pure solid Martianite from a 50 g sample of Red Planet Regolith. You have access to beakers, stirrers, water, filter paper, funnels, and a Bunsen burner with an evaporating dish.\n\n**Describe** a multi-step procedure you would use to separate the Martianite from the other components and then recover the pure solid Martianite. For each significant step, **explain** the scientific principle behind the material change occurring and **state** whether the change for Martianite is reversible or irreversible. (10 marks)",
+      "options": [],
+      "correctAnswer": "Here is a multi-step procedure to separate and recover pure solid Martianite:\n\n**Step 1: Dissolving Martianite and Mixing**\n*   **Procedure:** Add an appropriate volume of water (e.g., 100 mL) to the 50 g sample of Red Planet Regolith in a beaker. Stir the mixture thoroughly for several minutes until no more Martianite appears to dissolve.\n*   **Explanation:** The Martianite will dissolve in the water because it is highly soluble, forming a clear Martianite solution. The red iron oxide particles and black volcanic rock fragments will remain as solid particles because they are insoluble in water. This process uses the difference in solubility to separate Martianite from the other solid components.\n*   **Reversibility:** The dissolving of Martianite is a reversible change.\n\n**Step 2: Filtration**\n*   **Procedure:** Set up a filtration apparatus using a funnel lined with filter paper. Carefully pour the entire mixture from Step 1 through the filter paper, collecting the liquid that passes through in a clean beaker below.\n*   **Explanation:** The insoluble red iron oxide and black volcanic rock fragments will be trapped on the filter paper, forming the residue, because their particles are too large to pass through the microscopic pores of the filter paper. The clear Martianite solution (known as the filtrate) will pass through the filter paper and be collected, as the dissolved Martianite and water particles are small enough to pass through.\n*   **Reversibility:** The Martianite itself remains in solution during this step. The overall process of dissolving and subsequent filtration to separate insoluble solids is a physical and therefore reversible change for the Martianite.\n\n**Step 3: Evaporation to Recover Solid Martianite**\n*   **Procedure:** Transfer the clear Martianite solution (filtrate) into an evaporating dish. Gently heat the evaporating dish using a Bunsen burner, being careful not to boil the solution too vigorously or overheat the residue. Continue heating until all the water has evaporated and solid crystals are left behind.\n*   **Explanation:** Heating provides energy for the water molecules to gain kinetic energy and escape as water vapour (evaporation), leaving them behind as a gas. Martianite has a much higher boiling point than water and is a solid at room temperature, so it does not evaporate and is left behind as pure solid crystals in the evaporating dish. This change uses the difference in boiling points.\n*   **Reversibility:** The change from dissolved Martianite back to solid Martianite is a reversible change, as the recovered Martianite crystals can be dissolved in water again.",
+      "explanation": "This model answer demonstrates a comprehensive understanding of material changes. It outlines a multi-step procedure by describing each action, explains the scientific principles (solubility, insolubility, filtration, evaporation, differences in boiling points) that drive each change using correct terminology, and accurately states whether each change concerning Martianite is reversible or irreversible. This fulfills all requirements of the question.",
+      "hint": "Remember to consider the different physical properties of the materials, such as solubility and boiling points, and how these properties allow for their separation and recovery.",
+      "generatedAt": "2026-04-29T16:31:12.241430"
+    }
+  ]
+}

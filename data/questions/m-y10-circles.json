@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y10-circles_beginner_001",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A and B are on the circumference of the circle such that the line segment AB passes through the centre O. Point C is also on the circumference of the circle. What is the size, in degrees, of angle ACB?",
+      "options": [
+        "45 degrees",
+        "90 degrees",
+        "180 degrees",
+        "Depends on the position of C"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "1. The line segment AB passes through the centre O, which means AB is a diameter of the circle.\n2. Point C is on the circumference of the circle.\n3. A fundamental circle theorem states that 'The angle subtended by a diameter at any point on the circumference is a right angle (90 degrees)'.\n4. Therefore, angle ACB, which is subtended by the diameter AB at point C on the circumference, must be 90 degrees.",
+      "hint": "Think about the special angle formed when the endpoints of a diameter are connected to a point on the circumference.",
+      "generatedAt": "2026-04-30T19:04:39.727452"
+    },
+    {
+      "id": "m-y10-circles_beginner_002",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has a diameter AB. Point C is located on the circumference of the circle. What is the size of angle ACB?",
+      "options": [
+        "A: 45 degrees",
+        "B: 60 degrees",
+        "C: 90 degrees",
+        "D: 180 degrees"
+      ],
+      "correctAnswer": "C: 90 degrees",
+      "explanation": "One of the fundamental circle theorems states that the angle subtended by a diameter at any point on the circumference is always a right angle. Since AB is the diameter and C is a point on the circumference, the angle ACB must be 90 degrees.",
+      "hint": "Recall the circle theorem related to angles formed when a diameter subtends a point on the circumference.",
+      "generatedAt": "2026-04-30T19:04:46.342324"
+    },
+    {
+      "id": "m-y10-circles_beginner_003",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Within a circle, the angle formed by two radii meeting at the centre (M) and connecting to points P and Q on the circumference is 130 degrees. A third point, R, is also on the circumference, positioned on the major arc between P and Q. Calculate the size of the angle formed by connecting points P, R, and Q on the circumference, showing your working.",
+      "options": [
+        "65 degrees",
+        "130 degrees",
+        "260 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "65 degrees",
+      "explanation": "The circle theorem states that the angle at the centre of a circle is twice the angle at the circumference when both angles are subtended by the same arc.\nIn this question, the angle formed at the centre, PMQ, is 130 degrees.\nThe angle formed at the circumference, PRQ, is subtended by the same arc PQ.\nTherefore, angle PRQ = angle PMQ / 2.\nAngle PRQ = 130 degrees / 2 = 65 degrees.",
+      "hint": "Recall the circle theorem that relates the angle at the centre to the angle at the circumference when they are subtended by the same arc.",
+      "generatedAt": "2026-04-30T19:05:01.154203"
+    },
+    {
+      "id": "m-y10-circles_beginner_004",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "The points A, B, C, and D lie on the circumference of a circle, forming a cyclic quadrilateral. Angle ABC measures 85 degrees. Calculate the size of angle ADC. Show your working.",
+      "options": [
+        "85 degrees",
+        "95 degrees",
+        "105 degrees",
+        "170 degrees"
+      ],
+      "correctAnswer": "95 degrees",
+      "explanation": "In a cyclic quadrilateral, opposite angles sum to 180 degrees. Angle ABC and Angle ADC are opposite angles in the cyclic quadrilateral ABCD. Therefore, Angle ADC = 180 degrees - Angle ABC. Angle ADC = 180 degrees - 85 degrees = 95 degrees.",
+      "hint": "Consider the property of opposite angles within a cyclic quadrilateral.",
+      "generatedAt": "2026-04-30T19:05:12.334430"
+    },
+    {
+      "id": "m-y10-circles_beginner_005",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. A straight line segment, AB, is a tangent to the circle at point A. Point B is an external point to the circle. The line segment OB connects the centre O to the external point B. If angle OBA is 30 degrees, what is the measure of angle AOB? Show your working.",
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correctAnswer": "60 degrees",
+      "explanation": "1.  According to the circle theorem for tangents, a tangent to a circle is perpendicular to the radius at the point of contact. Therefore, the angle formed between the radius OA and the tangent AB, which is angle OAB, is 90 degrees.\n2.  The points O, A, and B form a triangle (Triangle OAB).\n3.  The sum of angles in any triangle is 180 degrees.\n4.  We are given angle OBA = 30 degrees, and we determined angle OAB = 90 degrees.\n5.  To find angle AOB, we subtract the known angles from 180 degrees:\n    Angle AOB = 180 degrees - (Angle OAB + Angle OBA)\n    Angle AOB = 180 degrees - (90 degrees + 30 degrees)\n    Angle AOB = 180 degrees - 120 degrees\n    Angle AOB = 60 degrees.",
+      "hint": "Recall the relationship between a tangent and the radius at the point of contact. Then, use the property of the sum of angles in a triangle.",
+      "generatedAt": "2026-04-30T19:05:24.448106"
+    },
+    {
+      "id": "m-y10-circles_beginner_006",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Point P is an external point outside the circle. Two tangent lines are drawn from point P to the circle. The first tangent line touches the circle at point A, and the second tangent line touches the circle at point B. If the length of the line segment PA is 15 cm, what is the length of the line segment PB?",
+      "options": [
+        "5 cm",
+        "7.5 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "correctAnswer": "15 cm",
+      "explanation": "The circle theorem states that two tangents drawn from an external point to a circle are equal in length. In this problem, P is the external point, and PA and PB are the two tangent segments. Therefore, the length of PA is equal to the length of PB. Given that PA = 15 cm, then PB must also be 15 cm.",
+      "hint": "Consider the property of two tangent lines drawn to a circle from the same external point.",
+      "generatedAt": "2026-04-30T19:05:34.477283"
+    },
+    {
+      "id": "m-y10-circles_beginner_007",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A, B, and C lie on the circumference of the circle. The angle subtended by the arc AB at the centre, angle AOB, is 110 degrees. Calculate the size of the angle subtended by the arc AB at the circumference, angle ACB.",
+      "options": [
+        "55 degrees",
+        "110 degrees",
+        "220 degrees",
+        "70 degrees"
+      ],
+      "correctAnswer": "55 degrees",
+      "explanation": "The circle theorem states that the angle subtended by an arc at the centre of a circle is twice the angle subtended by the same arc at any point on the remaining part of the circumference.\n\nGiven:\nAngle at the centre (angle AOB) = 110 degrees.\n\nWe need to find the angle at the circumference (angle ACB).\n\nAngle ACB = Angle AOB / 2\nAngle ACB = 110 degrees / 2\nAngle ACB = 55 degrees.",
+      "hint": "Recall the relationship between an angle formed at the centre of a circle and an angle formed at the circumference when they both share the same arc.",
+      "generatedAt": "2026-04-30T19:05:44.184593"
+    },
+    {
+      "id": "m-y10-circles_beginner_008",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points P and Q lie on the circumference of the circle, forming a chord PQ. The length of the chord PQ is 24 cm. A line segment from the centre O to the chord PQ is perpendicular to PQ, and its length is 5 cm. Calculate the radius of the circle. Show your working.",
+      "options": [],
+      "correctAnswer": "The perpendicular from the centre of a circle to a chord bisects the chord. \nGiven the chord PQ is 24 cm, the perpendicular line from the centre O will divide it into two equal segments. Let M be the midpoint of PQ where the perpendicular line meets the chord.\nSo, PM = MQ = 24 cm / 2 = 12 cm.\n\nNow, we have a right-angled triangle OMP, where:\nOM = 5 cm (the perpendicular distance from the centre to the chord)\nPM = 12 cm (half the length of the chord)\nOP = radius of the circle (the hypotenuse of the triangle)\n\nUsing Pythagoras' Theorem (a² + b² = c²):\nOP² = OM² + PM²\nOP² = 5² + 12²\nOP² = 25 + 144\nOP² = 169\nOP = √169\nOP = 13 cm\n\nTherefore, the radius of the circle is 13 cm.",
+      "explanation": "The perpendicular from the centre of a circle to a chord bisects the chord. This means that the 24 cm chord is divided into two 12 cm segments. This forms a right-angled triangle with the radius as the hypotenuse, one leg as the perpendicular distance from the centre to the chord (5 cm), and the other leg as half the chord length (12 cm). Using Pythagoras' Theorem (a² + b² = c²), the radius² = 5² + 12² = 25 + 144 = 169. So, the radius is the square root of 169, which is 13 cm.",
+      "hint": "Remember that a line segment from the centre of a circle that is perpendicular to a chord also bisects the chord. You can then use Pythagoras' theorem.",
+      "generatedAt": "2026-04-30T19:06:02.259588"
+    },
+    {
+      "id": "m-y10-circles_beginner_009",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circle contains a straight line segment PR which is a diameter. Point Q is on the circumference of the circle. What is the size, in degrees, of angle PQR? You must show your working.",
+      "options": [
+        "45 degrees",
+        "60 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "The circle theorem states that the angle subtended by a diameter at any point on the circumference is always 90 degrees. Since PR is the diameter of the circle and Q is a point on the circumference, the angle PQR forms an angle in a semicircle, which means angle PQR is 90 degrees.",
+      "hint": "Recall the theorem about angles in a semicircle.",
+      "generatedAt": "2026-04-30T19:06:12.292131"
+    },
+    {
+      "id": "m-y10-circles_beginner_010",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A circular arc, labelled AB, subtends an angle of 110 degrees at the centre of the circle. What is the size of the angle subtended by the same arc AB at any point on the remaining part of the circumference?",
+      "options": [
+        "110 degrees",
+        "55 degrees",
+        "220 degrees",
+        "70 degrees"
+      ],
+      "correctAnswer": "55 degrees",
+      "explanation": "The circle theorem states that the angle subtended by an arc at the centre of a circle is twice the angle subtended by the same arc at any point on the remaining part of the circumference.\n\nGiven that the angle at the centre is 110 degrees, the angle at the circumference will be half of this value.\n\nAngle at circumference = Angle at centre / 2\nAngle at circumference = 110 degrees / 2\nAngle at circumference = 55 degrees.",
+      "hint": "Consider the relationship between the angle an arc makes at the centre and the angle it makes at the circumference.",
+      "generatedAt": "2026-04-30T19:06:24.578001"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y10-circles_intermediate_001",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Points A, B, C, and D lie on the circumference of a circle with centre O, arranged in clockwise order. The angle AOC, formed by radii OA and OC, is 110 degrees. Angle ABC is an angle subtended by the minor arc AC at the circumference. Calculate the size of angle ADC, showing all your working.",
+      "options": [
+        "A. 55°",
+        "B. 70°",
+        "C. 110°",
+        "D. 125°"
+      ],
+      "correctAnswer": "D. 125°",
+      "explanation": "Step 1: Find angle ABC.\nAccording to the Circle Theorem 'The angle at the centre is twice the angle at the circumference', angle ABC is half of angle AOC.\nAngle AOC = 110 degrees.\nAngle ABC = 110 / 2 = 55 degrees.\n\nStep 2: Find angle ADC.\nPoints A, B, C, and D lie on the circumference of the circle, forming a cyclic quadrilateral ABCD.\nAccording to the Circle Theorem 'Opposite angles in a cyclic quadrilateral sum to 180 degrees':\nAngle ADC + Angle ABC = 180 degrees.\nAngle ADC + 55 degrees = 180 degrees.\nAngle ADC = 180 - 55 = 125 degrees.\nTherefore, the size of angle ADC is 125 degrees.",
+      "hint": "First, use the relationship between the angle at the centre and the angle at the circumference. Then, consider the properties of a cyclic quadrilateral.",
+      "generatedAt": "2026-04-30T19:06:55.472933"
+    },
+    {
+      "id": "m-y10-circles_intermediate_002",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points P, Q, and R lie on the circumference of the circle. The angle PQR is 40 degrees. Calculate the size of angle OPR. Show your working.",
+      "options": [
+        "40 degrees",
+        "50 degrees",
+        "70 degrees",
+        "80 degrees"
+      ],
+      "correctAnswer": "50 degrees",
+      "explanation": "Step 1: Use the circle theorem that the angle at the centre is twice the angle at the circumference when subtended by the same arc.\nAngle POR = 2 * Angle PQR\nAngle POR = 2 * 40 degrees\nAngle POR = 80 degrees\n\nStep 2: Consider triangle POR. Since O is the centre and P and R are on the circumference, OP and OR are both radii of the circle. Therefore, OP = OR, which means triangle POR is an isosceles triangle.\nIn an isosceles triangle, the base angles are equal. So, Angle OPR = Angle ORP.\nThe sum of angles in a triangle is 180 degrees.\nAngle OPR + Angle ORP + Angle POR = 180 degrees\nSince Angle OPR = Angle ORP, we can write:\n2 * Angle OPR + 80 degrees = 180 degrees\n2 * Angle OPR = 180 degrees - 80 degrees\n2 * Angle OPR = 100 degrees\nAngle OPR = 100 degrees / 2\nAngle OPR = 50 degrees",
+      "hint": "First, consider the relationship between the angle at the centre and the angle at the circumference. Then, identify the type of triangle formed by the centre and two points on the circumference.",
+      "generatedAt": "2026-04-30T19:07:05.390780"
+    },
+    {
+      "id": "m-y10-circles_intermediate_003",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has its centre at O. The points A and B are on the circumference, such that the line segment AB passes through the centre O, making it a diameter. Point C is on the circumference such that triangle ABC is formed. Point D is also on the circumference, arranged such that A, B, C, and D form a cyclic quadrilateral. Given that angle CAB is 35 degrees, calculate the size of angle ADC. Show your working.",
+      "options": [],
+      "correctAnswer": "1. Angle in a Semi-Circle Theorem: Since AB is a diameter and point C is on the circumference, the angle subtended by the diameter at the circumference, angle ACB, is 90 degrees.\n2. Angles in a Triangle: In triangle ABC, the sum of angles is 180 degrees. We know angle CAB = 35 degrees and angle ACB = 90 degrees.\n   Therefore, angle ABC = 180 - (angle CAB + angle ACB) = 180 - (35 + 90) = 180 - 125 = 55 degrees.\n3. Cyclic Quadrilateral Theorem: ABCD is a cyclic quadrilateral. Opposite angles in a cyclic quadrilateral sum to 180 degrees.\n   Therefore, angle ADC + angle ABC = 180 degrees.\n   Angle ADC = 180 - angle ABC = 180 - 55 = 125 degrees.\n\nThe size of angle ADC is 125 degrees.",
+      "explanation": "The solution first uses the 'Angle in a Semi-Circle' theorem to deduce that angle ACB is 90 degrees because it is subtended by a diameter. Then, knowing two angles in triangle ABC (CAB and ACB), the third angle ABC is found using the 'Angles in a Triangle' property. Finally, the 'Cyclic Quadrilateral' theorem is applied, stating that opposite angles sum to 180 degrees, to find angle ADC from the calculated angle ABC.",
+      "hint": "Start by identifying any angles that must be 90 degrees due to the presence of a diameter. Then, consider the properties of the four-sided shape inscribed within the circle.",
+      "generatedAt": "2026-04-30T19:07:24.207938"
+    },
+    {
+      "id": "m-y10-circles_intermediate_004",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A, B, and C lie on the circumference of the circle. The line segments OA and OB are radii of the circle. Triangle AOB is formed by connecting these points. Given that angle OAB is 35 degrees, calculate the size of angle ACB. Show your working clearly.",
+      "options": [
+        "35 degrees",
+        "55 degrees",
+        "70 degrees",
+        "110 degrees"
+      ],
+      "correctAnswer": "55 degrees",
+      "explanation": "1.  **Identify Isosceles Triangle:** In triangle AOB, OA and OB are both radii of the circle. By definition, all radii of a circle have the same length. Therefore, triangle AOB is an isosceles triangle, with OA = OB.\n2.  **Calculate Angle OBA:** In an isosceles triangle, the angles opposite the equal sides are also equal. Since OA = OB, the angle opposite OA (angle OBA) must be equal to the angle opposite OB (angle OAB). Given angle OAB = 35 degrees, then angle OBA = 35 degrees.\n3.  **Calculate Angle AOB:** The sum of interior angles in any triangle is 180 degrees. So, in triangle AOB, angle AOB = 180 degrees - (angle OAB + angle OBA) = 180 degrees - (35 degrees + 35 degrees) = 180 degrees - 70 degrees = 110 degrees.\n4.  **Apply Circle Theorem:** The circle theorem states that the angle subtended by an arc at the centre of a circle is twice the angle subtended by the same arc at any point on the remaining part of the circumference. Here, angle AOB is the angle at the centre subtended by arc AB, and angle ACB is the angle at the circumference subtended by the same arc AB.\n5.  **Calculate Angle ACB:** Therefore, angle ACB = angle AOB / 2 = 110 degrees / 2 = 55 degrees.",
+      "hint": "First, consider the properties of triangle AOB given that OA and OB are radii. Then, recall the relationship between the angle at the centre and the angle at the circumference.",
+      "generatedAt": "2026-04-30T19:07:39.835383"
+    },
+    {
+      "id": "m-y10-circles_intermediate_005",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A, B, and C lie on the circumference of the circle. The line segment AOC is a straight line. Angle COB is 70 degrees. Calculate the size of angle ACB. Show your working.",
+      "options": [
+        "35 degrees",
+        "55 degrees",
+        "70 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "55 degrees",
+      "explanation": "1. Since AOC is a straight line and O is the centre, AC is a diameter of the circle. Angles on a straight line sum to 180 degrees.\n   Angle AOB = 180 degrees - Angle COB\n   Angle AOB = 180 degrees - 70 degrees = 110 degrees.\n2. Angle ACB is the angle at the circumference subtended by the arc AB. Angle AOB is the angle at the centre subtended by the same arc AB. According to the Circle Theorem 'Angle at the centre is twice the angle at the circumference':\n   Angle ACB = Angle AOB / 2\n   Angle ACB = 110 degrees / 2 = 55 degrees.\nTherefore, the size of angle ACB is 55 degrees.",
+      "hint": "First, determine the angle AOB by considering angles on a straight line. Then, use the relationship between the angle at the centre and the angle at the circumference subtended by the same arc.",
+      "generatedAt": "2026-04-30T19:08:00.322237"
+    },
+    {
+      "id": "m-y10-circles_intermediate_006",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Point P is located outside the circle. Two tangents are drawn from P to the circle, touching the circumference at points A and B respectively. The angle APB is 70 degrees. Calculate the size of angle OAB. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Consider the quadrilateral OAPB.\nOA is a radius and PA is a tangent, so angle OAP = 90 degrees (Tangent-radius theorem).\nOB is a radius and PB is a tangent, so angle OBP = 90 degrees (Tangent-radius theorem).\nThe sum of interior angles in a quadrilateral is 360 degrees.\nAngle AOB + Angle OAP + Angle APB + Angle OBP = 360 degrees.\nAngle AOB + 90 degrees + 70 degrees + 90 degrees = 360 degrees.\nAngle AOB + 250 degrees = 360 degrees.\nAngle AOB = 360 - 250 = 110 degrees.\n\nStep 2: Consider the triangle OAB.\nOA and OB are both radii of the same circle, so OA = OB.\nTherefore, triangle OAB is an isosceles triangle.\nIn an isosceles triangle, the base angles are equal: Angle OAB = Angle OBA.\nThe sum of angles in a triangle is 180 degrees.\nAngle OAB + Angle OBA + Angle AOB = 180 degrees.\n2 * Angle OAB + 110 degrees = 180 degrees.\n2 * Angle OAB = 180 - 110 = 70 degrees.\nAngle OAB = 70 / 2 = 35 degrees.\n\nFinal Answer: Angle OAB = 35 degrees.",
+      "explanation": "Step 1: Consider the quadrilateral OAPB.\nOA is a radius and PA is a tangent, so angle OAP = 90 degrees (Tangent-radius theorem).\nOB is a radius and PB is a tangent, so angle OBP = 90 degrees (Tangent-radius theorem).\nThe sum of interior angles in a quadrilateral is 360 degrees.\nAngle AOB + Angle OAP + Angle APB + Angle OBP = 360 degrees.\nAngle AOB + 90 degrees + 70 degrees + 90 degrees = 360 degrees.\nAngle AOB + 250 degrees = 360 degrees.\nAngle AOB = 360 - 250 = 110 degrees.\n\nStep 2: Consider the triangle OAB.\nOA and OB are both radii of the same circle, so OA = OB.\nTherefore, triangle OAB is an isosceles triangle.\nIn an isosceles triangle, the base angles are equal: Angle OAB = Angle OBA.\nThe sum of angles in a triangle is 180 degrees.\nAngle OAB + Angle OBA + Angle AOB = 180 degrees.\n2 * Angle OAB + 110 degrees = 180 degrees.\n2 * Angle OAB = 180 - 110 = 70 degrees.\nAngle OAB = 70 / 2 = 35 degrees.\n\nFinal Answer: Angle OAB = 35 degrees.",
+      "hint": "First, consider the quadrilateral formed by the centre, the external point, and the two tangent points. Remember the angle formed between a tangent and a radius.",
+      "generatedAt": "2026-04-30T19:08:18.132793"
+    },
+    {
+      "id": "m-y10-circles_intermediate_007",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has four distinct points, A, B, C, and D, on its circumference, arranged in that order. The line segment XY is a tangent to the circle at point A. Angle ADC is 115 degrees. Calculate the size of angle CAY. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "65 degrees.\n\nWorking:\n1. Identify that ABCD is a cyclic quadrilateral because all four points A, B, C, and D lie on the circumference of the circle.\n2. The opposite angles in a cyclic quadrilateral sum to 180 degrees.\n   Therefore, Angle ABC + Angle ADC = 180 degrees.\n   Angle ABC + 115 degrees = 180 degrees.\n   Angle ABC = 180 - 115 = 65 degrees.\n3. Identify that XY is a tangent to the circle at point A, and AC is a chord.\n4. According to the Alternate Segment Theorem, the angle between a tangent and a chord (at the point of contact) is equal to the angle in the alternate segment.\n   The angle between the tangent XY and the chord AC is Angle CAY.\n   The angle in the alternate segment subtended by chord AC is Angle ABC.\n   Therefore, Angle CAY = Angle ABC.\n5. Substitute the value found in step 2:\n   Angle CAY = 65 degrees.",
+      "explanation": "The problem requires two steps. First, recognise that ABCD is a cyclic quadrilateral. Opposite angles in a cyclic quadrilateral sum to 180 degrees. So, Angle ABC = 180 - Angle ADC = 180 - 115 = 65 degrees. Second, recognise that the line XY is a tangent at A and AC is a chord. The Alternate Segment Theorem states that the angle between a tangent and a chord is equal to the angle in the alternate segment. Therefore, Angle CAY = Angle ABC = 65 degrees.",
+      "hint": "Start by identifying the properties of the cyclic quadrilateral ABCD to find an unknown angle. Then, consider how the tangent XY relates to the chord AC using a relevant circle theorem.",
+      "generatedAt": "2026-04-30T19:08:44.110594"
+    },
+    {
+      "id": "m-y10-circles_intermediate_008",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A circle has centre O. Point T is located outside the circle. Two tangent lines are drawn from point T to the circle, touching the circumference at points A and B respectively. The angle ATB, formed by the two tangents, is 40 degrees. Calculate the size of angle OAB. Show your working clearly.",
+      "options": [
+        "10 degrees",
+        "20 degrees",
+        "25 degrees",
+        "30 degrees"
+      ],
+      "correctAnswer": "20 degrees",
+      "explanation": "Step 1: Identify the properties of tangents from an external point. When two tangents are drawn from an external point (T) to a circle, the lengths of the tangents from T to the points of contact (A and B) are equal. Therefore, TA = TB, which means triangle ATB is an isosceles triangle.\n\nIn an isosceles triangle, the base angles are equal. The sum of angles in a triangle is 180 degrees. So, Angle TAB = Angle TBA = (180 - Angle ATB) / 2.\nAngle TAB = (180 - 40) / 2 = 140 / 2 = 70 degrees.\n\nStep 2: Apply the tangent-radius theorem. A radius (OA) is perpendicular to the tangent (TA) at the point of contact (A). This means Angle OAT = 90 degrees.\n\nWe need to find Angle OAB. We know Angle OAT = 90 degrees and we've found Angle TAB = 70 degrees from Step 1.\nAngle OAB = Angle OAT - Angle TAB.\nAngle OAB = 90 - 70 = 20 degrees.",
+      "hint": "Consider the properties of tangents drawn from an external point to a circle, and the relationship between a radius and a tangent at the point of contact.",
+      "generatedAt": "2026-04-30T19:09:07.293774"
+    },
+    {
+      "id": "m-y10-circles_intermediate_009",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A line segment PQ is a tangent to a circle at point P. The point R lies on the circumference such that PR is a chord of the circle. Another point, S, is on the circumference such that RS is also a chord. The angle RPQ is 70 degrees. The chord PR has the same length as the chord RS. Calculate the size of angle SPR. Show your working.",
+      "options": [],
+      "correctAnswer": "Step-by-step working:\n\n1.  **Identify the Alternate Segment Theorem**: The angle between a tangent and a chord through the point of contact is equal to the angle in the alternate segment. In this case, the tangent is PQ and the chord is PR. The angle RPQ is 70 degrees.\n    The angle in the alternate segment subtended by chord PR is angle PSR.\n    Therefore, Angle PSR = Angle RPQ = 70 degrees.\n\n2.  **Identify properties of triangle PRS**: We are given that the chord PR has the same length as the chord RS (PR = RS). This means that triangle PRS is an isosceles triangle.\n\n3.  **Apply isosceles triangle properties**: In an isosceles triangle, the angles opposite the equal sides are equal. The side RS is opposite angle RPS (or SPR), and the side PR is opposite angle PSR.\n    Since PR = RS, it follows that Angle SPR = Angle PSR.\n\n4.  **Calculate Angle SPR**: From step 1, we found Angle PSR = 70 degrees.\n    Therefore, Angle SPR = 70 degrees.\n\nFinal Answer: Angle SPR = 70 degrees.",
+      "explanation": "The problem requires two main steps. First, use the Alternate Segment Theorem, which states that the angle between a tangent and a chord (angle RPQ) is equal to the angle in the alternate segment (angle PSR). This gives angle PSR = 70 degrees. Second, recognize that since chords PR and RS are equal in length, triangle PRS is an isosceles triangle. In an isosceles triangle, the angles opposite the equal sides are equal, so angle SPR must be equal to angle PSR. Therefore, angle SPR = 70 degrees.",
+      "hint": "Consider the relationship between the tangent and the chord PR using a specific circle theorem. Then, examine the properties of the triangle formed by the chords PR and RS.",
+      "generatedAt": "2026-04-30T19:09:34.299388"
+    },
+    {
+      "id": "m-y10-circles_intermediate_010",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider a circle where points A, B, and C are on its circumference. The line segment AC forms a diameter of this circle, with its centre at point O. Given that the angle COB is 70 degrees, calculate the measure of angle BAC. Provide your full working out.",
+      "options": [],
+      "correctAnswer": "Step 1: Identify the angle subtended by the diameter.\nSince AC is a diameter of the circle, the angle subtended by the diameter at any point on the circumference is 90 degrees. Therefore, angle ABC = 90 degrees (Angle in a Semicircle Theorem).\n\nStep 2: Use properties of the isosceles triangle formed by radii.\nIn triangle BOC, OB and OC are both radii of the circle. This means OB = OC, and therefore triangle BOC is an isosceles triangle. The base angles of an isosceles triangle are equal, so angle OBC = angle OCB.\nWe are given angle COB = 70 degrees.\nThe sum of angles in triangle BOC is 180 degrees:\nangle OBC + angle OCB + angle COB = 180 degrees\n2 * angle OCB + 70 degrees = 180 degrees\n2 * angle OCB = 180 - 70\n2 * angle OCB = 110 degrees\nangle OCB = 110 / 2 = 55 degrees.\nNote that angle OCB is the same as angle BCA.\n\nStep 3: Calculate the required angle using angles in triangle ABC.\nNow consider the triangle ABC.\nWe know angle ABC = 90 degrees (from Step 1).\nWe found angle BCA = 55 degrees (from Step 2).\nThe sum of angles in triangle ABC is 180 degrees:\nAngle BAC + Angle ABC + Angle BCA = 180 degrees\nAngle BAC + 90 degrees + 55 degrees = 180 degrees\nAngle BAC + 145 degrees = 180 degrees\nAngle BAC = 180 - 145\nAngle BAC = 35 degrees.\n\nTherefore, the measure of angle BAC is 35 degrees.",
+      "explanation": "This problem involves two main geometric principles: the angle in a semicircle theorem, which states that an angle subtended by a diameter at any point on the circumference is 90 degrees, and the properties of an isosceles triangle, formed by two radii and a chord. By applying these, and then the sum of angles in a triangle, the required angle can be found.",
+      "hint": "Consider the properties of a triangle inscribed in a semicircle and the characteristics of a triangle formed by two radii and a chord.",
+      "generatedAt": "2026-04-30T19:09:56.569069"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y10-circles_advanced_001",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A, B, and C lie on the circumference of the circle. The line segment AC is a diameter of the circle. A straight line is tangent to the circle at point B. Let's call this tangent line L. A point E lies on line L such that angle CBE is 65 degrees. Calculate the size of angle BAC. Show your full working.",
+      "options": [
+        "25 degrees",
+        "30 degrees",
+        "45 degrees",
+        "65 degrees"
+      ],
+      "correctAnswer": "65 degrees",
+      "explanation": "1.  The line segment OB is a radius of the circle, and line L is a tangent to the circle at point B. By the Tangent-Radius Theorem, the radius OB is perpendicular to the tangent L at the point of contact. Therefore, angle OBE = 90 degrees.\n2.  We are given that angle CBE = 65 degrees.\n3.  Angle OBC is the difference between angle OBE and angle CBE. So, angle OBC = angle OBE - angle CBE = 90 degrees - 65 degrees = 25 degrees.\n4.  Consider the triangle OBC. Both OB and OC are radii of the same circle, so OB = OC. This means triangle OBC is an isosceles triangle.\n5.  In an isosceles triangle, the base angles opposite the equal sides are equal. Therefore, angle OCB = angle OBC = 25 degrees.\n6.  Since AC is a diameter, the angle subtended by the diameter at any point on the circumference is 90 degrees. This is the Angle in a Semicircle Theorem. So, angle ABC = 90 degrees.\n7.  Now consider the triangle ABC. The sum of angles in a triangle is 180 degrees. So, angle BAC + angle ABC + angle ACB = 180 degrees.\n8.  Substitute the known values: angle BAC + 90 degrees + 25 degrees = 180 degrees.\n9.  Simplify: angle BAC + 115 degrees = 180 degrees.\n10. Solve for angle BAC: angle BAC = 180 degrees - 115 degrees = 65 degrees.",
+      "hint": "Start by considering the relationship between the radius and the tangent at the point of contact. Then, use properties of isosceles triangles and angles in a semicircle.",
+      "generatedAt": "2026-04-30T19:10:16.142511"
+    },
+    {
+      "id": "m-y10-circles_advanced_002",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has points P, Q, R, S on its circumference in clockwise order. The line segment TUV is a tangent to the circle at point Q. Point T is to the left of Q along the tangent line, and point V is to the right of Q. Angle TQP is 50 degrees. The radius of the circle is 6 cm, and the length of the chord QR is 6 cm. Calculate Angle PSR, showing your working.",
+      "options": [],
+      "correctAnswer": "To calculate Angle PSR:\n\n1.  **Use the Alternate Segment Theorem:**\n    The angle between the tangent TQ and the chord QP (Angle TQP) is equal to the angle in the alternate segment subtended by the chord QP. The angle in the alternate segment for chord QP is Angle QRP. Therefore, Angle QRP = 50 degrees.\n\n2.  **Identify properties of triangle OQR (where O is the centre of the circle):**\n    The radius of the circle is given as 6 cm. This means OQ = OR = 6 cm (radii). We are also given that the length of chord QR is 6 cm. Since OQ = OR = QR = 6 cm, triangle OQR is an equilateral triangle.\n\n3.  **Determine Angle QPR using the Angle at Centre Theorem:**\n    In an equilateral triangle, all interior angles are 60 degrees. So, Angle QOR = 60 degrees (the angle at the centre subtended by chord QR). The angle at the circumference subtended by the same chord QR is Angle QPR. The Angle at Centre Theorem states that the angle at the centre is twice the angle at the circumference. Therefore, Angle QPR = Angle QOR / 2 = 60 degrees / 2 = 30 degrees.\n\n4.  **Calculate Angle PQR using the sum of angles in triangle PQR:**\n    We now have two angles in triangle PQR: Angle QRP = 50 degrees (from step 1) and Angle QPR = 30 degrees (from step 3). The sum of angles in any triangle is 180 degrees. So, Angle PQR = 180 - Angle QRP - Angle QPR = 180 - 50 - 30 = 100 degrees.\n\n5.  **Calculate Angle PSR using the Cyclic Quadrilateral Theorem:**\n    Points P, Q, R, S lie on the circumference, forming a cyclic quadrilateral PQRS. In a cyclic quadrilateral, opposite angles sum to 180 degrees. Therefore, Angle PSR + Angle PQR = 180 degrees.\n    Angle PSR = 180 - Angle PQR = 180 - 100 = 80 degrees.\n\n**Final Answer: Angle PSR = 80 degrees.**",
+      "explanation": "The solution requires a sequential application of multiple circle theorems and geometric properties. First, the Alternate Segment Theorem (Angle TQP = Angle QRP) is used. Second, the given lengths (radius = 6cm, chord QR = 6cm) indicate that the triangle formed by the two radii and the chord with the centre (OQR) is equilateral, establishing Angle QOR = 60 degrees. Third, the Angle at Centre Theorem (Angle QPR = Angle QOR / 2) is applied. Fourth, the sum of angles in triangle PQR is used to calculate Angle PQR. Finally, the Cyclic Quadrilateral Theorem (opposite angles sum to 180 degrees) is applied to find Angle PSR.",
+      "hint": "Consider how the given angle involving the tangent relates to angles within the circle's segments. Also, think about what kind of triangle is formed by the given chord length and the radius, and how this relates to angles at the centre and circumference.",
+      "generatedAt": "2026-04-30T19:10:54.232853"
+    },
+    {
+      "id": "m-y10-circles_advanced_003",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A point P lies outside a circle. From P, two tangents are drawn to the circle, touching the circumference at points Q and R respectively. The distance PQ is 10 cm. The angle QPR is 70 degrees. A point S lies on the major arc QR such that the chord QS is equal in length to the chord RS. Calculate the size of angle QSR. Show your working clearly.",
+      "options": [
+        "35 degrees",
+        "55 degrees",
+        "70 degrees",
+        "110 degrees"
+      ],
+      "correctAnswer": "55 degrees",
+      "explanation": "1.  Since PQ and PR are tangents drawn from an external point P to the circle, their lengths are equal. Therefore, PQ = PR = 10 cm.\n2.  This means that triangle PQR is an isosceles triangle, with PQ = PR.\n3.  In an isosceles triangle, the base angles are equal. So, angle PQR = angle PRQ.\n4.  The sum of angles in triangle PQR is 180 degrees. Therefore, angle PQR = (180 - angle QPR) / 2 = (180 - 70) / 2 = 110 / 2 = 55 degrees.\n5.  According to the Alternate Segment Theorem, the angle between a tangent (PQ) and a chord (QR) through the point of contact (Q) is equal to the angle in the alternate segment. \n6.  In this case, angle PQR is the angle between the tangent PQ and the chord QR. The angle in the alternate segment is angle QSR (where S is a point on the major arc QR).\n7.  Therefore, angle QSR = angle PQR.\n8.  So, angle QSR = 55 degrees.\n\n(Note: The information that chord QS is equal in length to chord RS confirms that S is the midpoint of the major arc QR and makes triangle QSR isosceles, but this information is not directly required to find angle QSR using the Alternate Segment Theorem.)\n\nAlternatively, using the circle's centre O:\n1.  Let O be the centre of the circle. The radius to a tangent point is perpendicular to the tangent. So, angle PQO = 90 degrees and angle PRO = 90 degrees.\n2.  Consider the quadrilateral PQOR. The sum of interior angles is 360 degrees.\n3.  Angle QOR = 360 - angle PQO - angle PRO - angle QPR = 360 - 90 - 90 - 70 = 110 degrees.\n4.  Angle QOR is the angle at the centre subtended by arc QR.\n5.  Angle QSR is the angle at the circumference subtended by the same arc QR.\n6.  By the theorem that the angle at the centre is twice the angle at the circumference, angle QSR = Angle QOR / 2 = 110 / 2 = 55 degrees.",
+      "hint": "Consider the properties of tangents from an external point and the relationship between angles formed by tangents and chords. The Alternate Segment Theorem might provide a direct path.",
+      "generatedAt": "2026-04-30T19:11:16.833248"
+    },
+    {
+      "id": "m-y10-circles_advanced_004",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Points A, B, C, and D lie on the circumference of a circle in that order. The chord AB is equal in length to the chord BC. The line segment BD is a diameter of the circle. Given that angle BAC is 32 degrees, calculate the size of angle CDA. You must show your working.",
+      "options": [],
+      "correctAnswer": "To calculate the size of angle CDA, we can follow these steps:\n\n1.  **Properties of triangle ABC:**\n    Given that chord AB is equal in length to chord BC, triangle ABC is an isosceles triangle.\n    In an isosceles triangle, the base angles opposite the equal sides are equal.\n    Given angle BAC = 32 degrees, therefore, angle BCA = 32 degrees.\n\n2.  **Calculate angle ABC:**\n    The sum of angles in a triangle is 180 degrees.\n    Angle ABC = 180° - (Angle BAC + Angle BCA) = 180° - (32° + 32°) = 180° - 64° = 116°.\n\n3.  **Properties of BD as a diameter:**\n    Given that BD is a diameter of the circle, any angle subtended by the diameter at the circumference is 90 degrees (Angle in a Semicircle Theorem).\n    Therefore, angle BAD = 90 degrees and angle BCD = 90 degrees.\n\n4.  **Properties of cyclic quadrilateral ABCD:**\n    Since points A, B, C, and D all lie on the circumference, ABCD is a cyclic quadrilateral.\n    In a cyclic quadrilateral, opposite angles sum to 180 degrees.\n    Angle CDA is opposite to angle ABC.\n    So, Angle CDA + Angle ABC = 180 degrees.\n\n5.  **Calculate angle CDA:**\n    Angle CDA = 180° - Angle ABC = 180° - 116° = 64°.\n\nAlternatively, using angles derived from the diameter within triangle ADC:\n1.  From step 1, Angle BCA = 32 degrees.\n2.  Angle BCD = 90 degrees (Angle in a Semicircle Theorem).\n3.  Angle ACD = Angle BCD - Angle BCA = 90° - 32° = 58°.\n4.  Angle BAD = 90 degrees (Angle in a Semicircle Theorem).\n5.  Angle CAD = Angle BAD - Angle BAC = 90° - 32° = 58°.\n6.  In triangle ADC, the sum of angles is 180 degrees.\n    Angle ADC = 180° - (Angle ACD + Angle CAD) = 180° - (58° + 58°) = 180° - 116° = 64°.\n\nFinal Answer: Angle CDA = 64 degrees.",
+      "explanation": "The problem requires combining three key geometric principles: the properties of an isosceles triangle, the Angle in a Semicircle Theorem, and the properties of a cyclic quadrilateral. By first identifying that triangle ABC is isosceles due to equal chords, angle ABC can be found. The diameter BD then establishes right angles at A and C. Finally, recognising ABCD as a cyclic quadrilateral allows the use of the property that opposite angles sum to 180 degrees to find the required angle CDA.",
+      "hint": "Start by using the information about the equal chords to find angles within triangle ABC. Then, consider the implications of BD being a diameter on angles subtended at the circumference. Finally, think about how these angles relate within the overall quadrilateral inscribed in the circle.",
+      "generatedAt": "2026-04-30T19:11:42.726682"
+    },
+    {
+      "id": "m-y10-circles_advanced_005",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has a diameter, which is a line segment AB. Point C lies on the circumference of the circle such that the length of the chord AC is 10 cm and the length of the chord BC is 24 cm. A straight line, L, is tangent to the circle at point C. This tangent line L intersects the line containing the diameter AB at a point D. Given that D is not between A and B, calculate the angle BDC. Show your working clearly.",
+      "options": [
+        "22.6 degrees",
+        "45 degrees",
+        "67.4 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": "90 degrees",
+      "explanation": "1.  Identify the angle in a semicircle: Since AB is the diameter and C is on the circumference, triangle ABC is right-angled at C. Therefore, angle ACB = 90 degrees.\n2.  Calculate angle BAC: In the right-angled triangle ABC, we have AC = 10 cm and BC = 24 cm. Using trigonometry, tan(BAC) = opposite/adjacent = BC/AC = 24/10 = 2.4. So, angle BAC = arctan(2.4) ≈ 67.38 degrees.\n3.  Calculate angle ABC: In triangle ABC, angle ABC = 180 - 90 - angle BAC = 90 - 67.38 = 22.62 degrees.\n4.  Apply the Alternate Segment Theorem: The angle between the tangent at C (line L) and the chord BC (angle BCD) is equal to the angle in the alternate segment, which is angle BAC. Thus, angle BCD = angle BAC ≈ 67.38 degrees.\n5.  Determine the relative positions of A, B, and D: We are given that D is not between A and B. We need to determine if D is on the extension of AB beyond B (A-B-D) or on the extension beyond A (D-A-B). \n    *   If D was A-B-D, then in triangle CDB, angle CBD would be 180 - angle ABC = 180 - 22.62 = 157.38 degrees. The sum of angles in triangle CDB would be angle BDC + angle BCD + angle CBD = angle BDC + 67.38 + 157.38 = 180 degrees. This implies angle BDC = 180 - 224.76 = -44.76 degrees, which is impossible.\n    *   Therefore, D must be on the extension of AB beyond A, meaning the order of points on the line is D-A-B.\n6.  Consider triangle CDB: The vertices are C, D, and B.\n    *   We know angle DCB ≈ 67.38 degrees (from step 4).\n    *   Angle CBD is the angle at vertex B in triangle CDB. Since D-A-B is a straight line, angle CBD is the same as angle ABC. So, angle CBD ≈ 22.62 degrees (from step 3).\n    *   The sum of angles in triangle CDB is 180 degrees: Angle BDC + Angle DCB + Angle CBD = 180.\n    *   Angle BDC + 67.38 + 22.62 = 180.\n    *   Angle BDC + 90 = 180.\n    *   Angle BDC = 90 degrees.",
+      "hint": "Consider the angle properties related to a diameter and a tangent, and how these angles relate to the angles within the triangle formed by the points A, B, and C. Remember the Alternate Segment Theorem and the angle in a semicircle property.",
+      "generatedAt": "2026-04-30T19:12:30.119060"
+    },
+    {
+      "id": "m-y10-circles_advanced_006",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has its centre at point O. Points A, B, and C lie on the circumference of this circle. A line segment, denoted as L, is tangent to the circle at point A. The chord BC is parallel to the line L. The angle between the tangent line L and the chord AB is 65 degrees. The radius of the circle is 10 cm. Calculate the length of the chord BC. Show all your working.",
+      "options": [
+        "A) 12.86 cm",
+        "B) 15.32 cm",
+        "C) 17.02 cm",
+        "D) 18.79 cm"
+      ],
+      "correctAnswer": "B) 15.32 cm",
+      "explanation": "1. Let's denote the angle between the tangent line L and the chord AB as ∠(L, AB). We are given ∠(L, AB) = 65 degrees.\n2. By the Alternate Segment Theorem, the angle between a tangent and a chord through the point of contact is equal to the angle in the alternate segment. Therefore, the angle subtended by chord AB at point C on the circumference, ∠ACB, is equal to ∠(L, AB). So, ∠ACB = 65 degrees.\n3. We are given that the chord BC is parallel to the tangent line L. Since AB is a transversal line intersecting two parallel lines (L and BC), the alternate interior angles are equal. Therefore, ∠ABC = ∠(L, AB) = 65 degrees.\n4. In triangle ABC, we now have two angles: ∠ACB = 65 degrees and ∠ABC = 65 degrees. This means triangle ABC is an isosceles triangle with sides AB = AC.\n5. The sum of angles in a triangle is 180 degrees. So, ∠BAC = 180 - (∠ABC + ∠ACB) = 180 - (65 + 65) = 180 - 130 = 50 degrees.\n6. The angle subtended by a chord at the centre of a circle is twice the angle subtended by the same chord at any point on the circumference. Therefore, the angle subtended by chord BC at the centre O, ∠BOC, is 2 times ∠BAC. So, ∠BOC = 2 * 50 = 100 degrees.\n7. Consider triangle BOC. OB and OC are both radii of the circle, so OB = OC = 10 cm. Triangle BOC is an isosceles triangle.\n8. Draw a perpendicular line from the centre O to the chord BC. Let this line intersect BC at point M. This perpendicular bisects the chord BC and the angle ∠BOC.\n9. In the right-angled triangle OMB, the angle ∠BOM is half of ∠BOC. So, ∠BOM = 100 / 2 = 50 degrees.\n10. Using trigonometry in the right-angled triangle OMB: sin(∠BOM) = BM / OB.\n    sin(50 degrees) = BM / 10.\n    BM = 10 * sin(50 degrees).\n11. The length of the chord BC is 2 times BM because M is the midpoint of BC.\n    BC = 2 * (10 * sin(50 degrees)) = 20 * sin(50 degrees).\n12. Using a calculator, sin(50 degrees) ≈ 0.766044.\n    BC ≈ 20 * 0.766044 ≈ 15.32088 cm.\n    Rounding to two decimal places, the length of the chord BC is 15.32 cm.",
+      "hint": "Start by identifying angles using the Alternate Segment Theorem and properties of parallel lines. Then use the relationship between angles at the centre and circumference, and basic trigonometry to find the chord length.",
+      "generatedAt": "2026-04-30T19:12:51.116628"
+    },
+    {
+      "id": "m-y10-circles_advanced_007",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has a point T on its circumference. A line segment XY is tangent to the circle at T. The point X is positioned on the tangent line such that it forms an acute angle XTA with the chord TA. Points A, B, and C are also on the circumference of the circle. When traversing the circumference clockwise starting from T, the points are encountered in the order T, A, B, C. The line segments TA, AB, BC, and CT form chords of the circle and define a cyclic quadrilateral TABC.\n\nGiven that angle XTA is 60 degrees.\nGiven that angle ABC is 110 degrees.\nGiven that chord TA has the same length as chord BC.\n\nShow your working and find the size of angle CTB in degrees.",
+      "options": [],
+      "correctAnswer": "Step 1: Apply the Alternate Segment Theorem.\nAccording to the Alternate Segment Theorem, the angle between a tangent (XY) and a chord (TA) through the point of contact (T) is equal to the angle in the alternate segment. Since points B and C are in the alternate segment relative to chord TA (when considering angle XTA):\nAngle XTA = Angle TCA = 60 degrees.\nAngle XTA = Angle TBA = 60 degrees.\n\nStep 2: Apply the property of equal chords.\nIt is given that chord TA has the same length as chord BC. Chords of equal length subtend equal angles at the circumference. Therefore, the angle subtended by chord TA at point C (Angle TCA) is equal to the angle subtended by chord BC at point T (Angle BTC, which is the same as Angle CTB).\nSo, Angle TCA = Angle CTB.\n\nStep 3: Combine the results to find the required angle.\nFrom Step 1, we established that Angle TCA = 60 degrees.\nFrom Step 2, we established that Angle CTB = Angle TCA.\nTherefore, Angle CTB = 60 degrees.\n\n(For verification, the given angle ABC = 110 degrees can be used:\nSince T, A, B, C form a cyclic quadrilateral, Angle ABC + Angle ATC = 180 degrees. So, Angle ATC = 180 - 110 = 70 degrees.\nAlso, Angle ABC = Angle ABT + Angle TBC. Since Angle ABT = 60 degrees (from Alternate Segment Theorem),\n110 = 60 + Angle TBC, which means Angle TBC = 50 degrees.\nIn triangle TBC, the sum of angles is 180 degrees: Angle CTB + Angle TBC + Angle TCB = 180.\nWe found Angle CTB = 60 and Angle TBC = 50. So, 60 + 50 + Angle TCB = 180.\n110 + Angle TCB = 180, leading to Angle TCB = 70 degrees.\nThis is consistent with Angle TAB + Angle TCB = 180, so Angle TAB = 180 - 70 = 110 degrees. All information is consistent.)\n\nFinal Answer: 60 degrees.",
+      "explanation": "The solution combines the Alternate Segment Theorem with the property of angles subtended by equal chords. The Alternate Segment Theorem establishes that angle XTA is equal to angle TCA (60 degrees). The property of equal chords states that if chord TA equals chord BC, then the angles they subtend at the circumference are equal; therefore, angle TCA equals angle CTB. By equating these two findings, angle CTB is determined to be 60 degrees. The information about angle ABC is consistent with the other results but is not strictly necessary for this specific angle calculation.",
+      "hint": "Start by applying the Alternate Segment Theorem to the angle formed by the tangent and chord TA. Then, consider how the equality of chords TA and BC affects angles subtended at the circumference.",
+      "generatedAt": "2026-04-30T19:13:41.592055"
+    },
+    {
+      "id": "m-y10-circles_advanced_008",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has its centre at O. Points A, B, C lie on the circumference. The line segment XY is tangent to the circle at point A. X is a point on the tangent such that angle CAX refers to the acute angle formed by chord AC and the tangent line AX. This angle, CAX, is 60 degrees. The radius OB is perpendicular to the chord AC. Find the size of angle BOC. Show your working.",
+      "options": [
+        "90 degrees",
+        "100 degrees",
+        "120 degrees",
+        "150 degrees"
+      ],
+      "correctAnswer": "120 degrees",
+      "explanation": "1.  By the Alternate Segment Theorem, the angle between the tangent (XY) and chord (AC) is equal to the angle in the alternate segment. Therefore, angle CBA = angle CAX = 60 degrees.\n2.  Since the radius OB is perpendicular to the chord AC, it must bisect the chord AC and the arc AC. This implies that arc AB is equal to arc BC.\n3.  Angles subtended by equal arcs at the circumference are equal. Thus, angle BAC = angle BCA.\n4.  In triangle ABC, the sum of internal angles is 180 degrees. So, angle BAC + angle BCA + angle CBA = 180 degrees.\n5.  Substitute angle BAC = angle BCA and angle CBA = 60 degrees into the sum: 2 * angle BAC + 60 degrees = 180 degrees.\n6.  Solving for angle BAC: 2 * angle BAC = 120 degrees, which means angle BAC = 60 degrees.\n7.  Since angle BAC = 60 degrees, angle BCA = 60 degrees, and angle CBA = 60 degrees, triangle ABC is an equilateral triangle.\n8.  In an equilateral triangle inscribed in a circle, all three chords (AB, BC, CA) are equal in length.\n9.  Equal chords subtend equal angles at the centre of the circle. Therefore, angle AOB = angle BOC = angle COA.\n10. The sum of angles at the centre around point O is 360 degrees. So, angle AOB + angle BOC + angle COA = 360 degrees.\n11. Since all three central angles are equal, 3 * angle BOC = 360 degrees.\n12. Therefore, angle BOC = 360 / 3 = 120 degrees.",
+      "hint": "Consider the Alternate Segment Theorem to find an angle in the triangle ABC. Then, use the property of a radius perpendicular to a chord to relate the arcs or angles within the triangle or at the centre.",
+      "generatedAt": "2026-04-30T19:14:07.580770"
+    },
+    {
+      "id": "m-y10-circles_advanced_009",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has its centre at O. Points P, Q, R, S lie on the circumference of the circle. The line segment PR is a diameter of the circle. A line XY is tangent to the circle at point P. The chord QS is parallel to the tangent line XY. Given that angle RPQ is 65 degrees. Calculate, showing your working, the size of angle QSR.",
+      "options": [],
+      "correctAnswer": "To calculate angle QSR, follow these steps:\n\nStep 1: Identify that PR is a diameter and XY is tangent to the circle at P. The radius OP (which is part of the diameter PR) is perpendicular to the tangent line XY. Therefore, the angle between the diameter PR and the tangent XY at point P, which is angle XPR, is 90 degrees.\n\nStep 2: It is given that the chord QS is parallel to the tangent line XY. Since PR passes through the centre O and is perpendicular to XY, it must also be perpendicular to QS. Let M be the point of intersection of PR and QS. Thus, angle PMQ is 90 degrees.\n\nStep 3: Consider the right-angled triangle PMQ. We are given angle RPQ (which is the same as angle MPQ) = 65 degrees.\n\nStep 4: The sum of angles in triangle PMQ is 180 degrees. So, angle PQM = 180° - angle PMQ - angle MPQ = 180° - 90° - 65° = 25 degrees.\n\nStep 5: Since PR is a diameter and is perpendicular to the chord QS, it bisects the chord QS. This also implies that triangle PQS is an isosceles triangle with PQ = PS. (Alternatively, the diameter perpendicular to a chord bisects the arc, so arc PQ = arc PS, which implies chord PQ = chord PS).\n\nStep 6: In isosceles triangle PQS, the angles opposite the equal sides are equal. So, angle PSQ = angle PQS. From Step 4, we found angle PQS = 25 degrees, so angle PSQ = 25 degrees.\n\nStep 7: Recognize that PR is a diameter. The angle subtended by a diameter at any point on the circumference is 90 degrees. Therefore, angle PSR = 90 degrees.\n\nStep 8: Angle PSR can be expressed as the sum of angle PSQ and angle QSR. So, angle PSR = angle PSQ + angle QSR.\n\nStep 9: Substitute the known values into the equation from Step 8: 90° = 25° + angle QSR.\n\nStep 10: Solve for angle QSR: angle QSR = 90° - 25° = 65 degrees.\n\nTherefore, the size of angle QSR is 65 degrees.",
+      "explanation": "1.  The radius to a tangent is perpendicular to the tangent. Since PR is a diameter and P is the point of tangency, the angle between the diameter PR and the tangent XY (angle XPR) is 90 degrees.\n2.  The chord QS is parallel to the tangent XY. Since PR passes through the centre and is perpendicular to the tangent XY, it must also be perpendicular to the parallel chord QS. Let M be the intersection of PR and QS, so angle PMQ = 90 degrees.\n3.  Consider triangle PMQ. Angle MPQ is the same as angle RPQ, which is given as 65 degrees. Since angle PMQ = 90 degrees, the third angle, angle PQM (or angle PQS), can be found: angle PQS = 180° - 90° - 65° = 25 degrees.\n4.  A diameter that is perpendicular to a chord bisects the chord. This also implies that the triangle formed by the endpoints of the chord and the tangent point (triangle PQS) is isosceles (PQ = PS). In an isosceles triangle, angles opposite equal sides are equal, so angle PSQ = angle PQS. Therefore, angle PSQ = 25 degrees.\n5.  The angle in a semicircle is 90 degrees. Since PR is a diameter and S is a point on the circumference, angle PSR = 90 degrees.\n6.  Angle PSR can be split into two angles: angle PSQ and angle QSR. So, angle QSR = angle PSR - angle PSQ.\n7.  Substitute the values: angle QSR = 90° - 25° = 65 degrees.",
+      "hint": "Consider the implications of the parallel chord and tangent, especially in relation to the diameter, and how this affects triangles formed within the circle, such as perpendicularity and isosceles properties.",
+      "generatedAt": "2026-04-30T19:14:51.538909"
+    },
+    {
+      "id": "m-y10-circles_advanced_010",
+      "topicId": "m-y10-circles",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A circle has its centre at O. Points A, B, C, D lie on the circumference. The line segment XY is a tangent to the circle at point A. The chord AC is drawn. The line segment AD is a diameter of the circle. Line segment OB is a radius. It is given that angle XAC = 65 degrees and angle AOB = 80 degrees. Calculate the measure of angle BCD. Show all your working.",
+      "options": [
+        "115 degrees",
+        "120 degrees",
+        "125 degrees",
+        "130 degrees"
+      ],
+      "correctAnswer": "130 degrees",
+      "explanation": "1.  **Find Angle OAC:**\n    The radius OA is perpendicular to the tangent XY at the point of tangency A. Therefore, angle OAX = 90 degrees.\n    Given angle XAC = 65 degrees.\n    Angle OAC = Angle OAX - Angle XAC = 90 degrees - 65 degrees = 25 degrees.\n\n2.  **Find Angle ACD:**\n    AD is a diameter of the circle. The angle subtended by a diameter at any point on the circumference is a right angle (90 degrees).\n    Therefore, Angle ACD = 90 degrees.\n\n3.  **Find Angle BCA:**\n    The arc AB subtends angle AOB at the centre and angle BCA at the circumference.\n    The angle at the centre is twice the angle at the circumference subtended by the same arc.\n    Given angle AOB = 80 degrees.\n    Therefore, Angle BCA = (1/2) * Angle AOB = (1/2) * 80 degrees = 40 degrees.\n\n4.  **Find Angle BCD:**\n    Angle BCD is the sum of Angle BCA and Angle ACD.\n    Angle BCD = Angle BCA + Angle ACD = 40 degrees + 90 degrees = 130 degrees.",
+      "hint": "Consider the relationship between a radius and a tangent at the point of contact, and how a diameter affects angles on the circumference. Also, recall the theorem relating angles at the centre and angles at the circumference.",
+      "generatedAt": "2026-04-30T19:15:20.539077"
+    }
+  ]
+}

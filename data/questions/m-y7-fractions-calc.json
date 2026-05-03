@@ -1,0 +1,513 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y7-fractions-calc_beginner_001",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A baker uses 2/3 kg of sugar for one cake. How much sugar will the baker use for 4 identical cakes?",
+      "options": [
+        "A) 8/12 kg",
+        "B) 2 kg",
+        "C) 2 and 2/3 kg",
+        "D) 4 and 2/3 kg"
+      ],
+      "correctAnswer": "C) 2 and 2/3 kg",
+      "explanation": "To find the total amount of sugar needed, you multiply the sugar for one cake by the number of cakes.\n\n1.  Sugar for one cake = 2/3 kg.\n2.  Number of cakes = 4.\n3.  Total sugar = (2/3) kg * 4.\n4.  Multiply the numerator by the whole number: (2 * 4) / 3 = 8/3 kg.\n5.  Convert the improper fraction to a mixed number. Divide the numerator (8) by the denominator (3): 8 ÷ 3 = 2 with a remainder of 2.\n6.  So, 8/3 kg is equal to 2 whole kg and 2/3 kg remaining, written as 2 and 2/3 kg.",
+      "hint": "To find the total amount, you need to multiply the fraction by the whole number of cakes. Remember to convert any improper fractions to mixed numbers for the final answer.",
+      "generatedAt": "2026-04-29T22:13:30.255022"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_002",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A water jug is 3/4 full of water. David drinks 1/2 of the water that is currently in the jug. What fraction of the *entire* jug's capacity did David drink? Show your working.",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/8",
+        "3/4"
+      ],
+      "correctAnswer": "3/8",
+      "explanation": "1. The jug is 3/4 full of water.\n2. David drinks 1/2 of the water *currently in the jug*. This means he drinks 1/2 of the 3/4 of the jug's capacity.\n3. To find a fraction of a fraction, you multiply them: (1/2) × (3/4).\n4. Multiply the numerators together: 1 × 3 = 3.\n5. Multiply the denominators together: 2 × 4 = 8.\n6. So, David drank 3/8 of the entire jug's capacity.",
+      "hint": "When you need to find a 'fraction of a fraction', you should multiply the two fractions together. Remember that 'of' often means to multiply in these types of problems.",
+      "generatedAt": "2026-04-29T22:13:42.668423"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_003",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A piece of ribbon is 4 metres long. If you cut it into pieces that are each 1/3 of a metre long, how many pieces will you have?",
+      "options": [
+        "A. 12",
+        "B. 4/3",
+        "C. 1 1/3",
+        "D. 1/12"
+      ],
+      "correctAnswer": "A. 12",
+      "explanation": "To find out how many pieces of ribbon you will have, you need to divide the total length of the ribbon by the length of each piece.\nTotal length of ribbon = 4 metres\nLength of each piece = 1/3 of a metre\n\nNumber of pieces = Total length ÷ Length of each piece\nNumber of pieces = 4 ÷ (1/3)\n\nTo divide by a fraction, you multiply by its reciprocal.\nThe reciprocal of 1/3 is 3/1 (which is 3).\n\nNumber of pieces = 4 × 3\nNumber of pieces = 12\n\nSo, you will have 12 pieces of ribbon.",
+      "hint": "Think about how many times 1/3 fits into 1 metre, and then into 4 metres. Remember how to divide by a fraction.",
+      "generatedAt": "2026-04-29T22:13:55.739064"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_004",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A chef has a recipe that requires 1 and 3/4 kilograms of a special spice blend. If the chef decides to prepare a smaller batch of the recipe, using only 1/2 of the original amount of spice blend, how many kilograms of the spice blend will be needed?",
+      "options": [
+        "1 and 1/4 kg",
+        "7/8 kg",
+        "2 and 1/4 kg",
+        "1 and 1/8 kg"
+      ],
+      "correctAnswer": "7/8 kg",
+      "explanation": "To find 1/2 of 1 and 3/4 kg, we need to multiply these two values.\n\nStep 1: Convert the mixed number 1 and 3/4 into an improper fraction.\n1 and 3/4 = (1 × 4 + 3) / 4 = 7/4.\n\nStep 2: Multiply the improper fraction by 1/2.\n(7/4) × (1/2) = (7 × 1) / (4 × 2) = 7/8.\n\nSo, the chef will need 7/8 kilograms of the spice blend.",
+      "hint": "Remember to convert any mixed numbers to improper fractions before multiplying. The phrase 'of the original amount' indicates multiplication.",
+      "generatedAt": "2026-04-29T22:14:10.126089"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_005",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "In a large school, exactly 3/5 of the students are in Year 7. Out of these Year 7 students, 1/4 of them are members of the school's mathematics club. What fraction of the *total* students in the school are Year 7 students who are members of the mathematics club?",
+      "options": [
+        "3/20",
+        "4/9",
+        "1/5",
+        "7/20"
+      ],
+      "correctAnswer": "3/20",
+      "explanation": "To find the fraction of the total students that are Year 7 students in the mathematics club, we need to find 1/4 *of* the 3/5 of the students who are in Year 7.\n'Of' in this context means multiply.\nSo, we calculate (1/4) * (3/5).\nTo multiply fractions, multiply the numerators together and multiply the denominators together:\nNumerator: 1 * 3 = 3\nDenominator: 4 * 5 = 20\nThe resulting fraction is 3/20.\nTherefore, 3/20 of the total students in the school are Year 7 students who are members of the mathematics club.",
+      "hint": "Remember that when you need to find a fraction *of* another fraction, you should multiply the two fractions together.",
+      "generatedAt": "2026-04-29T22:14:22.734168"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_006",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A project manager has assigned a task that represents 2/5 of the total project. An engineer completes 1/2 of *that assigned task*. What fraction of the total project has the engineer completed?",
+      "options": [
+        "1/5",
+        "2/7",
+        "4/5",
+        "1/10"
+      ],
+      "correctAnswer": "1/5",
+      "explanation": "To find a fraction of another fraction, you multiply them together. \n1. The assigned task is 2/5 of the total project.\n2. The engineer completes 1/2 of *that assigned task*.\n3. So, we need to calculate 1/2 multiplied by 2/5.\n   (1/2) * (2/5) = (1 * 2) / (2 * 5)\n4. This gives 2/10.\n5. Simplify the fraction: 2/10 simplifies to 1/5 (by dividing both the numerator and the denominator by 2).\nTherefore, the engineer has completed 1/5 of the total project.",
+      "hint": "Remember that 'of' in mathematics often indicates multiplication when dealing with fractions.",
+      "generatedAt": "2026-04-29T22:14:35.542630"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_007",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following calculations results in a value that is smaller than 10?",
+      "options": [
+        "A) 10 \\times 1\\frac{1}{2}",
+        "B) 10 \\div \\frac{1}{2}",
+        "C) 10 \\times \\frac{3}{4}",
+        "D) 10 \\div \\frac{3}{4}"
+      ],
+      "correctAnswer": "C) 10 \\times \\frac{3}{4}",
+      "explanation": "To determine which calculation results in a value smaller than 10, we need to understand the effect of multiplying or dividing by the given fractions/mixed numbers:\n\nA)  10 \\times 1\\frac{1}{2}: Multiplying a number by a value greater than 1 (like 1\\frac{1}{2}) will always make the original number larger. So, 10 \\times 1.5 = 15, which is larger than 10.\nB)  10 \\div \\frac{1}{2}: Dividing a number by a proper fraction (a number between 0 and 1) will always make the original number larger. This is because you're finding how many 'halves' are in 10. So, 10 \\div 0.5 = 20, which is larger than 10.\nC)  10 \\times \\frac{3}{4}: Multiplying a number by a proper fraction (a number between 0 and 1) will always make the original number smaller. So, 10 \\times 0.75 = 7.5, which is smaller than 10.\nD)  10 \\div \\frac{3}{4}: Dividing a number by a proper fraction (a number between 0 and 1) will always make the original number larger. So, 10 \\div 0.75 \\approx 13.33, which is larger than 10.\n\nTherefore, the only calculation that results in a value smaller than 10 is 10 \\times \\frac{3}{4}.",
+      "hint": "Consider what happens to a number when you multiply it by a fraction less than 1, or by a mixed number. Also, think about what happens when you divide a number by a fraction less than 1, or by a mixed number.",
+      "generatedAt": "2026-04-29T22:14:53.424258"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_008",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Consider the number 20.\nWhich of the following calculations will result in the smallest value?",
+      "options": [
+        "A) Multiply 20 by 1/4",
+        "B) Multiply 20 by 3/2",
+        "C) Divide 20 by 1/2",
+        "D) Divide 20 by 5"
+      ],
+      "correctAnswer": "D) Divide 20 by 5",
+      "explanation": "To find the smallest value, we need to perform each calculation:\n\nA) Multiply 20 by 1/4: \n20 × (1/4) = 20/4 = 5\n\nB) Multiply 20 by 3/2: \n20 × (3/2) = (20 × 3) / 2 = 60 / 2 = 30\n\nC) Divide 20 by 1/2: \nTo divide by a fraction, you multiply by its reciprocal. So, 20 ÷ (1/2) = 20 × 2 = 40\n\nD) Divide 20 by 5: \n20 ÷ 5 = 4\n\nComparing the results: 5, 30, 40, 4. The smallest value is 4.",
+      "hint": "Calculate the result for each option individually, then compare the final values to find the smallest one.",
+      "generatedAt": "2026-04-29T22:15:07.344408"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_009",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Calculate the value of 6 divided by 1/3.",
+      "options": [
+        "2",
+        "18",
+        "1/2",
+        "6"
+      ],
+      "correctAnswer": "18",
+      "explanation": "To calculate 6 divided by 1/3, we use the rule for dividing by a fraction: 'Keep, Change, Flip' (KCF).\n\n1.  **Keep** the first number (6).\n2.  **Change** the division sign to a multiplication sign.\n3.  **Flip** the second fraction (1/3) to its reciprocal (3/1 or simply 3).\n\nSo, the calculation becomes:\n6 × 3\n\n6 × 3 = 18\n\nTherefore, 6 divided by 1/3 is 18.",
+      "hint": "Remember the rule for dividing by a fraction: multiply the first number by the reciprocal of the second fraction.",
+      "generatedAt": "2026-04-29T22:15:19.881261"
+    },
+    {
+      "id": "m-y7-fractions-calc_beginner_010",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A baker has a recipe that calls for 3/4 of a kilogram of sugar. The baker wants to make half of the recipe. How much sugar, in kilograms, will the baker need?",
+      "options": [
+        "3/8 kg",
+        "1/4 kg",
+        "5/4 kg",
+        "2/3 kg"
+      ],
+      "correctAnswer": "3/8 kg",
+      "explanation": "To find half of 3/4 kg, you need to multiply 1/2 by 3/4. \n\nStep 1: Multiply the numerators (the top numbers).\n1 × 3 = 3\n\nStep 2: Multiply the denominators (the bottom numbers).\n2 × 4 = 8\n\nStep 3: Combine the new numerator and denominator.\nSo, 1/2 × 3/4 = 3/8.\n\nThe baker will need 3/8 of a kilogram of sugar.",
+      "hint": "To find 'half of' a fraction, you need to multiply that fraction by 1/2.",
+      "generatedAt": "2026-04-29T22:15:32.942476"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y7-fractions-calc_intermediate_001",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A rectangular garden plot has an area of 10 and 1/2 square metres. The width of the plot is 2 and 1/3 metres. Calculate the length of the garden plot. Show your working.\n",
+      "options": [
+        "A. 4 1/2 metres",
+        "B. 24 1/2 metres",
+        "C. 8 1/6 metres",
+        "D. 2/9 metres"
+      ],
+      "correctAnswer": "A. 4 1/2 metres",
+      "explanation": "To find the length of a rectangular plot, you use the formula: Length = Area ÷ Width.\n\n**Step 1: Convert the mixed numbers to improper fractions.**\nArea = 10 1/2 = (10 × 2 + 1) / 2 = 21/2 m²\nWidth = 2 1/3 = (2 × 3 + 1) / 3 = 7/3 m\n\n**Step 2: Divide the area by the width.**\nLength = (21/2) ÷ (7/3)\n\nTo divide by a fraction, you multiply by its reciprocal (invert the second fraction and multiply):\nLength = (21/2) × (3/7)\n\n**Step 3: Multiply the numerators and the denominators.**\nLength = (21 × 3) / (2 × 7)\nLength = 63 / 14\n\n**Step 4: Simplify the fraction and convert it back to a mixed number.**\nBoth 63 and 14 are divisible by 7:\n63 ÷ 7 = 9\n14 ÷ 7 = 2\nSo, Length = 9/2 metres\n\nAs a mixed number, 9/2 is 4 with a remainder of 1, so it is 4 and 1/2 metres.\n\nTherefore, the correct answer is 4 1/2 metres.",
+      "hint": "Remember the formula for the area of a rectangle: Area = Length × Width. To find the length, you will need to perform a division operation. Start by converting the mixed numbers into improper fractions before performing the division.",
+      "generatedAt": "2026-04-29T22:15:51.045609"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_002",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A baker prepares a large batch of cookie dough weighing 5 and 1/4 kilograms. They decide to use 2/3 of this dough to make chocolate chip cookies. The remaining dough is then divided equally into 7 smaller portions to make oatmeal cookies. What is the weight, in kilograms, of one portion of the oatmeal cookie dough? Show your working.",
+      "options": [
+        "1/4 kg",
+        "1/2 kg",
+        "3/4 kg",
+        "1 and 3/4 kg"
+      ],
+      "correctAnswer": "1/4 kg",
+      "explanation": "Step 1: Convert the total dough weight from a mixed number to an improper fraction.\n5 and 1/4 kg = (5 × 4 + 1) / 4 kg = 21/4 kg.\n\nStep 2: Determine the fraction of dough that remains after making chocolate chip cookies.\nIf 2/3 of the dough is used, then the fraction remaining is 1 - 2/3 = 1/3 of the total dough.\n\nStep 3: Calculate the weight of the remaining dough.\nWeight of remaining dough = (1/3) × (21/4) kg\n= (1 × 21) / (3 × 4) kg\n= 21/12 kg\nSimplify this fraction by dividing the numerator and denominator by 3:\n21/12 kg = 7/4 kg.\n\nStep 4: Divide the remaining dough into 7 equal portions for oatmeal cookies.\nWeight of one portion = (7/4) kg ÷ 7\nTo divide by 7, we multiply by its reciprocal, which is 1/7:\n= (7/4) × (1/7) kg\n= (7 × 1) / (4 × 7) kg\n= 7/28 kg\nSimplify this fraction by dividing the numerator and denominator by 7:\n7/28 kg = 1/4 kg.\n\nTherefore, the weight of one portion of the oatmeal cookie dough is 1/4 kg.",
+      "hint": "First, figure out what fraction of the dough is left after some is used. Then, calculate the weight of that remaining dough before dividing it into the smaller portions.",
+      "generatedAt": "2026-04-29T22:16:14.478381"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_003",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A large bag of sugar contains 4 and 1/2 kilograms. A baker uses 1/3 of the sugar to make a batch of cookies. They then use 1/2 of the *remaining* sugar to bake a cake. How much sugar, in kilograms, is left in the bag? Show your working.",
+      "options": [
+        "A) 3/4 kg",
+        "B) 1 1/2 kg",
+        "C) 2 1/2 kg",
+        "D) 3 kg"
+      ],
+      "correctAnswer": "B) 1 1/2 kg",
+      "explanation": "Step 1: Convert the mixed number to an improper fraction.\n4 and 1/2 kg = 9/2 kg.\n\nStep 2: Calculate the amount of sugar used for cookies.\nUsed for cookies = 1/3 of the total sugar = (1/3) × (9/2) kg = 9/6 kg = 3/2 kg.\n\nStep 3: Calculate the sugar remaining after making cookies.\nRemaining sugar = Initial sugar - Sugar for cookies = (9/2) - (3/2) kg = 6/2 kg = 3 kg.\n\nStep 4: Calculate the amount of sugar used for the cake.\nUsed for cake = 1/2 of the *remaining* sugar = (1/2) × 3 kg = 3/2 kg.\n\nStep 5: Calculate the final amount of sugar left in the bag.\nSugar left = Remaining sugar (after cookies) - Sugar for cake = 3 - (3/2) kg.\nConvert 3 to an improper fraction with denominator 2: 6/2.\nSugar left = (6/2) - (3/2) kg = 3/2 kg.\n\nConvert back to a mixed number: 3/2 kg = 1 and 1/2 kg.\nSo, 1 and 1/2 kg of sugar is left in the bag.",
+      "hint": "First, convert any mixed numbers to improper fractions. Then, work step-by-step: calculate the first amount used, find the new remaining total, and then calculate the second amount used *from that new total* before finding the final amount left.",
+      "generatedAt": "2026-04-29T22:16:36.672448"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_004",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A construction worker has a long piece of steel cable that is 10 and 1/2 metres in length. For the first part of a project, he uses 1/3 of the total cable. The remaining cable is then cut into smaller pieces, each measuring 3/4 of a metre long. How many complete smaller pieces of cable can the worker cut from the remaining length? Show your working clearly.",
+      "options": [
+        "A: 9",
+        "B: 14",
+        "C: 7",
+        "D: 10"
+      ],
+      "correctAnswer": "A: 9",
+      "explanation": "Step 1: Calculate the length of cable used.\nTotal length = 10 and 1/2 metres = 21/2 metres.\nLength used = 1/3 of the total length = (1/3) * (21/2) = 21/6 = 7/2 metres.\n\nStep 2: Calculate the remaining length of cable.\nRemaining length = Total length - Length used\nRemaining length = 21/2 - 7/2 = 14/2 = 7 metres.\n\nStep 3: Calculate how many complete smaller pieces can be cut from the remaining length.\nEach smaller piece is 3/4 of a metre long.\nNumber of pieces = Remaining length ÷ Length per piece\nNumber of pieces = 7 ÷ (3/4) = 7 * (4/3) = 28/3.\n\nStep 4: Convert the improper fraction to a mixed number to find the number of complete pieces.\n28/3 = 9 with a remainder of 1, so it is 9 and 1/3.\nThis means the worker can cut 9 complete pieces of cable, with 1/3 of a metre remaining.\n\nTherefore, the worker can cut 9 complete smaller pieces.",
+      "hint": "First, calculate the length of cable used and then find the length that remains. After that, determine how many times the length of a small piece fits into the remaining length, remembering to only count full pieces.",
+      "generatedAt": "2026-04-29T22:16:52.549863"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_005",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A roll of ribbon is 7 and 1/2 metres long. A decorator uses 2/5 of the roll for a project. The remaining ribbon is then cut into smaller pieces, each 3/4 of a metre long. How many full pieces of ribbon can be cut from the remaining length? Show your working.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6",
+      "explanation": "Step 1: Convert the mixed number to an improper fraction.\n7 and 1/2 metres = (7 × 2 + 1) / 2 = 15/2 metres.\n\nStep 2: Calculate the length of ribbon used for the project.\nLength used = (2/5) of 15/2 metres\nLength used = (2/5) × (15/2)\nMultiply the numerators and the denominators:\nLength used = (2 × 15) / (5 × 2) = 30 / 10 = 3 metres.\n\nStep 3: Calculate the remaining length of ribbon.\nRemaining length = Total length - Length used\nRemaining length = 15/2 - 3\nTo subtract, find a common denominator for 15/2 and 3 (which is 6/2):\nRemaining length = 15/2 - 6/2 = 9/2 metres.\n\nStep 4: Determine how many full pieces of 3/4 metre can be cut from the remaining length.\nNumber of pieces = Remaining length ÷ Length per piece\nNumber of pieces = (9/2) ÷ (3/4)\nTo divide by a fraction, multiply by its reciprocal (flip the second fraction):\nNumber of pieces = (9/2) × (4/3)\nMultiply the numerators and the denominators:\nNumber of pieces = (9 × 4) / (2 × 3) = 36 / 6 = 6.\n\nTherefore, 6 full pieces of ribbon can be cut from the remaining length.",
+      "hint": "This problem requires multiple steps. First, calculate the amount of ribbon used. Then, find the length of the ribbon that is left. Finally, determine how many smaller pieces can be made from the leftover ribbon.",
+      "generatedAt": "2026-04-29T22:17:11.838735"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_006",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A group of hikers are completing a 96 km charity walk. \nOn the first day, they complete 1/3 of the total distance.\nOn the second day, they complete 3/8 of the *remaining* distance.\nHow many kilometres did the hikers complete on the second day? Show your working.",
+      "options": [
+        "24 km",
+        "32 km",
+        "36 km",
+        "64 km"
+      ],
+      "correctAnswer": "24 km",
+      "explanation": "Step 1: Calculate the distance completed on the first day.\nDistance completed on Day 1 = 1/3 of 96 km = (1/3) × 96 = 32 km.\n\nStep 2: Calculate the remaining distance after the first day.\nRemaining distance = Total distance - Distance completed on Day 1 = 96 km - 32 km = 64 km.\n\nStep 3: Calculate the distance completed on the second day.\nDistance completed on Day 2 = 3/8 of the remaining distance = 3/8 of 64 km = (3/8) × 64.\nTo calculate (3/8) × 64, you can do (64 ÷ 8) × 3 = 8 × 3 = 24 km.\n\nTherefore, the hikers completed 24 km on the second day.",
+      "hint": "First, find out how much distance is left after the first day. Then, calculate the fraction of that remaining distance.",
+      "generatedAt": "2026-04-29T22:17:24.007746"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_007",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A manufacturing machine processes items at a steady rate. It can process 3 and 1/2 items every hour.\n\na) How many items can the machine process in 2/3 of an hour? Show your working clearly.\nb) If the machine needs to process a total of 21 items, how many additional hours will it take to complete the job after it has already worked for the first 2/3 of an hour? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "a) First, convert the mixed number to an improper fraction:\n3 and 1/2 = (3 * 2 + 1) / 2 = 7/2.\nTo find out how many items the machine can process in 2/3 of an hour, multiply the rate by the time:\nNumber of items = Rate × Time\nNumber of items = (7/2) × (2/3)\nMultiply the numerators and the denominators:\nNumber of items = (7 × 2) / (2 × 3) = 14/6\nSimplify the fraction by dividing both numerator and denominator by 2:\nNumber of items = 7/3\nConvert back to a mixed number:\n7/3 = 2 with a remainder of 1, so 2 and 1/3.\nThe machine can process 2 and 1/3 items in 2/3 of an hour.\n\nb) First, calculate the total time required to process 21 items.\nTotal time = Total items / Rate per hour\nTotal time = 21 / (7/2)\nTo divide by a fraction, multiply by its reciprocal:\nTotal time = 21 × (2/7)\nTotal time = (21 × 2) / 7 = 42/7 = 6 hours.\nThe machine needs a total of 6 hours to process 21 items.\n\nThe machine has already worked for 2/3 of an hour.\nTo find the additional hours needed, subtract the time already worked from the total time:\nAdditional hours needed = Total time - Time already worked\nAdditional hours needed = 6 - 2/3\nTo subtract, find a common denominator. Convert 6 into a fraction with a denominator of 3:\n6 = 18/3.\nAdditional hours needed = 18/3 - 2/3 = 16/3.\nConvert to a mixed number:\n16/3 = 5 with a remainder of 1, so 5 and 1/3.\nThe machine will take an additional 5 and 1/3 hours to complete the job.",
+      "explanation": "For part a), the total number of items processed is found by multiplying the processing rate (items per hour) by the time worked. This requires converting the mixed number rate into an improper fraction before multiplication. For part b), the total time needed for the entire job is calculated by dividing the total number of items by the processing rate. The 'additional' time is then found by subtracting the time already spent from this total required time, which involves converting to a common denominator for subtraction.",
+      "hint": "Remember to convert mixed numbers to improper fractions before multiplying or dividing. When dividing by a fraction, multiply by its reciprocal. For subtraction, ensure you find a common denominator.",
+      "generatedAt": "2026-04-29T22:17:41.838754"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_008",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "Sarah is making fruit punch for a party. She has 3 bottles of juice, and each bottle contains 2 1/4 litres of juice. She wants to pour all of the juice into glasses, where each glass can hold exactly 1/3 of a litre. How many full glasses of juice can Sarah pour in total? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total amount of juice Sarah has.\nEach bottle contains 2 1/4 litres. Sarah has 3 bottles.\nConvert 2 1/4 to an improper fraction: 2 + 1/4 = 8/4 + 1/4 = 9/4 litres.\nTotal juice = 3 × 9/4 = 27/4 litres.\n\nStep 2: Calculate how many full glasses can be filled.\nEach glass holds 1/3 of a litre.\nNumber of glasses = (Total juice) ÷ (Juice per glass)\nNumber of glasses = (27/4) ÷ (1/3)\nTo divide by a fraction, multiply by its reciprocal:\nNumber of glasses = (27/4) × (3/1)\nNumber of glasses = (27 × 3) / (4 × 1)\nNumber of glasses = 81/4\n\nConvert the improper fraction to a mixed number or decimal to find the number of full glasses:\n81 ÷ 4 = 20 with a remainder of 1.\nSo, 81/4 = 20 and 1/4.\n\nSince the question asks for the number of *full* glasses, Sarah can pour 20 full glasses of juice.\n\nAnswer: 20 full glasses",
+      "explanation": "The problem requires two main steps: first, calculating the total volume of juice available by multiplying the number of bottles by the volume per bottle. This involves converting a mixed number to an improper fraction before multiplication. Second, determining how many glasses can be filled by dividing the total volume of juice by the volume each glass can hold. This involves dividing fractions, which is done by multiplying by the reciprocal. Finally, interpreting the result to find only the 'full' glasses.",
+      "hint": "First, calculate the total amount of juice Sarah has by multiplying the quantity in one bottle by the number of bottles. Remember to convert the mixed number to an improper fraction. Then, divide this total amount by the capacity of a single glass to find out how many glasses can be filled.",
+      "generatedAt": "2026-04-29T22:17:53.098881"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_009",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A baker prepares 3 full batches of a special pastry. Each batch, when finished, weighs exactly 2 and 1/4 kilograms. All the pastry is then divided and packed into small boxes. Each small box contains 3/8 of a kilogram of pastry. How many full small boxes of pastry can the baker make? Show your working.",
+      "options": [
+        "A. 8",
+        "B. 12",
+        "C. 18",
+        "D. 24"
+      ],
+      "correctAnswer": "C. 18",
+      "explanation": "Step 1: Calculate the total weight of pastry.\nThe baker makes 3 batches, and each batch weighs 2 and 1/4 kg.\nFirst, convert the mixed number to an improper fraction: 2 and 1/4 = (2 × 4 + 1) / 4 = 9/4 kg.\nTotal weight of pastry = 3 batches × 9/4 kg/batch = 27/4 kg.\n\nStep 2: Calculate the number of full small boxes.\nEach box contains 3/8 kg of pastry.\nNumber of boxes = Total weight of pastry ÷ Weight per box\nNumber of boxes = (27/4) kg ÷ (3/8) kg\nTo divide by a fraction, multiply by its reciprocal:\nNumber of boxes = (27/4) × (8/3)\nMultiply the numerators and the denominators:\nNumber of boxes = (27 × 8) / (4 × 3)\nSimplify by cancelling common factors (27 and 3, 8 and 4):\n(27 ÷ 3 = 9) and (8 ÷ 4 = 2)\nNumber of boxes = (9 × 2) / (1 × 1)\nNumber of boxes = 18.\nThe baker can make 18 full small boxes of pastry.",
+      "hint": "First, calculate the total amount of pastry by multiplying the number of batches by the weight per batch. Remember to convert the mixed number to an improper fraction before multiplying. Then, divide the total amount of pastry by the amount in each box.",
+      "generatedAt": "2026-04-29T22:18:06.985153"
+    },
+    {
+      "id": "m-y7-fractions-calc_intermediate_010",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A rectangular plot of land has a length of 5 and 1/2 kilometres. The width of the plot is 2/3 of its length. Calculate the perimeter of the plot of land. Show your working.",
+      "options": [
+        "A: 18 and 1/3 km",
+        "B: 9 and 1/6 km",
+        "C: 12 and 5/6 km",
+        "D: 10 and 1/6 km"
+      ],
+      "correctAnswer": "A: 18 and 1/3 km",
+      "explanation": "Step 1: Convert the length to an improper fraction.\nLength (L) = 5 and 1/2 km = 11/2 km.\n\nStep 2: Calculate the width of the plot.\nWidth (W) = 2/3 of its length\nW = (2/3) × (11/2)\nW = (2 × 11) / (3 × 2)\nW = 22/6\nW = 11/3 km (simplified)\nW = 3 and 2/3 km.\n\nStep 3: Calculate the perimeter of the rectangle.\nPerimeter = 2 × (Length + Width)\nPerimeter = 2 × (11/2 + 11/3)\nTo add the fractions, find a common denominator, which is 6:\n11/2 = (11 × 3) / (2 × 3) = 33/6\n11/3 = (11 × 2) / (3 × 2) = 22/6\n\nNow, add the length and width:\nLength + Width = 33/6 + 22/6 = 55/6\n\nFinally, calculate the perimeter:\nPerimeter = 2 × (55/6)\nPerimeter = 110/6\nPerimeter = 55/3 km (simplified)\nPerimeter = 18 and 1/3 km.",
+      "hint": "First, calculate the width of the plot by multiplying the length by 2/3. Remember to convert the mixed number to an improper fraction before multiplying. Then, use the formula for the perimeter of a rectangle: Perimeter = 2 × (Length + Width).",
+      "generatedAt": "2026-04-29T22:18:33.154029"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y7-fractions-calc_advanced_001",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A large jug contains 3 and 3/4 litres of orange juice.\nTom drinks 1/5 of the juice.\nThen, Sarah drinks 2/3 of the *remaining* juice.\nHow many litres of orange juice are left in the jug? (Show your working for full marks)",
+      "options": [
+        "1/2 litre",
+        "3/4 litre",
+        "1 litre",
+        "2 litres"
+      ],
+      "correctAnswer": "1 litre",
+      "explanation": "Step 1: Convert the initial amount of juice to an improper fraction.\nInitial amount = 3 and 3/4 litres = (3 * 4 + 3)/4 = 15/4 litres.\n\nStep 2: Calculate the amount of juice Tom drinks.\nTom drinks 1/5 of the original amount: (1/5) * (15/4) = 15/20 = 3/4 litres.\n\nStep 3: Calculate the amount of juice remaining after Tom drinks.\nAmount remaining after Tom = Initial amount - Amount Tom drank\nAmount remaining after Tom = 15/4 - 3/4 = 12/4 = 3 litres.\n\nStep 4: Calculate the amount of juice Sarah drinks.\nSarah drinks 2/3 of the *remaining* juice (which is 3 litres):\nAmount Sarah drinks = (2/3) * 3 = 2 litres.\n\nStep 5: Calculate the final amount of juice left in the jug.\nFinal amount left = Amount remaining after Tom - Amount Sarah drank\nFinal amount left = 3 litres - 2 litres = 1 litre.\n\nAlternatively:\nAfter Tom drinks 1/5, there is 1 - 1/5 = 4/5 of the juice remaining.\nSarah drinks 2/3 of this remaining amount, so 1 - 2/3 = 1/3 of that remaining amount is left.\nThe fraction of the original juice left is (1/3) * (4/5) = 4/15.\nTotal amount left = (4/15) * (15/4) litres = 1 litre.",
+      "hint": "Start by converting the mixed number to an improper fraction. Remember that Sarah drinks from the amount *remaining* after Tom, not from the original total.",
+      "generatedAt": "2026-04-29T22:18:52.060847"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_002",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A carpenter starts with a long plank of wood measuring 5 and 1/4 metres in length.\nFirst, the carpenter cuts off a piece that is 1 and 1/2 metres long. This piece is used to build a shelf.\nThen, the remaining length of wood is cut into smaller, identical pieces. Each small piece needs to be exactly 3/8 of a metre long to make a decorative block.\n\nCalculate the total number of complete decorative blocks the carpenter can make from the remaining wood. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Convert all mixed numbers to improper fractions.\nTotal plank length = 5 and 1/4 metres = (5 * 4 + 1)/4 = 21/4 metres.\nLength for shelf = 1 and 1/2 metres = (1 * 2 + 1)/2 = 3/2 metres.\nLength for one block = 3/8 metres.\n\nStep 2: Calculate the length of wood remaining after the shelf piece is cut.\nRemaining wood = Total plank length - Length for shelf\nRemaining wood = 21/4 - 3/2\nTo subtract, find a common denominator. The common denominator for 4 and 2 is 4.\nConvert 3/2 to an equivalent fraction with a denominator of 4: 3/2 = (3 * 2)/(2 * 2) = 6/4.\nRemaining wood = 21/4 - 6/4 = (21 - 6)/4 = 15/4 metres.\n\nStep 3: Calculate the number of decorative blocks that can be made from the remaining wood.\nNumber of blocks = Remaining wood / Length for one block\nNumber of blocks = (15/4) / (3/8)\nTo divide by a fraction, multiply by its reciprocal:\nNumber of blocks = (15/4) * (8/3)\n\nStep 4: Perform the multiplication and simplify.\nNumber of blocks = (15 * 8) / (4 * 3)\nSimplify by cancelling common factors: 15 divided by 3 is 5, and 8 divided by 4 is 2.\nNumber of blocks = 5 * 2 = 10.\n\nThe carpenter can make 10 complete decorative blocks.",
+      "explanation": "This question requires multiple steps involving operations with mixed numbers and fractions. First, convert all mixed numbers into improper fractions to make calculations easier. Next, subtract the length of the shelf piece from the total plank length to find out how much wood is left. This subtraction requires finding a common denominator. Finally, divide the remaining length of wood by the length required for a single decorative block. Remember that dividing by a fraction is equivalent to multiplying by its reciprocal. The final answer should be a whole number, representing only the complete blocks.",
+      "hint": "Start by converting all mixed numbers (like 5 and 1/4) into improper fractions. Then, calculate the length of wood remaining after the first piece is cut off. Finally, divide that remaining length by the length needed for one decorative block. Remember to find a common denominator for subtraction and to use the reciprocal when dividing fractions.",
+      "generatedAt": "2026-04-29T22:19:10.861037"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_003",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A recipe for a batch of 12 small cakes requires 1 and 1/4 cups of self-raising flour and 2/3 cup of caster sugar.\n\nMegan wants to make enough cakes for a school fair. She initially plans to make enough for 20 cakes.\n\nHowever, after starting, Megan discovers she only has 1 and 7/8 cups of self-raising flour left in her cupboard. She wants to use all of this flour to make as many cakes as possible, maintaining the correct proportions.\n\nHow many cups of caster sugar will Megan need to use to complete her baking? Give your answer as a mixed number in its simplest form. Show all your working.",
+      "options": [
+        "1 cup",
+        "1 and 1/9 cups",
+        "1 and 1/4 cups",
+        "1 and 1/2 cups"
+      ],
+      "correctAnswer": "1 cup",
+      "explanation": "1.  **Understand the original recipe ingredients per batch (12 cakes):**\n    *   Flour: 1 and 1/4 cups. Convert this mixed number to an improper fraction: 1 + 1/4 = 4/4 + 1/4 = 5/4 cups.\n    *   Caster Sugar: 2/3 cup.\n\n2.  **Determine the limiting factor from Megan's available flour:**\n    Megan only has 1 and 7/8 cups of self-raising flour. Convert this to an improper fraction: 1 + 7/8 = 8/8 + 7/8 = 15/8 cups of flour.\n    The information about her initial plan to make 20 cakes is a distractor, as she is limited by the amount of flour she actually has.\n\n3.  **Calculate the actual scaling factor based on the available flour:**\n    To find out how many 'batches' of the original recipe Megan can make, divide the available flour by the flour needed for one original batch:\n    Scaling factor = (Available flour) ÷ (Flour per original batch)\n    Scaling factor = (15/8) ÷ (5/4)\n    To divide by a fraction, we multiply by its reciprocal:\n    Scaling factor = (15/8) × (4/5)\n    Multiply the numerators and the denominators:\n    Scaling factor = (15 × 4) / (8 × 5)\n    Scaling factor = 60 / 40\n    Simplify the fraction by dividing both numerator and denominator by their greatest common divisor (20):\n    Scaling factor = 3/2.\n    So, Megan can make 3/2 (or 1 and 1/2) times the original recipe.\n\n4.  **Calculate the amount of caster sugar needed for this scaled recipe:**\n    Multiply the original amount of sugar per batch by the calculated scaling factor:\n    Amount of sugar = (Original sugar per batch) × (Scaling factor)\n    Amount of sugar = (2/3) × (3/2)\n    Multiply the numerators and the denominators:\n    Amount of sugar = (2 × 3) / (3 × 2)\n    Amount of sugar = 6/6\n    Amount of sugar = 1 cup.\n\nTherefore, Megan will need to use 1 cup of caster sugar.",
+      "hint": "First, convert all mixed numbers to improper fractions. Then, determine the actual scaling factor for the recipe by dividing the available flour by the flour required for a single original batch. Finally, apply this new scaling factor to the amount of sugar needed for the original recipe.",
+      "generatedAt": "2026-04-29T22:19:42.289243"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_004",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A team of explorers is charting a new path through a dense forest. The total path they need to chart is 9 and 1/3 kilometres long.\nOn the first day, they charted 1/4 of the total path.\nOn the second day, they managed to chart 2/5 of the *remaining* path.\nOn the third day, a smaller sub-team completed the rest of the path. This sub-team consisted of 2 people, and they each charted an equal length.\nWhat was the length of the path, in kilometres, charted by *each person* on the third day?\nShow your working clearly.",
+      "options": [
+        "A: 2 and 1/10 km",
+        "B: 1 and 19/30 km",
+        "C: 4 and 1/5 km",
+        "D: 2 and 1/40 km"
+      ],
+      "correctAnswer": "A: 2 and 1/10 km",
+      "explanation": "1.  **Convert the total path length to an improper fraction:**\n    9 and 1/3 km = (9 × 3 + 1) / 3 km = 28/3 km.\n\n2.  **Calculate the length charted on the first day:**\n    On the first day, they charted 1/4 of the total path.\n    Length charted on Day 1 = (1/4) × (28/3) = 28/12 km = 7/3 km.\n\n3.  **Calculate the remaining path after the first day:**\n    Remaining path = Total path - Length charted on Day 1\n    Remaining path = 28/3 km - 7/3 km = 21/3 km = 7 km.\n\n4.  **Calculate the length charted on the second day:**\n    On the second day, they charted 2/5 of the *remaining* path (which is 7 km).\n    Length charted on Day 2 = (2/5) × 7 = 14/5 km.\n\n5.  **Calculate the remaining path after the second day (this is the length for the third day):**\n    Remaining path = Path remaining after Day 1 - Length charted on Day 2\n    Remaining path = 7 km - 14/5 km\n    To subtract, find a common denominator: 7 = 35/5.\n    Remaining path = 35/5 km - 14/5 km = 21/5 km.\n\n6.  **Calculate the length charted by each person on the third day:**\n    The 21/5 km path was completed by a sub-team of 2 people, each charting an equal length.\n    Length per person = (21/5) km ÷ 2\n    Length per person = (21/5) × (1/2) = 21/10 km.\n\n7.  **Convert the answer to a mixed number:**\n    21/10 km = 2 and 1/10 km.",
+      "hint": "Start by converting the total path length from a mixed number to an improper fraction. Remember to calculate the remaining path after each day's work before applying the next fractional amount, and finally divide the last remaining portion equally among the sub-team members.",
+      "generatedAt": "2026-04-29T22:20:04.764296"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_005",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A number undergoes a sequence of three transformations. \n\n1. The starting number is 5 and 1/4.\n2. First, multiply the current number by 2/3.\n3. Next, divide the resulting number by 1 and 1/2.\n4. Finally, add 3/5 of the *current* number to itself.\n\nWhat is the final number? Express your answer as a mixed number in its simplest form.\nShow your working clearly.",
+      "options": [],
+      "correctAnswer": "Step-by-step working is required.\n\n**1. Convert the starting number to an improper fraction:**\n5 and 1/4 = (5 × 4 + 1) / 4 = 21/4.\n\n**2. First Transformation: Multiply by 2/3**\nCurrent number = 21/4\nNew number = (21/4) × (2/3)\n            = (21 × 2) / (4 × 3)\n            = 42 / 12\n            = 7 / 2 (by dividing numerator and denominator by 6)\n\n**3. Second Transformation: Divide by 1 and 1/2**\nCurrent number = 7/2\nConvert 1 and 1/2 to an improper fraction: 1 and 1/2 = (1 × 2 + 1) / 2 = 3/2.\nTo divide by 3/2, we multiply by its reciprocal, which is 2/3.\nNew number = (7/2) ÷ (3/2)\n            = (7/2) × (2/3)\n            = (7 × 2) / (2 × 3)\n            = 14 / 6\n            = 7 / 3 (by dividing numerator and denominator by 2)\n\n**4. Third Transformation: Add 3/5 of the *current* number to itself**\nCurrent number = 7/3\nFirst, calculate 3/5 of 7/3:\n(3/5) × (7/3) = (3 × 7) / (5 × 3)\n               = 21 / 15\n               = 7 / 5 (by dividing numerator and denominator by 3)\n\nNow, add this amount to the current number:\nFinal number = 7/3 + 7/5\nTo add these fractions, find a common denominator. The lowest common multiple of 3 and 5 is 15.\nConvert 7/3: 7/3 = (7 × 5) / (3 × 5) = 35/15\nConvert 7/5: 7/5 = (7 × 3) / (5 × 3) = 21/15\n\nFinal number = 35/15 + 21/15\n             = (35 + 21) / 15\n             = 56/15\n\n**5. Convert the final improper fraction to a mixed number in its simplest form:**\nTo convert 56/15 to a mixed number, divide 56 by 15:\n56 ÷ 15 = 3 with a remainder of 11.\nSo, 56/15 = 3 and 11/15.\n\nThe final number is **3 and 11/15**.",
+      "explanation": "This problem requires careful sequential application of fractional operations. Each transformation updates the 'current number', which is then used in the next step. It involves converting mixed numbers to improper fractions (e.g., 5 1/4 to 21/4 and 1 1/2 to 3/2). Multiplication of fractions involves multiplying numerators and denominators. Division of fractions is performed by multiplying the first fraction by the reciprocal of the second fraction. Finally, to add fractions, a common denominator must be found before summing the numerators. The result is then converted back to a mixed number and simplified.",
+      "hint": "Start by converting all mixed numbers into improper fractions. Remember that dividing by a fraction is equivalent to multiplying by its reciprocal. When adding fractions, ensure they have a common denominator before combining them.",
+      "generatedAt": "2026-04-29T22:20:26.253237"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_006",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Clara receives some pocket money. She spends 1/3 of her pocket money on a new book. Of the money she has *remaining*, she then spends 2/5 on art supplies. Finally, she saves 3/4 of what is *left* after all her spending. If Clara saved £18, how much pocket money did she receive initially? Show your working clearly as full marks will not be awarded for answers without working.",
+      "options": [
+        "£45.00",
+        "£60.00",
+        "£90.00",
+        "£120.00"
+      ],
+      "correctAnswer": "£60.00",
+      "explanation": "Let P be the initial amount of pocket money Clara received.\n\n1.  **Money remaining after buying the book:**\n    Clara spends 1/3 of her pocket money on a book. The fraction of money remaining is 1 - 1/3 = 2/3.\n    Amount remaining = (2/3) * P\n\n2.  **Money remaining after buying art supplies:**\n    From the *remaining* money (which is 2/3 P), she spends 2/5 on art supplies. This means the fraction of *this remainder* that is left is 1 - 2/5 = 3/5.\n    Amount left after buying art supplies = (3/5) * (2/3) * P\n    = (3 * 2) / (5 * 3) * P\n    = 6/15 * P\n    = 2/5 * P\n\n3.  **Amount saved:**\n    From the money *left* after all spending (which is 2/5 P), she saves 3/4 of it.\n    Amount saved = (3/4) * (2/5) * P\n    = (3 * 2) / (4 * 5) * P\n    = 6/20 * P\n    = 3/10 * P\n\n4.  **Calculate the initial pocket money (P):**\n    We are told that Clara saved £18. So, we can set up the equation:\n    (3/10) * P = £18\n    To find P, we need to divide £18 by the fraction 3/10. Dividing by a fraction is the same as multiplying by its reciprocal (flipping the fraction).\n    P = £18 / (3/10)\n    P = £18 * (10/3)\n    P = (£18 / 3) * 10\n    P = £6 * 10\n    P = £60\n\nTherefore, Clara initially received £60.00 pocket money.",
+      "hint": "Start by representing the initial pocket money as a variable (e.g., P). For each step, calculate the fraction of money remaining. Remember that 'of the remaining' means you apply the new fraction to the current sub-total, not the original total. To work backwards to find the original amount, you'll need to use division by fractions, which is equivalent to multiplication by the reciprocal.",
+      "generatedAt": "2026-04-29T22:20:48.700630"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_007",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A laboratory technician is preparing a chemical solution for an experiment.\nShe starts with a container holding 7 and 1/2 litres of Solution X.\nIn the first step, she transfers 2/5 of the Solution X from the container into a large mixing flask.\nIn the second step, she adds Solution Y to the mixing flask. The volume of Solution Y she adds is 1/3 of the volume of Solution X that *remained* in the original container after the first step.\nFinally, she needs to pour the entire mixture from the large mixing flask into smaller test tubes, each designed to hold exactly 3/10 of a litre of liquid.\n\nCalculate the total number of *full* test tubes she can fill from the mixture. Show all your working.",
+      "options": [],
+      "correctAnswer": "The total number of full test tubes she can fill is 15.\n\n**Step 1: Calculate the amount of Solution X transferred to the mixing flask.**\nInitial amount of Solution X = 7 and 1/2 litres = 15/2 litres.\nAmount transferred = (2/5) of 15/2 litres\n= (2/5) * (15/2)\n= (2 * 15) / (5 * 2)\n= 30 / 10\n= 3 litres.\n\n**Step 2: Calculate the amount of Solution X remaining in the original container.**\nAmount remaining = (Initial amount) - (Amount transferred)\n= 15/2 - 3\n= 15/2 - 6/2\n= 9/2 litres.\n\n**Step 3: Calculate the amount of Solution Y added to the mixing flask.**\nAmount of Solution Y = (1/3) of the remaining Solution X\n= (1/3) * (9/2)\n= (1 * 9) / (3 * 2)\n= 9/6\n= 3/2 litres.\n\n**Step 4: Calculate the total volume of mixture in the large mixing flask.**\nTotal mixture = (Amount of Solution X transferred) + (Amount of Solution Y added)\n= 3 litres + 3/2 litres\n= 6/2 + 3/2\n= 9/2 litres.\n\n**Step 5: Calculate the number of full test tubes that can be filled.**\nEach test tube holds 3/10 of a litre.\nNumber of test tubes = (Total mixture volume) / (Volume per test tube)\n= (9/2) / (3/10)\nTo divide by a fraction, multiply by its reciprocal:\n= (9/2) * (10/3)\n= (9 * 10) / (2 * 3)\n= 90 / 6\n= 15.\n\nTherefore, she can fill 15 full test tubes.",
+      "explanation": "The problem requires calculating quantities of solutions at different stages and then dividing a final mixture volume into smaller portions. It involves converting mixed numbers to improper fractions, multiplying fractions, subtracting fractions, adding fractions, and finally dividing fractions. Each step builds upon the previous one, tracking the amounts carefully.",
+      "hint": "Start by converting any mixed numbers into improper fractions. Carefully calculate the amount of Solution X transferred first, then the amount of Solution X remaining. Use this remaining amount to find the volume of Solution Y. Finally, combine the volumes in the flask before dividing by the test tube capacity.",
+      "generatedAt": "2026-04-29T22:21:36.636392"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_008",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A factory processes a bulk shipment of raw material. The total initial volume of the raw material is 20 and 1/4 cubic metres.\nIn the first stage, 2/3 of the initial raw material is used to produce 'Component A'.\nThe *remaining* raw material after the first stage is then moved to a second processing line.\nIn the second stage, 3/5 of this *remaining* raw material is used to produce 'Component B'. The rest of the material from the second stage is discarded.\nWhat is the total combined volume, in cubic metres, of 'Component A' and 'Component B' produced? You must show all your working.",
+      "options": [
+        "13 and 1/2 m³",
+        "17 and 11/20 m³",
+        "25 and 13/20 m³",
+        "2 and 7/10 m³"
+      ],
+      "correctAnswer": "17 and 11/20 m³",
+      "explanation": "Here's how to calculate the total combined volume:\n\n**Step 1: Convert the initial volume to an improper fraction.**\nInitial volume = 20 and 1/4 m³ = (20 × 4 + 1) / 4 = 81/4 m³.\n\n**Step 2: Calculate the volume of 'Component A'.**\n'Component A' uses 2/3 of the initial raw material.\nVolume of 'Component A' = (2/3) × (81/4) = (2 × 81) / (3 × 4) = 162 / 12 = 27/2 m³.\n\n**Step 3: Calculate the volume of raw material remaining after the first stage.**\nIf 2/3 of the material is used, then 1 - 2/3 = 1/3 of the initial material remains.\nRemaining material = (1/3) × (81/4) = 81/12 = 27/4 m³.\n\n**Step 4: Calculate the volume of 'Component B'.**\n'Component B' uses 3/5 of the *remaining* raw material.\nVolume of 'Component B' = (3/5) × (27/4) = (3 × 27) / (5 × 4) = 81/20 m³.\n\n**Step 5: Calculate the total combined volume of 'Component A' and 'Component B'.**\nTotal volume = Volume of 'Component A' + Volume of 'Component B'\nTotal volume = 27/2 + 81/20\nTo add these fractions, find a common denominator, which is 20:\n27/2 = (27 × 10) / (2 × 10) = 270/20\nTotal volume = 270/20 + 81/20 = (270 + 81) / 20 = 351/20 m³.\n\n**Step 6: Convert the total volume to a mixed number.**\n351 ÷ 20 = 17 with a remainder of 11.\nSo, 351/20 m³ = 17 and 11/20 m³.\n\nTherefore, the total combined volume of 'Component A' and 'Component B' produced is 17 and 11/20 m³.",
+      "hint": "First, express the initial volume as an improper fraction. Then, for 'Component B', determine what fraction it represents of the *original* total raw material, not just the remaining portion, before adding it to 'Component A's fraction of the original total. This can simplify the final calculation.",
+      "generatedAt": "2026-04-29T22:22:04.287280"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_009",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A baker has a large container of sugar. She uses \\frac{1}{3} of the sugar for a cake. Then, she uses \\frac{2}{5} of the *remaining* sugar for cookies. After this, she finds that she has 1 \\frac{1}{2} kg of sugar left in the container. How much sugar, in kilograms, did the baker have at the beginning? Show your working.",
+      "options": [],
+      "correctAnswer": "Let the initial amount of sugar be $S$ kg.\n\n1.  **Sugar remaining after the cake:**\n    If \\frac{1}{3} of the sugar is used, then $1 - \\frac{1}{3} = \\frac{2}{3}$ of the sugar remains.\n    Amount remaining = $\\frac{2}{3} S$\n\n2.  **Sugar remaining after the cookies:**\n    She uses \\frac{2}{5} of the *remaining* sugar for cookies. This means $1 - \\frac{2}{5} = \\frac{3}{5}$ of the sugar that was left after the cake now remains.\n    Amount remaining = $\\frac{3}{5}$ of (remaining after cake)\n    Amount remaining = $\\frac{3}{5} \\times \\frac{2}{3} S$\n    Amount remaining = $\\frac{6}{15} S = \\frac{2}{5} S$\n\n3.  **Equate the remaining fraction to the given quantity:**\n    We are told that $1 \\frac{1}{2}$ kg of sugar is left. So,\n    $\\frac{2}{5} S = 1 \\frac{1}{2}$\n\n4.  **Convert the mixed number to an improper fraction:**\n    $1 \\frac{1}{2} = \\frac{1 \\times 2 + 1}{2} = \\frac{3}{2}$\n    So, $\\frac{2}{5} S = \\frac{3}{2}$\n\n5.  **Solve for S (the initial amount):**\n    To find $S$, divide both sides by \\frac{2}{5}:\n    $S = \\frac{3}{2} \\div \\frac{2}{5}$\n    To divide by a fraction, multiply by its reciprocal:\n    $S = \\frac{3}{2} \\times \\frac{5}{2}$\n    $S = \\frac{15}{4}$\n\n6.  **Convert the improper fraction back to a mixed number (optional, but good practice):**\n    $S = 3 \\frac{3}{4}$ kg\n\nTherefore, the baker had $3 \\frac{3}{4}$ kg of sugar at the beginning.",
+      "explanation": "The problem requires calculating a fraction of a remainder, which means understanding that the second fraction applies to the amount *left*, not the original total. First, calculate the fraction of sugar remaining after the cake. Then, calculate the fraction of *that remainder* which is left after the cookies. This gives you a single fraction representing what's left of the *original* total. Set this fraction equal to the given quantity of sugar remaining and solve for the original amount by dividing by the fraction.",
+      "hint": "Start by finding what fraction of the sugar remains after the cake. Then, use that fraction to determine what fraction of the *original* total sugar is left after the cookies. Finally, set up an equation with the remaining amount to find the starting quantity.",
+      "generatedAt": "2026-04-29T22:22:49.689568"
+    },
+    {
+      "id": "m-y7-fractions-calc_advanced_010",
+      "topicId": "m-y7-fractions-calc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A large water tank is being used for irrigation. At the beginning of the week, the tank is 1/5 full. During the week, 5 and 1/4 litres of water are added to the tank. The tank is now 7/10 full.\n\nPart A: What is the full capacity of the water tank in litres? Show your working.\nPart B: If 2/3 of the tank's *full capacity* is then used for irrigation, how much water will be left in the tank? Give your answer as a mixed number or a proper fraction in its simplest form. Show your working.",
+      "options": [],
+      "correctAnswer": "Part A:\n1. First, determine the fraction of the tank's capacity that corresponds to the added water. The tank went from 1/5 full to 7/10 full.\n   Fraction added = 7/10 - 1/5\n   To subtract, find a common denominator, which is 10. 1/5 is equivalent to 2/10.\n   Fraction added = 7/10 - 2/10 = 5/10 = 1/2.\n2. We are told that 5 and 1/4 litres of water were added, and this represents 1/2 of the tank's full capacity.\n   Convert the mixed number to an improper fraction: 5 and 1/4 = (5 × 4 + 1)/4 = 21/4 litres.\n3. If 1/2 of the tank's full capacity is 21/4 litres, then the full capacity is (21/4) ÷ (1/2).\n   Dividing by a fraction is the same as multiplying by its reciprocal:\n   Full capacity = (21/4) × (2/1) = 42/4.\n   Simplify the fraction: 42/4 = 21/2 litres.\n   As a mixed number, the full capacity is 10 and 1/2 litres.\n\nPart B:\n1. First, calculate the amount of water currently in the tank *before* any is used for irrigation. The tank is currently 7/10 full.\n   Current amount = 7/10 of the full capacity (10 and 1/2 litres).\n   Current amount = 7/10 × (21/2) = (7 × 21) / (10 × 2) = 147/20 litres.\n2. Next, calculate the amount of water used for irrigation. This is 2/3 of the *full capacity*.\n   Amount used = 2/3 of (10 and 1/2 litres) = 2/3 × (21/2).\n   Amount used = (2 × 21) / (3 × 2) = 42/6 = 7 litres.\n3. Finally, subtract the amount of water used from the current amount in the tank to find the remaining water.\n   Water remaining = Current amount - Amount used\n   Water remaining = 147/20 - 7\n   To subtract, convert 7 to a fraction with a denominator of 20: 7 = 140/20.\n   Water remaining = 147/20 - 140/20 = 7/20 litres.\n   The answer is 7/20 litres, which is a proper fraction in its simplest form.",
+      "explanation": "The step-by-step working is provided in the 'correctAnswer' field for this open-ended question.",
+      "hint": "Remember to convert mixed numbers to improper fractions before performing multiplication or division. When adding or subtracting fractions, always find a common denominator. To find the whole amount when given a fraction of it, you need to use division by the fraction (or multiplication by its reciprocal).",
+      "generatedAt": "2026-04-29T22:23:12.400542"
+    }
+  ]
+}

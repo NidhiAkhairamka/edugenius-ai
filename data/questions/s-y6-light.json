@@ -1,0 +1,468 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y6-light_beginner_001",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "State the path that light travels from a source.",
+      "options": [
+        "A. In wavy lines.",
+        "B. In curved lines.",
+        "C. In straight lines.",
+        "D. In zig-zag lines."
+      ],
+      "correctAnswer": "C. In straight lines.",
+      "explanation": "Light always travels in straight lines from its source. This property of light is why shadows are formed when an opaque object blocks the straight path of light, creating an area where light cannot reach.",
+      "hint": "Consider why shadows have sharp edges, rather than blurry or curved edges.",
+      "generatedAt": "2026-04-29T17:50:03.932428"
+    },
+    {
+      "id": "s-y6-light_beginner_002",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "We can see non-luminous objects because light bounces off their surfaces and enters our eyes. State the scientific term for when light bounces off a surface.",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Absorption",
+        "Transmission"
+      ],
+      "correctAnswer": "Reflection",
+      "explanation": "When light bounces off a surface, it is called reflection. This is the process that allows us to see objects that do not produce their own light, as the light from a source reflects off them into our eyes. Refraction is when light bends as it passes from one material to another. Absorption is when a material takes in light energy. Transmission is when light passes through a material.",
+      "hint": "Think about what happens when you look at yourself in a mirror.",
+      "generatedAt": "2026-04-29T17:50:16.000932"
+    },
+    {
+      "id": "s-y6-light_beginner_003",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "When light from a lamp shines on an opaque object, a dark shadow appears behind it. State the property of light that causes this shadow to form.",
+      "options": [
+        "A) Light travels in straight lines.",
+        "B) Light is reflected by the object.",
+        "C) Light changes speed when it enters the object.",
+        "D) Light bends around the object."
+      ],
+      "correctAnswer": "A) Light travels in straight lines.",
+      "explanation": "Shadows are formed because light travels in straight lines. An opaque object (an object that light cannot pass through) blocks these straight light rays. Since the light cannot go around the object, it creates an area behind the object where no light reaches, which we see as a shadow.",
+      "hint": "Consider the path light takes from the lamp to the object, and what happens when the object is directly in its way.",
+      "generatedAt": "2026-04-29T17:50:28.891647"
+    },
+    {
+      "id": "s-y6-light_beginner_004",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "When sunlight shines on a tree, a shadow of the tree appears on the ground. Which statement best explains why the shadow forms and looks like the tree?",
+      "options": [
+        "The tree absorbs all the light, so no light can reach the ground behind it.",
+        "Light from the Sun bends around the tree, creating a dark area.",
+        "Light from the Sun travels in straight lines and is blocked by the tree, making a dark area where the light cannot reach.",
+        "The tree reflects the light in all directions, making the area behind it dark."
+      ],
+      "correctAnswer": "Light from the Sun travels in straight lines and is blocked by the tree, making a dark area where the light cannot reach.",
+      "explanation": "Shadows form because light travels in straight lines. When an opaque object, like a tree, is in the path of light, it blocks the light rays from reaching the area behind it. This creates a dark area (a shadow) that matches the shape of the object, as the light cannot pass through it along its straight path.",
+      "hint": "Consider the path that light takes from the Sun and what happens when it meets an object it cannot pass through.",
+      "generatedAt": "2026-04-29T17:50:40.751064"
+    },
+    {
+      "id": "s-y6-light_beginner_005",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "State the process that allows you to see an object like a red apple, which does not produce its own light.",
+      "options": [
+        "Absorption",
+        "Refraction",
+        "Reflection",
+        "Transmission"
+      ],
+      "correctAnswer": "Reflection",
+      "explanation": "Objects that do not produce their own light (non-luminous objects) are seen because light from a source (like the sun or a lamp) hits them and then bounces off their surface. This bouncing of light is called reflection. The reflected light then travels in straight lines to our eyes, allowing us to see the object.",
+      "hint": "Think about what happens when light hits a surface and 'bounces' off it, allowing you to see it.",
+      "generatedAt": "2026-04-29T17:50:49.752103"
+    },
+    {
+      "id": "s-y6-light_beginner_006",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "When light shines on an opaque object, a shadow is formed on the surface behind it. The shadow has a clear outline that matches the shape of the object. Which statement best explains why shadows have a clear, distinct shape?",
+      "options": [
+        "A) Light is completely absorbed by the object.",
+        "B) Light travels in curved paths around the object.",
+        "C) Light travels in straight lines and is blocked by the object.",
+        "D) Light reflects off the surface of the object."
+      ],
+      "correctAnswer": "C) Light travels in straight lines and is blocked by the object.",
+      "explanation": "Shadows form when an opaque object (an object that light cannot pass through) blocks the path of light. Because light travels in straight lines, it cannot bend around the object. This means that only the areas directly behind the object are prevented from receiving light, creating a precise, dark area that directly mirrors the object's shape with clear edges. Therefore, the clear, distinct shape of a shadow is direct evidence that light travels in straight lines.",
+      "hint": "Consider the path that light takes when travelling from a light source to an object. Does it bend or does it go directly?",
+      "generatedAt": "2026-04-29T17:51:00.578856"
+    },
+    {
+      "id": "s-y6-light_beginner_007",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "State the way light travels from a light source.",
+      "options": [
+        "In curved paths",
+        "In straight lines",
+        "In zig-zag patterns",
+        "In wavy motions"
+      ],
+      "correctAnswer": "In straight lines",
+      "explanation": "Light always travels in straight lines from its source. This fundamental property of light is called rectilinear propagation, and it explains why shadows have sharp edges and why we can only see objects when there is a clear, unobstructed path for light to reach our eyes.",
+      "hint": "Consider why shadows are typically sharp and defined, rather than blurry or distorted.",
+      "generatedAt": "2026-04-29T17:51:16.082754"
+    },
+    {
+      "id": "s-y6-light_beginner_008",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Light from a torch shines onto a solid, opaque toy. A dark shadow of the toy appears on the wall behind it. Which statement best explains why this shadow forms?",
+      "options": [
+        "A) The light from the torch bounces off the toy and goes back to the torch.",
+        "B) The toy bends the light rays around its edges, making a dark area.",
+        "C) The light from the torch cannot pass through the toy, so it blocks the light.",
+        "D) Shadows are always made by light reflecting off dark objects."
+      ],
+      "correctAnswer": "C) The light from the torch cannot pass through the toy, so it blocks the light.",
+      "explanation": "1. Light travels in straight lines from the torch.\n2. An 'opaque' object, like the toy in this example, is one that light cannot pass through.\n3. When the light travelling in a straight line hits the opaque toy, the toy blocks the light.\n4. This blocking creates an area behind the toy where the light cannot reach, and this absence of light is what we see as a shadow.\n5. Therefore, the shadow forms because the opaque toy prevents the light from passing through it, effectively blocking its path.",
+      "hint": "Remember that light always travels in straight lines. What happens when something gets in the way of a straight line of light?",
+      "generatedAt": "2026-04-29T17:51:30.871164"
+    },
+    {
+      "id": "s-y6-light_beginner_009",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which statement best explains why a shadow usually has the same outline shape as the object that creates it?",
+      "options": [
+        "A) Light always bends around objects.",
+        "B) Objects reflect light equally in all directions.",
+        "C) Light travels in straight lines until it is blocked by the object.",
+        "D) Shadows are dark because they absorb all the light."
+      ],
+      "correctAnswer": "C) Light travels in straight lines until it is blocked by the object.",
+      "explanation": "Light travels outwards from a source in straight lines. When an object is placed in the path of this light, it blocks the straight path of the light rays. The area behind the object where the light cannot reach forms a shadow. Because the light travels in straight lines, the shadow's boundary directly corresponds to the outline of the object that is blocking the light. Options A and B are incorrect because light does not typically bend around opaque objects to form sharp shadows, and reflection is how we see an object, not why a shadow has its shape. Option D describes why shadows are dark but not why they have a specific outline shape.",
+      "hint": "Consider the path light takes from a source and what happens when an object obstructs that path.",
+      "generatedAt": "2026-04-29T17:51:49.509598"
+    },
+    {
+      "id": "s-y6-light_beginner_010",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A classroom is lit by an overhead lamp. You look at a book on your desk. Which statement best describes how you are able to see the book?",
+      "options": [
+        "A. The book produces its own light that travels to your eyes.",
+        "B. Light from the lamp bounces off the book and then travels to your eyes.",
+        "C. The book absorbs all the light from the lamp.",
+        "D. Your eyes send out light that illuminates the book."
+      ],
+      "correctAnswer": "B. Light from the lamp bounces off the book and then travels to your eyes.",
+      "explanation": "Most objects, like a book, do not produce their own light (they are non-luminous). To see them, light from a light source (like the overhead lamp) must shine onto the object. This light then reflects, or bounces off, the book's surface. The reflected light travels in straight lines from the book to your eyes, allowing you to see it.",
+      "hint": "Think about how you see objects that don't glow in the dark.",
+      "generatedAt": "2026-04-29T17:52:04.160949"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y6-light_intermediate_001",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Alex is standing in front of a smooth, shiny mirror in a dark room. He shines a torch directly onto himself.\n\n(a) **Describe** how Alex is able to see his own image (reflection) in the mirror. (3 marks)\n\n(b) Alex then places an opaque card between the torch and himself, completely blocking the light from the torch. **Explain** why Alex can no longer see his reflection in the mirror. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Light from the torch travels in straight lines and hits Alex. This light then reflects off Alex and travels in straight lines to the smooth mirror. When the light hits the mirror, it reflects again, travelling in straight lines into Alex's eyes, allowing him to see his own image.\n\n(b) The opaque card blocks the light from the torch because light travels in straight lines and cannot pass through opaque objects. This means no light reaches Alex from the torch, and therefore no light can reflect off Alex towards the mirror. Since no light reaches the mirror and reflects to Alex's eyes, he cannot see his reflection.",
+      "explanation": "Part (a) requires the student to describe the path of light for reflection. Marks are awarded for:\n- Light travelling from the source (torch) to the object (Alex).\n- Light reflecting from the object (Alex) to the mirror.\n- Light reflecting from the mirror to the observer's eyes (Alex's eyes).\n\nPart (b) requires the student to explain why the reflection disappears, linking the concept of light travelling in straight lines with the blocking action of an opaque object. Marks are awarded for:\n- Stating the card is opaque / blocks light.\n- Explaining that light travels in straight lines and is stopped by the opaque card.\n- Explaining that no light reaches Alex to be reflected.\n- Linking the absence of reflected light to the inability to see the reflection in the mirror.",
+      "hint": "For (a), think about the complete path light takes to allow Alex to see himself. For (b), consider what an opaque object does to light that travels in straight lines, and how this breaks the path you described in part (a).",
+      "generatedAt": "2026-04-29T17:52:20.028132"
+    },
+    {
+      "id": "s-y6-light_intermediate_002",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Maya is playing hide-and-seek with an apple. The apple is placed on the floor behind a large, opaque cardboard box. Maya cannot see the apple directly from where she is standing.\n\na) Describe why Maya cannot see the apple directly. (2 marks)\n\nb) Maya finds a small, smooth, shiny mirror. Explain how she could use this mirror to see the apple without moving the box or herself. You must include how the light travels in your explanation. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Light from the apple travels in straight lines. The opaque cardboard box blocks the straight path of this light from reaching Maya's eyes.\n\nb) Maya should position the mirror so that light travelling in a straight line from the apple hits the mirror. Because the mirror has a smooth, shiny surface, the light will reflect off the mirror. This reflected light will then travel in a straight line towards Maya's eyes, allowing her to see the apple's image in the mirror.",
+      "explanation": "Part (a) requires students to describe the principle of light travelling in straight lines and how opaque objects block this path. Students must identify both the light's travel path and the blocking object. Part (b) builds on this, asking for an explanation of how reflection off a mirror can change the path of light, allowing indirect viewing. The explanation must link the smooth/shiny surface to reflection, and then connect the reflected light's straight path to Maya seeing the apple. The model answer demonstrates accurate use of scientific terminology and links cause and effect for reflection.",
+      "hint": "Remember that light moves in a specific way from an object to your eyes. Think about how a mirror can change that path without bending the light itself.",
+      "generatedAt": "2026-04-29T17:52:32.826500"
+    },
+    {
+      "id": "s-y6-light_intermediate_003",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Leo is playing with his toys. He has placed a small toy boat behind a tall, thick cardboard box, so he cannot see the boat directly from where he is sitting. Leo then places a small, flat mirror on the floor, in a position where he can look into the mirror and see the toy boat.\n\nExplain, using ideas about how light travels, why Leo can now see the toy boat using the mirror, even though the cardboard box is blocking his direct view. (4 marks)",
+      "options": [],
+      "correctAnswer": "Light from the toy boat travels in straight lines to the surface of the mirror. The mirror has a smooth, shiny surface, which reflects this light. This reflected light then travels in straight lines from the mirror to Leo's eyes, allowing him to see the toy boat. The cardboard box blocks the *direct* path of light from the boat to Leo's eyes, but it does not block the alternative path of light travelling via the mirror.",
+      "explanation": "1. Light originates from (or is reflected by) the toy boat and travels in straight lines towards the mirror.\n2. When this light strikes the smooth, shiny surface of the mirror, it is reflected.\n3. The reflected light then travels in straight lines from the mirror to Leo's eyes.\n4. Although the cardboard box blocks the direct line of sight (and the direct path of light) between the toy boat and Leo's eyes, it does not block the path that light takes to the mirror and then from the mirror to Leo's eyes. This change in direction due to reflection allows Leo to see the boat indirectly.",
+      "hint": "Think about the journey light takes from the toy boat to Leo's eyes. Remember what happens when light hits a smooth, shiny surface like a mirror, and how light usually travels.",
+      "generatedAt": "2026-04-29T17:52:44.023633"
+    },
+    {
+      "id": "s-y6-light_intermediate_004",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Lily is playing in a room with a tall, opaque screen dividing it. She knows her favourite teddy bear is placed behind the screen, out of her direct line of sight. Lily has two small, flat mirrors.\n\n(a) **State** the path that light travels from the teddy bear to Lily's eye. (1 mark)\n\n(b) **Describe** how Lily could use *both* mirrors to see her teddy bear without moving from her position. You may draw a simple diagram to help your description. (3 marks)\n\n(c) **Explain** why using mirrors in this way allows Lily to see the teddy bear. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Light travels in straight lines.\n\n(b) Lily should place the first mirror so that it is positioned to reflect light from the teddy bear. This reflected light will then travel in a straight line towards the second mirror. The second mirror should then be positioned to reflect this light directly into Lily's eyes. This creates a zig-zag path for the light to travel around the screen.\n\n(c) Light from the teddy bear travels in straight lines to the first mirror. Because the mirror is a shiny surface, it reflects this light, causing it to change direction but still travel in straight lines towards the second mirror. The second mirror reflects the light again, changing its direction once more, so that it travels in straight lines directly into Lily's eyes. Lily can see the teddy bear because light from it has been reflected twice by the mirrors, allowing it to bypass the screen and enter her eyes.",
+      "explanation": "Part (a) assesses the fundamental concept of light travelling in straight lines. Part (b) requires the student to apply the principle of reflection by describing a two-step reflection process using two mirrors to 'bend' the light path around an obstacle. Part (c) demands a more comprehensive understanding, asking for an explanation that links the properties of light (travels in straight lines, reflects off surfaces) with the mechanism of sight (light entering the eye). The explanation should clearly state the cause (light travelling straight, reflection changing direction) and the effect (light reaching the eye, enabling vision) using scientific terminology.",
+      "hint": "Remember that light always travels in straight lines, but a mirror can change the *direction* of that straight line path through reflection. You need two reflections to get around a corner.",
+      "generatedAt": "2026-04-29T17:53:05.491405"
+    },
+    {
+      "id": "s-y6-light_intermediate_005",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Ben is in a room. A small toy car is placed behind an opaque screen, so Ben cannot see it directly. Ben wants to see the toy car without moving the screen or the car. He has a small, flat mirror.\n\n(a) Explain how Ben can use the mirror to see the toy car. Your explanation must include how light travels and the role of the mirror. (4 marks)\n\n(b) Ben holds the mirror in the correct position. State two properties that the mirror must have for Ben to see a clear image of the toy car. (2 marks)",
+      "options": [],
+      "correctAnswer": "(a) Light from a light source (like a lamp or the sun) travels in straight lines to the toy car. (1 mark) The toy car reflects this light. (1 mark) This reflected light then travels in straight lines to the mirror. (1 mark) The mirror then reflects this light in straight lines into Ben's eyes, allowing him to see the car indirectly. (1 mark)\n\n(b) 1. The mirror surface must be smooth/flat. (1 mark)\n2. The mirror surface must be shiny/highly reflective. (1 mark)",
+      "explanation": "This question assesses understanding of how light travels in straight lines and how reflection enables us to see objects indirectly. Part (a) requires a step-by-step explanation of the light path, demonstrating comprehension of light sources, reflection from objects, and reflection from mirrors, all while adhering to the principle of light travelling in straight lines. The explanation should clearly link cause and effect. Part (b) tests knowledge of the physical properties required for a mirror to produce a clear reflected image, specifically focusing on the surface characteristics that lead to specular reflection.",
+      "hint": "For part (a), think about the complete journey of light from its source, to the car, to the mirror, and finally to Ben's eyes. Remember that light always travels in straight lines and what happens when it hits a surface like a car or a mirror.",
+      "generatedAt": "2026-04-29T17:53:22.611086"
+    },
+    {
+      "id": "s-y6-light_intermediate_006",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Sarah is in a room with a single bright lamp switched on. She holds a small, opaque cube between her hand and a smooth, white wall. A shadow of the cube appears on the wall. Sarah wants to make the shadow on the wall bigger. Which action should she take, and why will it make the shadow bigger?",
+      "options": [
+        "A: Move the cube closer to the lamp, because the light rays will spread out more after passing the edges of the cube.",
+        "B: Move the cube closer to the wall, because more light will be blocked from reaching the wall.",
+        "C: Move the cube further away from the lamp, because less light will be able to pass around the cube.",
+        "D: Move the cube closer to the lamp, because the light will reflect more strongly off the cube."
+      ],
+      "correctAnswer": "A: Move the cube closer to the lamp, because the light rays will spread out more after passing the edges of the cube.",
+      "explanation": "To make the shadow bigger, Sarah needs to move the opaque cube closer to the lamp. Light travels in straight lines from the lamp. When the cube is closer to the lamp, the light rays that just graze the edges of the cube continue to travel in straight lines but diverge (spread out) over a wider area before they reach the wall. This causes the area on the wall where no light reaches (the shadow) to become larger. Moving the cube closer to the wall would make the shadow smaller, and reflection is not related to shadow formation.",
+      "hint": "Think about how the path of straight light rays is affected when the object blocking the light is positioned closer to, or further from, the light source.",
+      "generatedAt": "2026-04-29T17:53:43.746239"
+    },
+    {
+      "id": "s-y6-light_intermediate_007",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student wants to see a small toy car that is hidden behind a tall, opaque screen. They place a flat mirror on the floor in front of the screen, angled so they can see the car's reflection in the mirror.\n\n**Explain** how the light from the toy car allows the student to see its reflection in the mirror, even though the screen blocks a direct view.",
+      "options": [
+        "A. Light travels in straight lines from the toy car, reflects off the surface of the mirror, and then travels in straight lines to the student's eye.",
+        "B. Light from the toy car bends around the opaque screen, then travels in straight lines to the student's eye, bypassing the mirror.",
+        "C. Light passes through the opaque screen from the toy car, reflects off the mirror, and then travels to the student's eye.",
+        "D. Light travels in straight lines from the toy car, reflects off the opaque screen, and then travels in straight lines to the student's eye."
+      ],
+      "correctAnswer": "A. Light travels in straight lines from the toy car, reflects off the surface of the mirror, and then travels in straight lines to the student's eye.",
+      "explanation": "For the student to see the toy car, light from the car must reach their eye. Since the screen is opaque, light cannot pass through it or bend around it. Light always travels in straight lines.\n\n1.  **First step (Light travels in straight lines):** Light rays from the toy car travel in straight lines towards the mirror.\n2.  **Second step (Reflection):** When these light rays hit the flat mirror, they are reflected off its surface. Mirrors are designed to reflect light efficiently.\n3.  **Third step (Light travels in straight lines again):** These reflected light rays then continue to travel in straight lines from the mirror to the student's eye, allowing them to see the image of the car.\n\nOption A correctly describes this entire two-step process involving straight-line travel and reflection.",
+      "hint": "Remember two key properties of light: how it travels and what happens when it hits a mirror. Consider if light can pass through an opaque object or bend around it.",
+      "generatedAt": "2026-04-29T17:54:04.606405"
+    },
+    {
+      "id": "s-y6-light_intermediate_008",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Imagine you are using a simple periscope, made with two flat mirrors, to see over a tall garden wall. Explain how light travels from a flower on the other side of the wall to your eye, allowing you to see it.",
+      "options": [],
+      "correctAnswer": "1. Light from the flower travels in a straight line to the top mirror of the periscope. \n2. The light rays then reflect off this first mirror and travel in a straight line down to the second mirror. \n3. Finally, the light reflects off the second mirror and travels in a straight line to your eye, allowing you to see the flower.",
+      "explanation": "The correct answer explains the complete path of light from the object to the observer's eye, applying two key scientific principles. First, it correctly states that light travels in straight lines from the object to the first mirror. Second, it accurately describes two instances of reflection where light hits a mirror and bounces off, continuing to travel in a straight line to the next mirror, and finally to the eye. This demonstrates understanding of both light's straight-line travel and reflection.",
+      "hint": "Think about how light travels in a line, and what happens when it hits a shiny surface like a mirror.",
+      "generatedAt": "2026-04-29T17:54:19.460702"
+    },
+    {
+      "id": "s-y6-light_intermediate_009",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Alex is in Room A and wants to see a colourful ball placed on the floor in Room B, which is around a corner. He cannot see the ball directly from his position. He has one flat, shiny mirror.\n\na) Describe how Alex could position the mirror and himself to see the colourful ball. (2 marks)\nb) Explain why Alex can see the ball using the mirror, even though he cannot see it directly. (3 marks)\nc) State the scientific name for the 'bouncing' of light off the mirror. (1 mark)",
+      "options": [],
+      "correctAnswer": "a) Alex should place the mirror at the corner so that it can 'see' the ball. He then needs to adjust the mirror's angle so that the light from the ball reflects off the mirror and travels in a straight line to his eyes. He might also need to adjust his own position to be in the path of the reflected light.\n\nb) Light travels in straight lines from the colourful ball. Alex cannot see the ball directly because the wall at the corner blocks the straight path of light to his eyes. The mirror works because it reflects the light from the ball, changing its direction. So, the light can travel in a straight line from the ball to the mirror, then reflect and travel in a new straight line from the mirror to Alex's eyes, allowing him to see it.\n\nc) Reflection.",
+      "explanation": "This is a two-step problem that requires understanding and application of light principles.\n\nPart a) requires the student to describe a practical application. The first step is to recognise that the mirror needs to intercept light from the ball. The second step is to describe how the mirror's angle and Alex's position must be adjusted to allow the reflected light to reach his eyes. This demonstrates selecting the method (using reflection) and applying it correctly (describing the setup).\n\nPart b) requires the student to explain the underlying scientific reason. The first step is to recall that light travels in straight lines and that direct view is blocked. The second step is to explain that reflection changes the direction of light, enabling it to travel around the obstruction. The use of 'because' or 'so' links cause and effect, as required for an 'Explain' command word.\n\nPart c) is a direct recall of scientific terminology, 'Reflection', confirming understanding of the key term.",
+      "hint": "Consider how light travels when there are no obstacles, and what happens when light hits a smooth, shiny surface.",
+      "generatedAt": "2026-04-29T17:54:38.536228"
+    },
+    {
+      "id": "s-y6-light_intermediate_010",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Leo is in a dark corridor and wants to see a small, colourful toy robot placed around a corner. He cannot see the robot directly from where he is standing. Leo has a bright torch and a small, flat mirror. He holds the mirror up and directs the torchlight onto the mirror, then he adjusts the mirror so the reflected light hits the toy robot. Leo can now clearly see the toy robot.\n\nWhich statement best explains how Leo is able to see the toy robot after adjusting the mirror?",
+      "options": [
+        "A: The torchlight travels in a straight line, hits the mirror, reflects off the mirror onto the toy robot, and then reflects off the toy robot into Leo's eyes.",
+        "B: The torchlight bends around the corner, illuminates the toy robot, and then reflects directly into Leo's eyes.",
+        "C: The mirror absorbs the torchlight and makes the toy robot glow, allowing Leo to see it.",
+        "D: The torchlight passes directly through the wall to illuminate the robot, and the mirror helps to magnify the image for Leo."
+      ],
+      "correctAnswer": "A: The torchlight travels in a straight line, hits the mirror, reflects off the mirror onto the toy robot, and then reflects off the toy robot into Leo's eyes.",
+      "explanation": "Light always travels in straight lines, so it cannot bend around corners or pass through opaque walls. To see an object, light must travel from that object into your eyes.\n\n1.  **Light travels in a straight line:** The torchlight travels in a straight line from the torch until it hits the flat mirror.\n2.  **Reflection 1:** When the light hits the mirror, it reflects off the mirror's shiny surface in a straight line, directing the light onto the toy robot.\n3.  **Reflection 2:** The toy robot, now illuminated, reflects some of this light off its colourful surface in different directions.\n4.  **Light travels to the eye:** Some of this reflected light travels in a straight line from the toy robot directly into Leo's eyes, allowing him to see it. Therefore, light reflects twice (once off the mirror, once off the robot) and travels in straight lines to enable Leo to see the robot.",
+      "hint": "Remember two key principles of light: how it travels and what happens when it hits a smooth, shiny surface.",
+      "generatedAt": "2026-04-29T17:54:59.246626"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y6-light_advanced_001",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Maya is conducting an investigation in a darkened room. She places a small, brightly coloured toy robot behind a tall, opaque block. Maya cannot directly see the toy robot from her viewing position. She has a small, flat mirror and a torch.\n\na) **State** the path that light travels from the toy robot to Maya's eye if there were no block in the way. (1 mark)\n\nb) Maya wants to see the toy robot without moving the block or her head. **Describe** how Maya should position the flat mirror and what happens to the light from the robot to enable her to see it. (3 marks)\n\nc) **Explain** why Maya needs the mirror to see the toy robot, linking your answer to how light travels and interacts with surfaces. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Light travels in straight lines. (1 mark)\n\nb) Maya should place the flat mirror between her viewing position and the opaque block, at an angle. (1 mark) Light from the toy robot will travel in a straight line to the mirror. (1 mark) When this light hits the mirror, it will reflect off the mirror's surface in another straight line towards Maya's eyes, allowing her to see the robot. (1 mark)\n\nc) Maya needs the mirror because the opaque block prevents light from travelling directly from the toy robot to her eyes. (1 mark) This is because light travels only in straight lines, so the block stops these straight lines of light. (1 mark) The mirror acts as a reflective surface. When the light travelling in a straight line from the robot hits the mirror, it bounces off (reflects) in a new straight line. (1 mark) This reflected light then travels directly to Maya's eyes, effectively allowing the light to 'bend around' the block and enabling her to see the toy robot. (1 mark)",
+      "explanation": "This question assesses the student's understanding of how light travels and reflects. Part a) checks the fundamental concept of light propagation. Part b) requires the student to apply this knowledge practically by describing the setup and the initial interaction of light with the mirror. Part c) demands a more in-depth explanation, linking the concept of straight-line propagation, the obstruction by an opaque object, and the role of reflection in changing the light's direction to allow visibility. The explanation requires cause and effect to be linked, fulfilling the 'Explain' command word criteria.",
+      "hint": "Think about how mirrors change the direction of light, and remember the fundamental way light travels from a source or object to our eyes.",
+      "generatedAt": "2026-04-29T19:57:53.690695"
+    },
+    {
+      "id": "s-y6-light_advanced_002",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A team of Year 6 explorers is trying to observe wildlife in a dense forest. They want to see what's on the other side of a large, solid tree trunk without moving from their spot. They decide to construct a simple viewing device using a long, straight, opaque tube and two small, flat, shiny mirrors, positioned at an angle inside the tube at each end.\n\na) Describe the journey of light that allows the explorers to see an object (e.g., a bird) behind the tree trunk using their device. Make sure to mention what happens at each mirror. (3 marks)\n\nb) Explain why the explorers would not be able to see a clear image of the bird if the tube were curved or made of clear, transparent plastic. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Light travels in a straight line from the bird. It hits the first flat, shiny mirror. The light then reflects off the first mirror, still travelling in a straight line, down the tube to the second flat, shiny mirror. It then reflects off the second mirror, again in a straight line, and travels to the explorer's eye, allowing them to see the bird.\n\nb) If the tube were curved, the light travelling in a straight line from the first mirror would hit the inside wall of the tube before reaching the second mirror, so it would be blocked and would not reach the explorer's eye to form an image. This is because light always travels in straight lines.\n\nIf the tube were made of clear, transparent plastic, light from outside the tube (not from the bird) would pass straight through the plastic and into the tube. This external light would mix with the light reflecting from the bird, so the image of the bird would appear blurry, distorted, or impossible to distinguish clearly.",
+      "explanation": "a) This part assesses the understanding of how light travels in straight lines and reflects off surfaces. The description correctly traces the path of light from the source (bird) to the eye, indicating two reflections and adherence to straight-line travel. Each step (light from object to 1st mirror, reflection to 2nd mirror, reflection to eye) contributes to the marks.\n\nb) This part assesses a deeper understanding of light's properties and how material choices impact vision. \n\nFor the curved tube, the explanation correctly identifies that light travels in straight lines (cause) and a curved tube would obstruct this path (effect: no image). It explicitly states the cause (light's straight path) and the effect (blockage).\n\nFor the transparent plastic, the explanation correctly identifies that transparent materials allow light to pass through (cause), leading to unwanted external light entering the device (effect). It then links this external light to the consequence of a muddled or unclear image, demonstrating an understanding of how light interference affects vision. Both parts use 'so' or 'because' to link cause and effect, as required for an 'Explain' command word.",
+      "hint": "Remember that light always travels in one specific type of path, and think about what different types of materials (opaque vs. transparent) do to light that hits them.",
+      "generatedAt": "2026-04-29T19:59:37.421220"
+    },
+    {
+      "id": "s-y6-light_advanced_003",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Dr. Aris has designed a small exploration robot called 'Lumos' to search dark, winding tunnels. Lumos has a bright light on its front and a small, flat mirror attached to an adjustable arm. Lumos is searching for a lost, valuable artifact that is hidden behind a large, opaque rock. Lumos cannot move the rock, but it can extend its mirror arm.\n\na) Lumos extends its mirror arm and points its light source at the mirror. By carefully adjusting the mirror, Lumos manages to shine the reflected light onto the area *behind* the rock, revealing a glimpse of the lost artifact.\nDescribe how the light travels from Lumos's light source to the hidden artifact, explaining why this method allows Lumos to 'see' around the opaque rock.\n*(4 marks)*\n\nb) Even though Lumos is shining light onto the area behind the rock using the mirror, the large rock still casts a dark shadow on the ground further back.\nExplain how this shadow is formed.\n*(3 marks)*\n\nc) Lumos has a small camera to send pictures of the artifact back to Dr. Aris.\nState one important property a mirror must have to reflect light and create a *clear* image of the artifact for Lumos's camera, and explain why this property is important.\n*(3 marks)*",
+      "options": [],
+      "correctAnswer": "a) Light travels in straight lines from Lumos's light source to the mirror. The mirror's smooth surface then reflects this light, also in straight lines, around the corner of the opaque rock and onto the hidden artifact. This method works because light cannot pass through the opaque rock directly, so using the mirror allows the light to change direction (reflection) and bypass the obstacle, illuminating areas that would otherwise be blocked from the direct path of the light source.\n\nb) This shadow is formed because the large rock is an opaque object, meaning it blocks the light that hits it. Even though light is being reflected by the mirror onto the area, the rock prevents some of this reflected light from reaching the area directly behind it. Since light travels in straight lines, the rock interrupts the path of the reflected light, creating an area of darkness (a shadow) where the light cannot reach.\n\nc) State: The mirror must have a very smooth and flat surface.\nExplain: A smooth surface is important because it reflects all the light rays in a regular, organised direction (specular reflection). This keeps the light rays from the artifact together, so a clear and focused image can be formed by the camera. If the surface were rough, the light would scatter in many different directions (diffuse reflection), resulting in a blurry or unclear image.",
+      "explanation": "This is an open-ended question designed to assess a Year 6 student's advanced understanding of light and shadows, applying concepts in an unfamiliar context. \n\nPart a) requires describing the path of light using two key concepts: light travels in straight lines, and mirrors reflect light. The 'explaining why' part requires linking these concepts to overcome the opaque obstacle. The explanation uses 'because' to link cause and effect.\n\nPart b) tests the understanding of shadow formation by linking opaque objects and light travelling in straight lines, even when reflection is involved. It assesses the student's ability to explain a phenomenon using scientific principles.\n\nPart c) introduces the concept of image clarity related to the mirror's surface. Students need to state the property (smooth/flat) and then explain its importance by linking it to how light is reflected to form a clear image, contrasting it implicitly with a rough surface that would scatter light. This demonstrates an advanced application of reflection principles.\n\nThe question uses correct command words (Describe, Explain, State) and scientific terminology (light source, opaque, mirror, reflection, straight lines, shadow, clear image, smooth surface).",
+      "hint": "For part (a), remember how light always travels and what mirrors do to light. For part (b), think about what opaque objects do to light and why. For part (c), consider what makes a good mirror different from a rough surface when you look at your reflection.",
+      "generatedAt": "2026-04-29T20:00:18.076544"
+    },
+    {
+      "id": "s-y6-light_advanced_004",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Leo, a Year 6 student, wants to observe a robin's nest located just out of sight behind a large garden shed without disturbing the birds. He knows that light travels in straight lines and that flat mirrors can be used to change the direction of light through reflection. He decides to build a simple viewing device using two small, flat mirrors and a long cardboard tube, positioning the mirrors inside the tube at appropriate angles.\n\n**(a) Describe** the complete path of light from the robin's nest, through Leo's viewing device, to his eye. You must include how light travels and what happens when it meets a mirror. (3 marks)\n\n**(b) Explain** why Leo is able to see the robin's nest using this device, even though the large garden shed is blocking his direct line of sight. Your explanation must clearly link cause and effect using scientific terminology. (3 marks)\n\n**(c) While using his device, Leo accidentally gets a finger smudge on the surface of one of the mirrors. Explain** how this smudge might affect his view of the robin's nest. (2 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Describe the path of light (3 marks):**\n1. Light rays travel in straight lines from the robin's nest to the first flat mirror inside the device.\n2. The light rays hit the first mirror and are reflected, changing their direction.\n3. The reflected light rays then travel in straight lines from the first mirror to the second flat mirror.\n4. These light rays hit the second mirror and are reflected again, changing their direction a second time.\n5. Finally, the twice-reflected light rays travel in straight lines from the second mirror directly into Leo's eye, allowing him to see the nest.\n\n**(b) Explain why Leo can see the nest (3 marks):**\nBecause light travels in straight lines, the shed normally blocks the light directly from the nest from reaching Leo's eye.\nSo, the two flat mirrors within the device are used to reflect the light, which changes its direction twice.\nThis allows the light from the nest to effectively 'bend' around the shed by reflecting off the mirrors, while still travelling in straight lines between each reflection.\nTherefore, the reflected light eventually reaches Leo's eye, enabling him to see the nest indirectly around the obstacle.\n\n**(c) Explain the effect of a smudge (2 marks):**\nA finger smudge on the mirror will absorb or scatter some of the light rays that hit that part of the mirror.\nBecause less light is reflected cleanly from the smudged area into Leo's eye, his view of the robin's nest will appear dimmer, less clear, or parts of the image might be obscured by the smudge.",
+      "explanation": "This is an open-ended question, so the model answer provided in 'correctAnswer' serves as the complete explanation.",
+      "hint": "Remember that light always travels in straight lines between objects and mirrors, and consider how mirrors affect the light rays that hit them.",
+      "generatedAt": "2026-04-29T20:01:16.272535"
+    },
+    {
+      "id": "s-y6-light_advanced_005",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Alex, a Year 6 student, is building a 'light path' challenge for a science fair. The challenge involves guiding a single beam of light from a laser pointer around two opaque barriers to hit a specific target. Alex uses two flat, shiny mirrors, Mirror 1 and Mirror 2, placed at specific points within the challenge area.\n\n**(a) State the fundamental property of light that allows Alex to use mirrors to change the direction of the light beam. (1 mark)**\n\n**(b) Describe what happens to the laser light when it strikes the surface of one of the mirrors. (2 marks)**\n\n**(c) Alex places Mirror 1 to intercept the laser beam directly from the pointer. Mirror 2 is then positioned to receive the light reflected from Mirror 1 and direct it onto the target. Explain, step-by-step, the full path the light takes from the laser pointer to the target, clearly stating how each mirror contributes to the light reaching its final destination. (4 marks)**",
+      "options": [],
+      "correctAnswer": "(a) Light travels in straight lines.\n\n(b) When the laser light strikes the flat, smooth surface of the mirror, it bounces off. This process is called reflection, and it causes the light to change direction while still travelling in a straight line.\n\n(c) 1. The laser pointer emits a beam of light that travels in a straight line towards Mirror 1.\n2. When this light beam hits the smooth surface of Mirror 1, it is reflected. Mirror 1 changes the direction of the light beam, allowing it to bypass the first opaque barrier.\n3. The light reflected from Mirror 1 then travels in a new straight line towards Mirror 2.\n4. When this light beam hits the smooth surface of Mirror 2, it is reflected again. Mirror 2 changes the direction of the light beam a second time, allowing it to bypass the second opaque barrier.\n5. Finally, the light reflected from Mirror 2 travels in a straight line directly to the target, completing its journey.",
+      "explanation": "Part (a) assesses the fundamental knowledge that light travels in straight lines, which is crucial for understanding how mirrors redirect it. Part (b) requires students to describe the process of reflection, including the key features (bouncing off, smooth surface, change in direction, still straight line). Part (c) is the advanced component; it requires students to combine the concepts of light travelling in straight lines and reflection into a multi-step explanation. They must sequentially describe the light's journey, explaining how each mirror acts as a point of reflection to change the light's direction, allowing it to navigate around barriers and reach a specific destination. This demonstrates an applied understanding of the concepts.",
+      "hint": "For part (c), think about the journey of the light beam as a series of straight lines and bounces. Each mirror will cause one bounce, changing the direction but not the straight path of the light.",
+      "generatedAt": "2026-04-29T20:01:36.596686"
+    },
+    {
+      "id": "s-y6-light_advanced_006",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of Year 6 students is exploring an ancient 'Sun Temple'. Inside a dimly lit chamber, a small, intricate carving (Object X) is positioned behind a thick stone pillar, making a direct view impossible from the designated viewing stand. To allow visitors to see Object X, the temple builders installed two highly polished metal plates, M1 and M2, at specific angles to redirect the light. A simplified top-down diagram illustrating the setup is shown below (assuming the diagram shows the viewer, M1, M2, and Object X with light rays):\n\n[Imagine a diagram here: Viewer (left) -> M1 (angled mirror) -> M2 (angled mirror) -> Object X (right), with light rays indicating the path from Object X, reflecting off M2, then M1, and finally entering the viewer's eye.]\n\n**a) Describe** the path light takes from Object X to the observer's eye, using the mirrors M1 and M2. (3 marks)\n\n**b) Explain** why using highly polished metal plates (mirrors) allows the students to see Object X, connecting your answer to how light travels. (4 marks)\n\n**c) The temple builders later added a new, smaller carving (Object Y) directly above Object X, but still behind the pillar. Explain** how the angles of the mirrors M1 and M2 would need to be adjusted to allow visitors at the same viewing stand to see Object Y instead of Object X. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Model Answer: Light leaves Object X and travels in a straight line to mirror M2. It then reflects off M2 and travels in a straight line to mirror M1. Finally, it reflects off M1 and travels in a straight line to the observer's eye.\n\nb) Model Answer: Highly polished metal plates are good reflectors because their very smooth surfaces cause light rays to bounce off them in a regular and organised way, rather than scattering. Light always travels in straight lines. So, when light from Object X hits M2, it is redirected in a straight line towards M1. M1 then redirects this light in another straight line directly into the observer's eye. This organised reflection, combined with light's straight-line travel, allows the eye to perceive the image of Object X, even though a direct line of sight is blocked by the pillar.\n\nc) Model Answer: To see Object Y (which is positioned higher than Object X), the light rays from Object Y would need to follow a slightly different path to reach the observer's eye. Therefore, both mirrors M1 and M2 would need to be adjusted:\n1. Mirror M2 would need to be tilted slightly downwards (or its top edge tilted away from Object Y). This allows the light coming in a straight line from the higher Object Y to reflect off M2 and be directed slightly downwards towards M1.\n2. Mirror M1 would also need to be tilted slightly downwards (or its top edge tilted away from the viewer). This ensures that the light, which is now coming from M2 at a slightly new downward angle, reflects off M1 and travels in a straight line directly into the observer's eye. These adjustments ensure the straight-line path of light from Object Y is correctly redirected by both reflections to reach the eye.",
+      "explanation": "This question assesses the student's understanding of how light travels in straight lines and how reflection allows us to see objects indirectly. Part (a) tests the basic description of a multi-reflection path. Part (b) requires explaining the underlying scientific principles of reflection and straight-line propagation. Part (c) is the 'Advanced' component, requiring students to apply these concepts to a new situation by deducing how mirror angles must change to view an object at a different vertical position. This demonstrates a deeper conceptual understanding beyond just describing the path.",
+      "hint": "Remember that light always travels in straight lines, and when it reflects off a mirror, the angle at which it hits the mirror is equal to the angle at which it leaves the mirror. For part (c), consider how tilting a mirror changes the direction of the reflected light and how that impacts the path for both reflections to reach the observer.",
+      "generatedAt": "2026-04-29T20:02:01.309119"
+    },
+    {
+      "id": "s-y6-light_advanced_007",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A Year 6 student, Ben, is in a room with a large, opaque screen in the middle. Behind the screen, a small, brightly coloured toy robot is placed on the floor. Ben is holding a torch and wants to see the toy robot, but he cannot move the screen or the robot. He has one flat, rectangular mirror. \n\nWhich statement accurately **explains** how Ben can use the mirror to see the toy robot, demonstrating how light travels and how we see objects through reflection?",
+      "options": [
+        "A) Ben shines his torch directly at the mirror. The mirror then acts like a projector, showing an image of the robot directly into Ben's eyes, because mirrors capture and display images instantly.",
+        "B) Ben first shines his torch so the light travels in a straight line to illuminate the toy robot. The light then reflects off the robot in a straight line towards the mirror. This light then reflects again from the mirror, travelling in a straight line into Ben's eyes, allowing him to see the robot because light always travels in straight lines and bounces off shiny surfaces.",
+        "C) Ben's eyes send out light rays which travel in a straight line to the mirror. These light rays then reflect off the mirror, travel in a straight line to the toy robot, and bounce back to Ben's eyes, allowing him to see.",
+        "D) Ben positions the mirror so the torchlight reflects off it first, then travels to the toy robot. The light then travels from the robot directly to Ben's eyes, bending around the screen because light can curve around obstacles."
+      ],
+      "correctAnswer": "B) Ben first shines his torch so the light travels in a straight line to illuminate the toy robot. The light then reflects off the robot in a straight line towards the mirror. This light then reflects again from the mirror, travelling in a straight line into Ben's eyes, allowing him to see the robot because light always travels in straight lines and bounces off shiny surfaces.",
+      "explanation": "To see an object, light from a source must first illuminate it. Then, this light must reflect off the object and travel into our eyes. When using a mirror to see an object that is out of direct sight, an additional reflection occurs.\n\nHere's why option B is correct:\n1.  **Illumination**: Ben's torch provides the light source. The light travels in a straight line to the toy robot, making it visible.\n2.  **First Reflection**: The light from the illuminated robot then reflects off its surface. This reflected light travels in a straight line towards the mirror.\n3.  **Second Reflection**: When the light hits the mirror, it reflects again. This reflected light travels in a straight line from the mirror directly into Ben's eyes.\n4.  **Vision**: Because light travels in straight lines and reflects off surfaces (like the robot and the mirror) into our eyes, Ben can successfully see the toy robot. This demonstrates the key concepts of light travelling in straight lines and seeing through reflection.\n\nWhy other options are incorrect:\n*   **A) Incorrect**: Mirrors do not act as projectors that spontaneously display images. They only reflect light that hits their surface. This option also skips the crucial step of the robot being illuminated first.\n*   **C) Incorrect**: Our eyes do not send out light rays to see. We see objects when light from them enters our eyes. This is a common misconception.\n*   **D) Incorrect**: Light always travels in straight lines and cannot bend or curve around opaque obstacles like the screen. This option describes light bending, which is scientifically inaccurate.",
+      "hint": "Remember the full path light takes: from the light source, to the object, to the mirror, and finally to your eyes. Light always travels in straight lines, and reflection is key to changing its direction.",
+      "generatedAt": "2026-04-29T20:02:46.975282"
+    },
+    {
+      "id": "s-y6-light_advanced_008",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of Year 6 students is exploring how to see objects that are hidden from view. They decide to build a simple periscope using a long, opaque cardboard tube and two flat, shiny mirrors. Their goal is to see a small toy that is on the floor behind a tall book, just like a periscope lets you see over an obstacle.\n\nThey make two small openings near opposite ends of the tube. They place one mirror flat against the inside wall of the tube near the bottom opening, and the second mirror flat against the inside wall near the top opening. Both mirrors are placed so they are perpendicular to the length of the tube (i.e., if the tube is held vertically, the mirrors are horizontal).\n\nWhen they try to look through the top opening, aiming the bottom opening at the toy, they cannot see the toy.\n\n**Explain** why the students cannot see the toy with this initial setup. You must describe the path of light from the toy to the first mirror, and then from the first mirror onwards, to explain why it does not reach their eyes. (4 marks)",
+      "options": [],
+      "correctAnswer": "The students cannot see the toy because of how light travels and reflects. Light travels in straight lines from the toy to the first mirror. Since the first mirror is placed flat and perpendicular to the tube's length (meaning it's horizontal if the tube is vertical), the light rays hitting it from the toy (which are travelling upwards towards the mirror) will reflect straight back downwards. This means the light travels away from the second mirror. Therefore, no light from the toy reaches the second mirror at the top of the tube, and consequently, no light can travel into the observer's eyes. For the periscope to work, the mirrors need to be angled (e.g., at 45 degrees) to direct the light path correctly: from the toy, up the tube, to the second mirror, and then into the observer's eyes.",
+      "explanation": "1.  **Light path to first mirror (1 mark):** Light travels in straight lines from the toy to the first mirror, entering through the bottom opening.\n2.  **Reflection at first mirror (1 mark):** Since the first mirror is placed horizontally (perpendicular to the tube's length), the light rays travelling upwards from the toy will hit the mirror and reflect straight back downwards.\n3.  **Light fails to reach second mirror (1 mark):** Because the light reflects downwards, it travels away from the second mirror at the top of the tube, never reaching it.\n4.  **Observer cannot see (1 mark):** As no light reaches the second mirror, no light can be directed into the observer's eyes, so they cannot see the toy. This explains the cause (light reflecting away from the second mirror) and effect (cannot see the toy).",
+      "hint": "Consider the direction light travels from the toy to the first mirror, and then what happens when it hits a flat mirror placed directly in its path (perpendicular to the tube's length).",
+      "generatedAt": "2026-04-29T20:03:07.932809"
+    },
+    {
+      "id": "s-y6-light_advanced_009",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A Year 6 student, Maya, has lost a small toy car. She thinks it has rolled deep underneath a large, opaque chest of drawers. Maya cannot see the car by looking directly, even if she lies on the floor. She has a small torch and two identical, flat, smooth mirrors.\n\na) Describe how Maya could use the torch and *one* mirror to illuminate the hidden toy car. (2 marks)\n\nb) Even if the toy car is illuminated by the torch beam reflecting off the first mirror, Maya might still not be able to see the car. Explain *why* Maya cannot see the car with just this single mirror setup. (3 marks)\n\nc) Describe how Maya should position her eye, the torch, and *both* mirrors to successfully see the toy car hidden deep under the chest of drawers. Your answer should explain the path of light from the torch to the car, and then from the car to her eye. (4 marks)\n\nd) State the scientific term for the path that light takes from the toy car to Maya's eye. (1 mark)",
+      "options": [],
+      "correctAnswer": "a) Maya should shine the torch onto the first mirror. The light from the torch will travel in a straight line to the mirror, then reflect off the mirror, also in a straight line, to hit and illuminate the toy car under the chest.\n\nb) Maya cannot see the car because, even though the car is lit up, the light reflecting off the car is still blocked by the chest of drawers. For Maya to see the car, the light reflected from the car must travel in a straight line all the way to her eye, but the chest is in the way, or the single mirror does not redirect the car's reflected light towards her.\n\nc) Maya should first shine the torch onto one mirror, positioning it so the light reflects in a straight line to illuminate the toy car under the chest. The toy car will then reflect this light. Next, Maya should place the second mirror so that the light reflected from the toy car travels in a straight line to this second mirror. This mirror must be angled to reflect the light, again in a straight line, out from under the chest and directly into her eye. This setup uses two reflections to guide the light from the car around the obstruction and into her eye, allowing her to see it.\n\nd) Ray of light / Light ray",
+      "explanation": "a) To illuminate the car, light needs to reach it. As light travels in straight lines, a single mirror can be angled to reflect the straight-line torch beam around a corner or into a hidden space to hit the car.\n\nb) Seeing an object requires light from that object to enter the observer's eye. If only one mirror is used for illumination, the light reflected *from the illuminated car* still has an obstructed path to Maya's eye (blocked by the chest). The mirror used for illumination doesn't necessarily redirect the light from the car back out to Maya's eye.\n\nc) This requires a multi-step process involving two reflections for the viewing path. First, the torch illuminates the car, possibly using the first mirror or directly if possible. Then, for Maya to *see* the car, light reflected *from the car* must travel to her eye. The first mirror (or a different one) is placed so that light reflected from the car travels in a straight line to it. This mirror then reflects the light along a new straight path. The second mirror is then positioned to intercept this reflected light and reflect it again, along a final straight path, directly into Maya's eye. This uses two 'bends' (reflections) to navigate the light from the car around the obstruction to her eye. The description must specify the straight-line travel and reflection for both mirrors in the viewing path.\n\nd) A 'ray of light' or 'light ray' is the scientific term used to represent the path or direction of light.",
+      "hint": "For part (c), think about how each mirror can help the light 'turn a corner' twice – once for the light from the torch to reach the car, and then again for the light reflected from the car to reach Maya's eye.",
+      "generatedAt": "2026-04-29T20:04:05.201421"
+    },
+    {
+      "id": "s-y6-light_advanced_010",
+      "topicId": "s-y6-light",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A Year 6 student, Sam, is on an adventure to find a hidden treasure map. The map is located on a wall deep inside a winding, dark tunnel that has two sharp bends. Sam cannot see the map directly because it is hidden around these bends. Sam has a powerful torch and two identical, small, flat, polished mirrors.\n\n1.  **Describe** how Sam should use the torch and the two mirrors to illuminate the treasure map, ensuring the light reaches it around both bends. You may use a diagram to help your description, but a clear written explanation is essential. (3 marks)\n\n2.  **Explain** how Sam would then be able to *see* the illuminated treasure map, even though it is not in Sam's direct line of sight. Your explanation must use correct scientific terminology and include cause and effect. (4 marks)\n\n3.  **State** one essential property of the mirrors that allows them to be used effectively for this task. (1 mark)",
+      "options": [],
+      "correctAnswer": "1.  **Description:** Sam should shine the torch so its light travels in a straight line to hit the first mirror. This first mirror must be positioned to reflect the light, still travelling in a straight line, around the first bend to hit the second mirror. The second mirror should then be positioned to reflect this light, in another straight line, directly onto the treasure map, thereby illuminating it.\n\n2.  **Explanation:** Sam can see the illuminated map because light travels in straight lines. When the torch light hits the map, the map *reflects* some of this light. This reflected light then travels in a straight line from the map to the second mirror. The second mirror then *reflects* this light, in another straight line, to the first mirror. Finally, the first mirror *reflects* the light, in a straight line, into Sam's eyes. Therefore, Sam can see the map indirectly *because* the light from the map is reflected multiple times by the mirrors, allowing it to travel around the bends and reach Sam's eyes.\n\n3.  **Property:** The mirrors are smooth and shiny / polished. OR The mirrors are opaque.",
+      "explanation": "1.  This description is correct because it demonstrates an understanding that light travels in straight lines and can be redirected by reflection. To navigate two bends with a light source, two separate reflections are necessary to guide the light beam to the target. Each step correctly applies the principle of light bouncing off a surface.\n\n2.  This explanation is correct because it accurately describes the process of vision, stating that we see objects when light from them enters our eyes. It correctly identifies that the map reflects light from the torch. Furthermore, it demonstrates a clear understanding that mirrors can redirect this reflected light, in straight lines, multiple times. The explanation explicitly links the cause (light reflection and straight-line travel) to the effect (seeing the map indirectly) using 'because', fulfilling the requirements for an 'Explain' command word.\n\n3.  This answer is correct because smooth, shiny, or polished surfaces are excellent reflectors of light, ensuring that the light bounces off in a clear and organised manner, allowing for effective redirection. Stating that they are opaque is also correct as this prevents light from passing through, ensuring reflection.",
+      "hint": "Remember that light always travels in straight lines, even when it bounces off a surface. Think about the path the light needs to take to reach the map and then to reach Sam's eyes.",
+      "generatedAt": "2026-04-29T20:04:24.957612"
+    }
+  ]
+}

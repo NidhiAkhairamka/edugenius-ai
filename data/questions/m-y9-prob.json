@@ -1,0 +1,503 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-prob_beginner_001",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A bag contains 3 red counters and 2 blue counters. A counter is chosen at random, its colour is noted, and it is then put back into the bag. A second counter is then chosen at random. What is the probability that both counters chosen are red?",
+      "options": [
+        "3/5",
+        "6/25",
+        "9/25",
+        "9/10"
+      ],
+      "correctAnswer": "9/25",
+      "explanation": "There are a total of 3 red counters + 2 blue counters = 5 counters in the bag.\n\nFirst, let's find the probability of choosing a red counter on the first pick:\nP(Red on 1st pick) = (Number of red counters) / (Total number of counters) = 3/5.\n\nThe counter is then put back into the bag, which means the contents of the bag are exactly the same for the second pick. This makes the two events (first pick and second pick) independent.\n\nSo, the probability of choosing a red counter on the second pick is also:\nP(Red on 2nd pick) = (Number of red counters) / (Total number of counters) = 3/5.\n\nTo find the probability that both counters chosen are red, we multiply the probabilities of these two independent events:\nP(Both Red) = P(Red on 1st pick) × P(Red on 2nd pick)\nP(Both Red) = (3/5) × (3/5)\nP(Both Red) = 9/25.",
+      "hint": "Consider the probability of picking a red counter for the first time, then the probability of picking a red counter for the second time. Remember that replacing the counter makes the events independent, and you should multiply probabilities for independent events occurring in sequence.",
+      "generatedAt": "2026-04-30T17:22:13.078042"
+    },
+    {
+      "id": "m-y9-prob_beginner_002",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A student, Ben, is taking two independent tests: a Maths test and a Science test. The probability that Ben passes the Maths test is 0.7. The probability that Ben passes the Science test is 0.8. Calculate the probability that Ben passes both the Maths test and the Science test. Show your working.",
+      "options": [
+        "0.15",
+        "0.56",
+        "1.5",
+        "0.1"
+      ],
+      "correctAnswer": "0.56",
+      "explanation": "To find the probability of two independent events both happening, you multiply their individual probabilities.\n\nProbability (Ben passes Maths) = 0.7\nProbability (Ben passes Science) = 0.8\n\nProbability (Ben passes Maths AND Ben passes Science) = Probability (Ben passes Maths) × Probability (Ben passes Science)\n= 0.7 × 0.8\n= 0.56\n\nSo, the probability that Ben passes both tests is 0.56.",
+      "hint": "Remember, for independent events, the probability of both events happening is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:22:23.250443"
+    },
+    {
+      "id": "m-y9-prob_beginner_003",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A student, Emily, is planning her activities for the weekend. The probability that Emily goes to the park on Saturday is 0.7. The probability that Emily reads a book on Sunday is 0.5. These two activities are independent events. What is the probability that Emily goes to the park on Saturday AND does NOT read a book on Sunday?",
+      "options": [
+        "0.35",
+        "0.2",
+        "1.2",
+        "0.7"
+      ],
+      "correctAnswer": "0.35",
+      "explanation": "1. First, identify the given probabilities:\n   Probability of Emily going to the park on Saturday, P(Park) = 0.7.\n   Probability of Emily reading a book on Sunday, P(Reads book) = 0.5.\n2. The question asks for the probability that Emily does NOT read a book on Sunday. The probability of an event not happening is 1 minus the probability of it happening:\n   P(Does NOT read book) = 1 - P(Reads book) = 1 - 0.5 = 0.5.\n3. Since the two activities are independent events, the probability of both events happening is found by multiplying their individual probabilities:\n   P(Park AND Does NOT read book) = P(Park) × P(Does NOT read book)\n   P(Park AND Does NOT read book) = 0.7 × 0.5\n   P(Park AND Does NOT read book) = 0.35",
+      "hint": "Remember that if two events are independent, the probability of both events happening is found by multiplying their individual probabilities. You might also need to calculate the probability of an event *not* happening first.",
+      "generatedAt": "2026-04-30T17:22:34.939709"
+    },
+    {
+      "id": "m-y9-prob_beginner_004",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "The probability that a specific train arrives on time on Monday is 0.8. The probability that the same train arrives on time on Tuesday is 0.9. These two events are independent. Calculate the probability that the train arrives on time on both Monday and Tuesday.",
+      "options": [
+        "A) 1.7",
+        "B) 0.17",
+        "C) 0.72",
+        "D) 0.89"
+      ],
+      "correctAnswer": "C) 0.72",
+      "explanation": "To find the probability of two independent events both happening, you multiply their individual probabilities.\nLet P(On time on Monday) = P(M) = 0.8.\nLet P(On time on Tuesday) = P(T) = 0.9.\nSince the events are independent, the probability that the train arrives on time on both Monday and Tuesday is P(M and T) = P(M) × P(T).\nP(M and T) = 0.8 × 0.9 = 0.72.",
+      "hint": "For independent events, the probability of both events occurring is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:22:42.812058"
+    },
+    {
+      "id": "m-y9-prob_beginner_005",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "The probability that it rains in Plymouth on Saturday is 0.4. The probability that it rains in Manchester on the same Saturday is 0.3. The weather conditions in Plymouth are independent of the weather conditions in Manchester. What is the probability that it rains in both Plymouth and Manchester on Saturday?",
+      "options": [
+        "0.7",
+        "0.12",
+        "0.07",
+        "0.14"
+      ],
+      "correctAnswer": "0.12",
+      "explanation": "To find the probability of two independent events both happening, you multiply their individual probabilities.\nLet P(Rain in Plymouth) = 0.4.\nLet P(Rain in Manchester) = 0.3.\nSince the events are independent, the probability that it rains in both cities is P(Rain in Plymouth) × P(Rain in Manchester).\nProbability = 0.4 × 0.3 = 0.12.",
+      "hint": "When two events are independent, the probability of both events happening is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:22:52.420303"
+    },
+    {
+      "id": "m-y9-prob_beginner_006",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A student plays two independent games.\nIn the first game, they roll a fair six-sided dice, numbered 1, 2, 3, 4, 5, 6.\nIn the second game, they spin a fair spinner with four equally sized sections coloured Red, Blue, Green, and Yellow.\n\nWhat is the probability that the student rolls a 4 on the dice AND the spinner lands on Green?",
+      "options": [
+        "1/24",
+        "5/12",
+        "1/10",
+        "1/12"
+      ],
+      "correctAnswer": "1/24",
+      "explanation": "To find the probability of two independent events both happening, you multiply their individual probabilities.\n\n1.  **Probability of rolling a 4 on the dice:** There is one '4' out of six possible outcomes (1, 2, 3, 4, 5, 6) on a fair six-sided dice. So, P(Roll a 4) = 1/6.\n2.  **Probability of the spinner landing on Green:** There is one 'Green' section out of four equally sized sections (Red, Blue, Green, Yellow) on the fair spinner. So, P(Spinner lands on Green) = 1/4.\n\nSince these events are independent, the probability of both happening is calculated by multiplying their probabilities:\nP(Roll a 4 AND Spinner lands on Green) = P(Roll a 4) × P(Spinner lands on Green)\n= (1/6) × (1/4)\n= 1/24",
+      "hint": "Remember that for independent events, the probability of both events occurring is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:23:08.131322"
+    },
+    {
+      "id": "m-y9-prob_beginner_007",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A factory produces electronic devices in two independent stages.\nIn the first stage, a circuit board is manufactured. The probability that a randomly chosen circuit board is faulty is 0.04.\nIn the second stage, the circuit board is integrated into the device. The probability that the integration process results in a fault is 0.01.\nWhat is the probability that a randomly selected electronic device has both a faulty circuit board and a fault from the integration process?",
+      "options": [
+        "0.05",
+        "0.0004",
+        "0.04",
+        "0.004"
+      ],
+      "correctAnswer": "0.0004",
+      "explanation": "The problem describes two independent events: a faulty circuit board and a fault from the integration process.\nTo find the probability that both of these independent events occur, you multiply their individual probabilities.\nProbability of faulty circuit board = 0.04\nProbability of fault from integration process = 0.01\nProbability of both events = P(faulty circuit board) × P(fault from integration process)\n= 0.04 × 0.01\n= 0.0004\nSo, the probability that a randomly selected electronic device has both a faulty circuit board and a fault from the integration process is 0.0004.",
+      "hint": "Remember that for two independent events, the probability of both events happening is found by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:23:21.829160"
+    },
+    {
+      "id": "m-y9-prob_beginner_008",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A fair spinner has four distinct sections: one coloured Red, one coloured Blue, one coloured Green, and one coloured Yellow. The probability of the spinner landing on Red is 0.3. The probability of it landing on Blue is 0.2. The probability of it landing on Green is 0.4. The probability of it landing on Yellow is 0.1.\n\nJamie spins the spinner twice.\n\nWhat is the probability that the spinner lands on Red on the first spin AND lands on Green on the second spin?",
+      "options": [
+        "0.7",
+        "0.12",
+        "0.07",
+        "0.6"
+      ],
+      "correctAnswer": "0.12",
+      "explanation": "To find the probability of two independent events both happening, you multiply their individual probabilities.\n\nThe probability of landing on Red on the first spin (P(Red)) = 0.3\nThe probability of landing on Green on the second spin (P(Green)) = 0.4\n\nSince the spins are independent events, the probability of both happening in this specific order is:\nP(Red and then Green) = P(Red) × P(Green)\nP(Red and then Green) = 0.3 × 0.4\nP(Red and then Green) = 0.12",
+      "hint": "When calculating the probability of two independent events both occurring in sequence, what operation should you use with their individual probabilities?",
+      "generatedAt": "2026-04-30T17:23:34.806923"
+    },
+    {
+      "id": "m-y9-prob_beginner_009",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A baker makes two different types of cakes for sale: chocolate and vanilla. The probability that a chocolate cake sells out by the end of the day is 0.85. The probability that a vanilla cake sells out by the end of the day is 0.7. The sales of the chocolate cake and the vanilla cake are independent events. What is the probability that both the chocolate cake and the vanilla cake sell out by the end of the day?",
+      "options": [
+        "0.15",
+        "0.595",
+        "0.7",
+        "1.55"
+      ],
+      "correctAnswer": "0.595",
+      "explanation": "Let C be the event that the chocolate cake sells out, and V be the event that the vanilla cake sells out. We are given the probability that a chocolate cake sells out, P(C) = 0.85. We are also given the probability that a vanilla cake sells out, P(V) = 0.7. Since the sales of the two cakes are independent events, the probability that both cakes sell out is found by multiplying their individual probabilities: P(C and V) = P(C) × P(V) = 0.85 × 0.7 = 0.595.",
+      "hint": "For two independent events, the probability of both events occurring is calculated by multiplying their individual probabilities.",
+      "generatedAt": "2026-04-30T17:23:48.617174"
+    },
+    {
+      "id": "m-y9-prob_beginner_010",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Amelia chooses one sweet from Bag A and one sweet from Bag B. \nBag A contains 5 red sweets and 3 blue sweets. \nBag B contains 4 green sweets and 6 yellow sweets. \nWhat is the probability that Amelia chooses a red sweet from Bag A and a green sweet from Bag B?",
+      "options": [
+        "A) 1/2",
+        "B) 1/4",
+        "C) 2/5",
+        "D) 5/8"
+      ],
+      "correctAnswer": "B) 1/4",
+      "explanation": "Step 1: Calculate the probability of choosing a red sweet from Bag A.\nTotal sweets in Bag A = 5 red + 3 blue = 8 sweets.\nProbability of choosing a red sweet from Bag A, P(Red from A) = Number of red sweets / Total sweets in Bag A = 5/8.\n\nStep 2: Calculate the probability of choosing a green sweet from Bag B.\nTotal sweets in Bag B = 4 green + 6 yellow = 10 sweets.\nProbability of choosing a green sweet from Bag B, P(Green from B) = Number of green sweets / Total sweets in Bag B = 4/10.\nSimplify P(Green from B) = 2/5.\n\nStep 3: Since choosing a sweet from Bag A and choosing a sweet from Bag B are independent events, to find the probability of both events happening, multiply their individual probabilities.\nP(Red from A and Green from B) = P(Red from A) * P(Green from B)\nP(Red from A and Green from B) = (5/8) * (2/5)\n\nStep 4: Multiply the fractions.\n(5 * 2) / (8 * 5) = 10/40.\n\nStep 5: Simplify the result.\n10/40 = 1/4.\n\nTherefore, the correct answer is 1/4.",
+      "hint": "To find the probability of two independent events both happening, you need to multiply the probability of the first event by the probability of the second event.",
+      "generatedAt": "2026-04-30T17:24:08.408109"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-prob_intermediate_001",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A bag contains 5 red counters and 3 blue counters. A counter is picked at random from the bag, its colour is noted, and it is then replaced. A second counter is then picked at random from the bag and its colour is noted. Calculate the probability that the two counters picked are different colours. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Total number of counters = 5 (red) + 3 (blue) = 8 counters.\n\nProbability of picking a red counter first: P(R1) = 5/8\nProbability of picking a blue counter first: P(B1) = 3/8\n\nSince the counter is replaced, the probabilities for the second pick are the same:\nProbability of picking a red counter second: P(R2) = 5/8\nProbability of picking a blue counter second: P(B2) = 3/8\n\nWe want the probability that the two counters picked are different colours. This can happen in two ways:\n1. First counter is Red AND second counter is Blue (R then B)\n2. First counter is Blue AND second counter is Red (B then R)\n\nFor case 1 (R then B):\nP(R then B) = P(R1) * P(B2) = (5/8) * (3/8) = 15/64\n\nFor case 2 (B then R):\nP(B then R) = P(B1) * P(R2) = (3/8) * (5/8) = 15/64\n\nThe total probability of picking two different coloured counters is the sum of these probabilities:\nP(Different colours) = P(R then B) + P(B then R)\nP(Different colours) = 15/64 + 15/64 = 30/64\n\nSimplifying the fraction: 30/64 = 15/32\n\nTherefore, the probability that the two counters picked are different colours is 15/32.",
+      "explanation": "1. Identify the total number of counters and the number of each colour: Total = 8 (5 Red, 3 Blue).\n2. Calculate the individual probabilities for the first pick:\n   P(Red first) = Number of red / Total counters = 5/8\n   P(Blue first) = Number of blue / Total counters = 3/8\n3. Since the counter is replaced, the probabilities for the second pick remain the same, making the events independent.\n4. Identify the two distinct scenarios that result in different coloured counters:\n   - Picking a Red counter first, then a Blue counter (R,B).\n   - Picking a Blue counter first, then a Red counter (B,R).\n5. Calculate the probability for each scenario by multiplying the probabilities of the independent events:\n   - P(R,B) = P(Red first) × P(Blue second) = (5/8) × (3/8) = 15/64.\n   - P(B,R) = P(Blue first) × P(Red second) = (3/8) × (5/8) = 15/64.\n6. Add the probabilities of these two mutually exclusive scenarios to find the total probability of picking different colours:\n   P(Different colours) = P(R,B) + P(B,R) = 15/64 + 15/64 = 30/64.\n7. Simplify the final fraction: 30/64 = 15/32.",
+      "hint": "You might find it helpful to draw a tree diagram to visualise all the possible outcomes and their probabilities for each stage of picking a counter. Remember to consider all paths that lead to picking two different colours and that the events are independent due to replacement.",
+      "generatedAt": "2026-04-30T17:24:25.585566"
+    },
+    {
+      "id": "m-y9-prob_intermediate_002",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A manufacturing plant has two independent production lines, Line A and Line B. The probability that Line A produces a defective item on any given day is 0.15. The probability that Line B produces a defective item on any given day is 0.20. Assuming the operation of each line is completely independent, calculate the probability that on a particular day, exactly one of the two lines produces a defective item. Show your working.",
+      "options": [
+        "0.03",
+        "0.29",
+        "0.35",
+        "0.68"
+      ],
+      "correctAnswer": "0.29",
+      "explanation": "To find the probability that exactly one of the two lines produces a defective item, we need to consider two mutually exclusive scenarios:\n\nScenario 1: Line A produces a defective item AND Line B does NOT produce a defective item.\nScenario 2: Line A does NOT produce a defective item AND Line B produces a defective item.\n\nFirst, calculate the probabilities of each line *not* producing a defective item:\nProbability (Line A not defective) = 1 - Probability (Line A defective) = 1 - 0.15 = 0.85\nProbability (Line B not defective) = 1 - Probability (Line B defective) = 1 - 0.20 = 0.80\n\nNow, calculate the probability for each scenario:\n\nFor Scenario 1:\nP(Line A defective AND Line B not defective) = P(Line A defective) × P(Line B not defective) (since the events are independent)\n= 0.15 × 0.80\n= 0.12\n\nFor Scenario 2:\nP(Line A not defective AND Line B defective) = P(Line A not defective) × P(Line B defective) (since the events are independent)\n= 0.85 × 0.20\n= 0.17\n\nFinally, add the probabilities of these two scenarios to find the total probability of exactly one line producing a defective item (since these scenarios are mutually exclusive):\nTotal Probability = P(Scenario 1) + P(Scenario 2)\n= 0.12 + 0.17\n= 0.29",
+      "hint": "Consider the two possible combinations of events where exactly one line produces a defective item. Remember that for independent events, you multiply probabilities, and for mutually exclusive outcomes, you add probabilities.",
+      "generatedAt": "2026-04-30T17:24:44.616444"
+    },
+    {
+      "id": "m-y9-prob_intermediate_003",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The probability that it rains on Monday in a particular town is 0.4. The probability that it rains on Tuesday in the same town is 0.3. The weather on Monday is independent of the weather on Tuesday.\n\nCalculate the probability that it rains on exactly one of these two days. Show your working.",
+      "options": [
+        "0.12",
+        "0.46",
+        "0.58",
+        "0.70"
+      ],
+      "correctAnswer": "0.46",
+      "explanation": "Let R be the event that it rains, and R' be the event that it does not rain.\n\nGiven probabilities:\nP(R on Monday) = 0.4\nP(R on Tuesday) = 0.3\n\nSince the events are independent:\nP(R' on Monday) = 1 - P(R on Monday) = 1 - 0.4 = 0.6\nP(R' on Tuesday) = 1 - P(R on Tuesday) = 1 - 0.3 = 0.7\n\nWe want to find the probability that it rains on exactly one of the two days. This can happen in two ways:\n\nScenario 1: It rains on Monday AND it does not rain on Tuesday.\nP(R on Monday AND R' on Tuesday) = P(R on Monday) * P(R' on Tuesday)  (due to independence)\n= 0.4 * 0.7\n= 0.28\n\nScenario 2: It does not rain on Monday AND it rains on Tuesday.\nP(R' on Monday AND R on Tuesday) = P(R' on Monday) * P(R on Tuesday) (due to independence)\n= 0.6 * 0.3\n= 0.18\n\nTo find the total probability of exactly one day of rain, we add the probabilities of these two mutually exclusive scenarios:\nTotal Probability = P(Scenario 1) + P(Scenario 2)\n= 0.28 + 0.18\n= 0.46",
+      "hint": "Consider the two distinct ways exactly one day of rain can occur. For each way, calculate the combined probability, then sum them up. A tree diagram might help visualise the outcomes.",
+      "generatedAt": "2026-04-30T17:24:55.115546"
+    },
+    {
+      "id": "m-y9-prob_intermediate_004",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "David is participating in a charity event that involves two separate challenges: Challenge A and Challenge B. The outcome of Challenge A is independent of the outcome of Challenge B.\nThe probability that David successfully completes Challenge A is 0.8.\nThe probability that David successfully completes Challenge B is 0.6.\n\nCalculate the probability that David successfully completes exactly one of the two challenges. Show your working.",
+      "options": [],
+      "correctAnswer": "The probability that David successfully completes exactly one of the two challenges is 0.44.\n\n**Working:**\nFirst, identify the probabilities of David failing each challenge:\n*   Probability of failing Challenge A = P(not A) = 1 - P(A) = 1 - 0.8 = 0.2\n*   Probability of failing Challenge B = P(not B) = 1 - P(B) = 1 - 0.6 = 0.4\n\nThere are two distinct ways David can complete exactly one challenge:\n\n**Scenario 1: David completes Challenge A AND fails Challenge B.**\n*   Since the challenges are independent, we multiply their probabilities:\n    P(A and not B) = P(A) * P(not B) = 0.8 * 0.4 = 0.32\n\n**Scenario 2: David fails Challenge A AND completes Challenge B.**\n*   Since the challenges are independent, we multiply their probabilities:\n    P(not A and B) = P(not A) * P(B) = 0.2 * 0.6 = 0.12\n\nFinally, to find the probability that David completes exactly one challenge, we add the probabilities of these two mutually exclusive scenarios:\nP(Exactly one success) = P(A and not B) + P(not A and B) = 0.32 + 0.12 = 0.44",
+      "explanation": "To find the probability that David completes exactly one of the two challenges, we need to consider two distinct scenarios:\n\nScenario 1: David completes Challenge A but fails Challenge B.\n*   The probability of completing Challenge A is P(A) = 0.8.\n*   The probability of failing Challenge B is P(not B) = 1 - P(B) = 1 - 0.6 = 0.4.\n*   Since the challenges are independent, the probability of Scenario 1 is P(A and not B) = P(A) * P(not B) = 0.8 * 0.4 = 0.32.\n\nScenario 2: David fails Challenge A but completes Challenge B.\n*   The probability of failing Challenge A is P(not A) = 1 - P(A) = 1 - 0.8 = 0.2.\n*   The probability of completing Challenge B is P(B) = 0.6.\n*   Since the challenges are independent, the probability of Scenario 2 is P(not A and B) = P(not A) * P(B) = 0.2 * 0.6 = 0.12.\n\nFinally, to find the probability of David completing exactly one challenge, we add the probabilities of these two mutually exclusive scenarios:\nP(Exactly one success) = P(Scenario 1) + P(Scenario 2) = 0.32 + 0.12 = 0.44.\n\nTherefore, the probability that David successfully completes exactly one of the two challenges is 0.44.",
+      "hint": "Consider all the possible combinations of outcomes for David's two challenges. A tree diagram can be useful to visualise these outcomes and their probabilities. Remember to calculate the probability of 'not completing' each challenge first.",
+      "generatedAt": "2026-04-30T17:25:18.614934"
+    },
+    {
+      "id": "m-y9-prob_intermediate_005",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Jamie plays an online game. The probability that Jamie wins a round is 0.6. After each round, Jamie can attempt a bonus challenge. The probability that Jamie successfully completes the bonus challenge is 0.3. The outcome of the bonus challenge is entirely independent of whether Jamie wins or loses the round.\n\nJamie plays one round and attempts one bonus challenge. What is the probability that Jamie either wins the round OR successfully completes the bonus challenge, but not both?\n\nShow your working clearly.",
+      "options": [
+        "0.18",
+        "0.42",
+        "0.54",
+        "0.60"
+      ],
+      "correctAnswer": "0.54",
+      "explanation": "Let W be the event that Jamie wins the round, and C be the event that Jamie completes the bonus challenge.\n\nWe are given:\nP(W) = 0.6\nP(C) = 0.3\n\nSince the events are independent:\nP(Not W) = 1 - P(W) = 1 - 0.6 = 0.4\nP(Not C) = 1 - P(C) = 1 - 0.3 = 0.7\n\nWe want to find the probability that Jamie either wins the round OR successfully completes the bonus challenge, but not both. This means we are looking for two specific mutually exclusive scenarios:\n\nScenario 1: Jamie wins the round AND does NOT complete the bonus challenge.\nP(W and Not C) = P(W) * P(Not C) (due to independence)\nP(W and Not C) = 0.6 * 0.7 = 0.42\n\nScenario 2: Jamie does NOT win the round AND completes the bonus challenge.\nP(Not W and C) = P(Not W) * P(C) (due to independence)\nP(Not W and C) = 0.4 * 0.3 = 0.12\n\nSince these two scenarios are mutually exclusive (they cannot both happen at the same time), we add their probabilities to find the total probability:\n\nTotal Probability = P(W and Not C) + P(Not W and C)\nTotal Probability = 0.42 + 0.12 = 0.54\n\nThe probability that Jamie either wins the round OR successfully completes the bonus challenge, but not both, is 0.54.",
+      "hint": "Consider the two distinct scenarios where only one of the events occurs. Remember to calculate the probabilities of 'not winning' and 'not completing the challenge' first, and use the fact that the events are independent.",
+      "generatedAt": "2026-04-30T17:25:33.527350"
+    },
+    {
+      "id": "m-y9-prob_intermediate_006",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Emily is preparing for her school's annual fair. She has decided to enter two items: a batch of homemade cookies and a handcrafted greeting card.\nThe probability that her cookies are judged 'excellent' is 0.6.\nThe probability that her greeting card is judged 'excellent' is 0.75.\nThe judging of the cookies and the card are independent events.\n\nCalculate the probability that exactly one of Emily's items is judged 'excellent'. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Let C be the event that Emily's cookies are judged 'excellent'.\nLet R be the event that Emily's greeting card is judged 'excellent'.\n\nGiven probabilities:\nP(C) = 0.6\nP(R) = 0.75\n\nProbabilities of not being 'excellent':\nP(not C) = 1 - P(C) = 1 - 0.6 = 0.4\nP(not R) = 1 - P(R) = 1 - 0.75 = 0.25\n\nWe want the probability that *exactly one* of her items is judged 'excellent'. This can happen in two mutually exclusive ways:\n1. Cookies are 'excellent' AND Card is NOT 'excellent'.\n2. Cookies are NOT 'excellent' AND Card is 'excellent'.\n\nSince the events are independent, we multiply the probabilities for each case:\n\nCase 1: P(C and not R) = P(C) × P(not R)\nP(C and not R) = 0.6 × 0.25 = 0.15\n\nCase 2: P(not C and R) = P(not C) × P(R)\nP(not C and R) = 0.4 × 0.75 = 0.30\n\nTo find the total probability that exactly one item is 'excellent', we add the probabilities of these two mutually exclusive cases:\nTotal Probability = P(C and not R) + P(not C and R)\nTotal Probability = 0.15 + 0.30 = 0.45\n\nThe probability that exactly one of Emily's items is judged 'excellent' is 0.45.",
+      "explanation": "Let C be the event that Emily's cookies are judged 'excellent'.\nLet R be the event that Emily's greeting card is judged 'excellent'.\n\nGiven probabilities:\nP(C) = 0.6\nP(R) = 0.75\n\nProbabilities of not being 'excellent':\nP(not C) = 1 - P(C) = 1 - 0.6 = 0.4\nP(not R) = 1 - P(R) = 1 - 0.75 = 0.25\n\nWe want the probability that *exactly one* of her items is judged 'excellent'. This can happen in two mutually exclusive ways:\n1. Cookies are 'excellent' AND Card is NOT 'excellent'.\n2. Cookies are NOT 'excellent' AND Card is 'excellent'.\n\nSince the events are independent, we multiply the probabilities for each case:\n\nCase 1: P(C and not R) = P(C) × P(not R)\nP(C and not R) = 0.6 × 0.25 = 0.15\n\nCase 2: P(not C and R) = P(not C) × P(R)\nP(not C and R) = 0.4 × 0.75 = 0.30\n\nTo find the total probability that exactly one item is 'excellent', we add the probabilities of these two mutually exclusive cases:\nTotal Probability = P(C and not R) + P(not C and R)\nTotal Probability = 0.15 + 0.30 = 0.45\n\nThe probability that exactly one of Emily's items is judged 'excellent' is 0.45.",
+      "hint": "Consider the two distinct scenarios where exactly one item is excellent (either cookies excellent and card not, or card excellent and cookies not). Remember how to calculate probabilities for independent events and how to combine probabilities for mutually exclusive outcomes.",
+      "generatedAt": "2026-04-30T17:25:50.492048"
+    },
+    {
+      "id": "m-y9-prob_intermediate_007",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A stationery box contains 5 red pens, 3 blue pens, and 2 green rulers. A separate pencil case contains 4 pencils and 6 erasers. A student randomly picks one item from the stationery box and then randomly picks one item from the pencil case. Calculate the probability that the student picks a pen and an eraser. Show your working.",
+      "options": [],
+      "correctAnswer": "To calculate the probability of picking a pen and an eraser, we need to consider the two ways this can happen:\n1.  Picking a red pen AND an eraser.\n2.  Picking a blue pen AND an eraser.\n\nFirst, list the probabilities for each individual event:\nTotal items in stationery box = 5 (red pens) + 3 (blue pens) + 2 (green rulers) = 10 items.\nTotal items in pencil case = 4 (pencils) + 6 (erasers) = 10 items.\n\nProbabilities for picking from the stationery box:\nP(Red Pen) = 5/10\nP(Blue Pen) = 3/10\nP(Green Ruler) = 2/10\n\nProbabilities for picking from the pencil case:\nP(Pencil) = 4/10\nP(Eraser) = 6/10\n\nNow, calculate the probability for each desired combined outcome:\n1.  Probability of picking a red pen AND an eraser:\n    Since the events are independent, we multiply their probabilities:\n    P(Red Pen and Eraser) = P(Red Pen) × P(Eraser)\n    P(Red Pen and Eraser) = (5/10) × (6/10)\n    P(Red Pen and Eraser) = 30/100 = 3/10\n\n2.  Probability of picking a blue pen AND an eraser:\n    Since the events are independent, we multiply their probabilities:\n    P(Blue Pen and Eraser) = P(Blue Pen) × P(Eraser)\n    P(Blue Pen and Eraser) = (3/10) × (6/10)\n    P(Blue Pen and Eraser) = 18/100 = 9/50\n\nFinally, add the probabilities of these mutually exclusive outcomes to find the total probability of picking a pen and an eraser:\nP(Pen and Eraser) = P(Red Pen and Eraser) + P(Blue Pen and Eraser)\nP(Pen and Eraser) = 30/100 + 18/100\nP(Pen and Eraser) = 48/100\n\nSimplify the fraction:\nP(Pen and Eraser) = 12/25",
+      "explanation": "This problem involves two independent events: picking an item from the stationery box, and picking an item from the pencil case. To solve this, you can imagine drawing a tree diagram. First, determine all the possible outcomes and their individual probabilities for selecting an item from the box (red pen, blue pen, green ruler). Then, for each of these outcomes, determine the possible outcomes and probabilities for selecting an item from the pencil case (pencil, eraser). To find the probability of a specific sequence of independent events (like 'red pen then eraser'), you multiply the probabilities along that branch of the tree. Since there are multiple distinct ways to satisfy the condition 'picking a pen and an eraser' (e.g., red pen AND eraser, OR blue pen AND eraser), these are mutually exclusive outcomes. You sum the probabilities of these individual sequences to get the final answer.",
+      "hint": "Start by identifying all possible outcomes for each selection and their probabilities. Then, consider which combinations of outcomes satisfy the condition 'picking a pen and an eraser'. Remember to multiply probabilities along branches of a tree diagram for independent events and add probabilities for mutually exclusive outcomes.",
+      "generatedAt": "2026-04-30T17:26:18.373247"
+    },
+    {
+      "id": "m-y9-prob_intermediate_008",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A factory produces two types of electronic components: Component X and Component Y. The manufacturing processes for each component are independent.\nThe probability that a randomly selected Component X is faulty is 0.04.\nThe probability that a randomly selected Component Y is faulty is 0.02.\nA quality control inspector picks one Component X and one Component Y at random for testing.\nCalculate the probability that exactly one of the two components picked is faulty. Show your working.",
+      "options": [],
+      "correctAnswer": "Let P(XF) be the probability that Component X is faulty, and P(XN) be the probability that Component X is not faulty.\nP(XF) = 0.04\nP(XN) = 1 - P(XF) = 1 - 0.04 = 0.96\n\nLet P(YF) be the probability that Component Y is faulty, and P(YN) be the probability that Component Y is not faulty.\nP(YF) = 0.02\nP(YN) = 1 - P(YF) = 1 - 0.02 = 0.98\n\nWe want to find the probability that exactly one of the two components is faulty. There are two scenarios for this:\n1. Component X is faulty AND Component Y is not faulty.\n2. Component X is not faulty AND Component Y is faulty.\n\nSince the events are independent:\nProbability of scenario 1 = P(XF) × P(YN) = 0.04 × 0.98 = 0.0392\n\nProbability of scenario 2 = P(XN) × P(YF) = 0.96 × 0.02 = 0.0192\n\nThe probability that exactly one component is faulty is the sum of the probabilities of these two mutually exclusive scenarios:\nTotal probability = Probability of scenario 1 + Probability of scenario 2\nTotal probability = 0.0392 + 0.0192 = 0.0584\n\nSo, the probability that exactly one of the two components picked is faulty is 0.0584.",
+      "explanation": "To find the probability that exactly one component is faulty, we need to consider two distinct cases:\nCase 1: Component X is faulty AND Component Y is not faulty.\nCase 2: Component X is not faulty AND Component Y is faulty.\n\nFirst, calculate the probabilities of a component not being faulty:\nP(X not faulty) = 1 - P(X faulty) = 1 - 0.04 = 0.96\nP(Y not faulty) = 1 - P(Y faulty) = 1 - 0.02 = 0.98\n\nNext, calculate the probability for each case:\nCase 1 probability = P(X faulty) × P(Y not faulty) = 0.04 × 0.98 = 0.0392\nCase 2 probability = P(X not faulty) × P(Y faulty) = 0.96 × 0.02 = 0.0192\n\nFinally, since these two cases are mutually exclusive, add their probabilities to get the total probability of exactly one component being faulty:\nTotal probability = 0.0392 + 0.0192 = 0.0584",
+      "hint": "Consider drawing a tree diagram to list all possible outcomes for the two components (faulty or not faulty) and their associated probabilities. Remember that the probability of an event not happening is 1 minus the probability of it happening. You will need to calculate the probability of two different specific outcomes and then add them together.",
+      "generatedAt": "2026-04-30T17:26:32.688058"
+    },
+    {
+      "id": "m-y9-prob_intermediate_009",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A bag contains 7 red counters and 3 blue counters. Two counters are chosen at random from the bag, one after the other, without replacement. Calculate the probability that the two counters chosen are of different colours. Show your working.",
+      "options": [
+        "7/15",
+        "21/50",
+        "49/100",
+        "7/30"
+      ],
+      "correctAnswer": "7/15",
+      "explanation": "Let R be the event of choosing a red counter and B be the event of choosing a blue counter.\n\nInitially, there are 7 red counters and 3 blue counters, making a total of 10 counters.\n\nFor the first counter:\nP(R on first pick) = 7/10\nP(B on first pick) = 3/10\n\nSince the first counter is not replaced, there are now 9 counters left in the bag.\n\nCase 1: The first counter chosen is Red (R1).\nIf a red counter was chosen first, there are now 6 red counters and 3 blue counters remaining in the bag (total 9 counters).\nThe probability of choosing a blue counter second, given the first was red, is P(B on second pick | R1) = 3/9.\nThe probability of this sequence (Red then Blue) is P(R1 and B2) = P(R1) * P(B2 | R1) = (7/10) * (3/9) = 21/90.\n\nCase 2: The first counter chosen is Blue (B1).\nIf a blue counter was chosen first, there are now 7 red counters and 2 blue counters remaining in the bag (total 9 counters).\nThe probability of choosing a red counter second, given the first was blue, is P(R on second pick | B1) = 7/9.\nThe probability of this sequence (Blue then Red) is P(B1 and R2) = P(B1) * P(R2 | B1) = (3/10) * (7/9) = 21/90.\n\nThe probability that the two counters chosen are of different colours is the sum of the probabilities of these two mutually exclusive cases (Red then Blue OR Blue then Red):\nP(Different colours) = P(R1 and B2) + P(B1 and R2)\nP(Different colours) = 21/90 + 21/90 = 42/90.\n\nTo simplify the fraction:\n42/90 can be divided by their greatest common divisor, which is 6.\n42 ÷ 6 = 7\n90 ÷ 6 = 15\nSo, 42/90 simplifies to 7/15.",
+      "hint": "Consider drawing a probability tree diagram to visualise the different outcomes and their probabilities for the two consecutive selections. Remember that the probabilities for the second selection will change because the first counter is not replaced.",
+      "generatedAt": "2026-04-30T17:26:48.784516"
+    },
+    {
+      "id": "m-y9-prob_intermediate_010",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Ben is taking part in a maths competition. The probability that Ben correctly solves the first problem is 0.7. The probability that Ben correctly solves the second problem is 0.4. The outcome of solving one problem is independent of the outcome of solving the other problem.\n\nCalculate the probability that Ben solves exactly one of the two problems. Show your working.",
+      "options": [],
+      "correctAnswer": "Let P(S1) be the probability Ben solves the first problem, so P(S1) = 0.7.\nLet P(NS1) be the probability Ben does not solve the first problem, so P(NS1) = 1 - 0.7 = 0.3.\n\nLet P(S2) be the probability Ben solves the second problem, so P(S2) = 0.4.\nLet P(NS2) be the probability Ben does not solve the second problem, so P(NS2) = 1 - 0.4 = 0.6.\n\nThere are two ways Ben can solve exactly one problem:\n1. Ben solves the first problem AND does not solve the second problem.\n   P(S1 and NS2) = P(S1) × P(NS2) = 0.7 × 0.6 = 0.42.\n\n2. Ben does not solve the first problem AND solves the second problem.\n   P(NS1 and S2) = P(NS1) × P(S2) = 0.3 × 0.4 = 0.12.\n\nTo find the probability that Ben solves exactly one problem, we add these two probabilities:\nTotal Probability = P(S1 and NS2) + P(NS1 and S2) = 0.42 + 0.12 = 0.54.\n\nThe probability that Ben solves exactly one of the two problems is 0.54.",
+      "explanation": "The problem asks for the probability of exactly one event occurring when there are two independent events. First, identify the probabilities of success and failure for each problem. Then, determine the two mutually exclusive scenarios that result in exactly one success: (Problem 1 solved AND Problem 2 not solved) OR (Problem 1 not solved AND Problem 2 solved). Calculate the probability of each scenario by multiplying the independent probabilities. Finally, add these two probabilities together to get the total probability of exactly one problem being solved.",
+      "hint": "Consider using a tree diagram to list all possible outcomes and their probabilities. Then, identify the outcomes where exactly one problem is solved and sum their probabilities.",
+      "generatedAt": "2026-04-30T17:27:01.360209"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-prob_advanced_001",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A contestant on a game show plays three independent rounds. \nIn Round 1, the contestant spins a wheel. The probability of winning a Small Prize (S) is 0.7, and the probability of winning No Prize (N) is 0.3. \nIn Round 2, the contestant draws a card. The probability of winning a Medium Prize (M) is 0.6, and the probability of winning No Prize (N) is 0.4. \nIn Round 3, the contestant opens a box. The probability of winning a Big Prize (B) is 0.2, and the probability of winning No Prize (N) is 0.8.\n\nTo win the ultimate 'Grand Prize', a contestant must win at least two prizes across the three rounds. Assume winning No Prize in any round is an independent outcome from other rounds.\n\nCalculate the probability that a contestant wins the Grand Prize. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To win the Grand Prize, the contestant must win at least two prizes. This means they can win exactly 2 prizes or exactly 3 prizes. \n\nThe possible combinations for winning at least two prizes are:\n1.  Small Prize, Medium Prize, Big Prize (S, M, B)\n2.  Small Prize, Medium Prize, No Prize in Round 3 (S, M, N)\n3.  Small Prize, No Prize in Round 2, Big Prize (S, N, B)\n4.  No Prize in Round 1, Medium Prize, Big Prize (N, M, B)\n\nNow, calculate the probability for each of these combinations:\n1.  P(S, M, B) = P(S) * P(M) * P(B) = 0.7 * 0.6 * 0.2 = 0.42 * 0.2 = 0.084\n2.  P(S, M, N) = P(S) * P(M) * P(N in Round 3) = 0.7 * 0.6 * 0.8 = 0.42 * 0.8 = 0.336\n3.  P(S, N, B) = P(S) * P(N in Round 2) * P(B) = 0.7 * 0.4 * 0.2 = 0.28 * 0.2 = 0.056\n4.  P(N, M, B) = P(N in Round 1) * P(M) * P(B) = 0.3 * 0.6 * 0.2 = 0.18 * 0.2 = 0.036\n\nSince these are mutually exclusive ways to win the Grand Prize, the total probability is the sum of these individual probabilities:\nP(Grand Prize) = P(S,M,B) + P(S,M,N) + P(S,N,B) + P(N,M,B)\nP(Grand Prize) = 0.084 + 0.336 + 0.056 + 0.036 = 0.512\n\nThe probability that a contestant wins the Grand Prize is 0.512.",
+      "explanation": "This advanced probability question requires a multi-step approach using the concept of independent events and implicitly, a tree diagram. First, identify all the specific outcomes that satisfy the condition for winning the Grand Prize ('at least two prizes'). These outcomes are specific sequences of prize wins/no-wins across the three rounds. For each valid sequence, multiply the probabilities of the individual events (winning or not winning in each round) as the events are independent. Finally, sum the probabilities of all these valid sequences to get the total probability of winning the Grand Prize. The paths that satisfy 'at least two prizes' are (Small, Medium, Big), (Small, Medium, No Prize in Round 3), (Small, No Prize in Round 2, Big), and (No Prize in Round 1, Medium, Big). Each of these probabilities is calculated, and then added together.",
+      "hint": "Start by drawing a probability tree diagram or listing all 8 possible outcomes for the three independent rounds. Then, identify which of these outcomes result in the contestant winning at least two prizes.",
+      "generatedAt": "2026-04-30T17:27:25.583825"
+    },
+    {
+      "id": "m-y9-prob_advanced_002",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Two independent customers, Customer 1 and Customer 2, visit a café. Each customer makes an independent choice for a drink and an independent choice for a snack.\n\nFor drinks, they can choose Tea (T) or Coffee (C). The probability a customer chooses Tea is 0.3, and the probability they choose Coffee is 0.7.\n\nFor snacks, they can choose Cake (K) or Biscuit (B). The probability a customer chooses Cake is 0.6, and the probability they choose Biscuit is 0.4.\n\nCalculate the probability that exactly one of the two customers chooses Coffee AND exactly one of the two customers chooses Cake. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Let P(C) be the probability a customer chooses Coffee = 0.7, and P(T) be the probability a customer chooses Tea = 0.3.\nLet P(K) be the probability a customer chooses Cake = 0.6, and P(B) be the probability a customer chooses Biscuit = 0.4.\n\nSince each customer's choice for a drink is independent of their choice for a snack, and the choices of Customer 1 are independent of Customer 2, we can determine the probability of each possible combination of choices for a single customer:\n\nFor any single customer:\n1.  Probability of choosing Coffee and Cake (C, K): P(C, K) = P(C) * P(K) = 0.7 * 0.6 = 0.42\n2.  Probability of choosing Coffee and Biscuit (C, B): P(C, B) = P(C) * P(B) = 0.7 * 0.4 = 0.28\n3.  Probability of choosing Tea and Cake (T, K): P(T, K) = P(T) * P(K) = 0.3 * 0.6 = 0.18\n4.  Probability of choosing Tea and Biscuit (T, B): P(T, B) = P(T) * P(B) = 0.3 * 0.4 = 0.12\n\nWe are looking for scenarios where, across the two customers, there is exactly one Coffee and one Tea chosen, AND exactly one Cake and one Biscuit chosen. There are four mutually exclusive ways this can happen:\n\nScenario 1: Customer 1 chooses (Coffee, Cake) AND Customer 2 chooses (Tea, Biscuit).\n    P(C1(C,K) and C2(T,B)) = P(C1(C,K)) * P(C2(T,B)) = 0.42 * 0.12 = 0.0504\n\nScenario 2: Customer 1 chooses (Coffee, Biscuit) AND Customer 2 chooses (Tea, Cake).\n    P(C1(C,B) and C2(T,K)) = P(C1(C,B)) * P(C2(T,K)) = 0.28 * 0.18 = 0.0504\n\nScenario 3: Customer 1 chooses (Tea, Cake) AND Customer 2 chooses (Coffee, Biscuit).\n    P(C1(T,K) and C2(C,B)) = P(C1(T,K)) * P(C2(C,B)) = 0.18 * 0.28 = 0.0504\n\nScenario 4: Customer 1 chooses (Tea, Biscuit) AND Customer 2 chooses (Coffee, Cake).\n    P(C1(T,B) and C2(C,K)) = P(C1(T,B)) * P(C2(C,K)) = 0.12 * 0.42 = 0.0504\n\nSince these four scenarios are mutually exclusive (they cannot happen at the same time), the total probability is the sum of their individual probabilities:\n\nTotal Probability = 0.0504 + 0.0504 + 0.0504 + 0.0504 = 4 * 0.0504 = 0.2016\n\nThe probability that exactly one of the two customers chooses Coffee AND exactly one of the two customers chooses Cake is **0.2016**.",
+      "explanation": "This question requires students to combine the probabilities of independent events across multiple dimensions. First, calculate the probability of each customer's specific drink and snack combination (e.g., Coffee and Cake, Coffee and Biscuit, etc.) by multiplying the individual probabilities (e.g., P(Coffee) * P(Cake)) due to independence. Then, identify all possible mutually exclusive scenarios involving two customers that satisfy both conditions: 'exactly one customer chooses Coffee' and 'exactly one customer chooses Cake'. For each scenario, multiply the probabilities of the individual customer choice combinations, as the customers' overall choices are independent of each other. Finally, sum the probabilities of all these mutually exclusive scenarios to get the total probability.",
+      "hint": "Consider the four possible combinations of choices (drink and snack) for a single customer first. Then, think about how these combinations can be distributed between the two customers to satisfy both conditions (exactly one Coffee AND exactly one Cake). Remember that all choices are independent.",
+      "generatedAt": "2026-04-30T17:28:00.770231"
+    },
+    {
+      "id": "m-y9-prob_advanced_003",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A contestant plays a game with two independent stages. In Stage 1, they attempt to solve a riddle. The probability that the contestant solves the riddle is 0.65. \n\nIn Stage 2, the game proceeds differently based on the outcome of Stage 1:\n- If the contestant solves the riddle, they then choose one marble from Bag A. Bag A contains 3 red marbles and 7 blue marbles.\n- If the contestant does not solve the riddle, they instead choose one marble from Bag B. Bag B contains 5 red marbles and 5 blue marbles.\n\nA prize is awarded if the contestant chooses a red marble. What is the probability that the contestant wins a prize? Show your working clearly.",
+      "options": [
+        "0.370",
+        "0.695",
+        "0.500",
+        "0.195"
+      ],
+      "correctAnswer": "0.370",
+      "explanation": "To determine the probability that the contestant wins a prize, we need to consider the two distinct paths that lead to choosing a red marble.\n\n**Step 1: Determine probabilities for Stage 1.**\nP(Solves Riddle) = 0.65\nP(Does Not Solve Riddle) = 1 - P(Solves Riddle) = 1 - 0.65 = 0.35\n\n**Step 2: Determine probabilities for choosing a red marble in Stage 2, based on Stage 1's outcome.**\n\n*   **If the contestant solves the riddle (proceeds to Bag A):**\n    Bag A contains 3 red marbles and 7 blue marbles, making a total of 10 marbles.\n    P(Red Marble | Solves Riddle) = (Number of Red Marbles in Bag A) / (Total Marbles in Bag A) = 3 / 10 = 0.3\n\n*   **If the contestant does not solve the riddle (proceeds to Bag B):**\n    Bag B contains 5 red marbles and 5 blue marbles, making a total of 10 marbles.\n    P(Red Marble | Does Not Solve Riddle) = (Number of Red Marbles in Bag B) / (Total Marbles in Bag B) = 5 / 10 = 0.5\n\n**Step 3: Calculate the probability of each successful pathway.**\n\n*   **Pathway 1: Solves Riddle AND Chooses Red Marble**\n    This occurs when the contestant solves the riddle AND then chooses a red marble from Bag A.\n    P(Pathway 1) = P(Solves Riddle) × P(Red Marble | Solves Riddle)\n    P(Pathway 1) = 0.65 × 0.3 = 0.195\n\n*   **Pathway 2: Does Not Solve Riddle AND Chooses Red Marble**\n    This occurs when the contestant does not solve the riddle AND then chooses a red marble from Bag B.\n    P(Pathway 2) = P(Does Not Solve Riddle) × P(Red Marble | Does Not Solve Riddle)\n    P(Pathway 2) = 0.35 × 0.5 = 0.175\n\n**Step 4: Add the probabilities of all successful pathways.**\nSince these two pathways are mutually exclusive (they cannot both happen simultaneously), the total probability of winning a prize is the sum of their individual probabilities.\n\nTotal P(Wins Prize) = P(Pathway 1) + P(Pathway 2)\nTotal P(Wins Prize) = 0.195 + 0.175 = 0.370\n\nThe probability that the contestant wins a prize is 0.370.",
+      "hint": "Consider drawing a probability tree diagram to map out all possible outcomes. Remember to multiply probabilities along branches and add probabilities for different successful paths.",
+      "generatedAt": "2026-04-30T17:28:22.805370"
+    },
+    {
+      "id": "m-y9-prob_advanced_004",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A logistics company dispatches parcels using two independent methods: drones or traditional delivery vans.\n\n- The probability that a parcel is dispatched by a drone is 0.35. The probability that it is dispatched by a delivery van is 0.65.\n- If a parcel is dispatched by a drone, the probability that it arrives undamaged is 0.95.\n- If a parcel is dispatched by a delivery van, the probability that it arrives undamaged is 0.92.\n- For any parcel that arrives damaged, there is a further independent check on its contents.\n- If a parcel arrived damaged after being sent by drone, the probability that its contents are also damaged is 0.8.\n- If a parcel arrived damaged after being sent by a delivery van, the probability that its contents are also damaged is 0.6.\n\nCalculate the probability that a randomly selected parcel arrives with damaged contents. Show your working clearly.",
+      "options": [
+        "0.0140",
+        "0.0312",
+        "0.0452",
+        "0.0660"
+      ],
+      "correctAnswer": "0.0452",
+      "explanation": "To find the probability that a parcel arrives with damaged contents, we need to consider two mutually exclusive scenarios:\n\n**Scenario 1: Parcel is sent by drone, arrives damaged, and its contents are damaged.**\n1.  Probability of being sent by drone = 0.35\n2.  Probability of arriving damaged GIVEN it was sent by drone = 1 - P(arrives undamaged | drone) = 1 - 0.95 = 0.05\n3.  Probability of contents being damaged GIVEN it arrived damaged by drone = 0.8\n\nProbability of Scenario 1 = P(Drone) * P(Damaged | Drone) * P(Contents Damaged | Damaged by Drone)\n= 0.35 * 0.05 * 0.8\n= 0.0175 * 0.8\n= 0.0140\n\n**Scenario 2: Parcel is sent by delivery van, arrives damaged, and its contents are damaged.**\n1.  Probability of being sent by delivery van = 0.65\n2.  Probability of arriving damaged GIVEN it was sent by delivery van = 1 - P(arrives undamaged | van) = 1 - 0.92 = 0.08\n3.  Probability of contents being damaged GIVEN it arrived damaged by delivery van = 0.6\n\nProbability of Scenario 2 = P(Van) * P(Damaged | Van) * P(Contents Damaged | Damaged by Van)\n= 0.65 * 0.08 * 0.6\n= 0.052 * 0.6\n= 0.0312\n\n**Total Probability:**\nSince a parcel can either be sent by a drone or a delivery van, we add the probabilities of these two scenarios to find the total probability that a randomly selected parcel arrives with damaged contents.\n\nTotal Probability = Probability of Scenario 1 + Probability of Scenario 2\n= 0.0140 + 0.0312\n= 0.0452",
+      "hint": "Start by identifying the different initial dispatch methods. Then, for each method, consider the outcome of the parcel's arrival (damaged or undamaged). Finally, only for the 'damaged' outcomes, consider the condition of the contents. Remember to multiply probabilities along each path and add probabilities of mutually exclusive paths that lead to the desired outcome.",
+      "generatedAt": "2026-04-30T17:28:54.978545"
+    },
+    {
+      "id": "m-y9-prob_advanced_005",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A manufacturing process for a new electronic component involves two independent quality checks: Check A and Check B.\nThe probability that a component passes Check A is 0.85.\nThe probability that a component passes Check B is 0.9.\n\nA component is classified as 'Excellent' if it passes both Check A and Check B.\nA component is classified as 'Good' if it passes Check A but fails Check B.\nA component is classified as 'Acceptable' if it fails Check A but passes Check B.\nA component is classified as 'Faulty' if it fails both Check A and Check B.\n\nA customer places an order for two of these components. The quality classification of each component is independent of the other.\n\nCalculate the probability that exactly one of the two components ordered by the customer is classified as 'Excellent'. Show your working.",
+      "options": [
+        "0.179775",
+        "0.35955",
+        "0.585225",
+        "0.055225"
+      ],
+      "correctAnswer": "0.35955",
+      "explanation": "Let E be the event that a single component is classified as 'Excellent'.\nLet P(Pass A) = 0.85 be the probability that a component passes Check A. Thus, P(Fail A) = 1 - 0.85 = 0.15.\nLet P(Pass B) = 0.9 be the probability that a component passes Check B. Thus, P(Fail B) = 1 - 0.9 = 0.1.\n\nFor a component to be classified as 'Excellent', it must pass both Check A and Check B. Since these checks are independent:\nP(E) = P(Pass A) × P(Pass B) = 0.85 × 0.9 = 0.765.\n\nThe probability that a single component is NOT 'Excellent' is the complement of P(E):\nP(not E) = 1 - P(E) = 1 - 0.765 = 0.235.\n\nThe customer orders two components, and their quality classifications are independent. We want the probability that exactly one of these two components is 'Excellent'. There are two distinct scenarios for this to happen:\n\nScenario 1: The first component is 'Excellent' AND the second component is NOT 'Excellent'.\nProbability (Scenario 1) = P(E for 1st) × P(not E for 2nd) = 0.765 × 0.235 = 0.179775.\n\nScenario 2: The first component is NOT 'Excellent' AND the second component is 'Excellent'.\nProbability (Scenario 2) = P(not E for 1st) × P(E for 2nd) = 0.235 × 0.765 = 0.179775.\n\nSince these two scenarios are mutually exclusive (they cannot both happen at the same time), we add their probabilities to find the total probability that exactly one of the two components is 'Excellent':\nTotal Probability = Probability (Scenario 1) + Probability (Scenario 2)\nTotal Probability = 0.179775 + 0.179775 = 0.35955.",
+      "hint": "First, calculate the probability that a single component is classified as 'Excellent'. Then, consider the probability that it is 'not Excellent'. Finally, think about the two distinct sequences of events that result in exactly one 'Excellent' component out of two, remembering that the components are independent.",
+      "generatedAt": "2026-04-30T17:29:35.437517"
+    },
+    {
+      "id": "m-y9-prob_advanced_006",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A student, Alex, is participating in a school competition that involves three independent challenges: a logic puzzle, a physical obstacle course, and a coding task. The probability that Alex successfully completes the logic puzzle is 0.75. The probability that Alex successfully completes the physical obstacle course is 0.8. The probability that Alex successfully completes the coding task is 0.6. Alex wins a special prize if they successfully complete exactly two of the three challenges. Calculate the probability that Alex wins the special prize. Show your working.",
+      "options": [
+        "0.24",
+        "0.36",
+        "0.45",
+        "0.81"
+      ],
+      "correctAnswer": "0.45",
+      "explanation": "To win the special prize, Alex must successfully complete exactly two of the three independent challenges. Let L denote success in the logic puzzle, P denote success in the physical obstacle course, and C denote success in the coding task.\n\nThe probabilities of success for each challenge are:\nP(L) = 0.75\nP(P) = 0.8\nP(C) = 0.6\n\nThe probabilities of failure for each challenge are:\nP(not L) = 1 - 0.75 = 0.25\nP(not P) = 1 - 0.8 = 0.2\nP(not C) = 1 - 0.6 = 0.4\n\nThere are three distinct ways Alex can succeed in exactly two challenges:\n\n1.  Succeed in Logic (L), Succeed in Physical (P), and Fail in Coding (not C):\n    P(L and P and not C) = P(L) × P(P) × P(not C) = 0.75 × 0.8 × 0.4 = 0.6 × 0.4 = 0.24\n\n2.  Succeed in Logic (L), Fail in Physical (not P), and Succeed in Coding (C):\n    P(L and not P and C) = P(L) × P(not P) × P(C) = 0.75 × 0.2 × 0.6 = 0.15 × 0.6 = 0.09\n\n3.  Fail in Logic (not L), Succeed in Physical (P), and Succeed in Coding (C):\n    P(not L and P and C) = P(not L) × P(P) × P(C) = 0.25 × 0.8 × 0.6 = 0.2 × 0.6 = 0.12\n\nSince these three outcomes are mutually exclusive (Alex cannot achieve more than one of these specific combinations at the same time), the total probability of Alex winning the special prize is the sum of these individual probabilities:\n\nP(Exactly two successes) = P(L and P and not C) + P(L and not P and C) + P(not L and P and C)\nP(Exactly two successes) = 0.24 + 0.09 + 0.12 = 0.45",
+      "hint": "Consider all possible sequences of success and failure for the three challenges that result in exactly two successes. Calculate the probability for each of these sequences by multiplying the individual probabilities, then sum these probabilities to find the total.",
+      "generatedAt": "2026-04-30T17:29:55.188117"
+    },
+    {
+      "id": "m-y9-prob_advanced_007",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A factory produces electronic components. Each component undergoes two independent quality control checks: Check A and Check B. The probability that a component passes Check A is 0.9. The probability that a component passes Check B is 0.8.\n\nTwo components are randomly selected for inspection. Calculate the probability that exactly one of these two selected components passes *both* Check A and Check B. Show your full working.",
+      "options": [
+        "0.72",
+        "0.5184",
+        "0.4032",
+        "0.26"
+      ],
+      "correctAnswer": "0.4032",
+      "explanation": "Step 1: Calculate the probability that a single component passes *both* Check A and Check B.\nSince Check A and Check B are independent, the probability of a component passing both is the product of their individual probabilities:\nP(Pass A and Pass B) = P(Pass A) × P(Pass B)\nP(Pass A and Pass B) = 0.9 × 0.8 = 0.72\nLet's call this P(Success) = 0.72 for a single component.\n\nStep 2: Calculate the probability that a single component does *not* pass both Check A and Check B.\nThis is the complement of P(Success):\nP(Not Success) = 1 - P(Success)\nP(Not Success) = 1 - 0.72 = 0.28\n\nStep 3: Calculate the probability that exactly one of the two selected components passes both Check A and Check B.\nLet Component 1 and Component 2 be the two selected components. These are independent events. There are two ways for exactly one component to pass both checks:\nCase 1: Component 1 passes both AND Component 2 does not pass both.\nP(C1 Success and C2 Not Success) = P(Success) × P(Not Success) = 0.72 × 0.28 = 0.2016\n\nCase 2: Component 1 does not pass both AND Component 2 passes both.\nP(C1 Not Success and C2 Success) = P(Not Success) × P(Success) = 0.28 × 0.72 = 0.2016\n\nThe probability that exactly one of the two components passes both checks is the sum of the probabilities of these two mutually exclusive cases:\nTotal Probability = P(C1 Success and C2 Not Success) + P(C1 Not Success and C2 Success)\nTotal Probability = 0.2016 + 0.2016 = 0.4032",
+      "hint": "First, determine the probability of a single component passing both checks. Then, consider the probabilities for two independent components where exactly one meets this criterion.",
+      "generatedAt": "2026-04-30T17:30:11.829580"
+    },
+    {
+      "id": "m-y9-prob_advanced_008",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A student is taking a mathematics test which consists of two questions: one on Number theory and one on Algebra. The probability that the student answers the Number theory question correctly is 0.7. The probability that the student answers the Algebra question correctly is 0.6. The outcomes for each question are independent events.\n\nCalculate the probability that the student answers exactly one of the two questions correctly. Show your working.",
+      "options": [],
+      "correctAnswer": "Let N_C be the event that the Number theory question is answered correctly, and N_I be the event that it is answered incorrectly.\nLet A_C be the event that the Algebra question is answered correctly, and A_I be the event that it is answered incorrectly.\n\nGiven probabilities:\nP(N_C) = 0.7\nP(A_C) = 0.6\n\nFrom these, we can determine the probabilities of answering incorrectly:\nP(N_I) = 1 - P(N_C) = 1 - 0.7 = 0.3\nP(A_I) = 1 - P(A_C) = 1 - 0.6 = 0.4\n\nWe are looking for the probability that the student answers exactly one of the two questions correctly. There are two mutually exclusive scenarios for this:\n1. The student answers the Number theory question correctly AND the Algebra question incorrectly.\n2. The student answers the Number theory question incorrectly AND the Algebra question correctly.\n\nSince the outcomes for each question are independent events, we can calculate the probability of each scenario by multiplying the individual probabilities:\n\nScenario 1: P(N_C and A_I) = P(N_C) × P(A_I) = 0.7 × 0.4 = 0.28\n\nScenario 2: P(N_I and A_C) = P(N_I) × P(A_C) = 0.3 × 0.6 = 0.18\n\nTo find the total probability of answering exactly one question correctly, we add the probabilities of these two mutually exclusive scenarios:\nP(exactly one correct) = P(N_C and A_I) + P(N_I and A_C)\nP(exactly one correct) = 0.28 + 0.18 = 0.46\n\nTherefore, the probability that the student answers exactly one of the two questions correctly is 0.46.",
+      "explanation": "To solve this, first identify the probabilities of answering each question correctly and incorrectly. Then, determine the two distinct scenarios where exactly one question is answered correctly. Calculate the probability of each scenario by multiplying the probabilities of the independent events involved. Finally, add the probabilities of these two scenarios together to get the overall probability.",
+      "hint": "Consider the two ways a student can answer exactly one question correctly: either the first one correctly and the second incorrectly, OR the first one incorrectly and the second correctly. Remember to calculate the probability of an incorrect answer for each question.",
+      "generatedAt": "2026-04-30T17:30:29.364875"
+    },
+    {
+      "id": "m-y9-prob_advanced_009",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "In a carnival game, a player undertakes two independent actions to determine if they win a prize. \nAction 1: The player rolls a fair six-sided die.\nAction 2: The player spins a fair spinner with 8 equally sized sections, labelled with the integers 1, 2, 3, 4, 5, 6, 7, 8.\n\nThe player wins a prize if one of the following two conditions is met:\nCondition A: They roll an even number on the die AND spin a number greater than 5 on the spinner.\nOR\nCondition B: They roll a prime number on the die AND spin a number less than 3 on the spinner.\n\nWhat is the probability that a player wins a prize? Show your working clearly.",
+      "options": [
+        "3/16",
+        "1/4",
+        "3/8",
+        "5/16"
+      ],
+      "correctAnswer": "5/16",
+      "explanation": "To solve this, we first calculate the probability of each event, then combine them.\n\n**For the Die (Action 1):**\nThe possible outcomes are {1, 2, 3, 4, 5, 6}. Total outcomes = 6.\n\n*   **Probability of rolling an even number:** Even numbers are {2, 4, 6}. There are 3 even numbers.\n    P(Even) = 3/6 = 1/2.\n*   **Probability of rolling a prime number:** Prime numbers are {2, 3, 5}. (Note: 1 is not a prime number). There are 3 prime numbers.\n    P(Prime) = 3/6 = 1/2.\n\n**For the Spinner (Action 2):**\nThe possible outcomes are {1, 2, 3, 4, 5, 6, 7, 8}. Total outcomes = 8.\n\n*   **Probability of spinning a number greater than 5:** Numbers greater than 5 are {6, 7, 8}. There are 3 such numbers.\n    P(>5) = 3/8.\n*   **Probability of spinning a number less than 3:** Numbers less than 3 are {1, 2}. There are 2 such numbers.\n    P(<3) = 2/8 = 1/4.\n\n**Now, calculate the probability for each winning condition:**\n\n*   **Probability of Condition A:** P(Even AND >5)\n    Since the actions are independent, P(Condition A) = P(Even) × P(>5).\n    P(Condition A) = (1/2) × (3/8) = 3/16.\n\n*   **Probability of Condition B:** P(Prime AND <3)\n    Since the actions are independent, P(Condition B) = P(Prime) × P(<3).\n    P(Condition B) = (1/2) × (1/4) = 1/8.\n\n**Finally, calculate the total probability of winning a prize:**\nThe player wins if Condition A OR Condition B is met. Since these two conditions are mutually exclusive (a die roll cannot simultaneously be even and prime in a way that would make both paths lead to a win, and the spinner outcomes are distinct), we add their probabilities.\n\nTotal P(Win) = P(Condition A) + P(Condition B)\nTotal P(Win) = 3/16 + 1/8\nTo add these fractions, find a common denominator, which is 16.\nTotal P(Win) = 3/16 + (1 × 2)/(8 × 2)\nTotal P(Win) = 3/16 + 2/16\nTotal P(Win) = 5/16.\n\nThe final answer is 5/16.",
+      "hint": "Remember that for independent events, the probability of A AND B is P(A) × P(B). For mutually exclusive events, the probability of A OR B is P(A) + P(B). Carefully identify the numbers that satisfy each condition for the die and the spinner.",
+      "generatedAt": "2026-04-30T17:30:53.527001"
+    },
+    {
+      "id": "m-y9-prob_advanced_010",
+      "topicId": "m-y9-prob",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "At a school fair, there are two independent games, 'Lucky Dip' and 'Ring Toss'.\n\nFor 'Lucky Dip', a player picks one ball at random from a bag containing 5 red balls and 3 blue balls. A red ball wins a prize.\n\nFor 'Ring Toss', a player throws a ring at a target. The probability of landing the ring on the target is 0.4. A successful landing wins a prize.\n\nA student plays both games once. Show your working.\n\nCalculate the probability that the student wins exactly one prize.",
+      "options": [
+        "1/4",
+        "9/40",
+        "21/40",
+        "31/40"
+      ],
+      "correctAnswer": "21/40",
+      "explanation": "To solve this, we first need to determine the probabilities of winning and losing each game.\n\nFor the 'Lucky Dip':\nTotal number of balls = 5 (red) + 3 (blue) = 8 balls.\nP(Win Lucky Dip) = P(picking a red ball) = Number of red balls / Total number of balls = 5/8.\nP(Lose Lucky Dip) = P(picking a blue ball) = Number of blue balls / Total number of balls = 3/8.\n\nFor the 'Ring Toss':\nP(Win Ring Toss) = 0.4 (given).\nP(Lose Ring Toss) = 1 - P(Win Ring Toss) = 1 - 0.4 = 0.6.\n\nWe are looking for the probability that the student wins 'exactly one prize'. This can happen in two mutually exclusive ways:\n\nScenario 1: Win Lucky Dip AND Lose Ring Toss\nSince the games are independent, we multiply their probabilities:\nP(Win Lucky Dip AND Lose Ring Toss) = P(Win Lucky Dip) × P(Lose Ring Toss)\n= (5/8) × 0.6\n= (5/8) × (6/10)\n= (5 × 6) / (8 × 10)\n= 30 / 80\n= 3/8.\n\nScenario 2: Lose Lucky Dip AND Win Ring Toss\nAgain, since the games are independent, we multiply their probabilities:\nP(Lose Lucky Dip AND Win Ring Toss) = P(Lose Lucky Dip) × P(Win Ring Toss)\n= (3/8) × 0.4\n= (3/8) × (4/10)\n= (3 × 4) / (8 × 10)\n= 12 / 80\n= 3/20.\n\nTo find the total probability of winning exactly one prize, we add the probabilities of these two scenarios, as they cannot happen at the same time:\nP(Exactly one prize) = P(Win LD AND Lose RT) + P(Lose LD AND Win RT)\n= 3/8 + 3/20\n\nTo add these fractions, we find a common denominator, which is 40:\n3/8 = (3 × 5) / (8 × 5) = 15/40\n3/20 = (3 × 2) / (20 × 2) = 6/40\n\nP(Exactly one prize) = 15/40 + 6/40 = 21/40.\n\nTherefore, the probability that the student wins exactly one prize is 21/40.",
+      "hint": "Start by calculating the probabilities of winning and losing each individual game. Then, consider the two distinct ways a student could win 'exactly one prize' and calculate the probability of each pathway. Remember to add the probabilities of these pathways.",
+      "generatedAt": "2026-04-30T17:31:16.405151"
+    }
+  ]
+}

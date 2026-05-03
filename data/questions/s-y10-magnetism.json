@@ -1,0 +1,453 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y10-magnetism_beginner_001",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following actions would increase the strength of an electromagnet?",
+      "options": [
+        "A. Reducing the current flowing through the coil.",
+        "B. Increasing the number of turns in the coil.",
+        "C. Removing the soft iron core.",
+        "D. Decreasing the voltage supplied to the coil."
+      ],
+      "correctAnswer": "B. Increasing the number of turns in the coil.",
+      "explanation": "The strength of an electromagnet is directly affected by several factors. To make an electromagnet stronger, you can either increase the current flowing through its coil, increase the number of turns in the coil, or insert a soft iron core into the coil. Therefore, increasing the number of turns in the coil is an action that would increase the electromagnet's strength.",
+      "hint": "Recall the three main factors that determine how strong an electromagnet is.",
+      "generatedAt": "2026-04-30T20:01:42.583877"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_002",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Describe the motor effect. Include the two essential conditions required for the motor effect to occur.",
+      "options": [],
+      "correctAnswer": "The motor effect is the phenomenon where a current-carrying wire experiences a force. This occurs when the wire is placed within an external magnetic field. The two essential conditions are that there must be a current flowing through the wire and that the wire must be situated within an external magnetic field.",
+      "explanation": "The motor effect is a fundamental principle in electromagnetism. It states that when a conductor (such as a wire) carrying an electric current is placed in an external magnetic field, it will experience a force. This force is a result of the interaction between the magnetic field created by the current in the wire and the external magnetic field. For this effect to be observed, two crucial conditions must be met: firstly, there must be a current flowing through the conductor, and secondly, the conductor must be situated within an external magnetic field. If either of these conditions is not present, no force will be experienced.",
+      "hint": "Consider what happens inside an electric motor and what components are necessary for it to generate movement.",
+      "generatedAt": "2026-04-30T20:01:54.876307"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_003",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A straight wire carries an electric current vertically upwards. This wire is placed within a uniform magnetic field, which points horizontally from left to right. Using Fleming's Left-Hand Rule, identify the direction of the force acting on the wire.",
+      "options": [
+        "To the left",
+        "To the right",
+        "Into the page",
+        "Out of the page"
+      ],
+      "correctAnswer": "Out of the page",
+      "explanation": "1.  Identify what each finger represents in Fleming's Left-Hand Rule:\n    *   **Thumb:** Direction of Force (Motion)\n    *   **Forefinger:** Direction of Magnetic Field\n    *   **Middle Finger:** Direction of Current\n2.  Align your left hand according to the given information:\n    *   Point your **middle finger** vertically upwards (direction of current).\n    *   Point your **forefinger** horizontally from left to right (direction of magnetic field).\n3.  Observe the direction your **thumb** is pointing. With the middle finger upwards and forefinger to the right, your thumb will point outwards, perpendicular to the palm.\n4.  Therefore, the force acting on the wire is **out of the page**.",
+      "hint": "Remember to align your left hand so that the Forefinger (Field) and Middle Finger (Current) point in the correct directions first, then observe the direction of your Thumb (Force).",
+      "generatedAt": "2026-04-30T20:02:04.475343"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_004",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State what Fleming's Left-Hand Rule is used to determine.",
+      "options": [],
+      "correctAnswer": "The direction of the force/motion on a current-carrying conductor in a magnetic field.",
+      "explanation": "Fleming's Left-Hand Rule is a visual aid or mnemonic specifically designed to help predict the direction of the force (or subsequent motion) exerted on a current-carrying conductor when it is placed within an external magnetic field. The thumb represents the direction of the force/motion, the forefinger represents the direction of the magnetic field, and the centre finger represents the direction of the current.",
+      "hint": "Recall the components represented by each finger in Fleming's Left-Hand Rule (Thumb, Forefinger, Centre finger) and what they help you find.",
+      "generatedAt": "2026-04-30T20:02:16.063376"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_005",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State one characteristic that distinguishes an electromagnet from a permanent magnet.",
+      "options": [],
+      "correctAnswer": "An electromagnet's magnetism can be turned on and off (or its strength can be varied/reversed, or it requires an electric current to be magnetic).",
+      "explanation": "Permanent magnets have a constant magnetic field and cannot be easily turned off or have their strength adjusted. In contrast, an electromagnet requires an electric current to produce a magnetic field. This means its magnetic field can be switched on or off, and its strength and even polarity can be controlled by changing the current or its direction. This controllable nature is a key distinguishing feature.",
+      "hint": "Consider what an electromagnet needs to function, compared to how a permanent magnet behaves.",
+      "generatedAt": "2026-04-30T20:02:29.984034"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_006",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "When a straight current-carrying wire is placed in a uniform magnetic field, it experiences a force due to the motor effect. What happens to the direction of this force if the direction of the current in the wire is reversed, while the magnetic field direction remains unchanged?",
+      "options": [
+        "The force increases in magnitude.",
+        "The force decreases in magnitude.",
+        "The direction of the force is reversed.",
+        "The direction of the force remains the same."
+      ],
+      "correctAnswer": "The direction of the force is reversed.",
+      "explanation": "Fleming's Left-Hand Rule describes the relationship between the directions of the magnetic field (forefinger), the current (middle finger), and the force (thumb). These three directions are mutually perpendicular. If the direction of the current is reversed, to maintain the perpendicular relationship with the constant magnetic field direction, the direction of the force must also reverse.",
+      "hint": "Recall Fleming's Left-Hand Rule and how it relates the three interacting directions: Force, Magnetic Field, and Current.",
+      "generatedAt": "2026-04-30T20:02:42.196913"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_007",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State what physical quantity is represented by the forefinger in Fleming's Left-Hand Rule.",
+      "options": [
+        "Direction of current",
+        "Direction of magnetic field",
+        "Direction of force",
+        "Direction of electron flow"
+      ],
+      "correctAnswer": "Direction of magnetic field",
+      "explanation": "Fleming's Left-Hand Rule is used to determine the direction of the force acting on a current-carrying conductor in a magnetic field. The rule assigns a specific physical quantity to each finger:\n- The Thumb represents the Direction of Force (or Motion).\n- The Forefinger represents the Direction of the Magnetic Field.\n- The Middle Finger represents the Direction of Current.\nTherefore, the forefinger represents the Direction of magnetic field.",
+      "hint": "Remember the 'FBI' mnemonic for Fleming's Left-Hand Rule: F (Thumb), B (Forefinger), I (Middle finger).",
+      "generatedAt": "2026-04-30T20:02:53.352555"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_008",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following actions would increase the strength of an electromagnet?",
+      "options": [
+        "A) Decrease the current flowing through the coil.",
+        "B) Use a plastic core instead of an iron core.",
+        "C) Increase the number of turns in the coil.",
+        "D) Reverse the direction of the current in the coil."
+      ],
+      "correctAnswer": "C) Increase the number of turns in the coil.",
+      "explanation": "The strength of an electromagnet is directly influenced by several factors. Increasing the current flowing through the coil, increasing the number of turns in the coil, or inserting a soft iron core into the coil will all make the electromagnet stronger. Decreasing current or using a non-magnetic core (like plastic) would weaken it. Reversing the current only changes the magnetic polarity, not the strength.",
+      "hint": "Consider the key factors that contribute to the magnetic field generation in an electromagnet.",
+      "generatedAt": "2026-04-30T20:03:06.891407"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_009",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State what happens to the direction of the force on a current-carrying wire placed in a magnetic field if the direction of the current is reversed.",
+      "options": [],
+      "correctAnswer": "The direction of the force is reversed.",
+      "explanation": "According to Fleming's Left-Hand Rule, the direction of the force (represented by the thumb) depends on the direction of the magnetic field (forefinger) and the direction of the current (middle finger). If the magnetic field remains constant but the direction of the current is reversed, the direction of the force experienced by the wire will also be reversed, as indicated by the rule.",
+      "hint": "Consider Fleming's Left-Hand Rule and how the directions of current, field, and force are related.",
+      "generatedAt": "2026-04-30T20:03:21.088947"
+    },
+    {
+      "id": "s-y10-magnetism_beginner_010",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A straight current-carrying wire is placed in a uniform magnetic field. The magnetic field is directed from North to South. The current in the wire flows vertically upwards. According to Fleming's Left-Hand Rule, in which direction will the force on the wire act?",
+      "options": [
+        "A) East",
+        "B) West",
+        "C) North",
+        "D) South"
+      ],
+      "correctAnswer": "B) West",
+      "explanation": "To apply Fleming's Left-Hand Rule:\n1.  Point your **forefinger** (representing the **Magnetic Field**) towards the South.\n2.  Point your **middle finger** (representing the **Current**) vertically Upwards.\n3.  Your **thumb** (representing the **Force** or motion) will then naturally point towards the West.",
+      "hint": "Use your left hand and align your forefinger with the magnetic field direction and your middle finger with the current direction. Your thumb will then indicate the direction of the force.",
+      "generatedAt": "2026-04-30T20:03:33.649760"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y10-magnetism_intermediate_001",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A straight copper wire, 25 cm long, is positioned perpendicular to a uniform magnetic field of strength 0.4 T. When a current flows through the wire, it experiences a force due to the motor effect. If this force is measured to be 0.15 N, Calculate the magnitude of the current flowing through the wire.",
+      "options": [
+        "0.015 A",
+        "0.15 A",
+        "1.5 A",
+        "15 A"
+      ],
+      "correctAnswer": "1.5 A",
+      "explanation": "1.  **State the formula**: The force (F) experienced by a current-carrying wire in a magnetic field is given by the formula for the motor effect: F = B I L, where B is the magnetic field strength, I is the current, and L is the length of the wire in the field (perpendicular to the field).\n2.  **Rearrange the formula**: We need to find the current (I), so rearrange the formula: I = F / (B × L).\n3.  **Convert units**: The length of the wire is given in centimeters (cm), but it must be converted to meters (m) for use in the formula. \n    25 cm = 0.25 m.\n4.  **Substitute values and Calculate**:\n    Given: F = 0.15 N, B = 0.4 T, L = 0.25 m\n    I = 0.15 N / (0.4 T × 0.25 m)\n    I = 0.15 N / 0.1 T·m\n    I = 1.5 A\n    Therefore, the current flowing through the wire is 1.5 A.",
+      "hint": "Recall the formula for the motor effect and ensure all lengths are converted to meters before performing the calculation.",
+      "generatedAt": "2026-04-30T20:03:47.829840"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_002",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student sets up an experiment to investigate the motor effect. They use a rectangular coil consisting of 30 turns of wire. The active length of each side of the coil that interacts with the magnetic field is 7.5 cm. This coil is placed in a uniform magnetic field created by an electromagnet, such that the active sides are perpendicular to the field lines. When a current of 2.0 A is passed through the coil, a total force of 0.135 N is exerted on the coil.\n\nCalculate the magnetic field strength (B) of the electromagnet. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total effective length of wire (L_effective) contributing to the force.\nEach turn in the rectangular coil has two sides that experience a force within the magnetic field (assuming they are both perpendicular to the field).\nL_effective = Number of turns × Length of one active side × 2\nFirst, convert length to metres: 7.5 cm = 0.075 m\nL_effective = 30 × 0.075 m × 2\nL_effective = 4.5 m\n\nStep 2: Use the formula for the motor effect, F = B I L_effective, to calculate the magnetic field strength (B).\nRearrange the formula to solve for B: B = F / (I × L_effective)\nSubstitute the given and calculated values:\nF = 0.135 N\nI = 2.0 A\nL_effective = 4.5 m\nB = 0.135 N / (2.0 A × 4.5 m)\nB = 0.135 N / 9.0 A m\nB = 0.015 T\n\nThe magnetic field strength of the electromagnet is 0.015 T.",
+      "explanation": "This problem requires two main steps to solve. First, you need to determine the total effective length of the wire that is interacting with the magnetic field. Since the rectangular coil has multiple turns, and each turn has two 'active' sides experiencing a force, you must multiply the number of turns by the length of one active side and then by two. Second, once you have the total effective length, you can apply the formula for the force on a current-carrying wire in a magnetic field (F = BIL) to solve for the unknown magnetic field strength (B), ensuring all units are consistent (metres for length).",
+      "hint": "Remember that a rectangular coil has two active sides per turn that experience a force within the magnetic field. You will need to convert the length to metres and calculate the total effective length of wire interacting with the field before using the formula F = BIL.",
+      "generatedAt": "2026-04-30T20:04:10.095571"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_003",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student is investigating the motor effect in a laboratory. A straight conductor, 15 cm long, is placed perpendicular to a uniform magnetic field of strength 0.40 T. When a current of 2.0 A flows through the conductor, a force is exerted on it.\n\n(a) Calculate the magnitude of the force exerted on the conductor. (3 marks)\n(b) The student wants to modify the experiment to exert a force of 0.24 N on the conductor. Calculate the new current required to achieve this, assuming the length of the conductor and the magnetic field strength remain constant. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) \nFormula: F = B I L\nConversion: L = 15 cm = 0.15 m\nSubstitution: F = 0.40 T × 2.0 A × 0.15 m\nCalculation: F = 0.12 N\n\n(b)\nFormula: F = B I L \nRearranging for I: I = F / (B L)\nSubstitution: I = 0.24 N / (0.40 T × 0.15 m)\nCalculation: I = 0.24 N / 0.06 Tm\nAnswer: I = 4.0 A",
+      "explanation": "Part (a):\n1. Identify the given values: Magnetic field strength (B) = 0.40 T, Length of conductor (L) = 15 cm, Current (I) = 2.0 A.\n2. Convert the length to SI units: L = 15 cm = 0.15 m.\n3. Apply the formula for the motor effect (Fleming's Left-Hand Rule determines direction, F=BIL calculates magnitude): Force (F) = Magnetic field strength (B) × Current (I) × Length (L).\n4. Substitute the values into the formula: F = 0.40 T × 2.0 A × 0.15 m.\n5. Calculate the force: F = 0.12 N.\n\nPart (b):\n1. Identify the desired force (F) = 0.24 N, and the constant values: B = 0.40 T, L = 0.15 m.\n2. Use the same formula, F = B I L, but rearrange it to solve for the current (I): I = F / (B L).\n3. Substitute the new desired force and constant values into the rearranged formula: I = 0.24 N / (0.40 T × 0.15 m).\n4. Calculate the product of B and L in the denominator: 0.40 T × 0.15 m = 0.06 Tm.\n5. Divide the desired force by this product: I = 0.24 N / 0.06 Tm.\n6. Calculate the new current: I = 4.0 A.",
+      "hint": "Ensure all lengths are converted to metres (m) before performing any calculations with the formula F = BIL.",
+      "generatedAt": "2026-04-30T20:04:28.180195"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_004",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A simple electric motor uses a rectangular coil with 80 turns. The coil has an effective length of 5.0 cm within a uniform magnetic field of flux density 0.75 T. When a current of 0.6 A flows through the coil, perpendicular to the magnetic field, a force is exerted on the sides of the coil.\n\nCalculate the total force acting on one of the 5.0 cm sides of the coil.",
+      "options": [
+        "A: 0.0225 N",
+        "B: 1.8 N",
+        "C: 0.18 N",
+        "D: 18 N"
+      ],
+      "correctAnswer": "B: 1.8 N",
+      "explanation": "To calculate the total force acting on one side of the coil, we use the formula for the force on a current-carrying wire in a magnetic field, F = BIL, and then account for the number of turns in the coil.\n\n1.  **Convert units:** The length of the coil side (L) is given in cm, so convert it to metres:\n    L = 5.0 cm = 0.05 m\n\n2.  **Identify given values:**\n    Magnetic flux density (B) = 0.75 T\n    Current (I) = 0.6 A\n    Length of wire in the field (L) = 0.05 m\n    Number of turns (N) = 80\n\n3.  **Calculate the force on a single wire (one turn) in the magnetic field:**\n    F_single = B × I × L\n    F_single = 0.75 T × 0.6 A × 0.05 m\n    F_single = 0.0225 N\n\n4.  **Calculate the total force on one side of the coil:** Since the coil has 80 turns, the current passes through 80 parallel wires effectively acting on that side. Therefore, the total force is the force on a single wire multiplied by the number of turns:\n    F_total = F_single × N\n    F_total = 0.0225 N × 80\n    F_total = 1.8 N\n\nTherefore, the total force acting on one of the 5.0 cm sides of the coil is 1.8 N.",
+      "hint": "Remember to convert the length to metres before applying the formula F = BIL, and ensure you account for the effect of multiple turns in the coil.",
+      "generatedAt": "2026-04-30T20:04:46.239967"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_005",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A long solenoid has 500 turns per metre and carries a current of 2.0 A. A short, straight copper wire, 5.0 cm long, is placed inside the solenoid, perpendicular to its axis. The wire carries a current of 3.0 A.\n\nCalculate the magnitude of the force experienced by the copper wire.\n(Permeability of free space, μ₀ = 4π × 10⁻⁷ T m A⁻¹)",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the magnetic field strength (B) inside the solenoid.\nFormula: B = μ₀nI\nGiven:\nμ₀ = 4π × 10⁻⁷ T m A⁻¹\nn = 500 turns/m\nI = 2.0 A (current in solenoid)\n\nB = (4π × 10⁻⁷ T m A⁻¹) × (500 m⁻¹) × (2.0 A)\nB = 4π × 10⁻´ T \nB ≈ 1.2566 × 10⁻³ T\n\nStep 2: Calculate the force (F) on the copper wire.\nFormula: F = BIL\nGiven:\nB ≈ 1.2566 × 10⁻³ T (from Step 1)\nI = 3.0 A (current in wire)\nL = 5.0 cm = 0.05 m\n\nF = (1.2566 × 10⁻³ T) × (3.0 A) × (0.05 m)\nF ≈ 1.8849 × 10⁻´ N\n\nRounding to 3 significant figures:\nF = 1.88 × 10⁻´ N",
+      "explanation": "The problem requires two main steps: first, calculating the magnetic field strength (B) produced by the solenoid, and second, using this calculated field strength to find the force (F) on the current-carrying wire placed within that field. The formula B = μ₀nI is used for the solenoid's magnetic field, and F = BIL is used for the force on the wire due to the motor effect.",
+      "hint": "First, determine the magnetic field strength produced by the solenoid using the appropriate formula. Then, use this value to calculate the force on the current-carrying wire.",
+      "generatedAt": "2026-04-30T20:05:00.953050"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_006",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A science student is investigating the properties of a strong permanent magnet. They want to determine its magnetic field strength (B).\n\n**Part 1:**\nThey place a 5.0 cm length of a conducting wire, carrying a current of 3.0 A, perpendicular to the magnetic field of the permanent magnet. They measure the resulting force acting on the wire to be 0.0090 N.\nCalculate the magnetic field strength of the permanent magnet. (3 marks)\n\n**Part 2:**\nUsing this same permanent magnet, the student then places a rectangular coil with 10 turns into the magnetic field. The coil measures 4.0 cm by 6.0 cm. A current of 0.50 A flows through the coil. The coil is positioned so that the two 6.0 cm sides are perpendicular to the magnetic field.\nCalculate the total magnitude of the force acting on these two 6.0 cm sides of the coil. (4 marks)",
+      "options": [],
+      "correctAnswer": "**Part 1:**\nFormula: F = BIL\nRearranging to find B: B = F / (I × L)\nConverting length to metres: L = 5.0 cm = 0.050 m\nSubstitution: B = 0.0090 N / (3.0 A × 0.050 m)\nCalculation: B = 0.0090 N / 0.15 Am\nAnswer: B = 0.06 T\n\n**Part 2:**\nMagnetic field strength (B) from Part 1 = 0.06 T\nNumber of turns (N) = 10\nCurrent (I) = 0.50 A\nLength of active side (L) = 6.0 cm = 0.060 m\n\nFormula for force on a coil: F_coil = N × B × I × L (for one side)\nForce on one 6.0 cm side: F_one_side = 10 × 0.06 T × 0.50 A × 0.060 m\nF_one_side = 0.018 N\n\nTotal force on the two 6.0 cm sides = 2 × F_one_side\nTotal force = 2 × 0.018 N\nAnswer: Total force = 0.036 N",
+      "explanation": "**Part 1:**\n1.  **Recall the Motor Effect Formula:** The force (F) on a current-carrying wire in a magnetic field is given by F = BIL, where B is the magnetic field strength, I is the current, and L is the length of the wire in the field.\n2.  **Rearrange the Formula:** To find the magnetic field strength (B), rearrange the formula: B = F / (I × L).\n3.  **Convert Units:** Ensure all units are consistent. The length is given in cm, so convert it to metres: 5.0 cm = 0.050 m.\n4.  **Substitute Values and Calculate:** Substitute the given values (F = 0.0090 N, I = 3.0 A, L = 0.050 m) into the rearranged formula to find B.\n\n**Part 2:**\n1.  **Identify Known Values:** Use the magnetic field strength (B) calculated in Part 1. Note the number of turns (N), the new current (I), and the length of the sides (L) that are perpendicular to the magnetic field.\n2.  **Convert Units:** Convert the length of the active side from cm to metres: 6.0 cm = 0.060 m.\n3.  **Calculate Force on One Side:** For a coil with N turns, the effective length in the field for one side is N × L. Therefore, the force on one 6.0 cm side is F = N × B × I × L.\n4.  **Calculate Total Force:** Since there are *two* 6.0 cm sides that are perpendicular to the magnetic field and experience a force, multiply the force on one side by two to get the total magnitude of the force.",
+      "hint": "Recall the formula F=BIL and how it can be rearranged to find an unknown quantity. Remember that for a coil with multiple turns, the total effective length experiencing the force is multiplied by the number of turns, and consider how many sides are actively experiencing the force.",
+      "generatedAt": "2026-04-30T20:05:22.547932"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_007",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A straight copper wire, 8.0 cm long, is placed perpendicular to the uniform magnetic field produced by an electromagnet. When a current flows through the wire, it experiences a force of 0.006 N. The magnetic field strength of the electromagnet is 0.30 T. The copper wire has a resistance of 5.0 Ω.\n\nCalculate the potential difference (voltage) that must be applied across the wire to produce this force.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the current (I) flowing through the wire using the motor effect formula.\nFormula: F = BIL\nRearrange to find I: I = F / (B × L)\nSubstitute values (remember to convert length to metres):\nI = 0.006 N / (0.30 T × 0.08 m)\nI = 0.006 / 0.024\nI = 0.25 A\n\nStep 2: Calculate the potential difference (V) across the wire using Ohm's Law.\nFormula: V = IR\nSubstitute values:\nV = 0.25 A × 5.0 Ω\nV = 1.25 V\n\nTherefore, a potential difference of 1.25 V must be applied across the wire.",
+      "explanation": "1.  **Identify known values and target quantity:**\n    *   Force (F) = 0.006 N\n    *   Magnetic field strength (B) = 0.30 T\n    *   Length of wire (L) = 8.0 cm = 0.08 m (converted to metres)\n    *   Resistance (R) = 5.0 Ω\n    *   Target: Potential difference (V)\n\n2.  **First step: Calculate the current (I) required to produce the force.**\n    Use the motor effect formula: F = BIL\n    Rearrange to solve for I: I = F / (B × L)\n    Substitute the values: I = 0.006 N / (0.30 T × 0.08 m)\n    I = 0.006 N / 0.024 Tm\n    I = 0.25 A\n\n3.  **Second step: Calculate the potential difference (V) required across the wire.**\n    Use Ohm's Law: V = IR\n    Substitute the calculated current and given resistance: V = 0.25 A × 5.0 Ω\n    V = 1.25 V\n\n    The potential difference that must be applied across the wire is **1.25 V**.",
+      "hint": "First, determine the current flowing through the wire using the formula for the force on a current-carrying conductor in a magnetic field. Then, use this current to find the potential difference.",
+      "generatedAt": "2026-04-30T20:05:43.135381"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_008",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student is building a prototype for an electromagnetic lifting arm. The electromagnet used in the arm is powered by a 12V power supply and has a total resistance of 6.0 Ω. This electromagnet creates a uniform magnetic field of 0.05 T between its poles. A straight section of the lifting arm, made of a conductor, is 15 cm long and carries the current flowing through the electromagnet's coils, placed perpendicularly within this magnetic field. Calculate the magnitude of the force acting on the 15 cm long conductor.",
+      "options": [
+        "0.0075 N",
+        "0.015 N",
+        "0.030 N",
+        "0.12 N"
+      ],
+      "correctAnswer": "0.015 N",
+      "explanation": "This problem requires two steps:\n\n**Step 1: Calculate the current (I) flowing through the electromagnet's coils.**\nWe can use Ohm's Law: V = IR\nGiven: Voltage (V) = 12 V, Resistance (R) = 6.0 Ω\nRearrange to find current: I = V / R\nI = 12 V / 6.0 Ω\nI = 2.0 A\n\n**Step 2: Calculate the force (F) acting on the conductor using the motor effect formula.**\nWe use Fleming's left-hand rule for direction, but for magnitude, we use F = BIL\nGiven: Magnetic field strength (B) = 0.05 T, Current (I) = 2.0 A (from Step 1), Length of conductor (L) = 15 cm\nFirst, convert the length to metres: L = 15 cm = 0.15 m\nNow, substitute the values into the formula:\nF = B × I × L\nF = 0.05 T × 2.0 A × 0.15 m\nF = 0.10 × 0.15 N\nF = 0.015 N\n\nTherefore, the magnitude of the force acting on the conductor is 0.015 N.",
+      "hint": "To solve this problem, you need to first determine the current flowing through the circuit. Once you have the current, you can then calculate the force using the relevant formula for the motor effect.",
+      "generatedAt": "2026-04-30T20:06:22.813291"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_009",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student is testing a prototype for a magnetic braking system. A straight copper bar, 12 cm long, is positioned perpendicular to a uniform magnetic field generated by a powerful electromagnet. When a current of 2.5 A is passed through the copper bar, a braking force of 0.081 N is measured.\n\na) Calculate the magnetic flux density (B) of the electromagnet's field. (3 marks)\nb) The student wants to increase the braking force to 0.135 N using the same copper bar and electromagnet. Determine the new current required to achieve this increased force. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) To calculate the magnetic flux density (B), use the formula for the force on a current-carrying wire in a magnetic field:\nFormula: F = B I L\n\nGiven:\nForce (F) = 0.081 N\nCurrent (I) = 2.5 A\nLength (L) = 12 cm = 0.12 m (converted to metres)\n\nRearranging the formula to find B:\nB = F / (I L)\n\nSubstitute the values:\nB = 0.081 N / (2.5 A * 0.12 m)\nB = 0.081 N / 0.30 A m\nB = 0.27 T\n\nMagnetic flux density (B) = 0.27 T\n\nb) To determine the new current, we can use the calculated magnetic flux density (B) and the new desired force, or use the proportionality between force and current.\n\nMethod 1: Using the calculated B\nFormula: F_new = B I_new L\n\nGiven:\nNew Force (F_new) = 0.135 N\nMagnetic flux density (B) = 0.27 T (from part a)\nLength (L) = 0.12 m\n\nRearranging the formula to find I_new:\nI_new = F_new / (B L)\n\nSubstitute the values:\nI_new = 0.135 N / (0.27 T * 0.12 m)\nI_new = 0.135 N / 0.0324 T m\nI_new = 4.166...\n\nRounding to an appropriate number of significant figures (e.g., 3 s.f. consistent with input data):\nNew current = 4.17 A\n\nMethod 2: Using proportionality\nSince F = B I L, and B and L remain constant, the force (F) is directly proportional to the current (I).\nSo, F_new / F_old = I_new / I_old\n\nRearranging to find I_new:\nI_new = I_old * (F_new / F_old)\n\nGiven:\nOld current (I_old) = 2.5 A\nOld Force (F_old) = 0.081 N\nNew Force (F_new) = 0.135 N\n\nSubstitute the values:\nI_new = 2.5 A * (0.135 N / 0.081 N)\nI_new = 2.5 A * 1.666...\nI_new = 4.166...\n\nRounding to an appropriate number of significant figures:\nNew current = 4.17 A",
+      "explanation": "Part a requires using the formula F = BIL to calculate the magnetic flux density B. Part b then uses this calculated B, or the direct proportionality between force and current (F ∝ I), to determine the new current needed for the increased force.",
+      "hint": "Remember to use the formula F = BIL. Ensure all units are consistent (e.g., length in metres) before calculation.",
+      "generatedAt": "2026-04-30T20:07:03.409146"
+    },
+    {
+      "id": "s-y10-magnetism_intermediate_010",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student is setting up an experiment to demonstrate the motor effect. A straight copper wire of length 8.0 cm is placed perpendicular to the uniform magnetic field produced by an electromagnet. When a current of 2.5 A flows through the wire, it experiences a downward force of 0.01 N.\n\nCalculate the magnitude of the force the wire would experience if the current were increased to 4.0 A, assuming the magnetic field strength remains constant.",
+      "options": [
+        "0.008 N",
+        "0.010 N",
+        "0.016 N",
+        "0.020 N"
+      ],
+      "correctAnswer": "0.016 N",
+      "explanation": "This is a two-step problem involving the motor effect formula, F = BIL.\n\nStep 1: Calculate the magnetic flux density (B) of the electromagnet using the initial conditions.\nGiven:\nInitial Force (F₁) = 0.01 N\nInitial Current (I₁) = 2.5 A\nLength of wire (L) = 8.0 cm = 0.08 m (converting cm to m)\n\nFormula: F = B × I × L\nRearrange to find B: B = F / (I × L)\nB = 0.01 N / (2.5 A × 0.08 m)\nB = 0.01 N / 0.20 A·m\nB = 0.05 T\n\nStep 2: Calculate the new force (F₂) using the calculated magnetic flux density and the new current.\nGiven:\nMagnetic flux density (B) = 0.05 T (calculated from Step 1)\nNew Current (I₂) = 4.0 A\nLength of wire (L) = 0.08 m\n\nFormula: F = B × I × L\nF₂ = 0.05 T × 4.0 A × 0.08 m\nF₂ = 0.016 N\n\nTherefore, the wire would experience a force of 0.016 N.",
+      "hint": "First, use the initial conditions (force, current, and length) to determine the magnetic flux density (B) of the electromagnet. Then, use this calculated value of B with the new current to calculate the resulting force.",
+      "generatedAt": "2026-04-30T20:07:24.136347"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y10-magnetism_advanced_001",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A straight copper wire, 20 cm long, is suspended horizontally in a uniform magnetic field created by a pair of strong electromagnets. The magnetic field lines are directed horizontally. When a current of 3.0 A is passed through the wire from left to right, the wire experiences an upward force of 0.24 N.\n\n**(a) Calculate the magnetic flux density between the electromagnets. Show your working and state the unit. (4 marks)**\n\n**(b) Using Fleming's Left-Hand Rule, determine the initial direction of the magnetic field. Explain your reasoning clearly. (3 marks)**\n\n**(c) The polarity of the electromagnets is reversed, causing the magnetic field direction to reverse, but the current in the wire remains 3.0 A from left to right. Describe the change in the force experienced by the wire, including its direction and magnitude. (3 marks)**",
+      "options": [],
+      "correctAnswer": "**Part (a) Calculation of Magnetic Flux Density (4 marks):**\n\n**Formula:** The force (F) on a current (I) carrying conductor of length (L) in a magnetic field of flux density (B) is given by:\nF = BIL\n\n**Rearranging the formula to find B:**\nB = F / (I × L)\n\n**Given values:**\nForce (F) = 0.24 N\nCurrent (I) = 3.0 A\nLength (L) = 20 cm = 0.20 m (Conversion of cm to metres is crucial)\n\n**Substitution:**\nB = 0.24 N / (3.0 A × 0.20 m)\nB = 0.24 N / 0.60 Am\nB = 0.4 T\n\n**Answer:** The magnetic flux density between the electromagnets is **0.4 T**.\n\n**Part (b) Determination of Magnetic Field Direction (3 marks):**\n\nAccording to Fleming's Left-Hand Rule:\n*   **Thumb:** Represents the direction of the **Force (F)**.\n*   **Forefinger:** Represents the direction of the **Magnetic Field (B)**.\n*   **Middle Finger:** Represents the direction of the **Current (I)**.\n\n**Applying the rule to the given situation:**\n1.  **Current (I):** The current flows from left to right. Point your middle finger to the right.\n2.  **Force (F):** The wire experiences an upward force. Point your thumb upwards.\n3.  **Magnetic Field (B):** With your middle finger pointing right and your thumb pointing up, your forefinger will naturally point **into the page** (or directly away from you, perpendicular to the wire and the upward force).\n\n**Explanation:** By aligning the middle finger with the current (right) and the thumb with the force (up), Fleming's Left-Hand Rule dictates that the forefinger (magnetic field) must point into the page. Therefore, the initial direction of the magnetic field is **into the page**.\n\n**Part (c) Description of Change in Force (3 marks):**\n\nWhen the polarity of the electromagnets is reversed, the direction of the magnetic field (B) reverses. However, the magnitude of the magnetic field (B), the current (I), and the length of the wire (L) remain unchanged.\n\n1.  **Magnitude of Force:** Since F = BIL, and the values of B (magnitude), I, and L are all unchanged, the magnitude of the force will remain the same. It will still be **0.24 N**.\n2.  **Direction of Force:** According to Fleming's Left-Hand Rule, if the current direction is kept constant, reversing the magnetic field direction will cause the direction of the force to reverse. Therefore, the initial upward force will now become a **downward force**.\n\n**Description:** The force experienced by the wire will change from an upward force to a **0.24 N downward force**.",
+      "explanation": "This question assesses the student's ability to apply the principles of electromagnetism in an advanced context. Part (a) requires the rearrangement of the motor effect formula (F=BIL) to solve for magnetic flux density, emphasizing unit conversion. Part (b) demands a deductive application of Fleming's Left-Hand Rule to determine an unknown field direction based on given current and force directions, demonstrating a deep understanding of the rule. Part (c) tests the understanding of how reversing the magnetic field affects both the magnitude and direction of the motor effect force, requiring a comprehensive description.",
+      "hint": "Remember to convert all lengths to metres before using the formula F=BIL. For determining direction, use Fleming's Left-Hand Rule, aligning two fingers with the known directions (current and force) to find the third (magnetic field). When reversing a magnetic field, consider its effect on the force's direction and magnitude separately.",
+      "generatedAt": "2026-04-30T20:07:48.824415"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_002",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "An experimental setup uses a long solenoid to generate a uniform magnetic field. A straight, 5.0 cm length of copper wire is placed perpendicular to the axis of the solenoid, inside its coil. The wire is connected to a separate power supply, allowing current to flow through it.\n\na) Describe how the strength of the magnetic field produced by the solenoid can be increased. (2 marks)\n\nb) State the name of the rule used to determine the direction of the force experienced by the copper wire when current flows through it and it is placed in the solenoid's magnetic field. (1 mark)\n\nc) Initially, the solenoid's current flows in one direction and the copper wire's current flows in another, resulting in an upward force on the wire. Explain why the direction of the force on the copper wire would remain upward if the direction of the current in the solenoid is reversed AND the direction of the current in the copper wire is also reversed. (4 marks)\n\nd) When the solenoid carries a current, it produces a uniform magnetic field of 40 mT. If the 5.0 cm section of the copper wire carries a current of 3.0 A, calculate the magnitude of the force it experiences. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) The strength of the magnetic field produced by the solenoid can be increased by: \n- Increasing the current flowing through the solenoid's coil. (1 mark)\n- Increasing the number of turns per unit length in the solenoid (or increasing the number of turns for a given length). (1 mark)\n- Inserting a soft iron core into the solenoid. (1 mark - max 2 marks for any two points)\n\nb) Fleming's Left-Hand Rule. (1 mark)\n\nc) Fleming's Left-Hand Rule dictates that the direction of the force (thumb) depends on the direction of the magnetic field (forefinger) and the direction of the current (middle finger). (1 mark)\nIf the direction of the current in the solenoid is reversed, the direction of the magnetic field (B) produced by the solenoid also reverses. (1 mark)\nIf the direction of the current in the copper wire is also reversed, then both the magnetic field direction (B) and the current direction (I) in Fleming's Left-Hand Rule have been reversed. (1 mark)\nA double reversal of the input directions (B and I) results in the force direction (F) remaining the same, hence the force on the wire would still be upward. (1 mark)\n\nd) Formula: F = BIL (1 mark)\nConvert units: B = 40 mT = 40 × 10⁻³ T = 0.040 T\nL = 5.0 cm = 5.0 × 10⁻² m = 0.050 m\nSubstitution: F = 0.040 T × 3.0 A × 0.050 m (1 mark for correct substitution with units)\nCalculation: F = 0.006 N\nAnswer with units: F = 0.006 N (or 6.0 mN) (1 mark for correct answer with units)\n",
+      "explanation": "a) The magnetic field strength of a solenoid is directly proportional to the current flowing through its coils and the density of the coil windings. Introducing a ferromagnetic core, like soft iron, significantly concentrates the magnetic field lines.\nb) This rule directly relates the directions of the magnetic field, the current, and the resultant force experienced by a current-carrying conductor within a magnetic field.\nc) Fleming's Left-Hand Rule establishes a directional relationship between Force, Magnetic Field, and Current. When both the direction of the magnetic field (B) and the direction of the current (I) are simultaneously reversed, their combined effect on the force (F) direction effectively cancels out. This means the resulting force will point in the original direction.\nd) The motor effect force (F) is calculated using the formula F = BIL, where B is the magnetic field strength in Tesla, I is the current in Amperes, and L is the length of the conductor in the field in metres. It is crucial to convert given units (mT, cm) into their standard SI base units (T, m) before performing the calculation to obtain the force in Newtons.",
+      "hint": "For part c), consider how each reversal individually affects the components of Fleming's Left-Hand Rule. For part d), remember to convert all units to their standard SI forms (Tesla, metres) before calculation and state the formula first.",
+      "generatedAt": "2026-04-30T20:08:14.514041"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_003",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "An automated sorting system uses a large electromagnet to create a concentrated, uniform magnetic field in a specific region of a factory floor. A lightweight, non-ferromagnetic conveyor arm, constructed from a 0.75 m long aluminium rod, is designed to carry a constant current of 12 A as it passes through this magnetic field. The rod has a mass of 0.45 kg. The system needs to generate an upward magnetic force on the rod, strong enough to lift it clear of the conveyor track by counteracting its weight, plus provide an additional upward acceleration of 0.5 m/s² for a brief moment. The magnetic field created by the electromagnet is directed horizontally from left to right. The aluminium rod is oriented perpendicular to the magnetic field. (Gravitational field strength, g = 9.8 N/kg)\n\n(a) State the direction of the current required in the aluminium rod for the system to generate an upward magnetic force, given the magnetic field is directed horizontally from left to right. (1 mark)\n\n(b) Calculate the minimum magnetic flux density (B) required to achieve the desired upward acceleration. Give your answer to two significant figures. (4 marks)\n\n(c) Explain two distinct advantages of using an electromagnet, rather than a permanent magnet, in this automated sorting system. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) Using Fleming's Left-Hand Rule:\n    *   Thumb (Force) points upwards.\n    *   Forefinger (Magnetic Field) points horizontally from left to right.\n    *   Middle finger (Current) points **into the page** (or 'into the plane of the diagram').\n\n(b) **Calculation of minimum magnetic flux density (B):**\n    *   **Step 1: Determine the total upward force required (F_mag).**\n        The magnetic force must counteract the weight (W) and provide an upward resultant force (F_res) for acceleration.\n        F_mag = W + F_res\n    *   **Step 2: Calculate the weight of the rod (W).**\n        W = m × g\n        W = 0.45 kg × 9.8 N/kg = 4.41 N\n    *   **Step 3: Calculate the required resultant force for acceleration (F_res).**\n        F_res = m × a\n        F_res = 0.45 kg × 0.5 m/s² = 0.225 N\n    *   **Step 4: Calculate the total required magnetic force (F_mag).**\n        F_mag = 4.41 N + 0.225 N = 4.635 N\n    *   **Step 5: Apply the motor effect formula (F_mag = B × I × L).**\n        Rearrange to solve for B: B = F_mag / (I × L)\n    *   **Step 6: Substitute values and calculate B.**\n        B = 4.635 N / (12 A × 0.75 m)\n        B = 4.635 N / 9 A·m\n        B = 0.515 T\n    *   **Step 7: Round to two significant figures.**\n        B = **0.52 T**\n\n(c) **Two distinct advantages of using an electromagnet:**\n    *   **Advantage 1: Control over ON/OFF state.** An electromagnet's magnetic field can be easily switched on and off by controlling the current flow (cause). This allows the automated system to precisely lift the rod when required and then release it, enabling efficient sorting operations or allowing other mechanisms to move underneath without interference (effect).\n    *   **Advantage 2: Variable field strength.** The strength of an electromagnet's magnetic field can be easily adjusted by changing the current passing through its coils (cause). This allows the lifting force on the rod to be varied, accommodating different weights of objects on the conveyor or adjusting the acceleration for specific sorting tasks (effect).\n    *   *(An alternative for Advantage 2 could be: Electromagnets can generate much stronger magnetic fields compared to permanent magnets of a similar size (cause). This ensures that a sufficient upward force can be produced to lift even heavy loads on the conveyor or achieve higher accelerations when necessary for rapid sorting (effect).)*",
+      "explanation": "(a) To determine the direction of the current, apply Fleming's Left-Hand Rule:\n    *   The **thumb** represents the **Force**, which is required to be upwards.\n    *   The **forefinger** represents the **Magnetic Field**, which is directed horizontally from left to right.\n    *   Aligning the thumb upwards and the forefinger to the right, the **middle finger** (representing **Current**) points **into the page** (or into the plane of the diagram).\n\n(b) This part requires combining Newton's Second Law with the motor effect formula:\n    1.  **Identify the total upward force needed.** The system needs to overcome the rod's weight and provide additional force for acceleration.\n        *   Weight (W) = mass (m) × gravitational field strength (g) = 0.45 kg × 9.8 N/kg = 4.41 N.\n        *   Resultant force for acceleration (F_res) = mass (m) × acceleration (a) = 0.45 kg × 0.5 m/s² = 0.225 N.\n        *   The total upward magnetic force (F_mag) must be W + F_res = 4.41 N + 0.225 N = 4.635 N.\n    2.  **Apply the motor effect formula.** The force (F_mag) on a current-carrying conductor in a magnetic field is given by F_mag = B × I × L, where B is the magnetic flux density, I is the current, and L is the length of the conductor in the field.\n    3.  **Rearrange the formula to solve for B:** B = F_mag / (I × L).\n    4.  **Substitute the known values:** B = 4.635 N / (12 A × 0.75 m) = 4.635 N / 9 A·m = 0.515 T.\n    5.  **Round to two significant figures:** B = 0.52 T.\n\n(c) The advantages of using an electromagnet stem from its controllability:\n    *   **Switching ON/OFF:** An electromagnet can be switched on and off by controlling the current in its coil. This allows the magnetic field, and thus the lifting force on the rod, to be activated precisely when needed for sorting and deactivated to allow the rod to drop or move freely (cause and effect).\n    *   **Varying Strength:** The strength of an electromagnet's magnetic field can be adjusted by changing the current through its coils. This enables the sorting system to vary the lifting force on the rod, allowing it to handle objects of different masses or adjust the acceleration for different sorting speeds (cause and effect).",
+      "hint": "For part (b), remember to consider all forces acting on the rod (weight and desired acceleration) to determine the net magnetic force required, before applying the motor effect formula F=BIL. Ensure units are consistent and the final answer is rounded correctly.",
+      "generatedAt": "2026-04-30T20:10:33.250908"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_004",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A researcher is designing a precision magnetic stirring system for microscopic biological samples. The core component is a rectangular coil consisting of 25 turns, with each turn having a length of 2.5 cm and a width of 1.2 cm. This coil is placed in a uniform magnetic field of strength 0.8 T, generated by a powerful permanent magnet. Only the longer sides of the coil interact perpendicularly with the magnetic field. The coil is connected to a power supply which delivers a current of 300 mA.\n\n**(a) Explain, using relevant scientific principles, why the coil experiences a force when current flows, and how the direction of this force can be determined. (4 marks)**\n\n**(b) Calculate the total magnetic force acting on the coil. Show your working clearly and state the final answer with appropriate units. (4 marks)**\n\n**(c) The researcher needs to double the magnitude of the stirring force without changing the dimensions of the coil or the magnetic field strength. Describe two distinct methods by which this can be achieved, justifying your answer using the relevant formula. (4 marks)**",
+      "options": [],
+      "correctAnswer": "**(a) Explain, using relevant scientific principles, why the coil experiences a force when current flows, and how the direction of this force can be determined. (4 marks)**\n*   **Why force?** A current-carrying conductor (the coil) generates its own magnetic field. When this conductor is placed within an external magnetic field (from the permanent magnet), the two magnetic fields interact. This interaction results in a force being exerted on the conductor, a phenomenon known as the motor effect. (2 marks)\n*   **How direction determined?** The direction of this force can be determined using Fleming's Left-Hand Rule. The thumb indicates the direction of the Force, the forefinger indicates the direction of the external Magnetic Field (North to South), and the middle finger indicates the direction of the Current. (2 marks)\n\n**(b) Calculate the total magnetic force acting on the coil. Show your working clearly and state the final answer with appropriate units. (4 marks)**\n*   **Given values and conversions:**\n    *   Number of turns, N = 25\n    *   Length of one longer side, L_one_side = 2.5 cm = 0.025 m\n    *   Magnetic field strength, B = 0.8 T\n    *   Current, I = 300 mA = 0.300 A\n*   **Calculate total effective length (L) of wire interacting with the field:**\n    *   Since there are 2 longer sides per turn and 25 turns: \n    *   L = N × 2 × L_one_side\n    *   L = 25 × 2 × 0.025 m = 50 × 0.025 m = 1.25 m (1 mark)\n*   **Formula:** F = BIL (1 mark)\n*   **Substitution:** F = 0.8 T × 0.300 A × 1.25 m (1 mark)\n*   **Calculation:** F = 0.30 N\n*   **Final Answer:** The total magnetic force acting on the coil is **0.30 N**. (1 mark for correct answer with unit)\n\n**(c) The researcher needs to double the magnitude of the stirring force without changing the dimensions of the coil or the magnetic field strength. Describe two distinct methods by which this can be achieved, justifying your answer using the relevant formula. (4 marks)**\n*   **Method 1: Increase the current (I).** (1 mark)\n    *   **Justification:** From the formula F = BIL, the force (F) is directly proportional to the current (I). Therefore, to double the force, the current (I) flowing through the coil must be doubled from 300 mA to 600 mA (or 0.3 A to 0.6 A). (1 mark)\n*   **Method 2: Increase the number of turns (N) in the coil.** (1 mark)\n    *   **Justification:** The total effective length (L) of the wire interacting with the magnetic field is given by L = N × (length of interacting wire per turn). Since F = BIL, and L is directly proportional to N, then the force (F) is also directly proportional to N. Therefore, to double the force, the number of turns (N) must be doubled from 25 turns to 50 turns. (1 mark)",
+      "explanation": "This is an open-ended question designed to assess a student's comprehensive understanding of electromagnetism, the motor effect, and related calculations. \n\nPart (a) requires a conceptual explanation of the motor effect, linking the interaction of magnetic fields to the resulting force. It also tests the knowledge of Fleming's Left-Hand Rule for determining force direction. \n\nPart (b) is a multi-step calculation involving unit conversions (cm to m, mA to A), correctly identifying the total effective length of wire interacting with the magnetic field (considering both sides of each turn and the total number of turns), applying the formula F=BIL, and stating the answer with correct units. \n\nPart (c) assesses the student's ability to manipulate the F=BIL formula to describe practical methods for changing the force magnitude, demonstrating an understanding of the direct proportionality between force and key variables (current and effective length, which is related to the number of turns). Each method requires justification based on the formula, making it an advanced application question.",
+      "hint": "For part (b), remember to calculate the total length of wire interacting with the magnetic field, considering both active sides of all turns, and ensure all quantities are in SI units before applying the formula F=BIL. For part (a), focus on the interaction between magnetic fields and recall the specific rule for determining direction.",
+      "generatedAt": "2026-04-30T20:12:39.492035"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_005",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A novel micro-propulsion system for biological samples utilises a fixed electromagnet to generate a uniform magnetic field for levitation and controlled movement. The operational region has a uniform magnetic flux density of 0.85 T, directed vertically downwards. A tiny, rectangular, conductive sample carrier, 1.2 cm long and 0.5 cm wide, with a mass of 0.5 g, is levitated within this field. To propel the carrier horizontally, a current of 250 mA is passed through its length, perpendicular to the magnetic field.\n\n(a) Calculate the magnitude of the electromagnetic force acting on the sample carrier due to the current passing through it. [3 marks]\n\n(b) The sample carrier needs to be propelled towards the West. Describe how the current must be directed through the carrier to achieve this movement. [3 marks]\n\n(c) Explain two methods, other than increasing the current, that could be used to increase the initial acceleration of the sample carrier horizontally. [4 marks]",
+      "options": [],
+      "correctAnswer": "(a) Calculation of electromagnetic force:\n*   **Formula:** F = BIL (Force = Magnetic Flux Density × Current × Length)\n*   **Identify values and convert units:**\n    *   B = 0.85 T\n    *   I = 250 mA = 0.250 A\n    *   L = 1.2 cm = 0.012 m\n*   **Substitution:** F = 0.85 T × 0.250 A × 0.012 m\n*   **Calculation:** F = 0.00255 N\n*   **Answer:** The magnitude of the electromagnetic force is 0.00255 N.\n\n(b) Direction of current using Fleming's Left-Hand Rule:\n*   To determine the current direction, we apply Fleming's Left-Hand Rule.\n*   **Thumb (Force):** Points towards the West (desired direction of motion).\n*   **Forefinger (Field):** Points vertically downwards (direction of magnetic flux density).\n*   **Middle Finger (Current):** When the thumb is West and the forefinger is downwards, the middle finger points towards the North.\n*   **Description:** Therefore, the current must be directed from South to North along the length of the sample carrier.\n\n(c) Two methods to increase initial horizontal acceleration (other than increasing current):\n*   **Principle:** Newton's Second Law states F = ma (Force = mass × acceleration). To increase acceleration (a), for a constant mass (m), the net force (F) must be increased. The electromagnetic force is given by F = BIL.\n*   **Method 1: Increase the magnetic flux density (B).**\n    *   **Explanation:** Increasing the magnetic flux density (B) in the operational region will directly increase the electromagnetic force (F = BIL), assuming the current (I) and the length (L) of the carrier remain constant. Since acceleration is directly proportional to force (F=ma), a larger electromagnetic force will result in a greater initial horizontal acceleration of the sample carrier. This could be achieved by using a stronger electromagnet (e.g., increasing the current in the electromagnet's coil or using a more permeable core material).\n*   **Method 2: Increase the effective length (L) of the carrier within the field.**\n    *   **Explanation:** Increasing the length (L) of the sample carrier that is perpendicular to and immersed in the magnetic field will directly increase the electromagnetic force (F = BIL), assuming the current (I) and the magnetic flux density (B) remain constant. A larger electromagnetic force will then lead to a greater initial horizontal acceleration of the sample carrier (F=ma). This could involve redesigning the carrier to be longer in the direction perpendicular to the field and current flow, or ensuring more of its current-carrying length is within the uniform magnetic field.",
+      "explanation": "This question requires students to combine their understanding of electromagnets (contextual setup for the magnetic field) with the motor effect and Fleming's Left-Hand Rule. \n\n(a) Students must correctly identify the formula F=BIL, convert units (mA to A, cm to m), and perform the calculation accurately. \n\n(b) Students need to apply Fleming's Left-Hand Rule by correctly assigning the directions for force (West), magnetic field (downwards), and then deduce the direction of current (North, or South to North). This demonstrates understanding of the rule in an applied context.\n\n(c) This part requires students to link the motor effect equation (F=BIL) with Newton's Second Law (F=ma). They must explain how manipulating B or L (other than I, as specified) directly increases the force, and how this increased force leads to greater acceleration. The explanation must clearly show cause and effect.",
+      "hint": "For increasing acceleration, consider Newton's Second Law (F=ma) and how the electromagnetic force (F=BIL) can be altered without changing the current (I).",
+      "generatedAt": "2026-04-30T20:13:34.252620"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_006",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A robotic arm used in a manufacturing plant requires precise angular adjustment of its end-effector (gripper). This adjustment is achieved by an integrated electromagnetic actuator, which incorporates a rectangular coil made of 100 turns of wire. The coil measures 4.0 cm in length and 2.0 cm in width. This coil is placed in a uniform magnetic field of strength 0.85 T, produced by strong permanent magnets. During operation, a current of 2.5 A flows through the coil.\n\na) Explain, using Fleming's Left-Hand Rule, how the current in the coil causes a rotational force (torque) that adjusts the gripper's position. (4 marks)\n\nb) State the effect on the rotation of the coil if the direction of the current is reversed. (1 mark)\n\nc) Calculate the maximum total force experienced by the two longer active sides of the rectangular coil when the coil is oriented perpendicularly to the magnetic field lines. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) When current flows through the coil, each of the two longer sides of the rectangular coil, carrying current perpendicular to the uniform magnetic field, experiences a force. Fleming's Left-Hand Rule can be applied to determine the direction of this force: the Forefinger points in the direction of the magnetic Field (from North to South), the Centre Finger points in the direction of the Current, and the Thumb then indicates the direction of the Force. Because the current flows in opposite directions in the two longer active sides of the coil, the forces on these two sides will be in opposite directions. These opposing forces act on different parts of the coil, creating a turning effect or torque, which causes the coil (and thus the gripper) to rotate.\n\nb) Reversing the direction of the current in the coil will reverse the direction of the forces on both sides of the coil. Consequently, the direction of the rotational force (torque) will be reversed, causing the coil to rotate in the opposite direction.\n\nc) The force (F) on a current-carrying wire in a magnetic field is given by the formula F = BILn, where B is the magnetic field strength, I is the current, L is the length of the wire in the field, and n is the number of turns.\n\nFor one longer active side:\nB = 0.85 T\nI = 2.5 A\nL = 4.0 cm = 0.04 m\nn = 100 turns\n\nForce on one active side (considering all turns):\nF_one_side = B × I × L × n\nF_one_side = 0.85 T × 2.5 A × 0.04 m × 100\nF_one_side = 8.5 N\n\nSince there are two longer active sides, and the forces on them are both maximal when perpendicular to the field and contribute to the rotational effect, the total maximum force experienced by these sides is:\nTotal Force = 2 × F_one_side\nTotal Force = 2 × 8.5 N\nTotal Force = 17.0 N",
+      "explanation": "Part (a) requires a detailed explanation of the motor effect on a coil and the application of Fleming's Left-Hand Rule. Students must identify that forces act on the sides, their directions are opposite due to current direction, and these create a torque. Part (b) tests understanding of how reversing current affects force direction. Part (c) requires the application of the formula F = BILn. The student must convert length to metres, identify the correct length (the longer side active in the field), include the number of turns (n), and then multiply the result by two because there are two active longer sides in the coil that experience a force contributing to the turning effect. Units must be correctly stated for the final answer.",
+      "hint": "For part (a), consider the forces on opposite sides of the coil and apply Fleming's Left-Hand Rule to each. For part (c), remember the formula for force on a current-carrying wire in a magnetic field (F = BILn), and account for both the number of turns and the two active sides of the coil.",
+      "generatedAt": "2026-04-30T20:13:55.914507"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_007",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A student is designing a small electromagnetic catapult to launch a light conductive projectile. The catapult uses a straight copper rod, 0.15 m long and with a mass of 0.02 kg, placed horizontally on two parallel conducting rails. An electromagnet, placed below the rails, generates a uniform magnetic field of strength 0.8 T acting perpendicular to the rod and the rails, directed vertically upwards. When a current of 12 A is passed through the rod, it experiences a force that launches it horizontally.\n\n(a) State the name of the rule used to determine the direction of the force experienced by the copper rod. (1 mark)\n\n(b) Calculate the magnitude of the force acting on the copper rod. (3 marks)\n\n(c) Describe the direction of the force acting on the rod if the current flows from left to right across the rod. (2 marks)\n\n(d) Explain how increasing the number of turns on the electromagnet's coil, while keeping the current through the electromagnet constant, would lead to a greater initial acceleration of the rod. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Fleming's Left-Hand Rule.\n\n(b) Formula: F = B I L\nSubstitution: F = 0.8 T × 12 A × 0.15 m\nAnswer: F = 1.44 N\n\n(c) Using Fleming's Left-Hand Rule:\nForefinger (Field) points vertically upwards.\nMiddle finger (Current) points horizontally from left to right.\nTherefore, the Thumb (Force) will point horizontally into the page (or perpendicularly away from the observer relative to the plane of the rails and current).\n\n(d) Increasing the number of turns on the electromagnet's coil, while keeping the current through the electromagnet constant, would increase the strength of the magnetic field (B) produced by the electromagnet. (1 mark)\nAccording to the motor effect equation (F = BIL), a stronger magnetic field (B), with constant current (I) through the rod and constant length (L) of the rod in the field, will result in a greater magnetic force (F) acting on the rod. (2 marks)\nBy Newton's Second Law of Motion (F = ma), a greater resultant force (F) acting on the rod, with its mass (m) remaining constant, will produce a greater initial acceleration (a). (3 marks)\nTherefore, more turns on the electromagnet lead to a greater initial acceleration of the rod. (1 mark)",
+      "explanation": "This is an open-ended question with multiple parts. The `correctAnswer` field provides the detailed reasoning, calculations, and explanations for each part as requested.",
+      "hint": "For part (d), consider the relationship between the number of turns in an electromagnet and its magnetic field strength. Then, relate this magnetic field strength to the force on the current-carrying rod, and finally, how that force influences the rod's acceleration.",
+      "generatedAt": "2026-04-30T20:14:39.452798"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_008",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A research team is developing a contactless positioning system for a small, conductive sample platform in a vacuum chamber. The platform, with a mass of 25 g, has a straight copper wire embedded across its width. This wire has a length of 8.0 cm and is positioned horizontally. The entire platform is placed within a uniform magnetic field of strength 0.40 T, which is directed vertically downwards.\n\nTo precisely control the horizontal position of the platform, a variable current is passed through the copper wire.\n\n(a) Calculate the magnitude of the current required to produce a horizontal positioning force of 0.05 N on the platform. (3 marks)\n\n(b) If the copper wire runs East-West and the desired horizontal positioning force is towards the North, state the required direction of current flow in the wire. (1 mark)\n\n(c) Explain how varying the current through the copper wire allows for precise control over the magnitude of the horizontal positioning force, making fine adjustments to the platform's position possible. (3 marks)\n\n(d) Describe two distinct modifications the research team could make to the system to increase the maximum horizontal positioning force achievable, without increasing the current supplied to the wire. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) To calculate the current (I), we use the motor effect formula:\nF = B I L\nWhere:\nF = Force = 0.05 N\nB = Magnetic field strength = 0.40 T\nL = Length of wire = 8.0 cm = 0.08 m\n\nRearranging the formula for I:\nI = F / (B L)\n\nSubstituting the values:\nI = 0.05 N / (0.40 T * 0.08 m)\nI = 0.05 N / 0.032 Tm\nI = 1.5625 A\n\nRounding to an appropriate number of significant figures (e.g., 2 s.f. based on 0.40 T and 8.0 cm):\nI = 1.6 A\n\n(b) Using Fleming's Left-Hand Rule:\n- Forefinger (Field) points Downwards.\n- Thumb (Force) points North.\n- Therefore, the Middle Finger (Current) must point West.\nRequired direction of current flow: West.\n\n(c) The motor effect states that the force (F) experienced by a current-carrying wire in a magnetic field is directly proportional to the current (I) flowing through it (F = BIL). Since the magnetic field strength (B) and the length of the wire (L) are constant in this system, any change in the current (I) will result in a directly proportional change in the force (F). This linear relationship means that small adjustments to the current allow for precise, predictable, and fine adjustments to the magnitude of the horizontal positioning force, thereby enabling accurate control over the platform's position.\n\n(d) To increase the maximum horizontal positioning force (F) without increasing the current (I), according to F = BIL, the research team could:\n1.  **Increase the magnetic field strength (B):** This could be achieved by using stronger permanent magnets to generate the uniform vertical field, or by incorporating an electromagnet whose field can add to or replace the existing permanent field. A stronger magnetic field directly increases the force for a given current and wire length. (2 marks)\n2.  **Increase the effective length of the wire (L) within the magnetic field:** This could involve designing a platform with a wider embedded copper wire, ensuring more of its length is perpendicular to the magnetic field. A longer wire interacting with the magnetic field means a greater overall force. (2 marks)",
+      "explanation": "This question assesses the student's understanding and application of the motor effect (F=BIL) and Fleming's Left-Hand Rule in an advanced, multi-step scenario. Part (a) requires calculation with correct unit conversion. Part (b) tests the application of Fleming's Left-Hand Rule for direction. Part (c) requires an explanation linking cause and effect based on the F=BIL formula to justify precise control over the force magnitude. Part (d) demands critical thinking to identify methods of increasing force based on the variables in the formula (B and L), demonstrating an understanding of the relationship between physical quantities in the motor effect.",
+      "hint": "Remember to use the formula relating force, magnetic field strength, current, and wire length. Pay close attention to unit consistency. For direction, apply Fleming's Left-Hand Rule. For explanations, describe the underlying physical relationship between variables. When modifying the system, consider all variables in the relevant formula.",
+      "generatedAt": "2026-04-30T20:15:01.431068"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_009",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "An emergency stop mechanism for a heavy industrial press uses a safety switch actuated by a conducting copper rod. This rod, 0.20 m long, is designed to carry a constant current of 8.0 A. To activate the safety switch, the rod must experience a force of at least 1.2 N. This force is generated by placing the rod within the uniform magnetic field produced by a large, iron-cored solenoid. The solenoid has 500 turns and is 0.30 m long.\n\na) Describe how the solenoid produces a magnetic field and identify two factors that affect its strength. (3 marks)\nb) Calculate the minimum magnetic flux density required in the region of the copper rod to activate the safety switch. (3 marks)\nc) The current in the copper rod flows from left to right, and the solenoid is positioned so that its North pole faces the rod. Explain how to determine the direction of the force on the rod when it is placed within the solenoid's magnetic field. (4 marks)\nd) The magnetic flux density (B) produced by a long solenoid can be approximated by the formula B = (μ₀ * n * I_solenoid), where μ₀ is the permeability of free space (4π × 10⁻⁷ T·m/A), and 'n' is the number of turns per unit length of the solenoid. Calculate the minimum current (I_solenoid) required in the solenoid's coil to achieve the magnetic flux density calculated in part b). (4 marks)",
+      "options": [],
+      "correctAnswer": "a) When an electric current passes through the coils of the solenoid, it creates a magnetic field around and through the coil, similar to a bar magnet. The iron core significantly concentrates and strengthens this magnetic field. Two factors that affect its strength are the magnitude of the current flowing through the coils and the number of turns in the coil per unit length (or the total number of turns for a given length).\n\nb) To calculate the minimum magnetic flux density (B):\nFormula: F = B I L\nRearranging for B: B = F / (I L)\nSubstitute values: B = 1.2 N / (8.0 A × 0.20 m)\nCalculation: B = 1.2 / 1.6\nB = 0.75 T\nMinimum magnetic flux density required = 0.75 T\n\nc) To determine the direction of the force, Fleming's Left-Hand Rule should be applied:\n1. Point the Forefinger (representing the magnetic Field) in the direction of the magnetic field lines. Since the solenoid's North pole faces the rod, the field lines emerge from the North pole, so the field direction is from the solenoid towards the rod.\n2. Point the Middle Finger (representing the Current) in the direction of the current flow in the rod, which is from left to right.\n3. The direction in which your Thumb points will indicate the direction of the Force on the rod. By aligning the forefinger and middle finger as described, the thumb will show the direction of movement/force (e.g., upwards or downwards, depending on the relative orientation of the solenoid and rod in the setup).\n\nd) To calculate the minimum current (I_solenoid) in the solenoid:\nFirst, calculate 'n', the number of turns per unit length:\nn = Number of turns / Length of solenoid = 500 turns / 0.30 m = 1666.67 turns/m\nFormula: B = μ₀ * n * I_solenoid\nRearranging for I_solenoid: I_solenoid = B / (μ₀ * n)\nSubstitute values: I_solenoid = 0.75 T / (4π × 10⁻⁷ T·m/A × 1666.67 turns/m)\nI_solenoid = 0.75 / (4 × 3.14159 × 10⁻⁷ × 1666.67)\nI_solenoid = 0.75 / (2.0944 × 10⁻³)\nI_solenoid ≈ 358.1 A\nMinimum current in the solenoid = 358 A (to 3 significant figures)",
+      "explanation": "This question comprehensively assesses understanding of electromagnets (part a), the motor effect and associated calculations (part b), the application of Fleming's Left-Hand Rule (part c), and the ability to combine formulae and concepts for a more complex calculation involving solenoid magnetic field generation (part d). Part (a) requires descriptive knowledge of how a magnetic field is produced and its influencing factors. Part (b) is a direct application of the F=BIL formula to find the required magnetic flux density. Part (c) tests conceptual understanding and the correct application of Fleming's Left-Hand Rule to determine force direction. Part (d) requires an advanced ability to calculate 'n' (turns per unit length) first, then rearrange and solve the provided solenoid magnetic field formula, demonstrating the capacity to link different physical principles and perform multi-step calculations.",
+      "hint": "For part b), recall the formula linking Force, Magnetic Flux Density, Current, and Length. For part d), remember to calculate 'n' (number of turns per unit length) from the given solenoid information before using the solenoid magnetic field formula, and utilize the value of B calculated in part b).",
+      "generatedAt": "2026-04-30T20:15:24.421560"
+    },
+    {
+      "id": "s-y10-magnetism_advanced_010",
+      "topicId": "s-y10-magnetism",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A specialized micro-actuator employs a compact rectangular coil to precisely control the movement of a miniature component within a scientific instrument. The coil has 120 turns, with each turn having effective dimensions of 0.8 cm (length of the active sides) by 0.5 cm (width). It is positioned within a uniform magnetic field of 0.75 T. The longer sides of the coil are aligned perpendicularly to the magnetic field lines. When a current of 150 mA flows through the coil, a precise force is generated.\n\nCalculate the magnitude of the total electromagnetic force exerted on the active longer sides of the coil.",
+      "options": [
+        "A) 0.108 N",
+        "B) 0.0018 N",
+        "C) 0.216 N",
+        "D) 0.0675 N"
+      ],
+      "correctAnswer": "C) 0.216 N",
+      "explanation": "1.  **Identify given values and convert units:**\n    *   Number of turns, n = 120\n    *   Length of active side, L = 0.8 cm = 0.008 m\n    *   Magnetic field strength, B = 0.75 T\n    *   Current, I = 150 mA = 0.150 A\n\n2.  **Formula for force on a current-carrying conductor:**\n    The force (F) on a single conductor of length L carrying current I, placed perpendicular to a magnetic field B, is given by F = BIL.\n\n3.  **Calculate the force on a single active length of wire (one side of one turn):**\n    F_single_wire = B × I × L\n    F_single_wire = 0.75 T × 0.150 A × 0.008 m\n    F_single_wire = 0.0009 N\n\n4.  **Calculate the total force on one of the longer sides of the coil (considering all turns):**\n    Since there are 120 turns, the force on one active side (e.g., the 'top' longer side) is F_one_side = n × F_single_wire\n    F_one_side = 120 × 0.0009 N\n    F_one_side = 0.108 N\n\n5.  **Calculate the total electromagnetic force on the active longer sides of the coil:**\n    The coil has two longer active sides (a 'top' and a 'bottom' side) that are perpendicular to the magnetic field lines. Both contribute to the overall force magnitude. Therefore, the total force is the sum of the magnitudes of the forces on these two sides.\n    F_total = 2 × F_one_side\n    F_total = 2 × 0.108 N\n    F_total = 0.216 N\n\nTherefore, the magnitude of the total electromagnetic force exerted on the active longer sides of the coil is 0.216 N.",
+      "hint": "Remember to account for the number of turns in the coil, convert all units to SI base units (metres, amperes), and consider all active segments of the coil that are perpendicular to the magnetic field lines.",
+      "generatedAt": "2026-04-30T21:57:31.561489"
+    }
+  ]
+}

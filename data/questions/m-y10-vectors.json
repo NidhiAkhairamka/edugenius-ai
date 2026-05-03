@@ -1,0 +1,448 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y10-vectors_beginner_001",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Given the origin O, point A has position vector **OA** = (4, 1) and point B has position vector **OB** = (1, 5). Find the vector **AB**.",
+      "options": [
+        "(5, 6)",
+        "(3, -4)",
+        "(-3, 4)",
+        "(4, -3)"
+      ],
+      "correctAnswer": "(-3, 4)",
+      "explanation": "To find the vector **AB**, we use the formula **AB** = **OB** - **OA**.\nGiven:\n**OA** = (4, 1)\n**OB** = (1, 5)\n\nSubstitute the vectors into the formula:\n**AB** = (1, 5) - (4, 1)\n\nSubtract the corresponding components:\nX-component: 1 - 4 = -3\nY-component: 5 - 1 = 4\n\nTherefore, **AB** = (-3, 4).",
+      "hint": "Remember that the vector from point A to point B, **AB**, can be found by subtracting the position vector of A from the position vector of B.",
+      "generatedAt": "2026-04-30T19:15:46.708809"
+    },
+    {
+      "id": "m-y10-vectors_beginner_002",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Consider a parallelogram PQRS. The vector from point P to point Q, denoted as **PQ**, is given by (4, -1). The vector from point P to point S, denoted as **PS**, is given by (1, 5). Calculate the vector from point P to point R, denoted as **PR**.",
+      "options": [
+        "(3, -6)",
+        "(5, 4)",
+        "(5, -4)",
+        "(3, 6)"
+      ],
+      "correctAnswer": "(5, 4)",
+      "explanation": "1. In a parallelogram PQRS, the vector from P to R can be found by moving from P to Q and then from Q to R. So, we can write the vector addition as **PR** = **PQ** + **QR**.\n2. A fundamental property of a parallelogram is that opposite sides are parallel and equal in length. This means that the vector **QR** is equal to the vector **PS**.\n3. We are given the vectors: **PQ** = (4, -1) and **PS** = (1, 5).\n4. Substitute **PS** for **QR** in our vector addition equation: **PR** = **PQ** + **PS**.\n5. Now, add the corresponding components of the two vectors: **PR** = (4 + 1, -1 + 5).\n6. Adding the x-components: 4 + 1 = 5.\n7. Adding the y-components: -1 + 5 = 4.\n8. Therefore, the vector **PR** = (5, 4).",
+      "hint": "Recall the properties of a parallelogram, specifically which vectors are equal. Then, think about how to add vectors to find the resultant vector along a path.",
+      "generatedAt": "2026-04-30T19:15:58.504343"
+    },
+    {
+      "id": "m-y10-vectors_beginner_003",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Consider three distinct points, A, B, and C. \nThe vector from point A to point B is given by **AB** = (8, 3). \nThe vector from point A to point C is given by **AC** = (2, -5). \n\nDetermine the vector from point B to point C, denoted as **BC**.",
+      "options": [
+        "(10, -2)",
+        "(-6, -8)",
+        "(6, 8)",
+        "(-10, 2)"
+      ],
+      "correctAnswer": "(-6, -8)",
+      "explanation": "To find the vector from B to C (**BC**), we can use the vector triangle rule. The path from A to C can be expressed as going from A to B and then from B to C. \nThis can be written as the vector equation: **AB** + **BC** = **AC**.\n\nWe are given **AB** = (8, 3) and **AC** = (2, -5). We need to find **BC**.\nRearranging the equation to solve for **BC**:\n**BC** = **AC** - **AB**\n\nNow, substitute the given vectors into the equation:\n**BC** = (2, -5) - (8, 3)\n\nPerform the subtraction by subtracting the corresponding components:\nx-component: 2 - 8 = -6\ny-component: -5 - 3 = -8\n\nSo, the vector **BC** = (-6, -8).",
+      "hint": "Think about how you can express the journey from A to C using point B as an intermediate stop. Write this as a vector equation.",
+      "generatedAt": "2026-04-30T19:16:23.878392"
+    },
+    {
+      "id": "m-y10-vectors_beginner_004",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A delivery drone flies from point P to point Q with a displacement vector **PQ** = (5, 3). From point Q, it then flies to point R with a displacement vector **QR** = (-2, 4). Calculate the resultant displacement vector from point P to point R, **PR**.",
+      "options": [
+        "(3, 7)",
+        "(7, -1)",
+        "(3, -1)",
+        "(7, 7)"
+      ],
+      "correctAnswer": "(3, 7)",
+      "explanation": "To find the resultant displacement vector from point P to point R, **PR**, we add the individual displacement vectors from P to Q and from Q to R. This is represented by the vector equation: **PR** = **PQ** + **QR**.\nSubstitute the given vectors:\n**PR** = (5, 3) + (-2, 4)\nAdd the x-components together: 5 + (-2) = 3\nAdd the y-components together: 3 + 4 = 7\nTherefore, the resultant displacement vector **PR** = (3, 7).",
+      "hint": "To find the resultant vector from an initial point to a final point that passes through an intermediate point, you add the displacement vectors along the path.",
+      "generatedAt": "2026-04-30T19:16:32.880132"
+    },
+    {
+      "id": "m-y10-vectors_beginner_005",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Let vector **u** = (4, -1) and vector **v** = (2, 5).\n\nCalculate the vector 2**u** - **v**.",
+      "options": [
+        "(10, 3)",
+        "(6, -7)",
+        "(2, -7)",
+        "(6, -3)"
+      ],
+      "correctAnswer": "(6, -7)",
+      "explanation": "To calculate 2**u** - **v**:\n\nFirst, multiply vector **u** by the scalar 2:\n2**u** = 2 * (4, -1) = (2 * 4, 2 * -1) = (8, -2)\n\nNext, subtract vector **v** from the result:\n2**u** - **v** = (8, -2) - (2, 5)\n\nSubtract the corresponding components:\nX-component: 8 - 2 = 6\nY-component: -2 - 5 = -7\n\nSo, 2**u** - **v** = (6, -7).",
+      "hint": "Remember to multiply each component of vector **u** by 2 first, then subtract the corresponding components of vector **v**.",
+      "generatedAt": "2026-04-30T19:16:45.265159"
+    },
+    {
+      "id": "m-y10-vectors_beginner_006",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Points A, B, and C lie on a straight line in that order. The vector from point A to point B is represented by **AB** = **p**. If B is the midpoint of the line segment AC, what is the vector from point A to point C, **AC**, in terms of **p**?",
+      "options": [
+        "**p**",
+        "2**p**",
+        "-**p**",
+        "0"
+      ],
+      "correctAnswer": "2**p**",
+      "explanation": "1. Points A, B, and C are collinear, and B is the midpoint of the line segment AC.\n2. This means that the vector from A to B (**AB**) has the same magnitude and direction as the vector from B to C (**BC**).\n3. Therefore, **BC** = **AB**.\n4. We are given that **AB** = **p**. So, **BC** must also be **p**.\n5. To find the vector **AC**, we can use vector addition: **AC** = **AB** + **BC**.\n6. Substitute the known vectors: **AC** = **p** + **p**.\n7. Combining these, **AC** = 2**p**.",
+      "hint": "Think about the relationship between the vectors **AB** and **BC** when B is the midpoint of AC, and then how to combine them to get **AC**.",
+      "generatedAt": "2026-04-30T19:16:55.581735"
+    },
+    {
+      "id": "m-y10-vectors_beginner_007",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A particle moves from point X to point Y. The displacement vector for this movement is (3, -2). From point Y, the particle then moves to point Z. The displacement vector for this second movement is (-1, 5). Find the displacement vector from point X to point Z.",
+      "options": [
+        "(4, 3)",
+        "(2, 3)",
+        "(2, -7)",
+        "(4, -7)"
+      ],
+      "correctAnswer": "(2, 3)",
+      "explanation": "To find the displacement vector from point X to point Z, you need to add the displacement vector from X to Y and the displacement vector from Y to Z.\n\nVector from X to Y = (3, -2)\nVector from Y to Z = (-1, 5)\n\nVector from X to Z = Vector (X to Y) + Vector (Y to Z)\nVector from X to Z = (3 + (-1), -2 + 5)\nVector from X to Z = (3 - 1, -2 + 5)\nVector from X to Z = (2, 3)",
+      "hint": "Consider the path taken by the particle. To find the overall displacement from the start point to the end point, you need to sum the individual displacement vectors along the path.",
+      "generatedAt": "2026-04-30T19:17:05.384336"
+    },
+    {
+      "id": "m-y10-vectors_beginner_008",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A small remote-controlled car performs a sequence of movements. \nFirst, the car moves with a displacement represented by the vector (7, -1).\nSecond, the car then changes direction and moves with a displacement represented by the vector (-3, 6).\nCalculate the single resultant vector that describes the car's total displacement from its starting position to its final position. Show your working.",
+      "options": [],
+      "correctAnswer": "(4, 5)",
+      "explanation": "To find the total resultant displacement vector, you need to add the two individual displacement vectors together. You add the corresponding horizontal components and the corresponding vertical components separately.\n\nFirst displacement vector = (7, -1)\nSecond displacement vector = (-3, 6)\n\nResultant vector = (First displacement vector) + (Second displacement vector)\nResultant vector = (7 + (-3), -1 + 6)\nResultant vector = (7 - 3, -1 + 6)\nResultant vector = (4, 5)\n\nThe single resultant vector describing the car's total displacement is (4, 5).",
+      "hint": "To find the total displacement after two consecutive movements, you need to combine the individual displacement vectors. Think about what mathematical operation combines movements.",
+      "generatedAt": "2026-04-30T19:17:21.204364"
+    },
+    {
+      "id": "m-y10-vectors_beginner_009",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "In a parallelogram ABCD, the vector from point A to point B (**AB**) is (4, 1). The vector from point A to point D (**AD**) is (2, 5). Find the vector from point A to point C (**AC**).",
+      "options": [
+        "A. (6, 6)",
+        "B. (2, -4)",
+        "C. (-2, 4)",
+        "D. (4, 1)"
+      ],
+      "correctAnswer": "A. (6, 6)",
+      "explanation": "1. In a parallelogram ABCD, the vector representing the diagonal from A to C can be found by adding the vectors representing two adjacent sides starting from A.\n2. This means that vector **AC** is the sum of vector **AB** and vector **BC**.\n3. Since ABCD is a parallelogram, its opposite sides are equal in length and parallel. Therefore, the vector **BC** is equal to the vector **AD**.\n4. We can substitute **AD** for **BC** in our sum: **AC** = **AB** + **AD**.\n5. Substitute the given vector values: **AC** = (4, 1) + (2, 5).\n6. To add vectors, you add their corresponding components: **AC** = (4 + 2, 1 + 5).\n7. This results in **AC** = (6, 6).",
+      "hint": "Recall the properties of a parallelogram and how to find the resultant vector when moving from one point to another via an intermediate point.",
+      "generatedAt": "2026-04-30T19:17:34.085774"
+    },
+    {
+      "id": "m-y10-vectors_beginner_010",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Consider triangle PQR. The vector from point P to point Q is represented by **p**. The vector from point Q to point R is represented by **q**. Point M is the midpoint of the side PR. Express the vector from P to M (**PM**) in terms of **p** and **q**. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To express vector **PM** in terms of **p** and **q**, we follow these steps:\n\n1.  **Find the vector PR:**\n    The vector from P to R can be found by following the path from P to Q and then from Q to R. So, **PR** = **PQ** + **QR**.\n    Given **PQ** = **p** and **QR** = **q**, we have **PR** = **p** + **q**.\n\n2.  **Use the midpoint definition:**\n    Point M is the midpoint of the side PR. This means the vector from P to M is half of the vector from P to R.\n    So, **PM** = (1/2) **PR**.\n\n3.  **Substitute the expression for PR:**\n    Substitute **PR** = **p** + **q** into the equation for **PM**.\n    **PM** = (1/2)(**p** + **q**)\n\nTherefore, the vector **PM** in terms of **p** and **q** is (1/2)(**p** + **q**).",
+      "explanation": "To find the vector **PM**, we first need to determine the vector **PR** by adding the known vectors along the path from P to R (**PQ** + **QR**). Once **PR** is found, since M is the midpoint of PR, the vector **PM** will be half of **PR**. This combines vector addition and scalar multiplication (scaling) in a geometric context.",
+      "hint": "Consider the path from P to R first, then use the definition of a midpoint to find the vector to M.",
+      "generatedAt": "2026-04-30T19:17:47.783703"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y10-vectors_intermediate_001",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "In triangle ABC, the vector from A to B is **AB** = (6, -2) and the vector from A to C is **AC** = (2, 4). Point M is the midpoint of the line segment BC. Find the vector **AM**. Show your working.",
+      "options": [
+        "(8, 2)",
+        "(4, 1)",
+        "(2, 3)",
+        "(1, 5)"
+      ],
+      "correctAnswer": "(4, 1)",
+      "explanation": "1.  First, find the vector **BC**.\n    We can go from B to A and then from A to C. So, **BC** = **BA** + **AC**.\n    Since **AB** = (6, -2), then **BA** = -**AB** = -(6, -2) = (-6, 2).\n    **BC** = (-6, 2) + (2, 4) = (-6 + 2, 2 + 4) = (-4, 6).\n2.  Next, find the vector **BM**.\n    Since M is the midpoint of BC, the vector **BM** is half of the vector **BC**.\n    **BM** = (1/2) * **BC** = (1/2) * (-4, 6) = (-2, 3).\n3.  Finally, find the vector **AM**.\n    We can go from A to B and then from B to M. So, **AM** = **AB** + **BM**.\n    **AM** = (6, -2) + (-2, 3) = (6 - 2, -2 + 3) = (4, 1).\n    Therefore, the vector **AM** is (4, 1).",
+      "hint": "First, consider how to express vector **BC** using the given vectors. Then, think about what it means for M to be the midpoint of **BC**, and how you can combine vectors to get to M from A.",
+      "generatedAt": "2026-04-30T19:18:02.791062"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_002",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Points A, B and C have position vectors **a** = (4, -1), **b** = (10, 7) and **c** = (7, 3) respectively, relative to an origin O. \nPoint M is the midpoint of the line segment AB. \nPoint N is on the line segment BC such that the ratio of the length of BN to the length of NC is 1:2. \n\nFind the vector **MN**. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the vector **MN**, we first need to find the position vectors of M and N, denoted as **OM** and **ON** respectively.\n\n**Step 1: Find the position vector of M (**OM**)**\nM is the midpoint of AB. The position vector of the midpoint of a line segment joining two points with position vectors **x** and **y** is given by (1/2)(**x** + **y**).\n\n**OM** = (1/2)(**a** + **b**)\n**OM** = (1/2)((4, -1) + (10, 7))\n**OM** = (1/2)(4+10, -1+7)\n**OM** = (1/2)(14, 6)\n**OM** = (7, 3)\n\n**Step 2: Find the position vector of N (**ON**)**\nN is on the line segment BC such that BN:NC = 1:2. This means that **BN** is (1/3) of **BC**.\nFirst, find vector **BC**:\n**BC** = **c** - **b**\n**BC** = (7, 3) - (10, 7)\n**BC** = (7-10, 3-7)\n**BC** = (-3, -4)\n\nNow, find **BN**:\n**BN** = (1/3)**BC**\n**BN** = (1/3)(-3, -4)\n**BN** = (-1, -4/3)\n\nNext, find **ON** using **ON** = **OB** + **BN**:\n**ON** = (10, 7) + (-1, -4/3)\n**ON** = (10-1, 7 - 4/3)\n**ON** = (9, 21/3 - 4/3)\n**ON** = (9, 17/3)\n\n**Step 3: Find the vector **MN****\n**MN** = **ON** - **OM**\n**MN** = (9, 17/3) - (7, 3)\n**MN** = (9-7, 17/3 - 3)\n**MN** = (2, 17/3 - 9/3)\n**MN** = (2, 8/3)\n\nTherefore, the vector **MN** is (2, 8/3).",
+      "explanation": "To find the vector **MN**, we first need to find the position vectors of M and N, denoted as **OM** and **ON** respectively.\n\n**Step 1: Find the position vector of M (**OM**)**\nM is the midpoint of AB. The position vector of the midpoint of a line segment joining two points with position vectors **x** and **y** is given by (1/2)(**x** + **y**).\n\n**OM** = (1/2)(**a** + **b**)\n**OM** = (1/2)((4, -1) + (10, 7))\n**OM** = (1/2)(4+10, -1+7)\n**OM** = (1/2)(14, 6)\n**OM** = (7, 3)\n\n**Step 2: Find the position vector of N (**ON**)**\nN is on the line segment BC such that BN:NC = 1:2. This means that **BN** is (1/3) of **BC**.\nFirst, find vector **BC**:\n**BC** = **c** - **b**\n**BC** = (7, 3) - (10, 7)\n**BC** = (7-10, 3-7)\n**BC** = (-3, -4)\n\nNow, find **BN**:\n**BN** = (1/3)**BC**\n**BN** = (1/3)(-3, -4)\n**BN** = (-1, -4/3)\n\nNext, find **ON** using **ON** = **OB** + **BN**:\n**ON** = (10, 7) + (-1, -4/3)\n**ON** = (10-1, 7 - 4/3)\n**ON** = (9, 21/3 - 4/3)\n**ON** = (9, 17/3)\n\n**Step 3: Find the vector **MN****\n**MN** = **ON** - **OM**\n**MN** = (9, 17/3) - (7, 3)\n**MN** = (9-7, 17/3 - 3)\n**MN** = (2, 17/3 - 9/3)\n**MN** = (2, 8/3)\n\nTherefore, the vector **MN** is (2, 8/3).",
+      "hint": "To find the vector between two points P and Q, use the formula **PQ** = **OQ** - **OP**, where **OP** and **OQ** are the position vectors of P and Q respectively. Remember how to find the position vector of a midpoint and a point that divides a line segment in a given ratio.",
+      "generatedAt": "2026-04-30T19:18:20.832574"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_003",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Let O be the origin. Point P has position vector **p** = (2, 3). The vector from P to Q is **PQ** = (4, -1). The vector from P to S is **PS** = (-1, 5). Quadrilateral PQRS is a parallelogram. Point M lies on the diagonal PR such that the ratio of the length of segment PM to the length of segment MR is 1 : 2. Find the position vector of M. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the position vector of M, we first need to find the position vector of R.\nSince PQRS is a parallelogram, the vector from P to R is the sum of the vector from P to Q and the vector from P to S.\n**PR** = **PQ** + **PS**\n**PR** = (4, -1) + (-1, 5)\n**PR** = (4 - 1, -1 + 5)\n**PR** = (3, 4)\n\nNow, we find the position vector of R, denoted by **r**.\n**r** = **p** + **PR**\n**r** = (2, 3) + (3, 4)\n**r** = (2 + 3, 3 + 4)\n**r** = (5, 7)\n\nPoint M lies on PR such that PM : MR = 1 : 2. This means that vector **PM** is 1/3 of vector **PR**.\n**PM** = (1/3) **PR**\n**PM** = (1/3) * (3, 4)\n**PM** = (1, 4/3)\n\nFinally, to find the position vector of M, denoted by **m**.\n**m** = **p** + **PM**\n**m** = (2, 3) + (1, 4/3)\n**m** = (2 + 1, 3 + 4/3)\n**m** = (3, 9/3 + 4/3)\n**m** = (3, 13/3)\n\nThe position vector of M is (3, 13/3).",
+      "explanation": "The problem requires understanding of parallelogram properties to determine vector PR, and then using vector addition and scalar multiplication based on the given ratio to find the final position vector of M. The steps are: 1. Calculate **PR** using **PQ** and **PS**. 2. Use **p** and **PR** to find **r** (the position vector of R). 3. Calculate **PM** using the ratio 1:2 on **PR**. 4. Finally, calculate **m** using **p** and **PM**.",
+      "hint": "First, use the properties of a parallelogram to express vector **PR** in terms of **PQ** and **PS**. Then, use the given ratio to find the vector **PM** before calculating the position vector of M.",
+      "generatedAt": "2026-04-30T19:18:35.347384"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_004",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider a triangle PQR. The coordinates of the vertices are P(2, 5), Q(10, 1), and R(4, 9).\nPoint M is the midpoint of the side PR.\nPoint N is the midpoint of the side QR.\n\na) Find the vector **PM**. (3 marks)\nb) Show that the line segment MN is parallel to the line segment PQ. You must show your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) To find the vector **PM**:\nFirst, find the coordinates of M, the midpoint of PR.\nP = (2, 5)\nR = (4, 9)\nMidpoint M = ( (x₁+x₂)/2, (y₁+y₂)/2 )\nM = ( (2+4)/2, (5+9)/2 )\nM = (6/2, 14/2)\nM = (3, 7)\n\nNow, calculate the vector **PM** = M - P:\n**PM** = (3 - 2, 7 - 5)\n**PM** = (1, 2)\n\nb) To show that MN is parallel to PQ:\nFirst, calculate the vector **PQ**:\nP = (2, 5)\nQ = (10, 1)\n**PQ** = Q - P\n**PQ** = (10 - 2, 1 - 5)\n**PQ** = (8, -4)\n\nNext, find the coordinates of N, the midpoint of QR:\nQ = (10, 1)\nR = (4, 9)\nMidpoint N = ( (10+4)/2, (1+9)/2 )\nN = (14/2, 10/2)\nN = (7, 5)\n\nNow, calculate the vector **MN**:\nM = (3, 7) (from part a))\nN = (7, 5)\n**MN** = N - M\n**MN** = (7 - 3, 5 - 7)\n**MN** = (4, -2)\n\nFinally, compare vectors **MN** and **PQ**:\n**MN** = (4, -2)\n**PQ** = (8, -4)\n\nObserve the relationship between **PQ** and **MN**:\n**PQ** = (8, -4) = 2 * (4, -2) = 2 * **MN**\n\nSince **PQ** is a scalar multiple (2) of **MN**, the line segment MN is parallel to the line segment PQ.",
+      "explanation": "Part a) requires finding the midpoint coordinates using the midpoint formula, and then subtracting the initial point's coordinates from the midpoint's coordinates to find the vector. Part b) requires calculating two vectors: **PQ** and **MN**. To find **MN**, the coordinates of N (the midpoint of QR) must first be calculated. Once both vectors are found, their components are compared. If one vector is a constant scalar multiple of the other (e.g., **v1** = k * **v2**), then the vectors are parallel. In this case, **PQ** = 2 * **MN**, confirming parallelism.",
+      "hint": "For part b), calculate the vectors **PQ** and **MN** using the coordinates of their respective endpoints. Remember that two vectors are parallel if one can be expressed as a scalar multiple of the other.",
+      "generatedAt": "2026-04-30T19:18:57.814768"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_005",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "In triangle ABC, vector **AB** = **a** and vector **AC** = **b**. Point M is the midpoint of the side BC. Point N is on the side AC such that vector **AN** = (2/3) * vector **AC**. Find vector **MN** in terms of **a** and **b**. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find vector **MN**, we can use the path **MN** = **MA** + **AN**.\n\nStep 1: Express vector **BC** in terms of **a** and **b**.\n**BC** = **BA** + **AC**\n**BC** = -**a** + **b**\n\nStep 2: Express vector **AM** in terms of **a** and **b**.\nSince M is the midpoint of BC, **BM** = 0.5 * **BC**.\n**BM** = 0.5(-**a** + **b**)\n**AM** = **AB** + **BM**\n**AM** = **a** + 0.5(-**a** + **b**)\n**AM** = **a** - 0.5**a** + 0.5**b**\n**AM** = 0.5**a** + 0.5**b**\n\nStep 3: Express vector **AN** in terms of **a** and **b**.\nGiven that **AN** = (2/3) * **AC**.\n**AN** = (2/3)**b**\n\nStep 4: Express vector **MN** in terms of **a** and **b**.\n**MN** = **MA** + **AN**\n**MN** = -**AM** + **AN**\n**MN** = -(0.5**a** + 0.5**b**) + (2/3)**b**\n**MN** = -0.5**a** - 0.5**b** + (2/3)**b**\nCombine the **b** terms:\n**MN** = -0.5**a** + ((2/3) - 0.5)**b**\n**MN** = -0.5**a** + ((4/6) - (3/6))**b**\n**MN** = -0.5**a** + (1/6)**b**\n\nFinal Answer: **MN** = -0.5**a** + (1/6)**b**",
+      "explanation": "The problem requires finding a vector between two points M and N, which are defined relative to a triangle ABC. The key strategy is to find a path from M to N using known vectors and intermediate points (A). First, determine the vector **AM** using the fact that M is the midpoint of BC. This involves finding **BC** first, then **BM**, and finally **AM** by vector addition. Second, determine the vector **AN** using the given scalar multiplication property on **AC**. Finally, combine **MA** (which is -**AM**) and **AN** through vector addition to get **MN**, ensuring to simplify the coefficients of **a** and **b**.",
+      "hint": "Consider expressing vector **MN** as a sum of other vectors, for example, **MN** = **MA** + **AN**. Remember that **MA** = -**AM**. You will need to use properties of midpoints to find **AM** and scalar multiplication to find **AN**.",
+      "generatedAt": "2026-04-30T19:19:17.614889"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_006",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider a triangle ABC. The vector from A to B is **p**. The vector from A to C is **q**.\nPoint D lies on the line segment AB such that the ratio of the length AD to DB is 1 : 2.\nPoint E lies on the line segment AC such that the ratio of the length AE to EC is 1 : 2.\n\nShow, by using vector methods, that the line segment DE is parallel to the line segment BC.\nYou must show all your working.",
+      "options": [],
+      "correctAnswer": "To show that the line segment DE is parallel to the line segment BC, we must demonstrate that vector **DE** is a scalar multiple of vector **BC**.\n\n**Step 1: Express vector DE in terms of p and q.**\nPoint D lies on AB such that AD : DB = 1 : 2. This means that the line segment AB is divided into 3 equal parts, and AD is 1 of these parts.\nSo, vector **AD** = (1/3) * vector **AB** = (1/3)**p**.\n\nPoint E lies on AC such that AE : EC = 1 : 2. This means that the line segment AC is divided into 3 equal parts, and AE is 1 of these parts.\nSo, vector **AE** = (1/3) * vector **AC** = (1/3)**q**.\n\nNow, find vector **DE** using the path **DE** = **AE** - **AD**:\n**DE** = (1/3)**q** - (1/3)**p**\n**DE** = (1/3)(**q** - **p**)\n\n**Step 2: Express vector BC in terms of p and q.**\nTo go from B to C, we can go from B to A, then A to C.\n**BC** = **AC** - **AB**\n**BC** = **q** - **p**\n\n**Step 3: Compare DE and BC.**\nFrom Step 1, we have **DE** = (1/3)(**q** - **p**).\nFrom Step 2, we have **BC** = **q** - **p**.\n\nTherefore, **DE** = (1/3)**BC**.\n\nSince vector **DE** is a scalar multiple (1/3) of vector **BC**, and they are distinct line segments (sharing no common point), the line segment DE is parallel to the line segment BC.",
+      "explanation": "The solution first uses the given ratios to express vectors **AD** and **AE** in terms of **p** and **q**. Then, it finds vector **DE** by subtracting **AD** from **AE**. Subsequently, it finds vector **BC** by subtracting **AB** from **AC**. Finally, by comparing the expressions for **DE** and **BC**, it shows that **DE** is a scalar multiple of **BC**, which proves they are parallel.",
+      "hint": "Start by expressing the vectors for **AD** and **AE** using the given ratios. Then, use these to find vector **DE**. Separately, find vector **BC** using the given base vectors. Compare your expressions for **DE** and **BC**.",
+      "generatedAt": "2026-04-30T19:20:07.600013"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_007",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider a quadrilateral ABCD. The vector from A to B is given by **AB** = (8, 2). The vector from B to C is given by **BC** = (4, -6). The vector from C to D is given by **CD** = (-6, 3).\n\nPoint M is the midpoint of the line segment AB.\nPoint N is the midpoint of the line segment CD.\n\nFind the vector **MN**. Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "To find the vector **MN**, we can determine a path from M to N using the given vectors. One possible path is **MN** = **MB** + **BC** + **CN**.\n\n**Step 1: Calculate the vector MB.**\nSince M is the midpoint of the line segment AB, the vector **MB** is half of the vector **AB**.\n**MB** = (1/2) * **AB**\n**MB** = (1/2) * (8, 2)\n**MB** = (4, 1)\n\n**Step 2: Calculate the vector CN.**\nSince N is the midpoint of the line segment CD, the vector **CN** is half of the vector **CD**.\n**CN** = (1/2) * **CD**\n**CN** = (1/2) * (-6, 3)\n**CN** = (-3, 1.5)\n\n**Step 3: Add the vectors along the chosen path.**\nNow, substitute the calculated vectors into the path equation:\n**MN** = **MB** + **BC** + **CN**\n**MN** = (4, 1) + (4, -6) + (-3, 1.5)\n\nPerform the vector addition by adding the x-components and y-components separately:\nX-component: 4 + 4 - 3 = 5\nY-component: 1 - 6 + 1.5 = -3.5\n\nTherefore, the vector **MN** is (5, -3.5).",
+      "explanation": "This problem requires combining two core vector concepts: scaling vectors and vector addition. Students must first recognize that a midpoint implies scaling the full vector by 1/2. They then need to construct a path from point M to point N using the given vectors, for instance, by going from M to B, then B to C, and finally C to N. Each step in this path (MB, BC, CN) is either directly given or can be derived by scaling. Summing these component vectors algebraically (adding x-components and y-components) yields the final resultant vector **MN**.",
+      "hint": "Remember that a vector representing the midpoint of a line segment is half the vector of the full segment. Consider constructing a path from M to N using the known vectors and their properties, such as starting from M, going to B, then to C, and finally to N.",
+      "generatedAt": "2026-04-30T19:20:50.275158"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_008",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider two points, P and Q. The vector from P to Q is given by **PQ** = (6, -2).\nPoint R is located such that the vector from P to R, **PR**, is half the length of **PQ** and in the same direction.\nPoint S is located such that the vector from Q to S, **QS**, is equal to the vector **PR**.\n\nWork out the vector from P to S, denoted as **PS**. Show your working clearly.",
+      "options": [
+        "(9, -3)",
+        "(3, -1)",
+        "(12, -4)",
+        "(0, 0)"
+      ],
+      "correctAnswer": "(9, -3)",
+      "explanation": "1.  First, find the vector **PR**.\n    The problem states that **PR** is half the length of **PQ** and in the same direction. This means we scale **PQ** by a factor of 1/2.\n    **PR** = (1/2) * **PQ**\n    **PR** = (1/2) * (6, -2)\n    **PR** = (1/2 * 6, 1/2 * -2)\n    **PR** = (3, -1)\n\n2.  Next, determine the vector **QS**.\n    The problem states that **QS** is equal to **PR**.\n    So, **QS** = (3, -1)\n\n3.  Finally, find the vector **PS**.\n    To go from P to S, we can take the path from P to Q, and then from Q to S. This means we add the vectors **PQ** and **QS**.\n    **PS** = **PQ** + **QS**\n    **PS** = (6, -2) + (3, -1)\n    **PS** = (6 + 3, -2 + (-1))\n    **PS** = (9, -3)\n\nTherefore, the vector from P to S is (9, -3).",
+      "hint": "To find a vector representing a path between two points, you can often break it down into a sum of intermediate vectors. Also, remember how to scale a vector by a numerical factor.",
+      "generatedAt": "2026-04-30T19:21:04.016513"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_009",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider three distinct points P, Q, and R in a plane.\nThe vector from point P to point Q is given by **PQ** = (4, -2).\nThe vector from point Q to point R is given by **QR** = (-6, 3).\n\nShow, with full working, that points P, Q, and R are collinear. (4 marks)",
+      "options": [],
+      "correctAnswer": "To show that points P, Q, and R are collinear, we need to demonstrate that the vectors **PQ** and **QR** are parallel and share a common point.\n\nStep 1: Check if **PQ** is a scalar multiple of **QR**.\nLet's assume **PQ** = k * **QR** for some scalar k.\n(4, -2) = k * (-6, 3)\n\nComparing the x-components:\n4 = -6k\nk = 4 / -6\nk = -2/3\n\nComparing the y-components:\n-2 = 3k\nk = -2 / 3\n\nSince both x and y components give the same scalar value k = -2/3, the vector **PQ** is a scalar multiple of **QR**.\nSpecifically, **PQ** = (-2/3) * **QR**.\n\nStep 2: Conclude collinearity.\nBecause **PQ** is a scalar multiple of **QR**, this means the vectors **PQ** and **QR** are parallel. Since both vectors originate from or terminate at the common point Q, this implies that points P, Q, and R all lie on the same straight line.\n\nTherefore, points P, Q, and R are collinear.",
+      "explanation": "The core concept for proving collinearity using vectors is to show that two vectors sharing a common point are parallel. This means one vector must be a scalar multiple of the other. The steps involve setting up an equation to find this scalar (k) for both components of the vectors. If a consistent scalar is found, the vectors are parallel. Since they share point Q, this confirms the points lie on the same line.",
+      "hint": "To prove collinearity of points P, Q, and R, you need to show that the vector **PQ** is a scalar multiple of the vector **QR**. Remember to check if the same scalar applies to both the x and y components.",
+      "generatedAt": "2026-04-30T19:21:20.914000"
+    },
+    {
+      "id": "m-y10-vectors_intermediate_010",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Consider three points A, B, and C. The vector from A to B is given by **AB** = (5, -1). The vector from B to C is given by **BC** = (2, 7). Point M lies on the line segment AC such that the ratio of the length AM to MC is 3:1. A fourth point D is such that the vector from B to D is **BD** = (1, 4). Calculate the vector **MD**. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Working required:\n\n**Step 1: Find the vector AC.**\nTo find **AC**, we can use the path from A to B then B to C:\n**AC** = **AB** + **BC**\n**AC** = (5, -1) + (2, 7)\n**AC** = (5 + 2, -1 + 7)\n**AC** = (7, 6)\n\n**Step 2: Find the vector AM.**\nPoint M divides the line segment AC such that AM : MC = 3 : 1. This means that **AM** is 3/4 of the vector **AC**.\n**AM** = (3 / (3+1)) * **AC**\n**AM** = (3/4) * (7, 6)\n**AM** = ( (3/4) * 7, (3/4) * 6 )\n**AM** = (21/4, 18/4)\n**AM** = (5.25, 4.5)\n\n**Step 3: Find the vector MB.**\nTo find **MB**, we can use the path from M to A, then A to B, or more directly: **MB** = **AB** - **AM**.\n**MB** = (5, -1) - (5.25, 4.5)\n**MB** = (5 - 5.25, -1 - 4.5)\n**MB** = (-0.25, -5.5)\n\n**Step 4: Find the vector MD.**\nTo find **MD**, we can use the path from M to B, then B to D:\n**MD** = **MB** + **BD**\n**MD** = (-0.25, -5.5) + (1, 4)\n**MD** = (-0.25 + 1, -5.5 + 4)\n**MD** = (0.75, -1.5)\n\nFinal Answer: **MD** = (0.75, -1.5)",
+      "explanation": "The solution involves a sequence of vector operations. First, the vector **AC** is found by summing **AB** and **BC**. Next, the vector **AM** is determined by scaling **AC** according to the given ratio AM:MC. Then, the vector **MB** is calculated using the relationship **MB** = **AB** - **AM**. Finally, **MD** is found by adding **MB** and **BD**.",
+      "hint": "Consider how to find vector **AC** first, then how to use the given ratio to find **AM**. After that, think about paths to get from M to D using the vectors you've found and **BD**.",
+      "generatedAt": "2026-04-30T19:21:42.050838"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y10-vectors_advanced_001",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Let O be the origin. The vertices of a quadrilateral ABCD have position vectors relative to O as follows:\nA has position vector `3i - 2j`.\nB has position vector `7i + 4j`.\nC has position vector `5i + 8j`.\nD has position vector `i + 2j`.\n\nLet P, Q, R, and S be the midpoints of the sides AB, BC, CD, and DA respectively.\n\nUsing vector methods, prove that the quadrilateral PQRS is a parallelogram. Show all your working.",
+      "options": [],
+      "correctAnswer": "To prove that PQRS is a parallelogram, we need to show that one pair of opposite sides are parallel and equal in length. For example, we can show that vector PQ is equal to vector SR.\n\n1.  **Determine the position vectors of the midpoints:**\n    Let O be the origin.\n    `OA = (3, -2)`\n    `OB = (7, 4)`\n    `OC = (5, 8)`\n    `OD = (1, 2)`\n\n    *   **Midpoint P of AB:**\n        `OP = (OA + OB) / 2 = ((3i - 2j) + (7i + 4j)) / 2`\n        `OP = (10i + 2j) / 2 = 5i + j`\n\n    *   **Midpoint Q of BC:**\n        `OQ = (OB + OC) / 2 = ((7i + 4j) + (5i + 8j)) / 2`\n        `OQ = (12i + 12j) / 2 = 6i + 6j`\n\n    *   **Midpoint R of CD:**\n        `OR = (OC + OD) / 2 = ((5i + 8j) + (i + 2j)) / 2`\n        `OR = (6i + 10j) / 2 = 3i + 5j`\n\n    *   **Midpoint S of DA:**\n        `OS = (OD + OA) / 2 = ((i + 2j) + (3i - 2j)) / 2`\n        `OS = (4i + 0j) / 2 = 2i`\n\n2.  **Determine the displacement vectors for the sides of PQRS:**\n\n    *   **Vector PQ:**\n        `PQ = OQ - OP = (6i + 6j) - (5i + j)`\n        `PQ = (6-5)i + (6-1)j = i + 5j`\n\n    *   **Vector SR:**\n        `SR = OR - OS = (3i + 5j) - (2i)`\n        `SR = (3-2)i + 5j = i + 5j`\n\n    (For completeness, you could also find the other pair of opposite sides):\n\n    *   **Vector PS:**\n        `PS = OS - OP = (2i) - (5i + j)`\n        `PS = (2-5)i - j = -3i - j`\n\n    *   **Vector QR:**\n        `QR = OR - OQ = (3i + 5j) - (6i + 6j)`\n        `QR = (3-6)i + (5-6)j = -3i - j`\n\n3.  **Conclusion:**\n    Since `PQ = i + 5j` and `SR = i + 5j`, it follows that `PQ = SR`.\n    This demonstrates that the side PQ is parallel to the side SR and they have equal magnitudes. \n    (Similarly, since `PS = -3i - j` and `QR = -3i - j`, we have `PS = QR`).\n    As one pair of opposite sides (or both pairs) are equal and parallel, the quadrilateral PQRS is a parallelogram.",
+      "explanation": "This is an open-ended question that requires a full proof. The provided 'correctAnswer' contains the complete step-by-step working and explanation to demonstrate that PQRS is a parallelogram by showing that its opposite sides are equal and parallel using vector calculations for midpoints and displacement vectors.",
+      "hint": "To prove that a quadrilateral is a parallelogram using vectors, you can show that one pair of opposite sides are represented by the same vector (i.e., they are parallel and have equal length). Start by finding the position vectors of the midpoints using the formula `(A+B)/2`, and then use these to find the displacement vectors for the sides of PQRS (e.g., `PQ = OQ - OP`).",
+      "generatedAt": "2026-04-30T19:22:00.971888"
+    },
+    {
+      "id": "m-y10-vectors_advanced_002",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A quadrilateral ABCD is defined by the following vectors relating its vertices:\nVector AB = 3**i** + 2**j**\nVector BC = -**i** + 5**j**\nVector CD = 4**i** - **j**\n\nPoints P, Q, R, and S are the midpoints of the sides AB, BC, CD, and DA respectively.\n\nShow, using vector methods, that PQRS is a parallelogram. (Working is required for this question)",
+      "options": [],
+      "correctAnswer": "To show that PQRS is a parallelogram, we need to prove that opposite sides are parallel and equal in length, which means showing that vector PQ = vector SR and vector PS = vector QR.\n\nFirst, let's find the necessary diagonal vectors of the quadrilateral ABCD:\n\n1.  **Vector AC** (diagonal from A to C):\n    AC = AB + BC\n    AC = (3**i** + 2**j**) + (-**i** + 5**j**)\n    AC = (3 - 1)**i** + (2 + 5)**j**\n    AC = 2**i** + 7**j**\n\n2.  **Vector AD** (from A to D):\n    AD = AB + BC + CD\n    AD = (3**i** + 2**j**) + (-**i** + 5**j**) + (4**i** - **j**)\n    AD = (3 - 1 + 4)**i** + (2 + 5 - 1)**j**\n    AD = 6**i** + 6**j**\n\n3.  **Vector BD** (diagonal from B to D):\n    BD = BC + CD\n    BD = (-**i** + 5**j**) + (4**i** - **j**)\n    BD = (-1 + 4)**i** + (5 - 1)**j**\n    BD = 3**i** + 4**j**\n\nNow we find the vectors representing the sides of the quadrilateral PQRS:\n\n**For PQ:**\nP is the midpoint of AB, so PB = (1/2)AB.\nQ is the midpoint of BC, so BQ = (1/2)BC.\nPQ = PB + BQ = (1/2)AB + (1/2)BC = (1/2)(AB + BC) = (1/2)AC\nPQ = (1/2)(2**i** + 7**j**) = **i** + (7/2)**j**\n\n**For SR:**\nS is the midpoint of DA, so SD = (1/2)AD.\nR is the midpoint of CD, so DR = (1/2)DC. (Note: DC = -CD)\nSR = SD + DR = (1/2)AD + (1/2)DC\nSR = (1/2)(6**i** + 6**j**) + (1/2)(-(4**i** - **j**))\nSR = (1/2)(6**i** + 6**j**) + (1/2)(-4**i** + **j**)\nSR = 3**i** + 3**j** - 2**i** + (1/2)**j**\nSR = (3 - 2)**i** + (3 + 1/2)**j**\nSR = **i** + (7/2)**j**\n\nSince PQ = **i** + (7/2)**j** and SR = **i** + (7/2)**j**, we have **PQ = SR**. This shows that PQ is parallel to SR and they have the same magnitude.\n\n**For PS:**\nP is the midpoint of AB, so PA = (1/2)BA = -(1/2)AB.\nS is the midpoint of AD, so AS = (1/2)AD.\nPS = PA + AS = -(1/2)AB + (1/2)AD\nPS = -(1/2)(3**i** + 2**j**) + (1/2)(6**i** + 6**j**)\nPS = -(3/2)**i** - **j** + 3**i** + 3**j**\nPS = (3 - 3/2)**i** + (3 - 1)**j**\nPS = (3/2)**i** + 2**j**\n\n**For QR:**\nQ is the midpoint of BC, so QC = (1/2)BC.\nR is the midpoint of CD, so CR = (1/2)CD.\nQR = QC + CR = (1/2)BC + (1/2)CD = (1/2)(BC + CD) = (1/2)BD\nQR = (1/2)(3**i** + 4**j**)\nQR = (3/2)**i** + 2**j**\n\nSince PS = (3/2)**i** + 2**j** and QR = (3/2)**i** + 2**j**, we have **PS = QR**. This shows that PS is parallel to QR and they have the same magnitude.\n\n**Conclusion:**\nBecause opposite sides PQ and SR are equal as vectors (PQ = SR), and opposite sides PS and QR are equal as vectors (PS = QR), the quadrilateral PQRS has two pairs of parallel and equal opposite sides. Therefore, PQRS is a parallelogram.",
+      "explanation": "The full working and explanation are provided in the 'correctAnswer' field as this is an open-ended question.",
+      "hint": "To show PQRS is a parallelogram, you need to prove that opposite sides are equal and parallel. This can be done by showing that vector PQ = vector SR and vector PS = vector QR. Remember that a vector representing the line segment connecting the midpoints of two sides of a triangle is half the length of and parallel to the third side. Apply this principle by considering diagonals of the quadrilateral ABCD.",
+      "generatedAt": "2026-04-30T19:22:31.157386"
+    },
+    {
+      "id": "m-y10-vectors_advanced_003",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A quadrilateral PQRS is described by the following vectors relating its vertices: \n`vector PQ = 3i + 4j` \n`vector QR = i - 2j` \n`vector RS = -5i - j` \n\nM is the midpoint of the side PS. \nN is the midpoint of the side QR. \n\nCalculate `vector MN` in terms of `i` and `j`. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Determine `vector SP`.\nSince PQRS is a closed quadrilateral, the sum of the vectors forming its perimeter is zero:\n`vector PQ + vector QR + vector RS + vector SP = 0`\nSubstitute the given vectors:\n`(3i + 4j) + (i - 2j) + (-5i - j) + vector SP = 0`\nCombine the i and j components:\n`(3 + 1 - 5)i + (4 - 2 - 1)j + vector SP = 0`\n`-i + j + vector SP = 0`\nTherefore, `vector SP = i - j`.\n\nStep 2: Express `vector MN` using a path.\nOne possible path is `vector MN = vector MP + vector PQ + vector QN`.\n\nStep 3: Determine `vector MP` and `vector QN`.\nM is the midpoint of PS.\nSo, `vector PM = 0.5 * vector PS`.\nWe know `vector SP = i - j`, so `vector PS = -vector SP = -(i - j) = -i + j`.\nThus, `vector PM = 0.5 * (-i + j) = -0.5i + 0.5j`.\nThen, `vector MP = -vector PM = -(-0.5i + 0.5j) = 0.5i - 0.5j`.\n\nN is the midpoint of QR.\nSo, `vector QN = 0.5 * vector QR`.\nWe are given `vector QR = i - 2j`.\nThus, `vector QN = 0.5 * (i - 2j) = 0.5i - j`.\n\nStep 4: Substitute and calculate `vector MN`.\nUsing `vector MN = vector MP + vector PQ + vector QN`:\n`vector MN = (0.5i - 0.5j) + (3i + 4j) + (0.5i - j)`\nCombine the i components: `0.5 + 3 + 0.5 = 4`\nCombine the j components: `-0.5 + 4 - 1 = 2.5`\nTherefore, `vector MN = 4i + 2.5j`.",
+      "explanation": "The solution involves several steps of vector manipulation. First, we use the property that the sum of vectors forming a closed loop (a quadrilateral in this case) is the zero vector to find the unknown side vector `SP`. Next, we use the midpoint property to express `vector MP` and `vector QN` as scalar multiples (half) of the respective side vectors (`PS` and `QR`). Finally, we construct a path from M to N using known vectors (`MP`, `PQ`, `QN`) and sum them component-wise to find `vector MN`.",
+      "hint": "Start by finding `vector SP` using the property that the sum of vectors around a closed polygon is zero. Then, express `vector MN` as a path, for example, `vector MN = vector MP + vector PQ + vector QN`, and use the midpoint property for `vector MP` and `vector QN`.",
+      "generatedAt": "2026-04-30T19:22:56.790837"
+    },
+    {
+      "id": "m-y10-vectors_advanced_004",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "In triangle ABC, let vector **AB** be denoted by **p** and vector **AC** be denoted by **q**. \nPoint D lies on the line segment AB such that the ratio AD:DB is 1:2. \nPoint E lies on the line segment AC such that the ratio AE:EC is 3:1. \nPoint F lies on the line BC extended such that D, E, and F are collinear. \nGiven that vector **BF** = k * vector **BC**, where k is a scalar. \nFind the exact value of k. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To solve this problem, we first express the vectors **AD** and **AE** in terms of **p** and **q** based on the given ratios:\n\n1.  **Expressing AD and AE:**\n    Since D lies on AB such that AD:DB = 1:2, then AD is 1 part out of 1+2=3 parts of AB.\n    **AD** = (1/3)**AB** = (1/3)**p**\n\n    Since E lies on AC such that AE:EC = 3:1, then AE is 3 parts out of 3+1=4 parts of AC.\n    **AE** = (3/4)**AC** = (3/4)**q**\n\n2.  **Expressing vector DE:**\n    Using the triangle law for vectors, **DE** = **AE** - **AD**.\n    **DE** = (3/4)**q** - (1/3)**p**\n\n3.  **Expressing vector DF:**\n    First, we need to express **BC** in terms of **p** and **q**:\n    **BC** = **AC** - **AB** = **q** - **p**\n\n    We are given **BF** = k**BC**, so:\n    **BF** = k(**q** - **p**)\n\n    Now, we can find **AF** using **AF** = **AB** + **BF**:\n    **AF** = **p** + k(**q** - **p**)\n    **AF** = **p** + k**q** - k**p**\n    **AF** = (1 - k)**p** + k**q**\n\n    Finally, we find **DF** using **DF** = **AF** - **AD**:\n    **DF** = ((1 - k)**p** + k**q**) - (1/3)**p**\n    **DF** = (1 - k - 1/3)**p** + k**q**\n    **DF** = (2/3 - k)**p** + k**q**\n\n4.  **Using the collinearity condition:**\n    Since points D, E, and F are collinear, vector **DF** must be a scalar multiple of vector **DE**. Let **DF** = m**DE** for some scalar m.\n    (2/3 - k)**p** + k**q** = m((3/4)**q** - (1/3)**p**)\n    (2/3 - k)**p** + k**q** = (-m/3)**p** + (3m/4)**q**\n\n5.  **Equating coefficients:**\n    Since **p** and **q** are non-parallel vectors (sides of a triangle), their coefficients must be equal on both sides of the equation:\n    For **p**:  2/3 - k = -m/3  (Equation 1)\n    For **q**:  k = 3m/4         (Equation 2)\n\n6.  **Solving the simultaneous equations:**\n    Substitute Equation 2 into Equation 1:\n    2/3 - (3m/4) = -m/3\n\n    To eliminate fractions, multiply the entire equation by the lowest common multiple of the denominators (3, 4, 3), which is 12:\n    12 * (2/3) - 12 * (3m/4) = 12 * (-m/3)\n    8 - 9m = -4m\n\n    Add 9m to both sides:\n    8 = 9m - 4m\n    8 = 5m\n    m = 8/5\n\n    Now substitute the value of m back into Equation 2 to find k:\n    k = 3 * (8/5) / 4\n    k = (24/5) / 4\n    k = 24 / (5 * 4)\n    k = 24 / 20\n    k = 6/5\n\nThe exact value of k is 6/5.",
+      "explanation": "The problem requires combining vector addition, subtraction, and scalar multiplication with the geometric concept of collinearity. The main steps are:\n\n1.  **Define component vectors:** Express vectors from a common point (e.g., A) to the defined points (D, E, F) in terms of the given basis vectors (**p** and **q**). This involves using the given ratios to scale the basis vectors.\n    *   **AD** is (1/3)**p** because AD:DB = 1:2 means AD is 1/3 of AB.\n    *   **AE** is (3/4)**q** because AE:EC = 3:1 means AE is 3/4 of AC.\n    *   **BC** is **q** - **p** (using triangle law).\n    *   **BF** is k(**q** - **p**) as given.\n    *   **AF** is **AB** + **BF** = **p** + k(**q** - **p**).\n\n2.  **Form vectors between points of interest:** To test for collinearity of D, E, F, we need to express two vectors that share a common point, for example, **DE** and **DF**, in terms of **p** and **q**.\n    *   **DE** = **AE** - **AD**\n    *   **DF** = **AF** - **AD**\n\n3.  **Apply the collinearity condition:** If three points D, E, F are collinear, then the vector **DF** must be a scalar multiple of **DE** (i.e., **DF** = m**DE** for some scalar m). This is the key condition for proving collinearity.\n\n4.  **Equate coefficients:** Substitute the expressions for **DE** and **DF** into the collinearity equation. Since **p** and **q** are non-parallel vectors (sides of a triangle), their corresponding coefficients on both sides of the equation must be equal. This will yield two simultaneous equations involving k and m.\n\n5.  **Solve simultaneous equations:** Solve the system of two equations to find the values of k and m. The value of k is the required answer. The fact that k > 1 (specifically k=6/5) indicates that F lies on the line BC but outside the segment BC, specifically beyond C (if B is to the left of C).",
+      "hint": "To prove collinearity of points D, E, and F, express vector **DE** and vector **DF** in terms of **p** and **q**. If D, E, F are collinear, then one vector must be a scalar multiple of the other, for example, **DF** = m**DE**. Then, equate the coefficients of **p** and **q** to form simultaneous equations.",
+      "generatedAt": "2026-04-30T19:23:26.142722"
+    },
+    {
+      "id": "m-y10-vectors_advanced_005",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Consider a triangle ABC. The vector from point A to point B is (3, 6). The vector from point A to point C is (9, 3). Point P lies on the side AB such that the ratio AP : PB is 2 : 1. Point Q lies on the side AC such that the ratio AQ : QC is 1 : 2. The line segment BQ intersects the line segment CP at point R. Find the vector **AR** in component form. Show all your working.",
+      "options": [],
+      "correctAnswer": "The vector **AR** is (3, 27/7).\n\n**Step-by-step working:**\n1.  **Define vectors AP and AQ:**\n    Since P divides AB in the ratio 2:1, **AP** = (2/3)**AB**.\n    **AP** = (2/3) * (3, 6) = (2, 4).\n    Since Q divides AC in the ratio 1:2, **AQ** = (1/3)**AC**.\n    **AQ** = (1/3) * (9, 3) = (3, 1).\n\n2.  **Express the line segment BQ in vector form:**\n    Any point R on BQ can be expressed as **AR** = (1 - λ)**AB** + λ**AQ** for some scalar λ.\n    **AR** = (1 - λ)(3, 6) + λ(3, 1)\n    **AR** = (3 - 3λ, 6 - 6λ) + (3λ, λ)\n    **AR** = (3 - 3λ + 3λ, 6 - 6λ + λ)\n    **AR** = (3, 6 - 5λ)  (Equation 1)\n\n3.  **Express the line segment CP in vector form:**\n    Any point R on CP can be expressed as **AR** = (1 - μ)**AC** + μ**AP** for some scalar μ.\n    **AR** = (1 - μ)(9, 3) + μ(2, 4)\n    **AR** = (9 - 9μ, 3 - 3μ) + (2μ, 4μ)\n    **AR** = (9 - 9μ + 2μ, 3 - 3μ + 4μ)\n    **AR** = (9 - 7μ, 3 + μ)  (Equation 2)\n\n4.  **Equate the components of Equation 1 and Equation 2 to find λ and μ:**\n    Comparing the x-components:\n    3 = 9 - 7μ\n    7μ = 9 - 3\n    7μ = 6\n    μ = 6/7\n\n    Comparing the y-components:\n    6 - 5λ = 3 + μ\n    Substitute μ = 6/7 into the y-component equation:\n    6 - 5λ = 3 + 6/7\n    6 - 5λ = 21/7 + 6/7\n    6 - 5λ = 27/7\n    5λ = 6 - 27/7\n    5λ = 42/7 - 27/7\n    5λ = 15/7\n    λ = (15/7) / 5\n    λ = 3/7\n\n5.  **Substitute the value of λ (or μ) back into the vector expression for AR:**\n    Using Equation 1 with λ = 3/7:\n    **AR** = (3, 6 - 5 * (3/7))\n    **AR** = (3, 6 - 15/7)\n    **AR** = (3, 42/7 - 15/7)\n    **AR** = (3, 27/7)\n\n    (Alternatively, using Equation 2 with μ = 6/7:\n    **AR** = (9 - 7 * (6/7), 3 + 6/7)\n    **AR** = (9 - 6, 21/7 + 6/7)\n    **AR** = (3, 27/7))\n\nTherefore, the vector **AR** is (3, 27/7).",
+      "explanation": "This problem requires setting up vector equations for two intersecting line segments. First, use the given ratios to find the vectors to points P and Q relative to A. Then, express the general vector to a point R on each line segment (BQ and CP) using a parameter (λ and μ). Equating the components of these two vector expressions allows you to solve for the parameters. Finally, substitute the found parameter back into either vector equation to determine the specific components of R.",
+      "hint": "To find the intersection point R, express the vector **AR** in two different ways using parameters for each line segment (BQ and CP). Then, equate the corresponding components to form simultaneous equations for the parameters.",
+      "generatedAt": "2026-04-30T19:24:00.798289"
+    },
+    {
+      "id": "m-y10-vectors_advanced_006",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Consider three points in a plane, O, A, and C, and a fourth point B. The displacement vector from O to A is given by **OA** = (6, 2). The displacement vector from A to B is given by **AB** = (2, 4). The displacement vector from O to C is given by **OC** = (10, -2).\n\nA point P lies on the line segment AB such that the ratio of the length AP to the length PB is 1:3.\nA point Q lies on the line segment OC such that the ratio of the length OQ to the length QC is 3:2.\n\nCalculate the vector **PQ**. Show all your working.",
+      "options": [],
+      "correctAnswer": "To calculate the vector **PQ**, we first need to find the position vectors of P and Q relative to O.\n\n**1. Find the position vector of P relative to O, **OP**:**\nPoint P divides the line segment AB in the ratio 1:3. This means that **AP** is 1/(1+3) = 1/4 of the vector **AB**.\n**AP** = (1/4)**AB**\n**AP** = (1/4)(2, 4)\n**AP** = (0.5, 1)\n\nNow, we can find **OP** using vector addition:\n**OP** = **OA** + **AP**\n**OP** = (6, 2) + (0.5, 1)\n**OP** = (6.5, 3)\n\n**2. Find the position vector of Q relative to O, **OQ**:**\nPoint Q divides the line segment OC in the ratio 3:2. This means that **OQ** is 3/(3+2) = 3/5 of the vector **OC**.\n**OQ** = (3/5)**OC**\n**OQ** = (3/5)(10, -2)\n**OQ** = ( (3/5) * 10, (3/5) * -2 )\n**OQ** = (6, -6/5)\n**OQ** = (6, -1.2)\n\n**3. Find the vector **PQ**:**\nThe vector **PQ** can be found by subtracting the position vector of P from the position vector of Q:\n**PQ** = **OQ** - **OP**\n**PQ** = (6, -1.2) - (6.5, 3)\n**PQ** = (6 - 6.5, -1.2 - 3)\n**PQ** = (-0.5, -4.2)\n\nTherefore, the vector **PQ** is (-0.5, -4.2).",
+      "explanation": "The full working is provided in the `correctAnswer` field as per the instructions for open-ended questions.",
+      "hint": "To find the position vector of a point that divides a line segment in a given ratio, remember that if a point R divides a line segment ST in the ratio m:n, then **OR** = (n/(m+n))**OS** + (m/(m+n))**OT**, or more simply for a point *on* a vector **AB**, if AP:PB = m:n, then **AP** = (m/(m+n))**AB**. Once you have the position vectors for P and Q, the vector **PQ** can be found by subtracting the position vector of P from the position vector of Q.",
+      "generatedAt": "2026-04-30T19:24:21.660250"
+    },
+    {
+      "id": "m-y10-vectors_advanced_007",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "In a two-dimensional plane, O is the origin (0,0). Consider a quadrilateral OABC. The position vectors of the vertices are given as:\n\n**OA** = (4, 2)\n**OB** = (10, 4)\n**OC** = (2, 8)\n\nLet P be the midpoint of OA.\nLet Q be the midpoint of AB.\nLet R be the midpoint of BC.\nLet S be the midpoint of OC.\n\nProve, using vectors, that the quadrilateral PQRS is a parallelogram. Show all your working.",
+      "options": [],
+      "correctAnswer": "To prove that PQRS is a parallelogram, we need to show that one pair of opposite sides are parallel and equal in length (i.e., their vectors are equal), or that both pairs of opposite sides are parallel and equal in length.\n\nLet **a**, **b**, **c** be the position vectors of A, B, C respectively, from the origin O. So, **OA** = **a**, **OB** = **b**, **OC** = **c**.\n\n1.  **Express the position vectors of P, Q, R, S:**\n    *   Since P is the midpoint of OA: **OP** = (1/2)**OA** = (1/2)**a**.\n    *   Since Q is the midpoint of AB: **OQ** = **OA** + (1/2)**AB** = **a** + (1/2)(**b** - **a**) = (1/2)**a** + (1/2)**b**.\n    *   Since R is the midpoint of BC: **OR** = **OB** + (1/2)**BC** = **b** + (1/2)(**c** - **b**) = (1/2)**b** + (1/2)**c**.\n    *   Since S is the midpoint of OC: **OS** = (1/2)**OC** = (1/2)**c**.\n\n2.  **Find the vector for side PQ:**\n    **PQ** = **OQ** - **OP**\n    **PQ** = ((1/2)**a** + (1/2)**b**) - (1/2)**a**\n    **PQ** = (1/2)**b**.\n\n3.  **Find the vector for side SR (opposite to PQ):**\n    **SR** = **OR** - **OS**\n    **SR** = ((1/2)**b** + (1/2)**c**) - (1/2)**c**\n    **SR** = (1/2)**b**.\n\n    Since **PQ** = **SR** (both are equal to (1/2)**b**), the sides PQ and SR are parallel and have the same length.\n\n4.  **Find the vector for side PS:**\n    **PS** = **OS** - **OP**\n    **PS** = (1/2)**c** - (1/2)**a**\n    **PS** = (1/2)(**c** - **a**).\n\n5.  **Find the vector for side QR (opposite to PS):**\n    **QR** = **OR** - **OQ**\n    **QR** = ((1/2)**b** + (1/2)**c**) - ((1/2)**a** + (1/2)**b**)\n    **QR** = (1/2)**b** + (1/2)**c** - (1/2)**a** - (1/2)**b**\n    **QR** = (1/2)**c** - (1/2)**a**\n    **QR** = (1/2)(**c** - **a**).\n\n    Since **PS** = **QR** (both are equal to (1/2)(**c** - **a**)), the sides PS and QR are parallel and have the same length.\n\n**Conclusion:**\nBecause both pairs of opposite sides (**PQ** and **SR**, and **PS** and **QR**) are parallel and equal in length, the quadrilateral PQRS is a parallelogram.\n\n*(Numerical verification with the given vectors, although not strictly part of the proof, can confirm the result):\n**a** = (4, 2), **b** = (10, 4), **c** = (2, 8)\n**OP** = (2, 1)\n**OQ** = (1/2)(4+10, 2+4) = (7, 3)\n**OR** = (1/2)(10+2, 4+8) = (6, 6)\n**OS** = (1, 4)\n\n**PQ** = (7-2, 3-1) = (5, 2)\n(1/2)**b** = (1/2)(10, 4) = (5, 2). Matches.\n\n**SR** = (6-1, 6-4) = (5, 2). Matches.\n\n**PS** = (1-2, 4-1) = (-1, 3)\n(1/2)(**c** - **a**) = (1/2)((2, 8) - (4, 2)) = (1/2)(-2, 6) = (-1, 3). Matches.\n\n**QR** = (6-7, 6-3) = (-1, 3). Matches.*",
+      "explanation": "To prove that PQRS is a parallelogram, we need to show that its opposite sides are represented by equal vectors. This implies they are parallel and have the same length. The solution involves expressing the position vectors of the midpoints P, Q, R, and S in terms of the position vectors of A, B, and C (or **a**, **b**, **c**). Then, vector subtraction is used to find the vectors representing the sides of the quadrilateral PQRS. By showing that **PQ** = **SR** and **PS** = **QR**, we satisfy the conditions for PQRS being a parallelogram.",
+      "hint": "Recall how to express the position vector of a midpoint of a line segment. Then, use vector subtraction to find vectors representing the sides of the quadrilateral PQRS. To prove a quadrilateral is a parallelogram using vectors, show that its opposite sides have equal vectors.",
+      "generatedAt": "2026-04-30T19:26:36.310099"
+    },
+    {
+      "id": "m-y10-vectors_advanced_008",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Given a triangle ABC. Let the vector from point A to point B be represented by **u** and the vector from point A to point C be represented by **v**. \n\nPoint D lies on the line segment BC such that the ratio of the length BD to the length DC is 1:2. \n\nPoint E is the midpoint of the line segment AC. \n\nPoint F lies on the line segment AD such that the ratio of the length AF to the length FD is 3:1. \n\nShow, using vector methods, that points B, F, and E are collinear. You must show all your working.",
+      "options": [],
+      "correctAnswer": "To show that points B, F, and E are collinear, we need to show that vector **BF** is a scalar multiple of vector **FE** (or **BE** is a scalar multiple of **BF**), and that they share a common point (F in this case). \n\nLet A be the origin for our position vectors. So, **AB** = **u** and **AC** = **v**.\n\n1.  **Find vector AD:**\n    Point D divides BC in the ratio 1:2 (BD:DC = 1:2). Using the section formula, the position vector of D relative to A is:\n    **AD** = (2 * **AB** + 1 * **AC**) / (1 + 2)\n    **AD** = (2**u** + 1**v**) / 3\n    **AD** = (2/3)**u** + (1/3)**v**\n\n2.  **Find vector AE:**\n    Point E is the midpoint of AC. Therefore:\n    **AE** = (1/2)**AC**\n    **AE** = (1/2)**v**\n\n3.  **Find vector AF:**\n    Point F lies on AD such that AF:FD = 3:1. Therefore:\n    **AF** = (3/4)**AD**\n    Substitute the expression for **AD**:\n    **AF** = (3/4) * ((2/3)**u** + (1/3)**v**)\n    **AF** = (3/4 * 2/3)**u** + (3/4 * 1/3)**v**\n    **AF** = (6/12)**u** + (3/12)**v**\n    **AF** = (1/2)**u** + (1/4)**v**\n\n4.  **Find vector BF:**\n    **BF** = **AF** - **AB**\n    **BF** = ((1/2)**u** + (1/4)**v**) - **u**\n    **BF** = (1/2 - 1)**u** + (1/4)**v**\n    **BF** = -(1/2)**u** + (1/4)**v**\n\n5.  **Find vector FE:**\n    **FE** = **AE** - **AF**\n    **FE** = (1/2)**v** - ((1/2)**u** + (1/4)**v**)\n    **FE** = -(1/2)**u** + (1/2 - 1/4)**v**\n    **FE** = -(1/2)**u** + (1/4)**v**\n\n6.  **Compare BF and FE:**\n    We have **BF** = -(1/2)**u** + (1/4)**v** and **FE** = -(1/2)**u** + (1/4)**v**.\n    Therefore, **BF** = **FE**.\n\nSince **BF** is equal to **FE**, they are parallel vectors. As they share a common point F, points B, F, and E must be collinear.",
+      "explanation": "The solution proceeds by first defining the position vectors of points D, E, and F relative to point A (as an implied origin). \n\n1.  **Vector AD**: Point D divides the line segment BC in a given ratio. The position vector for D is found using the section formula, which weights the position vectors of B and C according to the ratio (BD:DC = 1:2 implies D is (2*B + 1*C)/3 from A). \n2.  **Vector AE**: E is the midpoint of AC, so its position vector is simply half of **AC**. \n3.  **Vector AF**: F divides the line segment AD in a given ratio. Its position vector is found by scaling **AD** by the appropriate fraction. \n4.  **Vector BF**: To determine collinearity with B, F, and E, we need vectors that share a common point. **BF** is calculated using the triangle law of vector addition/subtraction (**BF** = **AF** - **AB**).\n5.  **Vector FE**: Similarly, **FE** is calculated using **FE** = **AE** - **AF**.\n6.  **Collinearity Proof**: Finally, by comparing the expressions for **BF** and **FE**, it is found that **BF** = **FE**. This means the vectors have the same direction and magnitude. Since they share point F, points B, F, and E must lie on the same straight line, hence they are collinear.",
+      "hint": "Start by expressing the position vectors of points D, E, and F relative to point A. Remember to use the section formula for points dividing a line segment in a given ratio to find **AD** and **AF**. Then, calculate two vectors that share a common point from the set {B, F, E}, such as **BF** and **FE**, and show one is a scalar multiple of the other.",
+      "generatedAt": "2026-04-30T19:29:10.385781"
+    },
+    {
+      "id": "m-y10-vectors_advanced_009",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Consider a quadrilateral ABCD in a coordinate plane. The position vector of point A is given by \u001b[1m\u001ba\u001b[0m = (2, 1), the position vector of point B is given by \u001b[1m\u001bb\u001b[0m = (8, 3), the position vector of point C is given by \u001b[1m\u001bc\u001b[0m = (10, 7), and the position vector of point D is given by \u001b[1m\u001bd\u001b[0m = (4, 5).\n\nPoint P is the midpoint of the side AB.\nPoint Q is the midpoint of the side BC.\nPoint R is the midpoint of the side CD.\nPoint S is the midpoint of the side DA.\n\nProve, showing full working, that the quadrilateral PQRS is a parallelogram.",
+      "options": [],
+      "correctAnswer": "To prove that PQRS is a parallelogram, we need to show that one pair of opposite sides are parallel and equal in length (i.e., their vectors are equal) OR that both pairs of opposite sides are parallel and equal in length.\n\nFirst, find the position vectors of the midpoints P, Q, R, and S:\n\n1.  **Position vector of P (midpoint of AB):**\n    \u001b[1m\u001bp\u001b[0m = (\u001b[1m\u001ba\u001b[0m + \u001b[1m\u001bb\u001b[0m) / 2 = ((2, 1) + (8, 3)) / 2 = (10, 4) / 2 = (5, 2)\n\n2.  **Position vector of Q (midpoint of BC):**\n    \u001b[1m\u001bq\u001b[0m = (\u001b[1m\u001bb\u001b[0m + \u001b[1m\u001bc\u001b[0m) / 2 = ((8, 3) + (10, 7)) / 2 = (18, 10) / 2 = (9, 5)\n\n3.  **Position vector of R (midpoint of CD):**\n    \u001b[1m\u001br\u001b[0m = (\u001b[1m\u001bc\u001b[0m + \u001b[1m\u001bd\u001b[0m) / 2 = ((10, 7) + (4, 5)) / 2 = (14, 12) / 2 = (7, 6)\n\n4.  **Position vector of S (midpoint of DA):**\n    \u001b[1m\u001bs\u001b[0m = (\u001b[1m\u001bd\u001b[0m + \u001b[1m\u001ba\u001b[0m) / 2 = ((4, 5) + (2, 1)) / 2 = (6, 6) / 2 = (3, 3)\n\nNext, find the vectors representing two opposite sides, for example, \u001b[1m\u001bPQ\u001b[0m and \u001b[1m\u001bSR\u001b[0m.\n\n1.  **Vector \u001b[1m\u001bPQ\u001b[0m:**\n    \u001b[1m\u001bPQ\u001b[0m = \u001b[1m\u001bq\u001b[0m - \u001b[1m\u001bp\u001b[0m = (9, 5) - (5, 2) = (9 - 5, 5 - 2) = (4, 3)\n\n2.  **Vector \u001b[1m\u001bSR\u001b[0m:**\n    \u001b[1m\u001bSR\u001b[0m = \u001b[1m\u001br\u001b[0m - \u001b[1m\u001bs\u001b[0m = (7, 6) - (3, 3) = (7 - 3, 6 - 3) = (4, 3)\n\nSince \u001b[1m\u001bPQ\u001b[0m = \u001b[1m\u001bSR\u001b[0m, the side PQ is parallel to SR and they have the same length.\n\nTo be thorough, let's also check the other pair of opposite sides, \u001b[1m\u001bPS\u001b[0m and \u001b[1m\u001bQR\u001b[0m.\n\n1.  **Vector \u001b[1m\u001bPS\u001b[0m:**\n    \u001b[1m\u001bPS\u001b[0m = \u001b[1m\u001bs\u001b[0m - \u001b[1m\u001bp\u001b[0m = (3, 3) - (5, 2) = (3 - 5, 3 - 2) = (-2, 1)\n\n2.  **Vector \u001b[1m\u001bQR\u001b[0m:**\n    \u001b[1m\u001bQR\u001b[0m = \u001b[1m\u001br\u001b[0m - \u001b[1m\u001bq\u001b[0m = (7, 6) - (9, 5) = (7 - 9, 6 - 5) = (-2, 1)\n\nSince \u001b[1m\u001bPS\u001b[0m = \u001b[1m\u001bQR\u001b[0m, the side PS is parallel to QR and they have the same length.\n\n**Conclusion:**\nBecause both pairs of opposite sides are parallel and equal in length (\u001b[1m\u001bPQ\u001b[0m = \u001b[1m\u001bSR\u001b[0m and \u001b[1m\u001bPS\u001b[0m = \u001b[1m\u001bQR\u001b[0m), the quadrilateral PQRS is a parallelogram.",
+      "explanation": "To prove that PQRS is a parallelogram using vectors, we need to demonstrate that one pair of opposite sides are represented by the same vector (meaning they are parallel and have equal length). Alternatively, we can show that both pairs of opposite sides are parallel and equal in length.\n\n1.  **Calculate the position vectors of the midpoints (P, Q, R, S).** The position vector of a midpoint of a line segment between two points with position vectors \u001b[1m\u001ba\u001b[0m and \u001b[1m\u001bb\u001b[0m is given by (\u001b[1m\u001ba\u001b[0m + \u001b[1m\u001bb\u001b[0m) / 2.\n    *   P = ((\u001b[1m\u001ba\u001b[0m + \u001b[1m\u001bb\u001b[0m) / 2) = (5, 2)\n    *   Q = ((\u001b[1m\u001bb\u001b[0m + \u001b[1m\u001bc\u001b[0m) / 2) = (9, 5)\n    *   R = ((\u001b[1m\u001bc\u001b[0m + \u001b[1m\u001bd\u001b[0m) / 2) = (7, 6)\n    *   S = ((\u001b[1m\u001bd\u001b[0m + \u001b[1m\u001ba\u001b[0m) / 2) = (3, 3)\n\n2.  **Calculate the vectors representing opposite sides.** A vector from point X to point Y is given by \u001b[1m\u001bXY\u001b[0m = \u001b[1m\u001by\u001b[0m - \u001b[1m\u001bx\u001b[0m (where \u001b[1m\u001bx\u001b[0m and \u001b[1m\u001by\u001b[0m are the position vectors of X and Y).\n    *   \u001b[1m\u001bPQ\u001b[0m = \u001b[1m\u001bq\u001b[0m - \u001b[1m\u001bp\u001b[0m = (9, 5) - (5, 2) = (4, 3)\n    *   \u001b[1m\u001bSR\u001b[0m = \u001b[1m\u001br\u001b[0m - \u001b[1m\u001bs\u001b[0m = (7, 6) - (3, 3) = (4, 3)\n    Since \u001b[1m\u001bPQ\u001b[0m = \u001b[1m\u001bSR\u001b[0m, the sides PQ and SR are parallel and have the same length. This is sufficient to prove it's a parallelogram, but checking the other pair provides extra confirmation.\n\n    *   \u001b[1m\u001bPS\u001b[0m = \u001b[1m\u001bs\u001b[0m - \u001b[1m\u001bp\u001b[0m = (3, 3) - (5, 2) = (-2, 1)\n    *   \u001b[1m\u001bQR\u001b[0m = \u001b[1m\u001br\u001b[0m - \u001b[1m\u001bq\u001b[0m = (7, 6) - (9, 5) = (-2, 1)\n    Since \u001b[1m\u001bPS\u001b[0m = \u001b[1m\u001bQR\u001b[0m, the sides PS and QR are parallel and have the same length.\n\n3.  **Conclude.** As both pairs of opposite sides (\u001b[1m\u001bPQ\u001b[0m and \u001b[1m\u001bSR\u001b[0m; \u001b[1m\u001bPS\u001b[0m and \u001b[1m\u001bQR\u001b[0m) are represented by identical vectors, they are parallel and equal in length. Therefore, by definition, the quadrilateral PQRS is a parallelogram.",
+      "hint": "Recall that the position vector of the midpoint M of a line segment AB is given by (\u001b[1m\u001ba\u001b[0m + \u001b[1m\u001bb\u001b[0m)/2. Also, a vector representing the displacement from point X to point Y is given by \u001b[1m\u001bXY\u001b[0m = \u001b[1m\u001by\u001b[0m - \u001b[1m\u001bx\u001b[0m. To prove a quadrilateral is a parallelogram using vectors, show that one pair of opposite sides are represented by the same vector.",
+      "generatedAt": "2026-04-30T19:30:43.887258"
+    },
+    {
+      "id": "m-y10-vectors_advanced_010",
+      "topicId": "m-y10-vectors",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "In a two-dimensional plane, O represents the origin. The position vector of point A relative to O is `vec(OA) = (3, 2)`. The position vector of point B relative to O is `vec(OB) = (9, 6)`. The position vector of point C relative to O is `vec(OC) = (4, 8)`.\n\nPoint M is the midpoint of the line segment OA.\nPoint N lies on the line segment AB such that the ratio of the length of AN to NB is 1:2.\n\nProve, using vectors, that the line segment MN is parallel to the line segment OB. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "To prove that line segment MN is parallel to line segment OB, we need to show that vector `vec(MN)` is a scalar multiple of vector `vec(OB)`.\n\n1.  **Find the position vector of M, `vec(OM)`:**\n    Since M is the midpoint of OA:\n    `vec(OM)` = (1/2) * `vec(OA)`\n    `vec(OM)` = (1/2) * (3, 2)\n    `vec(OM)` = (3/2, 1)\n\n2.  **Find the position vector of N, `vec(ON)`:**\n    N lies on AB such that AN:NB = 1:2. Using the section formula:\n    `vec(ON)` = (2 * `vec(OA)` + 1 * `vec(OB)`) / (1 + 2)\n    `vec(ON)` = (2 * (3, 2) + 1 * (9, 6)) / 3\n    `vec(ON)` = ((6, 4) + (9, 6)) / 3\n    `vec(ON)` = (15, 10) / 3\n    `vec(ON)` = (5, 10/3)\n\n3.  **Find the vector `vec(MN)`:**\n    `vec(MN)` = `vec(ON)` - `vec(OM)`\n    `vec(MN)` = (5, 10/3) - (3/2, 1)\n    `vec(MN)` = (5 - 3/2, 10/3 - 1)\n    `vec(MN)` = (10/2 - 3/2, 10/3 - 3/3)\n    `vec(MN)` = (7/2, 7/3)\n\n4.  **Compare `vec(MN)` with `vec(OB)`:**\n    We are given `vec(OB)` = (9, 6).\n    For `vec(MN)` to be parallel to `vec(OB)`, we need to find a scalar `k` such that `vec(MN)` = `k` * `vec(OB)`.\n    (7/2, 7/3) = `k` * (9, 6)\n\n    Comparing the x-components:\n    7/2 = 9`k`\n    `k` = (7/2) / 9\n    `k` = 7/18\n\n    Comparing the y-components:\n    7/3 = 6`k`\n    `k` = (7/3) / 6\n    `k` = 7/18\n\n    Since the value of `k` is consistent (`k` = 7/18) for both components, `vec(MN)` is a scalar multiple of `vec(OB)`.\n\n**Conclusion:**\nTherefore, the line segment MN is parallel to the line segment OB.",
+      "explanation": "The problem requires demonstrating that two line segments are parallel using vector methods. This involves several steps: first, calculating the position vector of M, which is the midpoint of OA, using the midpoint formula. Second, calculating the position vector of N, which divides AB in a given ratio, using the section formula. Third, finding the vector `vec(MN)` by subtracting the position vector of M from the position vector of N. Finally, to prove parallelism, it is necessary to show that `vec(MN)` is a scalar multiple of `vec(OB)`. If a consistent scalar `k` can be found such that `vec(MN) = k * vec(OB)`, then the lines are parallel.",
+      "hint": "Begin by determining the position vectors for M and N relative to the origin O. Remember that the midpoint formula can be used for M, and the section formula (or ratio division) can be used for N. Once you have `vec(OM)` and `vec(ON)`, calculate `vec(MN)`. To prove parallelism, check if `vec(MN)` is a scalar multiple of `vec(OB)`.",
+      "generatedAt": "2026-04-30T19:31:13.809592"
+    }
+  ]
+}

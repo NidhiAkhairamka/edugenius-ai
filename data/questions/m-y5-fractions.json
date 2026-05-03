@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-fractions_beginner_001",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the sum of 1/3 and 1/6.",
+      "options": [
+        "1/3",
+        "2/9",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "To add fractions with different denominators, first find a common denominator. The least common multiple of 3 and 6 is 6.\n1.  Convert 1/3 to an equivalent fraction with a denominator of 6: 1/3 = (1 * 2) / (3 * 2) = 2/6.\n2.  Now add the fractions: 2/6 + 1/6.\n3.  Add the numerators and keep the common denominator: (2 + 1) / 6 = 3/6.\n4.  Simplify the fraction 3/6 by dividing both the numerator and denominator by their greatest common divisor, which is 3: 3 ÷ 3 = 1, 6 ÷ 3 = 2.\n5.  So, 3/6 simplifies to 1/2.",
+      "hint": "First, find a common denominator for both fractions before you add them.",
+      "generatedAt": "2026-04-29T09:34:15.896218"
+    },
+    {
+      "id": "m-y5-fractions_beginner_002",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Sarah pours 1/4 litre of juice into a jug. She then adds another 1/2 litre of water to the same jug. What is the total volume of liquid in the jug?",
+      "options": [
+        "A. 1/8 litre",
+        "B. 2/4 litre",
+        "C. 3/4 litre",
+        "D. 1 litre"
+      ],
+      "correctAnswer": "C. 3/4 litre",
+      "explanation": "1. To find the total volume, we need to add the volume of juice and the volume of water: 1/4 litre + 1/2 litre.\n2. The fractions have different denominators. To add them, we must find a common denominator. The smallest common multiple of 4 and 2 is 4.\n3. Convert 1/2 to an equivalent fraction with a denominator of 4. Since 2 multiplied by 2 is 4, we multiply the numerator (1) by 2 as well: 1/2 = (1 × 2) / (2 × 2) = 2/4.\n4. Now, add the fractions with the same denominator: 1/4 + 2/4 = (1 + 2) / 4 = 3/4.\n5. Therefore, the total volume of liquid in the jug is 3/4 litre.",
+      "hint": "To add fractions with different denominators, first find a common denominator for both fractions.",
+      "generatedAt": "2026-04-29T09:34:28.226175"
+    },
+    {
+      "id": "m-y5-fractions_beginner_003",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of these fractions has the greatest value?",
+      "options": [
+        "A) 1/2",
+        "B) 3/4",
+        "C) 2/5",
+        "D) They all have the same value."
+      ],
+      "correctAnswer": "B) 3/4",
+      "explanation": "To compare fractions with different denominators, we need to find a common denominator for all of them.\nThe denominators are 2, 4, and 5.\nThe lowest common multiple (LCM) of 2, 4, and 5 is 20.\n\nNow, convert each fraction to an equivalent fraction with a denominator of 20:\n\nFor 1/2:\nMultiply the numerator and denominator by 10 to get 20 in the denominator:\n1/2 = (1 × 10) / (2 × 10) = 10/20\n\nFor 3/4:\nMultiply the numerator and denominator by 5 to get 20 in the denominator:\n3/4 = (3 × 5) / (4 × 5) = 15/20\n\nFor 2/5:\nMultiply the numerator and denominator by 4 to get 20 in the denominator:\n2/5 = (2 × 4) / (5 × 4) = 8/20\n\nNow we compare the equivalent fractions: 10/20, 15/20, and 8/20.\nWhen fractions have the same denominator, the one with the largest numerator has the greatest value.\n15 is the largest numerator among 10, 15, and 8.\nSo, 15/20 is the greatest fraction.\n\nTherefore, 3/4 has the greatest value.",
+      "hint": "To compare fractions with different denominators, find a common denominator for all of them first.",
+      "generatedAt": "2026-04-29T09:34:42.046427"
+    },
+    {
+      "id": "m-y5-fractions_beginner_004",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of these numbers has the smallest value?",
+      "options": [
+        "3/4",
+        "0.2",
+        "1/2",
+        "0.6"
+      ],
+      "correctAnswer": "0.2",
+      "explanation": "To compare these numbers accurately, it's best to convert them all into the same format, either all decimals or all fractions with a common denominator. Converting to decimals is often straightforward for these numbers:\n\n1.  **3/4** as a decimal is 0.75 (because 3 ÷ 4 = 0.75).\n2.  **0.2** is already a decimal.\n3.  **1/2** as a decimal is 0.5 (because 1 ÷ 2 = 0.5).\n4.  **0.6** is already a decimal.\n\nNow we compare the decimal values: 0.75, 0.2, 0.5, and 0.6.\n\nArranging them from smallest to largest:\n0.2 (which is 0.20)\n0.5 (which is 0.50)\n0.6 (which is 0.60)\n0.75\n\nThe smallest value among these is 0.2.",
+      "hint": "To compare different types of numbers (fractions and decimals), it is often easiest to convert them all into the same type, such as all decimals, before making a comparison.",
+      "generatedAt": "2026-04-29T09:34:52.854664"
+    },
+    {
+      "id": "m-y5-fractions_beginner_005",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Jamie is baking a cake and measures two amounts of milk. The first amount is 1/2 litre and the second amount is 1/8 litre. Later, Jamie finds a different recipe that requires 3/4 litre of milk in total. Which of the following accurately compares the total milk needed for Jamie's cake to the milk needed for the different recipe?",
+      "options": [
+        "A) Jamie's total milk is greater than 3/4 litre.",
+        "B) Jamie's total milk is equal to 3/4 litre.",
+        "C) Jamie's total milk is less than 3/4 litre.",
+        "D) Jamie's total milk is exactly 1 litre."
+      ],
+      "correctAnswer": "C) Jamie's total milk is less than 3/4 litre.",
+      "explanation": "First, calculate the total amount of milk Jamie needs for the cake by adding the two amounts:\n1/2 + 1/8\n\nTo add these fractions, find a common denominator. The smallest common multiple of 2 and 8 is 8.\nConvert 1/2 to eighths: 1/2 = 4/8.\nNow add: 4/8 + 1/8 = 5/8 litre.\n\nNext, compare Jamie's total milk (5/8 litre) with the milk needed for the different recipe (3/4 litre).\nTo compare these fractions, find a common denominator. The smallest common multiple of 8 and 4 is 8.\nConvert 3/4 to eighths: 3/4 = 6/8.\n\nNow compare 5/8 and 6/8.\nSince 5 is less than 6, 5/8 is less than 6/8.\nTherefore, Jamie's total milk (5/8 litre) is less than the 3/4 litre needed for the different recipe.",
+      "hint": "First, add the two amounts of milk Jamie needs for the cake. Then, convert all fractions to a common denominator to compare the total amounts.",
+      "generatedAt": "2026-04-29T09:35:10.512522"
+    },
+    {
+      "id": "m-y5-fractions_beginner_006",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following statements correctly compares a fraction and a decimal?",
+      "options": [
+        "A) 1/2 is smaller than 0.4",
+        "B) 3/4 is equal to 0.75",
+        "C) 1/5 is larger than 0.3",
+        "D) 1/4 is equal to 0.4"
+      ],
+      "correctAnswer": "B) 3/4 is equal to 0.75",
+      "explanation": "To correctly compare fractions and decimals, it's easiest to convert them into the same format. Let's convert all the fractions into decimals:\n\n*   1/2 = 0.5\n*   3/4 = 0.75\n*   1/5 = 0.2\n*   1/4 = 0.25\n\nNow, let's check each statement:\n\n*   **A) 1/2 is smaller than 0.4**\n    *   This means 0.5 is smaller than 0.4. This is **False** because 0.5 is larger than 0.4.\n*   **B) 3/4 is equal to 0.75**\n    *   This means 0.75 is equal to 0.75. This is **True**.\n*   **C) 1/5 is larger than 0.3**\n    *   This means 0.2 is larger than 0.3. This is **False** because 0.2 is smaller than 0.3.\n*   **D) 1/4 is equal to 0.4**\n    *   This means 0.25 is equal to 0.4. This is **False** because 0.25 is not equal to 0.4.\n\nThe only statement that is correct is B.",
+      "hint": "Convert all fractions to decimals, or all decimals to fractions, to make the comparison easier.",
+      "generatedAt": "2026-04-29T09:35:27.792481"
+    },
+    {
+      "id": "m-y5-fractions_beginner_007",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the sum of 1/3 and 1/6.",
+      "options": [
+        "1/2",
+        "2/9",
+        "2/3",
+        "1/9"
+      ],
+      "correctAnswer": "1/2",
+      "explanation": "To add fractions with different denominators, first find a common denominator. For 1/3 and 1/6, the smallest common denominator is 6. \nConvert 1/3 to an equivalent fraction with a denominator of 6: Multiply both the numerator and the denominator by 2. So, 1/3 becomes (1 × 2) / (3 × 2) = 2/6.\nNow, add the fractions: 2/6 + 1/6 = 3/6.\nFinally, simplify the result: 3/6 can be simplified by dividing both the numerator and the denominator by 3. This gives 3 ÷ 3 / 6 ÷ 3 = 1/2.",
+      "hint": "Remember to find a common denominator before you can add fractions with different denominators.",
+      "generatedAt": "2026-04-29T09:35:39.766067"
+    },
+    {
+      "id": "m-y5-fractions_beginner_008",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Put the following numbers in order, starting with the smallest:\n0.4, 1/2, 3/10",
+      "options": [
+        "A) 1/2, 0.4, 3/10",
+        "B) 3/10, 0.4, 1/2",
+        "C) 0.4, 3/10, 1/2",
+        "D) 1/2, 3/10, 0.4"
+      ],
+      "correctAnswer": "B) 3/10, 0.4, 1/2",
+      "explanation": "To compare and order these numbers, it is easiest to convert them all to the same format, either all fractions with a common denominator or all decimals. Let's convert them all to decimals:\n\n1.  The first number is already a decimal: 0.4\n2.  Convert 1/2 to a decimal: 1 divided by 2 is 0.5\n3.  Convert 3/10 to a decimal: 3 divided by 10 is 0.3\n\nNow we have the numbers as: 0.4, 0.5, 0.3\n\nTo put them in order from smallest to largest, we look at the decimal values:\n0.3 (which is 3/10)\n0.4\n0.5 (which is 1/2)\n\nSo the correct order, using the original numbers, is 3/10, 0.4, 1/2.",
+      "hint": "Convert all the numbers to the same format (either all decimals or all fractions with a common denominator) before comparing them to find the smallest and largest.",
+      "generatedAt": "2026-04-29T09:35:54.458937"
+    },
+    {
+      "id": "m-y5-fractions_beginner_009",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Olivia ate 1/3 of a pizza. Ben ate 1/6 of the same pizza. What fraction of the pizza did Olivia and Ben eat altogether?",
+      "options": [
+        "A) 2/9",
+        "B) 1/2",
+        "C) 2/3",
+        "D) 1/6"
+      ],
+      "correctAnswer": "B) 1/2",
+      "explanation": "To find the total fraction of pizza eaten, we need to add the fractions Olivia and Ben ate:\n1/3 + 1/6\n\nFirst, find a common denominator for both fractions. The lowest common multiple of 3 and 6 is 6.\n\nConvert 1/3 to an equivalent fraction with a denominator of 6:\nMultiply both the numerator and denominator by 2:\n1/3 = (1 × 2) / (3 × 2) = 2/6\n\nNow add the fractions with the same denominator:\n2/6 + 1/6 = (2 + 1) / 6 = 3/6\n\nFinally, simplify the fraction:\n3/6 = 1/2\n\nSo, Olivia and Ben ate 1/2 of the pizza altogether.",
+      "hint": "Before adding fractions with different denominators, you need to find a common denominator.",
+      "generatedAt": "2026-04-29T09:36:05.733020"
+    },
+    {
+      "id": "m-y5-fractions_beginner_010",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What is the total sum when you add 1/2, 0.25, and 1 together?",
+      "options": [
+        "A) 1 and 3/4",
+        "B) 3/4",
+        "C) 1 and 1/2",
+        "D) 1 and 1/4"
+      ],
+      "correctAnswer": "A) 1 and 3/4",
+      "explanation": "To find the total sum, convert all numbers to a common format, either fractions with a common denominator or decimals.\n\nMethod 1: Convert to fractions\n1. Convert 0.25 to a fraction: 0.25 = 25/100 = 1/4.\n2. Now the numbers are: 1/2, 1/4, and 1.\n3. Find a common denominator for 1/2 and 1/4, which is 4. So, 1/2 becomes 2/4.\n4. Add the fractions and the whole number: 2/4 + 1/4 + 1.\n5. Add the fractional parts: 2/4 + 1/4 = 3/4.\n6. Add the whole number: 1 + 3/4 = 1 and 3/4.\n\nMethod 2: Convert to decimals\n1. Convert 1/2 to a decimal: 1/2 = 0.5.\n2. Now the numbers are: 0.5, 0.25, and 1.\n3. Add the decimals: 0.5 + 0.25 + 1 = 1.75.\n4. Convert the decimal 1.75 back to a mixed number: 1.75 = 1 and 75/100 = 1 and 3/4.\n\nBoth methods give the answer 1 and 3/4.",
+      "hint": "Convert all numbers into either fractions with a common denominator or decimals before adding them.",
+      "generatedAt": "2026-04-29T09:36:26.661793"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-fractions_intermediate_001",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student has a reading list for their English class. They read 1/3 of the list on Saturday and 2/9 of the list on Sunday. On Monday, they read an additional 1/6 of the list. What fraction of the reading list is still unread? Show your working.",
+      "options": [
+        "13/18",
+        "7/18",
+        "5/18",
+        "1/6"
+      ],
+      "correctAnswer": "5/18",
+      "explanation": "Step 1: Calculate the total fraction of the reading list that has been read.\nThe fractions read are 1/3, 2/9, and 1/6.\nTo add these fractions, we need to find a common denominator. The least common multiple (LCM) of 3, 9, and 6 is 18.\n\nConvert each fraction to an equivalent fraction with a denominator of 18:\n1/3 = (1 * 6) / (3 * 6) = 6/18\n2/9 = (2 * 2) / (9 * 2) = 4/18\n1/6 = (1 * 3) / (6 * 3) = 3/18\n\nNow, add these equivalent fractions:\nTotal read = 6/18 + 4/18 + 3/18 = (6 + 4 + 3) / 18 = 13/18\n\nStep 2: Calculate the fraction of the reading list that is still unread.\nThe whole reading list can be represented as 1 (or 18/18).\n\nFraction unread = Whole list - Total read\nFraction unread = 1 - 13/18\nFraction unread = 18/18 - 13/18 = (18 - 13) / 18 = 5/18\n\nThe fraction 5/18 is in its simplest form because 5 and 18 have no common factors other than 1.\n\nTherefore, 5/18 of the reading list is still unread.",
+      "hint": "First, determine the total fraction of the list that was read by finding a common denominator for all the fractions given. Then, subtract this total from 1 (representing the entire reading list) to find the unread portion.",
+      "generatedAt": "2026-04-29T09:36:56.758810"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_002",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A baker is preparing a batch of cakes. The recipe calls for different amounts of flour, sugar, and butter. The baker has:\n-   Flour: 7/8 kg\n-   Sugar: 0.8 kg\n-   Butter: 3/4 kg\n\nThe recipe requires a total of 2.5 kg of these three ingredients combined.\n\nFirst, identify which of the three ingredients the baker has the least amount of.\nNext, calculate the total weight of flour, sugar, and butter the baker has added. Give this total as a fraction in its simplest form.\nFinally, work out what fraction of the *total required amount* of ingredients is the baker still missing. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Convert all ingredient amounts to a common format for comparison.\nFlour: 7/8 kg = 0.875 kg\nSugar: 0.8 kg\nButter: 3/4 kg = 0.75 kg\n\nStep 2: Identify the ingredient with the least amount.\nComparing 0.875 kg (Flour), 0.8 kg (Sugar), and 0.75 kg (Butter).\nThe least amount is 0.75 kg, which is Butter.\nLeast ingredient: Butter\n\nStep 3: Calculate the total weight of ingredients added.\nTo add these, convert them all to fractions with a common denominator. The denominators are 8, 10 (for 0.8 = 8/10), and 4.\nThe Lowest Common Multiple (LCM) of 8, 10, and 4 is 40.\nFlour: 7/8 = (7 * 5) / (8 * 5) = 35/40 kg\nSugar: 0.8 = 8/10 = (8 * 4) / (10 * 4) = 32/40 kg\nButter: 3/4 = (3 * 10) / (4 * 10) = 30/40 kg\n\nTotal weight added = 35/40 + 32/40 + 30/40 = (35 + 32 + 30) / 40 = 97/40 kg.\n(This fraction is in simplest form as 97 is a prime number).\nTotal weight added: 97/40 kg\n\nStep 4: Determine the fraction of the total required amount that is still missing.\nTotal required amount = 2.5 kg.\nConvert 2.5 kg to a fraction: 2.5 = 25/10 = 5/2 kg.\n\nTo compare with the total added, convert 5/2 to a fraction with denominator 40:\n5/2 = (5 * 20) / (2 * 20) = 100/40 kg.\n\nAmount still missing = Total required - Total added\nAmount still missing = 100/40 kg - 97/40 kg = 3/40 kg.\n\nThe question asks for what fraction of the *total required amount* is missing.\nFraction missing = (Amount missing) / (Total required amount)\nFraction missing = (3/40) / (100/40)\nFraction missing = 3/40 * 40/100\nFraction missing = 3/100\n\nFinal Answer:\nLeast ingredient: Butter\nTotal weight added: 97/40 kg\nFraction missing: 3/100",
+      "explanation": "The solution involves several steps:\n1.  **Comparison:** Convert all given ingredient weights (7/8 kg, 0.8 kg, 3/4 kg) to a common format (e.g., decimals) to easily compare them and identify the smallest amount. 7/8 = 0.875, 0.8 (already decimal), 3/4 = 0.75. Comparing these shows 0.75 (Butter) is the least.\n2.  **Addition:** To find the total weight of ingredients added, convert all amounts to fractions with a common denominator (LCM of 8, 10, 4 is 40). Add the numerators. This gives 97/40 kg.\n3.  **Subtraction for missing amount:** Convert the total required amount (2.5 kg) to a fraction with the same denominator (100/40 kg). Subtract the total added amount from the total required amount to find the missing amount (100/40 - 97/40 = 3/40 kg).\n4.  **Fraction of total:** Finally, express the missing amount as a fraction of the *total required amount*. This is (missing amount) ÷ (total required amount), which is (3/40) ÷ (100/40) = 3/100.",
+      "hint": "To compare or add fractions and decimals, convert all values to a common format, such as all decimals or all fractions with a common denominator. Remember to simplify fractions where possible.",
+      "generatedAt": "2026-04-29T09:37:19.550206"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_003",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Three different types of metal wire, labelled A, B, and C, are cut to specific lengths. Wire A has a length of 7/8 metres. Wire B has a length of 0.9 metres. Wire C has a length of 4/5 metres. What is the total length, in metres, if you combine the longest piece of wire and the shortest piece of wire? Show your working.",
+      "options": [
+        "1.675 m",
+        "1.7 m",
+        "1.775 m",
+        "2.575 m"
+      ],
+      "correctAnswer": "1.7 m",
+      "explanation": "To compare the lengths and identify the longest and shortest pieces, it is helpful to convert all lengths to the same format, such as decimals.\n\n1.  **Convert all lengths to decimals:**\n    *   Wire A: 7/8 metres = 7 ÷ 8 = 0.875 metres\n    *   Wire B: 0.9 metres (already in decimal form)\n    *   Wire C: 4/5 metres = 4 ÷ 5 = 0.8 metres\n\n2.  **Order the lengths from shortest to longest:**\n    *   Wire C = 0.8 metres (shortest)\n    *   Wire A = 0.875 metres\n    *   Wire B = 0.9 metres (longest)\n\n3.  **Identify the longest and shortest pieces:**\n    *   The longest piece is Wire B, with a length of 0.9 metres.\n    *   The shortest piece is Wire C, with a length of 0.8 metres.\n\n4.  **Combine (add) the longest and shortest lengths:**\n    *   Total length = Length of Wire B + Length of Wire C\n    *   Total length = 0.9 metres + 0.8 metres\n    *   Total length = 1.7 metres\n\nTherefore, the total length is 1.7 metres.",
+      "hint": "Consider converting all lengths to the same format (e.g., decimals or fractions with a common denominator) before comparing them to find the longest and shortest pieces.",
+      "generatedAt": "2026-04-29T09:37:36.785981"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_004",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Three different lengths are measured and recorded. Length P is 7/8 metres. Length Q is 0.85 metres. Length R is 1 and 1/5 metres.\n\nDetermine the difference between the longest and the shortest of these three lengths. Give your final answer as a decimal.\n\nShow all your working.",
+      "options": [],
+      "correctAnswer": "First, convert all lengths to a common format, such as decimals, to make comparison easier:\n\nLength P = 7/8 metres\nTo convert 7/8 to a decimal, divide 7 by 8: 7 ÷ 8 = 0.875 metres.\n\nLength Q = 0.85 metres (already in decimal form).\n\nLength R = 1 and 1/5 metres\nTo convert 1 and 1/5 to a decimal: 1/5 = 0.2, so 1 and 1/5 = 1 + 0.2 = 1.2 metres.\n\nNow, compare the three lengths:\nP = 0.875 metres\nQ = 0.85 metres\nR = 1.2 metres\n\nOrder from shortest to longest:\n0.85 (Q), 0.875 (P), 1.2 (R)\n\nThe longest length is R = 1.2 metres.\nThe shortest length is Q = 0.85 metres.\n\nFinally, calculate the difference between the longest and the shortest length:\nDifference = Longest Length - Shortest Length\nDifference = 1.2 - 0.85\n\n   1.20\n-  0.85\n-------\n   0.35\n\nThe difference between the longest and the shortest length is 0.35 metres.",
+      "explanation": "See full working in 'correctAnswer'.",
+      "hint": "To compare the lengths effectively, consider converting all of them into the same format, either all decimals or all fractions with a common denominator, before identifying the longest and shortest.",
+      "generatedAt": "2026-04-29T09:37:49.901985"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_005",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Three friends, Alex, Ben, and Chloe, shared a large chocolate bar. Alex ate 1/3 of the chocolate bar. Ben ate 0.25 of the chocolate bar. Chloe ate 1/6 of the chocolate bar. What fraction of the chocolate bar is left? Show all your working.",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "1.  Identify the amounts eaten by each friend:\n    *   Alex: 1/3\n    *   Ben: 0.25\n    *   Chloe: 1/6\n2.  To combine these amounts, convert them all to fractions with a common denominator. The decimal 0.25 is equivalent to the fraction 1/4.\n    *   Alex: 1/3\n    *   Ben: 1/4\n    *   Chloe: 1/6\n3.  Find the lowest common multiple (LCM) of the denominators 3, 4, and 6. The LCM is 12.\n4.  Convert each fraction to have a denominator of 12:\n    *   Alex: 1/3 = (1 × 4) / (3 × 4) = 4/12\n    *   Ben: 1/4 = (1 × 3) / (4 × 3) = 3/12\n    *   Chloe: 1/6 = (1 × 2) / (6 × 2) = 2/12\n5.  Add the fractions to find the total amount of chocolate bar eaten:\n    *   Total eaten = 4/12 + 3/12 + 2/12 = (4 + 3 + 2) / 12 = 9/12\n6.  Simplify the total amount eaten. Both the numerator and denominator are divisible by 3:\n    *   9/12 = (9 ÷ 3) / (12 ÷ 3) = 3/4\n7.  To find the fraction of the chocolate bar left, subtract the total amount eaten from the whole chocolate bar. The whole chocolate bar can be represented as 1, or 4/4:\n    *   Amount left = 1 - 3/4 = 4/4 - 3/4 = 1/4\n\nTherefore, 1/4 of the chocolate bar is left.",
+      "hint": "First, convert all the amounts eaten into fractions with a common denominator. Then, find the total amount eaten and subtract it from the whole (1).",
+      "generatedAt": "2026-04-29T09:38:04.521596"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_006",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A cyclist completes a long-distance ride over three days. On the first day, she completes 1/3 of the total distance. On the second day, she completes 2/5 of the total distance. On the third day, she cycles the remaining 60 km. What is the total distance of the ride? Show your working.",
+      "options": [
+        "A) 150 km",
+        "B) 225 km",
+        "C) 16 km",
+        "D) 180 km"
+      ],
+      "correctAnswer": "B) 225 km",
+      "explanation": "Step 1: Find the total fraction of the distance completed on the first two days.\nTo add fractions 1/3 and 2/5, find a common denominator. The least common multiple of 3 and 5 is 15.\n1/3 = (1 × 5) / (3 × 5) = 5/15\n2/5 = (2 × 3) / (5 × 3) = 6/15\nTotal fraction completed = 5/15 + 6/15 = 11/15.\n\nStep 2: Find the fraction of the distance remaining.\nThe total distance is represented by 1 (or 15/15).\nFraction remaining = 1 - 11/15 = 15/15 - 11/15 = 4/15.\n\nStep 3: Use the remaining fraction and distance to find the total distance.\nWe know that 4/15 of the total distance is equal to 60 km.\nLet T be the total distance.\n(4/15) × T = 60 km\nTo find T, divide 60 by 4/15, which is equivalent to multiplying by its reciprocal, 15/4.\nT = 60 ÷ (4/15)\nT = 60 × (15/4)\nT = (60/4) × 15\nT = 15 × 15\nT = 225 km.\n\nThe total distance of the ride is 225 km.",
+      "hint": "First, add the fractions of the distance covered on the first two days by finding a common denominator. Then, subtract this sum from 1 to find the fraction of the distance that remains. Finally, use the given remaining distance to calculate the total distance.",
+      "generatedAt": "2026-04-29T09:38:23.544243"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_007",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A company is tracking its progress on a long-term contract. In the first quarter, 3/8 of the contract was completed. In the second quarter, an additional 1/3 of the contract was completed.\n\nThe company's goal is to have less than 0.3 of the contract remaining after the second quarter.\n\nFirst, calculate the total fraction of the contract that has been completed after these two quarters. \n\nSecond, determine the fraction of the contract that is still remaining.\n\nFinally, state whether the company met its goal. You must compare the remaining fraction to 0.3 and explain your answer, including the difference between the remaining fraction and 0.3 as a simplified fraction. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "To calculate the total fraction of the contract completed:\n\n1.  **Find a common denominator for 3/8 and 1/3.**\n    The least common multiple (LCM) of 8 and 3 is 24.\n    Convert 3/8: (3 × 3) / (8 × 3) = 9/24\n    Convert 1/3: (1 × 8) / (3 × 8) = 8/24\n\n2.  **Add the fractions:**\n    Total completed = 9/24 + 8/24 = 17/24\n\n    *Total fraction completed: 17/24*\n\nTo determine the fraction of the contract remaining:\n\n1.  **Subtract the completed fraction from the whole (1):**\n    Remaining = 1 - 17/24 = 24/24 - 17/24 = 7/24\n\n    *Fraction remaining: 7/24*\n\nTo compare the remaining fraction to 0.3 and determine if the company met its goal:\n\n1.  **Convert 0.3 to a fraction:**\n    0.3 = 3/10\n\n2.  **Compare 7/24 and 3/10 by finding a common denominator.**\n    The LCM of 24 and 10 is 120.\n    Convert 7/24: (7 × 5) / (24 × 5) = 35/120\n    Convert 3/10: (3 × 12) / (10 × 12) = 36/120\n\n3.  **Compare the fractions:**\n    We are comparing 35/120 (remaining) with 36/120 (target 0.3).\n    Since 35/120 is less than 36/120, the remaining fraction (7/24) is less than 0.3.\n\n4.  **Calculate the difference:**\n    Difference = 36/120 - 35/120 = 1/120\n\n    *Conclusion: The company did meet its goal because 7/24 (which is 35/120) is less than 0.3 (which is 36/120). The remaining fraction is 1/120 less than the target of 0.3.*",
+      "explanation": "The problem requires several steps. First, adding two fractions with different denominators by finding a common denominator. Then, subtracting this sum from 1 to find the remaining fraction. Finally, comparing this remaining fraction to a given decimal (0.3). This comparison involves converting the decimal to a fraction and then using a common denominator to determine which value is larger or smaller, and by how much. All steps require careful calculation of equivalent fractions.",
+      "hint": "To add or compare fractions with different denominators, you must first find a common denominator. When comparing a fraction to a decimal, convert both to the same format (either both fractions or both decimals) to make the comparison easier.",
+      "generatedAt": "2026-04-29T09:38:42.179564"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_008",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A baker needs to make two different cakes. Cake A requires 3/4 kg of flour and Cake B requires 5/6 kg of flour. The baker has a bag containing 2 kg of flour. Will the baker have enough flour for both cakes, and by what amount will he be over or short? You must show all your working.",
+      "options": [
+        "Yes, he will have enough flour, with 5/12 kg remaining.",
+        "Yes, he will have enough flour, with 1/12 kg remaining.",
+        "No, he will not have enough flour, needing an extra 5/12 kg.",
+        "No, he will not have enough flour, needing an extra 1/12 kg."
+      ],
+      "correctAnswer": "Yes, he will have enough flour, with 5/12 kg remaining.",
+      "explanation": "Step 1: Calculate the total amount of flour needed for both cakes.\nTo add 3/4 kg and 5/6 kg, find a common denominator. The lowest common multiple of 4 and 6 is 12.\nConvert 3/4 to twelfths: (3 * 3) / (4 * 3) = 9/12 kg.\nConvert 5/6 to twelfths: (5 * 2) / (6 * 2) = 10/12 kg.\nTotal flour needed = 9/12 kg + 10/12 kg = 19/12 kg.\n\nStep 2: Compare the total flour needed with the amount the baker has.\nThe baker has 2 kg of flour. To compare this with 19/12 kg, convert 2 kg into twelfths.\n2 kg = 2 * (12/12) kg = 24/12 kg.\n\nStep 3: Determine if there is enough flour and calculate the difference.\nSince 24/12 kg (what the baker has) is greater than 19/12 kg (what is needed), the baker has enough flour.\nAmount remaining = 24/12 kg - 19/12 kg = 5/12 kg.\nTherefore, the baker will have enough flour, with 5/12 kg remaining.",
+      "hint": "First, find a common denominator to add the fractions representing the flour needed for Cake A and Cake B. Then, compare this total with the 2 kg of flour the baker has, by converting 2 kg into a fraction with the same denominator.",
+      "generatedAt": "2026-04-29T09:38:55.831600"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_009",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large water tank is being filled. Initially, 2/5 of the tank's total capacity is filled with water. An additional amount of water is then added, which fills another 1/3 of the tank's total capacity. The tank needs to be exactly 7/8 full for a specific operation. Calculate the fraction of the tank's total capacity that still needs to be added to reach this desired level. Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "The fraction of the tank's total capacity that still needs to be added is 17/120.",
+      "explanation": "Step 1: Calculate the total fraction of the tank filled after the initial amount and the additional amount are added.\nInitial fraction filled = 2/5\nAdditional fraction filled = 1/3\nTo add these fractions, find a common denominator for 5 and 3, which is 15.\n2/5 = (2 * 3) / (5 * 3) = 6/15\n1/3 = (1 * 5) / (3 * 5) = 5/15\nTotal fraction currently filled = 6/15 + 5/15 = 11/15\n\nStep 2: Calculate the fraction that still needs to be added to reach the desired level of 7/8 full.\nDesired level = 7/8\nCurrently filled = 11/15\nFraction still needed = Desired level - Currently filled\nFraction still needed = 7/8 - 11/15\nTo subtract these fractions, find a common denominator for 8 and 15. The least common multiple (LCM) of 8 and 15 is 120.\n7/8 = (7 * 15) / (8 * 15) = 105/120\n11/15 = (11 * 8) / (15 * 8) = 88/120\nFraction still needed = 105/120 - 88/120 = (105 - 88) / 120 = 17/120\n\nTherefore, 17/120 of the tank's total capacity still needs to be added.",
+      "hint": "Start by finding a common denominator to add the initial fractions. Then, find another common denominator to subtract this sum from the target fraction.",
+      "generatedAt": "2026-04-29T09:39:15.361246"
+    },
+    {
+      "id": "m-y5-fractions_intermediate_010",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A piece of wood is cut into three sections. The first section is 3/4 of a metre long. The second section is 7/10 of a metre long. The third section is 4/5 of a metre long. What is the total length of the two longest sections combined? Give your answer as a mixed number in its simplest form. Show your working.",
+      "options": [
+        "A) 1 and 9/20 metres",
+        "B) 1 and 11/20 metres",
+        "C) 2 and 1/4 metres",
+        "D) 1 and 1/2 metres"
+      ],
+      "correctAnswer": "B) 1 and 11/20 metres",
+      "explanation": "Step 1: Compare the lengths of the three sections to identify the two longest.\nTo compare, convert the fractions to a common denominator. The least common multiple (LCM) of 4, 10, and 5 is 20.\n3/4 = (3 × 5) / (4 × 5) = 15/20\n7/10 = (7 × 2) / (10 × 2) = 14/20\n4/5 = (4 × 4) / (5 × 4) = 16/20\n\nComparing the fractions: 14/20 (7/10) < 15/20 (3/4) < 16/20 (4/5).\nSo, the two longest sections are 3/4 of a metre and 4/5 of a metre.\n\nStep 2: Add the lengths of the two longest sections.\n3/4 + 4/5\nTo add, find a common denominator for 4 and 5. The LCM of 4 and 5 is 20.\n3/4 = 15/20\n4/5 = 16/20\n\nAdd the converted fractions:\n15/20 + 16/20 = (15 + 16) / 20 = 31/20\n\nStep 3: Convert the improper fraction to a mixed number in its simplest form.\n31/20 = 1 whole and 11/20 (since 20 goes into 31 once with a remainder of 11).\nThe fraction 11/20 is already in its simplest form as 11 is a prime number and not a factor of 20.\n\nTherefore, the total length of the two longest sections combined is 1 and 11/20 metres.",
+      "hint": "First, find a common denominator for all three fractions to accurately compare their lengths. Then, use a common denominator again to add the selected fractions.",
+      "generatedAt": "2026-04-29T09:39:36.381437"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-fractions_advanced_001",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Sarah is making a fruit salad for a picnic. She uses the following amounts of fruit:\n- 1/4 kg of strawberries\n- 3/8 kg of blueberries\n- 1/2 kg of grapes\n\n1. What is the total mass of fruit, in kilograms, that Sarah uses for the salad? Show your working.\n2. Sarah's recipe book states that for a picnic fruit salad, the total mass of fruit should be greater than 1 kg. Is Sarah's fruit salad heavy enough according to the recipe? Show your working to explain your answer.",
+      "options": [],
+      "correctAnswer": "1. To find the total mass, we need to add the masses of the three fruits: 1/4 + 3/8 + 1/2.\n\nFirst, find a common denominator for 4, 8, and 2. The lowest common multiple (LCM) of these numbers is 8.\n\nNext, convert each fraction to an equivalent fraction with a denominator of 8:\n- For strawberries: 1/4 = (1 × 2) / (4 × 2) = 2/8 kg\n- Blueberries are already: 3/8 kg\n- For grapes: 1/2 = (1 × 4) / (2 × 4) = 4/8 kg\n\nNow, add the equivalent fractions:\nTotal mass = 2/8 + 3/8 + 4/8 = (2 + 3 + 4) / 8 = 9/8 kg.\n\nThis can also be written as a mixed number: 1 and 1/8 kg.\n\nThe total mass of fruit Sarah uses is 9/8 kg (or 1 and 1/8 kg).\n\n2. The recipe states that the total mass of fruit should be greater than 1 kg.\nSarah's total mass is 9/8 kg.\n\nTo compare 9/8 kg with 1 kg, we can express 1 kg as a fraction with a denominator of 8:\n1 kg = 8/8 kg.\n\nNow, compare 9/8 kg and 8/8 kg:\nSince the numerator 9 is greater than the numerator 8 (and the denominators are the same), 9/8 is greater than 8/8.\nTherefore, 9/8 kg > 1 kg.\n\nYes, Sarah's fruit salad is heavy enough according to the recipe because 9/8 kg (or 1 and 1/8 kg) is greater than 1 kg.",
+      "explanation": "To solve this problem, first, find the lowest common denominator for all the fractions representing the fruit masses (1/4, 3/8, 1/2), which is 8. Convert all fractions to equivalent fractions with a denominator of 8 and add them together to find the total mass. Then, compare this total mass to 1 kg by converting 1 kg into an equivalent fraction with a denominator of 8 (8/8) and performing the comparison.",
+      "hint": "Remember to find a common denominator for all fractions before you can add them. To compare your total mass to 1 kg, you can express 1 kg as an equivalent fraction with the same denominator as your total mass.",
+      "generatedAt": "2026-04-29T09:39:54.912430"
+    },
+    {
+      "id": "m-y5-fractions_advanced_002",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A school field is being prepared for different activities. Two-fifths of the field is used for football practice. One-third of the field is used for athletics training. The remaining part of the field is divided equally between a gardening club and a quiet reading area. What fraction of the entire school field is used for the quiet reading area? Show your working clearly.",
+      "options": [
+        "1/15",
+        "2/15",
+        "4/15",
+        "7/15"
+      ],
+      "correctAnswer": "2/15",
+      "explanation": "1.  First, find the total fraction of the field used for football and athletics.\n    Football: 2/5\n    Athletics: 1/3\n    To add these fractions, we need a common denominator. The lowest common multiple of 5 and 3 is 15.\n    Convert 2/5 to fifteenths: (2 × 3) / (5 × 3) = 6/15\n    Convert 1/3 to fifteenths: (1 × 5) / (3 × 5) = 5/15\n    Total fraction used for football and athletics = 6/15 + 5/15 = 11/15.\n\n2.  Next, find the fraction of the field that is remaining.\n    The whole field can be represented as 1, or 15/15.\n    Remaining fraction = 15/15 - 11/15 = 4/15.\n\n3.  This remaining 4/15 of the field is divided equally between the gardening club and the quiet reading area. This means each part gets half of the remaining fraction.\n    Fraction for quiet reading area = (4/15) ÷ 2\n    This is the same as finding half of 4/15, which is (4/15) × (1/2).\n    Multiply the numerators and denominators: (4 × 1) / (15 × 2) = 4/30.\n    Simplify the fraction 4/30 by dividing both the numerator and the denominator by their greatest common factor, which is 2.\n    4 ÷ 2 = 2\n    30 ÷ 2 = 15\n    So, the fraction of the entire school field used for the quiet reading area is 2/15.",
+      "hint": "Start by finding a common denominator to add the fractions for football and athletics. Then, work out the fraction of the field that is left over before finally dividing that remainder into two equal parts.",
+      "generatedAt": "2026-04-29T09:40:09.242800"
+    },
+    {
+      "id": "m-y5-fractions_advanced_003",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Three containers, labelled X, Y, and Z, hold different amounts of a liquid chemical.\nContainer X holds 5/8 litres.\nContainer Y holds 3/4 litres.\nContainer Z holds 1/2 litre.\n\na) Order the containers from the one holding the least amount of liquid to the one holding the most. Show your working. (2 marks)\n\nb) All the liquid from Container X and Container Z is poured into an empty mixing beaker. What is the total volume of liquid in the mixing beaker? Express your answer as a mixed number in its simplest form. Show your working. (3 marks)\n\nc) A specific experiment requires exactly 1 and 1/16 litres of the liquid. If the liquid from Container Y is also added to the mixing beaker (containing the combined liquid from X and Z), will there be enough liquid for the experiment? By how much will the total liquid be more or less than the required amount? Show all your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) To compare the fractions, find a common denominator. The least common multiple of 8, 4, and 2 is 8.\n\nContainer X: 5/8 litres\nContainer Y: 3/4 = (3 × 2) / (4 × 2) = 6/8 litres\nContainer Z: 1/2 = (1 × 4) / (2 × 4) = 4/8 litres\n\nOrdering from least to most based on equivalent fractions (4/8, 5/8, 6/8):\n1. Container Z (1/2 litre)\n2. Container X (5/8 litres)\n3. Container Y (3/4 litres)\n\nb) Liquid from Container X + Liquid from Container Z = 5/8 + 1/2\nTo add, convert 1/2 to an equivalent fraction with a denominator of 8: 1/2 = 4/8.\nTotal volume = 5/8 + 4/8 = 9/8 litres.\n\nConvert the improper fraction to a mixed number: 9/8 = 1 and 1/8 litres.\n\nc) First, find the total liquid in the mixing beaker after adding Container Y's liquid.\nCombined liquid from X and Z (from part b)) is 1 and 1/8 litres.\nLiquid from Container Y is 3/4 litres.\n\nTotal liquid = 1 and 1/8 + 3/4.\nConvert 1 and 1/8 to an improper fraction: 1 and 1/8 = 9/8.\nConvert 3/4 to an equivalent fraction with a denominator of 8: 3/4 = 6/8.\nTotal liquid = 9/8 + 6/8 = 15/8 litres.\n\nNow, compare this total with the required amount for the experiment: 1 and 1/16 litres.\nTo compare, convert both amounts to fractions with a common denominator, 16.\nConvert 15/8 to a fraction with a denominator of 16: 15/8 = (15 × 2) / (8 × 2) = 30/16 litres.\nConvert 1 and 1/16 to an improper fraction: 1 and 1/16 = (1 × 16 + 1) / 16 = 17/16 litres.\n\nComparing 30/16 litres (total liquid) with 17/16 litres (required liquid):\nSince 30/16 > 17/16, there *will be enough* liquid for the experiment.\n\nTo find out by how much the total liquid is more than the required amount:\nDifference = 30/16 - 17/16 = 13/16 litres.\n\nThe total liquid will be 13/16 litres more than the required amount for the experiment.",
+      "explanation": "This multi-part question tests a range of Year 5 fraction skills. Part a) requires finding a common denominator (8) to create equivalent fractions and then ordering them. Part b) involves adding fractions with different denominators and converting an improper fraction to a mixed number (1 and 1/8). Part c) extends this by adding a mixed number and a fraction, then converting all values (the total liquid and the required amount) to equivalent improper fractions with a common denominator (16) to accurately compare them. Finally, the difference between these two fractions is calculated. This necessitates a strong understanding of equivalent fractions, addition of fractions, conversion between improper and mixed numbers, and comparison of fractions.",
+      "hint": "For comparing and adding fractions with different denominators, always start by finding the least common multiple (LCM) of the denominators to create equivalent fractions.",
+      "generatedAt": "2026-04-29T09:40:50.280966"
+    },
+    {
+      "id": "m-y5-fractions_advanced_004",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A water tank, initially empty, is being filled over two hours and then partially emptied. \n\nIn the first hour, 1/4 of the tank's total capacity is filled with water. \nIn the second hour, an additional 2/5 of the tank's total capacity is added to it. \nAfter the second hour, some water is removed from the tank. The amount removed is 1/10 of the tank's total capacity.\n\n(a) What fraction of the tank's total capacity is full after the water is removed? Show all your working.\n(b) Is the tank now more than 3/4 full or less than 3/4 full? Show all your working to support your answer.",
+      "options": [],
+      "correctAnswer": "(a) To find the fraction of the tank full after the water is removed, we follow these steps:\n1.  **Find the total fraction filled in the first two hours:**\n    We need to add 1/4 and 2/5. To do this, we find a common denominator, which is 20.\n    1/4 = 5/20\n    2/5 = 8/20\n    Total filled = 5/20 + 8/20 = 13/20\n\n2.  **Subtract the fraction of water removed:**\n    The amount removed is 1/10. We need to express 1/10 with the common denominator of 20.\n    1/10 = 2/20\n    Fraction remaining = 13/20 - 2/20 = 11/20\n\n    So, 11/20 of the tank's total capacity is full.\n\n(b) To determine if the tank is more than 3/4 full or less than 3/4 full, we compare 11/20 with 3/4.\n\n1.  **Express 3/4 with the same common denominator (20):**\n    3/4 = (3 × 5) / (4 × 5) = 15/20\n\n2.  **Compare the fractions:**\n    We compare 11/20 with 15/20.\n    Since 11 is less than 15, 11/20 is less than 15/20.\n\n    Therefore, the tank is less than 3/4 full.",
+      "explanation": "This question requires students to perform multiple steps involving addition and subtraction of fractions with different denominators, and then compare the resulting fraction with another. The key is to find common denominators for all fractions involved to allow for correct arithmetic and comparison.",
+      "hint": "To add or subtract fractions with different denominators, you first need to find a common denominator for all fractions involved. The lowest common multiple (LCM) is often the most efficient choice. Once you have a common denominator, you can convert the fractions and then perform the operation.",
+      "generatedAt": "2026-04-29T09:41:04.748318"
+    },
+    {
+      "id": "m-y5-fractions_advanced_005",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A tailor has three different pieces of fabric. The first piece is 3/4 of a metre long. The second piece is 7/8 of a metre long. The third piece is 5/6 of a metre long. The tailor needs to choose the two longest pieces of fabric and join them end-to-end for a special project. What will be the total length, in metres, of the two longest pieces of fabric? Give your answer as a mixed number in its simplest form. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "First, compare the lengths of the three pieces of fabric by finding a common denominator. The denominators are 4, 8, and 6. The least common multiple (LCM) of 4, 8, and 6 is 24.\n\nConvert each fraction to have a denominator of 24:\nPiece 1: 3/4 = (3 * 6) / (4 * 6) = 18/24 metres\nPiece 2: 7/8 = (7 * 3) / (8 * 3) = 21/24 metres\nPiece 3: 5/6 = (5 * 4) / (6 * 4) = 20/24 metres\n\nNow, order the fractions from smallest to largest:\n18/24 (3/4), 20/24 (5/6), 21/24 (7/8)\n\nThe two longest pieces are 20/24 (which is 5/6) and 21/24 (which is 7/8).\n\nNext, add the lengths of the two longest pieces:\n5/6 + 7/8\nUsing the common denominator of 24:\n20/24 + 21/24 = 41/24\n\nFinally, convert the improper fraction to a mixed number in its simplest form:\n41/24 = 1 with a remainder of 17, so it is 1 and 17/24.\n\nThe total length of the two longest pieces of fabric is 1 and 17/24 metres.",
+      "explanation": "The question requires comparing three fractions to identify the two largest, and then adding those two fractions. The process involves finding a common denominator for comparison, then finding a common denominator for addition, and finally converting the resulting improper fraction to a mixed number in its simplest form. The LCM of the denominators (4, 8, 6) is 24, which is used for both comparison and addition. After summing the fractions (20/24 + 21/24 = 41/24), the improper fraction is converted to a mixed number (1 and 17/24).",
+      "hint": "To compare fractions and then add them, first find a common denominator for all the fractions involved. This will allow you to see which fractions are larger and then combine them easily.",
+      "generatedAt": "2026-04-29T09:41:19.475256"
+    },
+    {
+      "id": "m-y5-fractions_advanced_006",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Two teams, Alpha and Beta, are working independently on an identical project.\nTeam Alpha completes 1/4 of their project in the first phase and then completes an additional 0.3 of their project in the second phase.\nTeam Beta completes 3/10 of their project in the first phase and then completes an additional 3/8 of their project in the second phase.\nAfter both phases are complete, what is the *difference* between the fraction of the project completed by Team Alpha and the fraction of the project completed by Team Beta? Express your answer as a fraction in its simplest form. Show your working.",
+      "options": [],
+      "correctAnswer": "To solve this, we first calculate the total fraction of the project completed by each team.\n\n**For Team Alpha:**\nPhase 1: 1/4\nPhase 2: 0.3 = 3/10\nTotal for Team Alpha = 1/4 + 3/10\nTo add these fractions, we find a common denominator. The least common multiple (LCM) of 4 and 10 is 20.\n1/4 = (1 × 5) / (4 × 5) = 5/20\n3/10 = (3 × 2) / (10 × 2) = 6/20\nTotal for Team Alpha = 5/20 + 6/20 = 11/20\n\n**For Team Beta:**\nPhase 1: 3/10\nPhase 2: 3/8\nTotal for Team Beta = 3/10 + 3/8\nTo add these fractions, we find a common denominator. The least common multiple (LCM) of 10 and 8 is 40.\n3/10 = (3 × 4) / (10 × 4) = 12/40\n3/8 = (3 × 5) / (8 × 5) = 15/40\nTotal for Team Beta = 12/40 + 15/40 = 27/40\n\n**Finding the Difference:**\nNow we need to find the difference between 11/20 (Team Alpha) and 27/40 (Team Beta).\nTo compare and subtract, we need a common denominator, which is 40.\nConvert Team Alpha's total to a denominator of 40:\n11/20 = (11 × 2) / (20 × 2) = 22/40\n\nDifference = |Total for Team Beta - Total for Team Alpha|\nDifference = |27/40 - 22/40|\nDifference = 5/40\n\n**Simplifying the Fraction:**\nThe fraction 5/40 can be simplified by dividing both the numerator and the denominator by their greatest common divisor, which is 5.\n5 ÷ 5 = 1\n40 ÷ 5 = 8\nSo, 5/40 simplifies to 1/8.\n\nThe difference between the fractions of the project completed by the two teams is 1/8.",
+      "explanation": "To solve this, we first calculate the total fraction of the project completed by each team.\n\n**For Team Alpha:**\nPhase 1: 1/4\nPhase 2: 0.3 = 3/10\nTotal for Team Alpha = 1/4 + 3/10\nTo add these fractions, we find a common denominator. The least common multiple (LCM) of 4 and 10 is 20.\n1/4 = (1 × 5) / (4 × 5) = 5/20\n3/10 = (3 × 2) / (10 × 2) = 6/20\nTotal for Team Alpha = 5/20 + 6/20 = 11/20\n\n**For Team Beta:**\nPhase 1: 3/10\nPhase 2: 3/8\nTotal for Team Beta = 3/10 + 3/8\nTo add these fractions, we find a common denominator. The least common multiple (LCM) of 10 and 8 is 40.\n3/10 = (3 × 4) / (10 × 4) = 12/40\n3/8 = (3 × 5) / (8 × 5) = 15/40\nTotal for Team Beta = 12/40 + 15/40 = 27/40\n\n**Finding the Difference:**\nNow we need to find the difference between 11/20 (Team Alpha) and 27/40 (Team Beta).\nTo compare and subtract, we need a common denominator, which is 40.\nConvert Team Alpha's total to a denominator of 40:\n11/20 = (11 × 2) / (20 × 2) = 22/40\n\nDifference = |Total for Team Beta - Total for Team Alpha|\nDifference = |27/40 - 22/40|\nDifference = 5/40\n\n**Simplifying the Fraction:**\nThe fraction 5/40 can be simplified by dividing both the numerator and the denominator by their greatest common divisor, which is 5.\n5 ÷ 5 = 1\n40 ÷ 5 = 8\nSo, 5/40 simplifies to 1/8.\n\nThe difference between the fractions of the project completed by the two teams is 1/8.",
+      "hint": "Remember to convert any decimals to fractions first. Then, for each team, find a common denominator to add their completed fractions. Finally, find a common denominator to compare their total fractions and calculate the difference, simplifying your answer if possible.",
+      "generatedAt": "2026-04-29T09:41:43.705904"
+    },
+    {
+      "id": "m-y5-fractions_advanced_007",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A baker is preparing three different types of pastries. For the first batch, 1/4 of a sack of flour is used. For the second batch, 2/5 of the same sack of flour is used. For the third batch, 3/10 of the same sack of flour is used.\n\n1. What fraction of the sack of flour has been used in total for the three batches? Show your working.\n2. What fraction of the sack of flour is left over after the three batches have been made? Show your working.",
+      "options": [],
+      "correctAnswer": "1. To find the total fraction of flour used, we need to add the fractions for each batch:\n   1/4 + 2/5 + 3/10\n   First, find a common denominator for 4, 5, and 10. The smallest common multiple (LCM) of 4, 5, and 10 is 20.\n   Convert each fraction to have a denominator of 20:\n   1/4 = (1 × 5) / (4 × 5) = 5/20\n   2/5 = (2 × 4) / (5 × 4) = 8/20\n   3/10 = (3 × 2) / (10 × 2) = 6/20\n   Now, add the converted fractions:\n   5/20 + 8/20 + 6/20 = (5 + 8 + 6) / 20 = 19/20\n   So, 19/20 of the sack of flour has been used in total.\n\n2. To find the fraction of flour left over, subtract the total used from the whole sack (which is 1, or 20/20):\n   Whole sack = 1 = 20/20\n   Flour left over = 20/20 - 19/20 = (20 - 19) / 20 = 1/20\n   So, 1/20 of the sack of flour is left over.",
+      "explanation": "The problem requires two main steps. First, calculate the total amount of flour used by adding the three given fractions. To add fractions with different denominators, you must first find a common denominator for all of them. The smallest common multiple (LCM) of 4, 5, and 10 is 20. Convert each fraction to an equivalent fraction with a denominator of 20 (1/4 becomes 5/20, 2/5 becomes 8/20, and 3/10 becomes 6/20). Then, add the numerators (5 + 8 + 6 = 19) to get a total of 19/20. Second, to find the fraction left over, subtract the total used (19/20) from the whole sack of flour (represented as 1, or 20/20). This calculation results in 1/20 remaining.",
+      "hint": "To add or subtract fractions with different denominators, you must first find a common denominator for all of them. Think about the smallest number that 4, 5, and 10 can all divide into evenly.",
+      "generatedAt": "2026-04-29T09:42:01.997596"
+    },
+    {
+      "id": "m-y5-fractions_advanced_008",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Layla, Noah, and Chloe are training for a school relay race. Layla runs three-fifths of a kilometre. Noah runs half of a kilometre. Chloe runs seven-tenths of a kilometre.\n\na) Calculate the total distance Layla and Noah run together. Give your answer as a simplified fraction. Show your working.\nb) Order the distances run by Layla, Noah, and Chloe from shortest to longest. Show your working.\nc) If the full relay race is 2 kilometres long, what fraction of the full relay race distance is still left to be run after Layla, Noah, and Chloe have completed their individual training runs? Show your working.",
+      "options": [],
+      "correctAnswer": "a) Layla runs 3/5 km. Noah runs 1/2 km.\nTo find the total distance, we need to add these fractions:\n3/5 + 1/2\nTo add fractions with different denominators, we need a common denominator. The lowest common multiple of 5 and 2 is 10.\nConvert 3/5 to tenths: (3 × 2) / (5 × 2) = 6/10\nConvert 1/2 to tenths: (1 × 5) / (2 × 5) = 5/10\nNow add the fractions: 6/10 + 5/10 = 11/10 km.\nThis fraction is already simplified (as an improper fraction, no common factors other than 1 between 11 and 10).\n\nb) To order the distances, we need to express all fractions with a common denominator. The lowest common multiple of 5, 2, and 10 is 10.\nLayla: 3/5 = (3 × 2) / (5 × 2) = 6/10 km\nNoah: 1/2 = (1 × 5) / (2 × 5) = 5/10 km\nChloe: 7/10 km\nNow, compare the numerators: 5 < 6 < 7.\nSo, the order from shortest to longest is:\nNoah (5/10 km), Layla (6/10 km), Chloe (7/10 km).\n\nc) First, find the total distance run by Layla, Noah, and Chloe together.\nFrom part (a), Layla and Noah run 11/10 km.\nAdd Chloe's distance: 11/10 + 7/10 = 18/10 km.\n\nThe full relay race is 2 kilometres long.\nTo find the fraction left, we need to express 2 km as a fraction with a denominator of 10:\n2 km = 20/10 km.\n\nNow, subtract the total distance run from the full race distance:\n20/10 - 18/10 = 2/10 km.\n\nThis fraction can be simplified by dividing both the numerator and the denominator by their greatest common factor, which is 2:\n2 ÷ 2 / 10 ÷ 2 = 1/5 km.\n\nSo, 1/5 of the full relay race distance is still left to be run.",
+      "explanation": "The question requires multi-step calculations involving adding and comparing fractions with different denominators, and then subtracting a combined fractional amount from a whole number. \n\nPart (a) involves finding a common denominator (10 for 5 and 2) to add Layla's and Noah's distances (3/5 + 1/2 = 6/10 + 5/10 = 11/10 km). \n\nPart (b) requires converting all three distances to a common denominator (10) and then ordering them based on their numerators (Noah 5/10, Layla 6/10, Chloe 7/10).\n\nPart (c) first calculates the total distance run by all three (11/10 + 7/10 = 18/10 km). Then, it converts the total race distance (2 km) into an equivalent fraction with the same denominator (20/10 km). Finally, it subtracts the distance run from the total race distance (20/10 - 18/10 = 2/10 km) and simplifies the resulting fraction (1/5 km). This demonstrates a comprehensive understanding of fraction operations and problem-solving for an advanced Year 5 student.",
+      "hint": "Remember to find a common denominator before adding or comparing fractions. When subtracting a fraction from a whole number, express the whole number as a fraction with the same denominator.",
+      "generatedAt": "2026-04-29T09:42:24.462182"
+    },
+    {
+      "id": "m-y5-fractions_advanced_009",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Priya, Omar, and Liam are decorating a long banner for a school fair. Priya decorates 2/5 of the banner. Omar decorates 1/3 of the banner. Liam decorates the remaining part of the banner. Liam completes 3/4 of his decorated section on the first day. What fraction of the *entire* banner did Liam decorate on the first day? Show your working clearly.",
+      "options": [
+        "1/5",
+        "4/15",
+        "11/15",
+        "11/20"
+      ],
+      "correctAnswer": "1/5",
+      "explanation": "1.  **Find the total fraction decorated by Priya and Omar:**\n    To add 2/5 and 1/3, find a common denominator. The least common multiple of 5 and 3 is 15.\n    2/5 = (2 * 3) / (5 * 3) = 6/15\n    1/3 = (1 * 5) / (3 * 5) = 5/15\n    Priya and Omar together decorated: 6/15 + 5/15 = 11/15 of the banner.\n\n2.  **Find the fraction of the banner Liam decorated:**\n    The whole banner is represented by 1 (or 15/15). Liam decorated the remaining part.\n    Liam's part = 1 - 11/15 = 15/15 - 11/15 = 4/15 of the banner.\n\n3.  **Find the fraction of the *entire* banner Liam decorated on the first day:**\n    Liam completed 3/4 of *his* decorated section on the first day. His section is 4/15 of the entire banner.\n    So, we need to calculate 3/4 of 4/15.\n    'Of' means multiply, so (3/4) * (4/15)\n    Multiply the numerators and the denominators: (3 * 4) / (4 * 15) = 12 / 60\n\n4.  **Simplify the fraction:**\n    Divide both the numerator and the denominator by their greatest common factor, which is 12.\n    12 ÷ 12 = 1\n    60 ÷ 12 = 5\n    So, Liam decorated 1/5 of the entire banner on the first day.",
+      "hint": "First, find what fraction of the banner Priya and Omar decorated together. Then, calculate Liam's total fraction. Finally, find a fraction of Liam's fraction for the first day.",
+      "generatedAt": "2026-04-29T09:42:59.617259"
+    },
+    {
+      "id": "m-y5-fractions_advanced_010",
+      "topicId": "m-y5-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A chef is preparing a fruit punch for a school event using three different juice concentrates. She uses 1/3 litres of mango concentrate, 0.4 litres of pineapple concentrate, and 3/5 litres of berry concentrate. All three concentrates are poured into a large mixing jug. What is the total volume of liquid in the mixing jug, expressed as a simplified mixed number? Show your working.",
+      "options": [
+        "A: 1 and 4/15 litres",
+        "B: 1 and 1/3 litres",
+        "C: 1 and 2/3 litres",
+        "D: 1 and 1/5 litres"
+      ],
+      "correctAnswer": "B: 1 and 1/3 litres",
+      "explanation": "Step 1: Convert the decimal amount of pineapple concentrate to a fraction.\n0.4 litres = 4/10 litres. This fraction can be simplified by dividing the numerator and denominator by 2, resulting in 2/5 litres.\n\nStep 2: Identify all the fractions to be added:\nMango: 1/3 litres\nPineapple: 2/5 litres\nBerry: 3/5 litres\n\nStep 3: Find a common denominator for all fractions. The denominators are 3, 5, and 5. The lowest common multiple (LCM) of 3 and 5 is 15.\n\nStep 4: Convert each fraction to an equivalent fraction with a denominator of 15.\nMango: 1/3 = (1 × 5) / (3 × 5) = 5/15 litres\nPineapple: 2/5 = (2 × 3) / (5 × 3) = 6/15 litres\nBerry: 3/5 = (3 × 3) / (5 × 3) = 9/15 litres\n\nStep 5: Add the equivalent fractions.\nTotal volume = 5/15 + 6/15 + 9/15 = (5 + 6 + 9) / 15 = 20/15 litres.\n\nStep 6: Simplify the improper fraction to a mixed number.\n20/15 means 20 divided by 15. This is 1 whole with a remainder of 5.\nSo, 20/15 = 1 and 5/15 litres.\n\nStep 7: Simplify the fractional part of the mixed number.\nThe fraction 5/15 can be simplified further by dividing both the numerator and denominator by their greatest common factor, which is 5.\n5/15 = 1/3.\n\nTherefore, the total volume is 1 and 1/3 litres.",
+      "hint": "To add different quantities that are given as decimals and fractions, first convert the decimal to a fraction. Then, find a common denominator for all fractions before adding them. Remember to simplify your final answer and express it as a mixed number.",
+      "generatedAt": "2026-04-29T09:43:26.883361"
+    }
+  ]
+}

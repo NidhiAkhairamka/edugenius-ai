@@ -1,0 +1,533 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y7-prob-basics_beginner_001",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A bag contains 3 red counters, 4 blue counters, and 3 green counters. A counter is chosen at random from the bag. What is the probability that the chosen counter is blue?",
+      "options": [
+        "0.3",
+        "0.4",
+        "0.7",
+        "1.0"
+      ],
+      "correctAnswer": "0.4",
+      "explanation": "1. First, find the total number of counters in the bag:\n   Total counters = Number of red + Number of blue + Number of green\n   Total counters = 3 + 4 + 3 = 10 counters.\n2. Next, identify the number of favourable outcomes (counters that are blue):\n   Number of blue counters = 4.\n3. Use the probability formula:\n   P(event) = (Number of favourable outcomes) / (Total number of possible outcomes)\n   P(blue) = 4 / 10\n4. Simplify the fraction or convert to a decimal:\n   P(blue) = 2/5 = 0.4\nSo, the probability that the chosen counter is blue is 0.4.",
+      "hint": "To calculate probability, divide the number of ways the specific event can happen by the total number of possible outcomes. Remember to find the total count of all items first.",
+      "generatedAt": "2026-04-29T22:23:35.878352"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_002",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A box contains 10 cards, each with a different number from 1 to 10 written on it. One card is chosen at random from the box. What is the probability that the card chosen has the number 4 written on it?",
+      "options": [
+        "1/10",
+        "4/10",
+        "1/4",
+        "1/5"
+      ],
+      "correctAnswer": "1/10",
+      "explanation": "To calculate the probability, you need to find the number of favourable outcomes and divide it by the total number of possible outcomes.\n\n1.  **Total number of possible outcomes:** There are 10 cards in the box, numbered from 1 to 10. So, there are 10 possible cards that could be chosen.\n2.  **Number of favourable outcomes:** We want to choose the card with the number 4 on it. There is only one such card.\n\nProbability = (Number of favourable outcomes) / (Total number of possible outcomes) = 1 / 10.",
+      "hint": "Think about how many cards are in the box in total, and how many of those cards have the specific number you are looking for.",
+      "generatedAt": "2026-04-29T22:23:45.922499"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_003",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A student chooses a letter at random from the word 'PROBABILITY'. What is the probability that the letter chosen is 'B'?",
+      "options": [
+        "1/11",
+        "2/11",
+        "1/9",
+        "2/9"
+      ],
+      "correctAnswer": "2/11",
+      "explanation": "1. Count the total number of letters in the word 'PROBABILITY'. There are 11 letters in total (P, R, O, B, A, B, I, L, I, T, Y). This is the total number of possible outcomes.\n2. Count how many times the letter 'B' appears in the word. The letter 'B' appears 2 times.\n3. The probability of an event is calculated as (Number of favorable outcomes) / (Total number of possible outcomes).\n4. Therefore, the probability of choosing the letter 'B' is 2/11.",
+      "hint": "Start by counting the total number of letters in the word. Then, count how many times the specific letter 'B' appears.",
+      "generatedAt": "2026-04-29T22:23:53.288841"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_004",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A fair spinner is divided into 8 equal sections. There are 3 blue sections, 2 red sections, and the remaining sections are green. When the spinner is spun once, what is the probability that it lands on a blue section?",
+      "options": [
+        "1/8",
+        "2/8",
+        "3/8",
+        "5/8"
+      ],
+      "correctAnswer": "3/8",
+      "explanation": "1. Identify the total number of possible outcomes: The spinner has 8 equal sections, so there are 8 possible outcomes.\n2. Identify the number of favourable outcomes: We are interested in the spinner landing on a blue section. There are 3 blue sections.\n3. Calculate the probability: Probability = (Number of favourable outcomes) / (Total number of possible outcomes).\n   So, P(Blue) = 3 / 8.",
+      "hint": "To find the probability of an event, divide the number of ways the event can happen by the total number of possible outcomes.",
+      "generatedAt": "2026-04-29T22:24:00.587870"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_005",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A month is chosen at random from the 12 months of the year. What is the probability that the chosen month has exactly 30 days?",
+      "options": [
+        "1/12",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "correctAnswer": "1/3",
+      "explanation": "1. First, identify the total number of possible outcomes. There are 12 months in a year.\n2. Next, identify the number of favourable outcomes. The months that have exactly 30 days are April, June, September, and November. There are 4 such months.\n3. The probability is calculated as (Number of favourable outcomes) / (Total number of possible outcomes).\n4. So, the probability is 4/12.\n5. This fraction can be simplified by dividing both the numerator and the denominator by 4: 4 ÷ 4 = 1 and 12 ÷ 4 = 3.\n6. Therefore, the simplified probability is 1/3.",
+      "hint": "Start by listing all the months of the year and then identify which ones have exactly 30 days. Remember the formula for simple probability.",
+      "generatedAt": "2026-04-29T22:24:09.582451"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_006",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A fair, standard 6-sided dice is rolled once. What is the probability of rolling a number greater than 4?",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correctAnswer": "1/3",
+      "explanation": "A standard 6-sided dice has 6 possible outcomes: 1, 2, 3, 4, 5, 6.\nWe are looking for numbers that are greater than 4. These numbers are 5 and 6.\nThere are 2 favourable outcomes (5 and 6).\nThe total number of possible outcomes is 6.\nThe probability is calculated as: (Number of favourable outcomes) / (Total number of possible outcomes) = 2/6.\nThis fraction can be simplified by dividing both the numerator and the denominator by 2:\n2 ÷ 2 = 1\n6 ÷ 2 = 3\nSo, the probability is 1/3.",
+      "hint": "First, list all the possible outcomes when rolling a standard 6-sided dice. Then, identify which of these outcomes are 'greater than 4'. Finally, use the formula for theoretical probability: (Number of favourable outcomes) / (Total number of possible outcomes).",
+      "generatedAt": "2026-04-29T22:24:19.871330"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_007",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "In a class of 25 students, 15 students wear glasses and the rest do not. A student is chosen at random from the class. What is the probability that the student chosen does not wear glasses?",
+      "options": [
+        "15/25",
+        "2/5",
+        "0.6",
+        "10/15"
+      ],
+      "correctAnswer": "2/5",
+      "explanation": "First, find the number of students who do not wear glasses. Total students = 25. Students who wear glasses = 15. So, students who do not wear glasses = 25 - 15 = 10. The probability of an event is calculated as (Number of favourable outcomes) / (Total number of possible outcomes). In this case, the number of favourable outcomes (students not wearing glasses) is 10, and the total number of possible outcomes (total students) is 25. So, the probability is 10/25. This fraction can be simplified by dividing both the numerator and the denominator by their greatest common divisor, which is 5. 10 ÷ 5 = 2, and 25 ÷ 5 = 5. Therefore, the simplified probability is 2/5.",
+      "hint": "Remember that probability is calculated as the number of favourable outcomes divided by the total number of possible outcomes. Make sure to first calculate the number of students who *do not* wear glasses.",
+      "generatedAt": "2026-04-29T22:24:30.605232"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_008",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A box contains 15 pens in total. There are 7 black pens, 4 blue pens, and the rest are red pens. A pen is chosen at random from the box. What is the probability that the pen chosen is red?",
+      "options": [
+        "A. 7/15",
+        "B. 4/15",
+        "C. 11/15",
+        "D. 4/11"
+      ],
+      "correctAnswer": "B. 4/15",
+      "explanation": "1. First, find the number of red pens:\n   Total pens = 15\n   Black pens = 7\n   Blue pens = 4\n   Number of red pens = Total pens - (Black pens + Blue pens)\n   Number of red pens = 15 - (7 + 4)\n   Number of red pens = 15 - 11\n   Number of red pens = 4\n\n2. Next, calculate the probability of choosing a red pen:\n   Probability (Event) = (Number of favourable outcomes) / (Total number of possible outcomes)\n   Probability (Red pen) = (Number of red pens) / (Total pens)\n   Probability (Red pen) = 4 / 15",
+      "hint": "Start by finding out how many red pens are in the box.",
+      "generatedAt": "2026-04-29T22:24:43.016571"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_009",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A bag contains 10 counters in total. 3 of these counters are red, and the rest are blue. A counter is chosen at random from the bag. What is the probability that the counter chosen is red?",
+      "options": [
+        "A. 1/10",
+        "B. 3/10",
+        "C. 7/10",
+        "D. 1"
+      ],
+      "correctAnswer": "B. 3/10",
+      "explanation": "To calculate the probability of an event, we use the formula: \nProbability (Event) = (Number of favourable outcomes) / (Total number of possible outcomes)\n\nIn this question:\n- The favourable outcome is choosing a red counter.\n- The number of red counters is 3.\n- The total number of counters in the bag is 10.\n\nSo, the probability of choosing a red counter = 3 / 10.",
+      "hint": "Think about how many red counters there are compared to the total number of counters in the bag.",
+      "generatedAt": "2026-04-29T22:24:52.767547"
+    },
+    {
+      "id": "m-y7-prob-basics_beginner_010",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A fruit basket contains 12 apples, 8 bananas, and 5 oranges. A piece of fruit is chosen at random from the basket. What is the probability that the chosen fruit is an apple?",
+      "options": [
+        "12/25",
+        "12/13",
+        "1/3",
+        "8/25"
+      ],
+      "correctAnswer": "12/25",
+      "explanation": "1. First, calculate the total number of fruits in the basket:\n   Total fruits = Number of apples + Number of bananas + Number of oranges\n   Total fruits = 12 + 8 + 5 = 25\n2. Next, identify the number of favourable outcomes, which is the number of apples:\n   Number of apples = 12\n3. The probability of choosing an apple is the number of apples divided by the total number of fruits:\n   P(apple) = (Number of apples) / (Total number of fruits)\n   P(apple) = 12 / 25",
+      "hint": "Remember that probability is calculated as the number of favourable outcomes divided by the total number of possible outcomes.",
+      "generatedAt": "2026-04-29T22:25:02.740099"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y7-prob-basics_intermediate_001",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A bag contains 7 red marbles, 5 blue marbles, and 3 green marbles. One red marble is removed from the bag and not replaced.\n\nWhat is the probability that the next marble picked at random from the bag is a green marble? Show your working.",
+      "options": [
+        "3/14",
+        "1/5",
+        "7/15",
+        "3/7"
+      ],
+      "correctAnswer": "3/14",
+      "explanation": "1.  First, calculate the total number of marbles initially in the bag:\n    7 (red) + 5 (blue) + 3 (green) = 15 marbles.\n\n2.  One red marble is removed from the bag and not replaced. This changes the number of red marbles and the total number of marbles in the bag.\n    New number of red marbles = 7 - 1 = 6.\n    The number of blue marbles remains 5.\n    The number of green marbles remains 3 (as no green marbles were removed).\n\n3.  Calculate the new total number of marbles in the bag after the red marble was removed:\n    6 (red) + 5 (blue) + 3 (green) = 14 marbles.\n\n4.  We want to find the probability of picking a green marble. The number of favourable outcomes (green marbles) is 3.\n\n5.  The probability is calculated using the formula: P(event) = (Number of favourable outcomes) / (Total number of possible outcomes).\n    P(Green) = (Number of green marbles) / (New total number of marbles)\n    P(Green) = 3 / 14.\n\nTherefore, the probability that the next marble picked is a green marble is 3/14.",
+      "hint": "Remember to adjust both the total number of marbles and the number of marbles of a specific colour if an item is removed from the bag before calculating the probability.",
+      "generatedAt": "2026-04-29T22:25:18.851693"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_002",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A standard six-sided dice is rolled once. The faces are numbered 1, 2, 3, 4, 5, 6. What is the probability that the number rolled is NOT a multiple of 3? Show your working.",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/6"
+      ],
+      "correctAnswer": "2/3",
+      "explanation": "To solve this problem, we need to follow these steps:\n1.  **Identify all possible outcomes:** When a standard six-sided dice is rolled, the possible outcomes are 1, 2, 3, 4, 5, 6. There are 6 total possible outcomes.\n2.  **Identify the multiples of 3:** Among the possible outcomes, the numbers that are multiples of 3 are 3 and 6. There are 2 such numbers.\n3.  **Identify the numbers that are NOT multiples of 3:** Since we are looking for the probability of NOT rolling a multiple of 3, we list the numbers that are not 3 or 6. These are 1, 2, 4, 5. There are 4 such numbers.\n4.  **Calculate the probability:** The probability of an event is calculated as (Number of favourable outcomes) / (Total number of possible outcomes).\n    P(NOT a multiple of 3) = (Number of outcomes that are NOT a multiple of 3) / (Total number of outcomes)\n    P(NOT a multiple of 3) = 4 / 6\n5.  **Simplify the fraction:** The fraction 4/6 can be simplified by dividing both the numerator and the denominator by their greatest common divisor, which is 2.\n    4 ÷ 2 = 2\n    6 ÷ 2 = 3\n    So, P(NOT a multiple of 3) = 2/3.",
+      "hint": "First, list all the possible outcomes when rolling the dice. Then, identify which of these numbers are multiples of 3, and consequently, which are not.",
+      "generatedAt": "2026-04-29T22:25:39.731846"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_003",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A class has 30 students. 18 of these students walk to school. For the students who do not walk to school, 8 of them travel by bus, and the remaining students cycle to school.\n\nWhat is the probability that a student chosen randomly from the class cycles to school? Show your working.",
+      "options": [
+        "0.6",
+        "0.267 (to 3 d.p.)",
+        "0.133 (to 3 d.p.)",
+        "0.4"
+      ],
+      "correctAnswer": "0.133 (to 3 d.p.)",
+      "explanation": "Step 1: Calculate the number of students who do not walk to school.\nTotal students = 30.\nStudents who walk = 18.\nStudents who do not walk = Total students - Students who walk = 30 - 18 = 12 students.\n\nStep 2: Calculate the number of students who cycle to school.\nAmong the 12 students who do not walk, 8 travel by bus.\nStudents who cycle = Students who do not walk - Students who travel by bus = 12 - 8 = 4 students.\n\nStep 3: Calculate the probability that a randomly chosen student cycles to school.\nProbability = (Number of students who cycle) / (Total number of students)\nProbability = 4 / 30\n\nStep 4: Simplify the fraction or convert to a decimal.\n4/30 can be simplified to 2/15 by dividing both the numerator and denominator by 2.\nAs a decimal: 2 ÷ 15 = 0.1333...\nRounded to 3 decimal places, the probability is 0.133.",
+      "hint": "First, determine how many students do not walk to school. Then, use that number to find out how many of those students cycle, before calculating the probability for the whole class.",
+      "generatedAt": "2026-04-29T22:26:04.853111"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_004",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A spinner is designed with several sections of different colours. There are 5 red sections and 3 blue sections. The probability of the spinner landing on a red section is 5/15.\n\nCalculate the probability of the spinner landing on a yellow section. Show your working clearly.",
+      "options": [
+        "1/3",
+        "7/15",
+        "8/15",
+        "2/5"
+      ],
+      "correctAnswer": "7/15",
+      "explanation": "Step 1: Determine the total number of sections on the spinner.\nThe probability of an event is calculated as (Number of favourable outcomes) / (Total number of possible outcomes).\nWe are given that there are 5 red sections and the probability of landing on a red section is 5/15.\nSo, P(Red) = (Number of red sections) / (Total sections)\n5/15 = 5 / (Total sections)\nFrom this, we can deduce that the Total sections = 15.\n\nStep 2: Determine the number of yellow sections.\nWe know the total number of sections is 15.\nNumber of red sections = 5.\nNumber of blue sections = 3.\nNumber of yellow sections = Total sections - Number of red sections - Number of blue sections\nNumber of yellow sections = 15 - 5 - 3 = 7.\n\nStep 3: Calculate the probability of landing on a yellow section.\nP(Yellow) = (Number of yellow sections) / (Total sections)\nP(Yellow) = 7 / 15.",
+      "hint": "Start by using the given probability for red sections to figure out the total number of sections on the spinner.",
+      "generatedAt": "2026-04-29T22:26:17.246292"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_005",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small shop sells 25 different types of chocolate bars. Out of these, 10 types contain nuts, and the rest do not.\nThe shop manager decides to remove 5 of the chocolate bar types that contain nuts from the display.\nIf a customer then chooses one chocolate bar type at random from the remaining selection, what is the probability that it contains nuts?\nShow your working.",
+      "options": [
+        "2/5",
+        "1/4",
+        "1/5",
+        "1/2"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "1.  **Understand the initial situation:**\n    *   Total number of chocolate bar types = 25.\n    *   Number of chocolate bar types containing nuts = 10.\n    *   Number of chocolate bar types without nuts = 25 - 10 = 15.\n2.  **Account for the manager's action:**\n    *   The manager removes 5 types of chocolate bars that contain nuts.\n    *   New number of chocolate bar types containing nuts = 10 - 5 = 5.\n    *   The total number of chocolate bar types also decreases by 5.\n    *   New total number of chocolate bar types = 25 - 5 = 20.\n3.  **Calculate the new probability:**\n    *   The probability that a randomly chosen chocolate bar from the remaining selection contains nuts is:\n        (Number of nut bars remaining) / (Total number of bars remaining) = 5 / 20.\n    *   Simplify the fraction: 5/20 = 1/4.\n    Therefore, the probability is 1/4.",
+      "hint": "First, determine the new number of chocolate bar types that contain nuts, and the new total number of chocolate bar types after the manager's action. Then use these new values to calculate the probability.",
+      "generatedAt": "2026-04-29T22:26:38.771187"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_006",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A music streaming service has a playlist containing 30 songs. Out of these 30 songs, 12 are pop songs and 8 are rock songs, with the remaining songs being classical songs. After a week, 2 pop songs are removed from the playlist and 3 new classical songs are added. All other songs remain the same. A song is then chosen at random from the updated playlist. Calculate the probability that this chosen song is a classical song. Show your working.",
+      "options": [
+        "1/3",
+        "13/30",
+        "13/31",
+        "10/31"
+      ],
+      "correctAnswer": "13/31",
+      "explanation": "1. First, determine the number of classical songs in the original playlist:\n   Total songs = 30\n   Pop songs = 12\n   Rock songs = 8\n   Number of classical songs = Total songs - Pop songs - Rock songs\n   Number of classical songs = 30 - 12 - 8 = 10 songs.\n\n2. Next, calculate the number of each type of song after the changes:\n   2 pop songs are removed: New number of pop songs = 12 - 2 = 10 songs.\n   3 new classical songs are added: New number of classical songs = 10 + 3 = 13 songs.\n   Rock songs remain the same: 8 songs.\n\n3. Calculate the new total number of songs in the playlist:\n   New total songs = New pop songs + Rock songs + New classical songs\n   New total songs = 10 + 8 + 13 = 31 songs.\n\n4. Finally, calculate the probability of choosing a classical song from the updated playlist:\n   Probability (Classical) = (Number of classical songs) / (Total number of songs)\n   Probability (Classical) = 13 / 31.",
+      "hint": "Begin by finding out how many classical songs there are initially. Then, adjust the counts for pop songs, classical songs, and the overall total number of songs based on the changes before calculating the final probability.",
+      "generatedAt": "2026-04-29T22:26:54.093544"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_007",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A box contains 24 pens. One third of the pens are blue. One quarter of the pens are black. The rest of the pens are red.\nA pen is chosen at random from the box.\nWhat is the probability that the chosen pen is red? Show your working.",
+      "options": [
+        "1/3",
+        "1/4",
+        "5/12",
+        "7/12"
+      ],
+      "correctAnswer": "5/12",
+      "explanation": "First, calculate the number of blue pens: (1/3) * 24 = 8 pens.\nNext, calculate the number of black pens: (1/4) * 24 = 6 pens.\nFind the number of red pens by subtracting the blue and black pens from the total: 24 - 8 - 6 = 10 pens.\nThe total number of pens is 24.\nThe probability of choosing a red pen is the number of red pens divided by the total number of pens: 10/24.\nSimplify the fraction: 10/24 = 5/12.",
+      "hint": "Start by calculating the number of blue pens and the number of black pens in the box. Then, work out how many pens are red.",
+      "generatedAt": "2026-04-29T22:27:05.513078"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_008",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A charity stall has 60 lucky dip tickets for sale. There are 15 tickets that win a small prize and 5 tickets that win a large prize. All the remaining tickets win no prize.\nA person buys one ticket at random.\n\nDetermine the probability that the ticket does not win a prize, expressing your answer as a decimal rounded to three significant figures on the 0-1 probability scale. Show your working clearly.",
+      "options": [
+        "0.250",
+        "0.333",
+        "0.667",
+        "0.750"
+      ],
+      "correctAnswer": "0.667",
+      "explanation": "1. First, calculate the total number of tickets that win a prize:\n   Number of small prize tickets = 15\n   Number of large prize tickets = 5\n   Total winning tickets = 15 + 5 = 20\n\n2. Next, calculate the number of tickets that win no prize:\n   Total tickets = 60\n   Tickets winning no prize = Total tickets - Total winning tickets\n   Tickets winning no prize = 60 - 20 = 40\n\n3. Now, calculate the probability of a ticket winning no prize:\n   Probability (no prize) = (Number of tickets winning no prize) / (Total number of tickets)\n   Probability (no prize) = 40 / 60\n   Probability (no prize) = 2 / 3\n\n4. Finally, convert the fraction to a decimal and round to three significant figures:\n   2 / 3 = 0.6666...\n   Rounded to three significant figures, this is 0.667.\n\nTherefore, the probability that the ticket does not win a prize is 0.667.",
+      "hint": "Start by finding the total number of tickets that do not win any prize. Then, use this value with the total number of tickets to calculate the probability.",
+      "generatedAt": "2026-04-29T22:27:21.064914"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_009",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A Year 7 class has 30 students. 18 of these students are 12 years old, and the remaining students are 13 years old. In the class, 6 of the 12-year-old students play football, and 4 of the 13-year-old students play football. If a student is chosen at random from the students who do NOT play football, what is the probability that they are 13 years old? Show your working.",
+      "options": [
+        "1/3",
+        "2/5",
+        "8/15",
+        "3/10"
+      ],
+      "correctAnswer": "2/5",
+      "explanation": "1.  First, calculate the number of 13-year-old students:\n    Total students = 30\n    12-year-old students = 18\n    13-year-old students = 30 - 18 = 12 students.\n\n2.  Next, calculate the total number of students who play football:\n    12-year-olds who play football = 6\n    13-year-olds who play football = 4\n    Total students who play football = 6 + 4 = 10 students.\n\n3.  Now, calculate the total number of students who do NOT play football:\n    Total students = 30\n    Students who play football = 10\n    Students who do NOT play football = 30 - 10 = 20 students. This forms our new sample space for the probability.\n\n4.  Then, calculate the number of 13-year-old students who do NOT play football:\n    Total 13-year-old students = 12\n    13-year-old students who play football = 4\n    13-year-old students who do NOT play football = 12 - 4 = 8 students.\n\n5.  Finally, calculate the probability that a student chosen from those who do NOT play football is 13 years old:\n    P(13-year-old | does NOT play football) = (Number of 13-year-olds who do NOT play football) / (Total students who do NOT play football)\n    P = 8 / 20\n\n6.  Simplify the fraction:\n    P = 8 ÷ 4 / 20 ÷ 4 = 2 / 5.\n\nTherefore, the probability is 2/5.",
+      "hint": "Start by identifying the total number of students who do not play football. This group will be the denominator for your probability calculation.",
+      "generatedAt": "2026-04-29T22:27:35.505127"
+    },
+    {
+      "id": "m-y7-prob-basics_intermediate_010",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A bag contains only red, blue, and yellow counters.\nThere are 15 red counters.\nThe number of blue counters is one-third of the number of red counters.\nThe total number of counters in the bag is 45.\nCalculate the probability of picking a yellow counter at random from the bag.\nGive your answer as a fraction in its simplest form. Show your working.",
+      "options": [
+        "1/3",
+        "1/5",
+        "5/9",
+        "2/5"
+      ],
+      "correctAnswer": "5/9",
+      "explanation": "1.  **Calculate the number of blue counters:**\n    The number of red counters is 15.\n    The number of blue counters is one-third of the number of red counters.\n    Number of blue counters = (1/3) × 15 = 5 counters.\n\n2.  **Calculate the number of yellow counters:**\n    The bag contains only red, blue, and yellow counters, and the total is 45.\n    Total counters = Number of red + Number of blue + Number of yellow\n    45 = 15 + 5 + Number of yellow\n    45 = 20 + Number of yellow\n    Number of yellow = 45 - 20 = 25 counters.\n\n3.  **Calculate the probability of picking a yellow counter:**\n    Probability is calculated as (Number of favourable outcomes) / (Total number of possible outcomes).\n    P(Yellow) = Number of yellow counters / Total number of counters\n    P(Yellow) = 25 / 45\n\n4.  **Simplify the fraction:**\n    Both the numerator (25) and the denominator (45) are divisible by 5.\n    P(Yellow) = (25 ÷ 5) / (45 ÷ 5) = 5/9.\n\nTherefore, the probability of picking a yellow counter is 5/9.",
+      "hint": "First, use the information about red counters to find the number of blue counters. Then, use the total number of counters to find out how many yellow counters there are. Finally, calculate the probability.",
+      "generatedAt": "2026-04-29T22:27:51.593898"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y7-prob-basics_advanced_001",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "At the school fete, there are two lucky dip games, Game A and Game B.\n\nIn Game A, a box contains 10 small toys: 4 superhero figures, 3 animal figures, and 3 mini-cars. To win a prize, a child must pick a superhero figure.\n\nIn Game B, a different box contains 12 small toys: 5 bouncy balls, 4 stickers, and 3 keychains. To win a prize, a child must pick a bouncy ball.\n\nWhich statement correctly compares the probabilities of winning a prize in each game? You must show your working.",
+      "options": [
+        "A. The probability of winning Game A is higher than Game B.",
+        "B. The probability of winning Game B is higher than Game A.",
+        "C. The probabilities of winning Game A and Game B are equal.",
+        "D. It is impossible to calculate the probabilities with the given information."
+      ],
+      "correctAnswer": "B. The probability of winning Game B is higher than Game A.",
+      "explanation": "1.  **Calculate the probability of winning Game A:**\n    *   Total number of toys in Game A = 4 (superhero figures) + 3 (animal figures) + 3 (mini-cars) = 10 toys.\n    *   Number of favourable outcomes (picking a superhero figure) = 4.\n    *   Probability of winning Game A = (Favourable outcomes) / (Total outcomes) = 4/10 = 2/5.\n\n2.  **Calculate the probability of winning Game B:**\n    *   Total number of toys in Game B = 5 (bouncy balls) + 4 (stickers) + 3 (keychains) = 12 toys.\n    *   Number of favourable outcomes (picking a bouncy ball) = 5.\n    *   Probability of winning Game B = (Favourable outcomes) / (Total outcomes) = 5/12.\n\n3.  **Compare the probabilities:**\n    *   We need to compare 2/5 and 5/12. To do this, we can find a common denominator. The least common multiple of 5 and 12 is 60.\n    *   Convert 2/5 to have a denominator of 60: (2 * 12) / (5 * 12) = 24/60.\n    *   Convert 5/12 to have a denominator of 60: (5 * 5) / (12 * 5) = 25/60.\n    *   Since 25/60 is greater than 24/60, the probability of winning Game B (25/60) is higher than the probability of winning Game A (24/60).\n\nTherefore, the correct statement is that the probability of winning Game B is higher than Game A.",
+      "hint": "First, calculate the probability of winning for each game separately. Remember that probability is the number of favourable outcomes divided by the total number of possible outcomes. Then, compare the two probabilities by finding a common denominator or converting them to decimals.",
+      "generatedAt": "2026-04-29T22:28:10.722551"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_002",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A bag contains 6 red counters, 4 blue counters, and 5 green counters. All counters are identical in size and shape.\nA counter is drawn at random from the bag and its colour is noted. This counter is NOT replaced.\n\nIf we know that the first counter drawn was a blue counter, what is the probability that the next counter drawn from the bag will be a green counter?\n\nShow your working for full marks.",
+      "options": [
+        "5/14",
+        "1/3",
+        "2/7",
+        "4/15"
+      ],
+      "correctAnswer": "5/14",
+      "explanation": "Initially, the bag contains:\n- 6 Red counters\n- 4 Blue counters\n- 5 Green counters\n\nTo find the total number of counters in the bag: 6 + 4 + 5 = 15 counters.\n\nThe question states that the first counter drawn was a blue counter, and it was NOT replaced. This means one blue counter has been removed from the bag.\n\nAfter the first blue counter is removed, the contents of the bag change:\n- Number of Red counters = 6 (unchanged)\n- Number of Blue counters = 4 - 1 = 3\n- Number of Green counters = 5 (unchanged)\n\nNow, the total number of counters remaining in the bag is 6 + 3 + 5 = 14 counters.\n\nWe need to find the probability that the *next* counter drawn will be a green counter. The number of favourable outcomes (green counters) is 5, and the total number of possible outcomes (remaining counters) is 14.\n\nProbability (drawing a green counter next) = (Number of green counters) / (Total number of remaining counters)\nProbability = 5 / 14.",
+      "hint": "First, determine how many counters of each colour, and the total number of counters, are left in the bag *after* the first blue counter has been removed and not replaced. Then, calculate the probability using these new numbers.",
+      "generatedAt": "2026-04-29T22:28:29.537753"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_003",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A school drama club has a total of 40 members. Each member participates in at least one of two activities: acting or stage management.\n\nThere are 15 members who participate only in acting.\nThere are 10 members who participate only in stage management.\nAll other members participate in both acting and stage management.\n\nA member of the drama club is selected at random to represent the club at a regional competition.\n\nWhat is the probability that the chosen member participates in acting? Show your working.",
+      "options": [
+        "A) 1/4",
+        "B) 1/2",
+        "C) 3/4",
+        "D) 7/8"
+      ],
+      "correctAnswer": "C) 3/4",
+      "explanation": "1.  First, determine the number of members who participate in both acting and stage management.\n    Total members in the drama club = 40.\n    Members who participate only in acting = 15.\n    Members who participate only in stage management = 10.\n    The number of members who participate in both is the total minus those who do only one activity:\n    Members who participate in both = 40 - (15 + 10) = 40 - 25 = 15 members.\n\n2.  Next, determine the total number of members who participate in acting.\n    This includes those who participate only in acting AND those who participate in both acting and stage management.\n    Total members who participate in acting = (Members who participate only in acting) + (Members who participate in both)\n    Total members who participate in acting = 15 + 15 = 30 members.\n\n3.  Finally, calculate the probability.\n    The total number of possible outcomes (total members in the club) = 40.\n    The number of favourable outcomes (members who participate in acting) = 30.\n    Probability (chosen member participates in acting) = (Number of favourable outcomes) / (Total number of possible outcomes)\n    Probability (chosen member participates in acting) = 30 / 40 = 3/4.\n\nTherefore, the probability that the chosen member participates in acting is 3/4.",
+      "hint": "Start by finding out how many members participate in 'both' activities. Then, calculate the total number of members involved in acting, including those who do it exclusively and those who do it as well as stage management.",
+      "generatedAt": "2026-04-29T22:28:45.356027"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_004",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A school talent show features 60 student performers. Each student performs either a song or a dance. There are 35 students performing a song, and the rest are performing a dance.\n\nAmong the students performing a song, 14 of them also play an instrument during their act.\nAmong the students performing a dance, 10 of them also play an instrument during their act.\n\nA student is chosen at random to open the show.\nWhat is the probability that the student chosen is performing a dance but is NOT playing an instrument?\nShow your working and give your answer as a fraction in its simplest form.",
+      "options": [
+        "1/4",
+        "1/5",
+        "1/6",
+        "1/3"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "1. First, calculate the number of students performing a dance:\n   Total students = 60\n   Students performing a song = 35\n   Students performing a dance = Total students - Students performing a song = 60 - 35 = 25 students.\n\n2. Next, calculate the number of students who are performing a dance but are NOT playing an instrument:\n   Students performing a dance who also play an instrument = 10\n   Students performing a dance and NOT playing an instrument = Students performing a dance - Students performing a dance who play an instrument = 25 - 10 = 15 students.\n\n3. Now, calculate the probability:\n   Probability = (Number of students performing a dance and NOT playing an instrument) / (Total number of students)\n   Probability = 15 / 60\n\n4. Finally, simplify the fraction:\n   Divide both the numerator and the denominator by their greatest common divisor, which is 15.\n   15 ÷ 15 = 1\n   60 ÷ 15 = 4\n   So, the probability is 1/4.",
+      "hint": "Start by finding the total number of students who perform a dance. Then, from this group, work out how many do not play an instrument.",
+      "generatedAt": "2026-04-29T22:29:02.492011"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_005",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A company manufactures small decorative tiles. Each tile has a letter printed on it and a colour. \nThere are 120 tiles in a batch.\n\nOne-quarter of the tiles have the letter 'A'.\nThe remaining tiles are evenly split between letters 'B' and 'C'.\n\nFor the tiles with letter 'A':\n*   Half are red.\n*   Half are blue.\n\nFor the tiles with letter 'B':\n*   Two-thirds are blue.\n*   The rest are green.\n\nFor the tiles with letter 'C':\n*   One-third are red.\n*   One-third are blue.\n*   One-third are green.\n\nA single tile is chosen at random from the batch. What is the probability that the chosen tile is either red OR has the letter 'B'? Give your answer as a fraction in its simplest form. Show your working clearly.",
+      "options": [
+        "A) 5/8",
+        "B) 1/2",
+        "C) 1/4",
+        "D) 3/8"
+      ],
+      "correctAnswer": "A) 5/8",
+      "explanation": "To solve this, first we need to determine the number of tiles for each category:\n\n1.  **Calculate the number of tiles for each letter (A, B, C):**\n    *   Total tiles = 120\n    *   Tiles with letter 'A': 1/4 of 120 = 30 tiles.\n    *   Remaining tiles: 120 - 30 = 90 tiles.\n    *   Tiles with letter 'B': The remaining tiles are evenly split, so 90 / 2 = 45 tiles.\n    *   Tiles with letter 'C': The remaining tiles are evenly split, so 90 / 2 = 45 tiles.\n    (Check: 30 + 45 + 45 = 120 tiles)\n\n2.  **Calculate the number of tiles for each colour within each letter category:**\n    *   **Letter 'A' (30 tiles):**\n        *   Red 'A' tiles: 1/2 of 30 = 15 tiles.\n        *   Blue 'A' tiles: 1/2 of 30 = 15 tiles.\n    *   **Letter 'B' (45 tiles):**\n        *   Blue 'B' tiles: 2/3 of 45 = 30 tiles.\n        *   Green 'B' tiles (the rest): 45 - 30 = 15 tiles.\n    *   **Letter 'C' (45 tiles):**\n        *   Red 'C' tiles: 1/3 of 45 = 15 tiles.\n        *   Blue 'C' tiles: 1/3 of 45 = 15 tiles.\n        *   Green 'C' tiles: 1/3 of 45 = 15 tiles.\n\n3.  **Identify the total number of tiles that are either red OR have the letter 'B':**\n    *   Tiles that are **Red**: These are the Red 'A' tiles and the Red 'C' tiles.\n        *   Total Red tiles = 15 (from A) + 15 (from C) = 30 tiles.\n    *   Tiles that have the **letter 'B'**: These are all the 'B' tiles.\n        *   Total 'B' tiles = 45 tiles.\n    *   Now, we need to count tiles that are 'Red' OR 'B'. We must be careful not to double-count any tiles. Are there any tiles that are both Red AND have the letter 'B'? Looking at the breakdown for 'B' tiles, they are either blue or green; none are red. So, there is no overlap between the 'Red' tiles and the 'B' tiles.\n    *   Therefore, the total number of favourable outcomes is the sum of Red tiles and 'B' tiles: 30 + 45 = 75 tiles.\n\n4.  **Calculate the probability:**\n    *   Probability = (Number of favourable outcomes) / (Total number of possible outcomes)\n    *   Probability = 75 / 120\n\n5.  **Simplify the fraction:**\n    *   Divide both numerator and denominator by 5: 75 ÷ 5 = 15, 120 ÷ 5 = 24. So, 15/24.\n    *   Divide both numerator and denominator by 3: 15 ÷ 3 = 5, 24 ÷ 3 = 8. So, 5/8.\n\nThe probability that the chosen tile is either red OR has the letter 'B' is 5/8.",
+      "hint": "Start by calculating how many tiles have each letter (A, B, C) and then how many of each colour there are for each letter. Organising this information in a table might be helpful.",
+      "generatedAt": "2026-04-29T22:29:54.594489"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_006",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A student has five cards, each with a single digit: 1, 2, 3, 4, 5. \n\nThey randomly select two cards, one after the other without replacement, to form a two-digit number. The first card chosen is the tens digit and the second card chosen is the units digit.\n\nWhat is the probability that the two-digit number formed is greater than 30 but less than 50? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the probability, we need to determine the total number of possible two-digit numbers and the number of favourable two-digit numbers (those greater than 30 but less than 50).\n\n**Step 1: Determine the total number of possible two-digit numbers.**\n\n*   For the tens digit (first card), there are 5 choices (1, 2, 3, 4, 5).\n*   Since the cards are selected without replacement, for the units digit (second card), there are 4 remaining choices.\n*   Total possible two-digit numbers = Number of choices for tens digit × Number of choices for units digit = 5 × 4 = 20.\n\nLet's list them to be clear:\n12, 13, 14, 15\n21, 23, 24, 25\n31, 32, 34, 35\n41, 42, 43, 45\n51, 52, 53, 54\n(There are indeed 20 unique numbers).\n\n**Step 2: Determine the number of favourable outcomes (numbers greater than 30 but less than 50).**\n\nFor a number to be greater than 30 but less than 50, its tens digit must be 3 or 4.\n\n*   **If the tens digit is 3:** The possible numbers are 31, 32, 34, 35. (The units digit cannot be 3 as it's already used for the tens digit). All these numbers are greater than 30 and less than 50. So, there are 4 favourable numbers here.\n\n*   **If the tens digit is 4:** The possible numbers are 41, 42, 43, 45. (The units digit cannot be 4 as it's already used for the tens digit). All these numbers are greater than 30 and less than 50. So, there are 4 favourable numbers here.\n\n*   Total number of favourable outcomes = 4 (from tens digit 3) + 4 (from tens digit 4) = 8.\n\n**Step 3: Calculate the probability.**\n\nProbability = (Number of favourable outcomes) / (Total number of possible outcomes)\nProbability = 8 / 20\n\n**Step 4: Simplify the fraction.**\n\n8/20 can be simplified by dividing both the numerator and the denominator by 4.\nProbability = 2 / 5\n\nThe probability that the two-digit number formed is greater than 30 but less than 50 is **2/5**.",
+      "explanation": "The problem requires calculating a theoretical probability. First, determine the total number of possible outcomes by considering the choices for the tens and units digits (5 options for the first, 4 for the second without replacement, so 5x4=20 total numbers). Next, identify the favourable outcomes: numbers greater than 30 but less than 50. This means the tens digit must be 3 or 4. List the numbers possible with 3 as the tens digit (31, 32, 34, 35 - 4 numbers) and with 4 as the tens digit (41, 42, 43, 45 - 4 numbers). This gives 4+4=8 favourable outcomes. Finally, calculate the probability as the ratio of favourable outcomes to total outcomes (8/20) and simplify it (2/5).",
+      "hint": "Start by listing all the possible two-digit numbers you can form with the given cards. Remember that the cards are selected without replacement, and the order matters (tens digit then units digit). Then, identify which of these numbers meet the specific condition.",
+      "generatedAt": "2026-04-29T22:30:11.459647"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_007",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A local community centre is holding an open day. There are 70 visitors in total.\nAmong these visitors, there are 45 adults and 25 children.\nOf the adults, 15 are wearing spectacles.\nOf the children, 8 are wearing spectacles.\nA visitor is chosen at random from everyone attending the open day.\nWorking is required.\nWhat is the probability that the chosen visitor is either an adult *not* wearing spectacles, or a child *wearing* spectacles?",
+      "options": [
+        "A. 19/35",
+        "B. 3/7",
+        "C. 23/70",
+        "D. 11/14"
+      ],
+      "correctAnswer": "A. 19/35",
+      "explanation": "1. First, identify the total number of possible outcomes. There are 70 visitors in total, so this is the denominator of our probability fraction.\n\n2. Next, identify the number of 'favourable' outcomes based on the first condition: 'an adult *not* wearing spectacles'.\n   Total adults = 45.\n   Adults wearing spectacles = 15.\n   Number of adults *not* wearing spectacles = Total adults - Adults wearing spectacles = 45 - 15 = 30.\n\n3. Now, identify the number of 'favourable' outcomes based on the second condition: 'a child *wearing* spectacles'.\n   Number of children wearing spectacles = 8.\n\n4. Since the question asks for 'either an adult *not* wearing spectacles, OR a child *wearing* spectacles', we add the number of favourable outcomes from both conditions:\n   Total favourable outcomes = (Adults not wearing spectacles) + (Children wearing spectacles) = 30 + 8 = 38.\n\n5. The probability is the total number of favourable outcomes divided by the total number of possible outcomes:\n   Probability = 38 / 70.\n\n6. Simplify the fraction by dividing both the numerator and the denominator by their greatest common divisor, which is 2:\n   38 ÷ 2 = 19\n   70 ÷ 2 = 35\n   So, the simplified probability is 19/35.",
+      "hint": "To solve this multi-step problem, first determine the total number of visitors. Then, calculate the number of adults who do *not* wear spectacles. After that, identify the number of children who *do* wear spectacles. Finally, combine these two groups of favourable outcomes to find the total for the numerator, and then form your probability fraction and simplify it.",
+      "generatedAt": "2026-04-29T22:30:33.964008"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_008",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A charity prepares gift bags for an event. Each bag contains exactly one item. There are three types of items: a pen, a notepad, or a keyring.\nInitially, the charity prepares 120 bags in total. One quarter of these bags contain a pen, and two fifths of these bags contain a notepad. The remaining bags contain a keyring.\nAll 120 bags are placed into a large box.\nLater, the charity adds 15 more pens (without bags) and 10 more notepads (without bags) to the same large box, mixing them thoroughly with the existing bags.\nA child then reaches into the box and randomly picks one item.\nWhat is the probability that the child picks a keyring?\nShow your working for full marks.",
+      "options": [
+        "42/145",
+        "7/20",
+        "2/5",
+        "9/29"
+      ],
+      "correctAnswer": "42/145",
+      "explanation": "Step 1: Calculate the initial number of each item type from the 120 bags.\nNumber of pens = (1/4) * 120 = 30 pens.\nNumber of notepads = (2/5) * 120 = 48 notepads.\nNumber of keyrings = Total bags - Pens - Notepads = 120 - 30 - 48 = 42 keyrings.\n\nStep 2: Calculate the total number of items in the box after the additional items are added.\nInitial items (from bags) = 120\nAdded loose pens = 15\nAdded loose notepads = 10\nTotal number of items in the box = 120 + 15 + 10 = 145 items.\n\nStep 3: Determine the final count for each type of item in the box.\nTotal pens = 30 (from bags) + 15 (loose) = 45 pens.\nTotal notepads = 48 (from bags) + 10 (loose) = 58 notepads.\nTotal keyrings = 42 (from bags) (no additional keyrings were added).\n\nStep 4: Calculate the probability of picking a keyring.\nProbability = (Number of favourable outcomes) / (Total number of possible outcomes)\nProbability of picking a keyring = (Number of keyrings) / (Total number of items in the box)\nP(keyring) = 42 / 145.\n\nTherefore, the correct answer is 42/145.",
+      "hint": "First, calculate the initial number of each item type from the bags. Then, determine the new total number of *all* items in the box and the new count for *each* item type after the loose items are added. Finally, apply the basic probability formula.",
+      "generatedAt": "2026-04-29T22:31:24.779696"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_009",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A local bakery prepares a large batch of freshly baked goods each morning. In a display basket, there are 30 croissants, 18 muffins, and 12 pain au chocolats.\n\nPart A: A customer randomly selects one item from the basket. Calculate the probability that the customer selects a muffin. Give your answer as a fraction in its simplest form. Show your working.\n\nPart B: On a different day, the baker adds 10 more pain au chocolats to the original basket (so the number of croissants and muffins are the same as the start of Part A, but the pain au chocolats are increased). A customer then randomly selects one item from this newly prepared basket. Calculate the probability that this customer selects a croissant. Give your answer as a fraction in its simplest form. Show your working.",
+      "options": [],
+      "correctAnswer": "For Part A:\nTotal number of items in the basket = 30 (croissants) + 18 (muffins) + 12 (pain au chocolats) = 60 items.\nNumber of muffins = 18.\nThe probability of selecting a muffin = (Number of muffins) / (Total number of items) = 18/60.\nTo simplify the fraction, divide both the numerator and the denominator by their greatest common divisor, which is 6.\n18 ÷ 6 = 3\n60 ÷ 6 = 10\nSo, the probability of selecting a muffin is 3/10.\n\nFor Part B:\nThe original number of croissants and muffins remains the same: 30 croissants and 18 muffins.\nThe number of pain au chocolats is increased by 10. So, new number of pain au chocolats = 12 + 10 = 22.\nNew total number of items in the basket = 30 (croissants) + 18 (muffins) + 22 (pain au chocolats) = 70 items.\nNumber of croissants = 30.\nThe probability of selecting a croissant = (Number of croissants) / (New total number of items) = 30/70.\nTo simplify the fraction, divide both the numerator and the denominator by their greatest common divisor, which is 10.\n30 ÷ 10 = 3\n70 ÷ 10 = 7\nSo, the probability of selecting a croissant is 3/7.",
+      "explanation": "This question requires calculating simple theoretical probabilities in two different scenarios. For each part, the first step is to determine the total number of possible outcomes. Then, identify the number of favourable outcomes for the specific event. Finally, calculate the probability as a fraction and simplify it to its lowest terms. Part B involves adjusting the total number of items and the number of a specific item before calculating the new probability.",
+      "hint": "Remember that probability is calculated as (Number of favourable outcomes) / (Total number of possible outcomes). For Part B, make sure to adjust the total number of items correctly after the baker adds more pain au chocolats to create the new basket.",
+      "generatedAt": "2026-04-29T22:31:45.877577"
+    },
+    {
+      "id": "m-y7-prob-basics_advanced_010",
+      "topicId": "m-y7-prob-basics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A coin collector has a large box containing coins from three different continents. There are 18 coins from Europe, 12 coins from Asia, and 20 coins from Africa in the box. All the coins are the same size and shape, so it is impossible to feel the difference between them. \n\n1. Calculate the probability of picking a coin from Europe at random from the original box. Express your answer as a fraction in its simplest form. (2 marks)\n\n2. The collector then adds 5 more coins from Asia to the box and removes 3 coins from Africa. All other coins remain in the box. What is the new probability of picking a coin from Asia at random from the box after these changes? Express your answer as a fraction in its simplest form and as a decimal, rounded to three decimal places where necessary. (3 marks)\n\n3. Is it more likely to pick a coin from Africa from the *original* box, or to pick a coin from Europe from the box *after* the changes described in part 2? Show all your calculations and explain your reasoning. (4 marks)\n\nWorking is required for all parts of this question.",
+      "options": [],
+      "correctAnswer": "1. First, calculate the total number of coins in the original box:\n   Total coins = Number of European coins + Number of Asian coins + Number of African coins\n   Total coins = 18 + 12 + 20 = 50 coins.\n   \n   The number of European coins is 18.\n   The probability of picking a European coin is (Number of European coins) / (Total number of coins) = 18 / 50.\n   To simplify the fraction, divide both the numerator and the denominator by their greatest common divisor, which is 2:\n   18 ÷ 2 = 9\n   50 ÷ 2 = 25\n   So, the probability is 9/25.\n\n2. Calculate the new number of coins after the changes:\n   Original Asian coins = 12. After adding 5, New Asian coins = 12 + 5 = 17.\n   Original African coins = 20. After removing 3, New African coins = 20 - 3 = 17.\n   European coins remain unchanged = 18.\n   \n   New total number of coins = New European coins + New Asian coins + New African coins\n   New total number of coins = 18 + 17 + 17 = 52 coins.\n   \n   The new number of Asian coins is 17.\n   The new probability of picking an Asian coin is (New number of Asian coins) / (New total number of coins) = 17 / 52.\n   This fraction cannot be simplified as 17 is a prime number and 52 is not a multiple of 17.\n   \n   To express as a decimal, divide 17 by 52:\n   17 ÷ 52 ≈ 0.326923...\n   Rounded to three decimal places, this is 0.327.\n\n3. Calculate the probability of picking a coin from Africa from the *original* box:\n   Number of African coins (original) = 20.\n   Total number of coins (original) = 50.\n   P(Africa, original) = 20 / 50 = 2 / 5 = 0.4.\n\n   Calculate the probability of picking a coin from Europe from the box *after* the changes:\n   Number of European coins (after changes) = 18 (unchanged).\n   Total number of coins (after changes) = 52 (from part 2).\n   P(Europe, after changes) = 18 / 52.\n   To simplify, divide both by 2: 18 ÷ 2 = 9; 52 ÷ 2 = 26.\n   P(Europe, after changes) = 9 / 26.\n   To compare, convert 9/26 to a decimal:\n   9 ÷ 26 ≈ 0.34615...\n   Rounded to three decimal places, this is 0.346.\n\n   Compare the probabilities:\n   P(Africa, original) = 0.4\n   P(Europe, after changes) ≈ 0.346\n   Since 0.4 is greater than 0.346, it is more likely to pick a coin from Africa from the *original* box.\n\n   Reasoning: The probability of picking an African coin from the original box is 0.4, which is greater than the probability of picking a European coin from the box after the changes, which is approximately 0.346. Therefore, picking an African coin from the original box is more likely.",
+      "explanation": "This problem requires careful tracking of the number of coins and the total number of coins as they change throughout the scenario. For each probability calculation, you need to identify the 'favourable outcomes' (the specific type of coin you're looking for) and the 'total possible outcomes' (the total number of coins in the box at that specific time). Remember to simplify fractions and convert to decimals accurately.",
+      "hint": "Remember to calculate the total number of coins carefully at each stage before finding the number of favourable outcomes for that specific stage. Pay close attention to how the number of coins for each continent and the overall total change after each action.",
+      "generatedAt": "2026-04-29T22:32:08.185068"
+    }
+  ]
+}

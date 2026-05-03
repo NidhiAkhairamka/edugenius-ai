@@ -1,0 +1,468 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y9-bonding_beginner_001",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which type of chemical bond involves the transfer of electrons from a metal atom to a non-metal atom?",
+      "options": [
+        "A. Covalent bonding",
+        "B. Metallic bonding",
+        "C. Ionic bonding",
+        "D. Hydrogen bonding"
+      ],
+      "correctAnswer": "C. Ionic bonding",
+      "explanation": "Ionic bonding is formed when a metal atom transfers one or more of its outer electrons to a non-metal atom. This results in the formation of positively charged metal ions and negatively charged non-metal ions, which are attracted to each other by strong electrostatic forces.",
+      "hint": "Consider how atoms achieve a full outer shell when a metal and a non-metal react together.",
+      "generatedAt": "2026-04-30T18:20:42.806506"
+    },
+    {
+      "id": "s-y9-bonding_beginner_002",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State how non-metal atoms achieve a stable outer electron shell when forming a covalent bond.",
+      "options": [
+        "By transferring electrons to each other.",
+        "By sharing electrons between them.",
+        "By losing electrons to become positive ions.",
+        "By gaining electrons to become negative ions."
+      ],
+      "correctAnswer": "By sharing electrons between them.",
+      "explanation": "Covalent bonds are formed when two non-metal atoms share one or more pairs of electrons. This sharing allows both atoms to achieve a full and stable outer electron shell, typically with 8 electrons (an octet, except for hydrogen which aims for 2). The other options describe the mechanisms of ionic bonding (transferring, losing, or gaining electrons) or are incorrect for covalent bonding.",
+      "hint": "Recall the fundamental process by which non-metal atoms bond together to achieve stability without forming ions.",
+      "generatedAt": "2026-04-30T18:20:53.169087"
+    },
+    {
+      "id": "s-y9-bonding_beginner_003",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the primary reason why atoms typically form chemical bonds.",
+      "options": [
+        "To become larger in size.",
+        "To achieve a stable outer electron shell.",
+        "To increase their mass.",
+        "To gain a positive charge."
+      ],
+      "correctAnswer": "To achieve a stable outer electron shell.",
+      "explanation": "Atoms form chemical bonds to achieve a stable electron configuration, which usually means having a full outer electron shell. This configuration, similar to that of a noble gas, is energetically favourable and makes the atom more stable. Options A, C, and D do not represent the fundamental driving force for chemical bond formation.",
+      "hint": "Consider the electron arrangement of noble gas elements and their observed reactivity.",
+      "generatedAt": "2026-04-30T18:21:04.265041"
+    },
+    {
+      "id": "s-y9-bonding_beginner_004",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the type of elements that typically combine to form a covalent bond.",
+      "options": [
+        "A. A metal and a non-metal",
+        "B. Two non-metals",
+        "C. Two metals",
+        "D. A metal and a noble gas"
+      ],
+      "correctAnswer": "B. Two non-metals",
+      "explanation": "Covalent bonds are formed when two non-metal atoms share one or more pairs of electrons to achieve a stable outer electron shell. This sharing allows both atoms to effectively have a full outer shell. Ionic bonds typically form between a metal and a non-metal, while metallic bonds are found between metal atoms.",
+      "hint": "Consider the electron sharing process characteristic of covalent bonding and how different types of elements (metals vs. non-metals) behave in terms of gaining or losing electrons.",
+      "generatedAt": "2026-04-30T18:21:11.606857"
+    },
+    {
+      "id": "s-y9-bonding_beginner_005",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the name given to the positively charged particles formed when a metal atom loses electrons to form an ionic bond.",
+      "options": [
+        "Anions",
+        "Cations",
+        "Molecules",
+        "Atoms"
+      ],
+      "correctAnswer": "Cations",
+      "explanation": "When a metal atom loses negatively charged electrons, it is left with more protons than electrons. This results in a net positive charge. Positively charged ions are specifically called cations.",
+      "hint": "Think about the specific name given to an ion with a positive charge.",
+      "generatedAt": "2026-04-30T18:21:23.950085"
+    },
+    {
+      "id": "s-y9-bonding_beginner_006",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Describe what happens to the electrons when two non-metal atoms form a covalent bond. (2 marks)",
+      "options": [],
+      "correctAnswer": "When two non-metal atoms form a covalent bond, electrons are shared (1 mark) between the two atoms (1 mark).",
+      "explanation": "Covalent bonding is a type of chemical bond where two atoms share one or more pairs of electrons. This typically occurs between non-metal atoms, allowing each atom to achieve a stable outer electron shell.",
+      "hint": "Think about the specific interaction of electrons between non-metal atoms that leads to bond formation.",
+      "generatedAt": "2026-04-30T18:21:34.319521"
+    },
+    {
+      "id": "s-y9-bonding_beginner_007",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Sodium (Na) is a Group 1 metal and Chlorine (Cl) is a Group 17 non-metal. State the type of chemical bond formed between a sodium atom and a chlorine atom.",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "correctAnswer": "Ionic",
+      "explanation": "Ionic bonds are typically formed between a metal atom and a non-metal atom. In this type of bond, electrons are transferred from the metal atom to the non-metal atom, creating oppositely charged ions that are attracted to each other. Since sodium is a metal and chlorine is a non-metal, they will form an ionic bond.",
+      "hint": "Recall the general rule for what type of chemical bond forms between a metal element and a non-metal element.",
+      "generatedAt": "2026-04-30T18:21:45.249388"
+    },
+    {
+      "id": "s-y9-bonding_beginner_008",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which type of chemical bond involves the sharing of electrons between atoms?",
+      "options": [
+        "A. Ionic bond",
+        "B. Covalent bond",
+        "C. Metallic bond",
+        "D. Hydrogen bond"
+      ],
+      "correctAnswer": "B. Covalent bond",
+      "explanation": "Covalent bonds are formed when two non-metal atoms share one or more pairs of electrons to achieve a stable outer electron shell. In contrast, ionic bonds involve the transfer of electrons, and metallic bonds involve a 'sea' of delocalised electrons. Hydrogen bonds are weaker intermolecular forces, not primary chemical bonds between atoms in the same way.",
+      "hint": "Recall the fundamental definitions of the main types of chemical bonds and how electrons are involved in each.",
+      "generatedAt": "2026-04-30T18:21:57.589771"
+    },
+    {
+      "id": "s-y9-bonding_beginner_009",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which type of chemical bond typically involves the formation of oppositely charged ions?",
+      "options": [
+        "A. Ionic bonding",
+        "B. Covalent bonding",
+        "C. Metallic bonding",
+        "D. Hydrogen bonding"
+      ],
+      "correctAnswer": "A. Ionic bonding",
+      "explanation": "Ionic bonding is formed when electrons are transferred from one atom to another, resulting in the creation of positively charged ions (cations) and negatively charged ions (anions). These oppositely charged ions are then strongly attracted to each other, forming the ionic bond. Covalent bonding involves the sharing of electrons between atoms, while metallic bonding involves a 'sea' of delocalised electrons surrounding a lattice of positive metal ions. Hydrogen bonding is a type of intermolecular force, not one of the primary types of chemical bonds.",
+      "hint": "Consider what happens to electrons when atoms become charged particles.",
+      "generatedAt": "2026-04-30T18:22:09.887250"
+    },
+    {
+      "id": "s-y9-bonding_beginner_010",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the characteristic feature of electrons in a metallic bond.",
+      "options": [
+        "A) They are shared between specific pairs of non-metal atoms.",
+        "B) They are transferred from metal atoms to non-metal atoms.",
+        "C) They are delocalised and free to move throughout the entire structure.",
+        "D) They are fixed in position around individual metal atoms."
+      ],
+      "correctAnswer": "C) They are delocalised and free to move throughout the entire structure.",
+      "explanation": "Metallic bonding is characterised by a 'sea' of delocalised electrons. These electrons are not held by any particular atom but are free to move throughout the entire metallic lattice. This movement of electrons is responsible for properties like electrical conductivity.\nOption A describes covalent bonding. Option B describes ionic bonding. Option D is incorrect as electrons in metallic bonds are mobile, not fixed.",
+      "hint": "Think about why metals are good conductors of electricity and how electrons behave in such materials.",
+      "generatedAt": "2026-04-30T18:22:19.028420"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y9-bonding_intermediate_001",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Magnesium oxide (MgO) is an ionic compound, and diamond (C) is a giant covalent structure.\n\n**Explain** why molten magnesium oxide can conduct electricity, but solid diamond cannot.",
+      "options": [
+        "A. Molten magnesium oxide conducts because its ions are free to move and carry charge, while solid diamond does not conduct because all its outer electrons are held in fixed covalent bonds.",
+        "B. Molten magnesium oxide conducts because it has delocalised electrons, while solid diamond does not conduct because its atoms are too tightly packed.",
+        "C. Molten magnesium oxide conducts because it has a metallic structure, allowing electrons to move freely, while solid diamond does not conduct because it is a non-metal.",
+        "D. Molten magnesium oxide does not conduct electricity, and solid diamond conducts electricity because it has a network of free electrons."
+      ],
+      "correctAnswer": "A. Molten magnesium oxide conducts because its ions are free to move and carry charge, while solid diamond does not conduct because all its outer electrons are held in fixed covalent bonds.",
+      "explanation": "1.  **Magnesium oxide (MgO):** This is an ionic compound. In its solid state, the ions (Mg²⁺ and O²⁻) are held in a fixed lattice and cannot move, so it does not conduct electricity. However, when molten, the ionic lattice breaks down, allowing the positive magnesium ions and negative oxide ions to become mobile. These free-moving charged ions can then carry an electric current, hence molten MgO conducts electricity.\n2.  **Diamond (C):** This is a giant covalent structure. Each carbon atom is covalently bonded to four other carbon atoms. All the outer electrons of each carbon atom are used in forming these strong covalent bonds. There are no delocalised (free-moving) electrons or mobile ions available within the structure to carry charge. Therefore, solid diamond does not conduct electricity.",
+      "hint": "Consider what types of charged particles are required for electrical conductivity and how the bonding type and physical state (solid or molten) affect the mobility of these particles.",
+      "generatedAt": "2026-04-30T18:22:34.195934"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_002",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A scientist is investigating two unknown solid substances, P and Q, at room temperature. Substance P is formed when an element from Group 2 reacts with an element from Group 16. Substance Q is formed when an element from Group 15 reacts with an element from Group 17.\n\nExplain why substance P is likely to have a significantly higher melting point than substance Q.",
+      "options": [],
+      "correctAnswer": "Substance P is formed from a Group 2 element (metal) and a Group 16 element (non-metal). This means substance P will form an ionic compound with strong electrostatic forces of attraction between oppositely charged ions in a giant ionic lattice structure.\n\nSubstance Q is formed from a Group 15 element (non-metal) and a Group 17 element (non-metal). This means substance Q will form a covalent compound, typically with a simple molecular structure, where there are strong covalent bonds within molecules but only weak intermolecular forces between molecules.\n\nA large amount of energy is required to overcome the strong electrostatic forces in the giant ionic lattice of substance P, resulting in a high melting point. In contrast, only a small amount of energy is needed to overcome the weak intermolecular forces between the simple molecules of substance Q, leading to a low melting point. Therefore, substance P has a significantly higher melting point than substance Q.",
+      "explanation": "This question requires two main steps:\n1.  **Identify the type of bonding for each substance:**\n    *   **Substance P:** Group 2 elements are metals, and Group 16 elements are non-metals. The reaction between a metal and a non-metal results in **ionic bonding**.\n    *   **Substance Q:** Group 15 elements are non-metals, and Group 17 elements are non-metals. The reaction between two non-metals results in **covalent bonding**.\n2.  **Relate the bonding type and structure to melting point:**\n    *   **Ionic compounds (like P)** form **giant ionic lattice structures**. In these structures, there are very strong electrostatic forces of attraction between the oppositely charged ions. A large amount of energy is required to overcome these strong forces to change state, hence they have high melting points.\n    *   **Covalent compounds formed from non-metals (like Q)** typically form **simple molecular structures** (unless specified as giant covalent, which is less common for two different non-metals in introductory GCSE). Within each molecule, the covalent bonds are strong, but between the molecules, there are only weak intermolecular forces of attraction. Only a small amount of energy is needed to overcome these weak intermolecular forces, resulting in low melting points.\n\nThe explanation must explicitly link the type of forces to the energy required and thus to the melting point for both substances, using linking words like 'because' or 'so'.",
+      "hint": "First, determine the type of bonding (ionic or covalent) for each substance based on the elements involved. Then, consider the structure and the strength of the forces that need to be overcome to melt each type of substance.",
+      "generatedAt": "2026-04-30T18:22:46.537048"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_003",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Element R is an alkaline earth metal. Element S is a halogen.\n\n1. State the type of chemical bond that would form between Element R and Element S. (1 mark)\n2. Explain, in terms of structure and bonding, why the compound formed between R and S would have a high melting point and would conduct electricity when molten. (3 marks)",
+      "options": [],
+      "correctAnswer": "1. Ionic bond.\n\n2. *High melting point:*\nElement R (an alkaline earth metal) readily loses electrons to form positive ions, while Element S (a halogen) readily gains electrons to form negative ions. Electrons are transferred from R to S, forming oppositely charged ions (e.g., R²⁺ and S⁻). These ions are held together by strong electrostatic forces of attraction in a giant ionic lattice structure. A large amount of energy is required to overcome these strong electrostatic forces, resulting in a high melting point.\n\n*Conductivity when molten:*\nIn the solid state, the ions are fixed in their positions within the giant ionic lattice and are not free to move, so solid ionic compounds do not conduct electricity. However, when the compound is molten, the rigid lattice structure breaks down, and the ions become mobile (free to move). These mobile ions are able to carry an electric charge, allowing the molten compound to conduct electricity.",
+      "explanation": "The correct answer provides the full model answer and explanation for both parts of the question, detailing the type of bond and the reasons for the observed properties in terms of structure and bonding.",
+      "hint": "First, determine the type of bond typically formed between a metal (alkaline earth metal) and a non-metal (halogen). Then, recall the specific structure and forces present in this type of bonding and how they influence the movement of charged particles.",
+      "generatedAt": "2026-04-30T18:23:03.888403"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_004",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Element Z is located in Group 2 of the Periodic Table. Element Q is located in Group 16.\n\na) State the type of chemical bond formed when element Z reacts with element Q. (1 mark)\nb) Explain how this type of bond forms between atoms of Z and Q, referring to electron behaviour and the resulting charged particles. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Ionic bond\n\nb) Element Z (from Group 2) is a metal. To achieve a stable electron configuration (a full outer shell), an atom of Z will lose its two outer shell electrons. This process results in the formation of a positively charged ion, Z²⁺.\nElement Q (from Group 16) is a non-metal. To achieve a stable electron configuration, an atom of Q will gain two electrons. This process results in the formation of a negatively charged ion, Q²⁻.\nThe strong electrostatic attraction between these oppositely charged ions (Z²⁺ and Q²⁻) forms the ionic bond.",
+      "explanation": "Part a) requires identifying the general characteristics of elements from their group numbers. Group 2 elements are metals, and Group 16 elements are non-metals. Chemical bonds formed between a metal and a non-metal are ionic bonds.\n\nPart b) requires explaining the process of ionic bond formation. Metals (like Z) tend to lose their valence electrons to achieve a stable electron configuration, forming positive ions (cations). Non-metals (like Q) tend to gain electrons to complete their valence shell, forming negative ions (anions). For Group 2 and Group 16 elements, this involves the transfer of two electrons from each Group 2 atom to each Group 16 atom (or a ratio that balances the charges). The 'cause' is the electron transfer driven by achieving stability, leading to the 'effect' of forming oppositely charged ions. The ultimate 'effect' is the formation of the ionic bond due to the electrostatic attraction between these ions.",
+      "hint": "Consider whether elements from Group 2 and Group 16 are metals or non-metals. Think about how metals and non-metals typically achieve stable electron configurations when they react with each other, focusing on electron transfer and the particles that are formed.",
+      "generatedAt": "2026-04-30T18:23:17.913105"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_005",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An element, M, has 2 electrons in its outermost electron shell and is in Period 3 of the Periodic Table. Another element, G, has 7 electrons in its outermost electron shell and is also in Period 3.\n\nExplain the type of chemical bond formed when element M reacts with element G. Your explanation should include:\n1. The transfer or sharing of electrons.\n2. The resulting electron configuration of each atom.\n3. The forces of attraction between the particles.\n",
+      "options": [],
+      "correctAnswer": "The type of chemical bond formed is **ionic bonding**.\n\n1.  Element M, having 2 outermost electrons, is a metal and will lose these 2 electrons to achieve a stable electron configuration (like Neon, 2,8). This forms a positive ion, M²⁺.\n2.  Element G, having 7 outermost electrons, is a non-metal and will gain 1 electron to achieve a stable electron configuration (like Argon, 2,8,8). This forms a negative ion, G⁻.\n3.  For a stable compound, one atom of M will react with two atoms of G. Element M transfers one electron to each of the two G atoms.\n4.  The resulting electron configuration for the M ion will be 2,8. The resulting electron configuration for each G ion will be 2,8,8.\n5.  Strong electrostatic forces of attraction form between the oppositely charged M²⁺ and G⁻ ions, holding them together in a giant ionic lattice structure.",
+      "explanation": "This is an intermediate two-step problem:\n\n**Step 1: Identify the nature of elements M and G based on their electron configurations and period.**\n*   Element M has 2 outer electrons, suggesting it is a metal that tends to lose electrons.\n*   Element G has 7 outer electrons, suggesting it is a non-metal that tends to gain electrons.\n\n**Step 2: Apply the rules for chemical bonding between a metal and a non-metal, and explain the bond formation.**\n*   Metals (like M) and non-metals (like G) typically form ionic bonds through the transfer of electrons.\n*   Element M will lose its 2 outer electrons to form a positive ion (M²⁺) with a full outer shell.\n*   Element G will gain 1 electron to form a negative ion (G⁻) with a full outer shell. Therefore, one M atom will react with two G atoms to balance the electron transfer.\n*   The explanation must detail the electron configurations after transfer and the electrostatic forces of attraction between the resulting oppositely charged ions.",
+      "hint": "Consider the number of electrons each element needs to lose or gain to achieve a full outer electron shell. This will tell you if they form positive or negative ions, and consequently the type of bonding.",
+      "generatedAt": "2026-04-30T18:23:39.364290"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_006",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Element X has an atomic number of 12. Element Y has 6 electrons in its outermost electron shell and is in Period 3.\n\na) State the type of chemical bonding that forms between element X and element Y. (1 mark)\nb) Explain why the compound formed between X and Y has a high melting point and is a solid at room temperature. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Ionic bonding\nb) The compound formed between X and Y is an ionic compound. In ionic compounds, there are strong electrostatic forces of attraction between the positively charged ions (from X) and negatively charged ions (from Y). These forces act in all directions and hold the ions together in a giant ionic lattice structure. A large amount of energy is required to overcome these strong electrostatic forces to break down the lattice, so the compound has a high melting point and is a solid at room temperature.",
+      "explanation": "1.  **Identify element X:** An atomic number of 12 means element X has 12 protons and 12 electrons. Its electron configuration is 2,8,2. With 2 electrons in its outer shell, X is a metal (Magnesium, Mg) and tends to lose 2 electrons to form a 2+ ion.\n2.  **Identify element Y:** Element Y has 6 electrons in its outer shell and is in Period 3. This means its electron configuration is 2,8,6. With 6 electrons in its outer shell, Y is a non-metal (Sulfur, S) and tends to gain 2 electrons to form a 2- ion.\n3.  **Determine bonding type (Part a):** Since X is a metal and Y is a non-metal, electrons will be transferred from X to Y. This type of bonding is **ionic bonding**.\n4.  **Explain properties (Part b):** Ionic compounds are characterised by strong electrostatic forces of attraction between oppositely charged ions. These forces hold the ions in a rigid, repeating **giant ionic lattice structure**. A significant amount of energy is required to overcome these very strong forces of attraction to separate the ions and melt the compound. Therefore, ionic compounds have **high melting points** and exist as **solids at room temperature**.",
+      "hint": "First, determine the electron configuration for both elements X and Y to identify if they are metals or non-metals. This will help you decide the type of bonding and then relate it to the physical properties.",
+      "generatedAt": "2026-04-30T18:23:57.010445"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_007",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Lithium is a highly reactive metal used in batteries. Chlorine is a reactive non-metal gas used in water purification. When lithium reacts with chlorine, a compound called lithium chloride is formed.\n\na) State the type of chemical bonding present in lithium chloride. (1 mark)\n\nb) Explain why lithium chloride has a high melting point and boiling point. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Ionic bonding\n\nb) Lithium chloride forms a giant ionic lattice structure. There are strong electrostatic forces of attraction between the positively charged lithium ions (Li⁺) and negatively charged chloride ions (Cl⁻). A large amount of thermal energy is required to overcome these strong electrostatic forces of attraction, which results in a high melting point and boiling point.",
+      "explanation": "Part a) requires identifying the bonding type based on the elements (metal + non-metal = ionic). Part b) requires explaining a property of ionic compounds (high melting/boiling point) by referring to the strong electrostatic forces within the giant ionic lattice and the energy needed to overcome them.",
+      "hint": "First, identify the classification of lithium and chlorine (metal or non-metal) to determine the bonding type. Then, describe the forces of attraction within this type of compound and relate them to the energy required to break the bonds.",
+      "generatedAt": "2026-04-30T18:24:09.773333"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_008",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An atom, X, has 11 protons. Another atom, Y, has 17 protons.\n\nDescribe, in terms of electron transfer and electrostatic attraction, the type of chemical bond that forms when X and Y react together. (4 marks)",
+      "options": [],
+      "correctAnswer": "Atom X has 11 protons, meaning it has an electron configuration of 2,8,1. It is a Group 1 metal.\nAtom Y has 17 protons, meaning it has an electron configuration of 2,8,7. It is a Group 7 non-metal.\n\n1.   Atom X (the metal) will lose its single outermost electron to achieve a stable full outer shell, forming a positive ion (X+).\n2.   Atom Y (the non-metal) will gain this electron from atom X to achieve a stable full outer shell, forming a negative ion (Y-).\n3.   This process is called electron transfer, where electrons are transferred from the metal atom to the non-metal atom.\n4.   The resulting oppositely charged ions (X+ and Y-) are then strongly attracted to each other by strong electrostatic forces, forming an ionic bond.",
+      "explanation": "The question requires the student to first deduce the nature of the elements from their proton numbers and then describe the bonding based on that information. \n\n**Step 1: Identify the electron configurations and nature of elements X and Y.**\n*   An atom with 11 protons is Sodium (Na). Its electron configuration is 2,8,1. This indicates it is a metal, as it has 1 electron in its outermost shell.\n*   An atom with 17 protons is Chlorine (Cl). Its electron configuration is 2,8,7. This indicates it is a non-metal, as it has 7 electrons in its outermost shell.\n\n**Step 2: Determine the type of bonding.**\n*   A metal (like X) reacting with a non-metal (like Y) typically forms an ionic bond through the transfer of electrons.\n\n**Step 3: Describe the ionic bonding process in detail (as required by 'Describe' and 'in terms of electron transfer and electrostatic attraction').**\n*   Element X (metal) will lose its single valence electron to achieve a stable electron configuration, forming a positively charged ion (X+).\n*   Element Y (non-metal) will gain this electron from element X to complete its outer shell and achieve a stable electron configuration, forming a negatively charged ion (Y-).\n*   This movement of electrons from atom X to atom Y is the process of electron transfer.\n*   The resulting oppositely charged ions (X+ and Y-) are then held together by strong electrostatic forces of attraction, forming an ionic bond.",
+      "hint": "First, determine the electron shell configuration and the type of element (metal or non-metal) for atom X and atom Y based on their proton numbers. Then, consider how atoms of these types usually react to achieve a stable outer electron shell.",
+      "generatedAt": "2026-04-30T18:24:25.928955"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_009",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Magnesium (Mg) atoms readily lose two electrons to form Mg²⁺ ions. Chlorine (Cl) atoms readily gain one electron to form Cl⁻ ions.\n\nWhich of the following statements correctly describes the type of bonding that occurs between magnesium and chlorine atoms, and a key property of the resulting compound?",
+      "options": [
+        "A) Covalent bonding; the compound will conduct electricity when solid.",
+        "B) Ionic bonding; the compound will have a low melting point.",
+        "C) Metallic bonding; the compound will be malleable.",
+        "D) Ionic bonding; the compound will conduct electricity when molten."
+      ],
+      "correctAnswer": "D) Ionic bonding; the compound will conduct electricity when molten.",
+      "explanation": "1. **Identify the bonding type:** Magnesium is a metal that forms a positive ion (Mg²⁺) by losing electrons. Chlorine is a non-metal that forms a negative ion (Cl⁻) by gaining electrons. The transfer of electrons between a metal and a non-metal leads to the formation of ions, which are held together by strong electrostatic forces. This type of bonding is called **ionic bonding**.\n2. **Identify properties of ionic compounds:** Ionic compounds form giant ionic lattice structures. Due to the strong electrostatic forces of attraction between the oppositely charged ions, a large amount of energy is required to overcome these forces. This results in **high melting and boiling points**.\n3. **Electrical conductivity:** In the solid state, the ions in an ionic compound are held in fixed positions within the lattice and cannot move, so solid ionic compounds do not conduct electricity. However, when an ionic compound is **molten (liquid) or dissolved in water**, the ions become free to move and can carry an electrical charge, thus allowing the compound to conduct electricity.\n4. **Evaluate options:**\n    - Option A is incorrect because the bonding is ionic, not covalent, and ionic compounds do not conduct electricity when solid.\n    - Option B is incorrect because ionic compounds have high melting points, not low melting points.\n    - Option C is incorrect because the bonding is ionic, not metallic, and the resulting compound is a rigid lattice, not typically malleable.\n    - Option D correctly identifies the bonding as ionic and accurately states that ionic compounds conduct electricity when molten, due to the presence of mobile ions.",
+      "hint": "Consider the type of elements involved (metal and non-metal) and the nature of their electron interaction to determine the bonding type. Then, recall the characteristic physical properties associated with that specific bonding type.",
+      "generatedAt": "2026-04-30T18:24:39.538040"
+    },
+    {
+      "id": "s-y9-bonding_intermediate_010",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A compound is formed between an element from Group 1 of the Periodic Table and an element from Group 17.\na) Explain, in terms of electron transfer, how the chemical bond in this compound is formed. (3 marks)\nb) Describe one physical property you would expect this compound to have, relating it to its bonding. (2 marks)",
+      "options": [],
+      "correctAnswer": "a) The element from Group 1 is a metal and has one electron in its outermost shell. The element from Group 17 is a non-metal and has seven electrons in its outermost shell. (1 mark)\nThe Group 1 metal atom will lose its single outer electron to achieve a stable full outer electron shell, forming a positive ion (cation). (1 mark)\nThis electron is transferred to the Group 17 non-metal atom, which gains it to achieve a stable full outer electron shell, forming a negative ion (anion). The strong electrostatic forces of attraction between these oppositely charged ions form an ionic bond. (1 mark)\n\nb) This compound would have a high melting and boiling point (1 mark). This is because a large amount of energy is required to overcome the strong electrostatic forces of attraction between the ions in the giant ionic lattice structure. (1 mark)\n(Other acceptable properties include: conducts electricity when molten or dissolved in water, but not as a solid; brittle.)",
+      "explanation": "Part (a) requires the student to identify the elements as metal/non-metal based on their group numbers, then describe the process of electron transfer from the metal to the non-metal, leading to the formation of ions and the subsequent electrostatic attraction that forms the ionic bond. This demonstrates understanding of ionic bonding formation. Part (b) requires the student to recall a characteristic property of ionic compounds and link it directly to the strength of the ionic bonds within their lattice structure.",
+      "hint": "For part (a), consider the electron configuration of Group 1 and Group 17 elements and how they achieve a stable outer shell. For part (b), think about the strength of the forces holding the particles together in this type of compound.",
+      "generatedAt": "2026-04-30T18:24:52.362876"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y9-bonding_advanced_001",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Consider three different pure substances, X, Y, and Z, with distinct chemical bonding characteristics.\n*   **Substance X** is formed when an atom from Group 1 donates its single outer electron to an atom from Group 17.\n*   **Substance Y** is a substance formed between two non-metal atoms, each sharing electrons to achieve a stable outer shell.\n*   **Substance Z** is a pure element from Group 2 of the Periodic Table, existing as a solid at room temperature.\n\n**(a) (i) State the type of chemical bonding found in Substance X.** (1 mark)\n**(ii) Explain why Substance X has a high melting point.** (3 marks)\n\n**(b) (i) Describe the arrangement of electrons that leads to the bonding in Substance Y.** (3 marks)\n**(ii) Explain why Substance Y typically has a low boiling point and does not conduct electricity.** (4 marks)\n\n**(c) Substance Z is a good conductor of electricity. Explain how its bonding structure accounts for this property.** (3 marks)",
+      "options": [],
+      "correctAnswer": "**(a) (i) State the type of chemical bonding found in Substance X.** (1 mark)\nIonic bonding.\n\n**(a) (ii) Explain why Substance X has a high melting point.** (3 marks)\nSubstance X forms a giant ionic lattice structure. There are strong electrostatic forces of attraction between the oppositely charged ions throughout the lattice. Therefore, a large amount of energy is required to overcome these strong forces to melt the substance, resulting in a high melting point.\n\n**(b) (i) Describe the arrangement of electrons that leads to the bonding in Substance Y.** (3 marks)\nSubstance Y consists of non-metal atoms. These atoms achieve a stable, full outer electron shell by sharing pairs of electrons in their outer shells.\n\n**(b) (ii) Explain why Substance Y typically has a low boiling point and does not conduct electricity.** (4 marks)\nSubstance Y forms simple molecular structures. Within these molecules, there are strong covalent bonds, but between the molecules, there are only weak intermolecular forces of attraction. Only a small amount of energy is required to overcome these weak intermolecular forces to boil the substance, hence its low boiling point. It does not conduct electricity because its molecules do not contain any free-moving ions or delocalised electrons to carry an electrical charge.\n\n**(c) Substance Z is a good conductor of electricity. Explain how its bonding structure accounts for this property.** (3 marks)\nSubstance Z is a metal and has a giant metallic lattice structure. In this structure, the metal atoms have lost their outer shell electrons to become positive metal ions. These outer shell electrons are delocalised (free to move) throughout the structure and can carry an electric charge, allowing the metal to conduct electricity.",
+      "explanation": "This is an open-ended question requiring detailed explanations. The model answer provides the expected content for each part, adhering to the marking criteria for 'State', 'Describe', and 'Explain' command words. It covers the identification of bonding types, the description of electron arrangements in bonding, and the explanation of physical properties (melting/boiling point, electrical conductivity) by linking them directly to the bonding type and resulting structure (giant ionic lattice, simple molecular, giant metallic lattice, and the presence/absence of delocalised electrons or free ions).",
+      "hint": "Remember to link the type of bonding to the resulting structure, and then link the structure and the forces within it to the observed physical properties (e.g., melting point, electrical conductivity).",
+      "generatedAt": "2026-04-30T18:25:11.076538"
+    },
+    {
+      "id": "s-y9-bonding_advanced_002",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A research team discovers two new elements, Element X and Element Y. Element X is identified as having 2 electrons in its outermost shell, while Element Y has 7 electrons in its outermost shell. These elements readily react together to form a stable compound, Z.\n\n1.  **State** the type of chemical bonding present in compound Z. (1 mark)\n2.  **Describe** the electron arrangement changes that occur when Element X and Element Y react to form compound Z. (3 marks)\n3.  **Explain** two distinct physical properties you would expect compound Z to exhibit, relating each property directly to its bonding and structure. (6 marks)\n4.  A different substance, Element G, is found to be a grey solid at room temperature and has a giant covalent structure. **Explain** why Element G, despite its strong bonds, does not conduct electricity when solid, unlike many metallic elements. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Type of bonding:** Ionic bonding. (1 mark)\n\n2.  **Electron arrangement changes:**\n    *   Element X has 2 valence electrons. To achieve a stable electron configuration (a full outer shell), it will lose its 2 valence electrons to form a positive ion (X²⁺). (1 mark)\n    *   Element Y has 7 valence electrons. To achieve a stable electron configuration, it will gain 1 electron to form a negative ion (Y⁻). (1 mark)\n    *   Therefore, one atom of Element X will transfer its 2 electrons to two atoms of Element Y (each gaining one electron). The resulting positively charged X²⁺ ions and negatively charged Y⁻ ions are then strongly attracted to each other by electrostatic forces. (1 mark)\n\n3.  **Two distinct physical properties of compound Z:**\n    *   **Property 1: High Melting/Boiling Point.** (1 mark)\n        *   **Explanation:** Compound Z has ionic bonding, which forms a giant ionic lattice structure. Within this lattice, there are strong electrostatic forces of attraction between the oppositely charged ions (X²⁺ and Y⁻). A large amount of energy is required to overcome these strong forces and break down the lattice structure for the substance to melt or boil, hence its high melting and boiling points. (2 marks)\n    *   **Property 2: Electrical Conductivity.** (1 mark)\n        *   **Explanation:** When solid, compound Z does not conduct electricity because its ions are held in fixed positions within the rigid lattice structure and are not free to move and carry charge. (1 mark) However, when molten (liquid) or dissolved in water, the ions become mobile and are free to move, allowing them to carry an electrical charge and conduct electricity. (1 mark)\n\n4.  **Why Element G (giant covalent) does not conduct electricity when solid:**\n    *   In a giant covalent structure like Element G, all the valence electrons are used in forming strong covalent bonds between atoms. (1 mark)\n    *   These electrons are localised within the bonds and are not free to move throughout the structure. (1 mark)\n    *   For a substance to conduct electricity, it must have mobile charged particles (either delocalised electrons or free-moving ions). (1 mark)\n    *   In contrast, metallic elements possess a 'sea' of delocalised electrons which are free to move and carry an electrical charge, enabling them to conduct electricity. Element G lacks these mobile charge carriers. (1 mark)",
+      "explanation": "1.  **Type of bonding:** Ionic bonding. (1 mark)\n\n2.  **Electron arrangement changes:**\n    *   Element X has 2 valence electrons. To achieve a stable electron configuration (a full outer shell), it will lose its 2 valence electrons to form a positive ion (X²⁺). (1 mark)\n    *   Element Y has 7 valence electrons. To achieve a stable electron configuration, it will gain 1 electron to form a negative ion (Y⁻). (1 mark)\n    *   Therefore, one atom of Element X will transfer its 2 electrons to two atoms of Element Y (each gaining one electron). The resulting positively charged X²⁺ ions and negatively charged Y⁻ ions are then strongly attracted to each other by electrostatic forces. (1 mark)\n\n3.  **Two distinct physical properties of compound Z:**\n    *   **Property 1: High Melting/Boiling Point.** (1 mark)\n        *   **Explanation:** Compound Z has ionic bonding, which forms a giant ionic lattice structure. Within this lattice, there are strong electrostatic forces of attraction between the oppositely charged ions (X²⁺ and Y⁻). A large amount of energy is required to overcome these strong forces and break down the lattice structure for the substance to melt or boil, hence its high melting and boiling points. (2 marks)\n    *   **Property 2: Electrical Conductivity.** (1 mark)\n        *   **Explanation:** When solid, compound Z does not conduct electricity because its ions are held in fixed positions within the rigid lattice structure and are not free to move and carry charge. (1 mark) However, when molten (liquid) or dissolved in water, the ions become mobile and are free to move, allowing them to carry an electrical charge and conduct electricity. (1 mark)\n\n4.  **Why Element G (giant covalent) does not conduct electricity when solid:**\n    *   In a giant covalent structure like Element G, all the valence electrons are used in forming strong covalent bonds between atoms. (1 mark)\n    *   These electrons are localised within the bonds and are not free to move throughout the structure. (1 mark)\n    *   For a substance to conduct electricity, it must have mobile charged particles (either delocalised electrons or free-moving ions). (1 mark)\n    *   In contrast, metallic elements possess a 'sea' of delocalised electrons which are free to move and carry an electrical charge, enabling them to conduct electricity. Element G lacks these mobile charge carriers. (1 mark)",
+      "hint": "For question 4, consider the fundamental requirement for a substance to conduct electricity and how electron arrangement differs between giant covalent structures and metallic structures.",
+      "generatedAt": "2026-04-30T18:25:32.537303"
+    },
+    {
+      "id": "s-y9-bonding_advanced_003",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A research team synthesises a new compound, Elementa-X, by reacting an element from Group 2 with an element from Group 17 of the Periodic Table. They observe that Elementa-X is a hard, brittle solid with a very high melting point (over 800 °C). It does not conduct electricity in its solid state, but becomes an excellent conductor when molten or dissolved in water.\n\nWhich of the following statements correctly identifies the type of chemical bonding in Elementa-X and provides a valid explanation for its electrical conductivity properties?",
+      "options": [
+        "A. Covalent bonding; it conducts electricity when molten because the covalent bonds break, releasing electrons.",
+        "B. Metallic bonding; it conducts electricity when molten because the delocalised electrons become more mobile.",
+        "C. Ionic bonding; it conducts electricity when molten or dissolved because the ions become free to move and carry charge.",
+        "D. Giant covalent bonding; it conducts electricity when molten because the high temperature frees up electrons from the strong covalent network."
+      ],
+      "correctAnswer": "C. Ionic bonding; it conducts electricity when molten or dissolved because the ions become free to move and carry charge.",
+      "explanation": "Elementa-X is formed between an element from Group 2 (a metal) and an element from Group 17 (a non-metal). The reaction between a metal and a non-metal typically results in **ionic bonding**, where electrons are transferred to form positive and negative ions.\n\nThe observed properties of Elementa-X – a hard, brittle solid with a very high melting point, and conducting electricity only when molten or dissolved – are characteristic of ionic compounds.\n\nIn the solid state, ionic compounds do not conduct electricity because their ions are held in fixed positions within a rigid crystal lattice and are unable to move. However, when the ionic compound is molten (melted) or dissolved in water, the strong electrostatic forces of attraction holding the ions in the lattice are overcome. This allows the positive and negative ions to become mobile and free to move, enabling them to carry electrical charge and thus conduct electricity. Options A, B, and D describe incorrect bonding types or provide invalid explanations for the observed conductivity.",
+      "hint": "Consider the types of elements involved (metal or non-metal) and how their bonding structure influences the movement of charged particles in different states of matter.",
+      "generatedAt": "2026-04-30T18:25:49.736563"
+    },
+    {
+      "id": "s-y9-bonding_advanced_004",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A team of engineers is evaluating materials for a new generation of high-performance microchips and sensors. They are considering three distinct substances: **Copper (Cu)**, **Pure Silicon (Si)**, and **Gallium Nitride (GaN)**, a compound of gallium (Group 13) and nitrogen (Group 15). Each material has unique properties vital for its specific role:\n\n*   **Copper (Cu):** Used for interconnects and wiring. It has a high melting point (1085 °C), is malleable, ductile, and an excellent conductor of electricity and heat.\n*   **Pure Silicon (Si):** The foundation of most microchips. It has a high melting point (1414 °C), is hard and brittle, and acts as a semiconductor (conducts electricity under specific conditions).\n*   **Gallium Nitride (GaN):** Used in high-power, high-frequency electronics. It has a very high melting point (~2500 °C), is extremely hard, and does not conduct electricity in its pure state.\n\n**(a) State** the type of chemical bonding present in pure Copper. (1 mark)\n\n**(b) Describe** the structure of pure Silicon and **explain** why it has a high melting point. (4 marks)\n\n**(c) Explain** in terms of bonding and structure, why Copper is an excellent electrical conductor, whereas pure Gallium Nitride does not conduct electricity. (5 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Metallic bonding (1 mark)**\n\n**(b) (4 marks)**\n*   **Description of structure (1 mark):** Pure Silicon has a giant covalent (or macromolecular) structure. Each silicon atom is covalently bonded to four other silicon atoms in a tetrahedral arrangement, forming a vast, continuous network.\n*   **Explanation for high melting point (3 marks):** A significant amount of energy is required to overcome (break) the many strong covalent bonds that extend throughout the entire giant lattice structure. These strong and numerous bonds need a high temperature to be broken, allowing the atoms to gain enough kinetic energy to move freely as a liquid.\n\n**(c) (5 marks)**\n*   **Copper's electrical conductivity (2 marks):** Copper has metallic bonding. Its structure consists of a lattice of positive metal ions surrounded by a 'sea' of delocalised electrons. These delocalised electrons are free to move throughout the entire structure, so they can carry an electrical charge and conduct electricity.\n*   **Pure Gallium Nitride's non-conductivity (3 marks):** Gallium Nitride has a giant covalent (or macromolecular) structure. In this structure, all of the outer shell electrons are held tightly within strong covalent bonds between gallium and nitrogen atoms. There are no free-moving electrons or ions available to carry an electrical current, so it cannot conduct electricity in its pure solid state.",
+      "explanation": "This question assesses the understanding of different chemical bonding types (metallic, giant covalent) and their direct influence on the physical properties of materials. Students must first identify the bonding type from given properties/elements. Then, they need to accurately describe the structure associated with that bonding. Finally, they must explain specific properties (melting point, electrical conductivity) by linking them directly to the nature of the bonds and the presence or absence of mobile charge carriers within the structure. Part (c) specifically requires a comparative explanation, highlighting the key differences in bonding that lead to contrasting electrical conductivities.",
+      "hint": "For electrical conductivity, consider the availability of mobile charged particles (electrons or ions) within the structure of each substance.",
+      "generatedAt": "2026-04-30T18:26:09.771631"
+    },
+    {
+      "id": "s-y9-bonding_advanced_005",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A team of materials scientists is investigating the properties of two novel substances, Crysteel and Flexalloy, for potential use in advanced industrial applications.\n\n**Crysteel** exhibits the following properties:\n*   It is a solid at room temperature and possesses an extremely high melting point (above 3000 °C).\n*   It is very hard and brittle.\n*   It does not conduct electricity in either its solid or molten state.\n*   It is insoluble in water.\n\n**Flexalloy** exhibits these properties:\n*   It is also a solid at room temperature with a high melting point.\n*   However, unlike Crysteel, Flexalloy is highly malleable and ductile.\n*   It is an excellent conductor of electricity in its solid state.\n\n**(a)** Based on the observed properties of Crysteel, **State** the type of chemical bonding most likely present in Crysteel. (1 mark)\n\n**(b)** **Describe** the arrangement of atoms and the nature of forces within the structure of Crysteel that account for its extremely high melting point and hardness. (3 marks)\n\n**(c)** **Explain** why Crysteel does not conduct electricity in either its solid or molten state. (3 marks)\n\n**(d)** **Suggest** the type of chemical bonding present in Flexalloy. **Explain** how this specific type of bonding accounts for *both* its electrical conductivity and its malleability. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a)** Giant covalent bonding (or Covalent network bonding). (1 mark)\n\n**(b)** Crysteel has a giant covalent structure/lattice (1 mark) where each atom is strongly covalently bonded to several other atoms (1 mark) in a regular, repeating pattern. A very large amount of energy is required to break these strong covalent bonds throughout the entire structure, leading to its extremely high melting point and hardness. (1 mark)\n\n**(c)** In Crysteel, all outer/valence electrons are localised and involved in strong covalent bonds between atoms (1 mark). There are no free/delocalised electrons (1 mark) or mobile ions available to carry an electrical charge (1 mark), so it does not conduct electricity in either solid or molten states.\n\n**(d)** \n*   **Suggested bonding:** Metallic bonding. (1 mark)\n*   **Explanation for electrical conductivity:** In metallic bonding, there are delocalised electrons (1 mark) that are free to move throughout the entire structure. These mobile electrons can carry charge, allowing the material to conduct electricity. (1 mark)\n*   **Explanation for malleability:** The structure consists of layers of positive metal ions (1 mark) surrounded by a 'sea' of delocalised electrons. These layers of ions can slide past each other (1 mark) without disrupting the overall metallic bond (because the delocalised electrons maintain the attractive forces between the ions), making the material malleable and ductile. (1 mark)",
+      "explanation": "This is an open-ended question. The full model answer with working is provided above.",
+      "hint": "When considering properties like conductivity, hardness, and melting point, think about the movement of charged particles and the strength and nature of the forces holding the particles together in each bonding type.",
+      "generatedAt": "2026-04-30T18:26:50.028996"
+    },
+    {
+      "id": "s-y9-bonding_advanced_006",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "An unknown element, 'M', is a lustrous solid that is highly conductive of electricity and heat. When element M is heated in an atmosphere of oxygen, it reacts to form a new compound, 'P'. Compound P is a brittle, white solid with an exceptionally high melting point (over 1000 °C) and, when molten, it conducts electricity. However, solid P does not conduct electricity. Compound P is also soluble in water.\n\nBased on the observed properties of Compound P and its formation, which of the following statements *best* describes the bonding within Compound P and how it forms?",
+      "options": [
+        "A. Compound P is formed by the sharing of electrons between atoms of M and oxygen, resulting in a giant covalent structure.",
+        "B. Compound P is formed by the transfer of electrons from atoms of M to oxygen atoms, creating a giant lattice of oppositely charged ions.",
+        "C. Compound P is formed by metallic bonding, where positive ions of M and oxygen are surrounded by a sea of delocalised electrons.",
+        "D. Compound P is formed by covalent bonds between atoms of M and oxygen, leading to the formation of simple discrete molecules."
+      ],
+      "correctAnswer": "B. Compound P is formed by the transfer of electrons from atoms of M to oxygen atoms, creating a giant lattice of oppositely charged ions.",
+      "explanation": "1.  **Analyze the properties of Element M:** Element M is a lustrous (shiny) solid, highly conductive of electricity and heat. These are characteristic properties of a metal.\n2.  **Analyze the properties of Compound P:**\n    *   'Brittle, white solid' and 'exceptionally high melting point (over 1000 °C)' suggest a giant structure with strong forces of attraction, typical of either ionic or giant covalent compounds.\n    *   'When molten, it conducts electricity. However, solid P does not conduct electricity.' This is the key distinguishing property for ionic compounds. In the solid state, ions are fixed in a lattice and cannot move to carry charge. When molten, the ions are free to move and act as charge carriers, allowing electrical conduction. Giant covalent structures (like diamond or silicon dioxide) do not conduct electricity in any state, and simple molecular compounds typically have low melting points.\n    *   'Soluble in water' is a property common to many ionic compounds.\n3.  **Analyze the formation of Compound P:** Element M is a metal, and it reacts with oxygen (a non-metal). The reaction between a metal and a non-metal typically results in the formation of an ionic compound through electron transfer.\n4.  **Conclusion:** All observed properties of Compound P consistently indicate an ionic structure. Ionic bonding involves the transfer of electrons from metal atoms (like M) to non-metal atoms (oxygen) to form oppositely charged ions, which are then held together in a giant ionic lattice by strong electrostatic forces of attraction.\n\n**Why other options are incorrect:**\n*   **A. Giant covalent structure:** While giant covalent structures explain a high melting point, they generally do not conduct electricity when molten.\n*   **C. Metallic bonding:** Metallic bonding describes the bonding within a pure metal or alloy, not a compound formed from a metal and a non-metal. Compound P is also brittle, not malleable like a metal.\n*   **D. Simple discrete molecules:** Simple molecular compounds typically have low melting points and do not conduct electricity when molten, which contradicts the properties of Compound P.",
+      "hint": "To determine the bonding type, focus on how electrical conductivity changes with the state of matter (solid vs. molten) and what this implies about the movement of charged particles.",
+      "generatedAt": "2026-04-30T18:27:30.812265"
+    },
+    {
+      "id": "s-y9-bonding_advanced_007",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A student is investigating three unknown substances, P, Q, and R, and records their properties at standard temperature and pressure.\n\n*   **Substance P:** A white crystalline solid with a melting point of 801°C. It does not conduct electricity when solid, but becomes an excellent conductor when molten. It is hard and brittle.\n*   **Substance Q:** A colourless liquid with a melting point of -114°C and a boiling point of 78°C. It does not conduct electricity in any state.\n*   **Substance R:** A shiny, grey solid with a melting point of 1085°C. It conducts electricity both as a solid and when molten, and can be hammered into different shapes.\n\n**(a) Identify** the type of chemical bonding (ionic, covalent, or metallic) present in each of Substance P, Substance Q, and Substance R. (3 marks)\n\n**(b) Explain**, in terms of structure and bonding, why Substance P conducts electricity when molten but not as a solid. (4 marks)\n\n**(c) Describe** the particles involved in the bonding of Substance R and **explain** how its bonding structure accounts for its malleability. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) \nSubstance P: Ionic bonding\nSubstance Q: Covalent bonding (specifically, simple molecular covalent)\nSubstance R: Metallic bonding\n\n(b) Substance P is an ionic compound. In the solid state, ionic compounds form a giant ionic lattice where the positive and negative ions are held in fixed positions by strong electrostatic forces of attraction. Because these ions are fixed and cannot move, there are no mobile charge carriers to conduct electricity in the solid state.\nHowever, when molten, the energy supplied overcomes these strong electrostatic forces, allowing the ions to break free from their fixed positions. These now mobile, charged ions can then move and carry an electrical charge, meaning molten ionic compounds can conduct electricity.\n\n(c) Substance R is a metal. Its bonding involves a lattice of positively charged metal ions surrounded by a 'sea' of delocalised electrons. The strong electrostatic attractive forces exist between the positive ions and the delocalised electrons.\nMalleability, the ability to be hammered into shapes, arises because the metal ions are arranged in regular layers. When a force is applied (e.g., by hammering), these layers of positive ions can slide past one another. The 'sea' of delocalised electrons can move with the layers, maintaining the strong electrostatic attraction between the ions, which prevents the metallic bond from breaking and the structure from shattering.",
+      "explanation": "This question assesses the student's ability to interpret material properties and link them to the three main types of chemical bonding and their associated structures. \n\n**(a) Identification:** This requires recalling the characteristic properties for each bonding type:\n*   **Ionic (P):** High melting point, conducts electricity only when molten (due to mobile ions), brittle, solid at room temp.\n*   **Covalent (Q, simple molecular):** Low melting/boiling points, does not conduct electricity (no free ions or electrons), can be liquid or gas at room temp.\n*   **Metallic (R):** High melting point, conducts electricity as solid and liquid (due to delocalised electrons), malleable, shiny, solid at room temp.\n\n**(b) Explanation for Ionic Conductivity:** This part requires a detailed explanation linking the state (solid vs. molten) to the mobility of ions. Key points for marks:\n*   Solid state: Ions are fixed in a lattice, cannot move (no charge carriers).\n*   Molten state: Ions become mobile, free to move (act as charge carriers).\n*   Reference to overcoming electrostatic forces.\n*   Clear link between mobile ions and conductivity.\n\n**(c) Description and Explanation for Metallic Malleability:** This tests the understanding of metallic bonding particles and how this structure leads to malleability. Key points for marks:\n*   **Description:** Identification of positive metal ions and a 'sea' of delocalised electrons.\n*   **Explanation of Malleability:** Must explain that layers of ions can slide past each other, and critically, that the 'sea' of delocalised electrons maintains the strong electrostatic attraction throughout the structure, preventing fracture.",
+      "hint": "For part (b), consider the movement of charged particles in each state and the forces holding them in place. For part (c), think about the arrangement of particles in a metal and how they respond to applied forces without breaking the overall bond.",
+      "generatedAt": "2026-04-30T18:27:51.006338"
+    },
+    {
+      "id": "s-y9-bonding_advanced_008",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Substance P is a compound that forms a white, crystalline solid. It has a high melting point of 801 °C and dissolves readily in water. When dissolved in water or in its molten state, it conducts electricity, but it does not conduct electricity as a solid.\n\nSubstance Q is an element that forms a dark grey solid. It sublimes at 114 °C and does not conduct electricity in any state (solid, liquid, or gas).\n\nSubstance R is an element that forms a lustrous, reddish-brown solid. It has a very high melting point of 1085 °C and is an excellent conductor of electricity in its solid state.\n\n(a) Explain, in terms of their bonding and structures, the significant difference in melting points between Substance P and Substance Q. (4 marks)\n\n(b) Describe how the atoms in Substance Q achieve a stable electron configuration when forming the solid. (3 marks)\n\n(c) Explain why Substance P conducts electricity when molten or dissolved in water, but not when solid. (3 marks)\n\n(d) Compare the electrical conductivity of solid Substance R with that of solid Substance P, explaining the reason for any observed difference based on their bonding models. (3 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Explain, in terms of their bonding and structures, the significant difference in melting points between Substance P and Substance Q. (4 marks)**\n\nSubstance P is an ionic compound (e.g., sodium chloride). It has a giant ionic lattice structure where positive metal ions and negative non-metal ions are held together by strong electrostatic forces of attraction acting in all directions. A large amount of energy is required to overcome these strong forces, so it has a high melting point.\n\nSubstance Q is a simple molecular covalent element (e.g., iodine). It consists of discrete molecules held together by strong covalent bonds *within* each molecule, but between the molecules, there are only weak intermolecular forces of attraction. Only a small amount of energy is needed to overcome these weak intermolecular forces, resulting in a low sublimation point.\n\n**(b) Describe how the atoms in Substance Q achieve a stable electron configuration when forming the solid. (3 marks)**\n\nSubstance Q consists of atoms (which are non-metals). To achieve a stable outer electron shell (a full outer shell, typically 8 electrons, like a noble gas), each atom *shares* a pair of electrons with an adjacent atom. This sharing creates a strong covalent bond, forming a discrete diatomic molecule where both atoms effectively have a full outer shell.\n\n**(c) Explain why Substance P conducts electricity when molten or dissolved in water, but not when solid. (3 marks)**\n\nSubstance P is an ionic compound. In its solid state, the ions (charged particles) are held in fixed positions within the giant ionic lattice and are not free to move, so there are no mobile charge carriers to conduct electricity.\n\nHowever, when Substance P is molten or dissolved in water, the strong electrostatic forces of attraction holding the ions in the lattice are overcome. This allows the ions to become mobile and free to move, carrying charge and thus conducting electricity.\n\n**(d) Compare the electrical conductivity of solid Substance R with that of solid Substance P, explaining the reason for any observed difference based on their bonding models. (3 marks)**\n\nSolid Substance R (a metal) is an excellent conductor of electricity, whereas solid Substance P (an ionic compound) does not conduct electricity.\n\nThis is because Substance R has a giant metallic lattice structure with positive metal ions surrounded by a 'sea' of delocalised electrons. These delocalised electrons are free to move throughout the entire structure, carrying charge and allowing the metal to conduct electricity.\n\nIn contrast, solid Substance P has its ions held in fixed positions within its giant ionic lattice, and there are no delocalised electrons. Therefore, there are no mobile charge carriers available to conduct electricity in the solid state.",
+      "explanation": "This is an open-ended question. The full model answer provided in the 'correctAnswer' field covers all parts of the question, providing detailed explanations and descriptions as requested. It correctly identifies the bonding types (ionic for P, simple molecular covalent for Q, metallic for R) based on the given properties and links them to the observed physical properties, meeting the criteria for an advanced GCSE question.",
+      "hint": "Carefully consider the typical properties (melting point, conductivity) associated with ionic, simple molecular covalent, and metallic bonding. Remember to link properties directly to the type of bonding and structure (e.g., lattice, discrete molecules, delocalised electrons, forces of attraction) and the movement of charged particles.",
+      "generatedAt": "2026-04-30T18:28:37.641561"
+    },
+    {
+      "id": "s-y9-bonding_advanced_009",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A research team is designing a new type of ceramic coating for spacecraft re-entry tiles. This coating needs to withstand extremely high temperatures, prevent heat transfer, and be very hard. The proposed substance, 'Ceramium-X', is a white crystalline solid at room temperature. Experiments show it has a melting point of 2100 °C, does not conduct electricity as a solid, and even when molten, it does not conduct electricity. When subjected to significant force, Ceramium-X shatters rather than deforming.\n\n(a) State the type of chemical bonding most likely present in Ceramium-X. (1 mark)\n\n(b) Explain, in terms of its bonding and structure, why Ceramium-X has a very high melting point. (3 marks)\n\n(c) Describe how the bonding in Ceramium-X results in its inability to conduct electricity in both solid and molten states. (2 marks)\n\n(d) Explain why Ceramium-X shatters when subjected to significant force, rather than deforming like a metal. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) Giant covalent bonding / Macromolecular bonding (1 mark)\n\n(b) There are strong covalent bonds throughout the entire structure/lattice (1 mark). A large amount of energy is required (1 mark) to overcome/break these strong covalent bonds (1 mark) to change its state from solid to liquid.\n\n(c) In Ceramium-X, all valence electrons are held in fixed positions within the strong covalent bonds (1 mark). Therefore, there are no delocalised electrons or mobile ions present to carry an electrical charge (1 mark) in either the solid or molten state.\n\n(d) Giant covalent structures consist of a rigid network of strong, directional covalent bonds (1 mark). When a significant force is applied, these strong, directional bonds cannot slide past each other (1 mark), so instead, the bonds break, causing the material to shatter (1 mark) rather than deform.",
+      "explanation": "This question requires students to apply their knowledge of different bonding types (ionic, covalent, metallic) to deduce the bonding in an unknown substance based on its given properties and then explain those properties. The key differentiator for giant covalent bonding in this context is the very high melting point, non-conductivity in both solid and molten states, and brittleness.\n\n(a) The properties (high melting point, non-conductive in both states, brittle) are characteristic of a giant covalent structure (e.g., diamond, silicon dioxide).\n\n(b) High melting points in giant covalent structures are due to the extensive network of strong covalent bonds. A significant amount of thermal energy is needed to overcome these bonds throughout the entire structure to allow particles to move freely.\n\n(c) Electrical conductivity requires mobile charge carriers (either delocalised electrons or mobile ions). In a giant covalent structure like Ceramium-X (assuming it's not graphite), all valence electrons are localised in strong covalent bonds, meaning there are no free electrons or ions to move and carry current.\n\n(d) Brittleness in giant covalent structures stems from their rigid, interconnected network of strong, directional covalent bonds. Unlike metals where layers of ions can slide past each other without breaking metallic bonds (due to the delocalised electron 'sea'), in a giant covalent lattice, applying force directly breaks the strong covalent bonds, leading to shattering.",
+      "hint": "Consider the distinct properties of substances with giant covalent, ionic, and metallic bonding, particularly their electrical conductivity in solid and molten states, and the strength of forces/bonds that need to be overcome during melting.",
+      "generatedAt": "2026-04-30T18:28:57.933221"
+    },
+    {
+      "id": "s-y9-bonding_advanced_010",
+      "topicId": "s-y9-bonding",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A company is developing a new type of heat-resistant ceramic. They are comparing two potential ionic compounds: Compound A (composed of X²⁺ and Y²⁻ ions) and Compound B (composed of P⁺ and Q⁻ ions). Both compounds form giant ionic lattices.\n\n| Property                                | Compound A | Compound B |\n| :-------------------------------------- | :--------- | :--------- |\n| Melting point (°C)                      | 2852       | 801        |\n| Electrical conductivity (solid state)   | Negligible | Negligible |\n| Electrical conductivity (molten state)  | High       | High       |\n\nA student correctly identifies that Compound A has a higher charge density on its ions compared to Compound B. They then use this information, along with their knowledge of ionic bonding, to explain the difference in melting points.\n\nIf a crystal of Compound A contains 2.5 x 10^22 X²⁺ ions, and assuming the compound has a simple 1:1 ratio of ions, **calculate** the total number of negative ions (Y²⁻) that would be present in 0.5 moles of Compound A. (Given: Avogadro's constant = 6.02 x 10^23 mol⁻¹)",
+      "options": [
+        "A) 2.5 x 10^22 ions",
+        "B) 3.01 x 10^23 ions",
+        "C) 6.02 x 10^23 ions",
+        "D) 1.505 x 10^23 ions"
+      ],
+      "correctAnswer": "B) 3.01 x 10^23 ions",
+      "explanation": "To calculate the total number of negative ions (Y²⁻) in 0.5 moles of Compound A:\n\n1.  **Identify the relevant information:** The question asks for the number of Y²⁻ ions in 0.5 moles of Compound A. Compound A has a 1:1 ratio of X²⁺ to Y²⁻ ions. Avogadro's constant is 6.02 x 10^23 mol⁻¹.\n\n2.  **Determine moles of Y²⁻ ions:** Since the ratio of X²⁺ to Y²⁻ ions in Compound A is 1:1, 0.5 moles of Compound A will contain 0.5 moles of X²⁺ ions and 0.5 moles of Y²⁻ ions.\n\n3.  **Use Avogadro's constant to find the number of Y²⁻ ions:**\n    Formula: Number of particles = Moles × Avogadro's constant\n    Substitution: Number of Y²⁻ ions = 0.5 mol × 6.02 x 10^23 mol⁻¹\n    Answer: Number of Y²⁻ ions = 3.01 x 10^23 ions\n\n    The information about '2.5 x 10^22 X²⁺ ions in a crystal' is a distractor and is not needed for this specific calculation.",
+      "hint": "Remember to use Avogadro's constant to convert moles to the number of particles, and carefully identify the specific quantity asked for (0.5 moles of the compound) rather than any given distractor values.",
+      "generatedAt": "2026-04-30T18:30:13.135027"
+    }
+  ]
+}

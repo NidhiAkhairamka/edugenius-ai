@@ -1,0 +1,488 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y6-electricity_beginner_001",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A simple series circuit contains one lamp connected to a power source. If a second identical lamp is added to the circuit, also in series with the first, what happens to the brightness of *each* lamp?",
+      "options": [
+        "A. Each lamp becomes brighter.",
+        "B. Each lamp becomes dimmer.",
+        "C. Each lamp stays the same brightness.",
+        "D. Only the new lamp lights up, the old one goes out."
+      ],
+      "correctAnswer": "B. Each lamp becomes dimmer.",
+      "explanation": "In a series circuit, the electrical energy (or 'push' from the battery) from the power source has to be shared among all the components. When you add more lamps in series, the same total energy is now shared among more lamps. This means each individual lamp receives less electrical energy, causing it to become dimmer.",
+      "hint": "Think about how the electrical energy from the power source is distributed when there are more lamps to power in a single path.",
+      "generatedAt": "2026-04-29T17:37:09.208087"
+    },
+    {
+      "id": "s-y6-electricity_beginner_002",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student builds two different series circuits using the same battery:\n\nCircuit 1 has one lamp connected in series.\nCircuit 2 has two identical lamps connected in series.\n\nWhich statement correctly describes the brightness of the lamps in these circuits?",
+      "options": [
+        "A. The lamp in Circuit 1 is dimmer than each lamp in Circuit 2.",
+        "B. Each lamp in Circuit 2 is brighter than the lamp in Circuit 1.",
+        "C. All lamps in both circuits are equally bright.",
+        "D. The lamp in Circuit 1 is brighter than each lamp in Circuit 2."
+      ],
+      "correctAnswer": "D. The lamp in Circuit 1 is brighter than each lamp in Circuit 2.",
+      "explanation": "In a series circuit, the total electrical energy provided by the battery is shared between all the components.\n\nIn Circuit 1, the total electrical energy from the battery is supplied to only one lamp.\n\nIn Circuit 2, the same amount of electrical energy from the same battery must be shared equally between two identical lamps. This means each individual lamp in Circuit 2 receives less electrical energy compared to the single lamp in Circuit 1.\n\nLess energy supplied to each lamp results in them being dimmer. Therefore, the single lamp in Circuit 1 will be brighter than each of the two lamps in Circuit 2.",
+      "hint": "Think about how the total electrical energy from the battery is distributed among the lamps when they are connected in series.",
+      "generatedAt": "2026-04-29T17:37:25.324108"
+    },
+    {
+      "id": "s-y6-electricity_beginner_003",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student builds a simple series circuit using a battery and one lamp. They then add a second identical lamp to this series circuit. Describe what happens to the brightness of the first lamp.",
+      "options": [
+        "The first lamp gets brighter.",
+        "The first lamp gets dimmer.",
+        "The first lamp stays the same brightness.",
+        "The first lamp turns off completely."
+      ],
+      "correctAnswer": "The first lamp gets dimmer.",
+      "explanation": "When a second identical lamp is added in series, the total resistance of the circuit increases. For a fixed voltage supplied by the battery, an increased total resistance causes the total current flowing from the battery to decrease. Since the lamps are in a series circuit, the same (now reduced) current flows through both lamps. Therefore, the first lamp will glow dimmer because less electrical current is flowing through it.",
+      "hint": "Consider how the electrical current from the battery is shared or affected when you add more components in a series circuit.",
+      "generatedAt": "2026-04-29T17:37:35.326051"
+    },
+    {
+      "id": "s-y6-electricity_beginner_004",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student sets up a series circuit containing a battery and two identical lamps. They observe that both lamps glow with a certain brightness. The student then carefully removes one of the lamps and reconnects the circuit so it now contains only the battery and one lamp. Explain what happens to the brightness of the remaining lamp, and why this change occurs.",
+      "options": [],
+      "correctAnswer": "The remaining lamp will glow brighter. This is because when there were two lamps, the electrical energy from the battery was shared between both lamps. When one lamp is removed, the single remaining lamp now receives all of the electrical energy from the battery, causing it to glow with increased brightness.",
+      "explanation": "1. **Effect:** The remaining lamp glows brighter.\n2. **Initial state:** When there were two lamps in the series circuit, the electrical energy (or voltage/power) supplied by the battery was shared between both lamps.\n3. **Change:** When one lamp is removed, the entire electrical energy (or voltage/power) from the battery is now supplied to the single remaining lamp.\n4. **Result:** Receiving more electrical energy makes the lamp glow more brightly.",
+      "hint": "Consider how the total electrical energy from the battery is distributed amongst the components in a series circuit when the number of components changes.",
+      "generatedAt": "2026-04-29T17:37:50.555073"
+    },
+    {
+      "id": "s-y6-electricity_beginner_005",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student connects a battery, a switch, and two identical lamps in a series circuit. When the switch is closed, both lamps light up. Which of the following statements best describes the brightness of each lamp compared to a single lamp connected to the same battery?",
+      "options": [
+        "A) Both lamps are brighter than a single lamp connected to the same battery.",
+        "B) Both lamps are dimmer than a single lamp connected to the same battery.",
+        "C) One lamp is bright, and the other is dim.",
+        "D) The brightness of the lamps cannot be predicted."
+      ],
+      "correctAnswer": "B) Both lamps are dimmer than a single lamp connected to the same battery.",
+      "explanation": "In a series circuit, the electrical energy (power) supplied by the battery is shared among all the components connected in the circuit. When two identical lamps are connected in series, the electrical energy is shared equally between them. This means that each individual lamp receives less electrical energy than if it were the only lamp connected to the battery. Receiving less energy causes each lamp to glow dimmer.",
+      "hint": "Consider what happens to a fixed amount of electrical energy when it has to be shared between more than one identical component in a series circuit.",
+      "generatedAt": "2026-04-29T17:38:19.142934"
+    },
+    {
+      "id": "s-y6-electricity_beginner_006",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student builds a series circuit using a battery and three identical lamps. All three lamps successfully light up.\nWhich statement accurately describes the brightness of the lamps in this circuit?",
+      "options": [
+        "A. Only one lamp will be bright, the others will be dim.",
+        "B. The lamps will be equally bright, but dimmer than a single lamp connected to the same battery.",
+        "C. The lamps will be equally bright, and as bright as a single lamp connected to the same battery.",
+        "D. One lamp will be very bright, another dim, and the third will not light up."
+      ],
+      "correctAnswer": "B. The lamps will be equally bright, but dimmer than a single lamp connected to the same battery.",
+      "explanation": "1. In a series circuit, the current flowing through each component is the same. Since the lamps are identical, the same amount of electrical energy is supplied to each, making them all equally bright.\n2. When more lamps are added in series, the total resistance of the circuit increases. This means the total current drawn from the battery decreases. \n3. A lower current flowing through each lamp means less power is converted to light and heat by each lamp (P = I²R), making each lamp dimmer than if only one lamp were connected to the same battery.",
+      "hint": "Consider two key properties of series circuits: how current is distributed among components, and how adding more components affects the overall current from the power source.",
+      "generatedAt": "2026-04-29T17:38:36.350672"
+    },
+    {
+      "id": "s-y6-electricity_beginner_007",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A simple series circuit is built using one battery and one lamp. If another identical lamp is then added in series to this circuit, what happens to the brightness of the original lamp?",
+      "options": [
+        "A) The original lamp becomes brighter.",
+        "B) The original lamp becomes dimmer.",
+        "C) The original lamp's brightness stays the same.",
+        "D) The original lamp goes out completely."
+      ],
+      "correctAnswer": "B) The original lamp becomes dimmer.",
+      "explanation": "In a series circuit, adding an additional lamp increases the total resistance of the circuit. With the same battery (power source), this increased resistance causes the total current flowing through the circuit to decrease. Since the brightness of a lamp depends on the current flowing through it, the original lamp will become dimmer because less current is now passing through it.",
+      "hint": "Consider how adding more components in series affects the overall opposition to current flow in the circuit.",
+      "generatedAt": "2026-04-29T17:38:48.248675"
+    },
+    {
+      "id": "s-y6-electricity_beginner_008",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Circuit 1 has a battery and one lamp connected in series. Circuit 2 has the same battery but two identical lamps connected in series.\nWhich statement correctly describes the brightness of the lamps?",
+      "options": [
+        "A) The lamp in Circuit 1 is dimmer than each lamp in Circuit 2.",
+        "B) Each lamp in Circuit 2 is brighter than the lamp in Circuit 1.",
+        "C) The lamp in Circuit 1 is brighter than each lamp in Circuit 2.",
+        "D) The lamps in Circuit 2 will not light up at all."
+      ],
+      "correctAnswer": "C) The lamp in Circuit 1 is brighter than each lamp in Circuit 2.",
+      "explanation": "In a series circuit, the electrical energy provided by the battery is shared among all the components. When there are more identical lamps connected in series, as in Circuit 2, the same total electrical energy has to be shared between more lamps. This means each individual lamp in Circuit 2 receives less electrical energy compared to the single lamp in Circuit 1, making them dimmer. Therefore, the single lamp in Circuit 1 will be brighter than each lamp in Circuit 2.",
+      "hint": "Consider how the electrical energy from the battery is distributed among the lamps when they are connected in a series circuit.",
+      "generatedAt": "2026-04-29T17:39:03.034820"
+    },
+    {
+      "id": "s-y6-electricity_beginner_009",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A series circuit is made with one battery and two identical lamps.\nWhat is true about the brightness of the two lamps in this circuit?",
+      "options": [
+        "A) Both lamps are equally bright, and this is the brightest they can be with this battery.",
+        "B) Both lamps are equally bright, but the battery's electrical energy is shared between them, making them dimmer.",
+        "C) The lamp closest to the battery will be brighter than the other lamp.",
+        "D) The lamps will not glow at all in a series circuit."
+      ],
+      "correctAnswer": "B) Both lamps are equally bright, but the battery's electrical energy is shared between them, making them dimmer.",
+      "explanation": "1. In a series circuit, there is only one path for the electricity to flow. This means the same amount of electrical current passes through each lamp.\n2. Since the lamps are identical and the same current flows through them, they will both light up with the same brightness. This rules out option C (one lamp brighter than the other) and option D (lamps not glowing).\n3. When multiple lamps are connected in series to a battery, the total electrical energy (voltage) provided by the battery is divided among all the lamps. Each lamp receives only a portion of the total energy.\n4. This sharing of electrical energy means that each individual lamp will glow less brightly (be dimmer) than if it were the only lamp connected to the same battery. Therefore, option A (brightest they can be) is incorrect.",
+      "hint": "Consider how the electrical energy from the battery is distributed when there is more than one component in a series circuit.",
+      "generatedAt": "2026-04-29T17:39:31.352419"
+    },
+    {
+      "id": "s-y6-electricity_beginner_010",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A student uses a battery to power a single lamp in a series circuit.\n\nThe student then connects the same battery to two identical lamps in a different series circuit.\n\nWhich statement is true about the brightness of the lamps?",
+      "options": [
+        "A. The single lamp is brighter than each of the two lamps.",
+        "B. Each of the two lamps is brighter than the single lamp.",
+        "C. All lamps have the same brightness.",
+        "D. The single lamp uses more energy than the battery provides."
+      ],
+      "correctAnswer": "A. The single lamp is brighter than each of the two lamps.",
+      "explanation": "In a series circuit, the electrical energy provided by the battery is shared among all the components. \n\n1.  When there is only one lamp, it receives all the electrical energy from the battery, making it bright.\n2.  When there are two identical lamps connected in series to the same battery, the electrical energy from the battery has to be shared between both lamps.\n3.  This means each of the two lamps receives less electrical energy compared to the single lamp.\n4.  Therefore, the single lamp will be brighter than each of the two lamps in the other circuit.",
+      "hint": "Think about how the electrical energy from the battery is shared when there are more lamps in a series circuit.",
+      "generatedAt": "2026-04-29T17:39:49.615771"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y6-electricity_intermediate_001",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student constructs two simple series circuits using identical lamps and the same 6 V power supply.\n\nCircuit A contains one lamp.\nCircuit B contains two identical lamps connected in series.\n\nWhich of the following statements correctly **explains** why each lamp in Circuit B is dimmer than the single lamp in Circuit A?",
+      "options": [
+        "A. The lamps in Circuit B are brighter because the total power output increases with more lamps, even if the voltage is shared.",
+        "B. The lamps in Circuit B are dimmer because the total resistance of Circuit B is higher, which causes the total current from the power supply and through each lamp to decrease.",
+        "C. The lamps in Circuit B are brighter because the current is divided between the two lamps, giving each lamp a lower individual resistance.",
+        "D. The lamps in Circuit B are dimmer because the voltage across each lamp is half of the supply voltage, leading to a complete power loss."
+      ],
+      "correctAnswer": "B. The lamps in Circuit B are dimmer because the total resistance of Circuit B is higher, which causes the total current from the power supply and through each lamp to decrease.",
+      "explanation": "1. **Increased Total Resistance:** In a series circuit, adding more components (lamps) increases the total resistance of the circuit. Therefore, Circuit B (with two lamps) has a higher total resistance than Circuit A (with one lamp).\n2. **Decreased Total Current:** According to Ohm's Law (I = V/R), if the voltage (V) from the power supply is constant and the total resistance (R) increases, the total current (I) flowing from the power supply will decrease. Since Circuit B is a series circuit, this lower total current flows through *each* lamp.\n3. **Reduced Brightness:** The brightness of a lamp is directly related to the power it dissipates (P = I²R). With a lower current (I) flowing through each identical lamp (R), less power is dissipated by each lamp, making them dimmer.",
+      "hint": "Consider how adding components in series affects the total resistance of the circuit, and then how that change impacts the current flowing through each component according to Ohm's Law.",
+      "generatedAt": "2026-04-29T17:40:11.163276"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_002",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student sets up a simple series circuit using a 6V battery, a switch, and a single lamp. The lamp glows brightly.\n\nThe student then adds a buzzer into the *same series circuit*, so now the circuit contains the 6V battery, the switch, the lamp, and the buzzer, all connected in series.\n\nExplain what happens to the brightness of the lamp and the volume of the buzzer when the buzzer is added to the circuit, and why this occurs.",
+      "options": [],
+      "correctAnswer": "When the buzzer is added in series, the lamp will become dimmer and the buzzer will sound quieter.\n\nThis is because adding another component (the buzzer) into the series circuit increases the total electrical resistance of the circuit. With a higher total resistance and the same battery (voltage), less total electrical current will flow from the battery and around the entire series circuit. Since both the lamp and the buzzer are in a series circuit, they both receive this reduced current. The brightness of a lamp and the volume of a buzzer depend on the amount of current flowing through them, so with less current, they will both operate less effectively.",
+      "explanation": "1.  **Identify the observation:** The question asks what happens to the lamp's brightness and buzzer's volume. When another component is added in series, they will both decrease.\n2.  **Identify the cause:** Adding any component (like a buzzer) in series to an existing circuit increases the total resistance of that circuit.\n3.  **Link cause to effect on current:** For a given battery (voltage), an increase in total resistance leads to a decrease in the total electrical current flowing through the circuit (following a simplified version of Ohm's Law).\n4.  **Link effect on current to components:** In a series circuit, the same current flows through all components. Therefore, both the lamp and the buzzer will now receive less current.\n5.  **Conclude the outcome:** Since the brightness of a lamp and the volume of a buzzer are directly related to the current flowing through them, less current means the lamp will be dimmer and the buzzer will be quieter.",
+      "hint": "Think about how adding more 'obstacles' in a single path affects the flow of 'traffic' through that path, and how that relates to electrical current in a series circuit.",
+      "generatedAt": "2026-04-29T17:40:54.451931"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_003",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student, Emily, builds two different series circuits using identical 4.5V power sources and identical components.\n\n*   **Circuit 1:** Contains one 4.5V power source and two identical lamps, L_A and L_B.\n*   **Circuit 2:** Contains one 4.5V power source and three identical lamps, L_C, L_D, and L_E.\n\n**Describe** the difference in brightness between lamp L_A (from Circuit 1) and lamp L_C (from Circuit 2).",
+      "options": [
+        "A) Lamp L_A will be dimmer than lamp L_C.",
+        "B) Lamp L_A will be brighter than lamp L_C.",
+        "C) Lamp L_A will have the same brightness as lamp L_C.",
+        "D) The brightness cannot be compared as the circuits have different total resistance."
+      ],
+      "correctAnswer": "B) Lamp L_A will be brighter than lamp L_C.",
+      "explanation": "In a series circuit, the total voltage provided by the power source is shared among all the components in the circuit.\n\n1.  **For Circuit 1 (two lamps):** The 4.5V from the power source is shared equally between two identical lamps (L_A and L_B). So, each lamp receives 4.5V ÷ 2 = 2.25V.\n2.  **For Circuit 2 (three lamps):** The same 4.5V from the power source is shared equally among three identical lamps (L_C, L_D, and L_E). So, each lamp receives 4.5V ÷ 3 = 1.5V.\n\nBecause lamp L_A receives a higher voltage (2.25V) than lamp L_C (1.5V), it will cause more current to flow through it. A higher voltage and current mean more power is used by the lamp, so lamp L_A will glow brighter than lamp L_C.",
+      "hint": "Consider how the total voltage from the power source is distributed among the components in a series circuit. Think about what happens when the same total voltage is shared between a different number of components.",
+      "generatedAt": "2026-04-29T17:41:10.445494"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_004",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A laboratory technician is investigating electrical circuits. They set up two circuits, Circuit 1 and Circuit 2, both connected to identical 6V power supplies.\nCircuit 1 contains two identical lamps connected in series.\nCircuit 2 contains three identical lamps connected in series.\n\nAll lamps are identical and working correctly.\n\nWhich statement best explains why the lamps in Circuit 1 glow brighter than the lamps in Circuit 2, and what would happen if one lamp in Circuit 2 was removed?",
+      "options": [
+        "A: Lamps in Circuit 1 are brighter because the circuit has lower total resistance and thus higher current, meaning each lamp receives more energy. If one lamp is removed from Circuit 2, the total resistance decreases, leading to increased current, making the remaining lamps glow brighter.",
+        "B: Lamps in Circuit 1 are dimmer because there are fewer lamps to generate light. If one lamp is removed from Circuit 2, the remaining lamps will also go out as the circuit is broken.",
+        "C: Lamps in Circuit 1 are brighter because they share the 6V power supply with fewer lamps, so each lamp gets more voltage. If one lamp is removed from Circuit 2, the voltage across each of the remaining lamps decreases, making them dimmer.",
+        "D: Lamps in Circuit 2 are brighter because the current is split between more lamps, increasing the overall light output. If one lamp is removed from Circuit 2, the current stays the same, so the lamps maintain their brightness."
+      ],
+      "correctAnswer": "A: Lamps in Circuit 1 are brighter because the circuit has lower total resistance and thus higher current, meaning each lamp receives more energy. If one lamp is removed from Circuit 2, the total resistance decreases, leading to increased current, making the remaining lamps glow brighter.",
+      "explanation": "To understand the brightness of lamps in a series circuit, we must consider the total resistance, total current, and voltage distribution.\n\n1.  **Explaining Brightness Difference between Circuit 1 and Circuit 2:**\n    *   **Cause:** Circuit 2 has three identical lamps in series, while Circuit 1 has two identical lamps in series. Adding more components in series increases the total resistance of the circuit. Therefore, Circuit 2 has a higher total resistance than Circuit 1.\n    *   **Effect:** Both circuits are connected to identical 6V power supplies. According to Ohm's Law (Current = Voltage / Resistance), a higher total resistance (Circuit 2) will result in a lower total current flowing through the circuit. Since current is the same everywhere in a series circuit, each lamp in Circuit 2 receives less current than each lamp in Circuit 1. Less current means less power dissipated by the lamp (Power = Current × Voltage across the lamp), so the lamps in Circuit 2 will glow dimmer. This is why lamps in Circuit 1 are brighter.\n\n2.  **Explaining the Effect of Removing a Lamp from Circuit 2:**\n    *   **Cause:** Initially, Circuit 2 has three lamps. Removing one lamp means only two lamps remain in series. This action decreases the total resistance of Circuit 2.\n    *   **Effect:** With the same 6V power supply, a decrease in total resistance will lead to an increase in the total current flowing through the circuit (I = V/R). The remaining two lamps will now share the 6V supply, but crucially, they will have more current flowing through them and a greater voltage across each individual lamp compared to when there were three lamps. This increased current and voltage across each lamp leads to more power being dissipated, so the remaining lamps will glow brighter.",
+      "hint": "Consider how adding or removing components in a series circuit affects the total resistance, and consequently, the total current drawn from the power supply. Remember that current is the same throughout a series circuit, but voltage divides.",
+      "generatedAt": "2026-04-29T17:41:38.171530"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_005",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student sets up a circuit (Circuit 1) with one battery, one lamp, and one buzzer connected in series. They observe the lamp's brightness and the buzzer's volume.\n\nThen, the student adds another identical lamp to Circuit 1, connecting it in series with the first lamp and the buzzer, using the same battery. This new setup is Circuit 2.\n\n**Explain** why the lamp in Circuit 2 is dimmer and the buzzer is quieter compared to when they were in Circuit 1.",
+      "options": [],
+      "correctAnswer": "In Circuit 2, adding an extra lamp in series increases the total resistance of the circuit. Because the total resistance has increased, and the battery (voltage) supplying the circuit remains the same, less electrical current can flow through the entire circuit. A smaller current flowing through the lamp makes it dimmer, and a smaller current flowing through the buzzer makes it quieter.",
+      "explanation": "The question requires an explanation, which means linking cause and effect. In a series circuit, adding more components, such as an additional identical lamp, increases the total electrical resistance of the circuit. With a constant power source (the battery), an increase in total resistance results in a decrease in the overall electrical current flowing through the circuit. Since the brightness of a lamp and the volume of a buzzer are directly related to the amount of current flowing through them, a reduced current will cause the lamp to be dimmer and the buzzer to be quieter.",
+      "hint": "Consider what happens to the 'difficulty' for electricity to flow when more components are added in a series path. How does this affect the amount of electricity that can flow?",
+      "generatedAt": "2026-04-29T17:42:22.462384"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_006",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student constructs two series circuits, Circuit A and Circuit B, using identical 6V power supplies.\n\n*   **Circuit A:** Contains two identical lamps, each with a resistance of 4Ω.\n*   **Circuit B:** Contains one lamp with a resistance of 4Ω and one buzzer with a resistance of 4Ω.\n\n**Calculate** the total current in each circuit. Then, **explain** how the brightness of the lamps and the loudness of the buzzer compare between the two circuits, justifying your answer with the calculated currents.",
+      "options": [
+        "A. The lamps in Circuit A will be brighter than the lamp in Circuit B, and the buzzer in Circuit B will be quieter than the lamps.",
+        "B. The lamps in Circuit A will be dimmer than the lamp in Circuit B, and the buzzer in Circuit B will be louder than the lamps.",
+        "C. All lamps will have the same brightness, and the buzzer will have the same loudness as the lamps, because the total current in both circuits is 0.75 A.",
+        "D. All lamps will have the same brightness, and the buzzer will have the same loudness as the lamps, because the total current in both circuits is 1.5 A."
+      ],
+      "correctAnswer": "C. All lamps will have the same brightness, and the buzzer will have the same loudness as the lamps, because the total current in both circuits is 0.75 A.",
+      "explanation": "To determine the brightness of lamps and the loudness of buzzers, we first need to calculate the total current flowing through each circuit. In a series circuit, brightness and loudness are directly related to the current.\n\n**Step 1: Calculate the total resistance for Circuit A.**\nIn a series circuit, total resistance (R_total) is the sum of individual resistances.\nCircuit A has two lamps, each with a resistance of 4Ω.\nR_total (A) = Resistance_lamp1 + Resistance_lamp2\nR_total (A) = 4Ω + 4Ω = 8Ω\n\n**Step 2: Calculate the total current for Circuit A.**\nUsing Ohm's Law: Current (I) = Voltage (V) / Resistance (R)\nVoltage (V) = 6V\nI (A) = V / R_total (A) = 6V / 8Ω = 0.75 A\n\n**Step 3: Calculate the total resistance for Circuit B.**\nCircuit B has one lamp (4Ω) and one buzzer (4Ω).\nR_total (B) = Resistance_lamp + Resistance_buzzer\nR_total (B) = 4Ω + 4Ω = 8Ω\n\n**Step 4: Calculate the total current for Circuit B.**\nUsing Ohm's Law: Current (I) = Voltage (V) / Resistance (R)\nVoltage (V) = 6V\nI (B) = V / R_total (B) = 6V / 8Ω = 0.75 A\n\n**Step 5: Compare the currents and explain the effect on brightness and loudness.**\nBoth Circuit A and Circuit B have a total current of 0.75 A. In a series circuit, the current is the same at all points. Since the current flowing through each lamp in Circuit A is 0.75 A, and the current flowing through the lamp and the buzzer in Circuit B is also 0.75 A, all lamps will have the same brightness, and the buzzer will have the same loudness as the lamps because they all experience the same current.\n\nTherefore, option C is correct.",
+      "hint": "First, calculate the total resistance for each series circuit by adding the individual resistances. Then, use Ohm's Law (V = IR) to calculate the total current flowing through each circuit. Remember that brightness of a lamp and loudness of a buzzer are dependent on the current flowing through them.",
+      "generatedAt": "2026-04-29T17:42:44.174312"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_007",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A simple series circuit is built using a battery and a single lamp. The lamp glows with a certain brightness.\n\nAnother identical lamp is then added into the *same* circuit, connected in series with the first lamp and the battery.\n\n1.  **Describe** what happens to the brightness of the *original* lamp when the second lamp is added. (2 marks)\n2.  **Explain** why this change in brightness occurs, referring to the total opposition to the flow of electricity in the circuit. (3 marks)",
+      "options": [],
+      "correctAnswer": "1. The original lamp will become dimmer. Both lamps will glow with the same, reduced brightness.\n2. Adding a second identical lamp in series increases the total opposition to the flow of electricity in the circuit. So, the total flow of electricity (current) from the battery through the entire circuit decreases. Because less electricity flows through each lamp, less electrical energy is converted into light and heat by each lamp, making them both glow dimmer.",
+      "explanation": "1. When a second identical lamp is added in series, it shares the electrical energy from the battery with the first lamp. This means each lamp receives less energy, resulting in both lamps glowing dimmer than the single lamp did initially.\n2. In a series circuit, adding more components like lamps increases the total opposition (resistance) to the flow of electricity around the circuit. This increased opposition means that for the same battery, the overall flow of electricity (current) through the circuit decreases. Since less electricity is flowing, each lamp has less electrical energy available to convert into light and heat, which causes them to become dimmer.",
+      "hint": "Think about how adding more obstacles in a path affects how easily things can move along that path, and how that affects the amount of 'effort' each moving thing can exert.",
+      "generatedAt": "2026-04-29T17:42:59.815327"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_008",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A power pack is connected in series with one lamp and one buzzer. The lamp glows with a certain brightness, and the buzzer produces a sound of a certain volume.\n\nThen, an identical second lamp is added into the same series circuit, also connected in series. \n\nExplain what happens to the brightness of the *first* lamp and the volume of the buzzer after the second lamp is added to the series circuit. You must include the cause and effect of these changes. (4 marks)",
+      "options": [],
+      "correctAnswer": "When a second identical lamp is added into the series circuit:\n\nThe first lamp will become dimmer, and the buzzer will become quieter.\n\nThis happens because the total voltage (or electrical energy) supplied by the power pack is now shared among three components (the two lamps and the buzzer) instead of just two. Each component therefore receives a smaller share of the voltage/electrical energy. Less electrical energy being converted by the lamp makes it dimmer, and less electrical energy being converted by the buzzer makes it quieter.",
+      "explanation": "To correctly answer this question, a student must follow these steps:\n1.  **Identify the effects:** State that the first lamp becomes dimmer and the buzzer becomes quieter. This addresses the 'what happens' part for both components.\n2.  **Identify the cause:** Explain that adding another component (the second lamp) means the total electrical energy (or voltage) from the power pack must now be shared among more components in the series circuit.\n3.  **Link cause and effect:** Clearly explain *why* these changes occur. Because each component receives a smaller share of the electrical energy, less energy is converted into light by the lamp (making it dimmer) and less energy is converted into sound by the buzzer (making it quieter). The explanation must include cause and effect linked by 'because' or 'so'.",
+      "hint": "Consider how the total electrical energy provided by the power pack is distributed or 'shared' among the components when you add more components in a series circuit.",
+      "generatedAt": "2026-04-29T17:43:20.959923"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_009",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student sets up a series circuit consisting of a 9V battery, one lamp, and one buzzer. Both the lamp glows brightly and the buzzer sounds loudly. \n\nThe student then adds a second, identical lamp in series to the circuit, so there are now two lamps and one buzzer, all connected in series with the 9V battery. \n\nExplain what happens to the brightness of the first lamp and the volume of the buzzer after the second lamp is added. You must include scientific reasons for your answer.",
+      "options": [],
+      "correctAnswer": "When a second identical lamp is added in series to the circuit:\n1.  **Total Resistance Increases:** Adding another identical lamp in series increases the total resistance of the entire circuit. This is because each component in a series circuit adds to the overall opposition to current flow.\n2.  **Total Current Decreases:** Since the voltage of the battery remains constant (9V) and the total resistance of the circuit has increased, the total current flowing around the circuit will decrease. This is because current is inversely proportional to resistance (I = V/R).\n3.  **Effect on Components:** In a series circuit, the current is the same at all points. Therefore, the reduced total current flows through both the original lamp and the buzzer.\n4.  **Brightness and Volume:**\n    *   The first lamp will glow less brightly because there is less current flowing through it. Lamps glow brighter with more current.\n    *   The buzzer will sound at a lower volume because there is less current flowing through it. Buzzers sound louder with more current.",
+      "explanation": "The question requires an explanation of the changes in brightness and volume, linking cause and effect. The key steps are understanding how adding a component in series affects total resistance, how this change in resistance affects the total current (given a constant voltage source), and finally, how the change in current affects the individual components in a series circuit. The explanation demonstrates an understanding of the relationship between resistance, current, and the observable effects on lamps and buzzers.",
+      "hint": "Consider how adding more components in series affects the total resistance of the circuit. How does a change in total resistance impact the overall current flowing from the battery? Remember that current is the same at all points in a series circuit.",
+      "generatedAt": "2026-04-29T17:43:35.728533"
+    },
+    {
+      "id": "s-y6-electricity_intermediate_010",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student builds two different series circuits using an identical power supply and identical components.\n\n*   **Circuit X:** Contains 1 lamp and 1 buzzer.\n*   **Circuit Y:** Contains 2 lamps and 1 buzzer.\n\nWhich statement correctly compares the brightness of the lamp in Circuit X with the brightness of a lamp in Circuit Y?",
+      "options": [
+        "A) The lamp in Circuit X is brighter than a lamp in Circuit Y because there are fewer components sharing the power supply's voltage.",
+        "B) The lamp in Circuit X is dimmer than a lamp in Circuit Y because it is the only lamp.",
+        "C) The lamps in both circuits will have the same brightness because they are identical lamps.",
+        "D) The lamp in Circuit X will glow for longer because it uses less power."
+      ],
+      "correctAnswer": "A) The lamp in Circuit X is brighter than a lamp in Circuit Y because there are fewer components sharing the power supply's voltage.",
+      "explanation": "1.  **Count Components:** Circuit X has 2 components (1 lamp + 1 buzzer) in series. Circuit Y has 3 components (2 lamps + 1 buzzer) in series.\n2.  **Voltage Sharing in Series:** In a series circuit, the total voltage (electrical 'push') from the power supply is shared amongst *all* the components.\n3.  **Effect of Component Count:** The more components there are in a series circuit, the smaller the share of voltage each individual component receives. A smaller voltage across a lamp makes it dimmer.\n4.  **Comparison:** Since Circuit X has fewer components (2) than Circuit Y (3), each component in Circuit X, including the lamp, receives a larger share of the power supply's voltage. Therefore, the lamp in Circuit X will be brighter than a lamp in Circuit Y.",
+      "hint": "Think about how the 'electrical push' from the power supply is divided up when there are different numbers of items (components) connected one after another in a circuit.",
+      "generatedAt": "2026-04-29T17:43:55.568022"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y6-electricity_advanced_001",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A student, Maya, investigates the brightness of lamps and the volume of buzzers in series circuits. She uses identical cells, lamps, and buzzers throughout her experiment.\n\nShe sets up three different circuits:\n*   **Circuit X:** One cell, one lamp, one buzzer connected in series.\n*   **Circuit Y:** One cell, two lamps, one buzzer connected in series.\n*   **Circuit Z:** Two cells, one lamp, one buzzer connected in series.\n\nWhich statement accurately compares the brightness of the lamps and the volume of the buzzers in these three circuits?",
+      "options": [
+        "A) The lamp in Circuit Y is brighter than the lamp in Circuit X, and the buzzer in Circuit Z is quieter than the buzzer in Circuit X.",
+        "B) The lamp in Circuit Z is brighter than the lamp in Circuit X, and the buzzer in Circuit Y is quieter than the buzzer in Circuit X.",
+        "C) The lamp in Circuit X is dimmer than the lamp in Circuit Y, and the buzzer in Circuit Z is louder than the buzzer in Circuit Y.",
+        "D) The lamp in Circuit Z is dimmer than the lamp in Circuit Y, and the buzzer in Circuit Y is louder than the buzzer in Circuit Z."
+      ],
+      "correctAnswer": "A) The lamp in Circuit Y is brighter than the lamp in Circuit X, and the buzzer in Circuit Z is quieter than the buzzer in Circuit X.",
+      "explanation": "To answer this question, we need to compare each circuit to Circuit X and then evaluate the options:\n\n1.  **Circuit X (Reference):** One cell, one lamp, one buzzer. This is our baseline for brightness and volume.\n\n2.  **Circuit Y compared to Circuit X:**\n    *   Circuit Y has the same number of cells (one) as Circuit X.\n    *   Circuit Y has more lamps (two) than Circuit X (one) but the same number of buzzers.\n    *   When more lamps (or components) are added in a series circuit, they share the available electrical energy, making each lamp **dimmer** and each buzzer **quieter**.\n    *   Therefore, the lamp in Circuit Y is dimmer than in Circuit X, and the buzzer in Circuit Y is quieter than in Circuit X.\n\n3.  **Circuit Z compared to Circuit X:**\n    *   Circuit Z has more cells (two) than Circuit X (one).\n    *   Circuit Z has the same number of lamps (one) and buzzers (one) as Circuit X.\n    *   When more cells are added to a series circuit, more electrical energy is provided, making the lamps **brighter** and the buzzers **louder**.\n    *   Therefore, the lamp in Circuit Z is brighter than in Circuit X, and the buzzer in Circuit Z is louder than in Circuit X.\n\nNow let's evaluate the given options:\n\n*   **A) The lamp in Circuit Y is brighter than the lamp in Circuit X (False - Y is dimmer).** So, A is incorrect.\n*   **B) The lamp in Circuit Z is brighter than the lamp in Circuit X (True - Z has more cells). AND the buzzer in Circuit Y is quieter than the buzzer in Circuit X (True - Y has more components in series).** Both parts of this statement are correct.\n*   **C) The lamp in Circuit X is dimmer than the lamp in Circuit Y (False - X is brighter).** So, C is incorrect.\n*   **D) The lamp in Circuit Z is dimmer than the lamp in Circuit Y (False - Z is much brighter than Y).** So, D is incorrect.\n\nThe only fully correct statement is B.",
+      "hint": "Think about what happens to the electrical energy when you add more cells to a series circuit, versus what happens when you add more components (like lamps or buzzers) in a series circuit.",
+      "generatedAt": "2026-04-29T17:44:32.444805"
+    },
+    {
+      "id": "s-y6-electricity_advanced_002",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A class of Year 6 students is exploring series circuits.\n\nScenario 1: Jessica connects a circuit with one power cell, one lamp, and one buzzer, all connected in series. She observes the brightness of the lamp and the volume of the buzzer.\n\nScenario 2: David connects a different circuit using an identical power cell. His circuit has two identical lamps and one identical buzzer, all connected in series.\n\n\na) Describe how the brightness of the lamp in Jessica's circuit compares to the brightness of the lamps in David's circuit. (2 marks)\n\nb) Explain why the lamps in Jessica's circuit are brighter than the lamps in David's circuit. (3 marks)\n\nc) State how the volume of the buzzer in Jessica's circuit compares to the volume of the buzzer in David's circuit. (1 mark)\n\nd) Explain your answer to part c). (3 marks)\n\ne) Jessica then adds a second identical lamp in series to her original circuit (so her circuit now has one power cell, two lamps, and one buzzer). Describe what will happen to the brightness of her first lamp and the volume of her buzzer. (2 marks)",
+      "options": [],
+      "correctAnswer": "a) The lamp in Jessica's circuit will be brighter than each of the lamps in David's circuit. (1 mark for comparison, 1 mark for correct direction).\n\nb) In Jessica's circuit, the electrical energy from the power cell is shared between two components (one lamp and one buzzer). In David's circuit, the same amount of electrical energy from an identical power cell is shared between three components (two lamps and one buzzer). Because the electrical energy is shared among more components in David's circuit, each lamp receives less energy, so they glow less brightly. (1 mark for mentioning energy sharing, 1 mark for linking more components to less energy per component, 1 mark for connecting less energy to dimmer brightness).\n\nc) The buzzer in Jessica's circuit will be louder than the buzzer in David's circuit. (1 mark)\n\nd) Similar to the lamps, the buzzer also needs electrical energy to work. In Jessica's circuit, the total electrical energy from the power cell is shared between fewer components (two) compared to David's circuit (three components). Because the buzzer in Jessica's circuit receives a larger share of the electrical energy, it can operate at a higher volume. (1 mark for energy sharing for buzzer, 1 mark for linking fewer components to more energy for buzzer, 1 mark for connecting more energy to louder volume).\n\ne) If Jessica adds another identical lamp in series to her original circuit, her first lamp will become dimmer. The buzzer will also become quieter. (1 mark for dimmer lamp, 1 mark for quieter buzzer).",
+      "explanation": "This question assesses the understanding of how electrical energy is shared among components in a series circuit. \n\nFor parts (a) and (b), students must identify that more components in series lead to a greater division of the total electrical energy from the power source. This means each lamp receives less energy, resulting in lower brightness. \n\nFor parts (c) and (d), the same principle applies to the buzzer. With more components in the circuit, the buzzer receives less electrical energy, causing it to operate at a lower volume. \n\nPart (e) requires students to apply this understanding to a change in an existing circuit, predicting that adding another component will further divide the available energy, making existing components less effective (dimmer/quieter). The explanations must clearly link cause (number of components, energy sharing) to effect (brightness/volume) using scientific terminology like 'electrical energy' and 'shared'.",
+      "hint": "Remember that in a series circuit, the total electrical energy provided by the power cell is shared amongst all the components. More components in series mean less energy for each individual component.",
+      "generatedAt": "2026-04-29T17:45:52.858924"
+    },
+    {
+      "id": "s-y6-electricity_advanced_003",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Jessica is designing circuits for a school fair. She needs to understand how to control the brightness of lamps and the loudness of buzzers. She sets up two different circuits using identical cells, wires, lamps, and buzzers.\n\n**Circuit A:** A cell connected in series to two lamps and one buzzer.\n**Circuit B:** A cell connected in series to one lamp and one buzzer.\n\n1.  **State** the name of the electrical component that provides the energy for the circuit. (1 mark)\n2.  **Describe** how the brightness of the lamps in Circuit A compares to the brightness of the lamp in Circuit B. (2 marks)\n3.  **Explain** why the lamps behave this way, using ideas about energy. (3 marks)\n4.  Jessica now wants to make the buzzer as loud as possible, using only one cell. **Describe** how she should build her circuit to achieve this, and **explain** why her circuit will make the buzzer loud. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  **State:** Cell (or 'battery').\n\n2.  **Describe:** The lamps in Circuit A will be dimmer than the lamp in Circuit B. (Alternatively: The lamp in Circuit B will be brighter than the lamps in Circuit A).\n\n3.  **Explain:** In Circuit A, the electrical energy from the cell is shared between two lamps and one buzzer. In Circuit B, the same amount of electrical energy from the cell is shared between only one lamp and one buzzer. **Because** there are more components sharing the energy in Circuit A, each lamp receives less energy, **so** they glow less brightly.\n\n4.  **Describe:** Jessica should build a circuit with just one cell and one buzzer connected in series.\n    **Explain:** This will make the buzzer as loud as possible **because** all of the electrical energy from the cell will go to that single buzzer, rather than being shared with any other components. This means the buzzer will receive the maximum amount of energy available from the cell, **so** it will be the loudest.",
+      "explanation": "This question assesses a Year 6 student's advanced understanding of series circuits and how adding components affects the distribution of electrical energy. \n\n1.  The 'cell' (or 'battery') is the fundamental component providing electrical energy in simple circuits.\n2.  In a series circuit, adding more components (like lamps) means the available electrical energy from the cell must be shared amongst more items. More components in series lead to less energy being available for each component, resulting in dimmer lamps.\n3.  The explanation requires linking the cause (more components, sharing energy) directly to the effect (dimmer lamps) using appropriate Year 6 vocabulary and the linking words 'because' and 'so'.\n4.  To maximise the output (loudness) of a single component (buzzer), it should be the *only* component in the series circuit with the cell. This ensures the buzzer receives the entire share of electrical energy from the cell, as it does not have to be shared with other components, thereby maximising its volume.",
+      "hint": "When components are connected in a series circuit, they all share the electrical energy that comes from the cell. Think about what happens when you have to share something with more people.",
+      "generatedAt": "2026-04-29T17:46:11.969840"
+    },
+    {
+      "id": "s-y6-electricity_advanced_004",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Kai is a designer creating two prototype lighting and sound systems for a new theme park ride. He uses identical batteries, identical small lamps, and identical small buzzers for both systems.\n\n**System Alpha:** Kai connects one battery, two lamps, and one buzzer all together in a single series circuit.\n**System Beta:** Kai connects one battery, three lamps, and one buzzer all together in a single series circuit.\n\na) **Describe** how the brightness of an individual lamp in System Alpha compares to the brightness of an individual lamp in System Beta. (2 marks)\n\nb) **Explain** the scientific reason for the difference in brightness you described in part (a), making sure to link cause and effect. (3 marks)\n\nc) **Describe** how the volume of the buzzer in System Alpha compares to the volume of the buzzer in System Beta. (2 marks)\n\nd) **Explain** the scientific reason for the difference in buzzer volume you described in part (c), making sure to link cause and effect. (3 marks)\n\ne) **Predict** what would happen to the brightness of the *other* two lamps and the volume of the buzzer in System Beta if one of the three lamps suddenly broke and stopped working. **Explain** your prediction. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) An individual lamp in System Alpha will be brighter than an individual lamp in System Beta. \n\nb) In a series circuit, the electrical energy provided by the battery has to be shared amongst all the components. System Beta has more components in total (three lamps and one buzzer, making four components) than System Alpha (two lamps and one buzzer, making three components). Because there are more components sharing the same amount of energy from the battery in System Beta, each lamp receives less energy, so it glows less brightly.\n\nc) The buzzer in System Alpha will be louder than the buzzer in System Beta.\n\nd) Similar to the lamps, the electrical energy from the battery is shared between all the components in a series circuit. Since System Beta has more components (three lamps and one buzzer) than System Alpha (two lamps and one buzzer), the buzzer in System Beta receives less electrical energy than the buzzer in System Alpha, so it produces a quieter sound.\n\ne) If one of the three lamps in System Beta broke, all the other two lamps would go out, and the buzzer would stop working. This is because in a series circuit, there is only one continuous path for the electricity to flow. If one component breaks, it creates a gap or 'break' in this path, stopping the flow of electricity to all other components in the entire circuit.",
+      "explanation": "This question is designed to test a Year 6 student's advanced understanding of series circuits. It requires them to compare two different series circuits, apply the concept of energy distribution among components, and then predict and explain the outcome of a circuit fault.\n\n**Parts a) & c):** These assess the core observational understanding that adding more components in series reduces the effect (brightness/volume) of each individual component.\n**Parts b) & d):** These require a scientific explanation for the observations, focusing on the Year 6 concept of the battery's energy being 'shared' among all components in the single path of a series circuit. The link between 'more components sharing energy' and 'less energy per component' is crucial.\n**Part e):** This is the 'advanced' element. It requires predicting the system-wide consequence of a single component breaking in a series circuit and providing a clear explanation based on the principle that a series circuit has only one path for electricity, which is broken if any component fails.",
+      "hint": "Think about how the electrical energy from the battery is shared out. What happens when there are more things in the path to share the energy? Also, consider what happens to the path for electricity if something breaks in a series circuit.",
+      "generatedAt": "2026-04-29T17:46:33.278875"
+    },
+    {
+      "id": "s-y6-electricity_advanced_005",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A local community group is setting up a festive decoration for their annual street fair. They decide to create a long electrical path with three identical small lamps and two identical small buzzers. All five components are connected one after another in a single loop to a battery pack containing two identical cells.\n\n1.  **State** what will happen to all the lamps and buzzers if one of the lamps stops working (e.g., its filament breaks). (1 mark)\n\n2.  After setting up the circuit, the group observes that the lamps are quite dim and the buzzers are very quiet. **Describe** two different ways they could make the lamps brighter and the buzzers louder, using their existing components and battery pack, while still keeping all remaining components connected in a series circuit. (2 marks)\n\n3.  **Explain** why, when more lamps or buzzers are added to a series circuit with the same battery pack, the remaining lamps become dimmer and the buzzers become quieter. (4 marks)",
+      "options": [],
+      "correctAnswer": "1. If one of the lamps stops working, all the other lamps and buzzers in the circuit will also stop working (go out/become silent). (1 mark)\n\n2. Two ways to make the lamps brighter and buzzers louder, keeping components in series:\n    a) Add more identical cells (batteries) to the battery pack, connected in series with the existing ones. (1 mark)\n    b) Remove some of the lamps or buzzers from the circuit, reducing the total number of components. (1 mark)\n\n3. In a series circuit, the electrical energy (or the 'push' from the battery) is shared out amongst all the components connected in the loop. (1 mark) When more lamps or buzzers are added to the same series circuit with the same battery pack, the same total amount of electrical energy from the battery has to be shared amongst a greater number of components. (2 marks, linking cause and effect with more components)\n    This means that each individual lamp and buzzer receives a smaller share of the available electrical energy. (1 mark, consequence leading to effect) Therefore, the lamps become dimmer and the buzzers become quieter.",
+      "explanation": "This question assesses a Year 6 student's advanced understanding of series circuits. \n\nPart 1 tests the fundamental property of a series circuit: a break anywhere in the circuit stops the flow of electricity everywhere, causing all components to cease functioning. \n\nPart 2 requires students to apply their knowledge to find solutions for increasing the output (brightness/volume). This involves understanding that the total electrical 'push' can be increased by adding more cells (batteries in series) or that the 'push' per component can be increased by reducing the number of components sharing the existing 'push'.\n\nPart 3 is the 'Advanced' component, demanding an explanation rather than just a description. For Year 6, the explanation focuses on the concept of 'sharing' electrical energy or the 'push' from the battery. It explicitly requires linking the cause (more components, same total energy/push) to the effect (less energy/push per component, leading to dimmer lamps and quieter buzzers), fulfilling the 'Explain' command word criteria.",
+      "hint": "Remember that in a series circuit, there is only one path for the electricity. Think about what happens to the 'strength' of the electricity (the 'push' from the battery) if it has to pass through more or fewer items.",
+      "generatedAt": "2026-04-29T17:46:54.410834"
+    },
+    {
+      "id": "s-y6-electricity_advanced_006",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A team of student engineers is preparing display models for their school's annual science fair. They are experimenting with different series circuits, each powered by an identical 9V battery. They have a supply of identical lamps and identical buzzers to use in their designs.\n\nThey construct three different series circuits:\n\n*   **Circuit A:** Connected to the 9V battery, it contains 2 lamps and 1 buzzer.\n*   **Circuit B:** Connected to the 9V battery, it contains 1 lamp and 2 buzzers.\n*   **Circuit C:** Connected to the 9V battery, it contains 3 lamps and 1 buzzer.\n\nRemember, in a series circuit, the electrical energy from the battery is shared among all the components.\n\n**Part 1:** State one characteristic of a series circuit if one of the lamps in Circuit A were to break. (1 mark)\n\n**Part 2:** Describe how the brightness of each individual lamp in Circuit A compares to the brightness of each individual lamp in Circuit C. (2 marks)\n\n**Part 3:** Explain why each individual buzzer in Circuit B is likely to be quieter than the single buzzer in Circuit A. (3 marks)\n\n**Part 4:** Based on your understanding, which of the following statements is correct?\n",
+      "options": [
+        "A) Each lamp in Circuit A will be brighter than each lamp in Circuit C.",
+        "B) The two buzzers in Circuit B will each be louder than the single buzzer in Circuit A.",
+        "C) Each lamp in Circuit C will be brighter than each lamp in Circuit A.",
+        "D) The single buzzer in Circuit C will be louder than the single buzzer in Circuit A."
+      ],
+      "correctAnswer": "A) Each lamp in Circuit A will be brighter than each lamp in Circuit C.",
+      "explanation": "### Full Model Answer:\n\n**Part 1:** If one of the lamps in Circuit A were to break, all other components (the other lamp and the buzzer) in the circuit would also stop working. (1 mark)\n\n**Part 2:** The lamps in Circuit A will be brighter than the lamps in Circuit C (1 mark). This is because Circuit A has fewer total components (3) than Circuit C (4), meaning each component in Circuit A receives a larger share of the electrical energy (1 mark).\n\n**Part 3:** In a series circuit, the total electrical energy from the battery is shared among all the components (1 mark). Both Circuit A (2 lamps + 1 buzzer = 3 components) and Circuit B (1 lamp + 2 buzzers = 3 components) have the same total number of components. However, in Circuit B, the electrical energy allocated to the buzzers must be shared between *two* buzzers, whereas in Circuit A, the energy for the buzzer is given to only *one* buzzer (1 mark). Therefore, each individual buzzer in Circuit B receives less electrical energy than the single buzzer in Circuit A, causing it to be quieter (1 mark).\n\n**Part 4: Correct Option A Explanation:**\n\n1.  **Calculate total components:**\n    *   Circuit A has 2 lamps + 1 buzzer = **3 components**.\n    *   Circuit C has 3 lamps + 1 buzzer = **4 components**.\n\n2.  **Apply principle:** In a series circuit, the electrical energy from the battery is shared among *all* the components. When there are more components, each individual component receives a smaller share of that electrical energy.\n\n3.  **Compare:** Since Circuit C has more components (4) than Circuit A (3), each component in Circuit C receives less electrical energy than each component in Circuit A. Less electrical energy means lamps will be dimmer.\n\n4.  **Conclusion:** Therefore, each lamp in Circuit A will receive more electrical energy than each lamp in Circuit C, making the lamps in Circuit A brighter.",
+      "hint": "For Part 4, consider the total number of components in each circuit and how this affects the share of electrical energy each individual component receives from the battery. More components mean less energy for each.",
+      "generatedAt": "2026-04-29T17:48:11.657977"
+    },
+    {
+      "id": "s-y6-electricity_advanced_007",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A young inventor, Leo, is experimenting with a new \"PowerPlay\" circuit kit. He uses identical batteries, lamps, and buzzers to set up two different series circuits.\n\n**Circuit 1:** Consists of one battery, one lamp, and one buzzer, all connected in series.\n**Circuit 2:** Consists of one battery, two lamps, and two buzzers, all connected in series.\n\nLeo notices a difference in how the lamps glow and how the buzzers sound when he connects each circuit.\n\n1.  **Describe** the difference in brightness of the lamp in Circuit 1 compared to each lamp in Circuit 2. Also, describe the difference in volume of the buzzer in Circuit 1 compared to each buzzer in Circuit 2. (3 marks)\n2.  **Explain** *why* Leo observes these differences, referring to how the electricity flows through the components in a series circuit. (4 marks)\n3.  Leo wants to make the lamps in Circuit 2 glow brighter without adding another battery. **State** one specific change he could make to Circuit 2 to achieve this. (1 mark)",
+      "options": [],
+      "correctAnswer": "1. **Describe:** The single lamp in Circuit 1 will be brighter than each of the individual lamps in Circuit 2. The single buzzer in Circuit 1 will be louder than each of the individual buzzers in Circuit 2.\n\n2. **Explain:** In a series circuit, all the electricity from the battery must flow through every single component. In Circuit 2, there are more components (two lamps and two buzzers) that the electricity must flow through compared to Circuit 1 (one lamp and one buzzer). Because there are more components in Circuit 2, they share the electrical energy from the battery, which means there is less electrical current flowing through each individual lamp and buzzer. So, with less electrical current, the lamps glow dimmer and the buzzers sound quieter.\n\n3. **State:** Leo could remove one of the lamps OR remove one of the buzzers from Circuit 2.",
+      "explanation": "1. In series circuits, adding more components increases the total 'resistance' to the flow of electricity (current). With fewer components in Circuit 1, there's less resistance, allowing more current to flow, making the lamp brighter and the buzzer louder. Conversely, in Circuit 2, more components mean higher resistance, leading to less current through each component, resulting in dimmer lamps and quieter buzzers.\n2. This explanation directly addresses the 'why' by linking the number of components to the flow of electricity (current) and its effect on brightness/volume, fulfilling the 'cause and effect' requirement.\n3. Removing a component from a series circuit reduces the total resistance in the circuit. This allows more current to flow from the battery, making the remaining lamps brighter and buzzers louder without changing the battery itself.",
+      "hint": "Think about what happens to the 'share' of electricity each component gets when you add more items in a series circuit. Remember, electricity has to go through every part in a series.",
+      "generatedAt": "2026-04-29T17:48:44.063384"
+    },
+    {
+      "id": "s-y6-electricity_advanced_008",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A pupil constructs a closed series circuit using a single 1.5V cell, one small lamp, and one buzzer. The lamp glows with a medium brightness, and the buzzer produces a noticeable sound.\n\nThe pupil then adds a *second identical small lamp* into the same circuit, ensuring all components remain connected in series with the original cell.\n\nDescribe the most likely change observed in the original lamp and the buzzer after the second lamp is added.",
+      "options": [
+        "A) The original lamp becomes brighter, and the buzzer becomes louder.",
+        "B) The original lamp becomes dimmer, and the buzzer becomes quieter.",
+        "C) The original lamp's brightness and the buzzer's volume both remain exactly the same.",
+        "D) The original lamp goes out completely, and the buzzer's volume remains the same."
+      ],
+      "correctAnswer": "B) The original lamp becomes dimmer, and the buzzer becomes quieter.",
+      "explanation": "1. **Initial Circuit:** In the initial series circuit, the electrical energy provided by the cell is shared between the single lamp and the buzzer.\n2. **Adding a Component:** When a second identical lamp is added into the same series circuit, the total number of components that must share the electrical energy from the cell increases.\n3. **Energy Distribution:** In a series circuit, the total electrical energy (often thought of as the 'electrical push' from the cell) must be distributed among *all* the components. So, with more components, each individual component receives a smaller share of this available electrical energy.\n4. **Effect on Brightness and Volume:** Because less electrical energy is now passing through the original lamp, it will glow less brightly, causing it to become dimmer. Similarly, less electrical energy reaching the buzzer means it will produce a less powerful sound, causing it to become quieter.\n5. **Conclusion:** Therefore, adding another lamp in series causes the original lamp to become dimmer and the buzzer to become quieter.",
+      "hint": "Consider how the electrical energy from the cell is 'shared' among the components in a series circuit. What happens when more components are added to share that same total energy?",
+      "generatedAt": "2026-04-29T17:49:01.365287"
+    },
+    {
+      "id": "s-y6-electricity_advanced_009",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A pupil constructs a closed series circuit with a single 1.5V cell and two identical small lamps. The lamps glow brightly. The pupil then carefully adds a small buzzer into the *same series circuit* without changing anything else, so all three components are now in series with the cell. \n\nWhich statement accurately describes what will happen to the brightness of the lamps and the volume of the buzzer?",
+      "options": [
+        "A. The lamps will become brighter, and the buzzer will be loud.",
+        "B. The lamps will become dimmer, and the buzzer will be quiet.",
+        "C. The lamps will stay the same brightness, and the buzzer will be loud.",
+        "D. The lamps will go out, and the buzzer will not make a sound."
+      ],
+      "correctAnswer": "B. The lamps will become dimmer, and the buzzer will be quiet.",
+      "explanation": "When components are connected in a series circuit, the electrical energy (or 'push') provided by the cell is shared among all the components. Initially, the energy was shared between two lamps. By adding the buzzer to the same series circuit, there are now more components (two lamps and one buzzer) that need to share the limited electrical energy from the single 1.5V cell. This means each lamp receives less electrical energy, causing them to glow dimmer. Similarly, the buzzer also receives less electrical energy than it would if it were in a circuit alone with the cell, resulting in it being quieter. The electrical energy is distributed across all components in series.",
+      "hint": "Consider how adding more components in a series circuit affects the way the cell's electrical energy is shared among them.",
+      "generatedAt": "2026-04-29T17:49:18.681151"
+    },
+    {
+      "id": "s-y6-electricity_advanced_010",
+      "topicId": "s-y6-electricity",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A Year 6 pupil is helping to set up a display for the school's science fair using simple circuits. They have a single power source (a 1.5V cell) and several identical small lamps and identical small buzzers.\n\n**Circuit A:** The pupil builds a series circuit with the 1.5V cell and two identical small lamps. Both lamps light up.\n**Circuit B:** The pupil then removes Circuit A and builds a new series circuit with the *same 1.5V cell* and three identical small lamps. All three lamps light up.\n**Circuit C:** Finally, the pupil builds a third series circuit with the *same 1.5V cell*, one small lamp, and one small buzzer. Both the lamp lights up and the buzzer makes a sound.\n\nExplain fully why the lamps in Circuit B are dimmer than the lamps in Circuit A, and why both the lamp and the buzzer in Circuit C appear less bright and quieter, respectively, compared to if they were each connected alone to the 1.5V cell. (7 marks)",
+      "options": [],
+      "correctAnswer": "In a series circuit, the electrical energy supplied by the single cell is shared amongst all the components connected in that circuit.\n\n**Comparing Circuit A and Circuit B:**\nIn Circuit A, the cell's energy is shared between two lamps. In Circuit B, the *same amount of total energy* from the *same cell* is now shared between three lamps. Because there are more lamps in Circuit B, each individual lamp receives a smaller share of the available electrical energy. With less energy, the lamps cannot light up as brightly, making them appear dimmer.\n\n**Comparing Circuit C to single components:**\nWhen the lamp and buzzer are connected in series in Circuit C, the electrical energy from the cell is shared between both the lamp and the buzzer. If the lamp were connected alone to the cell, it would receive all of the cell's energy, making it light up at its brightest. Similarly, if the buzzer were connected alone, it would receive all of the cell's energy, making it sound at its loudest. However, in Circuit C, they must share the energy. This means both the lamp and the buzzer receive less energy than they would individually, resulting in a dimmer lamp and a quieter buzzer.",
+      "explanation": "To achieve full marks for an 'Explain' question, you must demonstrate a clear understanding of cause and effect. Break down your answer into distinct points for each comparison requested. Ensure you explicitly mention the 'sharing' or 'division' of electrical energy from the cell as the core concept, and link this directly to the observed effect (dimmer brightness, quieter volume). Use clear scientific language appropriate for Year 6, avoiding complex terms like voltage or current.",
+      "hint": "Think about how the electrical energy supplied by the single cell is distributed or shared among the components when they are connected in a series circuit. What happens when more components need to share the same total energy?",
+      "generatedAt": "2026-04-29T17:49:42.232324"
+    }
+  ]
+}

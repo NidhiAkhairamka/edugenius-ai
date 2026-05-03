@@ -1,0 +1,508 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-add-sub_beginner_001",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A baker made 2,345 cookies on Monday. On Tuesday, they made 1,789 more cookies. How many cookies did the baker make in total over the two days?",
+      "options": [
+        "A) 3,134 cookies",
+        "B) 4,134 cookies",
+        "C) 4,034 cookies",
+        "D) 556 cookies"
+      ],
+      "correctAnswer": "B) 4,134 cookies",
+      "explanation": "To find the total number of cookies made, you need to add the number of cookies made on Monday to the number of cookies made on Tuesday.\n\nCookies on Monday: 2,345\nCookies on Tuesday: 1,789\n\nUsing column addition:\n\n   2345\n+ 1789\n-------\n\nStep 1: Add the ones column (5 + 9 = 14). Write down 4 and carry over 1 to the tens column.\n   234¹5\n+ 1789\n-------\n      4\n\nStep 2: Add the tens column (4 + 8 + 1 (carried over) = 13). Write down 3 and carry over 1 to the hundreds column.\n   23¹4¹5\n+ 1789\n-------\n     34\n\nStep 3: Add the hundreds column (3 + 7 + 1 (carried over) = 11). Write down 1 and carry over 1 to the thousands column.\n   2¹3¹4¹5\n+ 1789\n-------\n    134\n\nStep 4: Add the thousands column (2 + 1 + 1 (carried over) = 4). Write down 4.\n   ¹2¹3¹4¹5\n+ 1789\n-------\n   4134\n\nSo, the total number of cookies made is 4,134.",
+      "hint": "Think about what 'in total' means. You will need to use a formal written method for addition to combine the two numbers.",
+      "generatedAt": "2026-04-29T09:13:18.487287"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_002",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A local library has a total of 3,000 books. 1,285 of these books are fiction, and the rest are non-fiction. How many non-fiction books does the library have?",
+      "options": [
+        "4,285",
+        "2,285",
+        "1,715",
+        "1,815"
+      ],
+      "correctAnswer": "1,715",
+      "explanation": "To find the number of non-fiction books, you need to subtract the number of fiction books from the total number of books.\n\nTotal books = 3,000\nFiction books = 1,285\n\nNon-fiction books = Total books - Fiction books\nNon-fiction books = 3,000 - 1,285\n\nUsing the column subtraction method:\n   2 9 9 10\n-  1 2 8  5\n------------\n   1 7 1  5\n\nSo, there are 1,715 non-fiction books.",
+      "hint": "Think about how to find a missing part when you know the total and one part. Remember to use formal written methods for subtraction, paying close attention to borrowing when you have zeros.",
+      "generatedAt": "2026-04-29T09:13:38.688024"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_003",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A digital counter shows a starting value of 6,345. If 2,187 is taken away from this value, what will the counter display now?",
+      "options": [
+        "4,158",
+        "4,268",
+        "8,532",
+        "4,148"
+      ],
+      "correctAnswer": "4,158",
+      "explanation": "To find the new value, we need to subtract 2,187 from 6,345 using the column method:\n\n   6345\n-  2187\n--------\n\n1.  **Ones column:** We cannot subtract 7 from 5, so we borrow 1 ten from the tens column. The 4 tens become 3 tens, and the 5 ones become 15 ones. Now, 15 - 7 = 8.\n\n    The column looks like:\n       3  15\n     6  4  5\n  -  2  1  7\n  ----------\n           8\n\n2.  **Tens column:** We now have 3 tens and need to subtract 8 tens. We cannot subtract 8 from 3, so we borrow 1 hundred from the hundreds column. The 3 hundreds become 2 hundreds, and the 3 tens become 13 tens. Now, 13 - 8 = 5.\n\n    The column looks like:\n     2  13  15\n     6   3   4   5\n  -  2   1   8   7\n  ---------------\n         5   8\n\n3.  **Hundreds column:** We now have 2 hundreds and need to subtract 1 hundred. So, 2 - 1 = 1.\n\n    The column looks like:\n     2  13  15\n     6   3   4   5\n  -  2   1   8   7\n  ---------------\n       1   5   8\n\n4.  **Thousands column:** We have 6 thousands and need to subtract 2 thousands. So, 6 - 2 = 4.\n\n    The column looks like:\n     2  13  15\n     6   3   4   5\n  -  2   1   8   7\n  ---------------\n     4   1   5   8\n\nSo, 6,345 - 2,187 = 4,158.",
+      "hint": "Use the formal written method (column subtraction) to solve this problem. Remember to borrow from the next column when a digit is too small to subtract from.",
+      "generatedAt": "2026-04-29T09:13:56.622158"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_004",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the result of 9,032 minus 2,567. Show your working.",
+      "options": [
+        "A) 6,465",
+        "B) 7,535",
+        "C) 7,465",
+        "D) 6,565"
+      ],
+      "correctAnswer": "A) 6,465",
+      "explanation": "To calculate 9,032 minus 2,567, we use the formal written method of column subtraction:\n\n   8 9 12 12\n   <s>9</s> <s>0</s> <s>3</s> <s>2</s>\n-  2  5  6  7\n----------------\n   6  4  6  5\n\n1.  **Units column:** We cannot subtract 7 from 2, so we need to borrow. We borrow from the tens column. The 3 in the tens column becomes 2. The 2 in the units column becomes 12. Now, 12 - 7 = 5.\n2.  **Tens column:** We cannot subtract 6 from the new value of 2 (from the 3 we borrowed from). We need to borrow from the hundreds column. The 0 in the hundreds column needs to borrow from the thousands column (the 9 becomes 8, and the 0 becomes 10). Then the 10 in the hundreds column becomes 9 (as it lends to the tens column). The 2 in the tens column becomes 12. Now, 12 - 6 = 6.\n3.  **Hundreds column:** We now have 9 (from the 0 that became 10 and then lent 1 to the tens column). Subtract 5 from 9: 9 - 5 = 4.\n4.  **Thousands column:** We now have 8 (from the 9 we borrowed from). Subtract 2 from 8: 8 - 2 = 6.\n\nSo, 9,032 - 2,567 = 6,465.",
+      "hint": "Remember to use the column subtraction method. Pay close attention to borrowing, especially when borrowing across a zero.",
+      "generatedAt": "2026-04-29T09:14:18.763625"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_005",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Sarah had some money. She spent £1,325 on a new bicycle. She now has £2,175 left. How much money did Sarah have to begin with?",
+      "options": [
+        "£850",
+        "£3,400",
+        "£3,500",
+        "£3,550"
+      ],
+      "correctAnswer": "£3,500",
+      "explanation": "To find the amount of money Sarah had to begin with, you need to add the amount she spent to the amount she has left.\nAmount spent = £1,325\nAmount left = £2,175\n\nTotal initial amount = Amount spent + Amount left\nTotal initial amount = £1,325 + £2,175\n\nUsing the formal written method for addition:\n   1325\n+  2175\n-------\n   3500\n\nSo, Sarah had £3,500 to begin with.",
+      "hint": "Think about what operation will reverse the action of spending money to find the original amount before anything was spent.",
+      "generatedAt": "2026-04-29T09:14:30.553197"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_006",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Find the value that is 2,750 less than 8,125.",
+      "options": [
+        "5,375",
+        "5,475",
+        "6,375",
+        "6,475"
+      ],
+      "correctAnswer": "5,375",
+      "explanation": "To find the value that is 2,750 less than 8,125, we perform a subtraction:\n\n   8,125\n-  2,750\n---------\n\n1.  **Units column:** 5 - 0 = 5.\n2.  **Tens column:** We have 2 - 5. We cannot subtract 5 from 2, so we need to borrow from the hundreds column. The 1 in the hundreds column becomes 0, and the 2 in the tens column becomes 12. Now, 12 - 5 = 7.\n3.  **Hundreds column:** We now have 0 - 7 (because we borrowed from the 1). We cannot subtract 7 from 0, so we need to borrow from the thousands column. The 8 in the thousands column becomes 7, and the 0 in the hundreds column becomes 10. Now, 10 - 7 = 3.\n4.  **Thousands column:** We now have 7 - 2 (because we borrowed from the 8). So, 7 - 2 = 5.\n\nCombining these results, the final answer is 5,375.",
+      "hint": "Use the formal written method for subtraction, aligning the numbers by place value. Pay close attention to borrowing when a digit in the top number is smaller than the corresponding digit in the bottom number.",
+      "generatedAt": "2026-04-29T09:14:49.209173"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_007",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A baker baked 3,465 cookies on Monday. On Tuesday, the baker baked 2,189 cookies. What is the total number of cookies baked by the baker on Monday and Tuesday?",
+      "options": [
+        "A) 5,554",
+        "B) 5,644",
+        "C) 5,654",
+        "D) 1,276"
+      ],
+      "correctAnswer": "C) 5,654",
+      "explanation": "To find the total number of cookies, you need to add the number of cookies baked on Monday to the number baked on Tuesday.\nNumber of cookies on Monday = 3,465\nNumber of cookies on Tuesday = 2,189\n\nUsing column addition:\n   3465\n+  2189\n-------\n\n1.  Start from the units column: 5 + 9 = 14. Write down 4 and carry-over 1 to the tens column.\n2.  Tens column: 6 + 8 + 1 (carried over) = 15. Write down 5 and carry-over 1 to the hundreds column.\n3.  Hundreds column: 4 + 1 + 1 (carried over) = 6. Write down 6.\n4.  Thousands column: 3 + 2 = 5. Write down 5.\n\nSo, the total number of cookies baked is 5,654.",
+      "hint": "Use the formal written method (column addition) to add the two numbers, remembering to carry over when the sum of a column is 10 or more.",
+      "generatedAt": "2026-04-29T09:15:10.738355"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_008",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What number must be added to 5,382 to reach a total of 7,000?",
+      "options": [
+        "A) 1,618",
+        "B) 2,618",
+        "C) 1,718",
+        "D) 1,628"
+      ],
+      "correctAnswer": "A) 1,618",
+      "explanation": "To find the missing number in an addition problem, you can use the inverse operation, which is subtraction. You need to subtract 5,382 from 7,000.\n\n   \n     6 9 9 10\n    7 0 0 0\n  - 5 3 8 2\n  -----------\n    1 6 1 8\n   \n\nHere's the step-by-step process for subtraction with borrowing:\n\n1.  **Units column (rightmost):** You cannot subtract 2 from 0. You need to borrow from the tens column. Since the tens, hundreds, and thousands columns are all 0, you must borrow from the 7 in the thousands place.\n2.  The 7 in the thousands place becomes 6. The hundreds place then becomes 10, but we borrow 1 from it for the tens place, so it becomes 9.\n3.  The tens place becomes 10, but we borrow 1 from it for the units place, so it becomes 9.\n4.  Now, the units place is 10. So, 10 - 2 = 8.\n5.  In the tens column, it is now 9. So, 9 - 8 = 1.\n6.  In the hundreds column, it is now 9. So, 9 - 3 = 6.\n7.  In the thousands column, it is now 6. So, 6 - 5 = 1.\n\nThe final answer is 1,618.",
+      "hint": "To find a missing number that is added to another to make a total, think about using the inverse operation of addition.",
+      "generatedAt": "2026-04-29T09:15:32.099887"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_009",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following calculations is correct?\n\nA) 6,458 + 2,374 = 8,832\nB) 6,458 + 2,374 = 8,822\nC) 6,458 + 2,374 = 8,732\nD) 6,458 + 2,374 = 9,832",
+      "options": [
+        "A) 6,458 + 2,374 = 8,832",
+        "B) 6,458 + 2,374 = 8,822",
+        "C) 6,458 + 2,374 = 8,732",
+        "D) 6,458 + 2,374 = 9,832"
+      ],
+      "correctAnswer": "A) 6,458 + 2,374 = 8,832",
+      "explanation": "To find the correct answer, we need to perform the addition using a formal written method:\n\n   6458\n+  2374\n-------\n\n1. Add the units column: 8 + 4 = 12. Write down 2 in the units column and carry over 1 to the tens column.\n   6458\n+  2374\n-------\n      2  (carry 1)\n\n2. Add the tens column: 5 + 7 + 1 (carried over) = 13. Write down 3 in the tens column and carry over 1 to the hundreds column.\n   6458\n+  2374\n-------\n     32  (carry 1)\n\n3. Add the hundreds column: 4 + 3 + 1 (carried over) = 8. Write down 8 in the hundreds column.\n   6458\n+  2374\n-------\n    832\n\n4. Add the thousands column: 6 + 2 = 8. Write down 8 in the thousands column.\n   6458\n+  2374\n-------\n   8832\n\nSo, 6,458 + 2,374 = 8,832. This matches option A.",
+      "hint": "Remember to use the formal written method for addition, aligning the numbers by place value, and carefully carry over any tens to the next column.",
+      "generatedAt": "2026-04-29T09:15:58.955791"
+    },
+    {
+      "id": "m-y5-add-sub_beginner_010",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Estimate the sum of 5,382 and 2,749 by rounding each number to the nearest hundred before performing the addition.",
+      "options": [
+        "A) 8,000",
+        "B) 8,100",
+        "C) 8,200",
+        "D) 8,131"
+      ],
+      "correctAnswer": "B) 8,100",
+      "explanation": "To estimate the sum by rounding each number to the nearest hundred:\n1. Round 5,382 to the nearest hundred. The tens digit is 8, so we round up. 5,382 becomes 5,400.\n2. Round 2,749 to the nearest hundred. The tens digit is 4, so we round down. 2,749 becomes 2,700.\n3. Now, add the rounded numbers: 5,400 + 2,700 = 8,100.\nTherefore, the estimated sum is 8,100.",
+      "hint": "First, identify the tens digit in each number to decide whether to round up or down to the nearest hundred. Then, perform the addition.",
+      "generatedAt": "2026-04-29T09:16:15.701353"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-add-sub_intermediate_001",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A bookshop starts the day with 2,575 books on its shelves. During the morning, a new delivery of 1,380 books arrives and is added to the stock. In the afternoon, the shop sells 950 books to customers. How many books are in the shop at the end of the day? Show your working clearly.",
+      "options": [
+        "A) 1,245 books",
+        "B) 3,005 books",
+        "C) 3,405 books",
+        "D) 4,905 books"
+      ],
+      "correctAnswer": "B) 3,005 books",
+      "explanation": "This is a two-step problem involving addition and subtraction.\n\nStep 1: Calculate the total number of books after the delivery.\nThe shop started with 2,575 books.\nA delivery of 1,380 books arrived.\nTotal books after delivery = 2,575 + 1,380\n   2575\n+ 1380\n-------\n   3955\nSo, there are 3,955 books after the delivery.\n\nStep 2: Calculate the number of books remaining after the sales.\nThe shop had 3,955 books.\n950 books were sold.\nBooks remaining = 3,955 - 950\n   3955\n-   950\n-------\n   3005\n\nTherefore, there are 3,005 books in the shop at the end of the day.",
+      "hint": "First, add the initial number of books to the number of books in the delivery. Then, subtract the number of books sold from this new total.",
+      "generatedAt": "2026-04-29T09:16:27.850240"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_002",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A local community centre is planning to build a new garden. Their fundraising target is £18,500. They have already received £7,342 in donations. They then held a bake sale and raised an additional £5,987. How much more money do they need to raise to reach their target? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find out how much more money is needed, we first need to calculate the total amount of money raised so far.\n\n**Step 1: Calculate the total money raised.**\nMoney from donations: £7,342\nMoney from bake sale: £5,987\n\nUsing formal written addition:\n   £7,342\n+  £5,987\n----------\n  £13,329\n\nSo, the community centre has raised a total of £13,329 so far.\n\n**Step 2: Calculate how much more money is needed to reach the target.**\nFundraising target: £18,500\nMoney raised so far: £13,329\n\nUsing formal written subtraction:\n   £18,500\n-  £13,329\n----------\n    £5,171\n\nTherefore, the community centre needs to raise £5,171 more to reach their target.",
+      "explanation": "The problem requires two steps. First, you need to combine the two amounts of money already raised (donations and bake sale) using addition. This will give you the total amount collected so far. For numbers like £7,342 and £5,987, a formal written (column) addition method is most appropriate for accuracy.\n\nOnce you have the total amount raised, the second step is to subtract this total from the overall fundraising target. This subtraction will reveal the remaining amount that still needs to be collected. For numbers like £18,500 and £13,329, a formal written (column) subtraction method is best, ensuring careful handling of any borrowing across place values.",
+      "hint": "First, calculate the total amount of money the community centre has raised from both sources. Then, consider their overall target amount to find the difference.",
+      "generatedAt": "2026-04-29T09:16:40.597774"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_003",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A charity organisation received donations of £3,579 in the first month and £2,865 in the second month. They then spent £4,250 on a new community project. How much money does the charity have left? Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total donations received.\n  £3,579\n+ £2,865\n----------\n  £6,444\n\nStep 2: Subtract the amount spent from the total donations.\n  £6,444\n- £4,250\n----------\n  £2,194\n\nThe charity has £2,194 left.",
+      "explanation": "To solve this two-step problem, first, add the donations from the first and second months together to find the total amount of money the charity received. This will give you the sum of £3,579 and £2,865. Then, take this total amount and subtract the £4,250 that was spent on the community project to find out how much money remains.",
+      "hint": "First, use formal written addition to find the total amount of money donated to the charity. Then, use formal written subtraction to find the remaining amount after the expenditure.",
+      "generatedAt": "2026-04-29T09:16:51.077517"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_004",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large concert hall recorded attendance for two charity events. The first event had an attendance of 34,785 people. The second event had an attendance of 28,190 people. The target combined attendance for both events was 70,000 people. How many fewer people than the target combined attendance attended both events? Show your working.",
+      "options": [
+        "62,975",
+        "7,025",
+        "6,995",
+        "8,025"
+      ],
+      "correctAnswer": "7,025",
+      "explanation": "To solve this problem, we need to perform two steps:\n\n**Step 1: Calculate the total attendance for both events.**\nWe add the attendance from the first event to the attendance from the second event:\n\n   34,785\n+  28,190\n----------\n   62,975\n\nSo, the total attendance for both events was 62,975 people.\n\n**Step 2: Calculate how many fewer people attended than the target.**\nWe subtract the actual total attendance from the target combined attendance:\n\n   70,000\n-  62,975\n----------\n    7,025\n\nTherefore, 7,025 fewer people than the target combined attendance attended both events.",
+      "hint": "First, find the total number of people who attended both events. Then, compare this total to the target attendance.",
+      "generatedAt": "2026-04-29T09:17:11.408869"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_005",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A toy factory produced 3,450 robots in the first week of March and 2,875 robots in the second week of March. Towards the end of the month, 4,120 of these robots were prepared for shipping to stores. How many robots were left in the factory after the shipment? Show your working.",
+      "options": [],
+      "correctAnswer": "First, find the total number of robots produced in both weeks:\n   3450\n+ 2875\n------\n   6325\n\nNext, subtract the number of robots that were shipped from the total number produced:\n   6325\n- 4120\n------\n   2205\n\nThere were 2,205 robots left in the factory.",
+      "explanation": "This problem requires two steps involving addition and subtraction of large numbers. First, you need to combine the production from both weeks using addition to find the total number of robots made. Then, you need to subtract the number of robots shipped from this total to determine how many were remaining. Formal written methods for addition and subtraction are the most appropriate strategy for accurately solving with these numbers.",
+      "hint": "Begin by adding the number of robots produced in the first week to the number produced in the second week. Then, use that total to perform the subtraction.",
+      "generatedAt": "2026-04-29T09:17:24.296311"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_006",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Amelia is playing a video game. In the first round, she earns 3,785 points. In the second round, she earns another 2,143 points. Just before the third round starts, she receives a penalty and loses 1,500 points from her total score. How many points does Amelia have just before starting the third round? Show your working.",
+      "options": [],
+      "correctAnswer": "First, find the total points after two rounds:\n3,785 + 2,143 = 5,928 points.\n\nNext, subtract the penalty points:\n5,928 - 1,500 = 4,428 points.\n\nAmelia has 4,428 points just before starting the third round.",
+      "explanation": "To solve this problem, you need to perform two operations. First, add the points Amelia earned in the first two rounds to find her total score before the penalty. This will typically involve using the formal written method for addition.\n\nStep 1: Add the points from the first two rounds.\n   3785\n+  2143\n-------\n   5928\nSo, Amelia had 5,928 points after two rounds.\n\nStep 2: Subtract the penalty points from the total score. This can be done using a formal written method for subtraction or a mental strategy if you find it easier.\n   5928\n-  1500\n-------\n   4428\nTherefore, Amelia has 4,428 points before starting the third round.",
+      "hint": "This is a two-step problem. First, combine the points Amelia earned. Then, calculate her new total after the penalty.",
+      "generatedAt": "2026-04-29T09:17:33.932721"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_007",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large community library started the year with 3,250 books. In the spring, they acquired 1,575 new books to expand their collection. Then, by the end of summer, 830 books were removed from the shelves because they were too old or damaged. How many books does the library have at the end of summer? Show your working.",
+      "options": [
+        "A. 3,995 books",
+        "B. 4,825 books",
+        "C. 2,420 books",
+        "D. 5,655 books"
+      ],
+      "correctAnswer": "A. 3,995 books",
+      "explanation": "Step 1: Calculate the total number of books after acquiring new ones.\nInitial books + New books = Total after acquisition\n3,250 + 1,575 = 4,825 books\n\nStep 2: Calculate the number of books remaining after removing old ones.\nTotal after acquisition - Removed books = Final total\n4,825 - 830 = 3,995 books\n\nThe library has 3,995 books at the end of summer.",
+      "hint": "This is a two-step problem. First, figure out the total number of books after the library added more, then work out how many are left after some were taken away.",
+      "generatedAt": "2026-04-29T09:17:47.891138"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_008",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A warehouse starts the week with 4,725 boxes of building blocks. During the week, 1,980 boxes are sent out to various shops. Later, a new shipment of 3,250 boxes arrives. How many boxes of building blocks are in the warehouse now? Show your working.",
+      "options": [
+        "A) 5,995",
+        "B) 6,005",
+        "C) 5,985",
+        "D) 9,955"
+      ],
+      "correctAnswer": "A) 5,995",
+      "explanation": "This is a two-step problem involving subtraction and then addition.\n\nStep 1: Calculate the number of boxes remaining after some were sent out.\nInitial boxes: 4,725\nBoxes sent out: 1,980\nRemaining boxes = 4,725 - 1,980\n\nUsing formal written subtraction (column method):\n  4725\n- 1980\n------\n  2745\n\nSo, there are 2,745 boxes remaining after the first transaction.\n\nStep 2: Calculate the total number of boxes after a new shipment arrives.\nRemaining boxes: 2,745\nNew shipment: 3,250\nTotal boxes = 2,745 + 3,250\n\nUsing formal written addition (column method):\n  2745\n+ 3250\n------\n  5995\n\nTherefore, there are 5,995 boxes of building blocks in the warehouse now.",
+      "hint": "First, determine how many boxes are left after some are sent out. Then, add the new shipment to that revised total.",
+      "generatedAt": "2026-04-29T09:18:04.269697"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_009",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A bakery is preparing for a large local festival. They have a target to bake a total of 8,500 biscuits. On Monday, the bakers bake 3,240 biscuits. On Tuesday, they bake another 2,875 biscuits. How many more biscuits do they need to bake to reach their target? Show your working.",
+      "options": [
+        "A) 2,415",
+        "B) 2,385",
+        "C) 5,260",
+        "D) 2,485"
+      ],
+      "correctAnswer": "B) 2,385",
+      "explanation": "Step 1: Calculate the total number of biscuits baked so far.\nBiscuits baked on Monday: 3,240\nBiscuits baked on Tuesday: 2,875\nTotal baked = 3,240 + 2,875 = 6,115 biscuits.\n\nStep 2: Subtract the total baked from the target number of biscuits to find out how many more are needed.\nTarget: 8,500 biscuits\nTotal baked: 6,115 biscuits\nBiscuits still needed = 8,500 - 6,115 = 2,385 biscuits.\n\nTherefore, they need to bake 2,385 more biscuits.",
+      "hint": "This is a two-step problem. First, find the total number of biscuits already baked. Then, compare this total to the target amount.",
+      "generatedAt": "2026-04-29T09:18:20.783602"
+    },
+    {
+      "id": "m-y5-add-sub_intermediate_010",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A long-distance coach completes part of its route. It travels 2,345 kilometres from its starting point. It then continues a further 1,870 kilometres in the same direction. To finish the day, it returns 1,120 kilometres along the route. How far is the coach from its original starting point at the end of the day? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To solve this problem, we need to perform two steps:\n\nStep 1: Calculate the total distance travelled away from the starting point.\nDistance 1 + Distance 2 = Total outward distance\n2,345 km + 1,870 km = 4,215 km\n\nStep 2: Subtract the distance the coach returned from the total outward distance.\nTotal outward distance - Distance returned = Final distance from starting point\n4,215 km - 1,120 km = 3,095 km\n\nThe coach is 3,095 kilometres from its original starting point at the end of the day.",
+      "explanation": "This is a two-step problem. First, you need to combine the distances travelled in the same direction using addition to find the furthest point the coach reached from its start. Second, you need to subtract the distance the coach travelled back towards its starting point to find its final position relative to the start.",
+      "hint": "Break the journey down. First, figure out the total distance the coach travelled away from its starting point before it began its return leg.",
+      "generatedAt": "2026-04-29T09:18:34.466085"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-add-sub_advanced_001",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A charity set an ambitious fundraising target of £250,000 to build a new community centre. In the first three months, they managed to collect £87,450 through various small donations. They then organised a large charity gala which raised a significant £112,895. However, the gala event itself had considerable expenses totaling £15,320 for venue hire, catering, and entertainment.\n\nShowing your working, calculate how much more money the charity still needs to raise to reach their overall target.",
+      "options": [
+        "£64,975",
+        "£34,335",
+        "£74,975",
+        "£54,975"
+      ],
+      "correctAnswer": "£64,975",
+      "explanation": "Step 1: Calculate the total money raised from donations and the gala.\n£87,450 (donations) + £112,895 (gala raised) = £200,345\n\nStep 2: Subtract the expenses of the gala from the total money raised to find the net amount available.\n£200,345 (total raised) - £15,320 (gala expenses) = £185,025\n\nStep 3: Determine how much more money is needed by subtracting the net amount available from the target.\n£250,000 (target) - £185,025 (net available) = £64,975\n\nTherefore, the charity still needs to raise £64,975 to reach their overall target.",
+      "hint": "Start by adding all the money the charity received, then subtract any costs incurred, and finally compare this net amount to the overall target.",
+      "generatedAt": "2026-04-29T09:18:51.236621"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_002",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A technology company produced 124,560 smartwatches in January. In February, they produced 15,280 fewer smartwatches than in January. In March, they produced 9,750 more smartwatches than in February. \n\nCalculate the total number of smartwatches produced by the company during January, February, and March. Show your working clearly.",
+      "options": [
+        "A) 333,370",
+        "B) 352,870",
+        "C) 353,870",
+        "D) 413,990"
+      ],
+      "correctAnswer": "B) 352,870",
+      "explanation": "Step 1: Calculate the number of smartwatches produced in February.\nFebruary production = January production - 15,280\nFebruary production = 124,560 - 15,280 = 109,280 smartwatches.\n\nStep 2: Calculate the number of smartwatches produced in March.\nMarch production = February production + 9,750\nMarch production = 109,280 + 9,750 = 119,030 smartwatches.\n\nStep 3: Calculate the total number of smartwatches produced in January, February, and March.\nTotal production = January production + February production + March production\nTotal production = 124,560 + 109,280 + 119,030 = 352,870 smartwatches.\n\nTherefore, the total number of smartwatches produced is 352,870.",
+      "hint": "Break the problem down into stages. First, find out how many smartwatches were produced in February, then in March, and finally add all three months together. Pay close attention to keywords like 'fewer' and 'more'.",
+      "generatedAt": "2026-04-29T09:19:06.714515"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_003",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A community centre organised a collection drive over two weeks. In the first week, they received 12,385 donations of essential items and 7,950 donations of non-perishable food items. In the second week, the number of essential item donations was 2,130 less than the first week, and the number of non-perishable food item donations was 1,560 more than the first week. Calculate the total number of donations (essential items and non-perishable food items combined) received by the community centre over both weeks. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "First, calculate donations for the second week:\nEssential items in Week 2: 12,385 - 2,130 = 10,255 donations.\nNon-perishable food items in Week 2: 7,950 + 1,560 = 9,510 donations.\n\nNext, calculate the total for each type of item over two weeks:\nTotal essential items: 12,385 (Week 1) + 10,255 (Week 2) = 22,640 donations.\nTotal non-perishable food items: 7,950 (Week 1) + 9,510 (Week 2) = 17,460 donations.\n\nFinally, calculate the grand total of all donations:\nGrand total = 22,640 (total essential) + 17,460 (total non-perishable food) = 40,100 donations.\n\nThe community centre received a total of 40,100 donations over both weeks.",
+      "explanation": "This problem requires several steps of addition and subtraction. First, determine the quantities collected in the second week by applying the given differences to the first week's figures. Then, sum the quantities for each type of item across both weeks. Finally, add the totals of essential items and non-perishable food items together to find the overall grand total. This systematic approach ensures all parts of the question are addressed accurately using formal written methods for large numbers.",
+      "hint": "Start by calculating the number of essential item donations and non-perishable food item donations for the second week, using the information given about how they changed from the first week. Then, find the total for each type of donation over both weeks, before calculating the grand total.",
+      "generatedAt": "2026-04-29T09:19:21.718921"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_004",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A toy company stores its popular 'RoboBuddy' figures in two main distribution centres: North Hub and South Hub.\n\nAt the start of the month, North Hub had a stock of 175,820 RoboBuddies, and South Hub had 143,795 RoboBuddies.\n\nDuring the first week, 38,500 RoboBuddies were transferred from North Hub to South Hub.\n\nLater in the month, 62,940 RoboBuddies were sold from South Hub to various retailers.\n\nFinally, a new delivery of 55,000 RoboBuddies arrived and was added entirely to North Hub's stock.\n\nWhat is the difference in the total number of RoboBuddies between North Hub and South Hub at the end of the month? Show your working clearly.",
+      "options": [
+        "A. 72,965",
+        "B. 149,965",
+        "C. 37,035",
+        "D. 73,965"
+      ],
+      "correctAnswer": "A. 72,965",
+      "explanation": "To find the difference in stock at the end of the month, we need to calculate the final stock for both North Hub and South Hub separately.\n\n**North Hub Stock Calculation:**\n1.  Start of month: 175,820 RoboBuddies\n2.  Transferred out to South Hub: - 38,500 RoboBuddies\n    Current stock: 175,820 - 38,500 = 137,320 RoboBuddies\n3.  New delivery added: + 55,000 RoboBuddies\n    End of month stock for North Hub: 137,320 + 55,000 = 192,320 RoboBuddies\n\n**South Hub Stock Calculation:**\n1.  Start of month: 143,795 RoboBuddies\n2.  Transferred in from North Hub: + 38,500 RoboBuddies\n    Current stock: 143,795 + 38,500 = 182,295 RoboBuddies\n3.  Sold to retailers: - 62,940 RoboBuddies\n    End of month stock for South Hub: 182,295 - 62,940 = 119,355 RoboBuddies\n\n**Difference in Stock:**\nTo find the difference, we subtract the smaller stock from the larger stock:\nDifference = North Hub final stock - South Hub final stock\nDifference = 192,320 - 119,355 = 72,965 RoboBuddies\n\nTherefore, the difference in the total number of RoboBuddies between North Hub and South Hub at the end of the month is 72,965.",
+      "hint": "Track the stock levels for each hub independently by carefully adding or subtracting each movement. Once you have the final stock for both hubs, subtract the smaller amount from the larger amount to find the difference.",
+      "generatedAt": "2026-04-29T09:19:54.238236"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_005",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A large bookshop tracked its sales of fantasy novels over three months. In October, they sold 27,485 fantasy novels. In November, they sold 3,968 more fantasy novels than in October. In December, due to special holiday promotions, they sold 7,125 more fantasy novels than they did in November.\n\nCalculate the total number of fantasy novels sold over the three months (October, November, and December). Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the total number of fantasy novels sold, we need to calculate the sales for each month first.\n\n1.  **October Sales:** 27,485 fantasy novels\n\n2.  **November Sales:** Sold 3,968 more than October.\n    27,485 + 3,968 = 31,453 fantasy novels\n\n3.  **December Sales:** Sold 7,125 more than November.\n    31,453 + 7,125 = 38,578 fantasy novels\n\n4.  **Total Sales (October + November + December):**\n    27,485 + 31,453 + 38,578\n\n    We can add these using column addition:\n      27,485\n      31,453\n    + 38,578\n    ----------\n      97,516\n\n    The total number of fantasy novels sold over the three months was 97,516.",
+      "explanation": "The problem requires several steps of addition to find the final total. First, determine the sales for November by adding the increase to October's sales. Second, determine December's sales by adding the increase to November's sales. Finally, sum the sales from all three months to get the overall total. Each step involves working with large numbers, suitable for formal written addition methods.",
+      "hint": "Break the problem down into smaller steps. First, calculate the sales for November. Then, use November's sales to calculate December's sales. Finally, add up the sales from all three months.",
+      "generatedAt": "2026-04-29T09:20:07.133739"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_006",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Mr. Davies is an avid coin collector. At the start of the year, he had 56,783 coins in his collection. Over the next few months, he managed to acquire 12,459 new coins. However, he then decided to sell 8,965 of his less rare coins to make space. After these transactions, he carefully selected some of his most prized coins to put into a special display case. He noted that he now had exactly 59,210 coins remaining in his main collection storage. How many coins did Mr. Davies put into the special display case? Show your working.",
+      "options": [
+        "A) 1,067",
+        "B) 60,277",
+        "C) 10,032",
+        "D) 55,716"
+      ],
+      "correctAnswer": "A) 1,067",
+      "explanation": "Step 1: Calculate the total number of coins after acquiring new ones.\nInitial coins: 56,783\nCoins acquired: 12,459\nTotal after acquiring = 56,783 + 12,459 = 69,242 coins.\n\nStep 2: Calculate the number of coins after selling some.\nCoins after acquiring: 69,242\nCoins sold: 8,965\nTotal after selling = 69,242 - 8,965 = 60,277 coins.\n\nStep 3: Calculate how many coins were put into the special display case.\nTotal coins before display: 60,277\nCoins remaining in main collection: 59,210\nCoins put into display = 60,277 - 59,210 = 1,067 coins.\n\nTherefore, Mr. Davies put 1,067 coins into the special display case.",
+      "hint": "First, calculate the total number of coins Mr. Davies had after buying and selling. Then, use this total and the number of coins remaining in his main collection to find out how many were moved to the display case.",
+      "generatedAt": "2026-04-29T09:20:32.280549"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_007",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A team of cartographers is creating detailed maps of a large nature reserve. On the first day, they accurately map an area of 15,745 square metres. On the second day, they map an additional 12,980 square metres. On the third day, their mapping progress is 9,125 square metres less than the total area they mapped during the first two days combined. How many square metres did the cartographers map on the third day? Show your working clearly.",
+      "options": [
+        "19,600 square metres",
+        "37,850 square metres",
+        "28,725 square metres",
+        "6,620 square metres"
+      ],
+      "correctAnswer": "19,600 square metres",
+      "explanation": "To solve this problem, we need to perform two steps:\n\n**Step 1: Calculate the total area mapped during the first two days combined.**\nWe need to add the area mapped on the first day to the area mapped on the second day:\n15,745 square metres (Day 1)\n+ 12,980 square metres (Day 2)\n----------\n   15745\n+  12980\n---------\n   28725\nSo, the total area mapped in the first two days is 28,725 square metres.\n\n**Step 2: Calculate the area mapped on the third day.**\nThe question states that the mapping progress on the third day is 9,125 square metres less than the total from the first two days. This means we need to subtract 9,125 from the total calculated in Step 1:\n28,725 square metres (Total from Day 1 and 2)\n- 9,125 square metres (Less on Day 3)\n----------\n   28725\n-   9125\n---------\n   19600\n\nTherefore, the cartographers mapped 19,600 square metres on the third day.",
+      "hint": "Break the problem down into two parts. First, calculate the total area mapped over the first two days. Then, use that total to find the area mapped on the third day.",
+      "generatedAt": "2026-04-29T09:20:52.416021"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_008",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Imagine a futuristic space colony on Planet X, managing its energy reserves, measured in units called 'Terawatts'.\n\nAt the start of the week, the main energy core had 875,320 Terawatts.\n\nOn Monday, the solar arrays generated 123,450 Terawatts, but the living quarters consumed 45,670 Terawatts.\n\nOn Tuesday, a new mining operation required an extra 98,765 Terawatts for its first day, and the science labs consumed 34,500 Terawatts. However, the fusion reactor came online and produced 150,000 Terawatts.\n\nThe colony's safety protocol states that the energy reserves must never drop below 750,000 Terawatts.\n\nWhat was the total energy reserve at the end of Tuesday, and did the colony maintain its safety protocol? Show all your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the total energy reserve at the end of Tuesday, we calculate the changes day by day:\n\n**Start of week:** 875,320 Terawatts\n\n**End of Monday:**\nEnergy generated: +123,450 Terawatts\nEnergy consumed: -45,670 Terawatts\n\nStep 1: Add the generated energy:\n875,320 + 123,450 = 998,770 Terawatts\n\nStep 2: Subtract the consumed energy:\n998,770 - 45,670 = 953,100 Terawatts\n\nSo, at the end of Monday, the energy reserve was 953,100 Terawatts.\n\n**End of Tuesday:**\nMining operation consumption: -98,765 Terawatts\nScience labs consumption: -34,500 Terawatts\nFusion reactor production: +150,000 Terawatts\n\nStep 3: Subtract the mining consumption:\n953,100 - 98,765 = 854,335 Terawatts\n\nStep 4: Subtract the science labs consumption:\n854,335 - 34,500 = 819,835 Terawatts\n\nStep 5: Add the fusion reactor production:\n819,835 + 150,000 = 969,835 Terawatts\n\n**Total energy reserve at the end of Tuesday: 969,835 Terawatts.**\n\n**Safety Protocol Check:**\nThe colony's safety protocol requires energy reserves to be at least 750,000 Terawatts.\n\nOur final energy reserve is 969,835 Terawatts.\n\nSince 969,835 is greater than 750,000, the colony did maintain its safety protocol.\n\n**Final Answer:** The total energy reserve at the end of Tuesday was 969,835 Terawatts. Yes, the colony maintained its safety protocol.",
+      "explanation": "The problem requires calculating the energy reserve through a series of additions and subtractions over two days, and then comparing the final amount to a given safety threshold.\n\n1.  **Calculate the energy reserve at the end of Monday:** Start with the initial reserve (875,320), add the generated energy (123,450), and then subtract the consumed energy (45,670).\n    *   875,320 + 123,450 = 998,770\n    *   998,770 - 45,670 = 953,100 Terawatts.\n\n2.  **Calculate the energy reserve at the end of Tuesday:** Take the energy from the end of Monday (953,100). Subtract the energy required by the mining operation (98,765) and the science labs (34,500), then add the energy produced by the fusion reactor (150,000).\n    *   953,100 - 98,765 = 854,335\n    *   854,335 - 34,500 = 819,835\n    *   819,835 + 150,000 = 969,835 Terawatts.\n\n3.  **Check against the safety protocol:** Compare the final energy reserve (969,835 Terawatts) with the safety minimum (750,000 Terawatts). Since 969,835 is greater than 750,000, the colony maintained its safety protocol.",
+      "hint": "Break down the problem into smaller steps. First, calculate the energy reserve at the end of Monday. Then, use that result to calculate the energy reserve at the end of Tuesday. Finally, compare your answer to the safety protocol number.",
+      "generatedAt": "2026-04-29T09:21:10.329156"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_009",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A local council has a total budget of £25,000 allocated for park renovations. They initially spend £8,760 on new play equipment. Later, they spend an additional £6,590 on landscaping. After these expenses, they receive a special grant of £4,500 specifically for the park. How much of the original £25,000 budget is still remaining after these transactions? Show your working clearly.",
+      "options": [
+        "£14,150",
+        "£5,150",
+        "£13,150",
+        "£14,250"
+      ],
+      "correctAnswer": "£14,150",
+      "explanation": "Step 1: Calculate the budget remaining after the initial spending on play equipment.\n£25,000 - £8,760 = £16,240\n\nStep 2: Calculate the budget remaining after the additional spending on landscaping.\n£16,240 - £6,590 = £9,650\n\nStep 3: Calculate the final budget remaining after receiving the special grant.\n£9,650 + £4,500 = £14,150\n\nTherefore, £14,150 of the original budget is still remaining.",
+      "hint": "Start by subtracting the amounts spent from the total budget. Then, consider whether the grant adds to or subtracts from the remaining amount.",
+      "generatedAt": "2026-04-29T09:21:44.708417"
+    },
+    {
+      "id": "m-y5-add-sub_advanced_010",
+      "topicId": "m-y5-add-sub",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "The 'Star Gazer' observatory tracks the number of visible cosmic dust particles in a specific sector of space. At the beginning of the year, scientists recorded 65,720 dust particles. Over the first quarter, new interstellar winds caused an increase of 13,855 particles. In the second quarter, a minor black hole passed nearby, absorbing 8,290 particles. During the third quarter, a distant nebula exploded, adding 24,115 particles. Finally, in the last quarter, a deep space anomaly cleared away 17,900 particles. How many cosmic dust particles are left in the sector at the end of the year? Show your working.",
+      "options": [
+        "A) 77,500 particles",
+        "B) 78,500 particles",
+        "C) 76,500 particles",
+        "D) 81,300 particles"
+      ],
+      "correctAnswer": "A) 77,500 particles",
+      "explanation": "Step-by-step calculation:\n1.  **Start of the year:** 65,720 particles.\n2.  **First quarter (increase):** Add 13,855 particles.\n    65,720 + 13,855 = 79,575 particles.\n3.  **Second quarter (absorbed):** Subtract 8,290 particles.\n    79,575 - 8,290 = 71,285 particles.\n4.  **Third quarter (adding):** Add 24,115 particles.\n    71,285 + 24,115 = 95,400 particles.\n5.  **Fourth quarter (cleared away):** Subtract 17,900 particles.\n    95,400 - 17,900 = 77,500 particles.\nTherefore, there are 77,500 cosmic dust particles left at the end of the year.",
+      "hint": "To solve this problem, you need to perform a series of additions and subtractions in the correct order. Use formal written methods for each step to keep track of your calculations carefully.",
+      "generatedAt": "2026-04-29T09:22:00.859299"
+    }
+  ]
+}

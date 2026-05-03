@@ -1,0 +1,528 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-place-value_beginner_001",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What is the value of the digit '3' in the number 735,802?",
+      "options": [
+        "3",
+        "300",
+        "3,000",
+        "30,000"
+      ],
+      "correctAnswer": "30,000",
+      "explanation": "To find the value of a digit, we look at its position in the number. \n\nStarting from the right side of the number 735,802:\n*   The '2' is in the ones place, so its value is 2.\n*   The '0' is in the tens place, so its value is 0.\n*   The '8' is in the hundreds place, so its value is 800.\n*   The '5' is in the thousands place, so its value is 5,000.\n*   The '3' is in the tens of thousands place. This means its value is 3 multiplied by 10,000, which equals 30,000.\n*   The '7' is in the hundreds of thousands place, so its value is 700,000.\n\nTherefore, the value of the digit '3' is 30,000.",
+      "hint": "Identify the place value column (ones, tens, hundreds, thousands, tens of thousands, etc.) that the digit '3' is in.",
+      "generatedAt": "2026-04-29T09:03:03.267876"
+    },
+    {
+      "id": "m-y5-place-value_beginner_002",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A number has 4 hundred thousands, 0 ten thousands, 8 thousands, 5 hundreds, 2 tens, and 7 ones. What is this number?",
+      "options": [
+        "408,527",
+        "480,527",
+        "408,257",
+        "485,207"
+      ],
+      "correctAnswer": "408,527",
+      "explanation": "To construct the number from its place value components, we write the digit for each place value in the correct position:\n*   The digit for the hundred thousands place is 4.\n*   The digit for the ten thousands place is 0.\n*   The digit for the thousands place is 8.\n*   The digit for the hundreds place is 5.\n*   The digit for the tens place is 2.\n*   The digit for the ones place is 7.\n\nCombining these in order from largest place value to smallest gives us the number 408,527.",
+      "hint": "Think about the order of place values, from left to right: Hundred Thousands, Ten Thousands, Thousands, Hundreds, Tens, Ones. Ensure each digit is in its correct position.",
+      "generatedAt": "2026-04-29T09:03:16.220117"
+    },
+    {
+      "id": "m-y5-place-value_beginner_003",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Round the number 473,581 to the nearest ten thousand.",
+      "options": [
+        "A) 500,000",
+        "B) 470,000",
+        "C) 474,000",
+        "D) 480,000"
+      ],
+      "correctAnswer": "B) 470,000",
+      "explanation": "1. Identify the digit in the ten thousands place. In the number 473,581, the digit '7' is in the ten thousands place.\n2. Look at the digit immediately to its right (the thousands digit). This digit is '3'.\n3. Apply the rounding rule: If the digit to the right is 5 or greater, you round the ten thousands digit up. If it is less than 5, you keep the ten thousands digit the same.\n4. Since '3' is less than 5, we keep the '7' in the ten thousands place as it is.\n5. Replace all the digits to the right of the ten thousands place with zeros.\nTherefore, 473,581 rounded to the nearest ten thousand is 470,000.",
+      "hint": "To round a number to a specific place value, you need to look at the digit immediately to the right of that place value.",
+      "generatedAt": "2026-04-29T09:03:29.660930"
+    },
+    {
+      "id": "m-y5-place-value_beginner_004",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A scientist measured the populations of four different species of ants in a forest.\n\nSpecies W had a population of 673,581.\nSpecies X had a population of 637,851.\nSpecies Y had a population of 673,185.\nSpecies Z had a population of 637,518.\n\nWhich species had the largest population?",
+      "options": [
+        "Species W",
+        "Species X",
+        "Species Y",
+        "Species Z"
+      ],
+      "correctAnswer": "Species W",
+      "explanation": "To find the largest population, compare the numbers digit by digit, starting from the leftmost digit (the hundred thousands place).\n\n1. All numbers have 6 in the hundred thousands place.\n2. Look at the ten thousands place:\n   - Species W: 7\n   - Species X: 3\n   - Species Y: 7\n   - Species Z: 3\n   Species W and Y have a larger digit (7) in the ten thousands place compared to X and Z (3). So, the largest population must be either W or Y.\n3. Now compare Species W (673,581) and Species Y (673,185).\n   - Both have 6 in the hundred thousands place.\n   - Both have 7 in the ten thousands place.\n   - Both have 3 in the thousands place.\n4. Look at the hundreds place:\n   - Species W: 5\n   - Species Y: 1\n   Since 5 is greater than 1, Species W (673,581) is larger than Species Y (673,185).\n\nTherefore, Species W had the largest population.",
+      "hint": "Start comparing the numbers from the digit with the highest place value (the leftmost digit) and move to the right until you find a difference.",
+      "generatedAt": "2026-04-29T09:03:44.096709"
+    },
+    {
+      "id": "m-y5-place-value_beginner_005",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Round the number 678,213 to the nearest hundred.",
+      "options": [
+        "678,000",
+        "678,200",
+        "678,300",
+        "679,000"
+      ],
+      "correctAnswer": "678,200",
+      "explanation": "To round 678,213 to the nearest hundred:\n1. Identify the hundreds digit: In 678,213, the hundreds digit is 2.\n2. Look at the digit immediately to its right (the tens digit): This digit is 1.\n3. If the digit to the right is 5 or more, you round up. If it is less than 5, you round down.\n4. Since 1 is less than 5, we round down. This means the hundreds digit (2) stays the same, and all digits to its right become zero.\n5. Therefore, 678,213 rounded to the nearest hundred is 678,200.",
+      "hint": "Focus on the hundreds digit and the digit in the tens place to decide whether to round up or down.",
+      "generatedAt": "2026-04-29T09:03:55.745722"
+    },
+    {
+      "id": "m-y5-place-value_beginner_006",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What number is exactly 10,000 less than 725,489?",
+      "options": [
+        "735,489",
+        "724,489",
+        "715,489",
+        "625,489"
+      ],
+      "correctAnswer": "715,489",
+      "explanation": "To find the number that is 10,000 less than 725,489, we need to look at the digit in the ten thousands place.\nIn the number 725,489, the digit '2' is in the ten thousands place.\nSubtracting 10,000 means we decrease the value of the digit in the ten thousands place by 1 (since 10,000 is one unit of ten thousand).\nSo, the '2' in the ten thousands place becomes '1'.\nAll other digits (hundred thousands, thousands, hundreds, tens, and ones) remain the same.\nTherefore, the number becomes 715,489.",
+      "hint": "Identify the digit in the ten thousands place and consider how subtracting 10,000 will affect it.",
+      "generatedAt": "2026-04-29T09:04:08.237497"
+    },
+    {
+      "id": "m-y5-place-value_beginner_007",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "In the number 836,175, what digit is in the thousands place?",
+      "options": [
+        "8",
+        "3",
+        "6",
+        "1"
+      ],
+      "correctAnswer": "6",
+      "explanation": "To find the digit in the thousands place, we look at the position of each digit from right to left:\n- The '5' is in the ones place.\n- The '7' is in the tens place.\n- The '1' is in the hundreds place.\n- The '6' is in the thousands place.\n- The '3' is in the ten thousands place.\n- The '8' is in the hundred thousands place.\nTherefore, the digit in the thousands place is 6.",
+      "hint": "Identify the value of each digit based on its position within the number, starting from the rightmost digit as the ones place.",
+      "generatedAt": "2026-04-29T09:04:18.376472"
+    },
+    {
+      "id": "m-y5-place-value_beginner_008",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What is the value of the digit 7 in the number 572,309?",
+      "options": [
+        "A) 7",
+        "B) 700",
+        "C) 7,000",
+        "D) 70,000"
+      ],
+      "correctAnswer": "D) 70,000",
+      "explanation": "To find the value of a digit, you need to identify its place within the number.\nIn the number 572,309:\n- The 9 is in the ones place (value 9).\n- The 0 is in the tens place (value 0).\n- The 3 is in the hundreds place (value 300).\n- The 2 is in the thousands place (value 2,000).\n- The 7 is in the ten thousands place (value 70,000).\n- The 5 is in the hundred thousands place (value 500,000).\nTherefore, the value of the digit 7 is 70,000.",
+      "hint": "Each position a digit holds in a number determines its value. Start from the right (ones place) and move left.",
+      "generatedAt": "2026-04-29T09:04:29.007237"
+    },
+    {
+      "id": "m-y5-place-value_beginner_009",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Consider the number 572,941. If you swap the digit in the tens place with the digit in the hundreds of thousands place, what is the new number?",
+      "options": [
+        "A) 472,951",
+        "B) 572,914",
+        "C) 542,971",
+        "D) 472,941"
+      ],
+      "correctAnswer": "A) 472,951",
+      "explanation": "The original number is 572,941.\nThe digit in the tens place is 4.\nThe digit in the hundreds of thousands place is 5.\nWhen these two digits are swapped, the new number will have 4 in the hundreds of thousands place and 5 in the tens place.\nThe other digits remain in their original positions.\nSo, the number becomes 472,951.",
+      "hint": "Identify the digits in the specified places first, then imagine exchanging their positions.",
+      "generatedAt": "2026-04-29T09:04:43.474556"
+    },
+    {
+      "id": "m-y5-place-value_beginner_010",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Consider the number 6,400. If this number is multiplied by 100, what is the new value?",
+      "options": [
+        "64,000",
+        "6,400,000",
+        "640,000",
+        "6,400"
+      ],
+      "correctAnswer": "640,000",
+      "explanation": "When a number is multiplied by 100, each digit in the number shifts two places to the left, and two zeros are added to the end of the number as placeholders. \n\nStarting with 6,400:\nIf we multiply 6,400 by 100, we effectively add two zeros to the end of the number. \nSo, 6,400 × 100 = 640,000.",
+      "hint": "Think about how multiplying by 100 affects the number of zeros at the end of a whole number, or how the digits shift to the left in terms of their place value.",
+      "generatedAt": "2026-04-29T09:04:53.606943"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-place-value_intermediate_001",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A popular online video received 874,320 views in its first week. For a quick update, the creator rounded this number of views to the nearest hundred thousand. How many *tens of thousands* are there in the rounded number of views? Show your working.",
+      "options": [
+        "87",
+        "90",
+        "7",
+        "9"
+      ],
+      "correctAnswer": "90",
+      "explanation": "Step 1: Round 874,320 to the nearest hundred thousand.\nTo round to the nearest hundred thousand, look at the digit in the hundred thousands place (which is 8) and the digit immediately to its right (the tens of thousands place, which is 7).\nSince 7 is 5 or greater, you round up the hundred thousands digit. So, 8 becomes 9.\nAll digits to the right of the hundred thousands place become 0.\nThe rounded number is 900,000.\n\nStep 2: Determine how many tens of thousands are in 900,000.\nOne 'ten thousand' is 10,000.\nTo find out how many tens of thousands are in 900,000, you can divide 900,000 by 10,000.\n900,000 ÷ 10,000 = 90.\nTherefore, there are 90 tens of thousands in the rounded number of views.",
+      "hint": "First, round the original number to the nearest hundred thousand. Then, consider what value 'tens of thousands' represents and how many times that value fits into your rounded number.",
+      "generatedAt": "2026-04-29T09:05:10.611521"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_002",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A small business began the year with a bank balance of £120,500. In the first quarter, they spent £34,800 on staff wages, £15,200 on office rent, and £78,600 on new equipment. After these expenses, the business's owner calculated that their balance then dropped by an additional £5,000 due to unexpected maintenance costs.\n\nWhat was the final bank balance of the business, expressed as a positive or negative amount? Show your working.",
+      "options": [
+        "£13,100",
+        "-£3,100",
+        "£7,100",
+        "-£13,100"
+      ],
+      "correctAnswer": "-£13,100",
+      "explanation": "Step 1: Calculate the total expenses in the first quarter.\nTotal expenses = £34,800 (wages) + £15,200 (rent) + £78,600 (equipment)\nTotal expenses = £128,600\n\nStep 2: Calculate the bank balance after these initial expenses.\nInitial balance = £120,500\nBalance after expenses = £120,500 - £128,600 = -£8,100\n\nStep 3: Account for the additional drop in balance.\nAdditional drop = £5,000\nFinal balance = -£8,100 - £5,000 = -£13,100\n\nThe final bank balance of the business was -£13,100.",
+      "hint": "First, find the sum of all the expenses. Then, subtract this total from the initial bank balance. Finally, subtract the additional maintenance cost. Remember that subtracting a larger number from a smaller number results in a negative value.",
+      "generatedAt": "2026-04-29T09:05:41.402773"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_003",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A research submarine begins its dive at a depth of -247 metres. It then rises by 89 metres to observe a coral reef. After its observation, it descends a further 133 metres to collect a sample.\n\nWhat is the final depth of the submarine, rounded to the nearest 10 metres? Show your working.",
+      "options": [
+        "A) -290 metres",
+        "B) -291 metres",
+        "C) -300 metres",
+        "D) -280 metres"
+      ],
+      "correctAnswer": "A) -290 metres",
+      "explanation": "1.  **Calculate the depth after rising:**\n    The submarine starts at -247 metres and rises by 89 metres. Rising means adding to the depth (moving towards 0 or positive values).\n    -247 + 89 = -158 metres\n\n2.  **Calculate the depth after descending:**\n    From -158 metres, the submarine descends a further 133 metres. Descending means subtracting from the depth (moving away from 0 or further into negative values).\n    -158 - 133 = -291 metres\n\n3.  **Round the final depth to the nearest 10 metres:**\n    The final depth is -291 metres.\n    To round to the nearest 10, look at the units digit. The units digit in -291 is 1.\n    Since 1 is less than 5, we round down. This means the tens digit stays the same, and the units digit becomes 0.\n    Therefore, -291 metres rounded to the nearest 10 metres is -290 metres.",
+      "hint": "Remember that rising means moving towards the surface (increasing depth value or making it less negative), and descending means moving further down (decreasing depth value or making it more negative). When rounding to the nearest ten, consider the units digit to decide whether to round up or down.",
+      "generatedAt": "2026-04-29T09:05:59.202393"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_004",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Consider the number 753,921. The digit in the tens of thousands place is replaced by a new digit that is 2 less than its original value. The number is then rounded to the nearest thousand. \nWhat is the final result? Show your working.",
+      "options": [
+        "734,000",
+        "733,000",
+        "754,000",
+        "752,000"
+      ],
+      "correctAnswer": "734,000",
+      "explanation": "1.  **Identify the digit in the tens of thousands place:** In the number 753,921, the digit in the tens of thousands place is 5.\n2.  **Replace the digit with a new value:** The new digit is 2 less than its original value, so 5 - 2 = 3.\n3.  **Form the new number:** Replace the 5 in the tens of thousands place with 3. The new number is 733,921.\n4.  **Round the new number to the nearest thousand:** Look at the thousands digit (which is 3) and the digit to its right (the hundreds digit, which is 9).\n    *   Since 9 is 5 or greater, we round up the thousands digit.\n    *   Rounding 733,921 to the nearest thousand gives 734,000.\n\nTherefore, the final result is 734,000.",
+      "hint": "First, identify the correct place value and change the digit. Then, round the resulting number to the specified place value.",
+      "generatedAt": "2026-04-29T09:06:32.633310"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_005",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large animal sanctuary cares for 738,154 animals.\n\n1. What is the digit in the hundreds of thousands place of this number?\n2. Round the *original* total number of animals to the nearest thousand.\n\nOn a very cold winter night, the temperature in a penguin enclosure started at -4 degrees Celsius. The temperature then dropped further by an amount, in degrees, equal to the positive *difference* between the digit identified in step 1 and the digit in the thousands place of the *rounded* number from step 2.\n\nWhat is the final temperature in the penguin enclosure? Show your working.",
+      "options": [
+        "-3 degrees Celsius",
+        "-5 degrees Celsius",
+        "-11 degrees Celsius",
+        "4 degrees Celsius"
+      ],
+      "correctAnswer": "-5 degrees Celsius",
+      "explanation": "Here's the step-by-step working:\n\n1.  **Identify the digit in the hundreds of thousands place:** In the number 738,154, the digit in the hundreds of thousands place is 7.\n\n2.  **Round the original number to the nearest thousand:**\n    *   The original number is 738,154.\n    *   Look at the hundreds digit (1) to decide whether to round up or down the thousands digit.\n    *   Since 1 is less than 5, we round down. So, 738,154 rounded to the nearest thousand is 738,000.\n\n3.  **Identify the digit in the thousands place of the rounded number:** In 738,000, the digit in the thousands place is 8.\n\n4.  **Calculate the positive difference between the two identified digits:**\n    *   Digit from step 1: 7\n    *   Digit from step 3: 8\n    *   Positive difference = |7 - 8| = |-1| = 1.\n    This means the temperature drops further by 1 degree.\n\n5.  **Calculate the final temperature:**\n    *   The temperature started at -4 degrees Celsius.\n    *   It then dropped further by 1 degree.\n    *   Final temperature = -4 - 1 = -5 degrees Celsius.",
+      "hint": "First, carefully identify the required digits from the original and rounded numbers. Then, find the positive difference between these two digits to determine the amount of temperature change.",
+      "generatedAt": "2026-04-29T09:07:10.346119"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_006",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A company's bank balance at the start of the month was -£1,250 due to an overdraft.\nDuring the month, they received a payment equal to the value of the digit in the thousands place of the number 34,700.\nLater, they made a payment equal to the value of the digit in the tens place of the number 1,682.\nWhat is the company's final bank balance, rounded to the nearest hundred pounds? Show your working.",
+      "options": [
+        "A) £2,670",
+        "B) £2,700",
+        "C) £2,800",
+        "D) -£1,300"
+      ],
+      "correctAnswer": "B) £2,700",
+      "explanation": "1.  Identify the value of the digit in the thousands place of 34,700. The digit is 4, so its value is 4,000.\n2.  Add this payment to the initial balance: -£1,250 + £4,000 = £2,750.\n3.  Identify the value of the digit in the tens place of 1,682. The digit is 8, so its value is 80.\n4.  Subtract this payment from the current balance: £2,750 - £80 = £2,670.\n5.  Finally, round the balance of £2,670 to the nearest hundred pounds. The tens digit is 7, so we round up. This gives £2,700.\nTherefore, the company's final bank balance, rounded to the nearest hundred pounds, is £2,700.",
+      "hint": "First, determine the actual numerical values represented by the specified digits based on their place value. Then, apply these values to the bank balance using addition or subtraction. Finally, remember to round the resulting balance to the nearest hundred pounds.",
+      "generatedAt": "2026-04-29T09:07:48.207435"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_007",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A national park aims to conserve a target population of 900,000 monarch butterflies. Currently, their count shows there are 873,500 butterflies. However, a recent severe storm caused a significant decline, reducing the current population by another 45,800 butterflies.\n\nWhat is the difference between the new butterfly population and the target population, rounded to the nearest thousand? Show your working.",
+      "options": [
+        "-72,000",
+        "-73,000",
+        "72,000",
+        "73,000"
+      ],
+      "correctAnswer": "-72,000",
+      "explanation": "1.  **Calculate the new butterfly population after the storm:**\n    Current population = 873,500\n    Decrease due to storm = 45,800\n    New population = 873,500 - 45,800 = 827,700\n\n2.  **Find the difference between the new population and the target population:**\n    Target population = 900,000\n    Difference = New population - Target population\n    Difference = 827,700 - 900,000 = -72,300\n    (The negative sign indicates that the new population is below the target).\n\n3.  **Round the difference to the nearest thousand:**\n    The number to be rounded is -72,300.\n    Identify the thousands digit, which is 2 (in 72,300).\n    Look at the digit immediately to its right (the hundreds digit), which is 3.\n    Since 3 is less than 5, we round down. This means the thousands digit (2) stays the same, and all digits to its right become zero.\n    Therefore, -72,300 rounded to the nearest thousand is -72,000.",
+      "hint": "This is a two-step problem. First, calculate the new population after the storm. Then, find the difference between this new population and the target, paying attention to whether the result is positive or negative. Finally, apply your knowledge of rounding to the nearest thousand.",
+      "generatedAt": "2026-04-29T09:08:07.371507"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_008",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large dataset initially contains 682,751 entries. After a thorough review, it was discovered that 15,920 of these entries were duplicates and were subsequently removed. The remaining total number of entries is then rounded to the nearest ten thousand for official reports. What is the value of the digit in the hundreds place of this final rounded total? Show your working.",
+      "options": [
+        "A) 0",
+        "B) 600",
+        "C) 700",
+        "D) 6"
+      ],
+      "correctAnswer": "A) 0",
+      "explanation": "1. First, calculate the number of entries remaining after duplicates are removed:\n   682,751 - 15,920 = 666,831.\n2. Next, round this new total to the nearest ten thousand.\n   To round 666,831 to the nearest ten thousand, we look at the thousands digit, which is 6. Since 6 is 5 or greater, we round up the ten thousands digit. The ten thousands digit is 6, so rounding up makes it 7. All digits to the right become zero.\n   Therefore, 666,831 rounded to the nearest ten thousand is 670,000.\n3. Finally, identify the value of the digit in the hundreds place of the rounded total (670,000).\n   The digits in 670,000 are:\n   Hundreds of thousands: 6\n   Ten thousands: 7\n   Thousands: 0\n   Hundreds: 0\n   Tens: 0\n   Units: 0\n   The digit in the hundreds place is 0. The value of this digit is 0.",
+      "hint": "Start by performing the subtraction to find the updated number of entries. Then, remember the rules for rounding to the nearest ten thousand. Finally, identify the digit in the specified place value of the rounded number and state its value.",
+      "generatedAt": "2026-04-29T09:08:27.870596"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_009",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "At the start of 2023, the population of a small city was 783,592 people. During the year, 15,487 new residents moved into the city, but 6,029 residents moved out. The local government then published the city's new population figure, rounded to the nearest ten thousand. What is the difference between the actual population at the end of 2023 and the population figure published by the local government? Show your working.",
+      "options": [
+        "3,592",
+        "3,050",
+        "6,950",
+        "7,592"
+      ],
+      "correctAnswer": "3,050",
+      "explanation": "Step 1: Calculate the net change in population.\nResidents moved in: +15,487\nResidents moved out: -6,029\nNet change = 15,487 - 6,029 = 9,458 people.\n\nStep 2: Calculate the actual population at the end of 2023.\nStarting population: 783,592\nActual new population = 783,592 + 9,458 = 793,050 people.\n\nStep 3: Round the actual population to the nearest ten thousand.\nTo round 793,050 to the nearest ten thousand, look at the digit in the thousands place, which is 3.\nSince 3 is less than 5, we round down. This means the digit in the ten thousands place (9) stays the same, and all digits to its right become zeros.\nRounded population = 790,000 people.\n\nStep 4: Find the difference between the actual population and the rounded population.\nDifference = Actual population - Rounded population\nDifference = 793,050 - 790,000 = 3,050.\n\nTherefore, the difference is 3,050.",
+      "hint": "First, calculate the exact new population by considering all changes. Then, round this exact population to the specified place value (nearest ten thousand). Finally, find the difference between these two values.",
+      "generatedAt": "2026-04-29T09:08:52.147881"
+    },
+    {
+      "id": "m-y5-place-value_intermediate_010",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A company's initial bank balance was -£15,280. They received a payment, which was initially recorded as £450,000. An audit later revealed two errors in this recorded amount:\n1. The digit in the hundreds place of the recorded payment was mistakenly written as 0, but it should have been 3.\n2. The digit in the tens of thousands place of the recorded payment was mistakenly written as 5, but it should have been 4.\n\nCalculate the company's final bank balance using the *corrected* payment amount. Then, round this final balance to the nearest thousand. Show your working clearly.",
+      "options": [
+        "£425,000",
+        "£420,000",
+        "£435,000",
+        "£440,000"
+      ],
+      "correctAnswer": "£425,000",
+      "explanation": "Step 1: Correct the recorded payment amount.\nOriginal recorded payment: £450,000.\nError 1: The digit in the hundreds place (0) should be 3. \nNew amount: £450,300.\nError 2: The digit in the tens of thousands place (5) should be 4.\nCorrected payment amount: £440,300.\n\nStep 2: Calculate the company's final bank balance.\nInitial bank balance: -£15,280.\nCorrected payment received: £440,300.\nFinal bank balance = -£15,280 + £440,300 = £440,300 - £15,280 = £425,020.\n\nStep 3: Round the final balance to the nearest thousand.\nThe final balance is £425,020.\nThe thousands digit is 5. The digit to its right (the hundreds digit) is 0.\nSince 0 is less than 5, we round down (keep the thousands digit as it is, and change all digits to its right to 0).\nRounded final bank balance = £425,000.",
+      "hint": "First, identify and correct the specific place value errors in the payment amount. Then, perform the calculation involving the initial balance and the corrected payment. Finally, apply the rounding rule to your answer.",
+      "generatedAt": "2026-04-29T09:09:13.463562"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-place-value_advanced_001",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A large company manages its finances using a special accounting system.\nAt the start of the month, their bank account had a balance of £750,000.\nFirst, they paid a significant annual bill amounting to £125,000.\nNext, they received a payment of £238,000 from a client.\nFinally, an unexpected emergency payment of £900,000 needed to be made immediately.\n\nWhat is the company's final bank balance?\nRound this final balance to the nearest ten thousand pounds.\nIf the balance is negative, how many tens of thousands of pounds are they 'in debt'?\nShow your working clearly.",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 40",
+        "D. 30"
+      ],
+      "correctAnswer": "B. 4",
+      "explanation": "Here are the steps to solve the problem:\n1.  **Calculate the balance after the annual bill:**\n    Starting balance: £750,000\n    Paid annual bill: - £125,000\n    New balance: £750,000 - £125,000 = £625,000\n\n2.  **Calculate the balance after receiving client payment:**\n    Balance after bill: £625,000\n    Received payment: + £238,000\n    New balance: £625,000 + £238,000 = £863,000\n\n3.  **Calculate the final balance after the emergency payment:**\n    Balance after client payment: £863,000\n    Emergency payment: - £900,000\n    Final balance: £863,000 - £900,000 = -£37,000\n\n4.  **Round the final balance to the nearest ten thousand pounds:**\n    The final balance is -£37,000. We need to find the nearest multiple of ten thousand.\n    -£37,000 lies between -£30,000 and -£40,000 on a number line.\n    The distance from -£37,000 to -£30,000 is £7,000.\n    The distance from -£37,000 to -£40,000 is £3,000.\n    Since -£37,000 is closer to -£40,000, the rounded balance is -£40,000.\n\n5.  **Determine how many tens of thousands they are 'in debt':**\n    Being 'in debt' by -£40,000 means the company owes £40,000.\n    To find out how many tens of thousands this is, we divide the amount by £10,000:\n    £40,000 / £10,000 = 4\n\nTherefore, the company is 4 tens of thousands of pounds in debt.",
+      "hint": "First, calculate the company's bank balance after each transaction. Pay close attention when the balance goes below zero. Then, remember that when rounding negative numbers to a specific place value (like ten thousand), you need to determine which multiple of that place value the number is closest to on a number line. Finally, interpret the rounded negative balance in terms of 'tens of thousands in debt'.",
+      "generatedAt": "2026-04-29T09:09:34.030763"
+    },
+    {
+      "id": "m-y5-place-value_advanced_002",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A secret 6-digit number needs to be discovered by following a series of clues. You must use your understanding of place value, rounding, and negative numbers to find the full number. Show your working clearly. (5 marks)\n\nHere are the clues:\n\n1.  The digit in the hundreds thousands place is the result of (300,000 divided by 100,000) added to 5.\n2.  The digit in the tens place is found by starting at -4 on a number line and moving 7 steps to the right.\n3.  The digit in the thousands place is exactly three times the digit in the tens place.\n4.  The digit in the ones place is the smallest even digit that is greater than -1.\n5.  The digit in the hundreds place is the largest prime number less than 8.\n6.  When the complete 6-digit number is rounded to the nearest 10,000, it becomes 830,000. Use this fact, along with the digits you have found, to determine the digit in the tens thousands place.\n\nWhat is the complete 6-digit number?",
+      "options": [],
+      "correctAnswer": "Let the 6-digit number be represented as HTH TTH TH H T O (Hundreds Thousands, Tens Thousands, Thousands, Hundreds, Tens, Ones).\n\n**Step 1: Find the Hundreds Thousands digit (HTH).**\nClue 1: (300,000 divided by 100,000) added to 5.\n300,000 ÷ 100,000 = 3\n3 + 5 = 8\nSo, the Hundreds Thousands digit is **8**.\nNumber so far: 8 _ _, _ _ _\n\n**Step 2: Find the Tens digit (T).**\nClue 2: Start at -4 on a number line and move 7 steps to the right.\n-4 + 7 = 3\nSo, the Tens digit is **3**.\nNumber so far: 8 _ _, _ 3 _\n\n**Step 3: Find the Thousands digit (TH).**\nClue 3: Exactly three times the digit in the tens place.\nThousands digit = 3 × (Tens digit) = 3 × 3 = 9\nSo, the Thousands digit is **9**.\nNumber so far: 8 _ 9, _ 3 _\n\n**Step 4: Find the Ones digit (O).**\nClue 4: Smallest even digit that is greater than -1.\nEven digits are 0, 2, 4, 6, 8. All of these are greater than -1. The smallest among them is 0.\nSo, the Ones digit is **0**.\nNumber so far: 8 _ 9, _ 3 0\n\n**Step 5: Find the Hundreds digit (H).**\nClue 5: Largest prime number less than 8.\nPrime numbers less than 8 are 2, 3, 5, 7. The largest among them is 7.\nSo, the Hundreds digit is **7**.\nNumber so far: 8 _ 9, 7 3 0\n\n**Step 6: Find the Tens Thousands digit (TTH).**\nClue 6: When the complete 6-digit number is rounded to the nearest 10,000, it becomes 830,000.\nOur current number is 8 _ 9,730. Let's represent the unknown Tens Thousands digit as 'X'. The number is 8X9,730.\nFor a number to round to 830,000 to the nearest 10,000, it must be between 825,000 and 834,999.\n\nIf X = 2, the number is 829,730. This number falls within the range (825,000 to 834,999). When we round 829,730 to the nearest 10,000, the 9 in the thousands place tells us to round up, resulting in 830,000.\n\nIf X = 3, the number is 839,730. This number would round up to 840,000, which is not 830,000.\n\nTherefore, the Tens Thousands digit (X) must be **2**.\n\n**The complete 6-digit number is 829,730.**",
+      "explanation": "The problem requires a systematic approach to uncover each digit of a 6-digit number by applying the given clues. Each clue targets a specific place value or provides information to deduce a digit using concepts of basic arithmetic, negative numbers, properties of numbers (even, prime), and rounding. The final clue acts as a verification and deduction step, requiring the student to apply the rounding rule to the partially formed number to correctly identify the remaining digit.",
+      "hint": "Work through each clue one by one to find the value of each digit. Remember to use a number line when calculating with negative numbers, and carefully consider the range of numbers that round to 830,000 when you determine the final digit.",
+      "generatedAt": "2026-04-29T09:10:03.909594"
+    },
+    {
+      "id": "m-y5-place-value_advanced_003",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A research submarine, named 'Challenger 1', is exploring an ocean trench.\nIts starting position is 250 meters below sea level (which is represented as -250 meters).\nFrom this point, it descends further by 1,780 meters to reach a coral reef.\nAfter observing the reef, the submarine then ascends by 900 meters to collect samples from a different layer of water.\nDuring this ascent, it unexpectedly encounters a strong downward current, causing it to drop an additional 350 meters before it can stabilise its depth.\nFinally, the submarine ascends for its last journey by 150 meters.\n\nWhat is the submarine's final depth, relative to sea level, rounded to the nearest 100 meters?\nYou must show your working.",
+      "options": [
+        "-1,200 meters",
+        "-1,300 meters",
+        "-1,400 meters",
+        "-1,500 meters"
+      ],
+      "correctAnswer": "-1,300 meters",
+      "explanation": "Let's track the submarine's depth step-by-step:\n1.  **Starting position:** -250 meters.\n2.  **Descends by 1,780 meters:**\n    -250 - 1,780 = -2,030 meters.\n3.  **Ascends by 900 meters:**\n    -2,030 + 900 = -1,130 meters.\n4.  **Drops by 350 meters:**\n    -1,130 - 350 = -1,480 meters.\n5.  **Ascends by 150 meters:**\n    -1,480 + 150 = -1,330 meters.\n\nThe submarine's final depth is -1,330 meters.\n\nNow, we need to round -1,330 meters to the nearest 100 meters:\n-1,330 is between -1,300 and -1,400.\nThe digit in the tens place is 3 (from 30), which is less than 50. Therefore, we round up towards zero, to -1,300.\n\nSo, the final depth, rounded to the nearest 100 meters, is -1,300 meters.",
+      "hint": "Start by representing the initial depth as a negative number. Carefully track each change in depth by adding or subtracting from the current depth. Remember that 'descends' means subtracting and 'ascends' means adding. Once you have the final exact depth, consider the hundreds digit and the tens digit to round it to the nearest 100.",
+      "generatedAt": "2026-04-29T09:10:28.755994"
+    },
+    {
+      "id": "m-y5-place-value_advanced_004",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Explorer Ava is on a quest to collect rare crystals.\n\n1.  She begins with a collection of **987,654** Sunstone crystals.\n2.  Next, she uses a magical device that changes the digit in the **hundred thousands** place of her Sunstone count to **3**, and simultaneously changes the digit in the **tens** place to **0**. All other digits remain unchanged. What is her new Sunstone crystal count? (Show your working clearly.)\n3.  Ava needs to prepare her Sunstones for storage. She rounds her *new* Sunstone crystal count to the nearest **thousand**. What is this rounded number? (Show your working clearly.)\n4.  She also collects Frost Crystals. She started with 50,000 Frost Crystals but then used 65,000 Frost Crystals for a special upgrade. What is her Frost Crystal count now? (Show your working clearly.)\n5.  Finally, what is the *total difference* between Ava's rounded Sunstone crystal count (from step 3) and her Frost Crystal count (from step 4)? Express your answer as a positive number. (Show your working clearly.)",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working:\n\n**Part 1 & 2: New Sunstone crystal count**\nOriginal Sunstone count: 987,654\n- The digit in the hundred thousands place is 8. It changes to 3.\n- The digit in the tens place is 5. It changes to 0.\nAll other digits remain the same.\nNew Sunstone crystal count: 937,604\n\n**Part 3: Rounded Sunstone crystal count**\nNew Sunstone count: 937,604\nTo round to the nearest thousand, look at the hundreds digit, which is 6.\nSince 6 is 5 or more, we round up the thousands digit (7).\nSo, 937,604 rounded to the nearest thousand is 938,000.\nRounded Sunstone crystal count: 938,000\n\n**Part 4: Frost Crystal count**\nStarted with: 50,000 Frost Crystals\nUsed: 65,000 Frost Crystals\n50,000 - 65,000 = -15,000\nFrost Crystal count: -15,000\n\n**Part 5: Total difference**\nRounded Sunstone crystal count: 938,000\nFrost Crystal count: -15,000\nTo find the total difference, we subtract the smaller number from the larger. When one number is positive and the other is negative, we can think of it as the distance between them on a number line.\nDifference = 938,000 - (-15,000)\nSubtracting a negative number is the same as adding the positive version of that number:\nDifference = 938,000 + 15,000\nDifference = 953,000\n\n**Final Answer: The total difference is 953,000.**",
+      "explanation": "The question requires several steps involving place value manipulation, rounding, working with negative numbers, and calculating a difference between a positive and a negative number. \n\n1.  **Place Value Change:** Identify the 'hundred thousands' and 'tens' places in 987,654 (which are 8 and 5 respectively). Change them to 3 and 0. This results in 937,604.\n2.  **Rounding:** For 937,604, to round to the nearest thousand, look at the hundreds digit (6). Since 6 is 5 or greater, the thousands digit (7) is rounded up to 8. The number becomes 938,000.\n3.  **Negative Numbers:** Calculate 50,000 - 65,000. This results in a negative number, -15,000, as more crystals were used than were available.\n4.  **Difference Calculation:** To find the total difference between 938,000 and -15,000, you calculate 938,000 - (-15,000). Subtracting a negative number is equivalent to adding the positive version of that number (938,000 + 15,000). This sum gives 953,000.",
+      "hint": "Remember to carefully identify the value of each digit's position when making changes to the number. When rounding, pay close attention to the digit immediately to the right of the place value you are rounding to. When calculating the difference between a positive and a negative number, consider their positions on a number line – you're finding the total distance between them.",
+      "generatedAt": "2026-04-29T09:10:47.409481"
+    },
+    {
+      "id": "m-y5-place-value_advanced_005",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A research drone is programmed to fly across different altitudes relative to a fixed reference point.\nIts flight consists of three stages, starting from an initial altitude of 450,000 metres.\nIn Stage 1, the drone's altitude increases by 125,750 metres.\nIn Stage 2, its altitude then decreases by 700,000 metres.\nIn Stage 3, its altitude increases again by 55,200 metres.\n\nWhat is the drone's final altitude, rounded to the nearest 10,000 metres? Show your working.",
+      "options": [
+        "-70,000 metres",
+        "-60,000 metres",
+        "70,000 metres",
+        "-80,000 metres"
+      ],
+      "correctAnswer": "-70,000 metres",
+      "explanation": "1.  Start with the initial altitude:\n    Initial altitude = 450,000 metres.\n\n2.  Calculate altitude after Stage 1:\n    Altitude after Stage 1 = Initial altitude + Increase in Stage 1\n    Altitude after Stage 1 = 450,000 + 125,750 = 575,750 metres.\n\n3.  Calculate altitude after Stage 2:\n    Altitude after Stage 2 = Altitude after Stage 1 - Decrease in Stage 2\n    Altitude after Stage 2 = 575,750 - 700,000 = -124,250 metres. (This means the drone is now 124,250 metres below the reference point).\n\n4.  Calculate altitude after Stage 3:\n    Altitude after Stage 3 = Altitude after Stage 2 + Increase in Stage 3\n    Altitude after Stage 3 = -124,250 + 55,200 = -69,050 metres.\n\n5.  Round the final altitude to the nearest 10,000 metres:\n    The final exact altitude is -69,050 metres.\n    We need to find the two multiples of 10,000 that -69,050 lies between.\n    These are -70,000 and -60,000.\n    -69,050 is 950 units away from -70,000 (because -70,000 - (-69,050) = -70,000 + 69,050 = -950, so the distance is 950).\n    -69,050 is 9,050 units away from -60,000 (because -60,000 - (-69,050) = -60,000 + 69,050 = 9,050).\n    Since 950 is less than 9,050, -69,050 is closer to -70,000.\n\n    Therefore, the drone's final altitude rounded to the nearest 10,000 metres is -70,000 metres.",
+      "hint": "First, calculate the exact final altitude step-by-step, carefully adding and subtracting the changes, especially when dealing with negative values. Then, identify which two multiples of 10,000 the exact final altitude lies between and determine which one it is closest to.",
+      "generatedAt": "2026-04-29T09:11:06.950881"
+    },
+    {
+      "id": "m-y5-place-value_advanced_006",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A large school's main server for its digital learning resources has a total storage capacity of 950,000 gigabytes (GB). At the start of the week, 735,280 GB of this capacity was already in use.\n\nDuring the week, a major update for educational software was installed, which required an additional 128,950 GB of storage. Later, 46,710 GB of temporary student project files were deleted to free up space.\n\nTo prepare for a new academic year, the school decided to pre-allocate an additional 150,000 GB of storage for future resources. This allocation is measured *relative to the current available space*. If the required allocation exceeds the available space, the system goes into a 'storage deficit', represented by a negative number.\n\nCalculate:\na) The total storage used at the end of the week, *before* the new academic year allocation. (Show your working)\nb) The amount of available space remaining *before* the new academic year allocation. (Show your working)\nc) The storage level after the new academic year allocation, expressed as a positive number if space remains, or a negative number if there is a deficit. (Show your working)\nd) Round the final storage level from part (c) to the nearest 10,000 GB. (Show your working)",
+      "options": [],
+      "correctAnswer": "a) Initial storage used = 735,280 GB\nAdditional storage for software = 128,950 GB\nStorage freed by deleting files = 46,710 GB\n\nTotal storage used at the end of the week = 735,280 + 128,950 - 46,710\n= 864,230 - 46,710\n= 817,520 GB\n\nb) Total storage capacity = 950,000 GB\nTotal storage used at the end of the week (from part a) = 817,520 GB\n\nAvailable space remaining = Total capacity - Total storage used\n= 950,000 - 817,520\n= 132,480 GB\n\nc) Available space remaining (from part b) = 132,480 GB\nStorage allocated for new academic year = 150,000 GB\n\nStorage level after allocation = Available space - Allocated storage\n= 132,480 - 150,000\n= -17,520 GB (This indicates a deficit of 17,520 GB)\n\nd) Final storage level = -17,520 GB\nTo round to the nearest 10,000 GB, we look at the thousands digit (7 in -17,520). Since it is 5 or greater, we round down (further away from zero on the negative side).\nThe multiples of 10,000 are -10,000, -20,000, etc.\n-17,520 is between -10,000 and -20,000.\nThe midpoint is -15,000.\nSince -17,520 is to the left of -15,000 on the number line, it is closer to -20,000.\n\nRounded final storage level = -20,000 GB",
+      "explanation": "This question requires multiple steps involving addition and subtraction of large numbers (up to 1,000,000), understanding the concept of available space, calculating a deficit using negative numbers, and finally rounding a negative number to a specific place value. Each part builds on the previous calculation, demanding careful attention to place value and calculation accuracy. Understanding 'storage deficit' as a negative value is key, as is correctly rounding negative numbers where the rounding rule implies moving further from zero if the next digit is 5 or more.",
+      "hint": "Break down the problem into smaller steps, carefully tracking additions, subtractions, and the meaning of a negative balance when capacity is exceeded. Remember to apply rounding rules correctly to negative numbers.",
+      "generatedAt": "2026-04-29T09:11:26.264874"
+    },
+    {
+      "id": "m-y5-place-value_advanced_007",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "An advanced elevator system in a futuristic mega-structure can travel to levels both above and below ground. Ground level is represented as 0. Levels above ground are positive, and levels below ground are negative.\n\nThe elevator is currently stopped at level -187,350 (meaning 187,350 levels below ground). Its next destination is level 250,000. Before it can move, an engineer observes an error in the display for the *current level*.\n\nThe engineer must perform two manual adjustments to the number displayed as -187,350:\n1.  Increase the digit in the **hundreds of thousands place** by 1.\n2.  Decrease the digit in the **thousands place** by 4.\n\nAfter these adjustments, the engineer is asked to round the *new* level number to the nearest 100,000.\n\nWhat is the final rounded *new* level number?",
+      "options": [
+        "A) -100,000",
+        "B) -200,000",
+        "C) -300,000",
+        "D) -400,000"
+      ],
+      "correctAnswer": "C) -300,000",
+      "explanation": "Let's break down the adjustments step-by-step:\n\n1.  **Start with the current level:** The elevator is at -187,350.\n    When making adjustments to individual digits of a negative number, we usually work with its absolute value (the number without the negative sign) and then reapply the negative sign at the end for the final value. So, we consider the number 187,350.\n\n2.  **Adjust the hundreds of thousands place:** The hundreds of thousands digit in 187,350 is '1'.\n    We need to increase this digit by 1. So, '1' becomes '2'.\n    The number now becomes 287,350.\n    Applying the negative sign again, the level is now -287,350.\n\n3.  **Adjust the thousands place:** The thousands digit in 287,350 is '7'.\n    We need to decrease this digit by 4. So, '7' - 4 = '3'.\n    The number now becomes 283,350.\n    Applying the negative sign again, the level is now -283,350.\n\n4.  **Round the new level number to the nearest 100,000:**\n    We need to round -283,350 to the nearest 100,000.\n    Again, let's consider the absolute value: 283,350.\n    To round to the nearest 100,000, we look at the digit in the tens of thousands place, which is '8'.\n    Since '8' is 5 or greater, we round up the hundreds of thousands digit.\n    The hundreds of thousands digit is '2'. Rounding it up makes it '3'.\n    All digits to the right of the hundreds of thousands place become zeros.\n    So, 283,350 rounded to the nearest 100,000 is 300,000.\n    Since the number was originally negative, the final rounded level is -300,000.\n\nTherefore, the final rounded new level number is -300,000.",
+      "hint": "Remember to perform the digit adjustments carefully on the magnitude (the number without the negative sign) first, then consider the negative sign for the resulting number. When rounding a negative number, round its absolute value to the required place value, and then make the final result negative.",
+      "generatedAt": "2026-04-29T09:11:52.172430"
+    },
+    {
+      "id": "m-y5-place-value_advanced_008",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "The 'Future Builders' charity carefully tracks its finances. They began the month with £150,000 in their bank account. During the month, they received a large donation of £687,350. However, they also had to pay out a significant sum of £900,000 for a new project.\n\nCalculate the charity's final balance at the end of the month.\nIf the final balance is a deficit (a negative number), what is the value of the thousands digit in the *absolute value* of this deficit?\n(Show your working clearly to earn full marks.)",
+      "options": [
+        "2",
+        "200",
+        "2,000",
+        "62,000"
+      ],
+      "correctAnswer": "2,000",
+      "explanation": "1.  First, calculate the charity's total balance:\n    Starting balance: £150,000\n    Donation received: +£687,350\n    Payment made: -£900,000\n\n    Total balance = £150,000 + £687,350 - £900,000\n    Total balance = £837,350 - £900,000\n    Total balance = -£62,650\n\n2.  The final balance is a deficit of £62,650, which is a negative number.\n\n3.  The question asks for the value of the thousands digit in the *absolute value* of this deficit.\n    The absolute value of -£62,650 is £62,650.\n\n4.  Now, let's identify the thousands digit in £62,650:\n    - The '6' is in the tens of thousands place.\n    - The '2' is in the thousands place.\n    - The '6' is in the hundreds place.\n    - The '5' is in the tens place.\n    - The '0' is in the ones place.\n\n5.  The thousands digit is 2. The *value* of the thousands digit '2' in this position is 2 multiplied by 1,000, which is 2,000.\n\nTherefore, the correct answer is 2,000.",
+      "hint": "Start by adding all the money coming in and subtracting all the money going out to find the total balance. If the balance is negative, consider its positive equivalent (absolute value) before finding the value of the specific digit.",
+      "generatedAt": "2026-04-29T09:12:12.352691"
+    },
+    {
+      "id": "m-y5-place-value_advanced_009",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A numerical data processor follows a three-step sequence. It begins with the number 572,183.\n\nStep 1: The digit in the hundreds place is increased by 4, and the digit in the ten thousands place is decreased by 2. All other digits remain unchanged.\nStep 2: The number from Step 1 is then rounded to the nearest thousand.\nStep 3: The number from Step 2 is finally reduced by 553,017.\n\nWhat is the final result after Step 3? Show your working clearly.",
+      "options": [
+        "A) 17",
+        "B) -17",
+        "C) -34",
+        "D) 0"
+      ],
+      "correctAnswer": "B) -17",
+      "explanation": "Here is a step-by-step breakdown:\n\n**Initial Number:** 572,183\n\n**Step 1: Adjusting digits based on place value.**\n*   The digit in the hundreds place is 1. Increasing it by 4 gives 1 + 4 = 5.\n*   The digit in the ten thousands place is 7. Decreasing it by 2 gives 7 - 2 = 5.\n*   All other digits (hundred thousands, thousands, tens, ones) remain the same.\n*   The new number after Step 1 is 552,583.\n\n**Step 2: Rounding to the nearest thousand.**\n*   We need to round 552,583 to the nearest thousand.\n*   Look at the thousands digit, which is 2. Now look at the digit to its right (the hundreds digit), which is 5.\n*   Since the hundreds digit is 5 or greater, we round up the thousands digit.\n*   So, 552,583 rounded to the nearest thousand becomes 553,000.\n\n**Step 3: Final reduction.**\n*   The number from Step 2 is 553,000.\n*   This number is reduced by 553,017.\n*   553,000 - 553,017 = -17.\n\nTherefore, the final result is -17.",
+      "hint": "Carefully track the value of each digit in Step 1. When rounding in Step 2, remember the rule for rounding up or down based on the next digit. For Step 3, pay close attention to the order of the numbers in the subtraction to correctly determine if the result is positive or negative.",
+      "generatedAt": "2026-04-29T09:12:28.849973"
+    },
+    {
+      "id": "m-y5-place-value_advanced_010",
+      "topicId": "m-y5-place-value",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A digital safe requires a 6-digit security code. To unlock the safe, you must determine each digit using the clues provided. Show your working for each step to receive full marks.\n\n1.  **First Digit (Hundred Thousands Place):** This digit is the value of the digit found in the *hundreds place* of the number 458,291.\n2.  **Second Digit (Ten Thousands Place):** This digit is the value of the digit found in the *tens place* after rounding the number 73,465 to the *nearest thousand*.\n3.  **Third Digit (Thousands Place):** Using the digits 5, 2, 8, 0, 1, 9 exactly once, form the *smallest possible 6-digit number* that is *less than 200,000*. This digit is the value of the digit found in the *thousands place* of that number.\n4.  **Fourth Digit (Hundreds Place):** First, calculate 3 subtract 8. Second, calculate 1 subtract 5. This digit is the *positive distance* on a number line between these two answers.\n5.  **Fifth Digit (Tens Place):** This digit is the value of the digit found in the *ten thousands place* of the number 734,582.\n6.  **Sixth Digit (Units Place):** This digit is the value of the digit found in the *units place* of the number 846,290 after it has been rounded to the *nearest ten thousand*.\n\nWhat is the 6-digit security code?",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working to find the 6-digit security code:\n\n**1. First Digit (Hundred Thousands Place):**\nThe number is 458,291.\nThe digit in the hundreds place is 2.\n*First Digit = 2*\n\n**2. Second Digit (Ten Thousands Place):**\nThe number is 73,465.\nTo round to the nearest thousand, we look at the hundreds digit. The hundreds digit is 4.\nSince 4 is less than 5, we round down. The thousands digit remains 3, and all digits to its right become 0.\n73,465 rounded to the nearest thousand is 73,000.\nThe digit in the tens place of 73,000 is 0.\n*Second Digit = 0*\n\n**3. Third Digit (Thousands Place):**\nThe digits are 5, 2, 8, 0, 1, 9.\nWe need to form the smallest possible 6-digit number less than 200,000 using these digits once.\nFor the number to be less than 200,000, its hundred thousands digit must be 1.\nIf the first digit is 1, the remaining digits are 5, 2, 8, 0, 9.\nTo make the number smallest, arrange the remaining digits in ascending order: 0, 2, 5, 8, 9.\nSo, the smallest possible 6-digit number less than 200,000 is 102,589.\nThe digit in the thousands place of 102,589 is 2.\n*Third Digit = 2*\n\n**4. Fourth Digit (Hundreds Place):**\nFirst calculation: 3 subtract 8 = -5.\nSecond calculation: 1 subtract 5 = -4.\nThe positive distance on a number line between -5 and -4 is 1 unit (e.g., from -5 to -4 is one step).\n*Fourth Digit = 1*\n\n**5. Fifth Digit (Tens Place):**\nThe number is 734,582.\nThe digit in the ten thousands place is 3.\n*Fifth Digit = 3*\n\n**6. Sixth Digit (Units Place):**\nThe number is 846,290.\nTo round to the nearest ten thousand, we look at the thousands digit. The thousands digit is 6.\nSince 6 is 5 or greater, we round up. The ten thousands digit (4) increases by 1 to become 5, and all digits to its right become 0.\n846,290 rounded to the nearest ten thousand is 850,000.\nThe digit in the units place of 850,000 is 0.\n*Sixth Digit = 0*\n\nThe 6-digit security code is formed by combining these digits in order: 202130.",
+      "explanation": "The full working is provided in the 'correctAnswer' field, detailing the calculation for each of the six digits of the security code, incorporating place value, rounding, number ordering, and simple operations with negative numbers.",
+      "hint": "Remember to carefully identify the specific place value requested for each digit. For rounding, look at the digit to the right of the place you are rounding to. For negative number operations, think about movement on a number line.",
+      "generatedAt": "2026-04-29T09:12:53.880279"
+    }
+  ]
+}

@@ -4,6 +4,58 @@ import sqlite3
 import json
 import os
 
+# ── Static Question Bank ──────────────────────────────────────────────────────
+# Pre-generated questions and curriculum content served from JSON files.
+# No API call needed. Falls back gracefully if files don't exist yet.
+
+import random as _random
+from pathlib import Path as _Path
+
+_DATA_DIR = _Path(__file__).parent / 'data'
+_Q_DIR    = _DATA_DIR / 'questions'
+_question_cache = {}
+_curriculum_cache = None
+
+def _load_curriculum_cache():
+    global _curriculum_cache
+    if _curriculum_cache is None:
+        f = _DATA_DIR / 'curriculum.json'
+        _curriculum_cache = json.loads(f.read_text(encoding='utf-8')) if f.exists() else {}
+    return _curriculum_cache
+
+def _load_question_bank(topic_id):
+    if topic_id not in _question_cache:
+        f = _Q_DIR / f'{topic_id}.json'
+        _question_cache[topic_id] = json.loads(f.read_text(encoding='utf-8')) if f.exists() else {}
+    return _question_cache.get(topic_id, {})
+
+def get_static_curriculum(topic_id):
+    return _load_curriculum_cache().get(topic_id)
+
+def get_static_question(topic_id, difficulty, year, used_ids=None):
+    used = set(used_ids or [])
+    bank = _load_question_bank(topic_id)
+    if not bank:
+        return None
+    questions = bank.get(difficulty, [])
+    available = [q for q in questions if q.get('id') not in used]
+    if not available:
+        # Try adjacent difficulty if current is exhausted
+        fallbacks = {'Beginner': ['Intermediate'], 'Intermediate': ['Beginner', 'Advanced'], 'Advanced': ['Intermediate']}
+        for fb in fallbacks.get(difficulty, []):
+            available = [q for q in bank.get(fb, []) if q.get('id') not in used]
+            if available:
+                break
+    return _random.choice(available) if available else None
+
+def get_bank_stats():
+    if not _Q_DIR.exists():
+        return {}
+    return {
+        f.stem: {d: len(qs) for d, qs in json.loads(f.read_text(encoding='utf-8')).items()}
+        for f in _Q_DIR.glob('*.json')
+    }
+
 app = Flask(__name__)
 
 # ── CORS — allow ALL origins (required for Android app on local network) ──────
@@ -353,6 +405,44 @@ def save_mock_paper():
         return jsonify({"error": str(e)}), 500
 
 # ─────────────────────────────────────────────────────────────────────────────
+# ── Static Question Bank Routes ───────────────────────────────────────────────
+
+@app.route('/api/question/static', methods=['POST'])
+def static_question():
+    """Serve a pre-generated question from the JSON bank. No AI call."""
+    try:
+        data = request.json or {}
+        q = get_static_question(
+            topic_id   = data.get('topicId', ''),
+            difficulty = data.get('difficulty', 'Beginner'),
+            year       = data.get('yearLevel', 9),
+            used_ids   = data.get('usedIds', [])
+        )
+        if q:
+            return jsonify(q)
+        return jsonify({'error': 'bank_exhausted'}), 404
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/curriculum/static/<topic_id>', methods=['GET'])
+def static_curriculum_route(topic_id):
+    """Serve pre-generated curriculum content. No AI call."""
+    try:
+        c = get_static_curriculum(topic_id)
+        if c:
+            return jsonify(c)
+        return jsonify({'error': 'not_found'}), 404
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/bank/stats', methods=['GET'])
+def bank_stats():
+    """Admin endpoint — shows question count per topic per difficulty."""
+    try:
+        return jsonify(get_bank_stats())
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
 if __name__ == '__main__':
     init_db()
     port = int(os.environ.get("PORT", 5000))

@@ -267,10 +267,25 @@ const loadSynthesis = async () => {
   try {
     loadState();
 
-    const [cachedHub, cachedCurriculum] = await Promise.all([
+    // Try static pre-generated curriculum FIRST (instant, no API call)
+    // Falls back to DB-cached curriculum, then live AI generation
+    const [staticCurriculum, cachedHub, cachedCurriculum] = await Promise.all([
+      db.getStaticCurriculum(props.topic.id).catch(() => null),
       db.getTopicSynthesis(props.student.name, props.topic.id).catch(() => null),
       db.getCurriculum(props.topic.id).catch(() => null)
     ]);
+
+    // If static curriculum exists, use it immediately — no AI call needed
+    if (staticCurriculum) {
+      // Wrap in the same shape as curriculum_analysis from DB
+      curriculumData.value = {
+        topicId: props.topic.id,
+        subject: props.topic.subject,
+        yearLevel: props.student.yearLevel,
+        logicProfile: staticCurriculum,
+        commonQuestions: staticCurriculum.concepts || []
+      };
+    }
 
     // Load cached hub (notes + curriculum merged)
     if (cachedHub) {
@@ -278,19 +293,28 @@ const loadSynthesis = async () => {
       isHubSynced.value = true;
     }
 
-    // Load cached curriculum if it's real content
-    // cachedCurriculum from DB has shape: { logicProfile: {...}, topicId, ... }
+    // Static curriculum found — no AI call needed at all
+    // Only fall through to DB cache or live generation if static not available
+    if (staticCurriculum) {
+      // Static content loaded above — just check if notes need synthesising
+      if (!cachedHub && briefingCount.value > 0) {
+        await resynthesizeWithNotes();
+      }
+      // Done — no AI call, no DB curriculum call needed
+      return;
+    }
+
+    // No static content — try DB cached curriculum
     const hasRealCurriculum = cachedCurriculum &&
       isRealAIContent(getLogicProfile(cachedCurriculum));
 
     if (hasRealCurriculum) {
       curriculumData.value = cachedCurriculum;
-      // If no hub yet but student has notes, synthesise now
       if (!cachedHub && briefingCount.value > 0) {
         await resynthesizeWithNotes();
       }
     } else {
-      // No real curriculum cached — generate fresh, combine with notes
+      // Last resort — generate fresh from AI and combine with notes
       await generateAndSyncCurriculum();
     }
   } catch (e) {
@@ -378,15 +402,44 @@ const fetchQuestion = async (isTest = false) => {
         : fullKnowledgeContext.value.overview
     };
 
-    question.value = await generateValidatedQuestion(
-      props.topic,
-      context?.difficulty || difficulty.value,
-      props.student.yearLevel,
-      // Pass as enriched string for questionManager compatibility
-      JSON.stringify(knowledgeContext),
-      isTest,
-      allPacks.length > 0 ? allPacks : undefined
-    );
+    // Try static question bank first — instant, no API call
+    const sessionUsedIds = recentQuestions.value
+      .map(q => q.id).filter(Boolean);
+
+    const staticQ = !isTest // test mode always uses live AI for rigor
+      ? await db.getStaticQuestion(
+          props.topic.id,
+          context?.difficulty || difficulty.value,
+          props.student.yearLevel,
+          sessionUsedIds
+        ).catch(() => null)
+      : null;
+
+    if (staticQ) {
+      // Got a question from the bank — instant, no API call
+      question.value = {
+        id: staticQ.id,
+        subject: props.topic.subject,
+        topic: props.topic.name,
+        difficulty: context?.difficulty || difficulty.value,
+        isExamStyle: isTest,
+        text: staticQ.text,
+        options: staticQ.options || [],
+        correctAnswer: staticQ.correctAnswer,
+        explanation: staticQ.explanation,
+        hint: staticQ.hint || ''
+      };
+    } else {
+      // Bank exhausted or test mode — fall back to live AI generation
+      question.value = await generateValidatedQuestion(
+        props.topic,
+        context?.difficulty || difficulty.value,
+        props.student.yearLevel,
+        JSON.stringify(knowledgeContext),
+        isTest,
+        allPacks.length > 0 ? allPacks : undefined
+      );
+    }
 
     // Track this question to avoid repetition
     if (question.value?.text) {

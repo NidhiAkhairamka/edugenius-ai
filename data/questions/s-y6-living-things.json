@@ -1,0 +1,503 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y6-living-things_beginner_001",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Identify one characteristic that all mammals share.",
+      "options": [
+        "A. They have feathers.",
+        "B. They breathe using gills.",
+        "C. They have dry scales.",
+        "D. They produce milk to feed their young."
+      ],
+      "correctAnswer": "D. They produce milk to feed their young.",
+      "explanation": "Mammals are a group of animals that are distinguished by several characteristics. One of the most important and defining features that all mammals share is that the females produce milk to nourish their offspring after birth. Options A, B, and C describe characteristics of other animal groups: feathers are found on birds, gills are used by fish for breathing, and dry scales are typical of reptiles.",
+      "hint": "Consider how baby mammals, such as puppies or kittens, get their first food.",
+      "generatedAt": "2026-04-29T20:04:51.903233"
+    },
+    {
+      "id": "s-y6-living-things_beginner_002",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "State one characteristic that all vertebrates share.",
+      "options": [
+        "They have fur.",
+        "They lay eggs.",
+        "They have a backbone.",
+        "They live only on land."
+      ],
+      "correctAnswer": "They have a backbone.",
+      "explanation": "Vertebrates are a group of animals defined by having a backbone or spinal column. While some vertebrates have fur (mammals), some lay eggs (birds, fish, reptiles, amphibians), and some live only on land (some reptiles, mammals), these are not true for *all* vertebrates. The presence of a backbone is the universal characteristic.",
+      "hint": "Consider the key distinguishing feature that separates vertebrates from invertebrates.",
+      "generatedAt": "2026-04-29T20:05:01.343150"
+    },
+    {
+      "id": "s-y6-living-things_beginner_003",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A scientist observes an animal that has eight legs and an exoskeleton. State the scientific group of invertebrates that this animal belongs to.",
+      "options": [
+        "Insects",
+        "Crustaceans",
+        "Arachnids",
+        "Myriapods"
+      ],
+      "correctAnswer": "Arachnids",
+      "explanation": "Animals with eight legs and an exoskeleton, such as spiders and scorpions, are classified into the scientific group called Arachnids. Insects have six legs, Crustaceans often have ten or more, and Myriapods (like millipedes and centipedes) have many pairs of legs.",
+      "hint": "Recall the invertebrate group known for having exactly eight legs.",
+      "generatedAt": "2026-04-29T20:05:09.624578"
+    },
+    {
+      "id": "s-y6-living-things_beginner_004",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Scientists sort living things, such as animals and plants, into different groups based on their features and characteristics. What is the primary purpose of classifying living things in this way?",
+      "options": [
+        "A) To make them look more organised in a book.",
+        "B) To predict exactly how many of each type there are in the world.",
+        "C) To understand their relationships, similarities, and differences.",
+        "D) To decide which ones are the prettiest or most interesting."
+      ],
+      "correctAnswer": "C) To understand their relationships, similarities, and differences.",
+      "explanation": "Classification is a fundamental process in science. By grouping living things based on shared characteristics (similarities) and unique features (differences), scientists can understand how different organisms are related to each other and how they have evolved. This helps us to study and communicate about the vast diversity of life on Earth. Options A, B, and D are not the primary scientific reasons for classification.",
+      "hint": "Think about what kind of information you gain when you organise diverse items into categories based on their features.",
+      "generatedAt": "2026-04-29T20:05:22.044716"
+    },
+    {
+      "id": "s-y6-living-things_beginner_005",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A scientist observes a living thing that has roots, stems, and leaves. This living thing can also make its own food using sunlight. State the main group of living things this organism belongs to.",
+      "options": [
+        "A. Animals",
+        "B. Fungi",
+        "C. Plants",
+        "D. Bacteria"
+      ],
+      "correctAnswer": "C. Plants",
+      "explanation": "Plants are a major group of living things that are characterised by having roots, stems, and leaves. Crucially, plants are producers, meaning they can make their own food using sunlight through a process called photosynthesis. Animals, fungi, and bacteria obtain their food in different ways and do not possess all these specific characteristics.",
+      "hint": "Consider which group of living things is known for producing its own food using sunlight and typically has roots, stems, and leaves.",
+      "generatedAt": "2026-04-29T20:05:30.861667"
+    },
+    {
+      "id": "s-y6-living-things_beginner_006",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A scientist observes an animal that has moist skin and lays its eggs in water. State which main animal group this living thing most likely belongs to.",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Fish",
+        "Amphibians"
+      ],
+      "correctAnswer": "Amphibians",
+      "explanation": "Amphibians are a group of animals that typically have moist skin and lay their eggs in water. Examples include frogs and salamanders, which often start their lives in water and can later live on land. Mammals have fur or hair and give birth to live young. Birds have feathers and lay hard-shelled eggs on land. Fish have scales and fins, and most lay eggs in water, but they do not have moist skin in the same way amphibians do.",
+      "hint": "Consider animals that can live both in water and on land, and how they reproduce.",
+      "generatedAt": "2026-04-29T20:05:40.884737"
+    },
+    {
+      "id": "s-y6-living-things_beginner_007",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Scientists sort living things into different groups based on their characteristics. Mammals are one group of animals. Which of the following is a characteristic that *all* mammals share?",
+      "options": [
+        "A) They lay eggs.",
+        "B) They have feathers.",
+        "C) They produce milk to feed their young.",
+        "D) They have scales."
+      ],
+      "correctAnswer": "C) They produce milk to feed their young.",
+      "explanation": "Option A is incorrect because, while some mammals (like platypuses) lay eggs, most mammals give birth to live young. Therefore, it is not a characteristic of *all* mammals. Option B is incorrect because feathers are a characteristic of birds, not mammals. Option C is correct because all mammals, by definition, produce milk to nourish their young. This is a defining characteristic of the mammal group. Option D is incorrect because scales are a characteristic of fish and reptiles, not mammals.",
+      "hint": "Consider how all mammal mothers feed their babies.",
+      "generatedAt": "2026-04-29T20:05:50.065424"
+    },
+    {
+      "id": "s-y6-living-things_beginner_008",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Scientists sort living things into different groups based on their characteristics. Which statement describes a key characteristic of *all* animals?",
+      "options": [
+        "They can make their own food using sunlight.",
+        "They have roots and stems.",
+        "They get their food by eating other living things.",
+        "They usually have green leaves."
+      ],
+      "correctAnswer": "They get their food by eating other living things.",
+      "explanation": "Animals are classified as organisms that obtain energy and nutrients by consuming other living things. This is a fundamental characteristic that distinguishes them from plants, which typically make their own food using sunlight (photosynthesis). Options A, B, and D describe characteristics of plants.",
+      "hint": "Consider how animals obtain their energy, compared to how plants get their energy.",
+      "generatedAt": "2026-04-29T20:06:00.640341"
+    },
+    {
+      "id": "s-y6-living-things_beginner_009",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Scientists classify living things into different groups based on their unique features. Which of the following characteristics is specifically used to classify an animal as a mammal?",
+      "options": [
+        "A. Lays eggs",
+        "B. Has scales covering its body",
+        "C. Feeds its young with milk",
+        "D. Lives in water"
+      ],
+      "correctAnswer": "C. Feeds its young with milk",
+      "explanation": "Mammals are a group of animals uniquely identified by the characteristic of producing milk to feed their offspring. While other animal groups may lay eggs (like birds and reptiles), have scales (like fish and reptiles), or live in water (like fish, some reptiles, and some amphibians), none of these characteristics are exclusive to mammals. Only mammals feed their young with milk.",
+      "hint": "Consider how baby mammals, such as puppies or kittens, get their first food.",
+      "generatedAt": "2026-04-29T20:06:09.699526"
+    },
+    {
+      "id": "s-y6-living-things_beginner_010",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which characteristic is used by scientists to classify a living thing as a plant?",
+      "options": [
+        "A) It can move from place to place.",
+        "B) It has fur or feathers.",
+        "C) It makes its own food using sunlight.",
+        "D) It eats other living things to get energy."
+      ],
+      "correctAnswer": "C) It makes its own food using sunlight.",
+      "explanation": "Plants are unique because they produce their own food through a process called photosynthesis, using sunlight. This is a key characteristic that distinguishes them from animals. Animals (options A, B, D) move, may have fur/feathers, and eat other organisms to get energy.",
+      "hint": "Think about how plants obtain their energy compared to how animals do.",
+      "generatedAt": "2026-04-29T20:06:22.889288"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y6-living-things_intermediate_001",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Imagine scientists discovered a new animal! They observed these things about it:\n*   It has dry, scaly skin.\n*   It lays its eggs on land.\n*   Its body temperature changes depending on the temperature around it (it's 'cold-blooded').\n*   It breathes air using lungs, even though it lives near water.\n\n**State** the animal group this new discovery most likely belongs to.",
+      "options": [
+        "A. Amphibian",
+        "B. Reptile",
+        "C. Fish",
+        "D. Mammal"
+      ],
+      "correctAnswer": "B. Reptile",
+      "explanation": "To classify the animal, we need to look at its unique characteristics:\n1.  **Dry, scaly skin**: This characteristic is found in reptiles. Amphibians have moist skin, fish have wet scales, and mammals have fur or hair.\n2.  **Lays its eggs on land**: Reptiles lay their eggs on land. Amphibians typically lay their eggs in water. Fish lay their eggs in water. Mammals usually give birth to live young.\n3.  **Cold-blooded**: This means its body temperature changes with its surroundings. This is true for reptiles, amphibians, and fish.\n4.  **Breathes using lungs**: This distinguishes it from fish (which breathe with gills). Both reptiles and mammals breathe with lungs.\n\nCombining all these features, especially the dry, scaly skin and laying eggs on land, strongly indicates that the animal belongs to the **Reptile** group.",
+      "hint": "Focus on the type of skin the animal has and where it lays its eggs. These are very important clues for classifying animal groups.",
+      "generatedAt": "2026-04-29T20:06:35.487861"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_002",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "An unknown animal is observed to have the following characteristics:\n*   It has a backbone.\n*   It lays eggs.\n*   Its body is covered in scales.\n*   It is cold-blooded (its body temperature changes with its surroundings).\n*   It lives on land.\n\nBased on these observations, **state** the animal group this organism most likely belongs to, and **explain** two key characteristics from the list that correctly place it in this group.",
+      "options": [
+        "A) Reptile; It has a backbone and lays eggs.",
+        "B) Amphibian; It is cold-blooded and lives on land.",
+        "C) Reptile; Its body is covered in scales and it is cold-blooded.",
+        "D) Fish; It has scales and lays eggs."
+      ],
+      "correctAnswer": "C) Reptile; Its body is covered in scales and it is cold-blooded.",
+      "explanation": "To answer this two-step question, first identify the correct animal group, then select the most defining characteristics from the list provided.\n\n1.  **Analyze the characteristics:** The animal has a backbone, lays eggs, has scales, is cold-blooded, and lives on land.\n2.  **Evaluate each animal group based on these characteristics:**\n    *   **Mammals:** Are warm-blooded, usually have fur/hair, and give birth to live young. (Not a match)\n    *   **Birds:** Are warm-blooded, have feathers, and lay hard-shelled eggs. (Not a match)\n    *   **Fish:** Live in water, have scales, lay eggs, and are cold-blooded. (Not a match because the animal lives on land).\n    *   **Amphibians:** Are cold-blooded, lay eggs (often jelly-like), have moist skin (not scales), and live both on land and in water. (Not a match because the animal has scales).\n    *   **Reptiles:** Are cold-blooded, have dry scaly skin, lay eggs (often leathery), and primarily live on land. (This is a strong match).\n3.  **Identify the correct group:** Based on the analysis, the organism is most likely a Reptile.\n4.  **Evaluate the reasons provided in the options:**\n    *   Option A: 'Backbone' is true but common to all vertebrates. 'Lays eggs' is also true but common to birds, fish, and amphibians too, so these are not the *most specific* distinguishing features for a reptile.\n    *   Option B: Incorrect group (Amphibian).\n    *   Option C: Correct group (Reptile). 'Its body is covered in scales' is a key characteristic that distinguishes reptiles from amphibians and birds. 'It is cold-blooded' is another key characteristic that distinguishes reptiles from mammals and birds.\n    *   Option D: Incorrect group (Fish).\n\nTherefore, option C correctly identifies the animal group and provides two defining characteristics that specifically place it within that group.",
+      "hint": "Consider which characteristics are unique or most defining for each animal group. 'Backbone' and 'lays eggs' are shared by many groups, so look for more specific features to narrow down the classification.",
+      "generatedAt": "2026-04-29T20:06:56.116041"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_003",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student is classifying four different organisms observed in a garden and pond environment. They record the following key features:\n*   **Organism P (Chicken):** Has feathers, a backbone, breathes with lungs, and lays eggs.\n*   **Organism Q (Goldfish):** Has scales, a backbone, breathes with gills, and lays eggs.\n*   **Organism R (Rabbit):** Has fur, a backbone, breathes with lungs, and gives live birth.\n*   **Organism S (Grasshopper):** Has an exoskeleton, no backbone, breathes through spiracles, and lays eggs.\n\nBased on these characteristics, which pair of organisms are correctly grouped together because they **both possess a backbone** and **both reproduce by laying eggs**?",
+      "options": [
+        "A. Organism P and Organism R",
+        "B. Organism Q and Organism S",
+        "C. Organism P and Organism Q",
+        "D. Organism R and Organism S"
+      ],
+      "correctAnswer": "C. Organism P and Organism Q",
+      "explanation": "To correctly group the organisms based on both criteria, follow these steps:\n1.  **Identify organisms with a backbone:** Organism P (Chicken), Organism Q (Goldfish), and Organism R (Rabbit) all possess a backbone. Organism S (Grasshopper) does not.\n2.  **From the organisms with a backbone, identify which ones reproduce by laying eggs:**\n    *   Organism P (Chicken) has a backbone and lays eggs. (Meets both criteria)\n    *   Organism Q (Goldfish) has a backbone and lays eggs. (Meets both criteria)\n    *   Organism R (Rabbit) has a backbone but gives live birth, so it does not meet the 'lays eggs' criterion.\n3.  Therefore, the only pair that both possess a backbone AND reproduce by laying eggs is Organism P and Organism Q.",
+      "hint": "First, identify all organisms that possess a backbone. Then, from that group, find which ones also reproduce by laying eggs.",
+      "generatedAt": "2026-04-29T20:07:17.532375"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_004",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A scientist is classifying an unknown animal. Observations show that this animal has dry, scaly skin, lays eggs on land, and breathes with lungs throughout its entire life cycle.\n\nWhich classification group best describes this animal, and what is its most distinctive characteristic that confirms this group?",
+      "options": [
+        "A) Mammal; it breathes with lungs.",
+        "B) Bird; it lays eggs.",
+        "C) Reptile; it has dry, scaly skin.",
+        "D) Amphibian; it lays eggs on land."
+      ],
+      "correctAnswer": "C) Reptile; it has dry, scaly skin.",
+      "explanation": "Step 1: Evaluate the animal's characteristics against common animal groups.\n*   The animal breathes with lungs throughout its life. This rules out fish (gills) and most amphibians (start with gills).\n*   The animal lays eggs on land. This rules out most mammals (live young).\nStep 2: Focus on the remaining unique characteristics.\n*   The animal has dry, scaly skin. This is a key defining feature for reptiles.\n*   Mammals have fur/hair. Birds have feathers. Amphibians have moist skin.\n\nTherefore, based on all observations, especially the dry, scaly skin, the animal is best classified as a Reptile.",
+      "hint": "Think about the unique skin covering and how different animal groups breathe or reproduce.",
+      "generatedAt": "2026-04-29T20:07:39.778648"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_005",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "An organism is observed to possess the following combination of features:\n- Its body is covered with scales.\n- It lays soft-shelled eggs on land.\n- It is cold-blooded (ectothermic).\n- It has lungs for breathing.\n\nWhich of the following describes the most appropriate classification for this organism and the key reason for it?",
+      "options": [
+        "A) It is an amphibian because it lays eggs.",
+        "B) It is a fish because it is cold-blooded and has scales.",
+        "C) It is a reptile because it has scales and lays eggs on land.",
+        "D) It is a mammal because it has lungs for breathing."
+      ],
+      "correctAnswer": "C) It is a reptile because it has scales and lays eggs on land.",
+      "explanation": "1.  **Analyze the given characteristics:** The organism has scales, lays soft-shelled eggs on land, is cold-blooded (ectothermic), and breathes with lungs.\n2.  **Evaluate Option A (Amphibian):** While amphibians lay eggs and are cold-blooded, they typically have smooth, moist skin, not scales. Most amphibians also lay their eggs in water, not on land. Therefore, this option is incorrect.\n3.  **Evaluate Option B (Fish):** Fish have scales and are cold-blooded, but they breathe with gills, not lungs, and usually lay their eggs in water. Therefore, this option is incorrect.\n4.  **Evaluate Option C (Reptile):** Reptiles are characterized by having scales, being cold-blooded, breathing with lungs, and laying eggs (often soft-shelled or leathery) on land. All the given characteristics perfectly match the reptile group. This is the most appropriate classification.\n5.  **Evaluate Option D (Mammal):** Mammals are warm-blooded, typically have fur or hair, and give birth to live young (with a few exceptions), although they do breathe with lungs. The presence of scales and laying eggs on land clearly rules out mammals. Therefore, this option is incorrect.\n\nBased on these evaluations, the organism is a reptile because of its scales and its method of reproduction (laying eggs on land).",
+      "hint": "To classify correctly, focus on the characteristics that are unique or most defining for each major animal group, especially concerning body covering, body temperature regulation, and reproductive methods.",
+      "generatedAt": "2026-04-29T20:07:55.117440"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_006",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Scientists are classifying an unusual animal. They note the following characteristics:\n*   Its body is covered in fur.\n*   The mother feeds her young with milk.\n*   It lays eggs in a burrow.\n*   It has webbed feet and a duck-like bill.\n\nWhich option correctly states the animal's group and provides the best explanation for its classification as a mammal, despite laying eggs?",
+      "options": [
+        "A) It is a reptile because it lays eggs, which is a key characteristic of reptiles.",
+        "B) It is an amphibian because it lives near water and lays eggs, similar to frogs.",
+        "C) It is a mammal because it has fur and feeds its young with milk, which are defining features of mammals.",
+        "D) It is a bird because it has a duck-like bill and lays eggs, just like birds do."
+      ],
+      "correctAnswer": "C) It is a mammal because it has fur and feeds its young with milk, which are defining features of mammals.",
+      "explanation": "To classify an animal correctly, biologists look for the most important 'defining characteristics' of each animal group. While laying eggs is common in reptiles, amphibians, and birds, the presence of fur and the production of milk to feed young are the unique and defining features of all mammals. Even though this animal lays eggs (which is unusual for most mammals), its fur and milk production classify it as a mammal.",
+      "hint": "Consider what truly *defines* a mammal, reptile, amphibian, or bird. Which characteristics are present in *all* members of that group?",
+      "generatedAt": "2026-04-29T20:08:15.108016"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_007",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A student is observing three animals: a bat, a bird, and a beetle. They want to classify these animals into two distinct groups based on a single observable characteristic.\n\nExplain which characteristic, 'having wings' or 'having an exoskeleton', would be more suitable for this classification, and why. (3 marks)",
+      "options": [],
+      "correctAnswer": "The characteristic 'having an exoskeleton' would be more suitable.\n\nThis is because a beetle has an exoskeleton, while a bat and a bird do not (they possess internal skeletons). This effectively divides the animals into two distinct groups: (Beetle) and (Bat, Bird).\n\nIn contrast, if you use 'having wings', all three animals (bat, bird, and beetle) possess wings. This would place all three into a single group, which does not meet the goal of classifying them into two *distinct* groups.",
+      "explanation": "To answer this, a student needs to evaluate each characteristic:\n\n1.  **Evaluate 'having wings'**: A bat has wings, a bird has wings, and a beetle has wings. If this characteristic is used, all three animals would fall into the 'has wings' group, meaning only one group is formed. This does not achieve the goal of two distinct groups.\n2.  **Evaluate 'having an exoskeleton'**: A beetle has an exoskeleton, but a bat and a bird do not (they have internal skeletons). If this characteristic is used, it creates two distinct groups: one group with the beetle and another group with the bat and the bird. This successfully meets the classification goal.\n\nTherefore, 'having an exoskeleton' is the more suitable characteristic because it allows for the formation of two distinct groups as required by the problem.",
+      "hint": "Consider how each characteristic would sort the animals into groups. Which characteristic allows you to create two separate and clear groups?",
+      "generatedAt": "2026-04-29T20:08:31.691568"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_008",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A group of students are learning about classifying living things. They observe a bat and record these features:\n*   It has wings and can fly.\n*   Its body is covered in fur.\n*   It gives birth to live young and feeds them milk.\n\nThe students discuss which animal group the bat belongs to:\n*   **Student A** says: 'The bat is a bird because it has wings and flies.'\n*   **Student B** says: 'The bat is an insect because it flies.'\n*   **Student C** says: 'The bat is a mammal because it has fur and feeds its young milk.'\n*   **Student D** says: 'The bat is a fish because it lives in dark places like caves.'\n\nState which student has correctly classified the bat, and **explain** why their reasoning is scientifically accurate.",
+      "options": [
+        "A) Student A, because having wings means it must be a bird.",
+        "B) Student B, because flying is a characteristic of insects.",
+        "C) Student C, because giving birth to live young and producing milk are defining characteristics of mammals.",
+        "D) Student D, because living in dark places means it is a fish."
+      ],
+      "correctAnswer": "C) Student C, because giving birth to live young and producing milk are defining characteristics of mammals.",
+      "explanation": "Student C has correctly classified the bat. While bats do have wings and fly (like birds and some insects), these features are not the primary characteristics used to classify them into major animal groups. The key defining features of mammals are having fur or hair, being warm-blooded, giving birth to live young, and producing milk to feed their offspring. The bat exhibits these mammalian characteristics, such as having fur and feeding its young milk, which are more fundamental for classification than its ability to fly or its habitat. Therefore, the bat is a mammal.",
+      "hint": "Think about the unique and fundamental characteristics that define major animal groups like mammals, birds, and fish, rather than just common abilities or habitats.",
+      "generatedAt": "2026-04-29T20:08:52.730894"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_009",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A new living thing is found in a dense forest. Observations reveal it has green leaves, a woody stem, roots anchored in the soil, and produces pollen. It does not move from its location.\n\nDescribe two characteristics from these observations that would be used to classify this living thing as a plant, and explain why each characteristic suggests it is a plant rather than an animal.",
+      "options": [],
+      "correctAnswer": "Here are two characteristics and their explanations:\n\n1.  **Characteristic: Green leaves.** This living thing has green leaves. This suggests it is a plant **because** green leaves contain chlorophyll, which is essential for photosynthesis – the process by which plants make their own food using sunlight. Animals do not possess green leaves and cannot perform photosynthesis; they obtain food by consuming other organisms.\n\n2.  **Characteristic: Does not move from its location.** The living thing remains fixed in one spot. This suggests it is a plant **because** plants are typically sessile (fixed in one place) as they produce their own food and do not need to move to find it. Animals, conversely, are generally motile (can move) **so** they can actively search for food, find mates, or escape predators.",
+      "explanation": "To achieve full marks, a student's answer should: \n1.  Clearly identify two distinct characteristics from the provided observations that are specific to plants (e.g., green leaves, roots, woody stem, produces pollen, does not move).\n2.  For each characteristic, describe its function or significance in plant life. \n3.  For each characteristic, explain *why* it classifies the organism as a plant and *not* an animal, demonstrating an understanding of the fundamental differences (e.g., linking green leaves to photosynthesis vs. animal heterotrophy; linking being sessile to making own food vs. animal mobility for hunting/gathering). The explanation must include cause-and-effect reasoning using linking words like 'because' or 'so'.",
+      "hint": "Think about how plants get their food compared to animals, and whether plants typically need to move to survive.",
+      "generatedAt": "2026-04-29T20:09:10.894892"
+    },
+    {
+      "id": "s-y6-living-things_intermediate_010",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A scientist needs to quickly classify an unknown animal into one of the five major vertebrate groups (fish, amphibians, reptiles, birds, mammals). To achieve the most specific initial classification with a single observation, which of the following characteristics should the scientist look for, and why would it be the most effective?",
+      "options": [
+        "A) Observing that the animal has dry, scaly skin. This immediately places it into the reptile group because only reptiles possess this specific type of skin.",
+        "B) Observing that the animal breathes using lungs. This is effective because it excludes fish and allows the scientist to focus on land animals, narrowing down the possibilities.",
+        "C) Observing that the animal has feathers covering its body. This is the most effective because feathers are a unique characteristic found exclusively in birds among all living animals, allowing for immediate and accurate classification.",
+        "D) Observing that the animal is warm-blooded. This is effective because it limits the classification to either mammals or birds, distinguishing them from cold-blooded vertebrates."
+      ],
+      "correctAnswer": "C) Observing that the animal has feathers covering its body. This is the most effective because feathers are a unique characteristic found exclusively in birds among all living animals, allowing for immediate and accurate classification.",
+      "explanation": "The question asks for the 'most specific initial classification with a single observation' into *one* of the five major vertebrate groups.\n\n1.  **Evaluate Option A (Dry, scaly skin):** While dry, scaly skin is a key characteristic of reptiles, it's not absolutely unique in a broader sense (some fish have scales, though structurally different). More importantly, compared to feathers, it's less definitively unique to *one* single major vertebrate group.\n2.  **Evaluate Option B (Breathes using lungs):** Many vertebrate groups (mammals, birds, reptiles, and adult amphibians) breathe using lungs. This observation would only exclude fish, leaving too many possibilities for a 'specific initial classification'.\n3.  **Evaluate Option C (Feathers covering its body):** Feathers are a characteristic that is *unique* to birds among all living animals. No other major vertebrate group possesses feathers. Therefore, observing feathers provides an immediate and definitive classification into the 'birds' group, making it the most specific and effective single observation.\n4.  **Evaluate Option D (Warm-blooded):** Both mammals and birds are warm-blooded. While this observation narrows down the options significantly by excluding cold-blooded vertebrates (fish, amphibians, and reptiles), it still leaves two major groups (mammals or birds), not a 'specific initial classification' into a single group.\n\nTherefore, observing feathers is the most effective single observation for immediate and specific classification into one major vertebrate group because its presence is a defining characteristic found exclusively in birds.",
+      "hint": "Consider which characteristic is found in *only one* of the five major vertebrate groups, making it truly unique for classification.",
+      "generatedAt": "2026-04-29T20:09:35.700432"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y6-living-things_advanced_001",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of explorers discovers a new animal species, which they name the 'Skitterwing'. They observe the following characteristics:\n*   It has a hard outer covering (exoskeleton) and does **not** have a backbone.\n*   Its body is clearly divided into three distinct parts.\n*   It has six jointed legs and two pairs of wings covered in fine scales.\n*   The Skitterwing reproduces by laying many small eggs, which often hatch in water.\n\n**Describe** the animal group that the Skitterwing most likely belongs to, based on these observations.",
+      "options": [
+        "A) Fish",
+        "B) Reptile",
+        "C) Mammal",
+        "D) Insect"
+      ],
+      "correctAnswer": "D) Insect",
+      "explanation": "1.  **'Does not have a backbone'**: This is the first critical characteristic. Animals without a backbone are called invertebrates. This immediately rules out Fish, Reptiles, and Mammals, as these are all vertebrates (animals with backbones).\n2.  **'Hard outer covering (exoskeleton)'**: This feature is typical of arthropods, a large group of invertebrates that includes insects.\n3.  **'Body is clearly divided into three distinct parts'**: The bodies of insects are typically divided into three main sections: the head, thorax, and abdomen.\n4.  **'Six jointed legs'**: This is a defining characteristic of insects.\n5.  **'Two pairs of wings covered in fine scales'**: While not all insects have wings or scales, many do (e.g., butterflies, moths, dragonflies).\n6.  **'Laying many small eggs, often in water'**: Many insects reproduce by laying eggs, and several insect species (such as mosquitoes or dragonflies) lay their eggs in water as part of their life cycle.\n\nBy combining all these specific characteristics (no backbone, exoskeleton, three body parts, six legs, and wings), the Skitterwing clearly fits the description of an **Insect**.",
+      "hint": "Start by identifying if the animal has a backbone or not. Then, consider the number of body parts and legs.",
+      "generatedAt": "2026-04-29T20:09:49.602728"
+    },
+    {
+      "id": "s-y6-living-things_advanced_002",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of scientists is studying different living things in a unique habitat. They have recorded the following observations:\n\n**Creature A:** This animal lives its whole life in cool, freshwater rivers. It has a sleek body covered in tough, overlapping scales. It uses special organs called gills to take in oxygen from the water. It lays its eggs directly into the water, and its young hatch there. Its body temperature changes to match the surrounding water.\n\n**Creature B:** This animal lives on land but often returns to wet places to lay its soft, jelly-like eggs. Its skin is moist and smooth, and it can breathe partly through its skin and partly with simple lungs. Its babies, however, live completely in water and breathe with gills before they change into adults. Its body temperature changes with the environment.\n\n**Plant X:** This organism has strong roots that hold it in the soil and a tall, woody stem. It produces colourful flowers that attract insects. After the flowers, it makes seeds that are protected inside sweet, fleshy fruits.\n\n**Plant Y:** This organism grows on damp forest floors. It has delicate leaves called fronds and a stem that often grows along the ground. It does not produce any flowers or seeds. Instead, it reproduces by releasing tiny, dust-like spores from special spots underneath its fronds.\n\na) State the animal group that Creature A belongs to. (1 mark)\nb) Explain why Creature B is more difficult to classify than Creature A, and into which animal group you would place it. (4 marks)\nc) Describe two differences in reproduction between Plant X and Plant Y that help classify them into different plant groups. (4 marks)\nd) Imagine you find another animal that lives only on land, lays eggs with leathery shells, and and has dry, scaly skin. State the animal group it most likely belongs to. (1 mark)",
+      "options": [],
+      "correctAnswer": "a) Creature A belongs to the **fish** group.\n\nb) Creature B is more difficult to classify than Creature A because its life cycle involves significant changes, and it shows characteristics of living in both water and on land. It starts life breathing with gills in water (like fish) but then develops lungs and skin breathing for land (like some land animals). I would place Creature B in the **amphibian** group. This is because it lays eggs in water and its young live in water with gills, but the adults live on land with moist skin and lungs, which are key characteristics of amphibians.\n\nc) One difference is that Plant X reproduces using **flowers** and **seeds** that are enclosed within fruits, which classifies it as a **flowering plant**. Plant Y, however, reproduces using **spores** and does not have flowers or seeds, classifying it as a **non-flowering plant**. A second difference is that Plant X's reproductive structures (seeds) are protected inside fruits, providing nourishment and dispersal, while Plant Y's spores are tiny, dust-like, and released directly into the environment, relying on wind for dispersal.\n\nd) This animal most likely belongs to the **reptile** group.",
+      "explanation": "a) Creature A has scales, gills for breathing underwater, lays eggs in water, and its body temperature changes with the surroundings, which are all defining characteristics of fish.\n\nb) Creature B is more complex because it undergoes metamorphosis. Its early life (babies with gills in water, jelly-like eggs in water) suggests one group, while its adult life (breathing with lungs/skin on land, moist skin) suggests another. The combination of these characteristics, especially the water-dependent reproduction and larval stage followed by a land-dwelling adult stage, is unique to amphibians. Therefore, the explanation links these specific characteristics to the classification of an amphibian.\n\nc) Plant X's description clearly points to it being a flowering plant due to the presence of flowers and seeds enclosed within fruits. Plant Y's description (no flowers or seeds, reproduction via spores from fronds) points to it being a non-flowering plant, specifically a fern. The answer identifies two distinct differences: first, the presence of flowers/seeds/fruits versus the use of spores; second, the protection and dispersal mechanism of seeds within fruits for Plant X compared to the direct release of unprotected spores for Plant Y.\n\nd) The described characteristics (lives only on land, lays eggs with leathery shells, dry scaly skin) are classic features of reptiles, distinguishing them from amphibians (moist skin, jelly eggs) and mammals/birds (different skin/covering, different reproductive strategies).",
+      "hint": "For Creature B, think about animals that have different life stages, living part of their life in water and part on land. For plants, consider the different structures used for reproduction: flowers, seeds, and spores.",
+      "generatedAt": "2026-04-29T20:10:13.015302"
+    },
+    {
+      "id": "s-y6-living-things_advanced_003",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Dr. Green is studying a newly discovered animal called the 'Squigglefish' found deep in a cave system. She has made the following observations about the Squigglefish:\n\n*   It has a backbone.\n*   It lays soft, jelly-like eggs in water.\n*   Its skin is smooth and moist, with no scales, fur, or feathers.\n*   It has gills when young, allowing it to breathe underwater, but develops simple lungs as an adult and can sometimes be found on damp rocks near the water's edge.\n*   It is cold-blooded.\n\nA) State the major vertebrate group the Squigglefish belongs to. (1 mark)\nB) Describe *two* specific characteristics from the observations that led you to classify the Squigglefish into this group. (2 marks)\nC) Explain why the Squigglefish is *not* classified as a fish, even though it lives in water and has gills when young. (3 marks)",
+      "options": [],
+      "correctAnswer": "A) Amphibian\n\nB) Two specific characteristics from the observations are:\n    *   Its skin is smooth and moist, with no scales, fur, or feathers.\n    *   It has gills when young but develops simple lungs as an adult.\n\nC) The Squigglefish is not classified as a fish because, unlike most fish which typically have scales and breathe with gills for their entire lives, the Squigglefish has smooth skin and develops lungs as an adult. This allows it to live both in water and on land (or near the water's edge), which is a key characteristic of amphibians, showing the cause (lung development/smooth skin) and effect (living on land/water and therefore not a fish).",
+      "explanation": "Part A requires identifying the major vertebrate group. The observations that it has a backbone, lays soft, jelly-like eggs in water, has smooth and moist skin, breathes with gills when young but develops lungs as an adult, and is cold-blooded are all defining characteristics of amphibians.\n\nPart B asks for two specific characteristics from the observations. Its smooth, moist skin (without scales, fur, or feathers) and its metamorphosis from gill-breathing young to lung-breathing adults are highly distinctive features of amphibians.\n\nPart C requires an explanation of why it's not a fish, despite some similarities. While fish live in water and often have gills, they typically have scales and breathe with gills throughout their entire lives. The Squigglefish's lack of scales (smooth skin) and its development of lungs to allow it to breathe air as an adult (living on land) are crucial distinguishing factors that separate it from fish and place it in the amphibian group. The explanation links these specific differences (cause) to the conclusion that it cannot be a fish (effect).",
+      "hint": "Recall the key characteristics of the main vertebrate groups (fish, amphibians, reptiles, birds, mammals). Pay close attention to how each group breathes, what their skin is like, and their habitat.",
+      "generatedAt": "2026-04-29T20:10:34.305590"
+    },
+    {
+      "id": "s-y6-living-things_advanced_004",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Maya is studying different living things in her local park. She uses a simple classification guide to identify animals based on their characteristics.\n\n**Classification Guide:**\n1.  Does it have a backbone?\n    *   Yes → Go to 2\n    *   No → Invertebrate (Go to 3)\n2.  Does it have scales and live only in water?\n    *   Yes → Fish\n    *   No → Go to 4\n3.  Does it have 6 legs and an exoskeleton?\n    *   Yes → Insect\n    *   No → Other Invertebrate\n4.  Does it have feathers?\n    *   Yes → Bird\n    *   No → Go to 5\n5.  Does it have fur/hair and feed its young milk?\n    *   Yes → Mammal\n    *   No → Go to 6\n6.  Does it have moist skin, no scales, and live both in water and on land?\n    *   Yes → Amphibian\n    *   No → Reptile\n\nMaya makes observations about three different creatures:\n*   **Creature X:** Has a backbone, lives only in water, and has scales.\n*   **Creature Y:** Has no backbone, has 6 legs, and has a hard outer shell (exoskeleton).\n*   **Creature Z:** Has a backbone, has feathers, and lays eggs.\n\n**(a) [2 marks]** State the animal group for Creature X and Creature Z according to the classification guide.\n\n**(b) [3 marks]** Describe how Creature Y is classified using the guide, mentioning the key steps it follows and the characteristics used at each step.\n\n**(c) [4 marks]** Maya then observes a 'Sunflower' plant in the park. She knows it has roots, stems, and leaves, and produces bright yellow flowers. Explain why the presence of flowers is a key characteristic for classifying the Sunflower as a 'flowering plant' and what the flowers' main function is in its life cycle.",
+      "options": [],
+      "correctAnswer": "(a) Creature X: Fish\nCreature Z: Bird\n\n(b) To classify Creature Y, Maya starts at step 1: \"Does it have a backbone?\" Creature Y has no backbone, so she goes to step 3 (Invertebrate). At step 3: \"Does it have 6 legs and an exoskeleton?\" Creature Y has 6 legs and a hard outer shell (exoskeleton), so it is classified as an Insect.\n\n(c) The presence of flowers is a key characteristic for classifying a Sunflower as a 'flowering plant' because flowering plants are defined by producing flowers. Flowers are special reproductive structures which contain the plant's reproductive organs. Their main function is to enable reproduction by producing seeds, so the plant can make new plants and continue its life cycle.",
+      "explanation": "**Part (a) State the animal group for Creature X and Creature Z (2 marks):**\n*   **Creature X:** Following the guide:\n    1.  It has a backbone (Yes → Go to 2).\n    2.  It has scales and lives only in water (Yes → Fish). Therefore, Creature X is a **Fish**.\n*   **Creature Z:** Following the guide:\n    1.  It has a backbone (Yes → Go to 2).\n    2.  It does not have scales and live only in water (No → Go to 4).\n    3.  It has feathers (Yes → Bird). Therefore, Creature Z is a **Bird**.\n\n**Part (b) Describe how Creature Y is classified (3 marks):**\n*   Maya starts at **Step 1** of the guide, asking: \"Does it have a backbone?\"\n*   Creature Y has **no backbone**, which directs her to 'Invertebrate' and to **Step 3**.\n*   At **Step 3**, she asks: \"Does it have 6 legs and an exoskeleton?\"\n*   Creature Y has 6 legs and a hard outer shell (exoskeleton), which matches these characteristics.\n*   Therefore, Creature Y is classified as an **Insect**.\n\n**Part (c) Explain why flowers are key for classification and their function (4 marks):**\n*   The presence of flowers is a key characteristic for classifying a Sunflower as a 'flowering plant' **because** flowering plants are specifically defined by their ability to produce these structures. Non-flowering plants (like ferns or mosses) do not produce flowers.\n*   Flowers are the plant's main **reproductive organs** (cause).\n*   Their primary function in the life cycle is to produce **seeds** (effect), which allows the plant to create new plants and continue its species.",
+      "hint": "For parts (a) and (b), carefully follow each step of the provided Classification Guide based on the characteristics of each creature. For part (c), think about what makes a flowering plant 'flowering' and what important job flowers do for the plant's life cycle.",
+      "generatedAt": "2026-04-29T20:10:58.100163"
+    },
+    {
+      "id": "s-y6-living-things_advanced_005",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Chloe is observing living things in a pond habitat. She carefully records some of her observations:\n\n*   **Organism X:** Has moist skin, lives both in water and on land, and lays jelly-covered eggs in water. It has a backbone.\n*   **Organism Y:** Has six legs, a segmented body, and a pair of antennae. It has wings and undergoes metamorphosis. It does not have a backbone.\n*   **Organism Z:** Has green fronds but no flowers. It reproduces using tiny spores found on the underside of its leaves. It makes its own food.\n\n\na) State the animal group that Organism X belongs to. (1 mark)\n\nb) Describe two distinct features of Organism Y that classify it as an insect. (2 marks)\n\nc) Chloe also observes a duck (a bird) near the pond. Explain one important difference between how Organism X (a frog) and the duck (a bird) are adapted to reproduce, and how this difference impacts the survival of their young. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Amphibian (1 mark)\n\nb) Any two from: Has six legs / Has a segmented body / Has antennae / Has wings (2 marks, 1 mark for each distinct feature).\n\nc) Organism X (frog) lays soft, jelly-covered eggs directly into the water (1 mark), **so** the eggs need the water to keep them moist and prevent them from drying out (1 mark). The duck (bird) lays hard-shelled eggs on land, often in a nest (1 mark), **which** protects the embryo inside from drying out and provides a safer environment from water predators (1 mark). This means the frog's young (tadpoles) are more vulnerable to drying out and predation until they hatch, compared to the duck's young which are more protected within their shelled eggs on land.",
+      "explanation": "a) Organism X's description (moist skin, lives on land and water, lays eggs in water, has backbone) aligns perfectly with the characteristics of an amphibian.\nb) Organism Y's description (six legs, segmented body, antennae, wings, metamorphosis, no backbone) includes key defining features of the insect class within invertebrates.\nc) This part requires students to compare reproductive adaptations of an amphibian (frog) and a bird (duck) and link these to the survival of their offspring. The crucial difference lies in where the eggs are laid and the protective features of those eggs, which directly impacts their vulnerability to environmental factors and predators.",
+      "hint": "For part (c), think about the environment where each animal lays its eggs and what specific features of the eggs help or hinder their survival in that environment.",
+      "generatedAt": "2026-04-29T20:11:45.374403"
+    },
+    {
+      "id": "s-y6-living-things_advanced_006",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A young scientist, Dr. Anya, is developing a simple classification system for animals she finds in her garden. Her initial idea is to group animals based solely on two observable characteristics:\n1.  **Has wings?** (Yes/No)\n2.  **Has more than 4 legs?** (Yes/No)\n\nShe considers classifying a **butterfly**, a **spider**, a **cat**, and a **bird** using this system.\n\n**(a) State** the group that both the butterfly and the bird would initially be placed in using Dr. Anya's first characteristic, 'Has wings?'. (1 mark)\n\n**(b) Describe** one problem with Dr. Anya's classification system if she only used the 'Has wings?' characteristic to broadly separate *all* animals. (2 marks)\n\n**(c) Explain** why using only the number of legs or the presence of wings is not a scientifically accurate way to classify animals like the cat, spider, and bird, referring to other important biological characteristics. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) State:** Has wings (or Yes)\n\n**(b) Describe:** One problem is that this system would group together animals that are very different scientifically, simply because they share one visible trait. For example, both a bird (a vertebrate) and a butterfly (an insect) have wings, but they are fundamentally different types of animals. This criterion alone would incorrectly place unrelated animals together and separate closely related ones that lack wings.\n\n**(c) Explain:** Using only external features like the number of legs or the presence of wings is not scientifically accurate **because** it ignores many other fundamental biological characteristics that show how living things are truly related. For instance, a cat is a mammal, meaning it has a backbone (vertebrate), fur, is warm-blooded, and gives birth to live young. A spider is an arachnid, an invertebrate with an exoskeleton and eight legs, and is cold-blooded. A bird, while having wings, is also a vertebrate with feathers and lays eggs. These internal structures (like having a backbone or not), reproductive methods, body coverings (fur, feathers, exoskeleton), and internal body temperature are much more important for scientific classification **so** relying only on legs or wings would incorrectly group vastly different organisms together and fail to show their true evolutionary relationships.",
+      "explanation": "**For (a):** Both butterflies and birds possess wings, so they would be grouped under 'Has wings?' or 'Yes'.\n\n**For (b):** The description must identify a flaw in using a single, broad external characteristic for classification. The core issue is that superficial similarities (like having wings) can exist between very different organisms (e.g., insects and birds), while more fundamental differences are ignored. This leads to scientifically incorrect groupings.\n\n**For (c):** The explanation requires a multi-faceted argument. It needs to contrast the limited utility of external features (legs, wings) with the scientific importance of deeper, biological characteristics. The answer details specific examples for the cat, spider, and bird, highlighting differences in internal structure (vertebrate/invertebrate), body covering, reproduction, and temperature regulation. It uses 'because' to establish the reason for inaccuracy (ignoring fundamental characteristics) and 'so' to explain the consequence (incorrect grouping and failure to show true relationships).",
+      "hint": "Consider what makes animals truly different from each other, beyond just what you can see at a first glance. Think about their internal body structures, how they reproduce, and their body coverings, as these are often used for more scientific classification.",
+      "generatedAt": "2026-04-29T20:12:27.110882"
+    },
+    {
+      "id": "s-y6-living-things_advanced_007",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A student is given information about five different organisms found in various habitats and records their key characteristics:\n\n*   **Organism A:** Has a body covered in hair, gives birth to live young, feeds milk to its offspring, and is warm-blooded.\n*   **Organism B:** Has a hard outer shell (exoskeleton), three main body parts (head, thorax, abdomen), six jointed legs, and a pair of antennae.\n*   **Organism C:** Has a body covered in scales, breathes using gills underwater, has fins for movement, and lays eggs in water.\n*   **Organism D:** Has green leaves, a stem, roots, produces colourful flowers, and reproduces using seeds.\n*   **Organism E:** Has green leaves, a stem, roots, does NOT produce flowers or seeds, and reproduces using tiny spores found on the underside of its leaves.\n\n(a) **State** the specific animal group (e.g., Mammal, Insect, Fish) or plant group (e.g., Flowering Plant, Non-flowering Plant) for each organism.\n    *   Organism A: (1 mark)\n    *   Organism B: (1 mark)\n    *   Organism C: (1 mark)\n    *   Organism D: (1 mark)\n    *   Organism E: (1 mark)\n\n(b) **Describe** two characteristics that Organism D and Organism E have in common, which indicate they are both plants. (2 marks)\n\n(c) **Explain** why Organism B is classified as an insect, using *at least two* of its described characteristics. (3 marks)\n\n(d) **Explain** the primary difference in reproduction between Organism D and Organism E, and how this difference is used to classify them into distinct plant groups. (4 marks)",
+      "options": [],
+      "correctAnswer": {
+        "(a)": "\n*   Organism A: Mammal\n*   Organism B: Insect\n*   Organism C: Fish\n*   Organism D: Flowering Plant\n*   Organism E: Non-flowering Plant (or Fern/Spore-producing plant)",
+        "(b)": "Any two of the following:\n*   Both have green leaves.\n*   Both have a stem.\n*   Both have roots.\n*   Both absorb water and nutrients from the soil.",
+        "(c)": "Organism B is classified as an insect **because** it has a hard outer shell (exoskeleton) and six jointed legs. **So**, these characteristics are defining features of the insect group. (Other characteristics like three main body parts or antennae can also be used to support the explanation).",
+        "(d)": "The primary difference is their method of reproduction. Organism D reproduces using **flowers and seeds**, **so** it is classified as a Flowering Plant. Organism E reproduces using **spores** and does not produce flowers or seeds, **so** it is classified as a Non-flowering Plant (like a fern). This difference in reproductive structures and strategies is a fundamental characteristic used to distinguish and classify different plant groups."
+      },
+      "explanation": "The correct classification and explanations are provided in the model answer. Each part requires the student to apply their knowledge of classification based on observable characteristics. For parts (c) and (d), the explanation must link specific characteristics (cause) to the classification (effect) using appropriate scientific terminology and linking words.",
+      "hint": "For parts (c) and (d), remember to explicitly link the specific characteristics mentioned (the cause) to *why* they lead to a particular classification (the effect) using words like 'because' and 'so'.",
+      "generatedAt": "2026-04-29T20:13:51.422753"
+    },
+    {
+      "id": "s-y6-living-things_advanced_008",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A team of scientists is exploring a newly discovered alien planet and observing various living organisms. They have provided the following descriptions of three distinct organisms they have named Organism X, Organism Y, and Organism Z:\n\n**Organism X:** This creature has a segmented body protected by a hard outer shell. It possesses six jointed legs, two antennae, and wings. It reproduces by laying eggs.\n\n**Organism Y:** This living thing has roots, a stem, and green leaves. It produces brightly coloured structures which contain seeds, allowing it to reproduce.\n\n**Organism Z:** This animal has smooth, moist skin and lays its jelly-like eggs in water. It starts its life breathing with gills in water and later develops lungs to breathe air, spending time both on land and in water.\n\n(a) **State** whether each of Organism X, Organism Y, and Organism Z is primarily classified as a Plant or an Animal. (3 marks)\n\n(b) **Describe** one key characteristic for *each* organism (X, Y, and Z) that directly helped you decide whether it was a Plant or an Animal. (3 marks)\n\n(c) **Explain** why Organism Z is classified as an Amphibian, referring to *at least two* of its unique characteristics. (4 marks)\n\n(d) **Imagine** another living thing, called a 'Sporeleaf', which has roots, stems, and leaves but reproduces using tiny spores found on the underside of its leaves, not seeds or colourful structures. **Explain** the main difference in classification between Organism Y and the Sporeleaf, linking it to their method of reproduction. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) \nOrganism X: Animal\nOrganism Y: Plant\nOrganism Z: Animal\n\n(b) \nOrganism X: Has a segmented body, jointed legs, and wings (features of an animal, specifically an invertebrate insect).\nOrganism Y: Has roots, stem, and leaves, and produces seeds (features of a plant, specifically a flowering plant).\nOrganism Z: Has smooth skin, breathes with gills when young and lungs as adult (features of an animal, specifically an amphibian).\n\n(c) Organism Z is classified as an Amphibian **because** it has a unique life cycle that involves metamorphosis, **so** it starts its life in water breathing with gills and then develops lungs to breathe air as an adult, spending time both on land and in water. Additionally, it has smooth, moist skin and lays jelly-like eggs in water, which are characteristic features of amphibians.\n\n(d) Organism Y is classified as a Flowering Plant **because** it reproduces using seeds that are contained within colourful structures (like flowers or fruits). The 'Sporeleaf' would be classified as a Non-Flowering Plant (similar to a fern) **because** it reproduces using tiny spores found on its leaves instead of seeds. The main difference in their classification stems from their method of reproduction: Organism Y uses seeds, while the Sporeleaf uses spores.",
+      "explanation": "This question requires students to apply their knowledge of plant and animal characteristics to classify unfamiliar organisms. They must be able to identify key features such as body structure (segmented, exoskeleton, roots, stem, leaves), reproductive methods (eggs, seeds, spores), and life cycles (gills/lungs, metamorphosis). For 'Explain' questions, students need to clearly link the observed characteristics to the classification group using cause-and-effect reasoning (e.g., 'because' or 'so'). The final part specifically challenges them to differentiate between types of plants based on their reproductive strategies.",
+      "hint": "When classifying living things, carefully observe their body covering, the number of legs they have (if any), how they reproduce (seeds, spores, eggs, live young), and whether they have roots, stems, and leaves. Also, consider where they live during different stages of their life cycle.",
+      "generatedAt": "2026-04-29T20:14:17.921578"
+    },
+    {
+      "id": "s-y6-living-things_advanced_009",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Dr. Anya is exploring the Mariana Trench and discovers an unknown deep-sea organism she calls \"Mariana Lurker.\" She records the following unique characteristics:\n*   It has a hard outer casing (exoskeleton) for protection.\n*   It possesses five pairs of jointed legs.\n*   Its body is segmented, and it has antennae for sensing.\n*   It lacks a backbone (it is an invertebrate).\n*   It extracts oxygen from the water using specialized feathery gills.\n*   It reproduces by laying numerous small eggs in the surrounding water.\n\nBased on Dr. Anya's detailed observations, which invertebrate group does the \"Mariana Lurker\" most accurately belong to?",
+      "options": [
+        "A) Molluscs",
+        "B) Insects",
+        "C) Fish",
+        "D) Crustaceans"
+      ],
+      "correctAnswer": "D) Crustaceans",
+      "explanation": "To determine the correct classification, we must carefully consider all the provided characteristics:\n\n1.  **State** that the \"Mariana Lurker\" has a hard outer casing (exoskeleton), jointed legs, segmented body, and antennae. These characteristics are defining features of the broader group known as arthropods.\n2.  **Describe** that it lacks a backbone, which confirms it is an invertebrate, eliminating options like Fish (C) as fish are vertebrates.\n3.  **Explain** why it is not a Mollusc (A): Molluscs typically have soft bodies, often protected by a single shell (like snails or clams), or an internal shell, and do not possess an exoskeleton or jointed legs.\n4.  **Explain** why it is not an Insect (B): While insects are arthropods and have an exoskeleton, segmented bodies, and jointed legs, they typically have three pairs of legs, breathe using spiracles on land, and are primarily terrestrial. The \"Mariana Lurker\" has five pairs of jointed legs and breathes with gills in water.\n5.  **Describe** that the presence of a hard exoskeleton, five pairs of jointed legs, a segmented body, antennae, gills for breathing in water, and laying eggs in water are all specific and defining characteristics of crustaceans (e.g., crabs, lobsters, shrimp). This combination of features strongly points to Crustaceans.\n\nTherefore, based on all the evidence, the \"Mariana Lurker\" is most accurately classified as a Crustacean.",
+      "hint": "Focus on the specific combination of 'hard outer casing', 'number of jointed legs', and 'method of breathing and habitat' to distinguish between the invertebrate groups.",
+      "generatedAt": "2026-04-29T20:14:38.330817"
+    },
+    {
+      "id": "s-y6-living-things_advanced_010",
+      "topicId": "s-y6-living-things",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A team of explorers discovers two new types of organisms on a remote island. They provide the following observations:\n\n**Organism X: The Gleamwing**\nThe Gleamwing is a small creature with iridescent wings, allowing it to fly quickly between trees. It actively hunts and consumes smaller insects using its sharp mouthparts. Scientists observed it laying tiny eggs in damp soil. Microscopic examination of its cells showed that they do not have a rigid outer layer.\n\n**Organism Y: The Rootstrider**\nThe Rootstrider is firmly anchored to the ground by a network of roots. It has broad, flat, green structures that spread out to absorb sunlight. Scientists confirmed that it produces its own food using sunlight, water, and carbon dioxide. Its cells are surrounded by a strong, rigid outer layer.\n\n**(a) State the classification of Organism X (Gleamwing) as either a 'Plant' or an 'Animal'.** (1 mark)\n\n**(b) Describe two specific characteristics from the observations that led you to classify Organism X in part (a).** (2 marks)\n\n**(c) Explain why the presence or absence of a rigid outer layer around cells (like a cell wall) is a crucial characteristic for classifying Organisms X and Y.** (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) Animal\n\n(b) Two from: It can fly quickly; it actively hunts and consumes smaller insects; it uses sharp mouthparts; it lays eggs in soil; its cells do not have a rigid outer layer.\n(Award 1 mark for each correct, distinct characteristic. For example: 'It flies and hunts insects' (1 mark) and 'Its cells lack a rigid outer layer' (1 mark).)\n\n(c) The rigid outer layer (cell wall) is crucial because in plants (like Organism Y), it provides structural support *so that* they can grow tall and stand upright to reach sunlight, as they do not have skeletons. (1-2 marks for linking cell wall to plant support/sunlight). Animals (like Organism X) do not have this rigid outer layer *because* they need to be flexible and able to move freely and quickly to hunt for food or escape predators. (1-2 marks for linking absence of cell wall to animal flexibility/movement).\n(Full credit requires explaining both the presence and absence of the rigid outer layer with a clear cause-and-effect link to the organism's lifestyle/survival strategy.)",
+      "explanation": "This question requires students to apply their understanding of plant and animal characteristics to unfamiliar organisms, moving beyond simple recall. \n\n**(a) Classification of Organism X:** The Gleamwing exhibits key animal characteristics such as active movement (flies quickly), heterotrophic feeding (hunts and consumes insects), and reproduction via eggs. Its lack of a rigid cell wall further supports its classification as an animal.\n\n**(b) Describing Characteristics:** Students need to extract specific details from the provided text that align with animal classification. For instance, 'flies quickly' and 'hunts and consumes smaller insects' demonstrate movement and obtaining food from other organisms. 'Lays tiny eggs' indicates animal reproduction, and 'cells showed that they do not have a rigid outer layer' is a fundamental cellular distinction.\n\n**(c) Explaining the Importance of the Cell Wall:** This part demands a deeper 'explain' response, requiring students to link the structural feature (presence/absence of a rigid outer layer/cell wall) to the functional needs and lifestyle of plants and animals. \n\n*   **For plants (like Organism Y):** The rigid cell wall provides essential structural support, allowing them to maintain their shape, grow upright, and reach for sunlight without a skeleton. This is crucial for photosynthesis.\n*   **For animals (like Organism X):** The absence of a rigid cell wall provides flexibility, which is vital for movement, hunting, and escaping danger. Animals rely on their ability to move to find food and shelter, making cell wall absence a necessary adaptation for their lifestyle.\n\nStudents must demonstrate cause-and-effect reasoning ('because' or 'so') to fully explain the crucial role of this characteristic in classification.",
+      "hint": "For part (c), consider how the presence or absence of a rigid outer layer around cells affects an organism's ability to move and how it obtains its food and energy.",
+      "generatedAt": "2026-04-29T20:15:00.112193"
+    }
+  ]
+}

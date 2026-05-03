@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y8-3d-geometry_beginner_001",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A solid rectangular prism has a length of 6 cm, a width of 4 cm, and a height of 3 cm. Calculate its volume.",
+      "options": [
+        "13 cm³",
+        "24 cm³",
+        "72 cm³",
+        "60 cm³"
+      ],
+      "correctAnswer": "72 cm³",
+      "explanation": "The volume of a rectangular prism is found by multiplying its length, width, and height. \nVolume = Length × Width × Height\nVolume = 6 cm × 4 cm × 3 cm\nVolume = 24 cm² × 3 cm\nVolume = 72 cm³",
+      "hint": "To find the volume of a rectangular prism, you need to multiply its three dimensions together.",
+      "generatedAt": "2026-04-30T12:47:52.023908"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_002",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A triangular prism has a cross-section which is a right-angled triangle. The two perpendicular sides of the triangular cross-section measure 3 cm and 4 cm. The length of the prism is 10 cm. Calculate the volume of this triangular prism.",
+      "options": [
+        "60 cm³",
+        "120 cm³",
+        "17 cm³",
+        "240 cm³"
+      ],
+      "correctAnswer": "60 cm³",
+      "explanation": "1. First, calculate the area of the triangular cross-section. For a right-angled triangle, the area is (1/2) × base × height.\n   Area of triangle = (1/2) × 3 cm × 4 cm = (1/2) × 12 cm² = 6 cm².\n2. Next, calculate the volume of the prism. The volume of any prism is the area of its cross-section multiplied by its length.\n   Volume = Area of cross-section × Length\n   Volume = 6 cm² × 10 cm = 60 cm³.",
+      "hint": "Remember the formula for the area of a right-angled triangle and how to use this area to find the volume of a prism.",
+      "generatedAt": "2026-04-30T12:48:04.052186"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_003",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A solid block of wood is in the shape of a cube. Each edge of the cube has a length of 6 cm. Calculate the volume of this block of wood.",
+      "options": [
+        "18 cm³",
+        "36 cm³",
+        "216 cm³",
+        "108 cm³"
+      ],
+      "correctAnswer": "216 cm³",
+      "explanation": "To calculate the volume of a cube, you multiply the length of one edge by itself three times (edge × edge × edge).\nIn this question, the length of each edge is 6 cm.\nVolume = 6 cm × 6 cm × 6 cm\nVolume = 36 cm² × 6 cm\nVolume = 216 cm³",
+      "hint": "Recall the formula for the volume of a cube. It involves multiplying the side length by itself three times.",
+      "generatedAt": "2026-04-30T12:48:11.165489"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_004",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A solid cylinder has a circular base with a radius of 5 cm. The height of the cylinder is 10 cm. Calculate the volume of the cylinder. Give your answer in cm³ to one decimal place. You must show your working.",
+      "options": [],
+      "correctAnswer": "The formula for the volume of a cylinder is V = πr²h.\nGiven values:\nRadius (r) = 5 cm\nHeight (h) = 10 cm\n\nSubstitute the values into the formula:\nV = π × (5 cm)² × 10 cm\nV = π × 25 cm² × 10 cm\nV = 250π cm³\n\nUsing a calculator for π (approximately 3.14159):\nV ≈ 250 × 3.14159\nV ≈ 785.398 cm³\n\nRounding to one decimal place:\nV ≈ 785.4 cm³\n\nTherefore, the volume of the cylinder is 785.4 cm³.",
+      "explanation": "This question requires the application of the formula for the volume of a cylinder, which is V = πr²h. Students need to correctly identify the radius and height from the given text and substitute them into the formula. The final step involves calculating the numerical value using π and rounding the answer to the specified decimal place.",
+      "hint": "Remember the formula for the volume of a cylinder involves pi, the radius, and the height. The volume is calculated by multiplying the area of the circular base by the height.",
+      "generatedAt": "2026-04-30T12:48:21.444515"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_005",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A prism has a uniform cross-section that is a right-angled triangle. The lengths of the two sides that form the right angle are 6 cm and 8 cm. What is the area of this triangular cross-section?",
+      "options": [
+        "24 cm²",
+        "48 cm²",
+        "14 cm²",
+        "10 cm²"
+      ],
+      "correctAnswer": "24 cm²",
+      "explanation": "The area of a right-angled triangle is calculated using the formula: Area = (1/2) × base × height. \nIn a right-angled triangle, the two sides that form the right angle can be considered as the base and the height. \nGiven: \nBase = 6 cm \nHeight = 8 cm \nArea = (1/2) × 6 cm × 8 cm \nArea = (1/2) × 48 cm² \nArea = 24 cm²",
+      "hint": "Remember how to calculate the area of a right-angled triangle using its two perpendicular sides.",
+      "generatedAt": "2026-04-30T12:48:35.007559"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_006",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A decorative concrete barrier is in the shape of a prism. Its uniform cross-section is a trapezium. The parallel sides of the trapezium are 6 cm and 10 cm long, and the perpendicular distance between these parallel sides is 5 cm. The length of the concrete barrier is 20 cm. What is the volume of the concrete barrier?",
+      "options": [
+        "40 cm³",
+        "800 cm³",
+        "1000 cm³",
+        "1600 cm³"
+      ],
+      "correctAnswer": "800 cm³",
+      "explanation": "Step 1: Calculate the area of the trapezium cross-section.\nThe formula for the area of a trapezium is A = 0.5 × (a + b) × h, where 'a' and 'b' are the lengths of the parallel sides and 'h' is the perpendicular distance between them.\nGiven: a = 6 cm, b = 10 cm, h = 5 cm.\nArea of cross-section = 0.5 × (6 cm + 10 cm) × 5 cm\nArea of cross-section = 0.5 × 16 cm × 5 cm\nArea of cross-section = 8 cm × 5 cm = 40 cm².\n\nStep 2: Calculate the volume of the prism.\nThe formula for the volume of any prism is V = Area of cross-section × Length.\nGiven: Area of cross-section = 40 cm², Length = 20 cm.\nVolume = 40 cm² × 20 cm\nVolume = 800 cm³.",
+      "hint": "First, find the area of the trapezium cross-section. Then, use the formula for the volume of a prism.",
+      "generatedAt": "2026-04-30T12:48:52.399690"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_007",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A rectangular prism has a length of 8 cm, a width of 3 cm, and a height of 2 cm. Calculate the volume of the rectangular prism.",
+      "options": [
+        "13 cm³",
+        "24 cm³",
+        "48 cm³",
+        "16 cm³"
+      ],
+      "correctAnswer": "48 cm³",
+      "explanation": "To find the volume of a rectangular prism, you multiply its length, width, and height together.\nVolume = Length × Width × Height\nVolume = 8 cm × 3 cm × 2 cm\nVolume = 24 cm² × 2 cm\nVolume = 48 cm³",
+      "hint": "Remember the formula for the volume of a rectangular prism involves multiplying its three dimensions.",
+      "generatedAt": "2026-04-30T12:52:58.725177"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_008",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A gift box has a uniform square base. Each side of the square base measures 6 cm. The height of the gift box is 12 cm. What is the area of one of the rectangular faces that makes up the sides of the box?",
+      "options": [
+        "36 cm²",
+        "48 cm²",
+        "72 cm²",
+        "144 cm²"
+      ],
+      "correctAnswer": "72 cm²",
+      "explanation": "The gift box is a square-based prism. The base is a square with sides of 6 cm. The height of the box is 12 cm. The side faces of the box are rectangles. Each rectangular face has a width equal to the side of the square base (6 cm) and a height equal to the height of the box (12 cm). To find the area of one of these rectangular faces, multiply its width by its height: Area = 6 cm × 12 cm = 72 cm².",
+      "hint": "Consider the dimensions (length and width) of just one of the rectangular faces on the side of the box.",
+      "generatedAt": "2026-04-30T12:53:14.101754"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_009",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A prism has a uniform cross-section that is a pentagon. Each side of the pentagon measures 7 cm. The length of the prism is 15 cm. What is the perimeter of the uniform cross-section?",
+      "options": [
+        "35 cm",
+        "22 cm",
+        "105 cm",
+        "70 cm"
+      ],
+      "correctAnswer": "35 cm",
+      "explanation": "1. Identify the shape of the uniform cross-section: It is a pentagon.\n2. Recall the properties of a pentagon: A pentagon has 5 sides.\n3. The length of each side of the pentagon is given as 7 cm.\n4. To find the perimeter, multiply the number of sides by the length of each side: 5 sides * 7 cm/side = 35 cm.\n5. The length of the prism (15 cm) is extra information not needed to calculate the perimeter of the cross-section.",
+      "hint": "Think about how many sides a pentagon has and how the perimeter of any polygon is calculated.",
+      "generatedAt": "2026-04-30T12:53:27.830634"
+    },
+    {
+      "id": "m-y8-3d-geometry_beginner_010",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A solid cube has a side length of 4 cm. What is its total volume?",
+      "options": [
+        "A) 12 cm³",
+        "B) 16 cm³",
+        "C) 64 cm³",
+        "D) 96 cm³"
+      ],
+      "correctAnswer": "C) 64 cm³",
+      "explanation": "The volume of a cube is calculated by multiplying its side length by itself three times (side length × side length × side length). \n\nFor this cube, the side length is 4 cm. \n\nVolume = 4 cm × 4 cm × 4 cm \nVolume = 16 cm² × 4 cm \nVolume = 64 cm³\n\nThe correct unit for volume is cubic centimetres (cm³).",
+      "hint": "To find the volume of a cube, you need to use the formula: Volume = side length³.",
+      "generatedAt": "2026-04-30T12:53:37.908676"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y8-3d-geometry_intermediate_001",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A rectangular container has a length of 10 cm, a width of 8 cm, and a height of 10 cm. It is completely filled with water. This water is then poured into an empty cylindrical container with a radius of 5 cm. Calculate the height of the water in the cylindrical container. Give your answer to one decimal place. Show your working.",
+      "options": [
+        "10.2 cm",
+        "5.1 cm",
+        "32.0 cm",
+        "25.5 cm"
+      ],
+      "correctAnswer": "10.2 cm",
+      "explanation": "Step 1: Calculate the volume of water in the rectangular container.\nThe volume of a rectangular prism (cuboid) is given by the formula: Volume = Length × Width × Height.\nVolume = 10 cm × 8 cm × 10 cm = 800 cm³.\n\nStep 2: Use the calculated volume of water to find the height in the cylindrical container.\nThe volume of the cylindrical container is given by the formula: Volume = π × radius² × height.\nWe know the volume of water is 800 cm³ (since it was transferred from the rectangular container), and the radius of the cylindrical container is 5 cm.\nSo, 800 = π × (5 cm)² × height\n800 = π × 25 cm² × height\n\nTo find the height, rearrange the formula:\nheight = 800 / (25π)\nheight = 32 / π\n\nUsing a calculator value for π (approximately 3.14159...):\nheight ≈ 32 / 3.14159 ≈ 10.1859 cm\n\nStep 3: Round the answer to one decimal place.\nheight ≈ 10.2 cm",
+      "hint": "First, calculate the volume of the rectangular container. This volume will be the same as the volume of water in the cylindrical container. Then, use the formula for the volume of a cylinder (V = πr²h) to find the height.",
+      "generatedAt": "2026-04-30T12:53:55.217278"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_002",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid prism has a base which is a right-angled triangle. One of the shorter sides of the triangular base measures 5 cm, and the hypotenuse of the triangular base measures 13 cm. The length (height) of the prism is 10 cm.\n\nCalculate the volume of the prism. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the missing side of the right-angled triangular base.\nLet the unknown shorter side be 'x'. Using the Pythagorean theorem (a² + b² = c²):\n5² + x² = 13²\n25 + x² = 169\nx² = 169 - 25\nx² = 144\nx = √144\nx = 12 cm\n\nStep 2: Calculate the area of the triangular base.\nArea of a triangle = (1/2) × base × height\nArea = (1/2) × 5 cm × 12 cm\nArea = (1/2) × 60 cm²\nArea = 30 cm²\n\nStep 3: Calculate the volume of the prism.\nVolume of a prism = Area of base × length of prism\nVolume = 30 cm² × 10 cm\nVolume = 300 cm³",
+      "explanation": "To find the volume of a prism, you need to multiply the area of its base by its length. In this problem, the base is a right-angled triangle where one of the shorter sides and the hypotenuse are given. The first step is to use the Pythagorean theorem (a² + b² = c²) to find the length of the missing shorter side of the triangle. Once you have both shorter sides, you can calculate the area of the triangular base using the formula (1/2 × base × height). Finally, multiply this base area by the given length of the prism to get the total volume.",
+      "hint": "First, use the Pythagorean theorem to find the length of the unknown side of the right-angled triangular base. Then, calculate the area of that triangle, and finally, use the formula for the volume of a prism.",
+      "generatedAt": "2026-04-30T12:54:08.566820"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_003",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A fish tank is shaped like a rectangular prism. Its internal length is 60 cm, its internal width is 30 cm, and its internal height is 40 cm. The tank is filled with water to 80% of its total capacity. Calculate the volume of water, in litres, currently in the tank. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total volume of the tank.\nVolume = length × width × height\nVolume = 60 cm × 30 cm × 40 cm\nVolume = 72000 cm³\n\nStep 2: Calculate 80% of the total volume.\nVolume of water = 0.80 × 72000 cm³\nVolume of water = 57600 cm³\n\nStep 3: Convert the volume from cubic centimetres to litres.\nKnowing that 1000 cm³ = 1 litre:\nVolume of water in litres = 57600 cm³ / 1000 cm³/litre\nVolume of water = 57.6 litres\n\nFinal Answer: The volume of water in the tank is 57.6 litres.",
+      "explanation": "The problem requires calculating the volume of a rectangular prism, finding a percentage of that volume, and then converting the units. First, use the formula V = l × w × h to find the total capacity of the tank in cubic centimetres. Then, multiply this total volume by 0.80 (for 80%) to find the volume of water. Finally, divide the result by 1000 because there are 1000 cubic centimetres in 1 litre.",
+      "hint": "First, calculate the total volume of the rectangular prism in cubic centimetres. Then, find 80% of this volume. Remember that 1000 cubic centimetres is equal to 1 litre.",
+      "generatedAt": "2026-04-30T12:54:18.480035"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_004",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid metal block is shaped like a rectangular prism with a length of 20 cm, a width of 15 cm, and a height of 10 cm. A cylindrical hole with a radius of 2 cm is drilled completely through the block. The hole starts at the centre of one of the 15 cm by 10 cm faces and goes through to the centre of the opposite 15 cm by 10 cm face. \n\nCalculate the volume of the remaining material in the block. Show your working clearly. Use π = 3.14. Give your answer to one decimal place.",
+      "options": [
+        "A: 2748.8 cm³",
+        "B: 2874.4 cm³",
+        "C: 2811.6 cm³",
+        "D: 3000.0 cm³"
+      ],
+      "correctAnswer": "A: 2748.8 cm³",
+      "explanation": "1.  **Calculate the volume of the rectangular prism:**\n    *   Length = 20 cm, Width = 15 cm, Height = 10 cm\n    *   Volume of prism = Length × Width × Height\n    *   Volume of prism = 20 cm × 15 cm × 10 cm = 3000 cm³\n\n2.  **Determine the dimensions of the cylindrical hole:**\n    *   The hole is drilled from one 15 cm by 10 cm face to the opposite 15 cm by 10 cm face. This means the *height* (or length) of the cylindrical hole is equal to the *length* of the rectangular prism, which is 20 cm.\n    *   Radius of the cylindrical hole = 2 cm.\n\n3.  **Calculate the volume of the cylindrical hole:**\n    *   Volume of cylinder = π × radius² × height\n    *   Using π = 3.14, radius = 2 cm, height = 20 cm\n    *   Volume of cylinder = 3.14 × (2 cm)² × 20 cm\n    *   Volume of cylinder = 3.14 × 4 cm² × 20 cm\n    *   Volume of cylinder = 3.14 × 80 cm³ = 251.2 cm³\n\n4.  **Calculate the volume of the remaining material:**\n    *   Volume remaining = Volume of prism - Volume of cylindrical hole\n    *   Volume remaining = 3000 cm³ - 251.2 cm³\n    *   Volume remaining = 2748.8 cm³\n\nTherefore, the volume of the remaining material in the block is 2748.8 cm³.",
+      "hint": "First, calculate the volume of the entire rectangular prism. Next, carefully identify the height of the cylindrical hole based on how it's drilled through the block, then calculate its volume. Finally, subtract the volume of the hole from the volume of the prism.",
+      "generatedAt": "2026-04-30T12:54:34.667300"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_005",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid container is constructed from two parts. The bottom part is a rectangular prism with a length of 70 cm, a width of 40 cm, and a height of 50 cm. The top part is a cylinder which is placed centrally on top of the rectangular prism. The cylinder has a height of 30 cm and its circular base has a diameter of 40 cm. Calculate the total volume of the container. Give your answer in cubic centimetres, rounded to 3 significant figures. You must show your working. (Use π = 3.142)",
+      "options": [],
+      "correctAnswer": "To find the total volume, we need to calculate the volume of the rectangular prism and the volume of the cylinder separately, and then add them together.\n\n**Step 1: Calculate the volume of the rectangular prism.**\nVolume of a rectangular prism = Length × Width × Height\nVolume_prism = 70 cm × 40 cm × 50 cm\nVolume_prism = 140,000 cm³\n\n**Step 2: Calculate the volume of the cylinder.**\nThe diameter of the cylinder's base is given as 40 cm. Therefore, the radius (r) is half of the diameter.\nRadius (r) = 40 cm / 2 = 20 cm.\nThe height (h) of the cylinder is 30 cm.\nVolume of a cylinder = π × radius² × height\nVolume_cylinder = 3.142 × (20 cm)² × 30 cm\nVolume_cylinder = 3.142 × 400 cm² × 30 cm\nVolume_cylinder = 3.142 × 12,000 cm³\nVolume_cylinder = 37,704 cm³\n\n**Step 3: Calculate the total volume of the container.**\nTotal Volume = Volume_prism + Volume_cylinder\nTotal Volume = 140,000 cm³ + 37,704 cm³\nTotal Volume = 177,704 cm³\n\n**Step 4: Round the total volume to 3 significant figures.**\n177,704 cm³ rounded to 3 significant figures is 178,000 cm³.\n\nTherefore, the total volume of the container is 178,000 cm³.",
+      "explanation": "The problem requires calculating the volume of a composite 3D shape. This involves breaking the shape down into its simpler components (a rectangular prism and a cylinder), calculating the volume of each component using the appropriate formula, and then summing these volumes to find the total. Finally, the result must be rounded to the specified number of significant figures.",
+      "hint": "First, identify the two distinct 3D shapes that make up the container. Then, recall the formula for the volume of a rectangular prism and the formula for the volume of a cylinder. Remember that the radius of the cylinder is half of its diameter.",
+      "generatedAt": "2026-04-30T12:54:49.280670"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_006",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid metal block is shaped like a rectangular prism with a length of 15 cm, a width of 10 cm, and a height of 8 cm. A cylindrical hole is drilled completely through the block, from the centre of one 15 cm by 10 cm face to the centre of the opposite 15 cm by 10 cm face. The cylindrical hole has a radius of 3 cm. Calculate the volume of the remaining metal block. Give your answer to one decimal place. (You must show all your working).",
+      "options": [],
+      "correctAnswer": "To find the volume of the remaining metal block, we first calculate the volume of the original rectangular prism and then subtract the volume of the cylindrical hole.\n\n1.  **Calculate the volume of the rectangular prism:**\n    Volume of rectangular prism = length × width × height\n    Volume = 15 cm × 10 cm × 8 cm\n    Volume = 1200 cm³\n\n2.  **Calculate the volume of the cylindrical hole:**\n    The cylindrical hole is drilled through the 15 cm by 10 cm face, so its height is the height of the prism, which is 8 cm.\n    Volume of cylinder = π × radius² × height\n    Volume = π × (3 cm)² × 8 cm\n    Volume = π × 9 cm² × 8 cm\n    Volume = 72π cm³\n    Using π ≈ 3.14159...\n    Volume ≈ 72 × 3.14159...\n    Volume ≈ 226.19467... cm³\n\n3.  **Calculate the volume of the remaining metal block:**\n    Volume of remaining block = Volume of rectangular prism - Volume of cylindrical hole\n    Volume = 1200 cm³ - 226.19467... cm³\n    Volume = 973.80532... cm³\n\n4.  **Round the answer to one decimal place:**\n    Volume ≈ 973.8 cm³\n\nTherefore, the volume of the remaining metal block is 973.8 cm³.",
+      "explanation": "This problem requires two main steps: calculating the volume of the original solid and the volume of the part that is removed, then subtracting the latter from the former.\n\nFirst, calculate the volume of the rectangular prism using the formula: Volume = length × width × height.\n\nSecond, determine the dimensions of the cylindrical hole. The height of the cylinder will be the same as the height of the prism through which it is drilled. Calculate the volume of the cylinder using the formula: Volume = π × radius² × height.\n\nFinally, subtract the volume of the cylindrical hole from the volume of the rectangular prism to find the volume of the remaining metal block. Remember to round your final answer to one decimal place as requested.",
+      "hint": "Identify the two main 3D shapes involved in this problem (the original block and the hole) and recall their respective volume formulas. Think about how removing the hole affects the total volume.",
+      "generatedAt": "2026-04-30T12:55:05.005967"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_007",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid block is shaped like a triangular prism. The cross-section of the prism is a right-angled triangle with the two shorter sides measuring 6 cm and 8 cm. The length of the prism is 15 cm. Calculate the total surface area of this solid block. Show your working.",
+      "options": [
+        "360 cm²",
+        "258 cm²",
+        "408 cm²",
+        "384 cm²"
+      ],
+      "correctAnswer": "408 cm²",
+      "explanation": "1.  **Calculate the area of the two triangular bases:**\n    The base is a right-angled triangle with shorter sides 6 cm and 8 cm.\n    Area of one triangle = (1/2) * base * height = (1/2) * 6 cm * 8 cm = 24 cm².\n    Area of two triangular bases = 2 * 24 cm² = 48 cm².\n\n2.  **Calculate the length of the hypotenuse of the triangular base:**\n    Using Pythagoras' theorem: a² + b² = c²\n    6² + 8² = c²\n    36 + 64 = c²\n    100 = c²\n    c = √100 = 10 cm.\n\n3.  **Calculate the area of the three rectangular faces:**\n    The length of the prism is 15 cm.\n    -   First rectangular face: 6 cm * 15 cm = 90 cm².\n    -   Second rectangular face: 8 cm * 15 cm = 120 cm².\n    -   Third rectangular face (using the hypotenuse): 10 cm * 15 cm = 150 cm².\n\n4.  **Calculate the total surface area:**\n    Total Surface Area = (Area of two triangular bases) + (Area of three rectangular faces)\n    Total Surface Area = 48 cm² + 90 cm² + 120 cm² + 150 cm²\n    Total Surface Area = 408 cm².",
+      "hint": "To find the total surface area of a prism, you need to calculate the area of all its faces. For a triangular prism, this includes the two triangular bases and the three rectangular side faces. Remember to use Pythagoras' theorem if necessary to find any missing side lengths of the triangular base.",
+      "generatedAt": "2026-04-30T12:55:24.602660"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_008",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid block of concrete is shaped like a cylinder with a radius of 10 cm and a height of 30 cm. A cylindrical hole with a radius of 4 cm is drilled completely through the centre of the block, from top to bottom. Calculate the volume of concrete remaining in the block, in cm³. Use π = 3.14. Show your working.",
+      "options": [
+        "A) 7912.8 cm³",
+        "B) 9420 cm³",
+        "C) 1507.2 cm³",
+        "D) 10927.2 cm³"
+      ],
+      "correctAnswer": "A) 7912.8 cm³",
+      "explanation": "Step 1: Calculate the volume of the large cylinder.\nVolume of a cylinder = π × radius² × height\nVolume_large = 3.14 × (10 cm)² × 30 cm\nVolume_large = 3.14 × 100 cm² × 30 cm\nVolume_large = 3.14 × 3000 cm³\nVolume_large = 9420 cm³\n\nStep 2: Calculate the volume of the cylindrical hole.\nVolume_hole = 3.14 × (4 cm)² × 30 cm\nVolume_hole = 3.14 × 16 cm² × 30 cm\nVolume_hole = 3.14 × 480 cm³\nVolume_hole = 1507.2 cm³\n\nStep 3: Subtract the volume of the hole from the volume of the large cylinder to find the remaining volume.\nRemaining Volume = Volume_large - Volume_hole\nRemaining Volume = 9420 cm³ - 1507.2 cm³\nRemaining Volume = 7912.8 cm³",
+      "hint": "First, find the volume of the outer cylinder. Then, find the volume of the cylindrical hole. Finally, consider how these two volumes relate to the amount of concrete remaining.",
+      "generatedAt": "2026-04-30T12:55:41.792734"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_009",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid cylindrical metal block has a radius of 10 cm and a height of 20 cm. A smaller cylindrical hole, with a radius of 4 cm, is drilled completely through the centre of the block, running parallel to the main axis. The metal has a density of 8 grams per cubic centimetre. Calculate the mass of the remaining metal block, in grams, giving your answer to one decimal place. Show your working.",
+      "options": [
+        "A) 42223.0 g",
+        "B) 50265.5 g",
+        "C) 8042.5 g",
+        "D) 5277.9 g"
+      ],
+      "correctAnswer": "A) 42223.0 g",
+      "explanation": "1. Calculate the volume of the large cylindrical block:\n   Radius (R) = 10 cm, Height (H) = 20 cm\n   Volume_large = πR²H = π * (10)² * 20 = 2000π cm³\n\n2. Calculate the volume of the cylindrical hole:\n   Radius (r) = 4 cm, Height (h) = 20 cm (the hole goes completely through the block)\n   Volume_hole = πr²h = π * (4)² * 20 = π * 16 * 20 = 320π cm³\n\n3. Calculate the volume of the remaining metal:\n   Volume_remaining = Volume_large - Volume_hole = 2000π - 320π = 1680π cm³\n\n4. Calculate the mass of the remaining metal using the density formula (Mass = Density × Volume):\n   Density = 8 g/cm³\n   Mass = 8 * 1680π grams\n   Mass = 13440π grams\n\n5. Using a calculator value for π (approx. 3.14159):\n   Mass ≈ 13440 * 3.14159265...\n   Mass ≈ 42223.018... grams\n\n6. Round the mass to one decimal place:\n   Mass ≈ 42223.0 g",
+      "hint": "First, calculate the volume of the original block and the volume of the drilled hole. Then, find the volume of the metal remaining. Finally, use the density to calculate the mass.",
+      "generatedAt": "2026-04-30T12:56:00.253225"
+    },
+    {
+      "id": "m-y8-3d-geometry_intermediate_010",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A solid rectangular block of wood has a length of 20 cm, a width of 15 cm, and a height of 10 cm. A cylindrical hole is drilled completely through the block, running from one of the 15 cm by 10 cm faces to the opposite 15 cm by 10 cm face. The cylindrical hole has a radius of 3 cm. Calculate the volume of wood remaining in the block, giving your answer to one decimal place. You must show all your working. Use π = 3.142.",
+      "options": [
+        "2434.4 cm³",
+        "2717.2 cm³",
+        "3565.6 cm³",
+        "2434.8 cm³"
+      ],
+      "correctAnswer": "2434.4 cm³",
+      "explanation": "Step 1: Calculate the volume of the rectangular block.\nThe volume of a rectangular block (cuboid) is given by the formula: Volume = Length × Width × Height.\nVolume of block = 20 cm × 15 cm × 10 cm = 3000 cm³.\n\nStep 2: Calculate the volume of the cylindrical hole.\nThe cylindrical hole is drilled from one 15 cm by 10 cm face to the opposite 15 cm by 10 cm face. This means the height (or length) of the cylinder corresponds to the dimension of the block that connects these two faces, which is 20 cm.\nThe radius of the cylindrical hole is given as 3 cm.\nThe volume of a cylinder is given by the formula: Volume = π × r² × h.\nVolume of cylindrical hole = 3.142 × (3 cm)² × 20 cm\nVolume of cylindrical hole = 3.142 × 9 cm² × 20 cm\nVolume of cylindrical hole = 3.142 × 180 cm³ = 565.56 cm³.\n\nStep 3: Calculate the volume of the remaining wood.\nTo find the volume of the wood remaining in the block, subtract the volume of the cylindrical hole from the total volume of the rectangular block.\nVolume of remaining wood = Volume of block - Volume of cylindrical hole\nVolume of remaining wood = 3000 cm³ - 565.56 cm³ = 2434.44 cm³.\n\nStep 4: Round the answer to one decimal place.\nRounding 2434.44 cm³ to one decimal place gives 2434.4 cm³.",
+      "hint": "First, calculate the volume of the entire rectangular block. Then, calculate the volume of the part that has been removed (the cylindrical hole). Remember to correctly identify the height of the cylindrical hole based on how it's drilled through the block.",
+      "generatedAt": "2026-04-30T12:56:21.294064"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y8-3d-geometry_advanced_001",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A manufacturer produces metal brackets. Each bracket is shaped like an L-shaped prism. The cross-section of the bracket is formed by a large rectangle with a smaller rectangle removed from one corner. \n\nThe overall dimensions of the L-shape are: a total width of 15 cm and a total height of 12 cm. \n\nThe rectangular section removed from the top-right corner, to create the 'L' shape, has a width of 9 cm and a height of 8 cm. \n\nThe metal bracket has a uniform length (depth) of 50 cm. \n\nThe brackets are made from a special alloy which costs £0.005 per cm³. After manufacture, the brackets are painted. The paint covers all exposed surfaces, and one litre of paint covers 8,000 cm² and costs £15. \n\nShow all your working.\n\na) Calculate the total volume of metal required for one bracket.\nb) Calculate the total cost of the metal for one bracket.\nc) Calculate the total surface area of one bracket that needs to be painted.\nd) Calculate the total cost of paint required for 200 brackets, assuming no waste and paint is bought in whole litres.",
+      "options": [],
+      "correctAnswer": "a) To find the volume of metal required, first calculate the area of the L-shaped cross-section:\nArea of the large rectangle = 15 cm × 12 cm = 180 cm².\nArea of the removed rectangular section = 9 cm × 8 cm = 72 cm².\nArea of the L-shaped cross-section = 180 cm² - 72 cm² = 108 cm².\n\nNow, calculate the volume of the bracket:\nVolume = Area of cross-section × Length = 108 cm² × 50 cm = 5400 cm³.\n\n\nb) To find the total cost of the metal for one bracket:\nCost = Volume × Cost per cm³ = 5400 cm³ × £0.005/cm³ = £27.00.\n\n\nc) To calculate the total surface area of one bracket, we need to sum the areas of all exposed faces:\n\n1.  **Two L-shaped end faces:**\n    Each L-shaped face has an area of 108 cm².\n    Total area of two end faces = 2 × 108 cm² = 216 cm².\n\n2.  **The rectangular faces around the 'L' shape (sides):**\n    *   Outer bottom face: 15 cm × 50 cm = 750 cm².\n    *   Outer left face: 12 cm × 50 cm = 600 cm².\n    *   Outer top horizontal section (part of the top 'arm' of the L):\n        Width = Total width - Removed width = 15 cm - 9 cm = 6 cm.\n        Area = 6 cm × 50 cm = 300 cm².\n    *   Outer right vertical section (part of the right 'leg' of the L):\n        Height = Total height - Removed height = 12 cm - 8 cm = 4 cm.\n        Area = 4 cm × 50 cm = 200 cm².\n    *   Inner top horizontal section (the 'inside' surface of the cut-out):\n        Width = 9 cm (from the removed section).\n        Area = 9 cm × 50 cm = 450 cm².\n    *   Inner right vertical section (the 'inside' surface of the cut-out):\n        Height = 8 cm (from the removed section).\n        Area = 8 cm × 50 cm = 400 cm².\n\nTotal surface area = 216 cm² (ends) + 750 cm² (outer bottom) + 600 cm² (outer left) + 300 cm² (outer top) + 200 cm² (outer right) + 450 cm² (inner top) + 400 cm² (inner right) \nTotal surface area = 2916 cm².\n\n\nd) To calculate the total cost of paint for 200 brackets:\n\nTotal surface area for 200 brackets = 200 × 2916 cm² = 583,200 cm².\n\nAmount of paint needed in litres = Total surface area / Coverage per litre\nAmount of paint needed = 583,200 cm² / 8,000 cm²/litre = 72.9 litres.\n\nSince paint must be bought in whole litres, the manufacturer needs to buy 73 litres of paint.\n\nTotal cost of paint = Litres of paint × Cost per litre = 73 litres × £15/litre = £1095.",
+      "explanation": "The full step-by-step working is provided in the 'correctAnswer' field for this open-ended question.",
+      "hint": "For part (c), remember to carefully identify all seven distinct faces that are exposed to the outside when calculating the total surface area, including the two L-shaped ends and all five rectangular faces making up the 'sides' of the L-shape.",
+      "generatedAt": "2026-04-30T12:56:45.811641"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_002",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A solid metal cylinder has a radius of 4 cm and a height of 10 cm. This cylinder is melted down and recast into several identical solid metal cubes. Each cube has a side length of 2 cm. During the recasting process, 5% of the metal is lost due to impurities and spillage. Calculate the maximum number of complete cubes that can be made from the available metal. Show your working.",
+      "options": [
+        "A) 59",
+        "B) 60",
+        "C) 62",
+        "D) 63"
+      ],
+      "correctAnswer": "A) 59",
+      "explanation": "1.  **Calculate the volume of the original metal cylinder:**\n    The formula for the volume of a cylinder is V = πr²h.\n    Given: radius (r) = 4 cm, height (h) = 10 cm.\n    V_cylinder = π * (4 cm)² * 10 cm = π * 16 cm² * 10 cm = 160π cm³.\n\n2.  **Calculate the amount of metal remaining after loss:**\n    5% of the metal is lost, so 100% - 5% = 95% of the metal remains.\n    V_remaining = 0.95 * V_cylinder = 0.95 * 160π cm³ = 152π cm³.\n\n3.  **Calculate the volume of one metal cube:**\n    The formula for the volume of a cube is V = s³, where s is the side length.\n    Given: side length (s) = 2 cm.\n    V_cube = (2 cm)³ = 8 cm³.\n\n4.  **Calculate the number of complete cubes that can be made:**\n    Divide the remaining volume of metal by the volume of a single cube.\n    Number of cubes = V_remaining / V_cube = (152π cm³) / (8 cm³) = 19π.\n    Using the value of π ≈ 3.14159...\n    Number of cubes ≈ 19 * 3.14159 = 59.69021...\n\n5.  **Determine the maximum number of complete cubes:**\n    Since only complete cubes can be made, we take the integer part of the result.\n    Therefore, 59 complete cubes can be made.",
+      "hint": "First, find the volume of the cylinder. Then, calculate 95% of that volume to account for the loss. Next, find the volume of one cube. Finally, divide the remaining metal volume by the volume of a single cube, and round down to the nearest whole number to find the number of complete cubes.",
+      "generatedAt": "2026-04-30T12:57:21.600586"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_003",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A rainwater harvesting system includes a collection tank shaped like a triangular prism. The base of the prism is a right-angled triangle with perpendicular sides measuring 80 cm and 60 cm. The length (or height) of the prism is 1.5 meters. This collection tank is completely full of rainwater.\n\nAll the water from this tank is then poured into a cylindrical storage barrel. The cylindrical barrel has a circular base radius of 50 cm.\n\nGiven that 1 litre = 1000 cm³, calculate the height, in cm, that the water reaches in the cylindrical barrel. You must show all your working.",
+      "options": [
+        "A) 91.67 cm",
+        "B) 45.84 cm",
+        "C) 48.00 cm",
+        "D) 22.92 cm"
+      ],
+      "correctAnswer": "B) 45.84 cm",
+      "explanation": "1.  **Convert the prism's length to centimetres:**\n    The length of the prism is 1.5 meters. Since 1 meter = 100 cm, 1.5 meters = 1.5 * 100 = 150 cm.\n\n2.  **Calculate the area of the triangular base of the prism:**\n    The base is a right-angled triangle with perpendicular sides of 80 cm and 60 cm.\n    Area of triangle = (1/2) * base * height = (1/2) * 80 cm * 60 cm = (1/2) * 4800 cm² = 2400 cm².\n\n3.  **Calculate the volume of the triangular prism:**\n    Volume of prism = Area of base * length = 2400 cm² * 150 cm = 360,000 cm³.\n    This is the total volume of water collected.\n\n4.  **Use the volume of water to find the height in the cylindrical barrel:**\n    The volume of water in the cylinder is the same as the volume of the prism: 360,000 cm³.\n    The formula for the volume of a cylinder is V = π * r² * h, where V is volume, r is radius, and h is height.\n    We know V = 360,000 cm³ and r = 50 cm.\n\n    360,000 = π * (50 cm)² * h\n    360,000 = π * 2500 cm² * h\n\n    Now, solve for h:\n    h = 360,000 / (π * 2500)\n    h = 3600 / (25 * π)\n    h = 144 / π\n\n    Using π ≈ 3.14159:\n    h ≈ 144 / 3.14159\n    h ≈ 45.8366 cm\n\n5.  **Round the answer to two decimal places:**\n    h ≈ 45.84 cm\n\nTherefore, the correct answer is 45.84 cm.",
+      "hint": "Remember to ensure all units are consistent before calculations. The volume of water remains constant when transferred between containers, and you will need the formulas for the volume of a prism (Area of base × length) and a cylinder (πr²h).",
+      "generatedAt": "2026-04-30T12:57:44.765505"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_004",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A craftsman is designing a decorative wooden block. The block is initially shaped like a solid cuboid with a length of 20 cm, a width of 15 cm, and a height of 10 cm. A cylindrical hole is then drilled completely through the block. The hole passes from the centre of one 15 cm by 10 cm face to the centre of the opposite 15 cm by 10 cm face. The radius of this cylindrical hole is 3 cm. The wood used has a uniform density of 0.7 grams per cubic centimetre. \n\nCalculate the final mass of the wooden block, in grams, after the hole has been drilled. You must show all your working. Use π ≈ 3.142 and give your answer to one decimal place.",
+      "options": [
+        "A) 1704.1 g",
+        "B) 2100.0 g",
+        "C) 2434.4 g",
+        "D) 1750.8 g"
+      ],
+      "correctAnswer": "A) 1704.1 g",
+      "explanation": "1.  Calculate the volume of the initial cuboid:\n    Volume_cuboid = length × width × height\n    Volume_cuboid = 20 cm × 15 cm × 10 cm = 3000 cm³\n\n2.  Determine the dimensions of the cylindrical hole:\n    The hole is drilled from a 15 cm by 10 cm face to the opposite 15 cm by 10 cm face. This means the length (or height) of the cylinder is the dimension it passes through, which is 20 cm.\n    Radius of cylinder (r) = 3 cm\n    Height of cylinder (h) = 20 cm\n\n3.  Calculate the volume of the cylindrical hole:\n    Volume_cylinder = π × r² × h\n    Using π ≈ 3.142:\n    Volume_cylinder = 3.142 × (3 cm)² × 20 cm\n    Volume_cylinder = 3.142 × 9 cm² × 20 cm\n    Volume_cylinder = 3.142 × 180 cm³\n    Volume_cylinder = 565.56 cm³\n\n4.  Calculate the volume of the remaining wooden block:\n    Volume_block = Volume_cuboid - Volume_cylinder\n    Volume_block = 3000 cm³ - 565.56 cm³\n    Volume_block = 2434.44 cm³\n\n5.  Calculate the mass of the wooden block:\n    Mass = Volume × Density\n    Mass = 2434.44 cm³ × 0.7 g/cm³\n    Mass = 1704.108 g\n\n6.  Round the answer to one decimal place:\n    Mass ≈ 1704.1 g",
+      "hint": "First, find the volume of the solid cuboid. Then, identify the dimensions of the cylindrical hole and calculate its volume. Subtract the hole's volume from the cuboid's volume to get the volume of the remaining wood, and finally use the given density to find the mass.",
+      "generatedAt": "2026-04-30T12:58:12.006003"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_005",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A new design for a modular storage container features a solid rectangular cuboid base, topped with a semi-cylindrical section. The cuboid base has a length of 2.5 metres, a width of 1.2 metres, and a height of 1.8 metres. The semi-cylindrical section is perfectly aligned with the cuboid, meaning its diameter is equal to the width of the cuboid, and its length is equal to the length of the cuboid. The entire container is to be filled with grain. Calculate the total volume of grain (in cubic metres) the container can hold. Give your answer to 3 significant figures.\n\nYou must show all your working.",
+      "options": [
+        "5.40 m³",
+        "6.81 m³",
+        "8.23 m³",
+        "11.1 m³"
+      ],
+      "correctAnswer": "6.81 m³",
+      "explanation": "To find the total volume of grain the container can hold, we need to calculate the volume of the rectangular cuboid base and the volume of the semi-cylindrical section, then add them together.\n\n**1. Calculate the volume of the rectangular cuboid base:**\nLength = 2.5 m\nWidth = 1.2 m\nHeight = 1.8 m\nVolume of cuboid = Length × Width × Height\nVolume of cuboid = 2.5 m × 1.2 m × 1.8 m = 5.4 m³\n\n**2. Calculate the volume of the semi-cylindrical section:**\nThe diameter of the semi-cylinder is equal to the width of the cuboid, so diameter = 1.2 m.\nRadius (r) = diameter / 2 = 1.2 m / 2 = 0.6 m.\nThe length of the semi-cylinder (which acts as its height 'h' in the volume formula for a cylinder) is equal to the length of the cuboid, so h = 2.5 m.\nThe formula for the volume of a full cylinder is V = πr²h.\nVolume of a full cylinder = π × (0.6 m)² × 2.5 m\nVolume of a full cylinder = π × 0.36 m² × 2.5 m = 0.9π m³\nSince it is a semi-cylindrical section, we take half of the full cylinder's volume:\nVolume of semi-cylinder = (0.9π) / 2 = 0.45π m³\nUsing π ≈ 3.14159, Volume of semi-cylinder ≈ 0.45 × 3.14159 ≈ 1.4137155 m³\n\n**3. Calculate the total volume:**\nTotal Volume = Volume of cuboid + Volume of semi-cylinder\nTotal Volume = 5.4 m³ + 1.4137155 m³ = 6.8137155 m³\n\n**4. Round to 3 significant figures:**\n6.81 m³",
+      "hint": "First, calculate the volume of the rectangular cuboid base. Next, use the given dimensions to determine the radius and 'height' of the semi-cylinder and calculate its volume, remembering to halve the volume of a full cylinder. Finally, add these two volumes together and round your answer.",
+      "generatedAt": "2026-04-30T13:03:13.923174"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_006",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A solid rectangular cuboid is made of metal. It has a length of 15 cm, a width of 8 cm, and a height of 10 cm. A cylindrical hole is drilled completely through the cuboid. The hole passes through the centre of the 15 cm by 8 cm top face and exits through the centre of the opposite 15 cm by 8 cm bottom face. The cylindrical hole has a radius of 2 cm.\n\nYou should use the value of π as 3.142 for your calculations and give your answers correct to one decimal place.\n\na) Calculate the total volume of the remaining solid. Show your working.\nb) Calculate the total surface area of the remaining solid. Show your working.",
+      "options": [],
+      "correctAnswer": "a) To find the volume of the remaining solid, we first calculate the volume of the original cuboid and then subtract the volume of the cylindrical hole.\n\n1.  **Volume of the cuboid**:\n    Length × Width × Height = 15 cm × 8 cm × 10 cm = 1200 cm³\n\n2.  **Volume of the cylindrical hole**:\n    The cylinder's radius (r) is 2 cm. The height (h) of the cylinder is the same as the height of the cuboid, which is 10 cm.\n    Volume = πr²h = 3.142 × (2 cm)² × 10 cm\n    Volume = 3.142 × 4 cm² × 10 cm = 125.68 cm³\n\n3.  **Volume of the remaining solid**:\n    Volume of cuboid - Volume of cylindrical hole = 1200 cm³ - 125.68 cm³ = 1074.32 cm³\n\n    Rounding to one decimal place, the volume is **1074.3 cm³**.\n\nb) To find the total surface area of the remaining solid, we need to consider the original surface area of the cuboid, the areas removed by the hole, and the new surface created by the hole.\n\n1.  **Surface area of the original cuboid**:\n    2(Length × Width + Length × Height + Width × Height)\n    2((15 × 8) + (15 × 10) + (8 × 10))\n    2(120 + 150 + 80) = 2(350) = 700 cm²\n\n2.  **Area removed by the hole**: \n    The cylindrical hole creates two circular openings on the top and bottom faces of the cuboid. These areas are no longer part of the cuboid's external surface.\n    Area of one circle = πr² = 3.142 × (2 cm)² = 3.142 × 4 cm² = 12.568 cm²\n    Area of two circles = 2 × 12.568 cm² = 25.136 cm²\n\n3.  **New surface area created by the hole**: \n    The inside of the cylindrical hole now forms an exposed surface. This is the curved surface area of the cylinder.\n    Curved Surface Area = 2πrh = 2 × 3.142 × 2 cm × 10 cm\n    Curved Surface Area = 125.68 cm²\n\n4.  **Total surface area of the remaining solid**:\n    (Original Cuboid SA) - (Area of two circular openings) + (Curved SA of cylindrical hole)\n    700 cm² - 25.136 cm² + 125.68 cm²\n    = 674.864 cm² + 125.68 cm² = 800.544 cm²\n\n    Rounding to one decimal place, the total surface area is **800.5 cm²**.",
+      "explanation": "The question requires calculating both the volume and the surface area of a composite 3D shape. The shape is a rectangular cuboid with a cylindrical hole drilled through it. For both parts, the strategy involves breaking down the complex shape into simpler geometric components (cuboid and cylinder) and applying the appropriate formulas for volume and surface area.\n\nFor **volume**, the hole removes material, so its volume is subtracted from the original cuboid's volume.\n-   Calculate cuboid volume: Length × Width × Height.\n-   Calculate cylinder volume: π × radius² × height.\n-   Subtract the cylinder's volume from the cuboid's volume.\n\nFor **surface area**, this is more complex as the drilling process both removes and adds exposed surfaces:\n-   Start with the total surface area of the original cuboid: 2(LW + LH + WH).\n-   The two circular faces where the cylinder enters and exits are no longer part of the external surface, so their areas (π × radius² for each, so 2 × π × radius² total) must be subtracted.\n-   The inner curved surface of the cylindrical hole is now exposed, so its area (2 × π × radius × height) must be added to the total surface area.\n-   The final result is: (Original Cuboid SA) - (Area of two circular openings) + (Curved SA of cylindrical hole).\n\nFinally, all calculations must use π = 3.142 and be rounded to one decimal place as specified.",
+      "hint": "For part b), when calculating the surface area, remember that the cylindrical hole removes some original surfaces and creates a new exposed surface. Consider carefully which surfaces are exposed after the hole is drilled.",
+      "generatedAt": "2026-04-30T13:03:34.410697"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_007",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A water storage tank is constructed from two main sections. The lower section is a solid rectangular cuboid, and the upper section is a solid triangular prism that sits perfectly on top of the cuboid, sharing its full length and width.\n\nThe rectangular cuboid section has a length of 2.5 metres, a width of 1.8 metres, and a height of 1.2 metres.\n\nThe triangular prism section has a base that matches the length and width of the cuboid (so its base is 2.5 metres by 1.8 metres). Its triangular cross-section is isosceles, with the two equal sides forming the sloping roof. The perpendicular height of this triangular cross-section, from the base of the triangle to its apex, is 0.7 metres.\n\n1.  Calculate the total maximum volume of water, in cubic metres, that the tank can hold. Show your working clearly.\n2.  The external surfaces of the tank need to be painted. This includes all surfaces except for the very bottom base of the cuboid, which rests on the ground. The cost of paint is £3.50 per square metre. Calculate the total cost of painting the tank, giving your answer to the nearest penny. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "**Part 1: Total Volume**\n\n1.  **Volume of the rectangular cuboid (V_cuboid):**\n    Length = 2.5 m\n    Width = 1.8 m\n    Height = 1.2 m\n    V_cuboid = Length × Width × Height\n    V_cuboid = 2.5 × 1.8 × 1.2 = 5.4 m³\n\n2.  **Volume of the triangular prism (V_prism):**\n    The base of the triangle in the cross-section is the width of the cuboid, which is 1.8 m.\n    The perpendicular height of the triangle is 0.7 m.\n    The length of the prism is the length of the cuboid, which is 2.5 m.\n    Area of triangular cross-section = (1/2) × base × height\n    Area = (1/2) × 1.8 × 0.7 = 0.9 × 0.7 = 0.63 m²\n    V_prism = Area of cross-section × length of prism\n    V_prism = 0.63 × 2.5 = 1.575 m³\n\n3.  **Total Volume (V_total):**\n    V_total = V_cuboid + V_prism\n    V_total = 5.4 + 1.575 = 6.975 m³\n\n**Part 2: Total Cost of Painting**\n\nThe external surfaces to be painted are:\n    *   The four vertical rectangular sides of the cuboid.\n    *   The two triangular end faces of the prism.\n    *   The two sloping rectangular faces of the prism.\n\n1.  **Area of the four vertical sides of the cuboid (A_cuboid_sides):**\n    Two faces are 2.5 m × 1.2 m.\n    Two faces are 1.8 m × 1.2 m.\n    A_cuboid_sides = 2 × (2.5 × 1.2) + 2 × (1.8 × 1.2)\n    A_cuboid_sides = 2 × 3.0 + 2 × 2.16 = 6.0 + 4.32 = 10.32 m²\n\n2.  **Area of the two triangular end faces of the prism (A_triangles):**\n    Each triangle has a base of 1.8 m and a perpendicular height of 0.7 m.\n    A_triangles = 2 × (1/2 × base × height) = base × height\n    A_triangles = 1.8 × 0.7 = 1.26 m²\n\n3.  **Area of the two sloping rectangular faces of the prism (A_sloping_rectangles):**\n    First, find the length of the sloping side (hypotenuse) of the triangular cross-section using Pythagoras' theorem.\n    The base of the right-angled triangle formed by half the cross-section is 1.8 / 2 = 0.9 m.\n    The height of this right-angled triangle is 0.7 m.\n    Let 's' be the sloping side length.\n    s² = 0.9² + 0.7²\n    s² = 0.81 + 0.49\n    s² = 1.3\n    s = √1.3 metres\n\n    Each sloping rectangular face has dimensions: length of prism (2.5 m) by sloping side (√1.3 m).\n    A_sloping_rectangles = 2 × (2.5 × √1.3) = 5 × √1.3 m²\n    A_sloping_rectangles ≈ 5 × 1.1401754 ≈ 5.700877 m²\n\n4.  **Total External Surface Area to be painted (A_total_painted):**\n    A_total_painted = A_cuboid_sides + A_triangles + A_sloping_rectangles\n    A_total_painted = 10.32 + 1.26 + 5 × √1.3\n    A_total_painted = 11.58 + 5 × √1.3 m²\n    A_total_painted ≈ 11.58 + 5.700877 ≈ 17.280877 m²\n\n5.  **Total Cost of Painting:**\n    Cost per square metre = £3.50\n    Total Cost = A_total_painted × £3.50\n    Total Cost = (11.58 + 5 × √1.3) × 3.50\n    Total Cost ≈ 17.280877 × 3.50 ≈ £60.4830695\n    Rounding to the nearest penny (2 decimal places): £60.48\n\n**Final Answers:**\n1.  Total Volume: 6.975 m³\n2.  Total Cost of Painting: £60.48",
+      "explanation": "This problem requires calculating both the volume and a specific external surface area of a composite 3D shape, then using the surface area to determine a cost. \n\n**For Part 1 (Volume):**\n1.  **Volume of the cuboid:** Calculate the volume using the formula Length × Width × Height with the given dimensions (2.5 m, 1.8 m, 1.2 m). \n2.  **Volume of the triangular prism:** Calculate the area of the triangular cross-section using (1/2) × base × height. The base of the triangle is the width of the cuboid (1.8 m), and the height of the triangle is given (0.7 m). Then multiply this cross-sectional area by the length of the prism (which is the length of the cuboid, 2.5 m) to get the prism's volume.\n3.  **Total Volume:** Add the volume of the cuboid and the volume of the triangular prism.\n\n**For Part 2 (Cost of Painting):**\n1.  **Identify surfaces to be painted:** The problem states 'external surfaces, excluding the very bottom base of the cuboid'. This means you need to calculate the area of the four vertical rectangular sides of the cuboid, the two triangular end faces of the prism, and the two sloping rectangular faces of the prism. The top of the cuboid and the base of the triangular prism are internal surfaces where the two parts join, so they are not painted.\n2.  **Calculate cuboid side area:** Sum the areas of the two side faces (width × height) and the two front/back faces (length × height).\n3.  **Calculate triangular end faces area:** The area of two triangles is simply base × height (since 2 × 1/2 cancels out). Use the base (1.8 m) and height (0.7 m) of the triangular cross-section.\n4.  **Calculate sloping rectangular faces area:** This is the most complex step. You need to find the length of the sloping side of the triangular cross-section. You can do this by forming a right-angled triangle within the isosceles triangle: its legs will be half the base (1.8 m / 2 = 0.9 m) and the perpendicular height (0.7 m). Use Pythagoras' theorem (a² + b² = c²) to find the hypotenuse, which is the sloping side length. Once you have this length, multiply it by the length of the prism (2.5 m) to get the area of one sloping rectangular face, and then multiply by two for both faces.\n5.  **Total Surface Area:** Add the areas calculated in steps 2, 3, and 4.\n6.  **Total Cost:** Multiply the total surface area by the cost per square metre (£3.50) and round the final answer to the nearest penny (two decimal places).",
+      "hint": "",
+      "generatedAt": "2026-04-30T13:04:09.010215"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_008",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A solid building block is designed with a prism shape. Its cross-section is an L-shape. This L-shape is formed by starting with a larger rectangle that has a width of 12 cm and a height of 10 cm. From one corner of this larger rectangle, a smaller rectangular section is removed. The removed rectangular section has a width of 8 cm and a height of 6 cm. The overall depth of the prism (the length of the block) is 25 cm.\n\n1.  Calculate the volume of the building block in cubic centimetres. Show your working.\n2.  The material used for the block has a density of 2.5 grams per cubic centimetre. Calculate the total mass of the building block in kilograms. Show your working.\n3.  Calculate the total surface area of the building block in square centimetres. Show your working.",
+      "options": [],
+      "correctAnswer": "1. Volume:\n    First, calculate the area of the L-shaped cross-section:\n    Area of the large rectangle = 12 cm × 10 cm = 120 cm²\n    Area of the removed rectangle = 8 cm × 6 cm = 48 cm²\n    Area of the L-shaped cross-section = 120 cm² - 48 cm² = 72 cm²\n    \n    Volume of the prism = Area of cross-section × Depth\n    Volume = 72 cm² × 25 cm = 1800 cm³\n\n2. Mass:\n    Mass = Volume × Density\n    Mass in grams = 1800 cm³ × 2.5 g/cm³ = 4500 g\n    \n    Convert mass to kilograms:\n    Mass in kilograms = 4500 g / 1000 g/kg = 4.5 kg\n\n3. Surface Area:\n    The total surface area consists of two L-shaped end faces and the rectangular faces around the perimeter of the L-shape along the depth.\n    \n    Area of two L-shaped ends = 2 × 72 cm² = 144 cm²\n    \n    Next, calculate the perimeter of the L-shaped cross-section:\n    The outer dimensions are 12 cm and 10 cm.\n    The inner dimensions created by the removal are 8 cm and 6 cm.\n    The segments making up the perimeter are:\n    -   Outer top edge: 12 cm\n    -   Outer right edge: 10 cm\n    -   Bottom horizontal edge of L: (12 cm - 8 cm) = 4 cm\n    -   Left vertical edge of L: (10 cm - 6 cm) = 4 cm\n    -   Inner horizontal edge of L (from removal): 8 cm\n    -   Inner vertical edge of L (from removal): 6 cm\n    Perimeter = 12 + 10 + 4 + 4 + 8 + 6 = 44 cm\n    \n    Area of rectangular faces along the depth = Perimeter × Depth\n    Area = 44 cm × 25 cm = 1100 cm²\n    \n    Total Surface Area = Area of two ends + Area of rectangular faces\n    Total Surface Area = 144 cm² + 1100 cm² = 1244 cm²",
+      "explanation": "This question requires calculating the volume and surface area of a complex prism and then using density to find its mass. \n\nFor volume, the first step is to correctly determine the area of the L-shaped cross-section by subtracting the area of the removed rectangle from the area of the larger rectangle. Then, multiply this cross-sectional area by the depth of the prism to find the total volume.\n\nFor mass, the calculated volume is multiplied by the given density. It is crucial to pay attention to units and convert the mass from grams to kilograms at the end.\n\nFor surface area, it's essential to consider all faces. This includes the two L-shaped end faces and all the rectangular faces that run along the depth of the prism. The sum of the lengths of all edges forming the perimeter of the L-shaped cross-section, multiplied by the depth, gives the total area of these rectangular faces. Finally, add the area of the two end faces to this sum.",
+      "hint": "For part 1, first find the area of the L-shaped cross-section. For part 2, remember that Mass = Volume × Density and pay attention to unit conversions. For part 3, calculate the perimeter of the L-shaped cross-section to help find the area of the rectangular faces along the depth of the prism.",
+      "generatedAt": "2026-04-30T13:04:30.476836"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_009",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A sculptor is designing a two-part plinth for an exhibition. The plinth consists of a solid cuboid base and a solid right-angled triangular prism top.\n\nThe cuboid base has a length of 30 cm, a width of 20 cm, and a height of 10 cm.\n\nThe right-angled triangular prism top sits centrally on the cuboid base. The right-angled triangular cross-section has two perpendicular sides (legs) measuring 20 cm and 15 cm respectively. The length of the prism (the distance between the two triangular faces) is 30 cm.\n\nThe two parts are joined together such that the entire bottom face of the triangular prism rests perfectly on the top face of the cuboid.\n\nFor this plinth, calculate:\na) The total volume of the plinth. (Working required)\nb) The total surface area of the plinth that would be exposed to air (i.e., excluding the area where the two parts are joined). (Working required)",
+      "options": [],
+      "correctAnswer": "a) To find the total volume, we calculate the volume of each part and add them together.\n\n1.  **Volume of the cuboid base:**\n    *   Length = 30 cm\n    *   Width = 20 cm\n    *   Height = 10 cm\n    *   Volume_cuboid = Length × Width × Height = 30 cm × 20 cm × 10 cm = 6000 cm³\n\n2.  **Volume of the triangular prism top:**\n    *   First, find the area of the right-angled triangular cross-section.\n    *   Area_triangle = ½ × base × perpendicular height = ½ × 20 cm × 15 cm = 150 cm²\n    *   Length of the prism = 30 cm\n    *   Volume_prism = Area_cross-section × Length = 150 cm² × 30 cm = 4500 cm³\n\n3.  **Total Volume of the plinth:**\n    *   Total_Volume = Volume_cuboid + Volume_prism = 6000 cm³ + 4500 cm³ = 10500 cm³\n\nb) To find the total exposed surface area, we calculate the exposed area of each part and add them together. The area where the two parts join must be excluded.\n\n1.  **Exposed surface area of the cuboid base:**\n    *   The top face of the cuboid is covered by the prism, so it is not exposed.\n    *   Area of base = 30 cm × 20 cm = 600 cm²\n    *   Area of two side faces (front and back) = 2 × (30 cm × 10 cm) = 2 × 300 cm² = 600 cm²\n    *   Area of two end faces (left and right) = 2 × (20 cm × 10 cm) = 2 × 200 cm² = 400 cm²\n    *   Exposed_cuboid_SA = Area_base + Area_two_side_faces + Area_two_end_faces = 600 cm² + 600 cm² + 400 cm² = 1600 cm²\n\n2.  **Exposed surface area of the triangular prism top:**\n    *   The bottom face of the prism rests on the cuboid, so it is not exposed.\n    *   The triangular cross-section has perpendicular sides of 20 cm and 15 cm. We need to find the length of the hypotenuse (the third side) of this right-angled triangle using Pythagoras' Theorem:\n        *   Hypotenuse² = 20² + 15² = 400 + 225 = 625\n        *   Hypotenuse = √625 = 25 cm\n    *   Area of the two triangular ends = 2 × (½ × 20 cm × 15 cm) = 2 × 150 cm² = 300 cm²\n    *   Area of the rectangular face corresponding to the 15 cm leg = 15 cm × 30 cm = 450 cm²\n    *   Area of the rectangular face corresponding to the 25 cm hypotenuse = 25 cm × 30 cm = 750 cm²\n    *   Exposed_prism_SA = Area_two_triangular_ends + Area_rect_face_15cm_leg + Area_rect_face_25cm_hypotenuse\n    *   Exposed_prism_SA = 300 cm² + 450 cm² + 750 cm² = 1500 cm²\n\n3.  **Total exposed surface area of the plinth:**\n    *   Total_Exposed_SA = Exposed_cuboid_SA + Exposed_prism_SA = 1600 cm² + 1500 cm² = 3100 cm²\n\n**Final Answers:**\na) The total volume of the plinth is 10500 cm³.\nb) The total exposed surface area of the plinth is 3100 cm².",
+      "explanation": "The question requires calculating both the total volume and the total exposed surface area of a composite 3D shape. This involves breaking the shape down into its constituent parts (a cuboid and a triangular prism), calculating the relevant properties for each, and then combining them.\n\nFor part (a), the volume of a cuboid is length × width × height. The volume of a prism is the area of its cross-section × its length. For a triangular prism, this means calculating the area of the triangular cross-section (½ × base × height) first, and then multiplying by the prism's length. The total volume is simply the sum of the individual volumes.\n\nFor part (b), the surface area calculation is more complex as it asks for the *exposed* surface area. This means the area where the two shapes are joined must be subtracted from the sum of their individual surface areas. For the cuboid, the top face is covered. For the triangular prism, its bottom face (which has the same dimensions as the cuboid's top face) is covered. To find the surface area of the triangular prism, it's essential to calculate the area of the two triangular ends and the areas of the rectangular faces. One of the rectangular faces corresponds to the hypotenuse of the triangular cross-section, which requires using Pythagoras' theorem to find its length (since only the perpendicular legs were given).\n\nStep-by-step calculations ensure all parts of the shapes are accounted for or excluded correctly.",
+      "hint": "For volume, remember the formula for the volume of a prism is the area of its cross-section multiplied by its length. For surface area, carefully identify which faces are exposed to the air and which are hidden by the join. You will need to use Pythagoras' theorem to find the length of the third side of the triangular cross-section before calculating the area of all rectangular faces of the prism.",
+      "generatedAt": "2026-04-30T13:04:58.826850"
+    },
+    {
+      "id": "m-y8-3d-geometry_advanced_010",
+      "topicId": "m-y8-3d-geometry",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A metal engineering company manufactures solid components. One particular component is designed as a solid circular cylinder with a height of 12 cm and a radius of 5 cm. A perfectly central hole, in the shape of an equilateral triangular prism, is drilled completely through the entire length of the cylinder. The cross-section of the triangular hole is an equilateral triangle with a side length of 4 cm. The density of the metal used is 8.5 grams per cubic centimetre.\n\nCalculate the total mass of one such metal component, in kilograms, rounded to two decimal places. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step-by-step working is required.\n\n1.  **Calculate the volume of the solid circular cylinder:**\n    *   Formula for cylinder volume: V = π * r² * h\n    *   Given radius (r) = 5 cm, height (h) = 12 cm\n    *   V_cylinder = π * (5 cm)² * 12 cm = π * 25 * 12 = 300π cm³\n\n2.  **Calculate the volume of the equilateral triangular prism hole:**\n    *   First, find the area of the equilateral triangle cross-section.\n    *   Formula for area of an equilateral triangle with side length 'a': A = (√3 / 4) * a²\n    *   Given side length (a) = 4 cm\n    *   A_triangle = (√3 / 4) * (4 cm)² = (√3 / 4) * 16 = 4√3 cm²\n    *   The height of the prism hole is the same as the cylinder's height: h_prism = 12 cm\n    *   Formula for prism volume: V = Area_of_base * h\n    *   V_prism = 4√3 cm² * 12 cm = 48√3 cm³\n\n3.  **Calculate the volume of the remaining metal:**\n    *   V_metal = V_cylinder - V_prism\n    *   V_metal = (300π - 48√3) cm³\n    *   Using π ≈ 3.14159265 and √3 ≈ 1.73205081 (or using calculator's exact values for higher precision):\n    *   V_metal ≈ (300 * 3.14159265) - (48 * 1.73205081)\n    *   V_metal ≈ 942.477795 - 83.138438\n    *   V_metal ≈ 859.339357 cm³\n\n4.  **Calculate the total mass of the component:**\n    *   Formula for mass: Mass = Volume * Density\n    *   Given density = 8.5 g/cm³\n    *   Mass = 859.339357 cm³ * 8.5 g/cm³\n    *   Mass ≈ 7304.38453 g\n\n5.  **Convert mass from grams to kilograms and round:**\n    *   1 kg = 1000 g\n    *   Mass in kg = 7304.38453 / 1000 = 7.30438453 kg\n    *   Rounded to two decimal places: **7.30 kg**",
+      "explanation": "The problem requires calculating the mass of a complex 3D shape by first finding its volume. The shape is a solid cylinder with an equilateral triangular prism hole drilled through it. Therefore, the volume of the metal is found by subtracting the volume of the prism from the volume of the cylinder. \n\n1.  The volume of the cylinder is calculated using V = πr²h. \n2.  The volume of the equilateral triangular prism is calculated using V = Area_of_base × h. The area of an equilateral triangle with side 'a' is (√3 / 4)a². \n3.  Once both volumes are calculated, the prism's volume is subtracted from the cylinder's volume to get the volume of the remaining metal.\n4.  Finally, this volume is multiplied by the given density (Mass = Volume × Density) to find the mass in grams.\n5.  The mass is then converted from grams to kilograms by dividing by 1000 and rounded to two decimal places.",
+      "hint": "First, calculate the volume of the outer cylinder. Then, calculate the volume of the equilateral triangular prism hole, remembering that the area of an equilateral triangle with side length 'a' is (√3 / 4) * a². Finally, subtract the hole's volume from the cylinder's volume and use the given density to find the mass, ensuring you convert to kilograms.",
+      "generatedAt": "2026-04-30T13:05:19.573920"
+    }
+  ]
+}

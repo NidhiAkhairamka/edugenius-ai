@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-mult-div_beginner_001",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the value of 34 multiplied by 2.",
+      "options": [
+        "36",
+        "64",
+        "68",
+        "72"
+      ],
+      "correctAnswer": "68",
+      "explanation": "To calculate 34 multiplied by 2:\nFirst, multiply the units digit: 4 x 2 = 8.\nNext, multiply the tens digit: 30 x 2 = 60.\nFinally, add the results together: 60 + 8 = 68.\nSo, 34 multiplied by 2 is 68.",
+      "hint": "Remember to multiply both the tens digit and the units digit of 34 by 2, and then add the results together.",
+      "generatedAt": "2026-04-29T09:22:31.008012"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_002",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square number is the result of multiplying an integer (a whole number) by itself. For example, 9 is a square number because 3 multiplied by 3 equals 9.\n\nWhich of the following numbers is a square number?",
+      "options": [
+        "A) 24",
+        "B) 27",
+        "C) 30",
+        "D) 36"
+      ],
+      "correctAnswer": "D) 36",
+      "explanation": "A square number is a number you get by multiplying an integer by itself.\nLet's check each option:\n- A) 24: To get 24, you can do 4 x 6, or 3 x 8, or 2 x 12. None of these multiply the same whole number by itself.\n- B) 27: To get 27, you can do 3 x 9. This is not a number multiplied by itself.\n- C) 30: To get 30, you can do 5 x 6, or 3 x 10. This is not a number multiplied by itself.\n- D) 36: To get 36, you can do 6 multiplied by 6 (6 x 6 = 36). Since 36 is the result of multiplying a whole number (6) by itself, 36 is a square number.\nTherefore, 36 is the correct answer.",
+      "hint": "Try multiplying whole numbers by themselves (e.g., 4x4, 5x5, 6x6) and see if any of the results match the given options.",
+      "generatedAt": "2026-04-29T09:22:44.003047"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_003",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which one of the following numbers is a square number?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": "16",
+      "explanation": "A square number is the result of multiplying a whole number by itself. To find the correct answer, we need to check if any of the options can be formed by multiplying a whole number by itself:\n\n*   For 12: We know 3 x 3 = 9 and 4 x 4 = 16. There is no whole number that multiplies by itself to make 12.\n*   For 16: We know 4 x 4 = 16. So, 16 is a square number.\n*   For 20: We know 4 x 4 = 16 and 5 x 5 = 25. There is no whole number that multiplies by itself to make 20.\n*   For 24: We know 4 x 4 = 16 and 5 x 5 = 25. There is no whole number that multiplies by itself to make 24.\n\nTherefore, 16 is the only square number among the options.",
+      "hint": "Remember that a square number is made by multiplying a whole number by itself (e.g., 2 x 2 = 4, so 4 is a square number).",
+      "generatedAt": "2026-04-29T09:22:56.007024"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_004",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A group of Year 5 students is designing a patio using square paving stones. They arrange the stones in a grid so that there are 8 paving stones along each side of the square patio. How many paving stones do they use in total?",
+      "options": [
+        "A) 16",
+        "B) 56",
+        "C) 64",
+        "D) 72"
+      ],
+      "correctAnswer": "C) 64",
+      "explanation": "To find the total number of paving stones arranged in a square grid, you multiply the number of stones along one side by the number of stones along the other side. Since the patio is a square, both sides have the same number of stones.\nNumber of stones along one side = 8\nNumber of stones along the other side = 8\nTotal number of paving stones = 8 × 8 = 64",
+      "hint": "Consider how you would calculate the total area or count for items arranged in a square grid with equal numbers in rows and columns.",
+      "generatedAt": "2026-04-29T09:23:11.283794"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_005",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of the following numbers is a factor of 42?",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "6",
+      "explanation": "A factor is a number that divides into another number exactly, without leaving a remainder. We can check each option by attempting to divide 42 by it:\n\n*   **42 ÷ 5 = 8 remainder 2.** Since there's a remainder, 5 is not a factor of 42.\n*   **42 ÷ 6 = 7.** This divides exactly with no remainder, so 6 is a factor of 42.\n*   **42 ÷ 8 = 5 remainder 2.** Since there's a remainder, 8 is not a factor of 42.\n*   **42 ÷ 9 = 4 remainder 6.** Since there's a remainder, 9 is not a factor of 42.\n\nTherefore, the correct answer is 6, as 6 multiplied by 7 equals 42.",
+      "hint": "Think about which of the numbers, when multiplied by a whole number, would give you 42.",
+      "generatedAt": "2026-04-29T09:23:28.128444"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_006",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What is the value of 3 cubed?",
+      "options": [
+        "A: 9",
+        "B: 27",
+        "C: 33",
+        "D: 81"
+      ],
+      "correctAnswer": "B: 27",
+      "explanation": "To find the value of 3 cubed, you need to multiply 3 by itself three times. This means calculating 3 x 3 x 3.\nFirst, calculate 3 x 3 = 9.\nThen, multiply that result by 3 again: 9 x 3 = 27.\nTherefore, 3 cubed is 27.",
+      "hint": "Remember that 'cubed' means multiplying the number by itself, and then multiplying that answer by the number again.",
+      "generatedAt": "2026-04-29T09:23:41.016949"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_007",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What is the value of 8 multiplied by itself?",
+      "options": [
+        "A) 8",
+        "B) 16",
+        "C) 64",
+        "D) 88"
+      ],
+      "correctAnswer": "C) 64",
+      "explanation": "When a number is multiplied by itself, it means you calculate the number times itself. For the number 8, this means calculating 8 × 8. \n8 × 8 = 64.\nTherefore, the value is 64.",
+      "hint": "To find the value of a number multiplied by itself, you need to perform a multiplication calculation where the number is used as both factors.",
+      "generatedAt": "2026-04-29T09:23:54.857502"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_008",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the product of 10 and the largest prime number that is less than 10.",
+      "options": [
+        "A) 50",
+        "B) 60",
+        "C) 70",
+        "D) 80"
+      ],
+      "correctAnswer": "C) 70",
+      "explanation": "1. First, identify the prime numbers that are less than 10. A prime number is a whole number greater than 1 that has exactly two divisors: 1 and itself. The prime numbers less than 10 are 2, 3, 5, and 7.\n2. From this list, the largest prime number is 7.\n3. Next, calculate the product of 10 and 7. 'Product' means the result of multiplication.\n4. So, 10 multiplied by 7 equals 70.",
+      "hint": "Remember what a prime number is and list all the prime numbers smaller than 10. Then identify the largest one, and multiply it by 10.",
+      "generatedAt": "2026-04-29T09:24:08.748749"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_009",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Calculate the product of the smallest prime number and the square of 5.",
+      "options": [
+        "10",
+        "25",
+        "50",
+        "125"
+      ],
+      "correctAnswer": "50",
+      "explanation": "To solve this problem, we need to identify two numbers first:\n1.  **The smallest prime number:** A prime number is a whole number greater than 1 that has exactly two factors: 1 and itself. The smallest prime number is 2.\n2.  **The square of 5:** The square of a number means multiplying the number by itself. So, the square of 5 is 5 × 5 = 25.\n\nNow, we need to calculate the product of these two numbers:\nProduct = Smallest prime number × Square of 5\nProduct = 2 × 25\nProduct = 50\n\nTherefore, the correct answer is 50.",
+      "hint": "First, identify the value of the smallest prime number. Then, calculate what 'the square of 5' means. Finally, multiply these two results together.",
+      "generatedAt": "2026-04-29T09:24:25.442796"
+    },
+    {
+      "id": "m-y5-mult-div_beginner_010",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square patio has sides that are 7 metres long. Calculate the area of the patio.",
+      "options": [
+        "A) 14 square metres",
+        "B) 28 square metres",
+        "C) 49 square metres",
+        "D) 77 square metres"
+      ],
+      "correctAnswer": "C) 49 square metres",
+      "explanation": "To find the area of a square, you multiply the length of one side by itself. In this case, the side length is 7 metres.\nArea = side length × side length\nArea = 7 metres × 7 metres\nArea = 49 square metres.",
+      "hint": "Remember, the area of a square is calculated by multiplying the length of one side by itself.",
+      "generatedAt": "2026-04-29T09:24:36.807635"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-mult-div_intermediate_001",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A school ordered 15 boxes of new pencils. Each box contains 24 pencils. All the pencils are then shared equally among 8 classrooms. How many pencils does each classroom receive? Show your working.",
+      "options": [
+        "A) 30 pencils",
+        "B) 36 pencils",
+        "C) 45 pencils",
+        "D) 54 pencils"
+      ],
+      "correctAnswer": "C) 45 pencils",
+      "explanation": "Step 1: Calculate the total number of pencils.\nTotal pencils = Number of boxes × Pencils per box\nTotal pencils = 15 × 24\nTo calculate 15 × 24:\n  24\nx 15\n----\n 120 (5 × 24)\n+240 (10 × 24)\n----\n 360\nSo, there are 360 pencils in total.\n\nStep 2: Share the total pencils equally among the classrooms.\nPencils per classroom = Total pencils ÷ Number of classrooms\nPencils per classroom = 360 ÷ 8\nTo calculate 360 ÷ 8:\nWe know that 8 × 40 = 320 (or 32 ÷ 8 = 4, so 320 ÷ 8 = 40)\nRemaining pencils = 360 - 320 = 40\nWe know that 8 × 5 = 40\nSo, 360 ÷ 8 = 40 + 5 = 45\nEach classroom receives 45 pencils.",
+      "hint": "First, find the total number of pencils by multiplying, then divide that total by the number of classrooms.",
+      "generatedAt": "2026-04-29T09:24:47.975470"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_002",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A shop sells special collector's cards. The number of cards in a sealed pack is a cube number that is greater than 20 but less than 70. Each card costs 48 pence.\n\nWhat is the total cost, in pounds and pence, if someone buys one sealed pack of these cards? Show your working.",
+      "options": [],
+      "correctAnswer": "First, identify the cube numbers:\n1³ = 1 \n2³ = 8\n3³ = 27\n4³ = 64\n5³ = 125\n\nThe cube number greater than 20 but less than 70 is 64.\nSo, there are 64 cards in one sealed pack.\n\nNext, calculate the total cost in pence:\nNumber of cards = 64\nCost per card = 48 pence\nTotal cost = 64 × 48 pence\n\nUsing long multiplication:\n   64\nx  48\n-----\n  512  (64 × 8)\n2560 (64 × 40)\n-----\n3072\n\nSo, the total cost is 3072 pence.\n\nFinally, convert the total cost to pounds and pence:\nThere are 100 pence in £1, so divide by 100.\n3072 ÷ 100 = £30.72\n\nThe total cost is £30.72.",
+      "explanation": "The problem requires two main steps. First, you need to identify the correct cube number based on the given range (greater than 20 but less than 70). Cube numbers are found by multiplying a whole number by itself three times (e.g., 3³ = 3 × 3 × 3 = 27). After identifying the number of cards (which is 64), the second step is to calculate the total cost by multiplying the number of cards by the cost per card (64 × 48 pence). This multi-digit multiplication results in 3072 pence. The final part is to convert this total cost from pence to pounds and pence by dividing by 100, giving £30.72.",
+      "hint": "First, list the cube numbers (1³, 2³, 3³, etc.) to find how many cards are in a pack. Then, use multi-digit multiplication to calculate the total cost in pence, and finally convert this amount to pounds and pence.",
+      "generatedAt": "2026-04-29T09:25:05.343967"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_003",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A craftsman is making decorative tiles. The total number of tiles made is 225. These tiles are arranged to form a large square display. Each tile is painted with exactly 23 dots. If the craftsman packs 9 boxes, and each box contains 15 tiles, how many dots are there on the tiles that are left unpacked? Show your working.",
+      "options": [
+        "2070 dots",
+        "2300 dots",
+        "1518 dots",
+        "1840 dots"
+      ],
+      "correctAnswer": "2070 dots",
+      "explanation": "1.  **Identify the total number of tiles:** The craftsman made 225 tiles. (This is a square number, 15 x 15).\n2.  **Calculate the number of tiles packed:** The craftsman packed 9 boxes, with 15 tiles in each box.\n    Number of packed tiles = 9 × 15 = 135 tiles.\n3.  **Calculate the number of tiles left unpacked:** Subtract the packed tiles from the total tiles.\n    Number of unpacked tiles = 225 - 135 = 90 tiles.\n4.  **Calculate the total number of dots on the unpacked tiles:** Each tile has 23 dots.\n    Total dots on unpacked tiles = 90 × 23 = 2070 dots.",
+      "hint": "First, calculate how many tiles have been packed in total. Then, find out how many tiles remain unpacked. Finally, use the number of dots per tile to find the total dots on the remaining tiles.",
+      "generatedAt": "2026-04-29T09:25:27.376971"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_004",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A company manufactures small cubical boxes, each with a side length of 12 cm. These boxes are to be packed into larger rectangular shipping containers. Each shipping container has internal dimensions of 2.16 metres long, 1.08 metres wide, and 0.72 metres high.\n\nCalculate the maximum number of these small cubical boxes that can be packed into one shipping container. Show your working.",
+      "options": [],
+      "correctAnswer": "First, convert all dimensions to the same unit. It's easiest to convert the container dimensions from metres to centimetres.\n\nContainer Length: 2.16 m = 2.16 × 100 cm = 216 cm\nContainer Width: 1.08 m = 1.08 × 100 cm = 108 cm\nContainer Height: 0.72 m = 0.72 × 100 cm = 72 cm\n\nSmall cubical box side length = 12 cm.\n\nNext, determine how many boxes fit along each dimension of the container:\n\nNumber of boxes along the length = Container Length / Box Side = 216 cm / 12 cm = 18 boxes\nNumber of boxes along the width = Container Width / Box Side = 108 cm / 12 cm = 9 boxes\nNumber of boxes along the height = Container Height / Box Side = 72 cm / 12 cm = 6 boxes\n\nFinally, multiply these numbers to find the total maximum number of boxes that can be packed:\n\nTotal boxes = (Boxes along length) × (Boxes along width) × (Boxes along height)\nTotal boxes = 18 × 9 × 6\nTotal boxes = 162 × 6\nTotal boxes = 972\n\nTherefore, the maximum number of small cubical boxes that can be packed into one shipping container is 972.",
+      "explanation": "The problem requires calculating how many smaller cubical boxes fit into a larger rectangular container. The key steps are:\n1.  **Unit Conversion:** Ensure all dimensions are in the same unit. Converting metres to centimetres is the most straightforward.\n2.  **Individual Dimension Fit:** Calculate how many small boxes fit along each of the three dimensions (length, width, height) of the container by dividing the container's dimension by the box's side length.\n3.  **Total Count:** Multiply the number of boxes that fit along each dimension to find the total maximum number of boxes.",
+      "hint": "Start by ensuring all measurements are in the same units. Then consider how many boxes fit along the length, width, and height of the container individually.",
+      "generatedAt": "2026-04-29T09:25:41.182211"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_005",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A perfect square number has prime factors 3 and 7. This number is greater than 1000 but less than 2000. Find this number. Show your working.",
+      "options": [
+        "1176",
+        "1323",
+        "1764",
+        "1800"
+      ],
+      "correctAnswer": "1764",
+      "explanation": "Let the perfect square number be N.\nSince N is a perfect square, all the powers in its prime factorization must be even.\nGiven that N has prime factors 3 and 7, this means N must be divisible by 3 and by 7. \nFor N to be a perfect square and have prime factors 3 and 7, it must be a multiple of 3² (which is 9) and a multiple of 7² (which is 49).\nTherefore, N must be a multiple of 9 × 49 = 441.\n\nSince N is a perfect square, it can be written as k² for some integer k.\nAlso, since N is a multiple of 441, k² must be a multiple of 441. This implies that k itself must be a multiple of the square root of 441.\nThe square root of 441 = √(9 × 49) = √9 × √49 = 3 × 7 = 21.\nSo, k must be a multiple of 21. Let k = 21m for some integer m.\nThe perfect square number N = (21m)².\n\nNow, we need to find a value for m such that N is greater than 1000 but less than 2000:\n\n1.  If m = 1, N = (21 × 1)² = 21² = 441. (This is less than 1000).\n2.  If m = 2, N = (21 × 2)² = 42² = 1764. (This is greater than 1000 and less than 2000).\n    Let's check the prime factors of 1764: 1764 = 42² = (2 × 3 × 7)² = 2² × 3² × 7². Its prime factors are 2, 3, and 7. This means it includes 3 and 7 as prime factors, as required.\n3.  If m = 3, N = (21 × 3)² = 63² = 3969. (This is greater than 2000).\n\nThe only perfect square number that satisfies all the given conditions is 1764.",
+      "hint": "First, determine the smallest perfect square that is a multiple of 3² and 7². Then, consider its perfect square multiples to find the one that falls within the given range.",
+      "generatedAt": "2026-04-29T09:26:08.304864"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_006",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A number, P, is formed by multiplying the first three prime numbers together, and then multiplying that result by the number 3.\nThe smallest perfect square number, S, is then found such that P is a factor of S.\nFinally, S tiles are to be packed into boxes. Each box can hold a quantity of tiles equal to the smallest cube number that is greater than 20.\nHow many full boxes of tiles can be packed, and how many tiles would be left over? Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate P.\nThe first three prime numbers are 2, 3, 5.\nP = (2 × 3 × 5) × 3\nP = 30 × 3\nP = 90\n\nStep 2: Find S, the smallest perfect square number where P (90) is a factor.\nFirst, find the prime factorization of P:\n90 = 2 × 45\n90 = 2 × 3 × 15\n90 = 2 × 3 × 3 × 5\n90 = 2^1 × 3^2 × 5^1\n\nFor S to be a perfect square, all exponents in its prime factorization must be even. For P to be a factor of S, S must include all prime factors of P with at least the same power.\nTo make the exponents even, we need to multiply by 2^1 and 5^1 (since 3^2 is already even).\nS = (2^1 × 3^2 × 5^1) × (2^1 × 5^1)\nS = 2^(1+1) × 3^2 × 5^(1+1)\nS = 2^2 × 3^2 × 5^2\nS = 4 × 9 × 25\nS = 36 × 25\nS = 900\n\nStep 3: Determine the capacity of each box.\nThe smallest cube number greater than 20:\n1^3 = 1\n2^3 = 8\n3^3 = 27\n4^3 = 64\nThe smallest cube number greater than 20 is 27.\nEach box can hold 27 tiles.\n\nStep 4: Calculate the number of full boxes and remaining tiles.\nTotal tiles = S = 900.\nTiles per box = 27.\nNumber of full boxes = 900 ÷ 27\n\nUsing division:\n900 ÷ 27 = 33 with a remainder.\n(27 × 30 = 810)\n900 - 810 = 90\n(27 × 3 = 81)\n90 - 81 = 9\nSo, 900 ÷ 27 = 33 remainder 9.\n\nAnswer: 33 full boxes can be packed, and 9 tiles would be left over.",
+      "explanation": "The problem requires several steps. First, calculate the number P by identifying the first three prime numbers (2, 3, 5) and performing the given multiplication. This gives P = 90. Second, find the smallest perfect square number, S, that has P as a factor. This involves finding the prime factorization of P (2^1 × 3^2 × 5^1) and then multiplying by any missing prime factors (with appropriate exponents) to make all exponents even (2^2 × 3^2 × 5^2 = 900). Third, identify the capacity of each box by finding the smallest cube number greater than 20 (which is 27). Finally, divide the total number of tiles, S, by the box capacity and interpret the remainder to find the number of full boxes and leftover tiles.",
+      "hint": "Start by finding the prime factorization of the number P. Remember that for a number to be a perfect square, all the exponents in its prime factorization must be even. Also, recall how to identify cube numbers.",
+      "generatedAt": "2026-04-29T09:26:29.885736"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_007",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A factory produces a certain type of gadget. The total number of gadgets produced each day is a perfect square number between 100 and 200, and it is also a multiple of 9. All the gadgets produced are then packed into boxes, with each box holding exactly 18 gadgets. How many full boxes can be filled in a day? Show your working.",
+      "options": [
+        "A) 6",
+        "B) 8",
+        "C) 12",
+        "D) 16"
+      ],
+      "correctAnswer": "B) 8",
+      "explanation": "1.  First, identify the perfect square numbers between 100 and 200:\n    10² = 100\n    11² = 121\n    12² = 144\n    13² = 169\n    14² = 196\n\n2.  Next, from these perfect squares, find the one that is also a multiple of 9.\n    Check each number:\n    121 ÷ 9 = 13.44... (Not a multiple of 9)\n    144 ÷ 9 = 16 (This is a multiple of 9, as 144 = 9 × 16)\n    169 ÷ 9 = 18.77... (Not a multiple of 9)\n    196 ÷ 9 = 21.77... (Not a multiple of 9)\n    So, the total number of gadgets produced is 144.\n\n3.  Finally, divide the total number of gadgets by the number of gadgets per box (18) to find out how many full boxes can be filled:\n    144 ÷ 18 = 8\n    Therefore, 8 full boxes can be filled in a day.",
+      "hint": "Start by listing all the perfect square numbers within the given range. Then, use divisibility rules or perform division to find which of these squares is also a multiple of 9.",
+      "generatedAt": "2026-04-29T09:26:46.190899"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_008",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A square garden has an area of 576 square metres. The owner wants to divide the garden into identical rectangular plots. Each plot must have a width of 3 metres. The length of each plot must be a prime number that is also a factor of the garden's side length. To maximise the number of plots, the owner chooses the smallest possible prime length.\n\nCalculate the total number of plots the owner can create. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the side length of the square garden.\nThe area of a square is given by side length × side length (side length²).\nSo, the side length of the garden = $\\sqrt{576}$.\n$\\\\sqrt{576} = 24$ metres.\n\nStep 2: Determine the dimensions of each rectangular plot.\nThe width of each plot is given as 3 metres.\nThe length of each plot must be a prime number that is a factor of the garden's side length (24).\nFirst, find the factors of 24: 1, 2, 3, 4, 6, 8, 12, 24.\nNext, identify the prime factors among these: 2, 3.\nTo maximise the number of plots, the owner chooses the smallest possible prime length, which is 2 metres.\nSo, each plot will have dimensions of 3 metres (width) by 2 metres (length).\n\nStep 3: Calculate how many plots fit along each dimension of the garden.\nAlong one 24-metre side of the garden, using the plot width of 3 metres: $24 \\div 3 = 8$ plots.\nAlong the other 24-metre side of the garden, using the plot length of 2 metres: $24 \\div 2 = 12$ plots.\n\nStep 4: Calculate the total number of plots.\nTotal plots = (number of plots along width) $\\times$ (number of plots along length)\nTotal plots = $8 \\times 12 = 96$ plots.\n\nThe owner can create a total of 96 plots.",
+      "explanation": "The problem requires several steps. First, calculate the side length of the square garden using its area. Then, identify the factors of this side length and select the smallest prime factor to determine the plot's length. Finally, divide the garden's dimensions by the plot's dimensions to find the number of plots along each side, and multiply these to get the total number of plots.",
+      "hint": "Begin by finding the side length of the square garden. Remember that the area of a square is the side length squared. Next, list all factors of this side length and identify which ones are prime numbers. The smallest of these prime factors will be the length of the rectangular plots.",
+      "generatedAt": "2026-04-29T09:27:04.892770"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_009",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A factory produces components in batches. The number of components in a single batch is the smallest perfect square number that has 2, 3, and 5 as its only distinct prime factors. Each component is sold for £14.25. A distributor places an order for 80 of these batches. Calculate the total cost of this order. Show all your working.",
+      "options": [
+        "£1,026,000",
+        "£102,600",
+        "£1,008,000",
+        "£34,200"
+      ],
+      "correctAnswer": "£1,026,000",
+      "explanation": "Step 1: Determine the number of components per batch.\nFor a number to be a perfect square, all exponents in its prime factorisation must be even. To have 2, 3, and 5 as its only distinct prime factors, and be the smallest such perfect square, the prime factorisation must be 2^2 × 3^2 × 5^2.\nNumber of components per batch = (2 × 3 × 5)^2 = 30^2 = 900 components.\n\nStep 2: Calculate the total number of components in the order.\nThe order is for 80 batches, with 900 components per batch.\nTotal components = 900 × 80 = 72,000 components.\n\nStep 3: Calculate the total cost of the order.\nEach component costs £14.25.\nTotal cost = 72,000 × £14.25\nTotal cost = 72,000 × (14 + 0.25)\nTotal cost = (72,000 × 14) + (72,000 × 0.25)\nTotal cost = 1,008,000 + 18,000\nTotal cost = £1,026,000.",
+      "hint": "First, find the smallest perfect square number by ensuring the exponents of its prime factors (2, 3, and 5) are even and as small as possible. Then, use this number to calculate the total quantity and finally the total cost.",
+      "generatedAt": "2026-04-29T09:27:26.194859"
+    },
+    {
+      "id": "m-y5-mult-div_intermediate_010",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A bakery produces a batch of muffins. The total number of muffins in a batch is a multiple of 7 and also a multiple of 11. It is the smallest such number that is greater than 100. Each muffin is sold for £1.25. If the bakery sells all the muffins in one batch, what is the total amount of money earned? Show your working.",
+      "options": [
+        "£175.50",
+        "£192.50",
+        "£210.00",
+        "£187.50"
+      ],
+      "correctAnswer": "£192.50",
+      "explanation": "Step 1: Find the number of muffins. The number of muffins is a multiple of 7 and 11. Since 7 and 11 are prime numbers, their least common multiple (LCM) is their product: 7 × 11 = 77.\nStep 2: Find the smallest multiple of 77 that is greater than 100.\n77 × 1 = 77 (not greater than 100)\n77 × 2 = 154\nSo, there are 154 muffins in the batch.\nStep 3: Calculate the total earnings. Each muffin is sold for £1.25.\nTotal earnings = 154 × £1.25\nWe can calculate this as: 154 × (1 + 0.25) = (154 × 1) + (154 × 0.25)\n= 154 + (154 ÷ 4)\n= 154 + 38.50\n= £192.50",
+      "hint": "First, find the least common multiple of 7 and 11. Then, find the smallest multiple of this number that is greater than 100. Finally, multiply this number by the cost per muffin.",
+      "generatedAt": "2026-04-29T09:27:43.141564"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-mult-div_advanced_001",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A factory produces small building blocks. They pack them into boxes. Each box contains 36 blocks. On Monday, they fill 14 boxes. On Tuesday, they fill 18 boxes. All the blocks produced on Monday and Tuesday are then combined and repackaged into larger bags, with 8 blocks in each bag.\n\nThe factory manager then looks at the total number of larger bags produced and wants to know a specific mathematical property about this number. Show your working clearly.\n\nWhich of the following statements is TRUE about the total number of larger bags?",
+      "options": [
+        "A. The total number of bags is a prime number.",
+        "B. The total number of bags is a square number.",
+        "C. The total number of bags is a cube number.",
+        "D. The total number of bags has exactly 5 factors."
+      ],
+      "correctAnswer": "B. The total number of bags is a square number.",
+      "explanation": "Step 1: Calculate the number of blocks produced on Monday.\nNumber of blocks on Monday = Number of blocks per box × Number of boxes\nNumber of blocks on Monday = 36 × 14\nUsing long multiplication:\n  36\nx 14\n----\n 144 (36 × 4)\n 360 (36 × 10)\n----\n 504 blocks\n\nStep 2: Calculate the number of blocks produced on Tuesday.\nNumber of blocks on Tuesday = Number of blocks per box × Number of boxes\nNumber of blocks on Tuesday = 36 × 18\nUsing long multiplication:\n  36\nx 18\n----\n 288 (36 × 8)\n 360 (36 × 10)\n----\n 648 blocks\n\nStep 3: Calculate the total number of blocks produced on Monday and Tuesday.\nTotal blocks = Blocks on Monday + Blocks on Tuesday\nTotal blocks = 504 + 648 = 1152 blocks\n\nStep 4: Calculate the total number of larger bags.\nNumber of bags = Total blocks ÷ Blocks per bag\nNumber of bags = 1152 ÷ 8\nUsing division:\n1152 ÷ 8 = 144 bags\n\nStep 5: Analyse the properties of the number 144.\n-   **Is 144 a prime number?** A prime number has exactly two factors: 1 and itself. 144 has many factors (e.g., 2, 3, 4, 6, 8, 9, 12), so it is not a prime number. Statement A is false.\n-   **Is 144 a square number?** A square number is the result of multiplying an integer by itself. 12 × 12 = 144. So, 144 is a square number. Statement B is true.\n-   **Is 144 a cube number?** A cube number is the result of multiplying an integer by itself three times. For example, 4 × 4 × 4 = 64, and 5 × 5 × 5 = 125. 144 is not the result of an integer multiplied by itself three times. Statement C is false.\n-   **Does 144 have exactly 5 factors?** The factors of 144 are: 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144. There are more than 5 factors. Statement D is false.\n\nTherefore, the correct statement is B.",
+      "hint": "First, calculate the total number of blocks made over Monday and Tuesday. Then, divide this total by the number of blocks that fit into one larger bag to find the final quantity. Finally, check if this final number is a prime number, a square number, or a cube number.",
+      "generatedAt": "2026-04-29T09:28:03.316189"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_002",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A hidden number, N, has to be found by solving these four clues:\n1.  N is a number greater than 100 but less than 250.\n2.  N is a perfect square.\n3.  N is a multiple of 8.\n4.  N has exactly two different prime factors, and one of these prime factors is 3.\n\nWhat is the hidden number N? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working to find the hidden number N:\n\n**Step 1: Use Clues 1 and 2 to list possible numbers.**\nClue 1: N is greater than 100 but less than 250.\nClue 2: N is a perfect square.\nLet's list the perfect squares between 100 and 250:\n*   11 x 11 = 121\n*   12 x 12 = 144\n*   13 x 13 = 169\n*   14 x 14 = 196\n*   15 x 15 = 225\n(16 x 16 = 256, which is too large as it's not less than 250).\nSo, the possible numbers for N are: 121, 144, 169, 196, 225.\n\n**Step 2: Use Clue 3 to narrow down the possibilities.**\nClue 3: N is a multiple of 8.\nLet's check which of our possible numbers are multiples of 8:\n*   121 ÷ 8 = 15 remainder 1 (Not a multiple of 8)\n*   144 ÷ 8 = 18 (This is a multiple of 8)\n*   169 ÷ 8 = 21 remainder 1 (Not a multiple of 8)\n*   196 ÷ 8 = 24 remainder 4 (Not a multiple of 8)\n*   225 ÷ 8 = 28 remainder 1 (Not a multiple of 8)\nAt this point, the only number that satisfies the first three clues is 144.\n\n**Step 3: Use Clue 4 to confirm the number.**\nClue 4: N has exactly two different prime factors, and one of these prime factors is 3.\nLet's find the prime factors of 144:\n*   144 = 2 x 72\n*   72 = 2 x 36\n*   36 = 2 x 18\n*   18 = 2 x 9\n*   9 = 3 x 3\nSo, the prime factorization of 144 is 2 x 2 x 2 x 2 x 3 x 3 (or 2^4 x 3^2).\n\nThe different prime factors of 144 are 2 and 3. This means it has exactly two different prime factors, and one of them is indeed 3. All clues are satisfied by the number 144.\n\n**The hidden number N is 144.**",
+      "explanation": "The question requires combining several concepts: understanding of perfect squares, multiples, prime factors, and working within a specified range. The solution proceeds by systematically applying each clue to narrow down the possibilities. \n\n1.  First, list all perfect squares that fall between 100 and 250 (exclusive of 100 and 250).\n2.  Next, from this list, identify which numbers are multiples of 8. This significantly reduces the options.\n3.  Finally, for the remaining candidate number(s), verify the prime factorization to ensure it has exactly two distinct prime factors, one of which is 3.\n\nEach step eliminates numbers that do not fit the criteria, leading to a unique solution that satisfies all conditions.",
+      "hint": "Begin by finding all the perfect square numbers that are greater than 100 but less than 250. Then, check which of those numbers are multiples of 8. Finally, find the prime factors of the remaining number(s) to see if they match the last clue.",
+      "generatedAt": "2026-04-29T09:28:26.141022"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_003",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Liam is planning a school trip. He needs to buy tickets for 34 children and 16 adults. Each ticket costs £25.\n\n1.  Calculate the total cost of tickets for all the children and all the adults. Show your working.\n2.  The school has a budget of £1500 for the trip. After buying the tickets, how much money is left over from the budget? Show your working.\n3.  The remaining money from the budget is then divided equally among 7 different activity groups for extra spending. How much money does each group receive, and how much money, if any, is left over after this division? Show your working.\n4.  The amount of money each group receives (before any remainder) is a number, X. List all the prime factors of X. Show your working.",
+      "options": [],
+      "correctAnswer": "1. First, find the total number of people going on the trip:\n   Total people = 34 children + 16 adults = 50 people.\n\n   Next, calculate the total cost of tickets:\n   Total cost = 50 people × £25/person\n   Using multi-digit multiplication (e.g., grid method or long multiplication):\n   50 × 20 = 1000\n   50 × 5 = 250\n   1000 + 250 = 1250\n   The total cost of tickets is £1250.\n\n2. To find the money left over, subtract the total ticket cost from the budget:\n   Money left = Total budget - Total cost of tickets\n   Money left = £1500 - £1250 = £250.\n\n3. Divide the remaining money equally among 7 activity groups:\n   Money per group = £250 ÷ 7\n   Using the bus stop method for division:\n       3 5   R 5\n     7 | 250\n         -210  (7 × 30 = 210)\n         ----\n           40\n          -35  (7 × 5 = 35)\n          ----\n            5\n   Each group receives £35, and there is £5 left over.\n\n4. The number X is the amount each group receives, which is 35.\n   To find the prime factors of X=35, we need to find prime numbers that divide 35 exactly:\n   - Start with the smallest prime number, 2: 35 is not divisible by 2 because it is an odd number.\n   - Try the next prime number, 3: 3 + 5 = 8, which is not a multiple of 3, so 35 is not divisible by 3.\n   - Try the next prime number, 5: 35 ÷ 5 = 7.\n   Both 5 and 7 are prime numbers.\n   So, the prime factors of X are 5 and 7.",
+      "explanation": "This is an open-ended question requiring multiple steps. The model answer provides a full, step-by-step explanation for each part of the problem, demonstrating the required calculations and reasoning.",
+      "hint": "Break down the problem into smaller, manageable steps. For multiplication and division, use formal written methods such as the grid method or long multiplication for multiplication, and the bus stop method for division. When finding prime factors, start by trying to divide the number by the smallest prime numbers (2, 3, 5, 7, etc.) until you are left with only prime numbers as factors.",
+      "generatedAt": "2026-04-29T09:28:49.404397"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_004",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A large bookshop is getting ready for a new school year. Working must be shown for full marks.\n\n1.  They order 32 crates of maths textbooks. Each crate contains 15 textbooks. How many maths textbooks do they have in total?\n2.  The bookshop wants to display these textbooks on shelves. Each shelf can hold a number of textbooks that is a prime number between 10 and 15. The bookshop decides to use shelves that hold the largest possible number of textbooks from this prime range. How many full shelves can they fill with the maths textbooks?\n3.  The bookshop also receives a delivery of storybooks. The total number of storybooks is a square number between 140 and 150. What is this exact number of storybooks?\n4.  These storybooks are packed into boxes, with 12 storybooks in each box. How many boxes of storybooks are there?\n5.  Finally, the bookshop manager wants to know the *difference* between the number of *full shelves of maths textbooks* (from step 2) and the *total number of boxes of storybooks* (from step 4). What is this difference?",
+      "options": [
+        "24",
+        "31",
+        "48",
+        "20"
+      ],
+      "correctAnswer": "24",
+      "explanation": "Here are the step-by-step calculations:\n\n1.  **Total maths textbooks:**\n    To find the total number of maths textbooks, multiply the number of crates by the number of textbooks per crate:\n    32 crates * 15 textbooks/crate = 480 textbooks.\n    (You can calculate this as 32 * 10 = 320, then 32 * 5 = 160, and 320 + 160 = 480).\n\n2.  **Number of full shelves for maths textbooks:**\n    First, identify the prime numbers between 10 and 15. These are 11 and 13. The largest of these is 13.\n    Now, divide the total number of maths textbooks by the capacity of each shelf:\n    480 textbooks / 13 textbooks/shelf.\n    480 ÷ 13 = 36 with a remainder of 12.\n    So, the bookshop can fill 36 full shelves.\n\n3.  **Total number of storybooks:**\n    Identify the square numbers: 1x1=1, 2x2=4, 3x3=9, ..., 11x11=121, 12x12=144, 13x13=169...\n    The square number between 140 and 150 is 144 (because 12 * 12 = 144).\n\n4.  **Number of boxes of storybooks:**\n    Divide the total number of storybooks by the number of storybooks per box:\n    144 storybooks / 12 storybooks/box = 12 boxes.\n\n5.  **Difference between full shelves and boxes:**\n    Subtract the total number of boxes of storybooks (from step 4) from the number of full shelves of maths textbooks (from step 2):\n    36 (shelves) - 12 (boxes) = 24.\n\nThe final answer is 24.",
+      "hint": "Break the problem down into each numbered step. For step 2, remember to pick the largest prime number between 10 and 15. For step 3, recall your square numbers to find the correct one.",
+      "generatedAt": "2026-04-29T09:29:15.022401"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_005",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A new theme park ride has a total capacity for people each day. The ride has 8 carriages. Each carriage can hold 12 people. The ride completes 5 full cycles every hour, and operates for 6 hours each day.\n\nFirst, calculate the total number of people who can ride in a single day. Show your working clearly.\n\nThe park management decides to offer a special 'Family Pass' for groups. Each Family Pass allows a group of people to ride together. The total number of people using the Family Pass each day must be:\n1. A factor of the total daily capacity calculated above.\n2. A square number.\n3. Between 100 and 300 people.\n\nFind the exact number of people who can use the Family Pass each day. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Part 1: Calculate total daily capacity.\nNumber of people per carriage = 12\nNumber of carriages = 8\nPeople per cycle = 12 × 8 = 96 people\n\nCycles per hour = 5\nHours per day = 6\nTotal cycles per day = 5 × 6 = 30 cycles\n\nTotal daily capacity = People per cycle × Total cycles per day\nTotal daily capacity = 96 × 30 = 2880 people\n\nPart 2: Find the number for the Family Pass.\nWe need a number that is a factor of 2880, a square number, and between 100 and 300.\n\nFirst, list square numbers between 100 and 300:\n10 × 10 = 100\n11 × 11 = 121\n12 × 12 = 144\n13 × 13 = 169\n14 × 14 = 196\n15 × 15 = 225\n16 × 16 = 256\n17 × 17 = 289\n\nNow, check which of these are factors of 2880:\n\n1.  Is 100 a factor of 2880? 2880 ÷ 100 = 28.8 (No)\n2.  Is 121 a factor of 2880? (121 = 11 × 11. 2880 is not divisible by 11, so 121 is not a factor.) (No)\n3.  Is 144 a factor of 2880? 2880 ÷ 144 = 20 (Yes)\n4.  Is 169 a factor of 2880? (169 = 13 × 13. 2880 is not divisible by 13, so 169 is not a factor.) (No)\n5.  Is 196 a factor of 2880? (196 = 4 × 49. 2880 is not divisible by 49, so 196 is not a factor.) (No)\n6.  Is 225 a factor of 2880? (225 = 9 × 25. While 2880 is divisible by 9 (2880 ÷ 9 = 320), 320 is not divisible by 25, so 225 is not a factor.) (No)\n7.  Is 256 a factor of 2880? (To check, 2880 = 288 × 10 = 144 × 2 × 10 = 12 × 12 × 2 × 10 = 2 × 6 × 2 × 6 × 2 × 10 = 2^6 × 3^2 × 5. Since 256 = 2^8, and 2880 only contains 2^6 as a factor of 2, 2880 is not divisible by 256.) (No)\n8.  Is 289 a factor of 2880? (289 = 17 × 17. 2880 is not divisible by 17, so 289 is not a factor.) (No)\n\nThe only number that satisfies all three conditions is 144.\n\nFinal Answer: The exact number of people who can use the Family Pass each day is 144.",
+      "explanation": "This is a multi-step problem combining multiplication, factors, and square numbers.\n\n**Step 1: Calculate the total daily capacity.**\n*   First, find the capacity per ride cycle:\n    8 carriages × 12 people/carriage = 96 people per cycle.\n*   Next, find the total number of cycles per day:\n    5 cycles/hour × 6 hours/day = 30 cycles per day.\n*   Finally, calculate the total daily capacity:\n    96 people/cycle × 30 cycles/day = 2880 people.\n\n**Step 2: Find the number for the Family Pass.**\nWe are looking for a number that fits three conditions:\n1.  It is a factor of 2880.\n2.  It is a square number.\n3.  It is between 100 and 300.\n\n*   **List square numbers between 100 and 300:**\n    *   10 × 10 = 100\n    *   11 × 11 = 121\n    *   12 × 12 = 144\n    *   13 × 13 = 169\n    *   14 × 14 = 196\n    *   15 × 15 = 225\n    *   16 × 16 = 256\n    *   17 × 17 = 289\n\n*   **Check each square number to see if it is a factor of 2880:**\n    *   100: 2880 ÷ 100 = 28.8 (Not a factor, as there is a remainder).\n    *   121: 2880 ÷ 121 (121 is 11 × 11. 2880 is not divisible by 11, so 121 is not a factor).\n    *   144: 2880 ÷ 144 = 20 (This is a whole number, so 144 is a factor).\n    *   169: 2880 ÷ 169 (169 is 13 × 13. 2880 is not divisible by 13, so 169 is not a factor).\n    *   196: 2880 ÷ 196 (196 is 4 × 49. 2880 is not divisible by 49, so 196 is not a factor).\n    *   225: 2880 ÷ 225 (225 is 9 × 25. While 2880 is divisible by 9 (2880 ÷ 9 = 320), 320 is not divisible by 25, so 225 is not a factor).\n    *   256: 2880 ÷ 256 (256 is 2 multiplied by itself 8 times (2^8). 2880 only contains 2 multiplied by itself 6 times as a factor. Therefore, 2880 is not divisible by 256).\n    *   289: 2880 ÷ 289 (289 is 17 × 17. 2880 is not divisible by 17, so 289 is not a factor).\n\nOnly 144 satisfies all the conditions. Therefore, the exact number of people who can use the Family Pass each day is 144.",
+      "hint": "First, carefully calculate the total daily capacity by multiplying the number of people per carriage, the number of carriages, the cycles per hour, and the hours per day. Then, make a list of all the square numbers between 100 and 300. Finally, systematically divide your total daily capacity by each of these square numbers to see which one divides evenly (without a remainder) to find your answer.",
+      "generatedAt": "2026-04-29T09:30:19.165613"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_006",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A company produces decorative wooden blocks. Each block is a cube with a side length of 5 cm.\nThey pack these blocks into large containers. Each large container holds 138 blocks.\nOn a particular day, the company fills 24 large containers completely.\nYou must show all your working.\n\na) Calculate the total number of decorative wooden blocks produced on this day.\n\nb) The blocks are then repackaged into smaller boxes for shipping.\nEach small box must contain a number of blocks that is a prime number between 20 and 30.\nAlso, the total number of small boxes filled must be a perfect square number.\nWhat is the largest possible number of blocks that can be put into each small box, satisfying these conditions?\nWhat is the total number of small boxes that will be filled in total with this amount per box?",
+      "options": [],
+      "correctAnswer": "a) To find the total number of blocks, we multiply the number of blocks per container by the number of containers:\nNumber of blocks = 138 blocks/container × 24 containers\n\nCalculation:\n   138\n x 24\n -----\n  552  (138 × 4)\n2760 (138 × 20)\n-----\n3312\n\nTotal number of blocks produced = 3312 blocks.\n\nb) First, identify the prime numbers between 20 and 30. These are 23 and 29.\n\nNow, we need to test which of these prime numbers, when used as the number of blocks per small box, results in a perfect square number of small boxes. We are looking for the largest possible number of blocks per small box that satisfies all conditions.\n\nTest 1: If each small box holds 23 blocks (a prime number between 20 and 30).\nNumber of small boxes = Total blocks ÷ Blocks per small box\nNumber of small boxes = 3312 ÷ 23\n\nUsing division:\n    144\n   ____\n23|3312\n   -23\n   ---\n   101\n   -92\n   ---\n    92\n   -92\n   ---\n     0\n\nSo, if each small box holds 23 blocks, there will be 144 small boxes.\nNow, check if 144 is a perfect square:\n12 × 12 = 144. Yes, 144 is a perfect square (12 squared). This condition is met with 23 blocks per box.\n\nTest 2: If each small box holds 29 blocks (a prime number between 20 and 30).\nNumber of small boxes = Total blocks ÷ Blocks per small box\nNumber of small boxes = 3312 ÷ 29\n\nUsing division:\n    114 with a remainder of 6 (or 114.2...)\n   ____\n29|3312\n   -29\n   ---\n    41\n   -29\n   ---\n    122\n   -116\n   -----\n      6\n\nSince there is a remainder, 3312 blocks cannot be evenly divided into boxes of 29 blocks each. This option does not meet the condition of filling boxes completely.\n\nComparing the options that meet all conditions:\nOnly 23 blocks per box works. Since 29 blocks per box does not work, 23 is the largest (and only) possible prime number from the given range that meets all conditions.\n\nAnswer:\nThe largest possible number of blocks that can be put into each small box is 23 blocks.\nThe total number of small boxes that will be filled is 144 boxes.",
+      "explanation": "Part a) requires multi-digit multiplication (138 x 24) to find the total number of blocks. This yields 3312 blocks.\nPart b) involves several steps:\n1.  Identify prime numbers between 20 and 30 (which are 23 and 29).\n2.  For each prime number, divide the total number of blocks (3312) by it to find the number of small boxes.\n3.  Check if the resulting number of small boxes is a perfect square.\n    - For 23 blocks per box: 3312 ÷ 23 = 144 boxes. 144 is a perfect square (12 x 12).\n    - For 29 blocks per box: 3312 ÷ 29 = 114 with a remainder of 6. This means 29 blocks per box is not possible as they wouldn't fill completely.\n4.  Since only 23 blocks per box satisfies all conditions, it is the 'largest possible' (as 29 didn't work). The total number of small boxes filled is 144.",
+      "hint": "First, calculate the total number of blocks. Then, identify the prime numbers within the given range (between 20 and 30) and test each one by dividing the total number of blocks. For each test, check if the resulting number of boxes is a perfect square.",
+      "generatedAt": "2026-04-29T09:31:13.804367"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_007",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A baker is making a special order of cupcakes. They arrange the cupcakes into 9 trays, and each tray holds 9 cupcakes. After baking, the baker needs to understand some properties of the total number of cupcakes. Which of the following statements about the total number of cupcakes is true? You must show your working for full credit.",
+      "options": [
+        "A) The total number of cupcakes is a prime number.",
+        "B) The total number of cupcakes is a cube number.",
+        "C) The total number of cupcakes has exactly 5 factors.",
+        "D) The total number of cupcakes is an even number."
+      ],
+      "correctAnswer": "C) The total number of cupcakes has exactly 5 factors.",
+      "explanation": "1.  **Calculate the total number of cupcakes:**\n    There are 9 trays, and each tray holds 9 cupcakes.\n    Total cupcakes = 9 trays × 9 cupcakes/tray = 81 cupcakes.\n\n2.  **Evaluate Option A: Is 81 a prime number?**\n    A prime number has exactly two factors: 1 and itself. \n    81 can be divided by 1, 3, 9, 27, and 81. Since it has more than two factors (e.g., 3 and 9), 81 is not a prime number. So, Option A is false.\n\n3.  **Evaluate Option B: Is 81 a cube number?**\n    A cube number is the result of multiplying a whole number by itself three times (e.g., 2 × 2 × 2 = 8).\n    Let's check: \n    1 × 1 × 1 = 1\n    2 × 2 × 2 = 8\n    3 × 3 × 3 = 27\n    4 × 4 × 4 = 64\n    5 × 5 × 5 = 125\n    Since 81 is not found in this sequence, 81 is not a cube number. So, Option B is false.\n\n4.  **Evaluate Option C: Does 81 have exactly 5 factors?**\n    Factors are numbers that divide exactly into another number with no remainder. Let's list the factors of 81:\n    1 × 81 = 81\n    3 × 27 = 81\n    9 × 9 = 81\n    The unique factors of 81 are 1, 3, 9, 27, and 81. There are exactly 5 factors. So, Option C is true.\n\n5.  **Evaluate Option D: Is 81 an even number?**\n    An even number can be divided by 2 without a remainder. Even numbers end in 0, 2, 4, 6, or 8. \n    81 ends in 1, which means it is an odd number and cannot be divided by 2 exactly. So, Option D is false.\n\nTherefore, the only true statement is C.",
+      "hint": "First, multiply the number of trays by the number of cupcakes per tray to find the total. Then, for each option, consider the definition of prime numbers, cube numbers, factors, and even numbers, and test the total number of cupcakes against each definition.",
+      "generatedAt": "2026-04-29T09:31:38.147306"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_008",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A toy factory produces small, identical wooden blocks.\nOn Monday, the factory produces enough blocks to perfectly form one large cube. Each side of this large cube measures 12 small blocks.\nOn Tuesday, the factory produces a different number of blocks. The total number of blocks produced on Tuesday is a square number, and it is between 2000 and 2100.\nAll the blocks produced on Tuesday must be packed into smaller boxes. Each box must contain the same prime number of blocks.\nWhat is the largest possible prime number of blocks that can be placed into each box, and how many boxes would be needed to pack all the blocks produced on Tuesday? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "The largest possible prime number of blocks per box is 5, and 405 boxes would be needed.",
+      "explanation": "1.  **Find the number of blocks produced on Tuesday:**\n    The total number of blocks produced on Tuesday is a square number between 2000 and 2100.\n    Let's test square numbers:\n    40 x 40 = 1600\n    41 x 41 = 1681\n    42 x 42 = 1764\n    43 x 43 = 1849\n    44 x 44 = 1936\n    45 x 45 = 2025\n    46 x 46 = 2116 (This is greater than 2100).\n    So, the number of blocks produced on Tuesday is 2025.\n\n2.  **Find the prime factors of 2025:**\n    We need to find the prime numbers that divide 2025.\n    2025 ends in a 5, so it is divisible by the prime number 5.\n    2025 ÷ 5 = 405\n    405 also ends in a 5, so it is divisible by 5.\n    405 ÷ 5 = 81\n    Now consider 81. The sum of its digits (8+1=9) is divisible by 3, so 81 is divisible by the prime number 3.\n    81 ÷ 3 = 27\n    27 is divisible by 3.\n    27 ÷ 3 = 9\n    9 is divisible by 3.\n    9 ÷ 3 = 3\n    The prime factors of 2025 are 3 and 5 (since 2025 = 3 x 3 x 3 x 3 x 5 x 5).\n\n3.  **Determine the largest possible prime number of blocks per box:**\n    From the prime factors (3 and 5) of 2025, the largest prime number is 5.\n    Therefore, the largest possible prime number of blocks that can be placed in each box is 5.\n\n4.  **Calculate the number of boxes needed:**\n    Total blocks on Tuesday = 2025\n    Blocks per box = 5\n    Number of boxes = Total blocks ÷ Blocks per box\n    Number of boxes = 2025 ÷ 5 = 405 boxes.\n\nFinal Answer: The largest possible prime number of blocks per box is 5, and 405 boxes would be needed.",
+      "hint": "First, identify the square number for Tuesday's production by testing squares of numbers around the given range. Then, find the prime factors of that number to determine the largest prime number for packing. Finally, divide the total blocks by this prime number to find how many boxes are needed.",
+      "generatedAt": "2026-04-29T09:31:58.758449"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_009",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A school is organising a mathematics challenge for its Year 5 students. They need to form various teams for the event, including some special teams.\n\nThe total number of Year 5 students is found by calculating 15 squared, and then multiplying that result by 3.\n\nEach team, whether special or normal, must have a specific number of students. This number is the smallest prime number that is greater than 10.\n\nThe school plans to create a certain number of special teams. This number is the largest factor of 64 that is smaller than 20.\n\nAfter all the special teams have been formed, how many *normal* teams can be created from the remaining students? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To solve this, we need to follow several steps:\n\n1.  **Calculate the total number of Year 5 students:**\n    *   First, calculate 15 squared: 15 * 15 = 225.\n    *   Then, multiply this result by 3: 225 * 3 = 675.\n    *   So, there are 675 Year 5 students in total.\n\n2.  **Determine the number of students per team:**\n    *   The smallest prime number greater than 10 is 11.\n    *   So, each team will have 11 students.\n\n3.  **Determine the number of special teams:**\n    *   First, list the factors of 64: 1, 2, 4, 8, 16, 32, 64.\n    *   The largest factor of 64 that is smaller than 20 is 16.\n    *   So, there will be 16 special teams.\n\n4.  **Calculate the total number of students in special teams:**\n    *   Number of special teams * students per team = 16 * 11 = 176 students.\n\n5.  **Calculate the number of remaining students (after special teams are formed):**\n    *   Total students - students in special teams = 675 - 176 = 499 students.\n\n6.  **Calculate the number of normal teams that can be created:**\n    *   Remaining students / students per team = 499 / 11.\n    *   Using division: 499 ÷ 11 = 45 with a remainder of 4.\n    *   Since the question asks for how many *normal* teams can be created, we only count the full teams.\n\nTherefore, 45 normal teams can be created.",
+      "explanation": "The question requires breaking down a complex problem into several smaller arithmetic and number property steps. First, identifying the total number of students involves a square number calculation followed by multiplication. Next, identifying the team size requires knowledge of prime numbers. Then, determining the number of special teams needs an understanding of factors. After these initial values are found, a sequence of multi-digit multiplication, subtraction, and finally multi-digit division is performed. The final division requires the student to interpret the remainder in context, providing only the whole number of teams that can be fully formed.",
+      "hint": "Break down the problem into smaller steps. First, calculate the total number of students, then find out how many students are in each team, and how many special teams are formed. After that, calculate the students involved in special teams and the remaining students before performing the final division.",
+      "generatedAt": "2026-04-29T09:32:30.210494"
+    },
+    {
+      "id": "m-y5-mult-div_advanced_010",
+      "topicId": "m-y5-mult-div",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A maths challenge game assigns scores based on special numbers.\nIn Round 1, a player earns a 'Base Score' by calculating the product of 24 and 18.\nIn Round 2, the player earns 'Bonus Points'. These bonus points are the largest prime factor of the Base Score.\nIn Round 3, the player receives 'Penalty Points'. These penalty points are the smallest square number (other than 1) that is also a factor of the Base Score.\nWhat is the player's final score after all three rounds (Base Score + Bonus Points - Penalty Points)? Show your working.",
+      "options": [
+        "430",
+        "431",
+        "432",
+        "433"
+      ],
+      "correctAnswer": "431",
+      "explanation": "Step 1: Calculate the Base Score.\nBase Score = 24 × 18\nTo calculate 24 × 18, we can use partitioning:\n24 × 10 = 240\n24 × 8 = 192\n240 + 192 = 432\nSo, the Base Score is 432.\n\nStep 2: Find the factors of the Base Score (432) to identify prime factors and square factors.\nTo find factors, we can use prime factorization: 432 = 2 × 216 = 2 × 2 × 108 = 2 × 2 × 2 × 54 = 2 × 2 × 2 × 2 × 27 = 2 × 2 × 2 × 2 × 3 × 3 × 3 = 2^4 × 3^3.\nFactors of 432 include: 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 27, 36, 48, 54, 72, 108, 144, 216, 432.\n\nStep 3: Determine Bonus Points (largest prime factor of the Base Score).\nThe prime factors of 432 (from its prime factorization 2^4 × 3^3) are 2 and 3.\nThe largest prime factor is 3.\nSo, Bonus Points = 3.\n\nStep 4: Determine Penalty Points (smallest square number, other than 1, that is also a factor of the Base Score).\nSquare numbers are: 1 × 1 = 1, 2 × 2 = 4, 3 × 3 = 9, 4 × 4 = 16, 5 × 5 = 25, 6 × 6 = 36, and so on.\nLooking at the factors of 432 that are square numbers (and greater than 1): 4, 9, 16, 36, 144.\nThe smallest of these square factors is 4.\nSo, Penalty Points = 4.\n\nStep 5: Calculate the Final Score.\nFinal Score = Base Score + Bonus Points - Penalty Points\nFinal Score = 432 + 3 - 4\nFinal Score = 435 - 4\nFinal Score = 431.\n\nThe player's final score is 431.",
+      "hint": "First, calculate the Base Score using multi-digit multiplication. Then, find all the factors of the Base Score to help identify its prime factors and any square number factors.",
+      "generatedAt": "2026-04-29T09:33:42.218167"
+    }
+  ]
+}

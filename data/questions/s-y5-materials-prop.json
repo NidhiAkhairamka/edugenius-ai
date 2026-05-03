@@ -1,0 +1,502 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y5-materials-prop_beginner_001",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student adds a small amount of an unknown material to a beaker of water and stirs it. After stirring, the material disappears, and the water becomes clear. Which word best describes this property of the unknown material?",
+      "options": [
+        "Hardness",
+        "Solubility",
+        "Conductivity",
+        "Magnetism"
+      ],
+      "correctAnswer": "Solubility",
+      "explanation": "When a material dissolves in a liquid, it mixes evenly and appears to disappear, forming a solution. The ability of a material to dissolve in a liquid is called solubility.",
+      "hint": "Consider what happens when salt or sugar is mixed into water. What do we call that specific property?",
+      "generatedAt": "2026-04-29T14:17:00.619743"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_002",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student holds a magnet near four different objects: a wooden block, an iron paperclip, a glass marble, and a plastic spoon. Which object will be attracted to the magnet?",
+      "options": [
+        "A) Wooden block",
+        "B) Iron paperclip",
+        "C) Glass marble",
+        "D) Plastic spoon"
+      ],
+      "correctAnswer": "B) Iron paperclip",
+      "explanation": "Magnets are known to attract certain materials, primarily those containing iron, nickel, or cobalt. Out of the given options, the iron paperclip is made of iron, which is a magnetic material. The wooden block, glass marble, and plastic spoon are non-magnetic materials and therefore will not be attracted to the magnet.",
+      "hint": "Consider which common metals are attracted to magnets.",
+      "generatedAt": "2026-04-29T14:17:10.519123"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_003",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which property describes a material that is attracted to a magnet?",
+      "options": [
+        "A) Soluble",
+        "B) Conductive",
+        "C) Magnetic",
+        "D) Hard"
+      ],
+      "correctAnswer": "C) Magnetic",
+      "explanation": "Magnetic materials are those that are pulled towards or attracted by a magnet. Soluble materials can dissolve in a liquid. Conductive materials allow heat or electricity to flow through them easily. Hardness describes how resistant a material is to scratching or denting.",
+      "hint": "Consider the scientific term used for things that stick to magnets.",
+      "generatedAt": "2026-04-29T14:17:18.284452"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_004",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student connects a simple circuit to two different materials: a metal spoon and a wooden stick. The light bulb lights up when connected to the metal spoon, but not when connected to the wooden stick. State the property of materials that this simple experiment is testing.",
+      "options": [
+        "A. Hardness",
+        "B. Solubility",
+        "C. Conductivity",
+        "D. Magnetism"
+      ],
+      "correctAnswer": "C. Conductivity",
+      "explanation": "The experiment shows that the metal spoon allows electricity to flow through it, causing the light bulb to light up. The wooden stick, however, does not allow electricity to flow. The property that describes how well a material allows electricity to pass through it is called conductivity. Therefore, the experiment is testing the conductivity of the materials.",
+      "hint": "Think about what needs to happen for a light bulb in an electrical circuit to turn on.",
+      "generatedAt": "2026-04-29T14:17:29.978256"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_005",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A metal pan gets very hot on a stove much faster than a ceramic plate would. State the property of the metal pan that allows heat to transfer through it quickly.",
+      "options": [
+        "Hardness",
+        "Solubility",
+        "Conductivity",
+        "Magnetism"
+      ],
+      "correctAnswer": "Conductivity",
+      "explanation": "Conductivity is the property of a material that allows heat or electricity to pass through it easily. Metals are known to be good conductors of heat, which means heat travels through them quickly, making the pan hot.",
+      "hint": "Think about how easily heat can travel through different materials, especially metals versus non-metals.",
+      "generatedAt": "2026-04-29T14:17:39.630377"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_006",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the property of a material that describes its ability to dissolve in a liquid.",
+      "options": [
+        "A) Hardness",
+        "B) Conductivity",
+        "C) Solubility",
+        "D) Magnetic attraction"
+      ],
+      "correctAnswer": "C) Solubility",
+      "explanation": "Solubility is the property that tells us if a substance can dissolve in a liquid, meaning it mixes completely to form a uniform solution. For example, sugar has high solubility in water because it dissolves easily. Hardness is about how easily a material can be scratched. Conductivity is about how well a material allows heat or electricity to pass through it. Magnetic attraction describes if a material is pulled by a magnet.",
+      "hint": "Consider what happens when you stir sugar into a cup of hot water. The sugar seems to disappear.",
+      "generatedAt": "2026-04-29T14:17:49.254601"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_007",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A diamond is known to be able to scratch many other materials, including glass. Which property of diamond allows it to scratch other materials?",
+      "options": [
+        "A. Solubility",
+        "B. Hardness",
+        "C. Conductivity",
+        "D. Magnetism"
+      ],
+      "correctAnswer": "B. Hardness",
+      "explanation": "Hardness is a property of a material that describes its ability to resist scratching or indentation by other materials. Since diamond can scratch glass, it means diamond has a high level of hardness.",
+      "hint": "Consider what 'scratching' tells you about a material's resistance to damage.",
+      "generatedAt": "2026-04-29T14:17:57.359987"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_008",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "When a small amount of salt is stirred into a glass of water, the salt crystals disappear, and the water becomes salty but remains clear. Which property of salt is demonstrated in this observation?",
+      "options": [
+        "A. Hardness",
+        "B. Conductivity",
+        "C. Solubility",
+        "D. Magnetism"
+      ],
+      "correctAnswer": "C. Solubility",
+      "explanation": "Solubility is the ability of a substance (like salt) to dissolve in a liquid (like water) to form a clear mixture called a solution. When the salt crystals disappear and mix evenly with the water, it shows that salt is soluble in water. Hardness is about resisting scratches, conductivity is about allowing heat or electricity to pass through, and magnetism is about being attracted to a magnet; none of these describe what happens when salt dissolves in water.",
+      "hint": "Think about what happens when a solid material mixes completely with a liquid and seems to disappear, forming a uniform liquid.",
+      "generatedAt": "2026-04-29T14:18:09.961005"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_009",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State which one of the following materials is strongly attracted to a magnet.",
+      "options": [
+        "Rubber",
+        "Copper",
+        "Steel",
+        "Aluminium"
+      ],
+      "correctAnswer": "Steel",
+      "explanation": "Magnetic materials are those that are attracted to a magnet. Out of the given options, steel is an alloy that contains iron, which is a magnetic metal. Therefore, steel is strongly attracted to a magnet. Rubber, copper, and aluminium are non-magnetic materials and are not attracted to a magnet.",
+      "hint": "Consider which common metal is often used to make objects that stick to a fridge.",
+      "generatedAt": "2026-04-29T14:18:20.113514"
+    },
+    {
+      "id": "s-y5-materials-prop_beginner_010",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Imagine you are holding a hot drink in a cup. Which property of the cup's material is important to stop your hand from getting too hot?",
+      "options": [
+        "A. Its hardness",
+        "B. Its ability to dissolve",
+        "C. Its poor thermal conductivity",
+        "D. Its response to magnets"
+      ],
+      "correctAnswer": "C. Its poor thermal conductivity",
+      "explanation": "When holding a hot drink, heat tries to transfer from the drink, through the cup, and into your hand. To prevent your hand from getting too hot, the cup material needs to resist this heat transfer. This property is called poor thermal conductivity, which means the material is a good thermal insulator. Hardness, solubility, and magnetic properties are not related to how well a material transfers heat.",
+      "hint": "Think about how heat moves and what kind of material would slow it down.",
+      "generatedAt": "2026-04-29T14:18:36.283872"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y5-materials-prop_intermediate_001",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Three unknown solid materials, A, B, and C, are tested for their physical properties. The results are recorded in the table below:\n\n| Material | Hardness (Can it scratch glass?) | Solubility in water | Electrical Conductivity | Response to magnet |\n| :------- | :------------------------------- | :------------------ | :---------------------- | :----------------- |\n| **A**    | Yes                              | No                  | Good conductor          | No attraction      |\n| **B**    | No                               | No                  | Good conductor          | Strong attraction  |\n| **C**    | No                               | Yes                 | Poor conductor          | No attraction      |\n\nWhich material(s) is/are most likely a metal, and why?",
+      "options": [
+        "A. Material A, because it is hard, insoluble, and conducts electricity.",
+        "B. Material B, because it is a good conductor and attracted to a magnet.",
+        "C. Material C, because it is soluble in water and a poor conductor.",
+        "D. Both A and B, because they both are insoluble in water and good electrical conductors."
+      ],
+      "correctAnswer": "D. Both A and B, because they both are insoluble in water and good electrical conductors.",
+      "explanation": "To identify metals, we must consider their characteristic properties:\n1.  **Electrical Conductivity:** Metals are excellent electrical conductors. Both Material A and Material B are good conductors, while Material C is a poor conductor.\n2.  **Solubility in Water:** Most metals are insoluble in water (though some may react with it). Both Material A and Material B are insoluble, whereas Material C is soluble.\n3.  **Hardness:** Metals vary in hardness. Some metals are very hard (like Material A, e.g., tungsten), while others are relatively softer (like Material B, e.g., iron, copper) than glass.\n4.  **Response to Magnet:** Only a few metals (iron, cobalt, nickel) are strongly magnetic, like Material B. Many other metals (like Material A, e.g., aluminium, copper, gold) are not attracted to a magnet.\n\nMaterial C is soluble in water and a poor electrical conductor. These properties are typical of ionic compounds (like salt) or molecular solids, not metals.\n\nSince both Material A and Material B exhibit the fundamental metallic properties of being insoluble in water and good electrical conductors, they are both most likely metals. Therefore, option D is the most comprehensive and correct answer.",
+      "hint": "Recall that all metals are good electrical conductors and are generally insoluble in water. Other properties like hardness and magnetism can vary between different types of metals.",
+      "generatedAt": "2026-04-29T14:19:00.866576"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_002",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A laboratory technician has two unlabeled metal samples, Sample X and Sample Y. One sample is pure iron, and the other is pure aluminium. The technician needs to correctly identify each sample.\n\na) State the most effective physical property from the list below that could be tested to differentiate between iron and aluminium.\n    *   Hardness\n    *   Solubility in water\n    *   Electrical conductivity\n    *   Response to magnets\n(1 mark)\n\nb) Describe a simple procedure the technician could use to identify the iron sample using the property stated in part (a), including the expected observations.\n(3 marks)",
+      "options": [],
+      "correctAnswer": "a) Response to magnets\n\nb) The technician should take a bar magnet and bring it close to each metal sample. The sample that is strongly attracted to the magnet is the iron sample. The sample that shows no attraction to the magnet is the aluminium sample.",
+      "explanation": "a) Iron is a ferromagnetic material, meaning it is strongly attracted to magnets. Aluminium, however, is a non-magnetic material. Therefore, testing the response to magnets provides a clear and definitive way to distinguish between the two metals, unlike hardness, solubility, or electrical conductivity which are either similar or require more complex methods for differentiation.\n\nb) This procedure directly tests the magnetic property. By bringing a magnet close to each sample, the technician can observe a distinct difference: iron will be visibly attracted to the magnet, whereas aluminium will not. This simple test allows for accurate identification of the iron sample.",
+      "hint": "Consider which of the listed properties causes a very distinct and easily observable reaction in one of the metals but not the other, allowing for immediate identification.",
+      "generatedAt": "2026-04-29T14:19:16.196209"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_003",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student is given an unlabeled solid material that appears metallic. They need to quickly determine if it is a ferromagnetic metal, such as iron, or a non-magnetic metal, such as aluminium. \n\nWhich experimental method should the student use, and what observation would confirm the material is iron?",
+      "options": [
+        "A) Perform a hardness test: Scratch the surface with a steel nail. If it is iron, it will scratch easily.",
+        "B) Perform a solubility test: Place a small piece in distilled water. If it is iron, it will dissolve completely.",
+        "C) Perform an electrical conductivity test: Connect it in a simple circuit with a bulb. If it is iron, the bulb will glow brightly.",
+        "D) Perform a magnetic response test: Bring a strong bar magnet close to the sample. If it is iron, it will be attracted to the magnet."
+      ],
+      "correctAnswer": "D) Perform a magnetic response test: Bring a strong bar magnet close to the sample. If it is iron, it will be attracted to the magnet.",
+      "explanation": "To distinguish between a ferromagnetic metal (like iron) and a non-magnetic metal (like aluminium), the most direct and specific property to test is its response to a magnetic field.\n\n1.  **Selecting the method (Step 1):** Iron is known for its strong magnetic properties (ferromagnetism), whereas aluminium is non-magnetic. Therefore, a magnetic response test is the most appropriate method to differentiate between them.\n2.  **Applying and interpreting (Step 2):** In a magnetic response test, bringing a strong magnet near a ferromagnetic material like iron will result in a clear attraction. Aluminium, being non-magnetic, would not be attracted to the magnet. Options A, B, and C are incorrect because both iron and aluminium are relatively hard (A), neither dissolves significantly in water (B), and both are good electrical conductors, causing a bulb to glow brightly (C), meaning these tests would not reliably distinguish between them.",
+      "hint": "Think about the unique property that defines a 'ferromagnetic' material and how you would test for it.",
+      "generatedAt": "2026-04-29T14:19:31.194548"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_004",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A manufacturer is designing a new set of laboratory beaker handles. These handles need to be tough (hard), safe to touch when hot (poor electrical conductor), and resistant to chemical spills (insoluble in water). They are considering four potential materials, P, Q, R, and S, with the following known properties:\n\n*   **Material P:** Very hard, good electrical conductor, non-magnetic, insoluble in water.\n*   **Material Q:** Moderately hard, poor electrical conductor, non-magnetic, soluble in water.\n*   **Material R:** Moderately hard, poor electrical conductor, non-magnetic, insoluble in water.\n*   **Material S:** Soft, poor electrical conductor, strongly magnetic, insoluble in water.\n\nThe manufacturer chooses Material R as the most suitable option due to its combination of properties. Before finalising the design, they want to empirically confirm that Material R is indeed a *poor electrical conductor*.\n\nWhich of the following experimental setups and observations would correctly verify that Material R is a poor electrical conductor?",
+      "options": [
+        "A) Scratch Material R with a copper coin. If Material R is scratched, it confirms it is a poor conductor.",
+        "B) Place a small piece of Material R in a test tube with distilled water and shake. If Material R dissolves completely, it confirms it is a poor conductor.",
+        "C) Connect Material R as part of a series circuit with a 9V battery and a low-power LED. If the LED does not light up, it confirms it is a poor conductor.",
+        "D) Hang Material R from a string and bring a strong bar magnet near it. If Material R is not attracted to the magnet, it confirms it is a poor conductor."
+      ],
+      "correctAnswer": "C) Connect Material R as part of a series circuit with a 9V battery and a low-power LED. If the LED does not light up, it confirms it is a poor conductor.",
+      "explanation": "The question asks to verify that Material R is a poor electrical conductor. This requires a test specifically designed to measure or observe the material's ability to conduct electricity.\n\n*   **Option A** describes a test for hardness. Scratching indicates the relative hardness of a material.\n*   **Option B** describes a test for solubility. Observing whether a material dissolves in a solvent (like distilled water) tells us about its solubility.\n*   **Option C** describes the correct experimental setup for testing electrical conductivity. In a simple series circuit, if the material being tested is a poor electrical conductor, it will impede the flow of electric current significantly, resulting in the LED not lighting up. This directly confirms its property as a poor conductor.\n*   **Option D** describes a test for magnetism. Observing attraction or repulsion to a magnet determines if a material is magnetic.",
+      "hint": "To test electrical conductivity, you need to see if electricity can pass through the material. Think about a simple circuit with a power source and an indicator.",
+      "generatedAt": "2026-04-29T14:19:55.444500"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_005",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A scientist is tasked with selecting the most suitable material for a critical structural component of a new deep-sea submersible. This component must meet three essential criteria:\n1.  It must be completely **insoluble in water** to prevent degradation at great depths.\n2.  It needs to possess **high hardness** to withstand extreme external pressures encountered in the deep ocean.\n3.  It must be **non-magnetic** to avoid interfering with the submersible's sensitive navigation and communication systems.\n\nThe scientist has compiled a summary of key properties for four potential materials:\n*   **Steel**: Very high hardness, insoluble in water, *magnetic*.\n*   **Glass**: Very high hardness, insoluble in water, *non-magnetic*.\n*   **Wood**: Moderate hardness, insoluble in water (but can absorb water and swell over time), *non-magnetic*.\n*   **Polyethene plastic**: Low hardness, insoluble in water, *non-magnetic*.\n\nBased on these requirements and properties, which material should the scientist choose, and why?",
+      "options": [
+        "A) Steel, because it offers very high hardness and is insoluble in water, making it robust.",
+        "B) Glass, because it possesses very high hardness, is insoluble in water, and is non-magnetic.",
+        "C) Wood, because it is insoluble, non-magnetic, and relatively easy to shape, fitting most criteria.",
+        "D) Polyethene plastic, because it is insoluble, non-magnetic, and lightweight, which is beneficial for submersibles."
+      ],
+      "correctAnswer": "B) Glass, because it possesses very high hardness, is insoluble in water, and is non-magnetic.",
+      "explanation": "To determine the most suitable material, we must check how each material's properties align with all three essential criteria:\n1.  **Insoluble in water**\n2.  **High hardness**\n3.  **Non-magnetic**\n\n*   **Steel**: Meets criteria 1 (insoluble) and 2 (very high hardness), but fails criterion 3 as it is **magnetic**.\n*   **Glass**: Meets criterion 1 (insoluble), criterion 2 (very high hardness), and criterion 3 (non-magnetic). It satisfies all requirements.\n*   **Wood**: Meets criterion 1 (insoluble, though can absorb water) and 3 (non-magnetic), but its **moderate hardness** might not be sufficient for 'extreme external pressures'.\n*   **Polyethene plastic**: Meets criterion 1 (insoluble) and 3 (non-magnetic), but its **low hardness** makes it unsuitable for withstanding 'extreme external pressures'.\n\nTherefore, Glass is the only material that satisfies all three crucial requirements for the deep-sea submersible component.",
+      "hint": "Carefully evaluate each material against *all three* specified criteria: insolubility, hardness, and non-magnetism. A single failure in any criterion makes a material unsuitable.",
+      "generatedAt": "2026-04-29T14:20:21.930413"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_006",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A technician finds a coil of old electrical wiring and needs to determine its properties before deciding on its reuse or recycling. They suspect it is copper, a material known for its excellent electrical conductivity, relative softness, and non-magnetic nature. To verify these characteristics, the technician needs to perform some tests.\n\n1.  **Describe** a laboratory method to test the electrical conductivity of the wire, including the essential equipment needed and the procedure.\n2.  **Explain** how the results from this test would indicate whether the wire is an excellent electrical conductor, referring to the movement of electrons.\n3.  **State** a simple practical test the technician could perform to assess the relative hardness of the wire.\n4.  If the wire has a mass of 224 g and is made of pure copper (density = 8.96 g/cm³), **Calculate** the volume of the wire in cm³.",
+      "options": [],
+      "correctAnswer": "1. **Description of electrical conductivity test:**\n    *   **Equipment:** A power supply (e.g., battery or DC power pack), an ammeter, connecting wires, crocodile clips, and the wire sample itself. A voltmeter can also be used to measure potential difference.\n    *   **Procedure:** Set up a simple series circuit. Connect the power supply, the ammeter, and the wire sample in series using connecting wires and crocodile clips. Switch on the power supply and observe the reading on the ammeter. A voltmeter can be connected in parallel across the wire to measure the potential difference.\n\n2. **Explanation of results for excellent electrical conductivity:**\n    *   If the wire is an excellent electrical conductor, the ammeter will show a high current reading (and the voltmeter will show a low potential difference across the wire, indicating low resistance). This happens **because** excellent conductors have delocalised electrons that are free to move throughout the material's structure. These free electrons can easily carry electrical charge when a potential difference is applied, **so** a significant current can flow through the wire with little opposition.\n\n3. **Simple practical test for relative hardness:**\n    *   Attempt to scratch the surface of the wire with a material of known hardness, such as a fingernail, a copper coin, or a steel file. If it can be scratched by a softer material, it indicates it is relatively soft.\n\n4. **Calculation of volume:**\n    *   **Formula:** Density = Mass / Volume\n    *   To find Volume, rearrange the formula: Volume = Mass / Density\n    *   **Substitution:** Volume = 224 g / 8.96 g/cm³\n    *   **Calculation:** Volume = 25 cm³\n    *   **Answer with units:** 25 cm³",
+      "explanation": "This question requires students to demonstrate knowledge of material properties, experimental design, and basic calculations. For electrical conductivity, they must correctly identify suitable equipment and describe a circuit setup to measure current flow. The explanation needs to link observed results (high current) to the underlying scientific principle (free electrons) and use appropriate cause-and-effect language ('because' and 'so'). For hardness, a simple comparative test is required. Finally, the calculation tests the understanding and application of the density formula, requiring correct substitution and units.",
+      "hint": "When describing a circuit for conductivity, think about how to measure the flow of electricity. For the calculation, remember that density, mass, and volume are related by a formula you can rearrange.",
+      "generatedAt": "2026-04-29T14:20:43.189943"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_007",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A Year 5 student is comparing two common materials found in their classroom: a small plastic building brick and a piece of white chalk. They observe that the plastic brick is much more durable for building and can be easily cleaned with water, unlike the chalk.\n\nExplain, by referring to **two specific properties** and how they could be tested, why the plastic building brick is a more suitable material than chalk for creating reusable toys that can be washed. (4 marks)",
+      "options": [],
+      "correctAnswer": "The plastic brick is more suitable due to its **hardness** and **insolubility**.\n\n1.  **Hardness:**\n    *   **Test:** A simple scratch test could be performed on both materials, for example, by trying to scratch them with a fingernail or a copper coin.\n    *   **Observation/Reasoning:** The plastic brick would be difficult to scratch or would show minimal marking, indicating it is a hard material. Chalk, however, would be easily scratched or would crumble, showing it is soft.\n    *   **Explanation:** Plastic's hardness means it is resistant to wear and tear, so it will not easily break or deform. This makes it durable for repeated use as a toy. Chalk's softness makes it fragile and unsuitable for sturdy, long-lasting construction.\n\n2.  **Solubility:**\n    *   **Test:** A small piece of each material could be placed in separate beakers of water and observed for several minutes, with gentle stirring.\n    *   **Observation/Reasoning:** The plastic brick would remain solid and unchanged in the water, indicating it is insoluble. The chalk would dissolve or disperse in the water, indicating it is soluble.\n    *   **Explanation:** Plastic's insolubility means it can be safely washed and cleaned with water without dissolving or being damaged, making it hygienic and reusable. Chalk's solubility means it would break down or disappear when washed, making it unsuitable for washable toys.",
+      "explanation": "This question requires the student to identify two relevant material properties (hardness for durability and insolubility for washability). For each property, they must describe a suitable test method, state the expected observation for both plastic and chalk, and then explain (providing cause and effect) why these properties make plastic more suitable. One mark is typically awarded for identifying each property and its test, and one mark for the clear explanation of suitability linked to the observations for each property.",
+      "hint": "Consider what makes a material 'durable' and what allows it to be 'cleaned with water' without being damaged. Think about how you would experimentally compare these two qualities between plastic and chalk.",
+      "generatedAt": "2026-04-29T16:05:21.562013"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_008",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A materials scientist receives three unlabelled solid samples, X, Y, and Z. They are informed that the samples are, in no particular order, pure iron, table sugar (sucrose), and a type of plastic (polyvinyl chloride, PVC). To correctly identify each sample, the scientist has access to apparatus to test for hardness, solubility in water, electrical conductivity, and response to a magnet.\n\n**Describe** a two-step experimental procedure to identify each of the three samples (iron, sugar, PVC). For each step, you must state:\n1.  Which property is being tested and why it is a suitable test at that stage.\n2.  The expected observation for each of the three materials (or the remaining unlabelled materials) during that test.\n3.  How these observations lead to the identification of *at least one* material, or how they guide the choice of the second test.",
+      "options": [],
+      "correctAnswer": "A valid two-step procedure is as follows:\n\n**Step 1: Test for response to a magnet.**\n1.  **Property Tested:** Response to a magnet.\n    **Why suitable first test:** This is a quick, non-destructive test, and among the given materials, only pure iron is significantly magnetic. This allows for the immediate identification of one sample.\n2.  **Procedure:** Bring a strong permanent magnet close to each of the three samples (X, Y, and Z) in turn.\n3.  **Expected Observations and Identification:**\n    *   **One sample** (e.g., X) will be strongly attracted to the magnet. This sample is identified as **pure iron**.\n    *   **The other two samples** (e.g., Y and Z) will show no attraction to the magnet. These two samples are either table sugar or PVC plastic, and require a further test to distinguish them.\n\n**Step 2: Test for solubility in water.**\n1.  **Property Tested:** Solubility in water.\n    **Why suitable second test:** This test will distinguish between table sugar and PVC plastic. Sugar is soluble in water, whereas PVC is insoluble, and both are non-magnetic.\n2.  **Procedure:** Take a small amount from each of the remaining two unlabelled samples (e.g., Y and Z). Place each amount into a separate beaker containing distilled water and stir vigorously.\n3.  **Expected Observations and Identification:**\n    *   **One sample** (e.g., Y) will dissolve in the water to form a clear solution. This sample is identified as **table sugar (sucrose)**.\n    *   **The other sample** (e.g., Z) will remain as a solid and will not dissolve in the water. This sample is identified as **PVC plastic**.\n\nThis procedure allows for the unique identification of all three materials.",
+      "explanation": "The question requires a two-step experimental procedure to identify three distinct materials (iron, sugar, PVC) using their characteristic physical properties: hardness, solubility, conductivity, and magnetism. The chosen solution first identifies the unique magnetic material, then uses solubility to distinguish the remaining two.\n\n*   **Step 1 (Magnetism):** Pure iron is uniquely magnetic among the three. Testing for magnetism is a rapid, non-destructive method to isolate iron from the other two materials (sugar and PVC), which are non-magnetic.\n*   **Step 2 (Solubility):** After identifying iron, the remaining two samples (sugar and PVC) are both non-magnetic and relatively soft. However, they differ significantly in solubility. Table sugar (sucrose) is soluble in water, forming a solution, while PVC plastic is insoluble and will not dissolve. This difference allows for their final identification.",
+      "hint": "Consider which property is unique to only one of the materials, allowing for an immediate identification. Then, think about how to differentiate between the remaining two materials using another distinct property.",
+      "generatedAt": "2026-04-29T16:05:42.361087"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_009",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student, Liam, is designing a new diving mask. He needs to choose a material for the main *structural frame* of the mask that will be strong enough to withstand high pressure underwater. He is considering two materials: Material A (a hard plastic) and Material B (a softer, flexible silicone).\n\nHe performs tests on both materials:\n*   **Hardness test**: Material A can scratch Material B easily. Material B cannot scratch Material A.\n*   **Solubility test**: Neither Material A nor Material B dissolves in water.\n*   **Magnetic response**: Neither Material A nor Material B is attracted to a magnet.\n*   **Electrical conductivity test**: Neither Material A nor Material B conducts electricity.\n\nExplain which material (A or B) would be more suitable for the *main structural frame* of Liam's diving mask, referring to at least two relevant properties in your explanation. (4 marks)",
+      "options": [],
+      "correctAnswer": "Material A would be more suitable for the main structural frame of the diving mask.\n\nFirstly, the main structural frame needs to be strong and rigid to withstand the high pressure underwater. The hardness test shows that Material A can scratch Material B easily, meaning Material A is harder than Material B. Therefore, Material A is stronger and more rigid, making it better able to provide the necessary structural integrity against pressure.\n\nSecondly, for a diving mask, it is crucial that the material does not dissolve in water. Both Material A and Material B were found to be insoluble in water, so both materials meet this essential requirement. The other properties tested, such as magnetic response and electrical conductivity, are not directly relevant to the structural strength or water-resistance function of a diving mask's frame.",
+      "explanation": "1.  **Identify the primary function/requirement:** The main structural frame needs to be 'strong enough to withstand high pressure underwater'.\n2.  **Relate requirement to material properties:** Strength and rigidity are directly linked to the material's hardness.\n3.  **Interpret test results for hardness:** The hardness test indicates 'Material A can scratch Material B easily', which means Material A is harder and therefore stronger/more rigid than Material B.\n4.  **Formulate explanation (cause and effect):** Material A's greater hardness (cause) makes it stronger and more rigid (effect), which is essential for withstanding high pressure.\n5.  **Consider other relevant properties:** Solubility in water is also critical for a diving mask. Both materials A and B are 'insoluble in water', so this property confirms suitability but doesn't differentiate between them for the primary structural role.\n6.  **Discard irrelevant properties:** Magnetic response and electrical conductivity are not relevant to the structural frame's ability to withstand pressure or its general function in water.\n7.  **Conclusion:** Material A is the better choice because its superior hardness directly addresses the primary need for strength against pressure.",
+      "hint": "Focus on the key functional requirement for the diving mask's structural frame (strength under pressure). Which tested property directly measures a material's ability to resist deformation or breaking, and which other property is essential for any item used underwater?",
+      "generatedAt": "2026-04-29T16:06:12.712045"
+    },
+    {
+      "id": "s-y5-materials-prop_intermediate_010",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Maya is helping her dad repair a small electronic device. They have two metal wires, Wire A and Wire B, which look identical. They need to choose the correct wire for two different purposes:\n1.  To replace a broken electrical wire inside the device.\n2.  To create a small, strong, non-magnetic support bracket.\n\nThey perform the following tests and record their observations:\n\n**Test 1: Hardness Test (Scratch Test)**\n*   Wire A is scratched by Wire B.\n*   Wire B is not scratched by Wire A.\n\n**Test 2: Electrical Conductivity Test**\n*   When Wire A is connected in a circuit with an LED, the LED lights up brightly.\n*   When Wire B is connected in the same circuit with an LED, the LED does not light up at all.\n\n**Test 3: Response to a Magnet**\n*   Wire A is strongly attracted to a magnet.\n*   Wire B is not attracted to a magnet.\n\nBased on these results, which wire should Maya use for the **small, strong, non-magnetic support bracket**, and why?",
+      "options": [
+        "A. Wire A, because it is more electrically conductive and less hard.",
+        "B. Wire B, because it is harder and non-magnetic.",
+        "C. Wire A, because it is magnetic and lights the LED brightly.",
+        "D. Wire B, because it is less electrically conductive and is scratched by Wire A."
+      ],
+      "correctAnswer": "B. Wire B, because it is harder and non-magnetic.",
+      "explanation": "To select the correct material for a 'small, strong, non-magnetic support bracket', Maya needs to consider two key properties: hardness (to be strong) and its response to magnets (to be non-magnetic).\n\n1.  **Hardness (for strength):** From Test 1, Wire B scratches Wire A, but Wire A does not scratch Wire B. This explains that Wire B is harder than Wire A. A harder material is generally considered stronger for structural support.\n2.  **Response to a Magnet (for non-magnetic property):** From Test 3, Wire B is not attracted to a magnet. This means Wire B is a non-magnetic material. Wire A, however, is strongly attracted to a magnet, making it magnetic.\n\nTherefore, Wire B is the only material that satisfies both requirements: it is harder (making it strong) and non-magnetic. Option B correctly identifies Wire B and provides the appropriate reasons linking the test results to the desired properties.",
+      "hint": "Identify the properties needed for a 'strong, non-magnetic support bracket' and then match them to the results of the hardness and magnetism tests.",
+      "generatedAt": "2026-04-29T16:06:34.845648"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y5-materials-prop_advanced_001",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A technology company is developing a new type of durable, waterproof, and electrically conductive casing for sensitive electronic components. A critical design requirement is that the casing *must not* interfere with magnetic fields, meaning the material used should not be attracted to a magnet. Researchers tested four unknown solid materials (P, Q, R, S) and recorded their properties in the table below:\n\n| Material | Attracted to magnet? | Scratches glass? (Hardness) | Dissolves in water? (Solubility) | Conducts electricity? (Conductivity) |\n| :------- | :------------------- | :-------------------------- | :------------------------------- | :----------------------------------- |\n| P        | No                   | Yes                         | No                               | No                                   |\n| Q        | Yes                  | No                          | No                               | Yes                                  |\n| R        | No                   | No                          | Yes                              | No                                   |\n| S        | No                   | Yes                         | No                               | Yes                                  |\n\nWhich material, P, Q, R, or S, is the most suitable for the electronic casing, and **explain** why it meets all the critical requirements while other materials fail?",
+      "options": [
+        "A) Material P, because it is hard and not attracted to a magnet, which makes it durable and suitable for electronic devices.",
+        "B) Material Q, because it is electrically conductive and not soluble in water, ensuring good function and water resistance.",
+        "C) Material R, because it is not attracted to a magnet and dissolves in water, meaning it can be easily cleaned.",
+        "D) Material S, because it is hard, not attracted to a magnet, does not dissolve in water, and conducts electricity, fulfilling all design criteria."
+      ],
+      "correctAnswer": "D) Material S, because it is hard, not attracted to a magnet, does not dissolve in water, and conducts electricity, fulfilling all design criteria.",
+      "explanation": "To identify the most suitable material, each material must be evaluated against all four critical requirements for the electronic casing:\n1.  **Durable:** The material must be hard (scratches glass).\n2.  **Waterproof:** The material must be insoluble (does not dissolve in water).\n3.  **Electrically Conductive:** The material must conduct electricity.\n4.  **Not Magnetic:** The material must not be attracted to a magnet.\n\nLet's evaluate each material:\n*   **Material P:** Fails the conductivity requirement as it does not conduct electricity.\n*   **Material Q:** Fails the hardness requirement (does not scratch glass) AND the magnetic requirement (is attracted to a magnet).\n*   **Material R:** Fails the hardness requirement (does not scratch glass), the waterproof requirement (dissolves in water), AND the conductivity requirement (does not conduct electricity).\n*   **Material S:**\n    *   Scratches glass (meets durability requirement).\n    *   Not attracted to a magnet (meets non-magnetic requirement).\n    *   Does not dissolve in water (meets waterproof requirement).\n    *   Conducts electricity (meets electrical conductivity requirement).\n\nOnly Material S satisfies all four specified design criteria. Therefore, Option D correctly identifies Material S and provides a comprehensive explanation linking its properties to all the requirements.",
+      "hint": "Carefully evaluate each material against *all four* design requirements: hardness, solubility, conductivity, and magnetic response. Eliminate any material that fails even one of these critical criteria.",
+      "generatedAt": "2026-04-29T16:06:59.817393"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_002",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A team of Year 5 engineers is designing a sophisticated fishing lure. This lure must meet several critical requirements: it needs to be **waterproof** to function effectively in water, **attracted to magnets** to entice specific fish species, **electrically conductive** to emit a small tracking pulse, and **very hard** to withstand impacts from rocks and fish teeth.\n\nThey have investigated four novel materials (P, Q, R, S) and recorded their key properties in the table below:\n\n| Material | Hardness (1=soft, 5=very hard) | Soluble in water? | Electrical Conductivity | Attracted to a magnet? |\n| :------- | :------------------------------ | :---------------- | :---------------------- | :-------------------- |\n| P        | 4                               | Yes               | Good                    | No                    |\n| Q        | 3                               | No                | Poor                    | Yes                   |\n| R        | 5                               | No                | Good                    | Yes                   |\n| S        | 2                               | Yes               | Poor                    | No                    |\n\n**Identify** the most suitable material for the main body of this fishing lure and **explain** your choice by referring to all the necessary properties.",
+      "options": [
+        "A) Material P, because it is hard and a good electrical conductor, making it durable and able to send pulses.",
+        "B) Material Q, because it is not soluble in water and is attracted to magnets, making it waterproof and attractive to fish.",
+        "C) Material R, because it is very hard, not soluble in water, a good electrical conductor, and attracted to magnets, fulfilling all requirements.",
+        "D) Material S, because it is soluble in water, which allows it to release scents for fish, and is a poor electrical conductor, preventing harm to fish."
+      ],
+      "correctAnswer": "C) Material R, because it is very hard, not soluble in water, a good electrical conductor, and attracted to magnets, fulfilling all requirements.",
+      "explanation": "To determine the most suitable material, we must compare each material's properties against all four critical requirements for the fishing lure:\n\n**Requirements:**\n1.  **Waterproof:** Must NOT be soluble in water.\n2.  **Attracted to magnets:** Must be attracted to a magnet.\n3.  **Electrically conductive:** Must have good electrical conductivity.\n4.  **Very hard:** Must have a high hardness rating (ideally 4 or 5).\n\nLet's evaluate each material:\n\n*   **Material P:** \n    *   Hardness: 4 (Meets)\n    *   Soluble in water?: Yes (FAIL - not waterproof)\n    *   Electrical Conductivity: Good (Meets)\n    *   Attracted to a magnet?: No (FAIL - not attractive to fish)\n    *   *Conclusion: Not suitable due to solubility and lack of magnetism.*\n\n*   **Material Q:**\n    *   Hardness: 3 (Acceptable)\n    *   Soluble in water?: No (Meets - waterproof)\n    *   Electrical Conductivity: Poor (FAIL - cannot send electric pulse)\n    *   Attracted to a magnet?: Yes (Meets)\n    *   *Conclusion: Not suitable due to poor electrical conductivity.*\n\n*   **Material R:**\n    *   Hardness: 5 (Meets - very hard)\n    *   Soluble in water?: No (Meets - waterproof)\n    *   Electrical Conductivity: Good (Meets - electrically conductive)\n    *   Attracted to a magnet?: Yes (Meets - attractive to fish)\n    *   *Conclusion: Material R meets all four critical requirements.*\n\n*   **Material S:**\n    *   Hardness: 2 (FAIL - not very hard)\n    *   Soluble in water?: Yes (FAIL - not waterproof)\n    *   Electrical Conductivity: Poor (FAIL - cannot send electric pulse)\n    *   Attracted to a magnet?: No (FAIL - not attractive to fish)\n    *   *Conclusion: Not suitable as it fails on multiple requirements.*\n\nTherefore, Material R is the only material that possesses all the necessary properties: it is very hard (5), not soluble in water, a good electrical conductor, and attracted to magnets.",
+      "hint": "Systematically check each material against every single requirement for the fishing lure. If a material fails even one requirement, it is not the most suitable choice.",
+      "generatedAt": "2026-04-29T16:07:24.022793"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_003",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "You are a young scientist tasked with identifying a mysterious object found in a secret garden. You conduct several tests on the object and record your observations in the table below:\n\n| Property Tested      | Observation                                |\n|----------------------|--------------------------------------------|\n| Hardness             | Easily scratched by a coin                 |\n| Solubility in water  | Dissolved completely when stirred in water |\n| Electrical Conductivity| Does not allow electricity to pass through |\n| Response to a magnet | Not attracted to a magnet                  |\n\nBased on these observations, which of the following materials is the mystery object most likely to be?",
+      "options": [
+        "A) An iron nail",
+        "B) A plastic button",
+        "C) A sugar cube",
+        "D) A piece of copper wire"
+      ],
+      "correctAnswer": "C) A sugar cube",
+      "explanation": "Let's analyze each observed property of the mystery object and compare it to the known properties of the materials in the options:\n\n1.  **Hardness:** The object is 'Easily scratched by a coin'. This indicates it is a relatively soft material. An iron nail and copper wire are generally harder than a coin. A plastic button can vary, but a sugar cube is very soft and would easily be scratched or even crumbled by a coin.\n\n2.  **Solubility in water:** The object 'Dissolved completely when stirred in water'. This means the object is soluble in water. Sugar (a sugar cube) is well-known for dissolving in water. Iron, plastic, and copper are all insoluble in water.\n\n3.  **Electrical Conductivity:** The object 'Does not allow electricity to pass through'. This means it is an electrical insulator. Iron and copper are excellent electrical conductors. Plastic and sugar are electrical insulators.\n\n4.  **Response to a magnet:** The object is 'Not attracted to a magnet'. Iron is a magnetic material and would be attracted to a magnet. Plastic, sugar, and copper are not magnetic.\n\nNow, let's combine these findings for each option:\n*   **A) An iron nail:** Fails solubility (insoluble), electrical conductivity (conducts electricity), and response to a magnet (is attracted).\n*   **B) A plastic button:** Fails solubility (insoluble).\n*   **C) A sugar cube:** Matches all observations:\n    *   Is soft (easily scratched by a coin).\n    *   Is soluble in water (dissolves completely).\n    *   Does not conduct electricity.\n    *   Is not attracted to a magnet.\n*   **D) A piece of copper wire:** Fails solubility (insoluble) and electrical conductivity (conducts electricity).\n\nTherefore, the mystery object is most likely a sugar cube because its properties align perfectly with all the observations.",
+      "hint": "To solve this problem, you need to think about each property (hardness, solubility, conductivity, magnetism) one by one for the mystery object, and then check which of the given materials (iron, plastic, sugar, copper) matches *all* four observations.",
+      "generatedAt": "2026-04-29T16:07:42.404623"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_004",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Alex, a young scientist, has four unknown solid substances (P, Q, R, and S) that are all white powders. They look very similar, so Alex carried out four different tests to identify their properties. The results are shown in the table below:\n\n| Substance | Test 1: Hardness (Could a coin scratch it easily?) | Test 2: Solubility in water (Did it dissolve completely?) | Test 3: Response to a magnet (Was it attracted to a magnet?) | Test 4: Electrical Conductivity (Did the bulb in the circuit light up?) |\n| :-------- | :------------------------------------------------ | :------------------------------------------------------- | :--------------------------------------------------------- | :----------------------------------------------------------- |\n| **P**     | No, it could not be scratched by a coin           | No, it did not dissolve                                  | No, it was not attracted                                   | Yes, the bulb lit up                                         |\n| **Q**     | Yes, it scratched easily                          | Yes, it dissolved completely                             | No, it was not attracted                                   | No, the bulb did not light up                                |\n| **R**     | No, it could not be scratched by a coin           | No, it did not dissolve                                  | Yes, it was attracted                                      | Yes, the bulb lit up                                         |\n| **S**     | No, it could not be scratched by a coin           | No, it did not dissolve                                  | No, it was not attracted                                   | No, the bulb did not light up                                |\n\n**(a) State which substance is most likely a non-magnetic metal. Give one reason for your choice. (2 marks)**\n\n**(b) Describe a step-by-step method Alex could use to separate substance Q from substance S if they were accidentally mixed together. (3 marks)**\n\n**(c) Explain why substance Q would be unsuitable for making the body of a strong, waterproof boat, linking its properties to its unsuitability. (4 marks)**\n\n**(d) Alex needs to choose a material to build a strong, electrically conductive, and non-rusting frame for an outdoor science experiment. Using the information in the table, discuss which substance (P, Q, R, or S) would be the most suitable and explain why the other three substances are unsuitable. (6 marks)**",
+      "options": [],
+      "correctAnswer": {
+        "a": "**Substance:** P (1 mark)\n**Reason:** P is hard, insoluble, non-magnetic, and conducts electricity, which are all common properties of many metals (e.g., copper or aluminium). (1 mark)",
+        "b": "**Step 1:** Add water to the mixture of Q and S in a beaker and stir thoroughly. (1 mark)\n**Step 2:** Substance Q will dissolve completely in the water because it is soluble, while substance S will remain as an undissolved solid because it is insoluble. (1 mark)\n**Step 3:** Use a filter funnel with filter paper to pour the mixture through. The undissolved substance S will be caught in the filter paper, separating it from the dissolved substance Q which passes through with the water. (1 mark)\n*(Optional: To recover solid Q, the water could then be evaporated from the solution.)*",
+        "c": "Substance Q is unsuitable for making a strong boat because it is **soft** (scratched easily), **so** it would not be strong enough to withstand impacts or the pressure of water, causing the boat to easily break. (2 marks)\nAdditionally, substance Q is **soluble in water** (dissolved completely), **so** if it were used for a boat, it would dissolve when placed in water, meaning the boat would not be waterproof and would fall apart. (2 marks)",
+        "d": "**Most Suitable Substance:** P (1 mark)\n\n**Explanation for P:** Substance P is suitable because it is **hard** (could not be scratched by a coin), making it strong enough for a frame. It **conducts electricity** (bulb lit up) as required. It is also **insoluble** and **non-magnetic**, which suggests it could be a metal like copper or aluminium that does not rust like iron, making it good for an outdoor, non-rusting frame. (2 marks for multiple reasons)\n\n**Explanation why Q is unsuitable:** Substance Q is unsuitable because it is **soft** (scratched easily), so it would not provide a strong frame. It also **does not conduct electricity** (bulb did not light up) and is **soluble in water**, making it entirely unsuitable for an outdoor, conductive frame. (1 mark)\n\n**Explanation why R is unsuitable:** Substance R is hard and conducts electricity, which are good properties for a frame. However, it is **attracted by a magnet**, which means it is likely iron or steel. Iron and steel **rust** when exposed to air and water outdoors, which means R would not be 'non-rusting' as required. (1 mark)\n\n**Explanation why S is unsuitable:** Substance S is unsuitable because, although it is hard and insoluble, it **does not conduct electricity** (bulb did not light up). An electrically conductive frame is a key requirement, so S cannot be used. (1 mark)"
+      },
+      "explanation": "This question requires you to apply your knowledge of material properties (hardness, solubility, conductivity, magnetism) in a multi-step problem-solving context. For each part, carefully read the question and refer to the provided table. Remember to link cause and effect when 'explaining', and provide sequential steps when 'describing' a method.",
+      "hint": "For part (d), break down the requirements for the 'frame' (strong, conductive, non-rusting) and then go through each substance (P, Q, R, S) one by one, comparing its properties from the table against each of the required characteristics. 'Strong' relates to hardness, 'conductive' relates to electrical conductivity, and 'non-rusting' can be inferred from magnetism (magnetic metals like iron tend to rust).",
+      "generatedAt": "2026-04-29T16:08:13.080402"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_005",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A young inventor is designing a special \"grabber\" mechanism for an underwater exploration toy. This mechanism needs to be able to:\n1.  Withstand bumps against rocks without scratching easily.\n2.  Not dissolve when submerged in saltwater for long periods.\n3.  Allow a small electrical current to pass through to power an internal light.\n4.  Be easily retrieved from the water by a magnetic crane if it detaches.\n\nThe inventor has three potential materials (A, B, and C) and performs the following tests:\n*   **Scratch test**: Material A can scratch Material B. Material B can scratch Material C. (This means Material A is the hardest, followed by B, then C).\n*   **Water test**: Material C slowly disappears after a day in saltwater. Material A and Material B remain unchanged.\n*   **Circuit test**: Material A completes an electrical circuit and lights a bulb brightly. Material B and Material C do not complete the circuit.\n*   **Magnet test**: A powerful magnet strongly attracts Material A. Material B and Material C are not attracted to the magnet.\n\n\n(a) Describe the electrical conductivity of Material A and Material B based on the tests. (2 marks)\n\n(b) State which material would be unsuitable for the main structural parts of the grabber if it needs to last a long time in saltwater. (1 mark)\n\n(c) Explain why Material C would be a poor choice for the grabber mechanism, referring to two different properties. (3 marks)\n\n(d) The inventor wants to use Material A for the internal framework of the grabber because it is conductive and magnetic (allowing retrieval). However, they need an *outer casing* for the grabber that is **non-magnetic**, **hard**, and **insoluble** to protect the internal parts and prevent sticking to other magnetic objects on the seabed. This outer casing must also allow the electrical connection from the internal Material A framework to an external sensor on the casing's surface.\n\nPropose which material (A, B, or C) should be used for this *outer casing*. Explain your choice by referring to *two* relevant properties observed in the tests. Then, describe how the electrical connection from the internal Material A framework to the external sensor could still be achieved through this outer casing. (5 marks)",
+      "options": [],
+      "correctAnswer": "(a) Material A is an electrical conductor because it allowed the bulb to light up, showing electricity could pass through it. Material B is an electrical insulator (or non-conductor) because it did not complete the circuit or light the bulb. (2 marks)\n\n(b) Material C (1 mark)\n\n(c) Material C would be a poor choice for the grabber mechanism for several reasons. Firstly, it is **soluble**; it slowly disappears in saltwater, so it would not last long underwater. Secondly, it is **not very hard** as it can be scratched by both Material A and Material B, meaning it would not withstand bumps well without scratching or breaking. (3 marks)\n*(Accept any two of: soluble, not very hard, non-conductive, non-magnetic, with explanation for why it's a poor choice linked to the grabber's requirements.)*\n\n(d) Material B should be used for the outer casing. (1 mark)\n\n**Explanation of choice (2 marks):**\nMaterial B is **non-magnetic** (as shown by the magnet test), which will prevent the grabber from sticking to other magnetic objects on the seabed. It is also **insoluble** (as shown by the water test), meaning it will not dissolve in saltwater and will protect the internal parts for a long time. *(Accept hardness as a third property explanation: Material B is harder than C, providing good protection against scratches and bumps.)*\n\n**Achieving electrical connection (2 marks):**\nTo achieve the electrical connection from the internal Material A to the external sensor, a small, insulated conductive wire (e.g., made of Material A or another metal like copper) could be passed through a small, sealed hole in the Material B casing. This hole would need to be carefully sealed with a waterproof material (such as a rubber grommet or epoxy sealant) to prevent saltwater from entering the grabber and damaging the internal components.",
+      "explanation": "This question assesses the student's ability to interpret experimental data on material properties (hardness, solubility, conductivity, magnetism) and apply this knowledge to a complex design problem. \n\nPart (a) tests the direct interpretation and description of electrical conductivity based on observed test results.\nPart (b) tests the direct identification of a material based on its solubility, a key property for underwater use.\nPart (c) requires students to select and explain at least two detrimental properties of Material C, linking them clearly to the requirements of the grabber mechanism and demonstrating an understanding of cause and effect.\nPart (d) is the most challenging, requiring:\n1.  **Material Selection:** Proposing Material B based on a careful analysis of multiple, sometimes conflicting, required properties (non-magnetic, hard, insoluble).\n2.  **Property Explanation:** Justifying the choice by explicitly referencing *two* specific test results for those properties, demonstrating a clear understanding of the evidence.\n3.  **Problem-Solving and Application:** Describing a practical and scientifically sound method to overcome the non-conductive nature of Material B to allow electrical connectivity while maintaining waterproofing. This requires combining knowledge of conductors, insulators, and practical design considerations in an applied context, demonstrating higher-order thinking.",
+      "hint": "For part (d), carefully consider all the required properties for the outer casing (non-magnetic, hard, insoluble) and use the test results to identify the best material. Then, think about how electricity can travel from one place to another when there's an insulating material in the way, and remember the need for waterproofing.",
+      "generatedAt": "2026-04-29T16:09:42.901999"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_006",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Maya is an explorer who needs to design a protective container for her delicate insect specimens and sensitive electronic sensors for a journey into a humid jungle. She has identified the following crucial requirements for her container's material:\n\n*   It must **prevent water damage** from humidity and rain.\n*   It must be **resistant to scratches and bumps** during travel.\n*   It must allow her to **retrieve small magnetic items** (like pins) from inside using an external magnet, without opening the container.\n*   It must **protect the delicate sensors from electrical damage** (e.g., static build-up or accidental electrical flow).\n*   It must **not interfere with her sensitive magnetic equipment**.\n\nShe has tested four different materials, and their properties are summarised in the table below:\n\n| Material | Hardness (Resistance to scratching) | Solubility in water | Electrical Conductivity | Response to Magnets |\n| :------- | :--------------------------------- | :------------------ | :---------------------- | :------------------ |\n| **P**    | Very high                          | Insoluble           | Poor conductor          | Not attracted        |\n| **Q**    | Medium                             | Soluble             | Poor conductor          | Not attracted        |\n| **R**    | High                               | Insoluble           | Excellent conductor     | Strongly attracted  |\n| **S**    | High                               | Insoluble           | Poor conductor          | Not attracted        |\n\n**(a) Explain fully which material (P, Q, R, or S) Maya should choose for her container, referring to *all five* requirements. (6 marks)**\n\n**(b) State one specific reason why Material Q would be unsuitable for Maya's container. (1 mark)**\n\n**(c) Describe one safety concern if Maya chose Material R for her container. (2 marks)**",
+      "options": [],
+      "correctAnswer": {
+        "a": "Maya should choose **Material P**.\n\n1.  **Prevent water damage:** Material P is **insoluble** in water, so it will not dissolve or let water in, effectively protecting the specimens and sensors from humidity and rain.\n2.  **Resistant to scratches and bumps:** Material P has **very high hardness**, meaning it will be highly resistant to scratches from branches and bumps during transport, keeping the contents safe.\n3.  **Retrieve magnetic items:** Material P is **not attracted to magnets**, which is essential because it allows an external magnet to easily pick up any small magnetic pins or metal screws from inside the container without needing to open it.\n4.  **Protect from electrical damage:** Material P is a **poor electrical conductor**. This means it will prevent static electricity build-up and accidental electrical flow, safeguarding the delicate electronic sensors from potential damage.\n5.  **Not interfere with magnetic equipment:** Because Material P is **not attracted to magnets**, it will not interfere with the sensitive magnetic fields of Maya's electronic equipment stored nearby, ensuring they function correctly.",
+        "b": "Material Q is unsuitable because it is **soluble** in water.",
+        "c": "If Maya chose Material R, a safety concern is that it is an **excellent electrical conductor**. This could lead to accidental electrical shocks if it came into contact with a power source, or it could cause a short circuit and damage to her sensitive electronic equipment stored inside the container if current flowed through it."
+      },
+      "explanation": "Part (a) requires a detailed explanation by linking each of Maya's five requirements to a specific property of the chosen material (Material P).\n\n*   **Requirement 1 (prevent water damage):** Met by the 'insoluble' property.\n*   **Requirement 2 (resistant to scratches):** Met by the 'Very high hardness' property.\n*   **Requirement 3 (retrieve magnetic items):** Met by the 'Not attracted' to magnets property, which allows an external magnet to work effectively through the material.\n*   **Requirement 4 (protect from electrical damage):** Met by the 'Poor electrical conductor' property, meaning it acts as an electrical insulator.\n*   **Requirement 5 (not interfere with magnetic equipment):** Met by the 'Not attracted' to magnets property, preventing interference with other magnetic fields.\n\nPart (b) asks to 'State' a reason for Material Q's unsuitability. Its solubility in water directly violates Maya's first requirement for preventing water damage.\n\nPart (c) asks to 'Describe' a safety concern for Material R. Its property of being an 'Excellent electrical conductor' poses a significant risk of electrical shock or potential damage to sensitive electronics due to unintended electrical current pathways.",
+      "hint": "For part (a), carefully evaluate each material against *every single one* of Maya's five requirements. Remember to explain *how* a specific property helps meet each requirement, using scientific terms and linking cause and effect with words like 'because' or 'so'.",
+      "generatedAt": "2026-04-29T16:10:13.731167"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_007",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A deep-sea research team needs to select the best material for a new, crucial part of their sensitive underwater probe. This part needs to withstand extreme conditions. The ideal material must meet the following criteria:\n\n1.  **High Hardness:** Must be harder than the original part, which had a hardness of 8.5 (Mohs scale).\n2.  **Insoluble:** It must not dissolve in seawater.\n3.  **Poor Electrical Conductor:** It must block electricity to protect internal electronics.\n4.  **Non-magnetic:** It must not be attracted to magnets to avoid interfering with navigation systems.\n\nThey have tested four new synthetic materials (P, Q, R, S) and recorded their properties:\n\n| Material | Hardness (Mohs scale) | Solubility in Seawater | Electrical Conductivity | Response to Magnet |\n|----------|-----------------------|------------------------|-------------------------|--------------------|\n| P        | 9                     | Insoluble              | Good conductor          | Non-magnetic       |\n| Q        | 8                     | Slightly soluble       | Poor conductor          | Non-magnetic       |\n| R        | 9.5                   | Insoluble              | Poor conductor          | Attracted to magnet|\n| S        | 8.8                   | Insoluble              | Poor conductor          | Non-magnetic       |\n\nExplain which material is the most suitable for the underwater probe part, justifying your choice by referring to *all four* critical properties. (4 marks)",
+      "options": [],
+      "correctAnswer": "Material S is the most suitable for the underwater probe part.\n\n1.  **Hardness:** Its hardness of 8.8 (Mohs scale) is greater than the required 8.5, so it will be resistant to damage from deep-sea pressures and impacts.\n2.  **Solubility:** It is insoluble in seawater, meaning it will not dissolve or degrade over long periods in the marine environment.\n3.  **Electrical Conductivity:** It is a poor electrical conductor, which is essential because it will insulate and protect the sensitive electronic components inside the probe from electricity.\n4.  **Response to Magnet:** It is non-magnetic, so it will not interfere with the ship's navigation systems or any magnetic sensors on the probe.",
+      "explanation": "To determine the most suitable material, each material must be checked against all four critical properties:\n\n*   **Material P:**\n    *   Hardness (9 > 8.5): Meets requirement.\n    *   Solubility (Insoluble): Meets requirement.\n    *   Electrical Conductivity (Good conductor): **Fails** requirement (needs to be a poor conductor).\n    *   Response to Magnet (Non-magnetic): Meets requirement.\n    *   *Conclusion: Material P is not suitable due to its good electrical conductivity.*\n\n*   **Material Q:**\n    *   Hardness (8 < 8.5): **Fails** requirement (needs to be harder).\n    *   Solubility (Slightly soluble): **Fails** requirement (needs to be insoluble).\n    *   Electrical Conductivity (Poor conductor): Meets requirement.\n    *   Response to Magnet (Non-magnetic): Meets requirement.\n    *   *Conclusion: Material Q is not suitable due to insufficient hardness and solubility.*\n\n*   **Material R:**\n    *   Hardness (9.5 > 8.5): Meets requirement.\n    *   Solubility (Insoluble): Meets requirement.\n    *   Electrical Conductivity (Poor conductor): Meets requirement.\n    *   Response to Magnet (Attracted to magnet): **Fails** requirement (needs to be non-magnetic).\n    *   *Conclusion: Material R is not suitable due to its magnetic response.*\n\n*   **Material S:**\n    *   Hardness (8.8 > 8.5): Meets requirement.\n    *   Solubility (Insoluble): Meets requirement.\n    *   Electrical Conductivity (Poor conductor): Meets requirement.\n    *   Response to Magnet (Non-magnetic): Meets requirement.\n    *   *Conclusion: Material S meets all four critical requirements, making it the most suitable choice.*",
+      "hint": "Evaluate each material against *all four* required properties. A material is only suitable if it meets *every single* criterion specified for the deep-sea probe part.",
+      "generatedAt": "2026-04-29T16:10:33.997618"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_008",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Substance X is an unknown material. Several scientific tests were performed on it, and the following observations were recorded:\n\n*   **Hardness Test:** Substance X could scratch a plastic ruler, but it could not be scratched by a copper coin.\n*   **Solubility Test:** When 10 grams of Substance X were stirred into 100 ml of warm water, it completely disappeared.\n*   **Electrical Conductivity Test:** When Substance X was placed into an electrical circuit between a battery and a light bulb, the bulb did not light up.\n*   **Magnetic Response Test:** A strong magnet held close to Substance X showed no noticeable effect.\n\n**(a) Describe three properties of Substance X based on these observations. (3 marks)**\n\n**(b) Explain, using the test results, why Substance X would be a suitable material for making the outer coating of an electrical wire, but unsuitable for making a key. (4 marks)**\n\n**(c) State a common material that matches these properties. (1 mark)**",
+      "options": [],
+      "correctAnswer": "(a) **Three properties of Substance X (3 marks):**\n    *   Substance X is hard/durable (because it could scratch plastic and was not scratched by copper).\n    *   Substance X is soluble in water (because it completely disappeared when stirred into warm water).\n    *   Substance X is an electrical insulator (because the light bulb did not light up in the electrical circuit).\n    *   Substance X is non-magnetic (because a strong magnet had no noticeable effect).\n    (Any three of the above, clearly linking observation to property, gain 1 mark each).\n\n(b) **Explanation of suitability and unsuitability (4 marks):**\n    *   **Suitability for outer coating of an electrical wire:**\n        Substance X would be suitable because it is an electrical insulator (from the Electrical Conductivity Test) **so** it would prevent electricity from flowing out and protect users from electric shocks. (1 mark for cause and 1 mark for effect)\n        It is also hard (from the Hardness Test) **so** it would protect the inner wire from physical damage. (If mentioned as a third point, it would be an additional suitable property).\n    *   **Unsuitability for making a key:**\n        Substance X would be unsuitable for making a key because it is soluble in water (from the Solubility Test) **so** the key would dissolve if it got wet or was exposed to moisture. (1 mark for cause and 1 mark for effect)\n        Additionally, while it can scratch plastic, it is not hard enough compared to typical key materials (from the Hardness Test implications) **so** it would easily break or wear down when used in a lock. (This can be the second unsuitability reason, or the dissolving reason can be elaborated).\n\n(c) **Common material (1 mark):**\n    Sugar / Salt / Washing Soda / another common substance that is soluble, hard (relative to plastic), an electrical insulator, and non-magnetic.",
+      "explanation": "This question requires students to: \n1.  **Extract information** about material properties from given experimental observations.\n2.  **Describe** these properties using correct scientific terminology.\n3.  **Explain** the suitability or unsuitability of the material for different applications by linking specific properties (cause) to their practical consequences (effect) using 'because' or 'so'. This requires combining multiple concepts (hardness, solubility, conductivity) in an applied context.\n4.  **Identify** a real-world material based on its described properties.\n\nPart (a) tests direct interpretation of data. Part (b) is the advanced component, requiring multi-step reasoning and application of multiple properties to two distinct scenarios, using cause-and-effect language. Part (c) tests recall and synthesis.",
+      "hint": "For part (b), consider what specific properties (hardness, solubility, electrical conductivity, magnetic response) are essential for an electrical wire coating and for a key. Remember to link your reasons to the observed test results and use 'because' or 'so' to explain the cause and effect.",
+      "generatedAt": "2026-04-29T16:11:01.044572"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_009",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A toy manufacturer is designing a new \"Aqua-Bot\" children's toy. This robot will spend a lot of time in water, and its main purpose is to sense objects using a small internal magnetic sensor. This sensor needs to be protected by a casing, which must meet several critical requirements:\n1.  It must **not** dissolve in water, even after long periods.\n2.  It must **not** interfere with the internal magnetic sensor's operation.\n3.  It must be able to withstand minor bumps and scratches from play without breaking.\n4.  It must **not** conduct electricity, to protect the sensor's delicate electronic circuits from water exposure.\n\nThe manufacturer has four potential materials for this casing. The properties of these materials are listed in the table below:\n\n| Material                 | Hardness (Relative) | Solubility in Water | Electrical Conductivity | Response to Magnets |\n| :----------------------- | :------------------ | :------------------ | :---------------------- | :------------------ |\n| Polyvinyl Chloride (PVC) | Hard                | Insoluble           | Very low (Insulator)    | Non-magnetic        |\n| Aluminium                | Moderately Hard     | Insoluble           | High (Conductor)        | Non-magnetic        |\n| Iron                     | Hard                | Insoluble           | High (Conductor)        | Strongly magnetic   |\n| Sugar (Sucrose)          | Soft                | Highly Soluble      | Very low (Insulator)    | Non-magnetic        |\n\nConsidering all the critical requirements, which material would be the **most suitable** for the Aqua-Bot's sensor casing?",
+      "options": [
+        "Polyvinyl Chloride (PVC)",
+        "Aluminium",
+        "Iron",
+        "Sugar (Sucrose)"
+      ],
+      "correctAnswer": "Polyvinyl Chloride (PVC)",
+      "explanation": "To determine the most suitable material, we must evaluate each option against all four critical requirements:\n\n1.  **Requirement 1: Must not dissolve in water.**\n    *   Sugar (Sucrose) is highly soluble in water, failing this requirement immediately. Thus, Sugar is unsuitable.\n    *   Polyvinyl Chloride (PVC), Aluminium, and Iron are all insoluble in water, meeting this requirement.\n\n2.  **Requirement 2: Must not interfere with the internal magnetic sensor's operation (i.e., be non-magnetic).**\n    *   Iron is strongly magnetic, which would interfere significantly with a magnetic sensor. Thus, Iron is unsuitable.\n    *   Polyvinyl Chloride (PVC) and Aluminium are non-magnetic, meeting this requirement.\n\n3.  **Requirement 3: Must be able to withstand minor bumps and scratches (i.e., be hard).**\n    *   Polyvinyl Chloride (PVC) is 'Hard'. Aluminium is 'Moderately Hard'. Both are suitable for resisting minor bumps and scratches.\n\n4.  **Requirement 4: Must not conduct electricity (i.e., be an electrical insulator).**\n    *   Aluminium has high electrical conductivity, meaning it would conduct electricity and could expose the sensor's delicate electronics to water damage. Thus, Aluminium is unsuitable.\n    *   Polyvinyl Chloride (PVC) has very low electrical conductivity (it is an insulator), meeting this requirement.\n\nOnly Polyvinyl Chloride (PVC) meets all four critical requirements: it is hard, insoluble in water, non-magnetic, and an electrical insulator. Therefore, PVC is the most suitable material.",
+      "hint": "Systematically eliminate materials that fail any single requirement before selecting the final option.",
+      "generatedAt": "2026-04-29T16:11:49.717300"
+    },
+    {
+      "id": "s-y5-materials-prop_advanced_010",
+      "topicId": "s-y5-materials-prop",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Ms. Chen's Year 5 class is designing a simple \"Garden Lifter\" device to help move heavy plant pots in their school garden. The core of the device is a pulley system, and they need to choose the best material for the main wheel of the pulley.\n\nThey have tested four different materials (A, B, C, D) in the school lab and recorded their properties in the table below:\n\n| Material | Hardness (Mohs scale) | Solubility in water (g/100ml) | Electrical Conductivity (S/m) | Response to Magnet |\n|----------|-----------------------|--------------------------------|-------------------------------|--------------------|\n| A        | 2                     | 0.1                            | Very Low                      | No                 |\n| B        | 7                     | 0.001                          | Very Low                      | No                 |\n| C        | 6                     | 0.002                          | High                          | Yes                |\n| D        | 4                     | 50                             | Very Low                      | No                 |\n\n**Key for understanding:**\n*   **Hardness (Mohs scale):** Higher numbers mean harder material (e.g., Diamond is 10, Talc is 1).\n*   **Solubility in water (g/100ml):** Lower numbers mean less dissolves in water (more waterproof).\n*   **Electrical Conductivity (S/m):** Higher numbers mean it conducts electricity well.\n\n**The requirements for the Garden Lifter's pulley wheel are:**\n1.  It must be **very hard** so it doesn't wear out quickly from the rope.\n2.  It needs to be **waterproof** (not dissolve in rain).\n3.  It must **not conduct electricity** because there are outdoor power sockets nearby for electric garden tools, posing a safety risk.\n4.  For safety and easy identification, the school wants the wheel to be easily **detectable by a simple metal detector**, which works by detecting magnetic materials.\n\n\na) **State** the unit used for measuring electrical conductivity in the table. (1 mark)\n\nb) **Describe** how Material D would behave if left in a bucket of rainwater for several days. (2 marks)\n\nc) **Explain** why Material C would be a dangerous choice for the pulley wheel, considering *two* specific properties from the table and the scenario. (4 marks)\n\nd) Based on *all* the requirements for the \"Garden Lifter\" pulley wheel, **determine** which material (A, B, C, or D) would be the most suitable. **Justify** your choice by referring to the data for *each* relevant property. (6 marks)",
+      "options": [],
+      "correctAnswer": "a) S/m (or Siemens per metre).\n\nb) Material D has a very high solubility in water (50 g/100ml). If left in rainwater for several days, it would dissolve significantly (1 mark) and likely break apart or become mushy/disintegrated (1 mark).\n\nc) Material C has a high electrical conductivity (1 mark). This would be dangerous because if the pulley wheel came into contact with outdoor power sockets, electricity could flow through the wheel (1 mark). This could cause an electric shock to anyone touching the device (1 mark), making it unsafe (1 mark).\n\nd) **Material B** is the most suitable choice.\n\n**Justification:**\n*   **Hardness:** Material B has a hardness of 7 (Mohs scale), which is very hard (1 mark). This meets the requirement for the wheel not to wear out quickly from the rope (1 mark).\n*   **Solubility in water:** Material B has a very low solubility of 0.001 g/100ml (1 mark). This means it is very waterproof and will not dissolve in rain, meeting the requirement for outdoor use (1 mark).\n*   **Electrical Conductivity:** Material B has 'Very Low' electrical conductivity (1 mark). This meets the crucial safety requirement that it must not conduct electricity, preventing electric shock from nearby power sockets (1 mark).\n*   **Response to Magnet:** Material B is 'No' to magnetism, meaning it would not be detectable by a metal detector (1 mark). While this does not meet the desirable requirement for easy detection, the other three properties (hardness, solubility, and most importantly, low electrical conductivity for safety) are critical for the device's function and user safety. Material B is the only material that satisfies all critical functional and safety requirements, making its lack of magnetism a minor compromise compared to the failures of other materials (1 mark for reasoning about prioritisation of properties).\n\n*(Maximum 6 marks for full justification across all relevant properties, linking data to requirements and making a reasoned choice, including why magnetism is less critical here.)*",
+      "explanation": "The question requires students to analyze a table of material properties and apply them to a specific design challenge with multiple, sometimes conflicting, criteria. \n\na) This is a direct recall of the unit for electrical conductivity as presented in the table. \n\nb) Students need to interpret the solubility data (50 g/100ml is very high) and describe the physical consequence of such high solubility when exposed to water over time. \n\nc) This part requires linking two specific properties (high electrical conductivity) to a real-world safety hazard (outdoor power sockets) and explaining the cause-and-effect (electricity flowing through the wheel -> risk of electric shock) using appropriate scientific terminology and context from the scenario. \n\nd) This is the most complex part, requiring multi-step reasoning and evaluation. Students must systematically compare each material against *all* four stated requirements. They need to identify that Material B is the only one that meets the critical functional requirements (high hardness for durability, low solubility for weather resistance) and the critical safety requirement (low electrical conductivity to prevent electric shock). While Material B does not meet the 'response to magnet' requirement, students must implicitly or explicitly prioritize the functional and safety aspects over this desirable identification feature. This makes Material B the 'most suitable' choice despite not meeting every single preference. The justification must refer to the specific data for each property and clearly explain why it meets (or acceptably compromises) the corresponding requirement, demonstrating a nuanced understanding of material selection.",
+      "hint": "For part (d), carefully evaluate each material against *every* requirement. Think about which requirements are absolutely essential for the safety and main function of the Garden Lifter, and which might be considered less critical if a perfect material cannot be found.",
+      "generatedAt": "2026-04-29T16:12:27.649072"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y7-sequences_beginner_001",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The nth term of a sequence is given by the expression n + 5. What is the 8th term of this sequence?",
+      "options": [
+        "5",
+        "8",
+        "13",
+        "40"
+      ],
+      "correctAnswer": "13",
+      "explanation": "The expression for the nth term is given as n + 5. To find the 8th term, you need to substitute n = 8 into this expression. So, 8 + 5 = 13. Therefore, the 8th term of the sequence is 13.",
+      "hint": "Replace the 'n' in the expression with the number of the term you want to find.",
+      "generatedAt": "2026-04-29T22:02:58.996827"
+    },
+    {
+      "id": "m-y7-sequences_beginner_002",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Consider the following number sequence:\n\n3, 7, 11, 15, ...\n\nWhat is the next term in this sequence?",
+      "options": [
+        "A) 17",
+        "B) 18",
+        "C) 19",
+        "D) 20"
+      ],
+      "correctAnswer": "C) 19",
+      "explanation": "1. Look at the given sequence: 3, 7, 11, 15.\n2. Find the difference between consecutive terms:\n   7 - 3 = 4\n   11 - 7 = 4\n   15 - 11 = 4\n3. The pattern (or rule) for this sequence is to add 4 to the previous term to get the next term.\n4. To find the next term after 15, we add 4 to 15.\n5. 15 + 4 = 19.\nTherefore, the next term in the sequence is 19.",
+      "hint": "First, calculate the difference between each pair of consecutive numbers to find the pattern or rule.",
+      "generatedAt": "2026-04-29T22:03:07.779413"
+    },
+    {
+      "id": "m-y7-sequences_beginner_003",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Consider the following number sequence:\n\n5, 8, 11, 14, ...\n\nWhat is the rule for finding the next term in this sequence?",
+      "options": [
+        "A) Add 2",
+        "B) Add 3",
+        "C) Multiply by 2",
+        "D) Add 4"
+      ],
+      "correctAnswer": "B) Add 3",
+      "explanation": "To find the rule, observe the change from one term to the next:\n\nFrom 5 to 8, the change is 8 - 5 = 3.\nFrom 8 to 11, the change is 11 - 8 = 3.\nFrom 11 to 14, the change is 14 - 11 = 3.\n\nThe difference between consecutive terms is consistently +3. Therefore, the rule for finding the next term in the sequence is to add 3 to the previous term.",
+      "hint": "Look at the difference between each term and the term immediately before it.",
+      "generatedAt": "2026-04-29T22:03:16.899986"
+    },
+    {
+      "id": "m-y7-sequences_beginner_004",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The nth term of a number sequence is given by the expression 5n + 2. What are the first four terms of this sequence?",
+      "options": [
+        "7, 12, 17, 22",
+        "5, 10, 15, 20",
+        "2, 7, 12, 17",
+        "7, 9, 11, 13"
+      ],
+      "correctAnswer": "7, 12, 17, 22",
+      "explanation": "To find the terms of the sequence, substitute the position number (n) into the expression 5n + 2.\n\nFor the 1st term (n=1): 5(1) + 2 = 5 + 2 = 7\nFor the 2nd term (n=2): 5(2) + 2 = 10 + 2 = 12\nFor the 3rd term (n=3): 5(3) + 2 = 15 + 2 = 17\nFor the 4th term (n=4): 5(4) + 2 = 20 + 2 = 22\n\nTherefore, the first four terms of the sequence are 7, 12, 17, 22.",
+      "hint": "Remember that 'n' represents the position of the term in the sequence. For the first term, n=1; for the second term, n=2, and so on. Substitute these values into the given expression.",
+      "generatedAt": "2026-04-29T22:03:32.888417"
+    },
+    {
+      "id": "m-y7-sequences_beginner_005",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The nth term of a number sequence is given by the expression 3n + 5. If one of the terms in this sequence has a value of 35, which term number is it?",
+      "options": [
+        "A) 8th",
+        "B) 9th",
+        "C) 10th",
+        "D) 11th"
+      ],
+      "correctAnswer": "C) 10th",
+      "explanation": "To find which term number has a value of 35, we set the nth term expression equal to 35:\n3n + 5 = 35\nSubtract 5 from both sides of the equation:\n3n = 35 - 5\n3n = 30\nDivide both sides by 3:\nn = 30 / 3\nn = 10\nTherefore, the 10th term in the sequence has a value of 35.",
+      "hint": "Set the algebraic expression for the nth term (3n + 5) equal to the given term value (35) and solve the equation for 'n'.",
+      "generatedAt": "2026-04-29T22:03:43.866570"
+    },
+    {
+      "id": "m-y7-sequences_beginner_006",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A number sequence begins with the following terms: 4, 9, 14, 19, ...\nWhat is the constant amount that is added to each term to get the next term in this sequence?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "5",
+      "explanation": "To find the constant amount added between consecutive terms, you can subtract a term from the term that comes immediately after it.\n\nFirst difference: 9 - 4 = 5\nSecond difference: 14 - 9 = 5\nThird difference: 19 - 14 = 5\n\nSince the difference is consistently 5, the constant amount added to each term to get the next term is 5.",
+      "hint": "Look at the difference between the first and second terms, or the second and third terms.",
+      "generatedAt": "2026-04-29T22:03:55.627544"
+    },
+    {
+      "id": "m-y7-sequences_beginner_007",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The nth term of a number sequence is given by the expression 6n + 1. What is the common difference of this sequence?",
+      "options": [
+        "1",
+        "6",
+        "7",
+        "6n"
+      ],
+      "correctAnswer": "6",
+      "explanation": "In a linear number sequence, the 'nth term' expression is usually in the form an + b, where 'a' represents the common difference (the amount added or subtracted each time to get the next term) and 'b' is a constant. In the given expression, 6n + 1, the number multiplying 'n' is 6. Therefore, the common difference of the sequence is 6.",
+      "hint": "Remember that in an nth term rule like 'an + b', the number 'a' (the coefficient of n) tells you how much the sequence changes by each term.",
+      "generatedAt": "2026-04-29T22:04:08.805104"
+    },
+    {
+      "id": "m-y7-sequences_beginner_008",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A number sequence begins with the number 7. To find the next term in the sequence, you always add 4 to the previous term. What is the 5th term in this sequence?",
+      "options": [
+        "19",
+        "23",
+        "27",
+        "15"
+      ],
+      "correctAnswer": "23",
+      "explanation": "To find the terms of the sequence, we start with the first term and repeatedly apply the given rule:\n\n1st term = 7\n2nd term = 7 + 4 = 11\n3rd term = 11 + 4 = 15\n4th term = 15 + 4 = 19\n5th term = 19 + 4 = 23\n\nTherefore, the 5th term in the sequence is 23.",
+      "hint": "Start with the first term and apply the given rule step-by-step to calculate each term in order until you reach the 5th term.",
+      "generatedAt": "2026-04-29T22:04:20.243831"
+    },
+    {
+      "id": "m-y7-sequences_beginner_009",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A number sequence starts with the first term 7. To find each next term, you add 4 to the previous term. What is the 4th term in this sequence?",
+      "options": [
+        "A) 11",
+        "B) 15",
+        "C) 19",
+        "D) 23"
+      ],
+      "correctAnswer": "C) 19",
+      "explanation": "1. The first term is given as 7.\n2. To find the second term, add 4 to the first term: 7 + 4 = 11.\n3. To find the third term, add 4 to the second term: 11 + 4 = 15.\n4. To find the fourth term, add 4 to the third term: 15 + 4 = 19.\nSo, the 4th term in the sequence is 19.",
+      "hint": "Start with the first term and apply the given rule repeatedly until you reach the desired term.",
+      "generatedAt": "2026-04-29T22:04:31.480616"
+    },
+    {
+      "id": "m-y7-sequences_beginner_010",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A number sequence follows a specific rule based on its term number. To find any term in the sequence, you must multiply its term number by 3 and then add 2. What is the 5th term in this sequence?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correctAnswer": "17",
+      "explanation": "The rule states: 'multiply its term number by 3 and then add 2'.\nWe need to find the 5th term.\nSo, we use the term number 5.\nFirst, multiply the term number by 3: 5 × 3 = 15.\nNext, add 2 to the result: 15 + 2 = 17.\nTherefore, the 5th term in the sequence is 17.",
+      "hint": "Replace 'term number' in the rule with the number 5, then follow the operations in order.",
+      "generatedAt": "2026-04-29T22:04:44.162476"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y7-sequences_intermediate_001",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence starts with the terms: 7, 12, 17, 22, ...\n\nFirst, find the rule for the nth term of this sequence. Then, use your rule to calculate the 30th term of the sequence. Show your working clearly.",
+      "options": [
+        "A. 152",
+        "B. 150",
+        "C. 157",
+        "D. 148"
+      ],
+      "correctAnswer": "A. 152",
+      "explanation": "Step 1: Find the common difference between consecutive terms.\n12 - 7 = 5\n17 - 12 = 5\n22 - 17 = 5\nThe common difference is 5. This means the nth term rule will start with 5n.\n\nStep 2: Find the constant part of the nth term rule.\nIf the rule is 5n, let's see what the first term (n=1) would be: 5 * 1 = 5.\nHowever, the first term in the sequence is 7. To get from 5 to 7, we need to add 2.\nSo, the full rule for the nth term is 5n + 2.\n\nStep 3: Calculate the 30th term using the rule.\nSubstitute n = 30 into the rule 5n + 2:\n30th term = (5 * 30) + 2\n30th term = 150 + 2\n30th term = 152\n\nTherefore, the 30th term of the sequence is 152.",
+      "hint": "To find the rule for the nth term of a linear sequence, first identify the constant difference between consecutive terms. This difference will be the coefficient of 'n'. Then, adjust the rule using the first term of the sequence.",
+      "generatedAt": "2026-04-29T22:04:58.311313"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_002",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear sequence starts with the term 8. To find the next term, you add 5 to the previous term.\n\na) Write down the first five terms of this sequence.\n\nb) Find an expression, in terms of 'n', for the nth term of this sequence.\n\nc) Determine whether the number 73 is a term in this sequence. You must show your working.",
+      "options": [],
+      "correctAnswer": "a) The first five terms are:\nTerm 1: 8\nTerm 2: 8 + 5 = 13\nTerm 3: 13 + 5 = 18\nTerm 4: 18 + 5 = 23\nTerm 5: 23 + 5 = 28\nSo the sequence is: 8, 13, 18, 23, 28.\n\nb) To find the expression for the nth term:\n*   The common difference between terms is 5. This means the nth term will involve '5n'.\n*   If n=1, 5n = 5. However, the first term (n=1) in our sequence is 8. To get from 5 to 8, we add 3.\n*   Therefore, the expression for the nth term is 5n + 3.\n\nc) To determine if 73 is a term in the sequence, we set the nth term expression equal to 73 and solve for 'n':\n5n + 3 = 73\nSubtract 3 from both sides of the equation:\n5n = 73 - 3\n5n = 70\nDivide by 5:\nn = 70 / 5\nn = 14\nSince 'n' is a positive integer (14), the number 73 IS a term in the sequence. It is the 14th term.",
+      "explanation": "This question assesses understanding of linear sequences by first asking to list terms from a given rule, then to derive the algebraic expression for the nth term, and finally to apply this expression to check if a specific number belongs to the sequence. Part (a) tests basic pattern recognition. Part (b) requires identifying the common difference (coefficient of 'n') and the constant adjustment needed (the 'b' in 'an+b'). Part (c) is a two-step problem: the student must set their derived nth term expression equal to the given number (73) and then solve the resulting linear equation. If the value of 'n' obtained is a positive integer, the number is in the sequence; otherwise, it is not.",
+      "hint": "For part (b), think about the relationship between the common difference and the 'n' part of the expression. For part (c), if 73 is in the sequence, what must 'n' be when 5n + 3 equals 73?",
+      "generatedAt": "2026-04-29T22:05:19.372775"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_003",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear sequence has a common difference of 5. The 4th term of the sequence is 23. What is the 10th term of this sequence? Show your working.",
+      "options": [
+        "47",
+        "50",
+        "53",
+        "68"
+      ],
+      "correctAnswer": "53",
+      "explanation": "Method 1: Using the nth term formula\nLet the nth term of the sequence be represented by T_n = dn + c, where 'd' is the common difference and 'c' is a constant.\n\nGiven that the common difference (d) is 5, the formula becomes:\nT_n = 5n + c\n\nWe are given that the 4th term (T_4) is 23. We substitute n=4 into the formula:\nT_4 = 5(4) + c = 23\n20 + c = 23\nc = 23 - 20\nc = 3\n\nSo, the nth term of the sequence is T_n = 5n + 3.\n\nTo find the 10th term (T_10), we substitute n=10 into the formula:\nT_10 = 5(10) + 3\nT_10 = 50 + 3\nT_10 = 53\n\nMethod 2: Working directly from the given term\nThe 4th term of the sequence is 23.\nWe need to find the 10th term. The number of 'steps' (common differences) from the 4th term to the 10th term is 10 - 4 = 6 steps.\n\nSince the common difference is 5, for each step, we add 5.\nThe total value to add to the 4th term to get the 10th term is 6 * 5 = 30.\n\nTherefore, the 10th term = 4th term + total increase\n10th term = 23 + 30\n10th term = 53",
+      "hint": "Consider how many times the common difference needs to be added to get from the 4th term to the 10th term, or find the general nth term (T_n = dn + c) first.",
+      "generatedAt": "2026-04-29T22:05:42.050403"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_004",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence has its 5th term equal to 31. The 10th term of the sequence is 66.\n\nWorking is required for full marks.\n\na) Find the common difference of the sequence.\nb) Calculate the 15th term of the sequence.",
+      "options": [],
+      "correctAnswer": "a) To find the common difference:\nThe difference in value between the 10th term and the 5th term is 66 - 31 = 35.\nThe number of steps (or common differences) between the 5th term and the 10th term is 10 - 5 = 5.\nSo, the common difference (d) = Total difference / Number of steps = 35 / 5 = 7.\n\nTherefore, the common difference is 7.\n\nb) To calculate the 15th term:\nMethod 1: Extending from the 10th term.\nWe know the 10th term is 66 and the common difference is 7.\nTo get from the 10th term to the 15th term, we need to add the common difference 15 - 10 = 5 more times.\n15th term = 10th term + (5 × common difference)\n15th term = 66 + (5 × 7)\n15th term = 66 + 35\n15th term = 101.\n\nMethod 2: Finding the first term and general rule (nth term).\nWe know the common difference is 7. The 5th term is 31.\nTo find the 1st term, we subtract the common difference 4 times (since 5 - 1 = 4) from the 5th term.\n1st term = 31 - (4 × 7)\n1st term = 31 - 28\n1st term = 3.\nThe general rule (nth term) for a linear sequence is of the form dn + c, where d is the common difference and c is the 'zeroth' term (the term before the first).\nSo, the nth term = 7n + (3 - 7) = 7n - 4.\nNow, substitute n=15 into the nth term rule to find the 15th term:\n15th term = (7 × 15) - 4\n15th term = 105 - 4\n15th term = 101.\n\nTherefore, the 15th term of the sequence is 101.",
+      "explanation": "This problem requires you to first determine the common difference of the linear sequence. Since you are given two non-consecutive terms, you can find the total difference in value between them and divide by the number of 'steps' or common differences that separate them. Once the common difference is known, you can then either extend the sequence from one of the given terms (e.g., from the 10th term to the 15th term) or work backward to find the first term and then apply the general 'nth term' rule to find the specific term requested.",
+      "hint": "First, consider how many common differences there are between the 5th term and the 10th term. Use this to find the value of one common difference.",
+      "generatedAt": "2026-04-29T22:06:08.969522"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_005",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence, P, has its nth term given by the expression `5n - 3`. \nAnother linear number sequence, Q, has its nth term given by the expression `2n + 15`. \nWhat is the value of the first term that appears in both sequence P and sequence Q? Show your working clearly.",
+      "options": [
+        "6",
+        "18",
+        "27",
+        "30"
+      ],
+      "correctAnswer": "27",
+      "explanation": "For a term to appear in both sequences, its value must be the same for some term number, 'n'. \nSo, we can set the two nth term expressions equal to each other:\n5n - 3 = 2n + 15\n\nNow, we need to solve for 'n'.\nFirst, subtract `2n` from both sides of the equation:\n5n - 2n - 3 = 2n - 2n + 15\n3n - 3 = 15\n\nNext, add `3` to both sides of the equation:\n3n - 3 + 3 = 15 + 3\n3n = 18\n\nFinally, divide by `3` to find the value of 'n':\nn = 18 / 3\nn = 6\n\nThis means the 6th term in both sequences is the first term they share. \nTo find the actual value of this term, substitute n = 6 back into either of the original nth term expressions:\n\nUsing sequence P: \n5(6) - 3 = 30 - 3 = 27\n\nUsing sequence Q: \n2(6) + 15 = 12 + 15 = 27\n\nBoth calculations give 27, so the first term that appears in both sequences is 27.",
+      "hint": "If a term is common to both sequences, its value will be the same for some term number, 'n'. You can find this 'n' by setting the two nth term expressions equal to each other and solving the resulting equation.",
+      "generatedAt": "2026-04-29T22:07:37.055523"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_006",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence follows a consistent pattern. The 3rd term in the sequence is 17. The 5th term in the sequence is 27.\na) Describe, in words, the rule for finding the next term in this sequence.\nb) Find the 10th term in this sequence. Show your working.",
+      "options": [],
+      "correctAnswer": "a) The rule is to add 5 to the previous term.\n\nb) Working:\nThe difference between the 5th term and the 3rd term is 27 - 17 = 10.\nThere are 2 'steps' or common differences between the 3rd term and the 5th term (from 3rd to 4th, and from 4th to 5th).\nSo, the common difference = 10 ÷ 2 = 5.\n\nNow, we can extend the sequence from the 5th term:\n5th term = 27\n6th term = 27 + 5 = 32\n7th term = 32 + 5 = 37\n8th term = 37 + 5 = 42\n9th term = 42 + 5 = 47\n10th term = 47 + 5 = 52\n\nThe 10th term in the sequence is 52.",
+      "explanation": "For part a), we first need to identify the constant difference between consecutive terms. We know the 3rd term is 17 and the 5th term is 27. The numerical difference between these terms is 27 - 17 = 10. Since the 5th term is two positions after the 3rd term (3rd → 4th → 5th), this difference of 10 must be the result of adding the common difference twice. Therefore, the common difference is 10 ÷ 2 = 5. The rule for finding the next term is to add 5 to the previous term.\n\nFor part b), we use this rule to find the 10th term. We can list the terms sequentially starting from a known term:\n3rd term: 17\n4th term: 17 + 5 = 22\n5th term: 22 + 5 = 27 (This matches the given information, so our rule is correct)\n6th term: 27 + 5 = 32\n7th term: 32 + 5 = 37\n8th term: 37 + 5 = 42\n9th term: 42 + 5 = 47\n10th term: 47 + 5 = 52\n\nSo, the 10th term in the sequence is 52.",
+      "hint": "To find the common difference (the rule for finding the next term), consider the difference in value between the given terms and how many term positions separate them.",
+      "generatedAt": "2026-04-29T22:08:00.899145"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_007",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence starts with the terms 5, 9, 13, 17, ...\nThe number 69 is a term in this sequence.\nWhich term number is 69 in this sequence? You must show your working.",
+      "options": [
+        "15th term",
+        "16th term",
+        "17th term",
+        "18th term"
+      ],
+      "correctAnswer": "17th term",
+      "explanation": "1. **Find the common difference:**\n   Look at the difference between consecutive terms:\n   9 - 5 = 4\n   13 - 9 = 4\n   17 - 13 = 4\n   The common difference is 4.\n\n2. **Determine the nth term expression:**\n   Since the common difference is 4, the nth term expression will be of the form `4n + c`.\n   To find the value of `c`, use the first term (when n=1). The first term given is 5.\n   Substitute n=1 and the term value (5) into the expression:\n   `4(1) + c = 5`\n   `4 + c = 5`\n   Subtract 4 from both sides:\n   `c = 5 - 4`\n   `c = 1`\n   So, the expression for the nth term of this sequence is `4n + 1`.\n\n3. **Find which term number is 69:**\n   Set the nth term expression equal to 69 and solve for `n`:\n   `4n + 1 = 69`\n   Subtract 1 from both sides:\n   `4n = 69 - 1`\n   `4n = 68`\n   Divide both sides by 4:\n   `n = 68 / 4`\n   `n = 17`\n   Therefore, 69 is the 17th term in the sequence.",
+      "hint": "First, work out the general rule (the nth term expression) for the sequence using the common difference.",
+      "generatedAt": "2026-04-29T22:08:16.483367"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_008",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence follows a consistent pattern. The first four terms of the sequence are 3, 7, 11, 15, ...\na) Find an expression, in terms of n, for the nth term of this sequence.\nb) Using your expression from part a), determine the value of the 25th term in the sequence. Show all your working for both parts.",
+      "options": [],
+      "correctAnswer": "a) To find the expression for the nth term, first find the common difference between consecutive terms:\n7 - 3 = 4\n11 - 7 = 4\n15 - 11 = 4\nThe common difference is 4, so the nth term will be of the form `4n + c`.\nNow, compare the terms of `4n` with the given sequence:\nFor n=1, 4n = 4. The actual first term is 3. So, 4 - 1 = 3.\nFor n=2, 4n = 8. The actual second term is 7. So, 8 - 1 = 7.\nThis shows that `c` must be -1.\nTherefore, the expression for the nth term is `4n - 1`.\n\nb) To find the 25th term, substitute n = 25 into the nth term expression `4n - 1`:\n25th term = 4 * (25) - 1\n25th term = 100 - 1\n25th term = 99\n\nFinal Answer: a) `4n - 1` b) 99",
+      "explanation": "To find the nth term of a linear sequence, first identify the common difference between consecutive terms. This common difference tells you the multiplier for 'n' in the expression (e.g., if the difference is 4, it's '4n'). Then, compare the terms generated by '4n' (or whatever your common difference is) to the actual terms in the sequence. The constant adjustment needed to make them match will be the 'c' value in the 'an + c' formula.\nOnce you have the nth term expression, you can find any term in the sequence by substituting the term number (n) into the expression. For example, to find the 25th term, substitute n=25 into your derived formula.",
+      "hint": "Start by finding the common difference between consecutive terms in the sequence. This value will be the coefficient of 'n' in your nth term expression. Then, work out what constant value needs to be added or subtracted to get from the 'n times the common difference' to the actual terms of the sequence.",
+      "generatedAt": "2026-04-29T22:08:28.735789"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_009",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A linear number sequence begins with the terms 7, 10, 13, 16, ...\n\na) Find an expression, in terms of 'n', for the nth term of this sequence.\nb) Is the number 100 a term in this sequence? If it is, state the term number. Show your working clearly for both parts.",
+      "options": [],
+      "correctAnswer": "a) First, find the common difference:\n10 - 7 = 3\n13 - 10 = 3\n16 - 13 = 3\nThe common difference is 3. So the nth term is in the form 3n + c.\nFor the 1st term (n=1):\n3(1) + c = 7\n3 + c = 7\nc = 7 - 3\nc = 4\nTherefore, the nth term is 3n + 4.\n\nb) To determine if 100 is a term, set the nth term expression equal to 100:\n3n + 4 = 100\nSubtract 4 from both sides:\n3n = 100 - 4\n3n = 96\nDivide by 3:\nn = 96 / 3\nn = 32\nSince 'n' is a whole number (a positive integer), 100 is a term in the sequence. It is the 32nd term.",
+      "explanation": "Part a: Finding the nth term\n1.  **Identify the common difference:** Look at the difference between consecutive terms.\n    10 - 7 = 3\n    13 - 10 = 3\n    16 - 13 = 3\n    The common difference is 3. This means the 'n' coefficient in the nth term expression will be 3, so it starts with '3n'.\n2.  **Find the constant term:** Use the first term (when n=1) to find the constant 'c'.\n    If the nth term is `3n + c`,\n    For the 1st term (n=1): `3(1) + c = 7`\n    `3 + c = 7`\n    Subtract 3 from both sides: `c = 7 - 3`\n    `c = 4`\n3.  **Write the expression:** So, the expression for the nth term is `3n + 4`.\n\nPart b: Checking if 100 is a term\n1.  **Set the nth term equal to 100:** If 100 is a term in the sequence, then for some integer 'n', `3n + 4` must equal 100.\n    `3n + 4 = 100`\n2.  **Solve the equation for 'n':**\n    Subtract 4 from both sides: `3n = 100 - 4`\n    `3n = 96`\n    Divide both sides by 3: `n = 96 / 3`\n    `n = 32`\n3.  **Interpret the result:** Since 'n' is a positive whole number (an integer), it means 100 is indeed a term in the sequence. It is the 32nd term.",
+      "hint": "Remember to first find the common difference between consecutive terms in the sequence. Then, use this to help you write the general rule for the nth term before checking for the number 100. If 'n' is a whole positive number when solving for 100, then it is in the sequence.",
+      "generatedAt": "2026-04-29T22:08:48.386962"
+    },
+    {
+      "id": "m-y7-sequences_intermediate_010",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A toy factory, 'Bright Toys', increases its daily production following a linear pattern. On Day 1, Bright Toys produces 8 toys. On Day 2, they produce 13 toys. On Day 3, they produce 18 toys. Another factory, 'Super Toys', produces a constant number of 60 toys every day.\n\nOn which day will Bright Toys produce more toys than Super Toys for the first time? Show your working.",
+      "options": [
+        "Day 11",
+        "Day 12",
+        "Day 13",
+        "Day 14"
+      ],
+      "correctAnswer": "Day 12",
+      "explanation": "1.  Identify the sequence of toys produced by Bright Toys each day: 8, 13, 18, ...\n2.  Find the common difference between consecutive terms. The difference between 13 and 8 is 5. The difference between 18 and 13 is 5. So, the common difference is 5.\n3.  Formulate the nth term expression (T_n) for Bright Toys. Since the common difference is 5, the expression will start with 5n.\n4.  To find the constant term, substitute n=1 (for Day 1) into the expression and set it equal to the first term (8): \n    5(1) + c = 8\n    5 + c = 8\n    c = 8 - 5\n    c = 3\n    So, the nth term expression for Bright Toys' production is T_n = 5n + 3.\n5.  We need to find on which day Bright Toys produces more toys than Super Toys (which produces 60 toys). Set up an inequality: \n    5n + 3 > 60\n6.  Solve the inequality for n:\n    5n > 60 - 3\n    5n > 57\n    n > 57 / 5\n    n > 11.4\n7.  Since 'n' represents the day number and must be a whole number, the first day when Bright Toys produces more than 60 toys is the smallest integer greater than 11.4. This is 12.\n\nTherefore, on Day 12, Bright Toys will produce more toys than Super Toys.",
+      "hint": "First, find the algebraic expression for the number of toys Bright Toys produces on day 'n'. Then, set up an inequality to find when this expression is greater than 60.",
+      "generatedAt": "2026-04-29T22:09:05.236819"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y7-sequences_advanced_001",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A specialist company is designing a new packaging system for fragile items. The number of protective air cushions required for each parcel depends on its size.\nFor a 'Small' parcel (Size 1), 25 air cushions are used.\nFor a 'Medium' parcel (Size 2), 32 air cushions are used.\nFor a 'Large' parcel (Size 3), 39 air cushions are used.\nThis pattern of increasing air cushions continues for larger parcel sizes.\n\na) How many air cushions would be used for a 'Super Large' parcel, which is Size 6?\nb) Find an expression for the number of air cushions used for a parcel of size 'n'.\nc) A new parcel is found to require exactly 94 air cushions. Using your expression, determine which parcel size this would be, or explain why it is not possible.\nd) The company wants to ensure that any parcel requiring more than 100 air cushions uses a different, reinforced packaging design. What is the *first* parcel size 'n' that would require this reinforced packaging?\nShow all your working clearly.",
+      "options": [],
+      "correctAnswer": "a) First, identify the pattern: 25, 32, 39, ...\n   The difference between consecutive terms is 32 - 25 = 7, and 39 - 32 = 7. So, the number of air cushions increases by 7 for each subsequent parcel size.\n   Size 1: 25 cushions\n   Size 2: 32 cushions\n   Size 3: 39 cushions\n   Size 4: 39 + 7 = 46 cushions\n   Size 5: 46 + 7 = 53 cushions\n   Size 6: 53 + 7 = 60 cushions\n   Therefore, 60 air cushions would be used for a 'Super Large' parcel (Size 6).\n\nb) The common difference is 7, so the expression for the nth term will start with 7n.\n   For n=1 (Size 1), the number of cushions is 25. If we use 7n, we get 7(1) = 7.\n   To get from 7 to 25, we need to add 18 (25 - 7 = 18).\n   So, the expression for the number of air cushions for a parcel of size 'n' is 7n + 18.\n\nc) We are looking for a parcel size 'n' where the number of air cushions is 94.\n   Set the expression from part (b) equal to 94:\n   7n + 18 = 94\n   Subtract 18 from both sides:\n   7n = 94 - 18\n   7n = 76\n   Divide by 7:\n   n = 76 / 7\n   n = 10.857... (approximately)\n   Since 'n' represents the parcel size, it must be a whole number. As 76/7 is not a whole number, it is not possible for a parcel to require exactly 94 air cushions.\n\nd) We need to find the first parcel size 'n' for which the number of air cushions is more than 100.\n   Set up an inequality using the expression from part (b):\n   7n + 18 > 100\n   Subtract 18 from both sides:\n   7n > 100 - 18\n   7n > 82\n   Divide by 7:\n   n > 82 / 7\n   n > 11.714... (approximately)\n   Since 'n' must be a whole number (parcel size), the first whole number greater than 11.714... is 12.\n   Therefore, the first parcel size that would require reinforced packaging is Size 12.",
+      "explanation": "a) First, identify the pattern: 25, 32, 39, ...\n   The difference between consecutive terms is 32 - 25 = 7, and 39 - 32 = 7. So, the number of air cushions increases by 7 for each subsequent parcel size.\n   Size 1: 25 cushions\n   Size 2: 32 cushions\n   Size 3: 39 cushions\n   Size 4: 39 + 7 = 46 cushions\n   Size 5: 46 + 7 = 53 cushions\n   Size 6: 53 + 7 = 60 cushions\n   Therefore, 60 air cushions would be used for a 'Super Large' parcel (Size 6).\n\nb) The common difference is 7, so the expression for the nth term will start with 7n.\n   For n=1 (Size 1), the number of cushions is 25. If we use 7n, we get 7(1) = 7.\n   To get from 7 to 25, we need to add 18 (25 - 7 = 18).\n   So, the expression for the number of air cushions for a parcel of size 'n' is 7n + 18.\n\nc) We are looking for a parcel size 'n' where the number of air cushions is 94.\n   Set the expression from part (b) equal to 94:\n   7n + 18 = 94\n   Subtract 18 from both sides:\n   7n = 94 - 18\n   7n = 76\n   Divide by 7:\n   n = 76 / 7\n   n = 10.857... (approximately)\n   Since 'n' represents the parcel size, it must be a whole number. As 76/7 is not a whole number, it is not possible for a parcel to require exactly 94 air cushions.\n\nd) We need to find the first parcel size 'n' for which the number of air cushions is more than 100.\n   Set up an inequality using the expression from part (b):\n   7n + 18 > 100\n   Subtract 18 from both sides:\n   7n > 100 - 18\n   7n > 82\n   Divide by 7:\n   n > 82 / 7\n   n > 11.714... (approximately)\n   Since 'n' must be a whole number (parcel size), the first whole number greater than 11.714... is 12.\n   Therefore, the first parcel size that would require reinforced packaging is Size 12.",
+      "hint": "First, identify the term-to-term rule for the sequence and use it to find the position-to-term rule (the nth term expression). Remember that 'n' for parcel size must be a whole number.",
+      "generatedAt": "2026-04-29T22:09:32.439124"
+    },
+    {
+      "id": "m-y7-sequences_advanced_002",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A linear sequence of numbers begins with the terms 15, 22, 29, 36, ... \n\nShow your working clearly for full marks.\n\nWhich of the following statements is true about this sequence?\n\nA) The nth term rule is 7n + 8, and the 20th term is 148.\nB) The nth term rule is 7n + 8, and the number 165 is a term in the sequence.\nC) The nth term rule is 7n + 8, and the number 165 is NOT a term in the sequence.\nD) The nth term rule is 7n + 15, and the number 165 is a term in the sequence.",
+      "options": [
+        "A) The nth term rule is 7n + 8, and the 20th term is 148.",
+        "B) The nth term rule is 7n + 8, and the number 165 is a term in the sequence.",
+        "C) The nth term rule is 7n + 8, and the number 165 is NOT a term in the sequence.",
+        "D) The nth term rule is 7n + 15, and the number 165 is a term in the sequence."
+      ],
+      "correctAnswer": "C) The nth term rule is 7n + 8, and the number 165 is NOT a term in the sequence.",
+      "explanation": "To find the nth term rule for a linear sequence, first identify the common difference between consecutive terms:\n\nStep 1: Find the common difference.\n22 - 15 = 7\n29 - 22 = 7\n36 - 29 = 7\nThe common difference is 7. This means the algebraic rule for the nth term will start with `7n`.\n\nStep 2: Find the constant part of the rule.\nThe rule is of the form `7n + c`. To find `c`, use the first term (where n=1).\nWhen n=1, the term is 15.\nSo, 7(1) + c = 15\n7 + c = 15\nc = 15 - 7\nc = 8\nTherefore, the nth term rule for this sequence is `7n + 8`.\n\nStep 3: Evaluate each option based on this rule.\n\nOption A: States the nth term rule is `7n + 8` (which is correct) and the 20th term is 148.\nLet's check the 20th term:\nFor n=20, Term = 7(20) + 8 = 140 + 8 = 148. So, the 20th term is indeed 148. This part of the statement is true, but we need to find the *overall* true statement.\n\nOption B: States the nth term rule is `7n + 8` (correct) and the number 165 is a term in the sequence.\nTo check if 165 is a term, set the nth term rule equal to 165 and solve for n:\n7n + 8 = 165\n7n = 165 - 8\n7n = 157\nn = 157 / 7\nn = 22.42... (approximately)\nSince 'n' must be a whole number (an integer position) for a number to be a term in the sequence, and 157 is not perfectly divisible by 7, the number 165 is NOT a term in this sequence. So, the second part of this statement is false.\n\nOption C: States the nth term rule is `7n + 8` (correct) and the number 165 is NOT a term in the sequence (correct, as determined above).\nThis statement is entirely true.\n\nOption D: States the nth term rule is `7n + 15` and the number 165 is a term in the sequence.\nIf the rule were `7n + 15`, for n=1, the term would be 7(1) + 15 = 22, which is not the first term (15). So, the nth term rule is incorrect. Therefore, this option is false.\n\nBased on our analysis, Option C is the only completely true statement.",
+      "hint": "First, find the common difference between consecutive terms to start forming your 'nth term' rule. Then, use the first term (when n=1) to determine the full algebraic rule. When checking if a given number is part of the sequence, remember that the position 'n' must always be a positive whole number.",
+      "generatedAt": "2026-04-29T22:09:57.545961"
+    },
+    {
+      "id": "m-y7-sequences_advanced_003",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A company is observing the growth of two different types of crystals, Crystal X and Crystal Y.\n\nCrystal X has a length of 15 mm at the end of Day 1 and grows by an additional 4 mm each day.\nCrystal Y has a length of 25 mm at the end of Day 1 and grows by an additional 3 mm each day.\n\nOn which day will Crystal X first be longer than Crystal Y? Show your working.",
+      "options": [
+        "Day 10",
+        "Day 11",
+        "Day 12",
+        "Day 13"
+      ],
+      "correctAnswer": "Day 12",
+      "explanation": "To find out on which day Crystal X will first be longer than Crystal Y, we need to list the length of each crystal day by day and compare them.\n\n**For Crystal X (starts at 15 mm, grows by 4 mm each day):**\nDay 1: 15 mm\nDay 2: 15 + 4 = 19 mm\nDay 3: 19 + 4 = 23 mm\nDay 4: 23 + 4 = 27 mm\nDay 5: 27 + 4 = 31 mm\nDay 6: 31 + 4 = 35 mm\nDay 7: 35 + 4 = 39 mm\nDay 8: 39 + 4 = 43 mm\nDay 9: 43 + 4 = 47 mm\nDay 10: 47 + 4 = 51 mm\nDay 11: 51 + 4 = 55 mm\nDay 12: 55 + 4 = 59 mm\n\n**For Crystal Y (starts at 25 mm, grows by 3 mm each day):**\nDay 1: 25 mm\nDay 2: 25 + 3 = 28 mm\nDay 3: 28 + 3 = 31 mm\nDay 4: 31 + 3 = 34 mm\nDay 5: 34 + 3 = 37 mm\nDay 6: 37 + 3 = 40 mm\nDay 7: 40 + 3 = 43 mm\nDay 8: 43 + 3 = 46 mm\nDay 9: 46 + 3 = 49 mm\nDay 10: 49 + 3 = 52 mm\nDay 11: 52 + 3 = 55 mm\nDay 12: 55 + 3 = 58 mm\n\nNow, let's compare their lengths:\n- On Day 11: Crystal X is 55 mm, Crystal Y is 55 mm (They are the same length).\n- On Day 12: Crystal X is 59 mm, Crystal Y is 58 mm (Crystal X is now longer than Crystal Y).\n\nTherefore, Crystal X will first be longer than Crystal Y on Day 12.",
+      "hint": "Create two separate sequences, one for Crystal X and one for Crystal Y, showing their lengths day by day. Then compare the lengths at each day to find when Crystal X's length first exceeds Crystal Y's.",
+      "generatedAt": "2026-04-29T22:10:19.003689"
+    },
+    {
+      "id": "m-y7-sequences_advanced_004",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "In a sequence challenge, two different numerical patterns are generated. \nPattern P starts with the number 8. For each subsequent term, 5 is added to the previous term.\nPattern Q starts with the number 3. For each subsequent term, 6 is added to the previous term.\n\n(a) Write down the first five terms for Pattern P.\n(b) Write down the first five terms for Pattern Q.\n(c) Find an expression, in terms of 'n', for the nth term of Pattern P. Show your working.\n(d) Find an expression, in terms of 'n', for the nth term of Pattern Q. Show your working.\n(e) Determine the first term number 'n' for which the term in Pattern P is equal to the term in Pattern Q. Show your working.",
+      "options": [],
+      "correctAnswer": "(a) The first term of Pattern P is 8. Each subsequent term adds 5.\nTerm 1: 8\nTerm 2: 8 + 5 = 13\nTerm 3: 13 + 5 = 18\nTerm 4: 18 + 5 = 23\nTerm 5: 23 + 5 = 28\nSo, the first five terms for Pattern P are: 8, 13, 18, 23, 28.\n\n(b) The first term of Pattern Q is 3. Each subsequent term adds 6.\nTerm 1: 3\nTerm 2: 3 + 6 = 9\nTerm 3: 9 + 6 = 15\nTerm 4: 15 + 6 = 21\nTerm 5: 21 + 6 = 27\nSo, the first five terms for Pattern Q are: 3, 9, 15, 21, 27.\n\n(c) For Pattern P (8, 13, 18, 23, 28, ...):\nThe common difference is 5. So, the nth term expression will start with 5n.\nTo find the full expression, we compare 5n with the terms:\nFor n=1, 5n = 5(1) = 5. The actual first term is 8. To get from 5 to 8, we add 3.\nTherefore, the nth term for Pattern P is 5n + 3.\n\n(d) For Pattern Q (3, 9, 15, 21, 27, ...):\nThe common difference is 6. So, the nth term expression will start with 6n.\nTo find the full expression, we compare 6n with the terms:\nFor n=1, 6n = 6(1) = 6. The actual first term is 3. To get from 6 to 3, we subtract 3.\nTherefore, the nth term for Pattern Q is 6n - 3.\n\n(e) To find when the terms are equal, we can either continue listing the terms or set the nth term expressions equal to each other.\n\nMethod 1: Continuing the lists:\nPattern P: 8, 13, 18, 23, 28, 33, ... (Term 6 = 28 + 5 = 33)\nPattern Q: 3, 9, 15, 21, 27, 33, ... (Term 6 = 27 + 6 = 33)\nBy extending the lists, we can see that both patterns have a term of 33 at the 6th position.\nSo, n = 6.\n\nMethod 2: Using the nth term expressions:\nSet the nth term of Pattern P equal to the nth term of Pattern Q:\n5n + 3 = 6n - 3\nTo solve for n:\nSubtract 5n from both sides: 3 = n - 3\nAdd 3 to both sides: 3 + 3 = n\nn = 6\n\nTherefore, the first term number 'n' for which the term in Pattern P is equal to the term in Pattern Q is n = 6.",
+      "explanation": "This question requires understanding how to generate terms in a linear sequence, how to find the nth term rule for a linear sequence, and how to compare two sequences to find a common term. \n(a) and (b) require basic addition, starting with the first term and repeatedly adding the given common difference to find subsequent terms.\n(c) and (d) involve finding the general rule for a linear sequence (the nth term). For a sequence with a common difference 'd', the nth term is of the form dn + c. The 'c' value is found by checking the first term: d(1) + c = first term. Alternatively, 'c' is the 'zeroth' term (the term before the first term).\n(e) requires finding the specific term number 'n' where both sequences have the same value. This can be done by extending the lists of terms until a common value is found, or by setting the two nth term expressions equal to each other and solving the resulting linear equation for 'n'. For Year 7, extending the lists or trial-and-error using the nth term rule would be common approaches, while solving the equation is an advanced application of their algebra knowledge.",
+      "hint": "To find the nth term of a linear sequence, first identify the common difference between consecutive terms. This common difference will be the coefficient of 'n' in your expression (e.g., if the difference is 5, it starts with 5n). Then, adjust this expression by adding or subtracting a constant to match the first term of the sequence.",
+      "generatedAt": "2026-04-29T22:10:44.074832"
+    },
+    {
+      "id": "m-y7-sequences_advanced_005",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A model tower is constructed using layers of blocks, where the number of blocks in each layer forms a linear sequence. The first layer from the base of the tower uses 8 blocks. The fourth layer uses 20 blocks. Calculate the total number of blocks required for the first 5 layers of the tower. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Let the number of blocks in layer n be denoted by L_n.\nWe are given that the number of blocks in each layer forms a linear sequence, meaning there's a constant difference between consecutive layers.\nGiven:\nL_1 = 8 blocks\nL_4 = 20 blocks\n\nThe difference in the number of blocks between the 4th layer and the 1st layer is L_4 - L_1 = 20 - 8 = 12 blocks.\nThis difference spans (4 - 1) = 3 steps (from layer 1 to 2, 2 to 3, and 3 to 4).\nSo, the constant difference (d) in blocks per layer is 12 / 3 = 4 blocks.\n\nNow we can find the number of blocks for each of the first 5 layers:\nL_1 = 8\nL_2 = L_1 + d = 8 + 4 = 12 blocks\nL_3 = L_2 + d = 12 + 4 = 16 blocks\nL_4 = L_3 + d = 16 + 4 = 20 blocks (This matches the given information, confirming our common difference is correct).\nL_5 = L_4 + d = 20 + 4 = 24 blocks\n\nTo find the total number of blocks required for the first 5 layers, we sum the blocks in each of these layers:\nTotal blocks = L_1 + L_2 + L_3 + L_4 + L_5\nTotal blocks = 8 + 12 + 16 + 20 + 24\nTotal blocks = 80 blocks.\n\nTherefore, the total number of blocks required for the first 5 layers of the tower is 80.",
+      "explanation": "The problem describes a linear sequence for the number of blocks in each layer. This means there's a constant difference between consecutive terms. By finding the total change in blocks between the first and fourth layers (20 - 8 = 12) and dividing by the number of 'jumps' between these layers (4 - 1 = 3), we determine the constant difference (12 / 3 = 4 blocks). Once the constant difference is known, we can list the number of blocks for each of the first five layers (8, 12, 16, 20, 24). Finally, summing these five values gives the total number of blocks (8 + 12 + 16 + 20 + 24 = 80).",
+      "hint": "First, work out the constant difference in the number of blocks between consecutive layers using the information given for the first and fourth layers. Then, use this difference to find the number of blocks in each of the first five layers before calculating their total sum.",
+      "generatedAt": "2026-04-29T22:11:10.458845"
+    },
+    {
+      "id": "m-y7-sequences_advanced_006",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A sequence of numbers has its first term as 5. Each term after the first is found by adding 4 to the previous term. \n\nWhat is the difference between the 15th term and the 5th term of this sequence?",
+      "options": [
+        "36",
+        "40",
+        "44",
+        "56"
+      ],
+      "correctAnswer": "40",
+      "explanation": "To find the difference between the 15th term and the 5th term, we first need to identify the terms themselves.\n\nThe sequence starts at 5 and increases by 4 each time.\nThis is a linear sequence with a common difference of 4.\n\nMethod 1: Listing terms\nTerm 1: 5\nTerm 2: 5 + 4 = 9\nTerm 3: 9 + 4 = 13\nTerm 4: 13 + 4 = 17\nTerm 5: 17 + 4 = 21\n\nTo find the 15th term, we can continue listing or use the rule. \nSince each term increases by 4, the nth term can be represented by 4n + (first term - common difference).\nFirst term = 5, common difference = 4.\nSo, the nth term is 4n + (5 - 4) = 4n + 1.\n\nNow, calculate the 15th term:\n15th term = 4 * 15 + 1 = 60 + 1 = 61.\n\nWe already found the 5th term:\n5th term = 4 * 5 + 1 = 20 + 1 = 21.\n\nFinally, find the difference between the 15th term and the 5th term:\nDifference = 15th term - 5th term = 61 - 21 = 40.\n\nMethod 2: Using the common difference directly\nIn a linear sequence, the difference between the nth term and the mth term is (n - m) multiplied by the common difference.\nHere, n = 15, m = 5, and the common difference is 4.\nDifference = (15 - 5) * 4\nDifference = 10 * 4\nDifference = 40.",
+      "hint": "Start by finding the algebraic rule for the nth term of the sequence, or list out enough terms to find the 5th and 15th terms. Remember that the difference between terms in a linear sequence is directly related to the common difference.",
+      "generatedAt": "2026-04-29T22:11:38.415044"
+    },
+    {
+      "id": "m-y7-sequences_advanced_007",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A factory machine starts producing items. In the first hour, it makes 25 items. In the second hour, it makes 32 items. In the third hour, it makes 39 items. This pattern continues, with the number of items increasing by the same amount each hour. The machine is considered to be at risk of breaking down if it produces more than 150 items in a single hour. \n\nIn which hour will the machine first produce more than 150 items? Show your working.",
+      "options": [
+        "18th hour",
+        "19th hour",
+        "20th hour",
+        "It will never produce more than 150 items."
+      ],
+      "correctAnswer": "19th hour",
+      "explanation": "To solve this problem, we first need to find the rule (also known as the nth term) for the sequence of items produced each hour.\n\n1.  **Identify the common difference:**\n    The sequence of items is 25, 32, 39, ...\n    The difference between the second and first term is 32 - 25 = 7.\n    The difference between the third and second term is 39 - 32 = 7.\n    So, the common difference is 7. This means the number of items increases by 7 each hour.\n\n2.  **Formulate the nth term expression:**\n    For a linear sequence, the nth term can be written as an + b, where 'a' is the common difference.\n    So, our expression starts with 7n.\n    To find 'b', we use the first term (n=1). We know that when n=1, the number of items is 25.\n    Substitute n=1 into 7n + b: 7(1) + b = 25\n    7 + b = 25\n    Subtract 7 from both sides: b = 25 - 7\n    b = 18\n    So, the expression for the number of items produced in the nth hour is **7n + 18**.\n\n3.  **Find when the production exceeds 150 items:**\n    We want to find the first hour (n) when the number of items (7n + 18) is *more than* 150. We set up an inequality:\n    7n + 18 > 150\n\n    Subtract 18 from both sides of the inequality:\n    7n > 150 - 18\n    7n > 132\n\n    Divide both sides by 7:\n    n > 132 / 7\n    n > 18.857...\n\n4.  **Interpret the result:**\n    Since 'n' represents the hour number, it must be a whole number. We are looking for the *first* whole hour number that is greater than 18.857...\n    The first whole number greater than 18.857... is 19.\n\nTherefore, in the 19th hour, the machine will first produce more than 150 items.",
+      "hint": "First, find the rule (nth term) for the sequence of items produced each hour. Then, set up an inequality to find when the number of items exceeds 150.",
+      "generatedAt": "2026-04-29T22:11:58.870715"
+    },
+    {
+      "id": "m-y7-sequences_advanced_008",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A numerical sequence starts with the term 28. Each term after the first is found by subtracting 3 from the previous term. The first few terms are 28, 25, 22, 19, ... .\n\nShow your working to find the expression for the nth term of this sequence, and then use it to determine which term in the sequence will be the first term to have a value less than 10.\n(Working must be shown for full marks)",
+      "options": [
+        "The 7th term",
+        "The 8th term",
+        "The 9th term",
+        "The 10th term"
+      ],
+      "correctAnswer": "The 8th term",
+      "explanation": "1.  **Identify the common difference:** The sequence decreases by 3 each time (28-3=25, 25-3=22), so the common difference (d) is -3.\n\n2.  **Find the nth term rule:** The general form for the nth term of a linear sequence is `dn + c`.\n    Substitute the common difference: `nth term = -3n + c`.\n    To find 'c', use the first term (n=1). When n=1, the term is 28:\n    `-3(1) + c = 28`\n    `-3 + c = 28`\n    `c = 28 + 3`\n    `c = 31`\n    So, the expression for the nth term is `31 - 3n`.\n\n3.  **Determine when the term is less than 10:** We need to find the smallest whole number 'n' for which `31 - 3n < 10`.\n    Subtract 31 from both sides of the inequality:\n    `-3n < 10 - 31`\n    `-3n < -21`\n    Divide both sides by -3. Remember that when you divide an inequality by a negative number, you must reverse the inequality sign:\n    `n > (-21) / (-3)`\n    `n > 7`\n\n4.  **Identify the first term:** Since 'n' must be greater than 7, the smallest whole number value for 'n' is 8.\n    To verify:\n    -   For the 7th term (n=7): `31 - 3(7) = 31 - 21 = 10`. This term is not less than 10.\n    -   For the 8th term (n=8): `31 - 3(8) = 31 - 24 = 7`. This term is less than 10.\n\nTherefore, the 8th term is the first term in the sequence to have a value less than 10.",
+      "hint": "First, identify the common difference between consecutive terms. Use this to form the general expression for the nth term (e.g., using 'dn + c' where 'd' is the common difference). Then, set up an inequality or test values to find when this expression becomes less than 10.",
+      "generatedAt": "2026-04-29T22:12:18.976587"
+    },
+    {
+      "id": "m-y7-sequences_advanced_009",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Lily is saving money for a new bicycle. \nIn Week 1, she has saved £10.\nIn Week 2, she has saved £17.\nIn Week 3, she has saved £24.\nThis pattern of saving continues each week.\n\n(a) Describe the term-to-term rule for the amount of money Lily saves each week. (1 mark)\n\n(b) How much money will Lily have saved in Week 6? Show your working. (2 marks)\n\n(c) Write down a rule, using the letter 'n' to represent the week number, that Lily can use to calculate how much money she will have saved in any given week 'n'. (2 marks)\n\n(d) Ben is also saving money. In Week 1, he has saved £30. He then adds £3 to his savings each week.\nIn which week will Lily and Ben have saved the same amount of money? Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) To find the term-to-term rule, look at the difference between consecutive terms:\nWeek 2 (17) - Week 1 (10) = 7\nWeek 3 (24) - Week 2 (17) = 7\nThe term-to-term rule is to add £7 each week.\n\n(b) To find the amount in Week 6, continue the sequence:\nWeek 1: £10\nWeek 2: £17\nWeek 3: £24\nWeek 4: £24 + £7 = £31\nWeek 5: £31 + £7 = £38\nWeek 6: £38 + £7 = £45\nLily will have saved £45 in Week 6.\n\n(c) The term-to-term rule is 'add 7', so the rule for the nth term will involve 7n. \nLet's test 7n for n=1: 7 * 1 = 7. Lily has £10 in Week 1. So, 7 needs to be adjusted by adding 3 (10 - 7 = 3).\nLily's rule for week 'n' is 7n + 3.\n\n(d) First, find Ben's rule for saving money.\nBen starts with £30 in Week 1 and adds £3 each week.\nThe term-to-term rule for Ben is 'add 3'. So Ben's rule for the nth term will involve 3n.\nLet's test 3n for n=1: 3 * 1 = 3. Ben has £30 in Week 1. So, 3 needs to be adjusted by adding 27 (30 - 3 = 27).\nBen's rule for week 'n' is 3n + 27.\n\nTo find when Lily and Ben have the same amount, set their rules equal to each other:\nLily's money = Ben's money\n7n + 3 = 3n + 27\n\nSubtract 3n from both sides:\n4n + 3 = 27\n\nSubtract 3 from both sides:\n4n = 24\n\nDivide by 4:\nn = 6\n\nLily and Ben will have saved the same amount of money in Week 6.\n\nCheck:\nLily in Week 6: 7(6) + 3 = 42 + 3 = £45\nBen in Week 6: 3(6) + 27 = 18 + 27 = £45\nBoth have £45 in Week 6.",
+      "explanation": "This multi-part question tests a Year 7 student's understanding of number sequences in an applied context. \n\nPart (a) requires identifying the common difference in a linear sequence, which is a fundamental skill.\n\nPart (b) assesses the ability to extend a sequence using the identified rule and show step-by-step working, building on part (a).\n\nPart (c) is the core 'nth term' concept for Year 7. Students need to recognise that the common difference (the number added each time) is the coefficient of 'n'. They then need to adjust this 'n' term by adding or subtracting a constant to match the first term of the sequence. For example, if the difference is 7, the rule starts with 7n. For n=1, 7n is 7. Since the actual first term is 10, they need to add 3 (10-7) to 7n, giving 7n+3.\n\nPart (d) is the most challenging, requiring students to: \n1. Apply the nth term rule generation process from part (c) to a second sequence (Ben's savings).\n2. Understand that 'the same amount' means setting the two algebraic rules (nth terms) equal to each other.\n3. Solve the resulting simple linear equation (e.g., 7n + 3 = 3n + 27) for 'n'. This involves basic algebraic manipulation (collecting like terms, isolating the variable). \n\nThe question is 'advanced' for Year 7 due to the combination of finding nth terms, setting up and solving an algebraic equation, and applying these concepts to a multi-step, real-world scenario.",
+      "hint": "For part (c), think about how the amount Lily adds each week relates to the 'n' in your rule. Then, consider what adjustment is needed to make the rule work for Week 1. For part (d), first find Ben's rule for his savings (similar to how you found Lily's rule). Once you have both rules, set them equal to each other to find the week number 'n' when their savings are the same.",
+      "generatedAt": "2026-04-29T22:12:43.911924"
+    },
+    {
+      "id": "m-y7-sequences_advanced_010",
+      "topicId": "m-y7-sequences",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A company uses two different systems to number its products based on the order they are produced. \n\nSystem Alpha starts its numbering at 12 for the 1st product and increases the number by 7 for each subsequent product.\nSystem Beta starts its numbering at 30 for the 1st product and increases the number by 4 for each subsequent product.\n\nFor which product number, 'n', will the value generated by System Alpha first be greater than the value generated by System Beta? Show your working clearly. (4 marks)",
+      "options": [
+        "A) n = 6",
+        "B) n = 7",
+        "C) n = 8",
+        "D) n = 9"
+      ],
+      "correctAnswer": "C) n = 8",
+      "explanation": "To solve this, we first need to find the expression for the nth term for both System Alpha and System Beta.\n\n**For System Alpha:**\n\nThe first term is 12.\nThe common difference (increase) is 7.\nThe general form for a linear sequence is `nth term = dn + c`, where 'd' is the common difference.\nSo, for System Alpha, the expression will start with `7n`.\nWhen n=1, `7n = 7 * 1 = 7`. However, the first term is 12.\nTo get from 7 to 12, we need to add 5. So, the expression for System Alpha is `7n + 5`.\n\n**For System Beta:**\n\nThe first term is 30.\nThe common difference (increase) is 4.\nSo, for System Beta, the expression will start with `4n`.\nWhen n=1, `4n = 4 * 1 = 4`. However, the first term is 30.\nTo get from 4 to 30, we need to add 26. So, the expression for System Beta is `4n + 26`.\n\n**Now we need to find when System Alpha's value is greater than System Beta's value:**\n\nWe set up an inequality:\n`Value of Alpha > Value of Beta`\n`7n + 5 > 4n + 26`\n\nTo solve for 'n', first subtract `4n` from both sides:\n`7n - 4n + 5 > 4n - 4n + 26`\n`3n + 5 > 26`\n\nNext, subtract `5` from both sides:\n`3n + 5 - 5 > 26 - 5`\n`3n > 21`\n\nFinally, divide by `3`:\n`3n / 3 > 21 / 3`\n`n > 7`\n\nThis means that 'n' must be a product number greater than 7. Since 'n' must be an integer (you can't have product number 7.5), the smallest integer value for 'n' that is greater than 7 is 8.\n\nTherefore, at the 8th product number, System Alpha's value will first be greater than System Beta's value.",
+      "hint": "First, find an algebraic expression (the nth term rule) for each sequence. Then, set up an inequality to compare the two expressions and solve for 'n'.",
+      "generatedAt": "2026-04-29T22:13:06.747865"
+    }
+  ]
+}

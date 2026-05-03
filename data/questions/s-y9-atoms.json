@@ -1,0 +1,463 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y9-atoms_beginner_001",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which subatomic particle is found orbiting the nucleus and has a negative charge?",
+      "options": [
+        "A) Proton",
+        "B) Neutron",
+        "C) Electron",
+        "D) Nucleus"
+      ],
+      "correctAnswer": "C) Electron",
+      "explanation": "Let's break down the properties of each option:\n\n1.  **Proton (A):** Protons are found inside the nucleus and carry a positive charge.\n2.  **Neutron (B):** Neutrons are also found inside the nucleus, but they have no charge (they are neutral).\n3.  **Electron (C):** Electrons are found orbiting the nucleus in shells, and they carry a negative charge.\n4.  **Nucleus (D):** The nucleus is the central part of the atom, containing protons and neutrons, but it is not a subatomic particle itself, and it has an overall positive charge due to the protons.\n\nTherefore, the electron is the only subatomic particle that matches both descriptions: it orbits the nucleus and has a negative charge.",
+      "hint": "Think about the location (where it is found) and the electrical charge (positive, negative, or neutral) for each of the main parts of an atom.",
+      "generatedAt": "2026-04-30T17:40:00.750561"
+    },
+    {
+      "id": "s-y9-atoms_beginner_002",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the electrical charge of a proton.",
+      "options": [
+        "Positive",
+        "Negative",
+        "Neutral",
+        "Variable"
+      ],
+      "correctAnswer": "Positive",
+      "explanation": "Protons are subatomic particles found within the nucleus of an atom. They are defined by carrying a single positive electrical charge. Neutrons have no charge (are neutral), and electrons carry a single negative charge.",
+      "hint": "Consider the three main subatomic particles (protons, neutrons, electrons) and their fundamental electrical properties.",
+      "generatedAt": "2026-04-30T17:40:08.185982"
+    },
+    {
+      "id": "s-y9-atoms_beginner_003",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the overall electrical charge of the nucleus of an atom.",
+      "options": [],
+      "correctAnswer": "Positive",
+      "explanation": "The nucleus of an atom contains two types of subatomic particles: protons and neutrons. Protons carry a positive electrical charge, while neutrons have no electrical charge (they are neutral). Since the nucleus only contains positively charged protons and neutral neutrons, its overall electrical charge is positive.",
+      "hint": "Recall the types of subatomic particles found within the nucleus and their respective electrical charges.",
+      "generatedAt": "2026-04-30T17:40:18.553600"
+    },
+    {
+      "id": "s-y9-atoms_beginner_004",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the name of the scientist who first proposed the 'plum pudding' model of the atom, suggesting that negatively charged electrons were embedded within a sphere of positive charge.",
+      "options": [
+        "John Dalton",
+        "Ernest Rutherford",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "correctAnswer": "J.J. Thomson",
+      "explanation": "J.J. Thomson proposed the 'plum pudding' model in 1904. This model suggested that the atom was a sphere of uniformly distributed positive charge, with negatively charged electrons embedded within it, much like plums in a pudding. This was a significant step forward from Dalton's solid sphere model, as it introduced the idea of subatomic particles within the atom.",
+      "hint": "Consider the scientist who is credited with the discovery of the electron and then developed a model to describe its initial placement within the atom.",
+      "generatedAt": "2026-04-30T17:40:28.425634"
+    },
+    {
+      "id": "s-y9-atoms_beginner_005",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Describe two key differences in the structure of the atom proposed by J.J. Thomson's 'plum pudding' model and Ernest Rutherford's nuclear model.",
+      "options": [],
+      "correctAnswer": "1. In Thomson's 'plum pudding' model, the positive charge was believed to be spread out uniformly throughout a sphere, whereas in Rutherford's nuclear model, the positive charge is concentrated in a tiny, dense central nucleus.\n2. In Thomson's model, electrons were embedded within the positively charged sphere (like 'plums in a pudding'), whereas in Rutherford's model, electrons orbit the central nucleus in a largely empty space around it.",
+      "explanation": "This question assesses the student's understanding of the historical development of atomic models. Thomson's model pictured a uniformly positive sphere with embedded electrons. Rutherford's gold foil experiment led to his nuclear model, which proposed a small, dense, positively charged nucleus with electrons orbiting it, and mostly empty space within the atom. The correct answer highlights these fundamental differences in the distribution of charge and the arrangement of subatomic particles.",
+      "hint": "Consider the location and distribution of both the positive charge and the electrons in each scientist's model. Were they spread out or concentrated in a specific area?",
+      "generatedAt": "2026-04-30T17:40:39.246892"
+    },
+    {
+      "id": "s-y9-atoms_beginner_006",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which subatomic particle has a relative mass of approximately 1 and carries a positive electrical charge?",
+      "options": [
+        "Electron",
+        "Neutron",
+        "Proton",
+        "Ion"
+      ],
+      "correctAnswer": "Proton",
+      "explanation": "Protons are found in the nucleus of an atom and have a relative mass of 1, along with a positive electrical charge of +1. Electrons have a negligible relative mass and a negative charge. Neutrons have a relative mass of 1 but no electrical charge. An ion is an atom that has gained or lost electrons, not a fundamental subatomic particle itself.",
+      "hint": "Think about the properties (relative mass and electrical charge) of each subatomic particle: proton, neutron, and electron.",
+      "generatedAt": "2026-04-30T17:40:50.416117"
+    },
+    {
+      "id": "s-y9-atoms_beginner_007",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A neutral atom of carbon has 6 protons, 6 neutrons, and 6 electrons. Which subatomic particle, if removed from this carbon atom, would change its overall electrical charge to positive?",
+      "options": [
+        "A. Proton",
+        "B. Neutron",
+        "C. Electron",
+        "D. Nucleus"
+      ],
+      "correctAnswer": "C. Electron",
+      "explanation": "A neutral atom has an equal number of positively charged protons and negatively charged electrons. Neutrons have no electrical charge. If an electron (which carries a negative charge) is removed from a neutral atom, there will be more positive charges (protons) than negative charges (electrons) remaining. This imbalance will cause the overall charge of the atom to become positive.",
+      "hint": "Recall the electrical charge of each subatomic particle (proton, neutron, electron) and consider how removing one affects the overall balance of charges.",
+      "generatedAt": "2026-04-30T17:41:01.566257"
+    },
+    {
+      "id": "s-y9-atoms_beginner_008",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "An atom has no overall electrical charge. Which statement correctly describes the subatomic particles responsible for this neutrality?",
+      "options": [
+        "The number of neutrons is equal to the number of electrons.",
+        "The number of protons is equal to the number of neutrons.",
+        "The number of protons is equal to the number of electrons.",
+        "There are no charged particles within the atom."
+      ],
+      "correctAnswer": "The number of protons is equal to the number of electrons.",
+      "explanation": "Atoms are made up of protons (which have a positive charge), neutrons (which have no charge), and electrons (which have a negative charge). For an atom to have no overall electrical charge, the total positive charge must cancel out the total negative charge. This happens when the number of positively charged protons is equal to the number of negatively charged electrons.",
+      "hint": "Consider the electrical charge of each subatomic particle: proton, neutron, and electron.",
+      "generatedAt": "2026-04-30T17:41:14.977477"
+    },
+    {
+      "id": "s-y9-atoms_beginner_009",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "State the overall electrical charge of the nucleus of an atom.",
+      "options": [
+        "A) Negative",
+        "B) Positive",
+        "C) Neutral",
+        "D) Varies depending on the atom"
+      ],
+      "correctAnswer": "B) Positive",
+      "explanation": "The nucleus of an atom is composed of protons and neutrons. Protons carry a positive electrical charge, and neutrons have no electrical charge (they are neutral). Therefore, the sum of the charges within the nucleus results in an overall positive electrical charge.",
+      "hint": "Recall the electrical charges of the subatomic particles located within the nucleus.",
+      "generatedAt": "2026-04-30T17:41:25.245157"
+    },
+    {
+      "id": "s-y9-atoms_beginner_010",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "What was the main reason scientists developed new atomic models over time?",
+      "options": [
+        "A) New discoveries from experiments",
+        "B) Better drawing techniques for diagrams",
+        "C) Different opinions among scientists",
+        "D) Ancient philosophical ideas"
+      ],
+      "correctAnswer": "A) New discoveries from experiments",
+      "explanation": "Scientific models, including those describing the atom, are constantly refined and updated. This process is driven by new evidence gathered through experiments. When experimental results cannot be explained by the current model, scientists propose and test new models to better fit the observed data. For example, Rutherford's gold foil experiment provided evidence that led to the nuclear model of the atom, replacing Thomson's 'plum pudding' model.",
+      "hint": "Consider what drives progress and changes in scientific understanding.",
+      "generatedAt": "2026-04-30T17:41:35.813790"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y9-atoms_intermediate_001",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The understanding of atomic structure has evolved significantly since Dalton's indivisible atoms. Rutherford's gold foil experiment, for instance, revealed the existence of a dense, positively charged nucleus, containing protons and neutrons, orbited by electrons.\n\nA neutral atom of Nitrogen (N) has an atomic number of 7 and a mass number of 14.\nA stable ion formed from a Nitrogen atom has a charge of 3-.\n\n**Calculate** the difference between the number of neutrons in the neutral Nitrogen atom and the number of electrons in the N³⁻ ion.\nShow your working and state your final answer.",
+      "options": [],
+      "correctAnswer": "**Step 1: Calculate the number of neutrons in a neutral Nitrogen atom (N).**\n*   **State** the atomic number of Nitrogen = 7 (This is the number of protons).\n*   **State** the mass number of Nitrogen = 14.\n*   **Formula:** Number of neutrons = Mass number - Atomic number\n*   **Substitution:** Number of neutrons = 14 - 7\n*   **Answer:** Number of neutrons = 7\n\n**Step 2: Calculate the number of electrons in the N³⁻ ion.**\n*   A neutral Nitrogen atom has 7 protons, so it also has 7 electrons.\n*   An ion with a 3- charge means the atom has gained 3 electrons.\n*   **Calculation:** Number of electrons in N³⁻ = 7 (original electrons) + 3 (gained electrons)\n*   **Answer:** Number of electrons in N³⁻ = 10\n\n**Step 3: Calculate the difference.**\n*   **Difference** = |Number of electrons in N³⁻ - Number of neutrons in N atom|\n*   **Substitution:** Difference = |10 - 7|\n*   **Final Answer:** The difference is 3.",
+      "explanation": "To solve this, first calculate the number of neutrons in the neutral Nitrogen atom by subtracting the atomic number from the mass number. Then, determine the number of electrons in the N³⁻ ion by adding the magnitude of the negative charge to the atomic number (which is equal to the number of electrons in a neutral atom). Finally, find the absolute difference between these two calculated values.",
+      "hint": "Remember that the atomic number defines the number of protons. For a neutral atom, the number of electrons equals the number of protons. For an ion, electrons are gained or lost according to its charge. The mass number helps determine the number of neutrons.",
+      "generatedAt": "2026-04-30T17:42:00.765462"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_002",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An atom of carbon-14 has an atomic number of 6 and a mass number of 14.\na) Calculate the number of neutrons in this atom. (2 marks)\nb) Explain how the discovery of subatomic particles, specifically the electron, led to a revision of Dalton's atomic model into Thomson's 'plum pudding' model. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Calculation:\nFormula: Number of neutrons = Mass number - Atomic number\nSubstitution: Number of neutrons = 14 - 6\nAnswer: Number of neutrons = 8\n\nb) Explanation:\nDalton's atomic model proposed that atoms were indivisible, solid spheres with no internal structure. However, J.J. Thomson's cathode ray experiments led to the discovery of the electron, a much smaller, negatively charged subatomic particle. This discovery showed that atoms were not indivisible as Dalton had suggested, but instead had internal components. This evidence disproved the indivisible solid sphere concept (cause) so the atomic model needed to be revised (effect) to incorporate these new particles. Thomson then proposed the 'plum pudding' model, depicting the atom as a sphere of positive charge with negatively charged electrons ('plums') embedded within it, which accounted for the atom's overall neutrality and the existence of electrons.",
+      "explanation": "Part a) requires the student to correctly recall and apply the formula for calculating the number of neutrons (Mass number - Atomic number). Part b) requires a multi-step explanation linking the characteristics of Dalton's model, the discovery of the electron, how this discovery contradicted Dalton's ideas (cause), and the resulting change to Thomson's 'plum pudding' model (effect), including a brief description of the new model.",
+      "hint": "For part (a), remember that the mass number represents the total number of protons and neutrons, while the atomic number represents only the number of protons. For part (b), consider what Dalton's model stated about the atom's structure and how the existence of a negatively charged particle much smaller than the atom itself would challenge that fundamental idea.",
+      "generatedAt": "2026-04-30T17:42:17.107482"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_003",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An atom of an unknown element has a mass number of 31 and contains 15 protons. This atom can form an ion by losing or gaining electrons.\n\nCalculate the number of neutrons in the neutral atom. Then, if this atom forms an ion with a charge of 3-, calculate the total number of electrons in this ion. (4 marks)",
+      "options": [],
+      "correctAnswer": "Calculation of neutrons:\nNumber of protons = 15 (stated)\nFormula: Number of neutrons = Mass number - Number of protons\nSubstitution: Number of neutrons = 31 - 15\nAnswer: 16 neutrons\n\nCalculation of electrons in the ion:\nFor a neutral atom, the number of electrons = number of protons = 15.\nAn ion with a charge of 3- means the atom has gained 3 electrons.\nTotal number of electrons in the ion = 15 + 3 = 18 electrons.",
+      "explanation": "1. **Determine the number of protons:** The question states the atom contains 15 protons.\n2. **Calculate the number of neutrons:** Use the formula: Number of neutrons = Mass number - Number of protons. Substitute the given values: 31 - 15 = 16 neutrons.\n3. **Determine the number of electrons in a neutral atom:** In a neutral atom, the number of electrons is equal to the number of protons. So, the neutral atom has 15 electrons.\n4. **Calculate the number of electrons in the 3- ion:** A 3- charge means the atom has gained 3 electrons. Therefore, the total number of electrons in the ion is 15 (initial neutral electrons) + 3 (gained electrons) = 18 electrons.",
+      "hint": "Remember that the mass number accounts for both protons and neutrons. Also, consider how the charge of an ion relates to the number of electrons compared to a neutral atom.",
+      "generatedAt": "2026-04-30T17:42:55.315583"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_004",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "J.J. Thomson's Plum Pudding model described the atom as a sphere of positive charge with negatively charged electrons embedded within it. Ernest Rutherford's later gold foil experiment provided evidence that led to a revised understanding of atomic structure, where a dense, positively charged nucleus occupies a tiny volume at the center of the atom.\n\nAn atom of element Y has a mass number of 40. A common ion of element Y has a charge of +2 and contains 18 electrons.\n\nCalculate the number of neutrons present in a *neutral* atom of element Y.",
+      "options": [
+        "18 neutrons",
+        "20 neutrons",
+        "22 neutrons",
+        "40 neutrons"
+      ],
+      "correctAnswer": "20 neutrons",
+      "explanation": "1.  **Determine the number of protons:**\n    *   The ion of element Y has a charge of +2 and contains 18 electrons. A +2 charge means the ion has lost 2 electrons compared to a neutral atom.\n    *   Therefore, a neutral atom of element Y would have had 18 (electrons in ion) + 2 (lost electrons) = 20 electrons.\n    *   In a neutral atom, the number of protons is equal to the number of electrons. So, a neutral atom of element Y has 20 protons.\n2.  **Calculate the number of neutrons:**\n    *   The mass number (A) of element Y is given as 40.\n    *   The number of protons (P) is 20 (determined in step 1).\n    *   The number of neutrons (N) is calculated using the formula: N = Mass Number (A) - Number of Protons (P).\n    *   N = 40 - 20 = 20 neutrons.",
+      "hint": "First, determine the number of protons in a neutral atom by considering the ion's charge and electron count. Then, use the mass number to calculate the number of neutrons.",
+      "generatedAt": "2026-04-30T17:43:13.623633"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_005",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A particular atom of an element is identified as having 13 protons in its nucleus. Its overall mass number is 27. This atom can form an ion by gaining or losing electrons. \n\nCalculate the number of neutrons present in this atom. Then, determine the total number of electrons in an ion of this element that carries a 3- charge. \n\nShow your working. (5 marks)",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the number of neutrons.\nFormula: Mass number = Number of protons + Number of neutrons\nSubstitution: 27 = 13 + Number of neutrons\nCalculation: Number of neutrons = 27 - 13\nAnswer: Number of neutrons = 14\n\nStep 2: Determine the number of electrons in a neutral atom.\nIn a neutral atom, the number of protons is equal to the number of electrons.\nSo, for this atom, the number of electrons in a neutral state = 13.\n\nStep 3: Determine the total number of electrons in the 3- ion.\nA 3- ion means the atom has gained 3 electrons.\nCalculation: Total electrons in 3- ion = Electrons in neutral atom + 3\nTotal electrons in 3- ion = 13 + 3\nAnswer: Total electrons in 3- ion = 16\n\nFinal Answer: The number of neutrons in the atom is 14, and the total number of electrons in its 3- ion is 16.",
+      "explanation": "The question asks for two distinct calculations. First, to find the number of neutrons, recall the definition of mass number: it's the sum of protons and neutrons in the nucleus. By subtracting the given number of protons (13) from the mass number (27), you find the number of neutrons. Second, to determine the electrons in the ion, you must first know the number of electrons in a neutral atom (which is equal to the number of protons, 13). Since a 3- charge indicates that the atom has gained three electrons, you add 3 to the neutral electron count to find the total electrons in the ion.",
+      "hint": "Remember that the mass number is the sum of protons and neutrons in an atom's nucleus. For an ion, a negative charge indicates the atom has gained electrons, while a positive charge indicates electrons have been lost.",
+      "generatedAt": "2026-04-30T17:43:30.099722"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_006",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Calculate the total number of electrons in a neutral atom, given the following observations:\n1.  The atom contains 20 neutrons in its nucleus.\n2.  The combined relative mass of all positively charged particles within the atom is 19.\n3.  Electrons have a negligible relative mass compared to protons and neutrons.",
+      "options": [
+        "A) 19",
+        "B) 20",
+        "C) 39",
+        "D) 0"
+      ],
+      "correctAnswer": "A) 19",
+      "explanation": "Step 1: Determine the number of protons.\nPositively charged particles found within the nucleus of an atom are protons. Each proton has a relative mass of 1.\nThe problem states that the combined relative mass of all positively charged particles is 19. Therefore, the number of protons in this atom is 19 / 1 = 19 protons.\n\nStep 2: Determine the number of electrons in a neutral atom.\nA neutral atom is defined as having no overall electrical charge. This means the number of positively charged particles (protons) must be equal to the number of negatively charged particles (electrons).\nSince we determined there are 19 protons, a neutral atom of this element must contain 19 electrons.\n(The number of neutrons, 20, is extra information not required to find the number of electrons in a neutral atom from the given data.)",
+      "hint": "Consider which subatomic particles are positively charged and contribute significantly to mass. Then, remember the defining characteristic of a neutral atom in terms of its charges.",
+      "generatedAt": "2026-04-30T17:43:46.088567"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_007",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An atom of an unknown element has a mass number of 27 and contains 14 neutrons. This atom can lose electrons to form an ion. If this atom forms an ion with a charge of +3, calculate the total number of electrons in this ion.",
+      "options": [],
+      "correctAnswer": "Step 1: Determine the number of protons (atomic number, Z).\n   Mass number (A) = Number of protons (Z) + Number of neutrons (N)\n   So, Z = A - N\n   Z = 27 - 14 = 13 protons\n\nStep 2: Determine the number of electrons in a neutral atom.\n   In a neutral atom, the number of electrons equals the number of protons.\n   Number of electrons (neutral) = 13\n\nStep 3: Adjust for the ion's charge.\n   A charge of +3 means the atom has lost 3 electrons.\n   Number of electrons (ion) = Number of electrons (neutral) - 3\n   Number of electrons (ion) = 13 - 3 = 10 electrons\n\nFinal Answer: 10 electrons",
+      "explanation": "The problem requires two main steps. First, you need to find the number of protons (atomic number) using the mass number and the number of neutrons. The mass number is the sum of protons and neutrons, so subtracting the neutrons from the mass number gives the protons. For this atom, 27 (mass number) - 14 (neutrons) = 13 protons.\n\nNext, you need to consider the electrons. In a neutral atom, the number of electrons is equal to the number of protons, so a neutral atom of this element would have 13 electrons. However, the question specifies an ion with a charge of +3. A positive charge means the atom has lost electrons. A +3 charge indicates that 3 electrons have been lost. Therefore, 13 (original electrons) - 3 (lost electrons) = 10 electrons in the ion.",
+      "hint": "First, determine the atomic number (number of protons) using the mass number and the number of neutrons. Then, recall how the charge of an ion relates to its electron count compared to a neutral atom.",
+      "generatedAt": "2026-04-30T17:44:01.521960"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_008",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Element Z has an atomic number of 12 and a mass number of 24. Describe what determines the overall charge of a neutral atom of element Z. If this atom forms an ion with a charge of +2, calculate the total number of subatomic particles in this ion.",
+      "options": [],
+      "correctAnswer": "A neutral atom's overall charge is determined by the balance between the number of positively charged protons in its nucleus and the number of negatively charged electrons orbiting the nucleus. For a neutral atom, these numbers are equal, resulting in a net zero charge.\n\nTo calculate the total number of subatomic particles in the +2 ion:\n1.  **Number of protons:** The atomic number is 12, so there are 12 protons.\n2.  **Number of neutrons:** Mass number - Atomic number = 24 - 12 = 12 neutrons.\n3.  **Number of electrons:** A neutral atom of element Z would have 12 electrons (to balance the 12 protons). A +2 charge means the atom has lost 2 electrons. So, the ion has 12 - 2 = 10 electrons.\n4.  **Total subatomic particles in the ion:** Protons + Neutrons + Electrons = 12 + 12 + 10 = 34 particles.",
+      "explanation": "1.  **Understanding Neutrality (Description):** The overall charge of a neutral atom is zero because the number of positively charged protons (determined by the atomic number) is equal to the number of negatively charged electrons. These opposite charges cancel each other out.\n2.  **Identifying Protons for the Ion:** The atomic number (12) directly gives the number of protons. An atom's identity, and thus its proton count, does not change when it forms an ion. So, the ion has 12 protons.\n3.  **Identifying Neutrons for the Ion:** The number of neutrons is found by subtracting the atomic number from the mass number. Neutrons = 24 (mass number) - 12 (atomic number) = 12 neutrons. The number of neutrons does not change when an atom forms an ion.\n4.  **Identifying Electrons for the Ion:** A neutral atom with 12 protons would have 12 electrons. An ion with a +2 charge means it has lost two electrons. Therefore, the ion has 12 - 2 = 10 electrons.\n5.  **Calculating Total Subatomic Particles:** Add the counts of all three subatomic particles: 12 protons + 12 neutrons + 10 electrons = 34 particles.",
+      "hint": "Remember that the atomic number defines the number of protons, and the mass number accounts for both protons and neutrons. Consider how an ion's charge affects its electron count, and that protons and neutrons remain unchanged during ion formation.",
+      "generatedAt": "2026-04-30T17:44:18.041876"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_009",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Element X is involved in an experiment to probe its atomic structure. Element X has 26 protons and 30 neutrons.\n\n(a) Rutherford's gold foil experiment was crucial in developing our current understanding of atomic structure.\nExplain how the observations from Rutherford's experiment led to the conclusion that the atom has a small, dense, positively charged nucleus, contrasting it with the earlier 'Plum Pudding' model. (4 marks)\n\n(b) Calculate the total number of electrons in a singly charged positive ion (X+) of Element X. Show your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) \n*   **Cause:** Most alpha particles passed straight through the gold foil without deflection.\n*   **Effect:** This showed that most of the atom is empty space, which contradicted the Plum Pudding model's idea of a uniform, diffuse sphere of positive charge filling the atom.\n*   **Cause:** A small number of alpha particles were deflected at large angles, and a very few were reflected back.\n*   **Effect:** This indicated that there was a tiny, concentrated, positively charged region (the nucleus) within the atom that was repelling the positively charged alpha particles and contained most of the atom's mass.\n\n(b) \n1.  **Identify protons:** Element X has 26 protons.\n2.  **Electrons in neutral atom:** In a neutral atom, the number of electrons is equal to the number of protons. So, a neutral Element X atom would have 26 electrons.\n3.  **Account for ion charge:** A singly charged positive ion (X+) means the atom has lost one electron.\n4.  **Calculate final electrons:** Number of electrons = 26 (initial electrons) - 1 (lost electron) = 25 electrons.\n\n**Answer:** 25 electrons",
+      "explanation": "Part (a) requires linking specific observations from Rutherford's experiment (most alpha particles pass through, some deflect, very few reflect) to the conclusions drawn about the atomic structure (mostly empty space, small dense positive nucleus). It also requires comparing this to the 'Plum Pudding' model, which proposed a diffuse positive charge. For full marks, both cause and effect for at least two observations, and the contrast with the Plum Pudding model, must be clear.\n\nPart (b) is a two-step calculation. First, the student needs to recall that in a neutral atom, the number of electrons equals the number of protons. Second, they must understand that a positive ion forms when electrons are lost. Therefore, for a singly charged positive ion, one electron is removed from the neutral atom's electron count.",
+      "hint": "For part (b), remember how the number of protons relates to the number of electrons in a neutral atom, and what it means for an atom to become a positive ion.",
+      "generatedAt": "2026-04-30T17:44:30.763306"
+    },
+    {
+      "id": "s-y9-atoms_intermediate_010",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "In a specific atom, there are 19 subatomic particles found within its nucleus. The total relative charge of all these nuclear particles combined is +9.\n\nGiven that this atom is electrically neutral, calculate the total number of electrons it contains.",
+      "options": [
+        "9",
+        "10",
+        "19",
+        "28"
+      ],
+      "correctAnswer": "9",
+      "explanation": "1.  **Identify particles contributing to nuclear charge:** Within the nucleus, only protons carry a relative positive charge (+1 each). Neutrons have no charge (relative charge of 0).\n2.  **Determine the number of protons:** Since the total relative charge of the nuclear particles is +9, and each proton has a relative charge of +1, there must be 9 protons in the nucleus (9 protons x +1 charge/proton = +9).\n3.  **Apply the definition of a neutral atom:** For an atom to be electrically neutral, the total positive charge from the protons must be balanced by an equal total negative charge from the electrons. This means the number of electrons must be equal to the number of protons.\n4.  **Calculate the number of electrons:** Therefore, a neutral atom with 9 protons will have 9 electrons.",
+      "hint": "Consider which subatomic particles contribute to the overall charge within the nucleus, and how the number of protons relates to the number of electrons in an electrically neutral atom.",
+      "generatedAt": "2026-04-30T17:44:49.738137"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y9-atoms_advanced_001",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "An advanced isotope of a newly discovered element, \"Element Y\", has been identified. Its symbol is $\\ce{^{21}_{10}Y^{2-}}$.\n\n**(a) Calculate the total number of protons, neutrons, and electrons present in a single ion of $\\ce{^{21}_{10}Y^{2-}}$.**\n*This question assesses your understanding of subatomic particle determination from isotopic notation and ionic charge.*\n\n**(b) John Dalton's atomic theory, proposed in the early 19th century, was a foundational step in our understanding of matter. Describe two key postulates (ideas) from Dalton's atomic theory concerning the characteristics of atoms.**\n*This question assesses your knowledge of the historical development of atomic models.*\n\n**(c) J.J. Thomson's \"plum pudding\" model suggested a sphere of positive charge with electrons embedded within it. However, this model was superseded by Rutherford's nuclear model following his famous gold foil experiment. Explain how the experimental observations from Rutherford's gold foil experiment contradicted Thomson's plum pudding model and led to the development of the nuclear model of the atom.**\n*This question requires you to link experimental evidence to the refinement of scientific models, demonstrating cause and effect.*",
+      "options": [],
+      "correctAnswer": "**(a) Calculation of subatomic particles for $\\ce{^{21}_{10}Y^{2-}}$:**\n*   **Protons:** The atomic number (bottom number, 10) indicates the number of protons. Therefore, Element Y has **10 protons**.\n*   **Neutrons:** The mass number (top number, 21) is the sum of protons and neutrons. Number of neutrons = Mass number - Atomic number = 21 - 10 = **11 neutrons**.\n*   **Electrons:** For a neutral atom, the number of electrons equals the number of protons (10). However, the ion has a 2- charge, meaning it has gained two electrons. So, number of electrons = 10 + 2 = **12 electrons**.\n\n**(b) Two key postulates from Dalton's atomic theory:**\n*   All matter is composed of extremely small, indivisible particles called atoms.\n*   Atoms of a given element are identical in mass and properties; atoms of different elements have different masses and properties.\n*   Atoms cannot be created or destroyed in any chemical process.\n*   Atoms of different elements combine in simple whole-number ratios to form chemical compounds.\n*(Any two of the above points are acceptable.)*\n\n**(c) Explanation of Rutherford's experiment and model development:**\nThomson's \"plum pudding\" model proposed that the atom was a sphere of uniformly distributed positive charge with negatively charged electrons embedded throughout it. This model predicted that positively charged alpha particles fired at a thin gold foil would pass straight through or be deflected only slightly, as the positive charge was thought to be too diffuse to cause significant repulsion. \n\nHowever, Rutherford's gold foil experiment yielded unexpected observations:\n*   **Observation 1:** Most alpha particles passed straight through the gold foil with no deflection. This observation suggested that atoms are largely composed of **empty space**.\n*   **Observation 2:** A small proportion of alpha particles were deflected at very large angles, some even greater than 90 degrees. This indicated the presence of a strong, concentrated positive charge within the atom.\n*   **Observation 3:** A very tiny fraction of alpha particles (about 1 in 8000) were deflected backward, rebounding from the foil. This observation strongly suggested that the positively charged region was extremely small, very dense, and contained most of the atom's mass.\n\nThese observations **contradicted** Thomson's plum pudding model. If the positive charge was uniformly spread out, there would be no concentrated region strong enough to cause such significant repulsion, especially the large-angle deflections or backscattering. The plum pudding model could not account for these unexpected interactions.\n\nTo explain these results, Rutherford proposed the **nuclear model**:\n*   The atom has a tiny, dense, positively charged region at its centre, called the **nucleus**, which contains almost all the atom's mass. (This explained why some alpha particles were strongly repelled or even bounced back when they approached or directly collided with the small, dense, positive nucleus).\n*   Electrons orbit this nucleus in a large region of **empty space**. (This explained why most alpha particles passed straight through without interacting with the nucleus).",
+      "explanation": "The full model answer provides the step-by-step reasoning for each part of the question. For part (a), it shows how to derive protons from the atomic number, neutrons from the mass number minus the atomic number, and electrons by adjusting for the ionic charge. For part (b), it lists acceptable postulates of Dalton's theory. For part (c), it systematically outlines the predictions of the plum pudding model, contrasts them with Rutherford's actual observations, and explains how these contradictions necessitated the development of the nuclear model by linking specific observations to features of the new model.",
+      "hint": "For part (a), remember that the atomic number gives the number of protons, the mass number minus the atomic number gives the number of neutrons, and the ionic charge indicates whether electrons have been gained or lost from the neutral atom's count. For part (c), focus on the specific, unexpected observations Rutherford made (especially the large deflections and backscattering) and how they could not be explained by the 'plum pudding' model, leading to a revised understanding of atomic structure.",
+      "generatedAt": "2026-04-30T17:45:16.345275"
+    },
+    {
+      "id": "s-y9-atoms_advanced_002",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "In the early 20th century, scientists conducted a groundbreaking experiment by firing energetic, positively charged alpha particles at extremely thin gold foil. They observed the following results:\n1. The vast majority of alpha particles passed directly through the gold foil without any deflection.\n2. A small fraction of alpha particles were deflected at large angles.\n3. A very tiny number of alpha particles were repelled straight back towards the source.\n\na) State the name of the atomic model that was widely accepted *before* this experiment and was subsequently disproven by these observations. (1 mark)\n\nb) Describe two key features of the new atomic model proposed to account for these experimental results, explaining how each feature addresses a specific observation. (4 marks)\n\nc) Explain, using your knowledge of subatomic particle charges, why the observation of alpha particles being repelled straight back strongly suggests that the atom contains a dense, positively charged nucleus. (3 marks)\n\nd) An alpha particle consists of 2 protons and 2 neutrons. A gold atom (Au) has an atomic number of 79 and typically contains 118 neutrons in its most common isotope.\nCalculate the ratio of the mass of a single gold nucleus to the mass of a single alpha particle. Assume that a proton and a neutron each have a relative atomic mass of 1 unit, and the mass of an electron is negligible. Show your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) The atomic model widely accepted before this experiment was the Plum Pudding Model.\n\nb) Two key features of the new atomic model (Rutherford's nuclear model) are:\n1. **A dense, positively charged nucleus at the centre of the atom.** This feature explains why some alpha particles were deflected at large angles or even repelled straight back. The positive alpha particles were repelled by the concentrated positive charge of the nucleus when they came close to it or hit it directly.\n2. **The atom is mostly empty space, with electrons orbiting the nucleus at a relatively large distance.** This feature explains why the vast majority of alpha particles passed straight through the gold foil without deflection, as they did not encounter the tiny nucleus.\n\nc) Alpha particles are known to be positively charged. The observation that a very tiny number of these alpha particles were repelled straight back towards the source indicates a strong repulsive force. According to the law of electrostatics, like charges repel each other. Therefore, for the positively charged alpha particles to be repelled so strongly, the object they are encountering must also be positively charged and very concentrated. This strongly suggests the presence of a dense, positively charged nucleus within the atom.\n\nd) **Calculation of the ratio of the mass of a single gold nucleus to the mass of a single alpha particle:**\n\n*   **Step 1: Determine the mass of an alpha particle.**\n    An alpha particle consists of 2 protons and 2 neutrons.\n    Mass of alpha particle = (2 × mass of proton) + (2 × mass of neutron)\n    Assuming mass of proton ≈ 1 unit and mass of neutron ≈ 1 unit:\n    Mass of alpha particle = (2 × 1 unit) + (2 × 1 unit) = 4 units.\n\n*   **Step 2: Determine the mass of a gold nucleus.**\n    A gold atom (Au) has an atomic number of 79, meaning it has 79 protons.\n    It contains 118 neutrons.\n    Mass of gold nucleus = (number of protons × mass of proton) + (number of neutrons × mass of neutron)\n    Mass of gold nucleus = (79 × 1 unit) + (118 × 1 unit) = 79 units + 118 units = 197 units.\n\n*   **Step 3: Calculate the ratio.**\n    Ratio = Mass of gold nucleus / Mass of alpha particle\n    Ratio = 197 units / 4 units\n    Ratio = 49.25\n\n    The ratio of the mass of a single gold nucleus to the mass of a single alpha particle is **49.25**.",
+      "explanation": "a) The Plum Pudding Model, proposed by J.J. Thomson, depicted the atom as a sphere of uniformly distributed positive charge with electrons embedded within it, similar to plums in a pudding. This model could not explain the large angle deflections or backscattering observed in the gold foil experiment.\n\nb) Rutherford's nuclear model (or planetary model) proposed that atoms have a tiny, dense, positively charged nucleus at their center, with electrons orbiting at a relatively large distance. The vast empty space explains why most alpha particles passed through. The concentrated positive charge of the nucleus explains the repulsion of the positively charged alpha particles, leading to large deflections or backscattering.\n\nc) Alpha particles carry a positive charge. The observation of some alpha particles being repelled directly back indicates a strong electrostatic repulsion. Since like charges repel, the 'obstacle' causing this strong repulsion must also carry a positive charge. Furthermore, the rarity of such repulsion suggests this positive charge is concentrated in a very small, dense region, which is the nucleus.\n\nd) The calculation requires determining the approximate relative mass of the alpha particle and the gold nucleus based on their subatomic particle composition. An alpha particle has 2 protons and 2 neutrons, giving it a relative mass of 4 units. A gold nucleus has 79 protons (atomic number) and 118 neutrons, giving it a total relative mass of 197 units. The ratio is then calculated by dividing the mass of the gold nucleus by the mass of the alpha particle.",
+      "hint": "For part (d), remember that the atomic number defines the number of protons, and the mass of an atom's nucleus is primarily determined by the sum of its protons and neutrons. Consider the relative charges of subatomic particles for part (c) and how they interact.",
+      "generatedAt": "2026-04-30T17:45:58.044695"
+    },
+    {
+      "id": "s-y9-atoms_advanced_003",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A scientist investigates a beam of fundamental particles. When this beam is passed through a strong electric field, the particles are observed to deflect significantly towards the positive plate. Further analysis reveals that each particle in the beam carries a negative elementary charge and has a mass approximately 1/1836th of a proton's mass.\n\na) State the name of the particle described in the investigation. (1 mark)\n\nb) Describe the particle's location within an atom and its primary role in determining an atom's chemical properties, according to the current atomic model. (3 marks)\n\nc) Explain why the Thomson 'plum pudding' model of the atom would be inconsistent with the observations about this particle's behaviour and its location as understood in the modern atomic model. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Electron (1 mark)\n\nb) Location: Electrons are found in discrete energy levels or shells orbiting the atom's central, positively charged nucleus. (1 mark)\nPrimary role: Electrons determine an atom's chemical properties because they are involved in chemical bonding. Atoms gain, lose, or share these outer shell electrons to form compounds, which dictates their reactivity and the types of bonds they can form. (2 marks)\n\nc) The Thomson 'plum pudding' model proposes that an atom is a sphere of uniformly distributed positive charge with negatively charged electrons embedded within it, like plums in a pudding. (1 mark)\n\nThis model is inconsistent with the observations and modern understanding for several reasons:\nFirstly, in the plum pudding model, electrons are essentially fixed or loosely distributed within a diffuse positive 'pudding'. This implies limited freedom of movement and suggests they would be somewhat shielded by the surrounding positive charge. (1 mark)\nHowever, the modern atomic model, supported by observations like the significant deflection described, places electrons in distinct energy shells orbiting a tiny, dense, positively charged nucleus, with a large amount of empty space in between. This means electrons are mobile and largely unshielded by the nucleus's concentrated positive charge, making them highly susceptible to external electric fields and thus experiencing significant deflection. (1 mark)\nSecondly, the plum pudding model does not account for electrons existing in specific energy shells or orbital pathways around a central nucleus, which is fundamental to the modern understanding of electron location and behavior (e.g., how they participate in bonding). Instead, it implies a more static, embedded arrangement which cannot explain the nuanced chemical properties or the ease of deflection as effectively as the modern nuclear model. (1 mark)",
+      "explanation": "This question assesses the student's ability to synthesize information about subatomic particles (identification based on charge and relative mass), link experimental observations to particle behaviour, describe the modern atomic model's representation of electrons (location and role), and critically evaluate a historical atomic model (Thomson's 'plum pudding' model) against modern understanding and experimental evidence. Part (a) tests factual recall. Part (b) requires a descriptive understanding of electron position and function in the contemporary atomic model. Part (c) demands a higher-order explanation, requiring students to articulate the fundamental structural differences between the historical and modern models and explicitly link these differences to the observed behaviour of electrons and their understood location, using cause-and-effect reasoning. The focus is on how the 'embedded' nature of electrons in Thomson's model contrasts with their 'orbiting' nature in the modern model, and how this impacts their interaction with external fields and role in chemistry.",
+      "hint": "Recall the defining characteristics (charge and relative mass) of protons, neutrons, and electrons. Then, consider how the understanding of electron location and the distribution of positive charge evolved from the Thomson 'plum pudding' model to the Rutherford/Bohr models, and how this impacts their interaction with external fields and their role in an atom's properties.",
+      "generatedAt": "2026-04-30T17:46:25.102753"
+    },
+    {
+      "id": "s-y9-atoms_advanced_004",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Scientists are studying a newly discovered element, 'Veridium' (Vr). A neutral atom of Veridium has an atomic number of 20 and a mass number of 42.\n\n**(a) Calculate** the number of protons, neutrons, and electrons present in a single neutral atom of Veridium. (3 marks)\n\n**(b) Describe** the key features of the atomic model that accurately explains the observations from an experiment where a beam of positively charged alpha particles passes through a thin foil of Veridium. (3 marks)\n\n**(c) Explain**, in terms of the forces involved, why a very small proportion of positively charged alpha particles are deflected at very large angles, sometimes even bouncing back, when directed at the Veridium foil. (4 marks)\n\n**(d) State** which historical atomic model, proposed before Rutherford's experiment, would predict that *all* positively charged alpha particles would experience some deflection when passing through the Veridium foil. (1 mark)",
+      "options": [],
+      "correctAnswer": {
+        "a": "Number of protons = 20\nNumber of electrons = 20\nNumber of neutrons = 22",
+        "b": "The atom consists mostly of empty space.\nIt has a tiny, dense, positively charged nucleus at its centre.\nElectrons orbit the nucleus in the empty space.",
+        "c": "Alpha particles are positively charged. The nucleus of the Veridium atom is also positively charged. Like charges repel each other. When a positively charged alpha particle approaches very close to the positively charged nucleus, a strong electrostatic repulsive force acts between them, causing the alpha particle to be deflected at a large angle or even bounce back.",
+        "d": "Thomson's 'plum pudding' model"
+      },
+      "explanation": "**(a) Calculation:**\n*   The atomic number defines the number of protons. For Veridium, atomic number = 20, so there are **20 protons**.\n*   In a neutral atom, the number of electrons equals the number of protons to maintain a net charge of zero. Therefore, there are **20 electrons**.\n*   The mass number is the total number of protons and neutrons. Number of neutrons = Mass number - Atomic number = 42 - 20 = **22 neutrons**.\n\n**(b) Description of Key Features (Rutherford's Model):**\n*   The observations (most alpha particles pass straight through, some deflected at small angles, very few deflected at large angles) are consistent with Rutherford's nuclear model of the atom.\n*   Key features of this model include: the atom is mostly **empty space**; it contains a tiny, **dense nucleus** at its centre; this nucleus carries a **positive charge**; and negatively charged **electrons orbit** the nucleus.\n\n**(c) Explanation of large angle deflection:**\n*   Alpha particles carry a **positive charge** (they are helium nuclei, He²⁺).\n*   The nucleus of the Veridium atom also carries a **positive charge** due to the protons within it.\n*   According to the laws of electrostatics, **like charges repel each other**.\n*   When an alpha particle travels directly towards or very close to the positively charged nucleus, the electrostatic repulsive force between the two positive charges becomes extremely strong. This strong repulsion causes the alpha particle to be deflected significantly, resulting in **large angle deflections or even bouncing back** if the approach is head-on.\n\n**(d) State the model:**\n*   **Thomson's 'plum pudding' model** proposed that the atom was a sphere of diffuse positive charge with negative electrons embedded within it. If the positive charge were spread throughout the atom, *all* incoming positively charged alpha particles would experience a continuous, gentle repulsion, leading to some deflection for every particle, rather than most passing straight through.",
+      "hint": "For part (a), recall the definitions of atomic number (Z) and mass number (A). For parts (b) and (c), remember the key experiment that led to the nuclear model of the atom and the nature of electrostatic forces between charged particles. For part (d), consider the distribution of charge in atomic models proposed before Rutherford's discoveries.",
+      "generatedAt": "2026-04-30T17:47:02.006802"
+    },
+    {
+      "id": "s-y9-atoms_advanced_005",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Imagine it is 1920, and the scientific community has widely accepted the Rutherford model of the atom, which proposes a dense, positively charged nucleus with electrons orbiting it. Scientists at this time are aware of protons (positively charged particles with a mass of approximately 1 atomic mass unit, amu) and electrons (negatively charged particles with negligible mass). The neutron has not yet been discovered.\n\nA team of chemists is investigating a newly identified, stable element they name 'Mysterium' (My). They determine that a neutral atom of Mysterium contains 10 electrons. Through careful measurements, they also find that the atomic mass of Mysterium is approximately 20 amu.\n\na) State the atomic number of Mysterium. (1 mark)\nb) Describe the key features of the atomic model that would have been accepted by scientists in 1920. (2 marks)\nc) Explain why the observed atomic mass of Mysterium (20 amu) would present a significant puzzle for scientists in 1920, given their understanding of atomic structure at that time. (3 marks)\n\nNow, consider the perspective of a Year 9 student *today* with a complete understanding of atomic structure, including the existence of neutrons.\nd) For a neutral atom of Mysterium with an atomic mass of 20 amu:\n    i) Calculate the number of protons. (1 mark)\n    ii) Calculate the number of electrons. (1 mark)\n    iii) Calculate the number of neutrons, showing your working. (2 marks)\ne) Explain how the later discovery of the neutron resolved the puzzle faced by the 1920s scientists regarding Mysterium's atomic mass. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Atomic number = 10\n\nb) In 1920, the accepted atomic model was the Rutherford model. This model describes the atom as having a very small, dense, positively charged nucleus at its centre. Negatively charged electrons orbit this nucleus in a relatively large, mostly empty space.\n\nc) In 1920, scientists understood that a neutral atom must have an equal number of protons and electrons, and that protons contributed almost all of the atom's mass (1 amu per proton), while electrons contributed negligible mass. For Mysterium with 10 electrons, they would deduce it has 10 protons. Therefore, the expected atomic mass would be approximately 10 amu. The observed mass of 20 amu is double this expected value, so there was an unexplained mass of 10 amu that could not be accounted for by the known particles, creating a significant puzzle.\n\nd) For a neutral atom of Mysterium with an atomic mass of 20 amu:\n    i) Calculate the number of protons.\n    Number of protons = 10 (because it's a neutral atom with 10 electrons)\n\n    ii) Calculate the number of electrons.\n    Number of electrons = 10 (given)\n\n    iii) Calculate the number of neutrons, showing your working.\n    Formula: Number of neutrons = Atomic mass - Number of protons\n    Substitution: Number of neutrons = 20 amu - 10 protons\n    Answer: Number of neutrons = 10\n\ne) The discovery of the neutron by Chadwick provided the solution because neutrons are particles with a mass of approximately 1 amu, like protons, but carry no electric charge. This meant that the additional 10 amu of mass observed in Mysterium, beyond what the 10 protons accounted for, could be explained by the presence of 10 neutrons in the nucleus. These neutrons added the necessary mass without changing the atom's overall neutral charge or its identity (atomic number), thus resolving the discrepancy in atomic mass that puzzled scientists in 1920.",
+      "explanation": "a) The atomic number is defined by the number of protons. In a neutral atom, the number of electrons equals the number of protons. Since Mysterium has 10 electrons, it must have 10 protons, making its atomic number 10.\n\nb) The Rutherford model, accepted in 1920, described an atom with a tiny, dense, positively charged nucleus surrounded by electrons orbiting in a vast empty space.\n\nc) Scientists in 1920 believed atomic mass came almost entirely from protons (1 amu each). With 10 electrons, a neutral Mysterium atom would have 10 protons, leading to an expected mass of 10 amu. The measured mass of 20 amu meant there was an additional 10 amu of mass they couldn't explain with just protons and electrons.\n\nd) i) For a neutral atom, protons = electrons. Since there are 10 electrons, there are 10 protons.\n    ii) The question states there are 10 electrons.\n    iii) Atomic mass (approximately) = protons + neutrons. So, neutrons = atomic mass - protons. Neutrons = 20 - 10 = 10.\n\ne) The discovery of the neutron (1 amu mass, no charge) explained the missing mass. The 10 extra amu could be attributed to 10 neutrons in the nucleus. These neutrons added mass without altering the atomic number (number of protons) or the overall charge of the atom, thereby solving the puzzle.",
+      "hint": "When evaluating historical scientific puzzles, consider what knowledge was available at that time and how later discoveries (like specific subatomic particles) completed our understanding of atomic structure. Remember the contribution of each subatomic particle to mass and charge.",
+      "generatedAt": "2026-04-30T17:48:19.838709"
+    },
+    {
+      "id": "s-y9-atoms_advanced_006",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A hypothetical ion, 'Stabilium' (St²⁺), is being investigated by scientists. It is known to contain 20 protons and 20 neutrons. Scientists observe that a beam of these St²⁺ ions is sharply deflected when passing through an electric field, indicating a concentrated positive charge. This observation helps discriminate between early atomic models.\n\nCalculate the total *relative mass* of the subatomic particles that contribute *significantly* to the mass of a single St²⁺ ion. Then, choose the statement that accurately describes the implication of the *concentrated charge observation* for the Thomson 'plum pudding' model, given the calculated relative mass.\n\n(Assume the relative mass of a proton is 1, a neutron is 1, and an electron is approximately 1/1840.)",
+      "options": [
+        "A) Relative mass: 40. The concentrated charge observed directly contradicts the Thomson 'plum pudding' model, which proposed a uniformly distributed positive charge.",
+        "B) Relative mass: 40. The concentrated charge observation supports the Thomson 'plum pudding' model, as it accounts for the overall positive charge of the atom.",
+        "C) Relative mass: 20. The concentrated charge observed directly contradicts the Thomson 'plum pudding' model, which proposed a uniformly distributed positive charge.",
+        "D) Relative mass: 42. The concentrated charge observation is irrelevant to the Thomson 'plum pudding' model, as it only addresses the location of electrons."
+      ],
+      "correctAnswer": "A) Relative mass: 40. The concentrated charge observed directly contradicts the Thomson 'plum pudding' model, which proposed a uniformly distributed positive charge.",
+      "explanation": "1.  **Calculate the number of subatomic particles:**\n    *   Number of protons = 20 (given)\n    *   Number of neutrons = 20 (given)\n    *   For an St²⁺ ion, a neutral Stabilium atom would have 20 electrons (equal to the number of protons). Since it's a 2+ ion, it has lost 2 electrons. Therefore, the St²⁺ ion has 20 - 2 = 18 electrons.\n\n2.  **Calculate the total relative mass of significant particles:**\n    *   Relative mass of protons = Number of protons × Relative mass per proton = 20 × 1 = 20.\n    *   Relative mass of neutrons = Number of neutrons × Relative mass per neutron = 20 × 1 = 20.\n    *   The relative mass of electrons (1/1840) is negligible compared to protons and neutrons and does not significantly contribute to the overall mass of the atom/ion. Therefore, the electrons are not included in the 'significant' mass calculation.\n    *   Total significant relative mass = Relative mass of protons + Relative mass of neutrons = 20 + 20 = 40.\n\n3.  **Explain the implication for the Thomson 'plum pudding' model:**\n    *   The Thomson 'plum pudding' model proposed that the atom was a sphere of uniformly distributed positive charge, with electrons embedded within it. This means the positive charge was spread out, not concentrated.\n    *   The observation that St²⁺ ions are sharply deflected, indicating a *concentrated positive charge*, directly contradicts the fundamental premise of the Thomson model. Instead, this observation provides strong evidence for a nuclear model (like Rutherford's), where the positive charge is concentrated in a small, dense nucleus.\n\nTherefore, the correct option must state a relative mass of 40 and correctly explain that the concentrated charge contradicts the Thomson model.",
+      "hint": "Remember to identify which subatomic particles contribute most significantly to an atom's mass. Also, recall the key difference in the distribution of positive charge between the Thomson 'plum pudding' model and later models based on experimental observations.",
+      "generatedAt": "2026-04-30T17:48:47.934183"
+    },
+    {
+      "id": "s-y9-atoms_advanced_007",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A research team is investigating the properties of a specific oxygen isotope, Oxygen-18. They have managed to create a unique ion of this isotope, where it has gained two extra electrons. The atomic number of oxygen is 8.\n\n(a) State the number of protons and neutrons present in this Oxygen-18 ion. (2 marks)\n\n(b) Calculate the total number of electrons in this Oxygen-18 ion (O²⁻). Show your working. (2 marks)\n\n(c) Describe the key features of Thomson's 'plum pudding' model of the atom and explain how the discovery of the electron led to its proposal. (4 marks)\n\n(d) Explain why the mass of an atom is largely concentrated in its nucleus, making reference to the relative masses of subatomic particles. (3 marks)",
+      "options": [],
+      "correctAnswer": "**(a) State the number of protons and neutrons present in this Oxygen-18 ion.**\n*   Protons: 8 (1 mark)\n*   Neutrons: 10 (1 mark)\n\n**(b) Calculate the total number of electrons in this Oxygen-18 ion (O²⁻). Show your working.**\n*   Working: A neutral oxygen atom has 8 electrons. The ion has gained two extra electrons, so 8 + 2 = 10 electrons. (1 mark)\n*   Answer: 10 electrons (1 mark)\n\n**(c) Describe the key features of Thomson's 'plum pudding' model of the atom and explain how the discovery of the electron led to its proposal.**\n*   **Description:** The 'plum pudding' model suggested that the atom was a sphere of uniformly distributed positive charge, with negatively charged electrons embedded within it, like plums in a pudding. (2 marks)\n*   **Explanation:** The discovery of the electron through experiments like cathode rays showed that atoms contained tiny, negatively charged particles. Since atoms are generally neutral, there had to be a positive component to balance the negative electrons. Thomson's model incorporated these newly discovered negative electrons into a larger, positively charged sphere, because it provided a way to maintain overall neutrality. (2 marks)\n\n**(d) Explain why the mass of an atom is largely concentrated in its nucleus, making reference to the relative masses of subatomic particles.**\n*   The nucleus of an atom contains protons and neutrons. (1 mark)\n*   Protons and neutrons each have a relative mass of approximately 1, whereas electrons have a negligible relative mass of about 1/1836. (1 mark)\n*   Therefore, since the vast majority of the mass comes from protons and neutrons, and these are all located in the nucleus, the mass of an atom is largely concentrated in its nucleus. (1 mark)",
+      "explanation": "This question assesses the student's understanding of atomic structure (protons, neutrons, electrons, isotopes, ions) and the historical development of atomic models (Thomson's model, the concept of the nucleus). \n\n**(a)** Requires recalling that the atomic number defines protons and the mass number (18) minus the atomic number gives neutrons.\n**(b)** Requires applying the knowledge of how ions are formed by gaining or losing electrons to calculate the total electron count.\n**(c)** Demands a clear description of Thomson's model and an explanation linking the discovery of electrons (cause) to the proposal of this specific model (effect).\n**(d)** Requires explaining the distribution of mass within an atom by comparing the relative masses of the subatomic particles and their locations.",
+      "hint": "Remember that the atomic number defines the number of protons. For neutrons, consider the mass number. When calculating electrons in an ion, adjust the neutral atom's electron count based on the charge. For historical models, link each model to the experimental evidence that prompted its creation or modification.",
+      "generatedAt": "2026-04-30T17:49:29.706242"
+    },
+    {
+      "id": "s-y9-atoms_advanced_008",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A scientist is studying the element Sodium (Na). A neutral atom of Sodium-23 has an atomic number of 11 and a mass number of 23.\n\n(a) Calculate the number of protons, neutrons, and electrons present in a neutral atom of Sodium-23. Show your working. (3 marks)\n\n(b) Explain why the experimental observation that an atom of Sodium-23 is mostly empty space, with its positive charge and almost all of its mass concentrated in a tiny central nucleus, led to the rejection of Thomson's \"plum pudding\" model of the atom. (4 marks)\n\n(c) The scientist then creates an ion of Sodium, Na⁺. Describe how this Na⁺ ion differs from a neutral Sodium atom in terms of its subatomic particles and overall charge. (2 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Calculation of subatomic particles:**\n*   **Protons:** Atomic number = 11. Therefore, 11 protons.\n*   **Electrons:** For a neutral atom, the number of electrons equals the number of protons = 11. Therefore, 11 electrons.\n*   **Neutrons:** Mass number - Atomic number = 23 - 11 = 12. Therefore, 12 neutrons.\n\n**(b) Explanation for rejection of Thomson's model:**\nThomson's \"plum pudding\" model proposed that the atom consisted of a sphere of uniformly distributed positive charge, with negatively charged electrons embedded within it. This meant that the atom's mass and positive charge were spread throughout its entire volume.\n\nHowever, later experimental observations (such as Rutherford's gold foil experiment, which established the nuclear model) revealed that the atom is mostly empty space and that nearly all of its mass and all of its positive charge are concentrated in a tiny, dense central nucleus. This directly contradicted Thomson's model, **because** the \"plum pudding\" model could not account for the observation of a tiny, dense nucleus, **so** it failed to explain phenomena like the large deflection of alpha particles. The new experimental evidence provided a different understanding of the atom's internal structure, leading to the rejection of the \"plum pudding\" model.\n\n**(c) Description of Na⁺ ion difference:**\nA neutral Sodium atom has 11 protons and 11 electrons. To form a Na⁺ ion, the neutral Sodium atom loses one electron. Therefore, an Na⁺ ion will have 11 protons, 12 neutrons (as in Sodium-23), and 10 electrons. This imbalance of charges means the Na⁺ ion will have an overall positive charge of +1.",
+      "explanation": "This question assesses the student's understanding of fundamental atomic structure, the historical development of atomic models, and the formation of ions. Part (a) requires the application of atomic number and mass number definitions to calculate subatomic particles. Part (b) is an advanced task that requires comparing and contrasting two atomic models (Thomson's and the nuclear model) and explaining, with cause and effect, how experimental evidence led to the rejection of one model over another. Part (c) tests the understanding of how changes in electron count affect an atom's charge and lead to ion formation.",
+      "hint": "For part (a), remember that the atomic number defines the number of protons, and for a neutral atom, the number of electrons. The mass number is the sum of protons and neutrons. For part (b), consider how Thomson's model describes the distribution of positive charge and mass throughout the atom, and compare this to the evidence that led to the nuclear model. For part (c), think about which subatomic particle is gained or lost when an atom forms a positive ion, and how this affects the overall charge.",
+      "generatedAt": "2026-04-30T17:49:57.077481"
+    },
+    {
+      "id": "s-y9-atoms_advanced_009",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Scientists are using advanced detectors to investigate the fundamental particles that make up atoms.\n\nDuring an experiment, they observe two distinct types of stable particles, let's call them Particle Alpha and Particle Beta, emerging from the central region of an atom when it is disturbed.\n\n*   **Particle Alpha**: Has a relative charge of +1 and a relative mass of 1 atomic mass unit (amu).\n*   **Particle Beta**: Has no charge (0 relative charge) and a relative mass of 1 atomic mass unit (amu).\n\nThe detectors also frequently record very light, negatively charged particles, each with a relative charge of -1 and negligible relative mass, which are found orbiting the central region of the atom.\n\n**(a) State the scientific name for:**\n    (i) Particle Alpha. (1 mark)\n    (ii) Particle Beta. (1 mark)\n\n**(b) Describe the arrangement of Particle Alpha, Particle Beta, and the very light, negatively charged particles within the currently accepted model of an atom. (2 marks)**\n\n**(c) Explain how the results of Rutherford's gold foil experiment provided crucial evidence for the existence of a small, dense, positively charged nucleus, and how this challenged the earlier 'plum pudding' model of the atom. (4 marks)**\n\n**(d) An uncharged atom is observed to contain 26 of Particle Alpha and 30 of Particle Beta.**\n    (i) Calculate the mass number of this atom. Show your working. (2 marks)\n    (ii) State the number of the very light, negatively charged particles present in this uncharged atom. (1 mark)\n    (iii) Explain why the discovery of Particle Beta was essential for explaining the existence of isotopes and the overall observed atomic masses of elements. (3 marks)",
+      "options": [],
+      "correctAnswer": "**(a) State the scientific name for:**\n    (i) Particle Alpha: Proton (1 mark)\n    (ii) Particle Beta: Neutron (1 mark)\n\n**(b) Describe the arrangement of Particle Alpha, Particle Beta, and the very light, negatively charged particles within the currently accepted model of an atom. (2 marks)**\n    Protons (Particle Alpha) and neutrons (Particle Beta) are located together in the small, dense central nucleus of the atom. (1 mark)\n    The very light, negatively charged particles (electrons) orbit the nucleus in shells/energy levels. (1 mark)\n\n**(c) Explain how the results of Rutherford's gold foil experiment provided crucial evidence for the existence of a small, dense, positively charged nucleus, and how this challenged the earlier 'plum pudding' model of the atom. (4 marks)**\n    Rutherford bombarded a thin gold foil with positively charged alpha particles. (1 mark)\n    Most alpha particles passed straight through or were only slightly deflected, suggesting that the atom is mostly empty space and its positive charge is concentrated. (1 mark)\n    However, a small fraction of alpha particles were deflected at very large angles or even bounced back, indicating they had collided with a very small, dense, positively charged centre – the nucleus. (1 mark)\n    This challenged the 'plum pudding' model, which proposed a diffuse positive 'dough' with electrons embedded, as such a model would not have caused these significant deflections of the alpha particles. (1 mark)\n\n**(d) An uncharged atom is observed to contain 26 of Particle Alpha and 30 of Particle Beta.**\n    (i) Calculate the mass number of this atom. Show your working. (2 marks)\n        Formula: Mass number = Number of protons + Number of neutrons (1 mark)\n        Substitution: Mass number = 26 + 30 = 56 (1 mark)\n        Answer: The mass number is 56.\n\n    (ii) State the number of the very light, negatively charged particles present in this uncharged atom. (1 mark)\n        Number of electrons = 26 (In an uncharged atom, the number of electrons equals the number of protons).\n\n    (iii) Explain why the discovery of Particle Beta was essential for explaining the existence of isotopes and the overall observed atomic masses of elements. (3 marks)**\n        Isotopes are atoms of the same element (meaning they have the same number of protons/Particle Alpha) but possess different mass numbers. (1 mark)\n        The discovery of Particle Beta (neutrons) explained this difference in mass because neutrons add significant mass to the nucleus without altering the atomic number (number of protons), which is what defines the element. (1 mark)\n        Before the discovery of neutrons, it was difficult to account for the full observed atomic masses of elements, as the mass contributed by protons alone was often less than the measured atomic mass; neutrons account for this 'missing' mass. (1 mark)",
+      "explanation": "This question assesses understanding of atomic structure, subatomic particles, and the historical development of atomic models. \n\n**(a)** Requires identification of protons and neutrons based on their specified charge and relative mass.\n\n**(b)** Tests knowledge of the basic arrangement of subatomic particles: protons and neutrons in the nucleus, with electrons orbiting in shells.\n\n**(c)** Demands a detailed explanation of Rutherford's gold foil experiment. This involves describing the experiment, outlining the key observations (most alpha particles pass through, some are deflected, very few bounce back), explaining what each observation revealed about the atom's structure (mostly empty space, small dense positive nucleus), and explicitly contrasting these findings with the predictions of the earlier 'plum pudding' model.\n\n**(d)** This section applies the knowledge of subatomic particles:\n    **(i)** Mass number is defined as the sum of the number of protons and neutrons in an atom. The student must correctly identify Particle Alpha as protons and Particle Beta as neutrons and sum their counts.\n    **(ii)** For an uncharged (neutral) atom, the total positive charge from protons must be balanced by the total negative charge from electrons. Therefore, the number of electrons equals the number of protons (Particle Alpha).\n    **(iii)** This is an advanced 'Explain' question. It requires understanding that isotopes are variations of the same element with different masses. The discovery of neutrons (Particle Beta) provided the particle that could increase the mass of an atom without changing its identity (which is determined by the number of protons), thus fully explaining the existence of isotopes. Furthermore, neutrons account for the additional mass in an atom that could not be explained by protons and electrons alone before their discovery, leading to a more accurate understanding of atomic masses.",
+      "hint": "For part (c), ensure your explanation of Rutherford's experiment clearly describes the alpha particle observations (most passed through, some deflected, a few bounced back) and links each observation directly to a conclusion about the atom's internal structure, contrasting it with the 'plum pudding' model's predictions.",
+      "generatedAt": "2026-04-30T17:51:25.052302"
+    },
+    {
+      "id": "s-y9-atoms_advanced_010",
+      "topicId": "s-y9-atoms",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A team of scientists working with advanced spectroscopic techniques has identified a previously unknown, highly unstable neutral atom, temporarily named 'Element Z'. Through careful analysis of its decay products and interactions with magnetic fields, they determine that a single neutral atom of Element Z contains 105 protons and 157 neutrons. This discovery is significant for understanding the limits of the periodic table and refining our atomic models.\n\nAnswer the following questions based on this information and your knowledge of atomic structure:\n\n1.  **Calculate** the mass number of a neutral atom of Element Z. (2 marks)\n2.  **State** how many electrons are present in a neutral atom of Element Z. (1 mark)\n3.  **Describe** the key difference in particle arrangement between Rutherford's nuclear model and Thomson's 'plum pudding' model of the atom. (3 marks)\n4.  **Explain** why Dalton's original atomic theory, which proposed that atoms are indivisible spheres, cannot fully account for the structure of Element Z, using the information provided. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Calculate the mass number of a neutral atom of Element Z.**\n    *   Formula: Mass number = Number of protons + Number of neutrons (1 mark)\n    *   Substitution: Mass number = 105 + 157\n    *   Answer: Mass number = 262 (1 mark)\n\n2.  **State how many electrons are present in a neutral atom of Element Z.**\n    *   Answer: 105 electrons (1 mark)\n    *(A neutral atom has an equal number of protons and electrons to balance the charges.)*\n\n3.  **Describe the key difference in particle arrangement between Rutherford's nuclear model and Thomson's 'plum pudding' model of the atom.**\n    *   Thomson's 'plum pudding' model proposed that the atom was a sphere of uniformly distributed positive charge with negatively charged electrons randomly embedded within it (1 mark).\n    *   In contrast, Rutherford's nuclear model suggested that the atom has a tiny, dense, positively charged nucleus at its centre, containing almost all of the atom's mass, with negatively charged electrons orbiting around this nucleus in largely empty space (1 mark).\n    *   The key difference is that Thomson's model had positive charge spread throughout the atom, while Rutherford's model concentrated all positive charge and most mass in a central nucleus (1 mark).\n\n4.  **Explain why Dalton's original atomic theory, which proposed that atoms are indivisible spheres, cannot fully account for the structure of Element Z, using the information provided.**\n    *   Dalton's atomic theory (early 19th century) proposed that atoms were fundamental, indivisible particles of matter (1 mark).\n    *   However, the information provided for Element Z states that it contains 105 protons and 157 neutrons (1 mark).\n    *   Protons and neutrons are known as subatomic particles, meaning they are smaller components *within* the atom (1 mark).\n    *   This directly contradicts Dalton's idea of atoms being indivisible because atoms like Element Z are clearly composed of these smaller, fundamental particles, proving atoms can be divided into their constituent parts (1 mark).",
+      "explanation": "The provided model answer within the 'correctAnswer' field details the complete step-by-step reasoning and calculations for each part of the question, aligning with the scientific principles of atomic structure and historical models. Each point in the model answer directly addresses the command word and mark allocation for the respective question part, demonstrating the application of knowledge about subatomic particles and the evolution of atomic theory.",
+      "hint": "Recall the definitions for atomic number (number of protons) and mass number (protons + neutrons). Remember that for a neutral atom, the number of protons equals the number of electrons. When describing atomic models, focus on the proposed location and distribution of positive and negative charges, and the presence or absence of a nucleus or subatomic particles.",
+      "generatedAt": "2026-04-30T17:51:54.480281"
+    }
+  ]
+}

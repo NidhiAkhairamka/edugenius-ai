@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y6-algebra-intro_beginner_001",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "The cost of one pen is represented by the letter 'p' and is £0.80. The total cost of buying 'n' pens is given by the formula T = p * n. If you buy 7 pens, what is the total cost, T?",
+      "options": [
+        "£0.87",
+        "£7.80",
+        "£5.60",
+        "£6.40"
+      ],
+      "correctAnswer": "£5.60",
+      "explanation": "The formula for the total cost, T, is given as T = p * n. We are given that 'p' (the cost of one pen) is £0.80 and 'n' (the number of pens bought) is 7. To find the total cost, substitute these values into the formula: T = £0.80 * 7. Performing the multiplication: T = £5.60. Therefore, the total cost is £5.60.",
+      "hint": "Remember to substitute the given values for the cost of one pen ('p') and the number of pens ('n') into the formula, then multiply them together.",
+      "generatedAt": "2026-04-29T17:03:03.210385"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_002",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A formula to calculate the number of legs on a group of spiders is L = 8S, where L is the total number of legs and S is the number of spiders.\n\nIf you count a total of 56 legs, how many spiders are there?",
+      "options": [
+        "6 spiders",
+        "7 spiders",
+        "8 spiders",
+        "9 spiders"
+      ],
+      "correctAnswer": "7 spiders",
+      "explanation": "The given formula is L = 8S.\nWe are told that the total number of legs (L) is 56.\nSubstitute the value of L into the formula:\n56 = 8S\nTo find the number of spiders (S), we need to isolate S. We do this by dividing both sides of the equation by 8:\nS = 56 ÷ 8\nS = 7\nTherefore, there are 7 spiders.",
+      "hint": "Substitute the given total number of legs into the formula and then perform the necessary inverse operation to find the number of spiders.",
+      "generatedAt": "2026-04-29T17:03:16.582942"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_003",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Sarah has 'x' stickers. She receives 6 more stickers for her birthday. Now she has a total of 19 stickers. What is the value of 'x'?",
+      "options": [
+        "A) 13",
+        "B) 6",
+        "C) 25",
+        "D) 19"
+      ],
+      "correctAnswer": "A) 13",
+      "explanation": "The problem states that Sarah starts with 'x' stickers and then gets 6 more, leading to a total of 19 stickers. This can be written as an algebraic equation:\nx + 6 = 19\nTo find the value of 'x', you need to find the number that, when 6 is added to it, gives 19. You can do this by subtracting 6 from 19:\nx = 19 - 6\nx = 13\nSo, Sarah started with 13 stickers.",
+      "hint": "Think about what number you need to add to 6 to reach 19. You can form an equation to represent the situation.",
+      "generatedAt": "2026-04-29T17:03:30.452790"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_004",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A baker uses a formula to calculate the total number of buns (B) he bakes based on the number of trays (T) he uses. The formula is B = 6T. If the baker made 30 buns in total, how many trays did he use?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5",
+      "explanation": "The formula given is B = 6T.\nWe are told that the baker made 30 buns in total, so B = 30.\nSubstitute B = 30 into the formula:\n30 = 6T\nTo find the value of T (the number of trays), we need to divide both sides of the equation by 6:\nT = 30 / 6\nT = 5\nTherefore, the baker used 5 trays.",
+      "hint": "Substitute the total number of buns into the formula and then solve for T.",
+      "generatedAt": "2026-04-29T17:03:43.224413"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_005",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "The formula for the perimeter of a square is P = 4s, where P represents the perimeter and s represents the length of one side. If a square has a perimeter of 28 cm, what is the length of one of its sides?",
+      "options": [
+        "4 cm",
+        "7 cm",
+        "24 cm",
+        "112 cm"
+      ],
+      "correctAnswer": "7 cm",
+      "explanation": "The given formula for the perimeter of a square is P = 4s.\nWe are told that the perimeter (P) is 28 cm.\nSubstitute P = 28 into the formula:\n28 = 4s\nTo find the length of one side (s), we need to isolate 's'. Since 's' is multiplied by 4, we perform the inverse operation, which is division. We divide both sides of the equation by 4:\ns = 28 / 4\ns = 7\nSo, the length of one side of the square is 7 cm.",
+      "hint": "Remember that '4s' means 4 multiplied by 's'. To find 's', you need to use the inverse operation.",
+      "generatedAt": "2026-04-29T17:04:00.858129"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_006",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A missing number, represented by the letter 'y', is multiplied by 4. The answer is 36. What is the value of 'y'?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "9",
+      "explanation": "The problem states that when the number 'y' is multiplied by 4, the result is 36. We can write this as an equation:\ny × 4 = 36\n\nTo find the value of 'y', we need to perform the inverse operation to multiplication, which is division. So, we divide 36 by 4:\ny = 36 ÷ 4\ny = 9\n\nTherefore, the value of 'y' is 9.",
+      "hint": "Think about what number you need to multiply by 4 to get the answer 36. Alternatively, consider the inverse operation to multiplication.",
+      "generatedAt": "2026-04-29T17:04:12.658097"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_007",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A number machine takes an input number. First, it multiplies the input number by 4. Then, it subtracts 3 from the result.\nLet 'M' represent the final output number from the machine.\nIf the input number to the machine is 8, what is the value of M?",
+      "options": [
+        "26",
+        "29",
+        "35",
+        "40"
+      ],
+      "correctAnswer": "29",
+      "explanation": "To find the value of M, we follow the steps described for the number machine:\n1.  The input number is 8.\n2.  First, the machine multiplies the input number by 4: 8 × 4 = 32.\n3.  Then, it subtracts 3 from this result: 32 - 3 = 29.\nTherefore, the value of M is 29.",
+      "hint": "Start with the input number and perform the operations described in the machine's rule one step at a time, in the correct order.",
+      "generatedAt": "2026-04-29T17:04:23.788279"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_008",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A teacher calculates the score for a maths test using the formula S = 3m + 5, where S is the total score and m is the number of correct questions. If a student answers 9 questions correctly, what is their total score?",
+      "options": [
+        "17",
+        "27",
+        "32",
+        "45"
+      ],
+      "correctAnswer": "32",
+      "explanation": "The formula given is S = 3m + 5.\nWe are told that the student answers 9 questions correctly, so the value of m is 9.\nSubstitute m = 9 into the formula:\nS = (3 * 9) + 5\nFirst, perform the multiplication:\n3 * 9 = 27\nThen, perform the addition:\n27 + 5 = 32\nSo, the total score is 32.",
+      "hint": "Remember to substitute the number of correct questions (m) into the formula and follow the order of operations (multiplication before addition).",
+      "generatedAt": "2026-04-29T17:04:52.982033"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_009",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A cinema charges a basic fee of £2, plus an extra £3 for each person. If 'p' represents the number of people, write an algebraic expression for the total cost in pounds.",
+      "options": [
+        "A) 2p + 3",
+        "B) 3p + 2",
+        "C) p + 5",
+        "D) 2 + 3 + p"
+      ],
+      "correctAnswer": "B) 3p + 2",
+      "explanation": "The cinema charges an extra £3 for *each* person. If there are 'p' people, the cost for the people will be 3 multiplied by 'p', which is written as 3p.\nThere is also a basic fee of £2 that is added to this cost.\nSo, the total cost is 3p + 2.",
+      "hint": "Think about which part of the cost depends on the number of people and which part is a fixed amount.",
+      "generatedAt": "2026-04-29T17:05:05.900846"
+    },
+    {
+      "id": "m-y6-algebra-intro_beginner_010",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A shopkeeper starts the day with a certain number of apples. During the day, he sells 15 apples. At the end of the day, he counts that he has 32 apples left.\nLet 'a' represent the number of apples the shopkeeper had at the start of the day.\nWhich of the following equations correctly shows this situation?",
+      "options": [
+        "A) a + 15 = 32",
+        "B) a - 15 = 32",
+        "C) 15 - a = 32",
+        "D) a × 15 = 32"
+      ],
+      "correctAnswer": "B) a - 15 = 32",
+      "explanation": "Let 'a' be the number of apples the shopkeeper had at the start of the day.\nWhen the shopkeeper 'sells' 15 apples, it means 15 apples are taken away from his starting amount. This operation is represented by subtraction: a - 15.\nAt the end of the day, he has 32 apples left. This means that after selling 15 apples, the remaining amount is equal to 32.\nTherefore, the equation that correctly shows this situation is a - 15 = 32.",
+      "hint": "Consider what mathematical operation 'sells' implies for the total number of apples.",
+      "generatedAt": "2026-04-29T17:05:22.065433"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y6-algebra-intro_intermediate_001",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A taxi driver calculates the fare for a journey using the formula: Cost = £3 + (£1.50 × number of miles). If a journey cost £18, how many miles was the journey? Show your working.",
+      "options": [
+        "10 miles",
+        "12 miles",
+        "15 miles",
+        "20 miles"
+      ],
+      "correctAnswer": "10 miles",
+      "explanation": "The formula for the taxi fare is given as:\nCost = £3 + (£1.50 × number of miles)\n\nWe are told that the total cost of a journey was £18. We need to find the number of miles. Let 'M' represent the number of miles.\n\nSubstitute the total cost into the formula:\n£18 = £3 + (£1.50 × M)\n\nStep 1: First, subtract the fixed charge of £3 from the total cost to find the cost related to the miles travelled:\n£18 - £3 = £1.50 × M\n£15 = £1.50 × M\n\nStep 2: Now, divide the remaining cost (£15) by the cost per mile (£1.50) to find the number of miles:\nM = £15 / £1.50\nM = 10\n\nSo, the journey was 10 miles long.",
+      "hint": "Start by substituting the total cost into the given formula. Then, think about how you can isolate the 'number of miles' part of the equation by performing inverse operations.",
+      "generatedAt": "2026-04-29T17:05:33.696725"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_002",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Mia thinks of a number. She multiplies her number by 4, and then subtracts 11 from the result. Her final answer is 49. What number did Mia think of? Show your working.",
+      "options": [],
+      "correctAnswer": "Let the number Mia thought of be 'x'.\n\nFirst, Mia multiplies her number by 4:  4x\nThen, she subtracts 11 from the result: 4x - 11\nHer final answer is 49. So, we can write the equation:\n4x - 11 = 49\n\nTo find the value of x, we need to work backwards (use inverse operations):\n\nStep 1: Undo the subtraction of 11. Add 11 to both sides of the equation:\n4x - 11 + 11 = 49 + 11\n4x = 60\n\nStep 2: Undo the multiplication by 4. Divide both sides by 4:\n4x / 4 = 60 / 4\nx = 15\n\nSo, Mia thought of the number 15.",
+      "explanation": "The step-by-step working provided in the 'correctAnswer' demonstrates how to set up an algebraic expression from the word problem and then solve it using inverse operations to find the original number. The process involves identifying the sequence of operations (multiply by 4, then subtract 11) and then reversing them (add 11, then divide by 4) to isolate the unknown variable.",
+      "hint": "Start from Mia's final answer and think about what operations you would perform to work backwards, undoing each step in reverse order.",
+      "generatedAt": "2026-04-29T17:05:47.092076"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_003",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "The number of sweets, 'S', in a party bag is calculated using the formula S = 3C + 5, where 'C' is the number of children at the party. If a party bag contains 26 sweets, how many children were at the party?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7",
+      "explanation": "1. The given formula is S = 3C + 5.\n2. We are told that the party bag contains 26 sweets, so we substitute S = 26 into the formula:\n   26 = 3C + 5\n3. To solve for 'C', we first need to isolate the term with 'C'. Subtract 5 from both sides of the equation:\n   26 - 5 = 3C + 5 - 5\n   21 = 3C\n4. Next, to find 'C', divide both sides of the equation by 3:\n   21 / 3 = 3C / 3\n   7 = C\nTherefore, there were 7 children at the party.",
+      "hint": "Start by substituting the given number of sweets into the formula, then use inverse operations (doing the opposite calculation) to find the unknown number of children.",
+      "generatedAt": "2026-04-29T17:05:59.357590"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_004",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A school trip organiser uses a formula to calculate the number of buses needed (B) for a trip based on the number of students (N) attending. The formula is B = (N ÷ 30) + 2. The '+2' is for additional buses required for all staff and luggage.\n\nIf the school hired 5 buses in total for a trip, how many students (N) went on the trip?\nShow your working.",
+      "options": [
+        "90 students",
+        "148 students",
+        "152 students",
+        "210 students"
+      ],
+      "correctAnswer": "90 students",
+      "explanation": "The given formula is B = (N ÷ 30) + 2.\nWe are told that the school hired 5 buses in total, so B = 5.\n\nSubstitute B = 5 into the formula:\n5 = (N ÷ 30) + 2\n\nTo find N, we need to work backwards using inverse operations.\n\nFirst, isolate the term (N ÷ 30) by subtracting 2 from both sides of the equation:\n5 - 2 = N ÷ 30\n3 = N ÷ 30\n\nNext, to find N, multiply both sides by 30:\n3 × 30 = N\n90 = N\n\nTherefore, 90 students went on the trip.",
+      "hint": "Begin by substituting the known number of buses (B) into the formula. Then, to find N, think about the inverse operations needed and apply them in the reverse order of the original formula.",
+      "generatedAt": "2026-04-29T17:06:17.452636"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_005",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A rectangular field has a perimeter of 30 metres. The length of the field is 9 metres. Calculate the width of the field. Show your working.",
+      "options": [
+        "6 metres",
+        "12 metres",
+        "21 metres",
+        "10.5 metres"
+      ],
+      "correctAnswer": "6 metres",
+      "explanation": "The formula for the perimeter (P) of a rectangle is P = 2L + 2W, where L is the length and W is the width.\n\nWe are given:\nPerimeter (P) = 30 metres\nLength (L) = 9 metres\n\nSubstitute the known values into the formula:\n30 = (2 × 9) + 2W\n\nFirst, calculate 2 multiplied by the length:\n30 = 18 + 2W\n\nNext, to find the value of 2W, subtract 18 from both sides of the equation:\n30 - 18 = 2W\n12 = 2W\n\nFinally, to find the width (W), divide both sides by 2:\nW = 12 ÷ 2\nW = 6 metres\n\nTherefore, the width of the field is 6 metres.",
+      "hint": "Think about how the perimeter of a rectangle is calculated using its length and width. The formula P = 2L + 2W might be useful.",
+      "generatedAt": "2026-04-29T17:06:32.665229"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_006",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "In a school sports day, points are awarded for completing activities. For each 'Sprint' completed, students earn 7 points. For each 'Jump' completed, students earn 'J' points.\n\nSarah completes 6 Sprints and 4 Jumps, earning a total of 74 points.\n\nHow many points are awarded for each 'Jump'? Show your working.",
+      "options": [
+        "6 points",
+        "7 points",
+        "8 points",
+        "9 points"
+      ],
+      "correctAnswer": "8 points",
+      "explanation": "Let 'S' represent the points for a Sprint and 'J' represent the points for a Jump.\nWe are given that each Sprint is worth 7 points, so S = 7.\nSarah completed 6 Sprints and 4 Jumps, and her total score was 74 points.\n\nWe can write this information as an algebraic equation:\n(Number of Sprints × Points per Sprint) + (Number of Jumps × Points per Jump) = Total Points\n(6 × 7) + (4 × J) = 74\n\nFirst, calculate the total points earned from the Sprints:\n6 × 7 = 42 points\n\nNow substitute this value back into the equation:\n42 + 4J = 74\n\nTo find the points earned from Jumps, we need to isolate '4J'. Subtract 42 from both sides of the equation:\n4J = 74 - 42\n4J = 32\n\nFinally, to find the value of 'J' (points for one Jump), divide both sides by 4:\nJ = 32 ÷ 4\nJ = 8\n\nTherefore, 8 points are awarded for each 'Jump'.",
+      "hint": "Think about how to represent the total points Sarah earned as an equation, using 'J' for the unknown points per jump, then solve for 'J'.",
+      "generatedAt": "2026-04-29T17:06:48.685291"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_007",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A baker prepares a batch of items for a school fair. The number of cookies made is always 4 times the number of brownies.\nOn Monday, the baker made a total of 120 cookies and brownies.\nOn Tuesday, the baker made 10 more brownies than on Monday. The relationship between cookies and brownies remained the same.\nHow many cookies did the baker make on Tuesday? Show your working.",
+      "options": [
+        "136",
+        "34",
+        "106",
+        "104"
+      ],
+      "correctAnswer": "136",
+      "explanation": "Let B_M be the number of brownies made on Monday and C_M be the number of cookies made on Monday.\nFrom the problem:\n1. The number of cookies is 4 times the number of brownies: C_M = 4 * B_M\n2. The total number of cookies and brownies on Monday was 120: C_M + B_M = 120\n\nSubstitute the first equation into the second:\n4 * B_M + B_M = 120\n5 * B_M = 120\nB_M = 120 / 5\nB_M = 24\n\nSo, on Monday, the baker made 24 brownies.\nNow find the cookies made on Monday:\nC_M = 4 * B_M = 4 * 24 = 96\n\nOn Tuesday, the baker made 10 more brownies than on Monday.\nLet B_T be the number of brownies on Tuesday:\nB_T = B_M + 10 = 24 + 10 = 34\n\nThe relationship between cookies and brownies remained the same, so the number of cookies on Tuesday (C_T) is 4 times the number of brownies on Tuesday:\nC_T = 4 * B_T = 4 * 34 = 136\n\nTherefore, the baker made 136 cookies on Tuesday.",
+      "hint": "Start by representing the number of brownies and cookies on Monday using variables. Formulate equations based on the given information for Monday to find the initial number of each item.",
+      "generatedAt": "2026-04-29T17:07:12.153915"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_008",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A bakery sells plain muffins and chocolate muffins.\nThe cost of a chocolate muffin is always 15 pence more than the cost of a plain muffin.\nA customer buys 4 plain muffins and 3 chocolate muffins. The total cost for these muffins is 395 pence.\nWork out the cost of one plain muffin. Show your working.",
+      "options": [],
+      "correctAnswer": "Let 'p' be the cost of one plain muffin in pence.\n\nSince the cost of a chocolate muffin is 15 pence more than a plain muffin, the cost of one chocolate muffin can be expressed as: p + 15 pence.\n\nThe customer buys 4 plain muffins, so their cost is 4 × p = 4p pence.\nThe customer buys 3 chocolate muffins, so their cost is 3 × (p + 15) pence.\n\nThe total cost is the sum of these amounts, which is given as 395 pence.\nSo, we can set up the equation:\n4p + 3(p + 15) = 395\n\nNow, expand the bracket:\n4p + 3p + 45 = 395\n\nCombine the 'p' terms:\n7p + 45 = 395\n\nSubtract 45 from both sides of the equation:\n7p = 395 - 45\n7p = 350\n\nDivide both sides by 7 to find the value of p:\np = 350 / 7\np = 50\n\nTherefore, the cost of one plain muffin is 50 pence.",
+      "explanation": "Let 'p' represent the cost of one plain muffin in pence.\n1.  **Formulate the cost of a chocolate muffin:** A chocolate muffin costs 15 pence more than a plain muffin, so its cost is `p + 15` pence.\n2.  **Set up the total cost equation:** The customer buys 4 plain muffins (cost `4p`) and 3 chocolate muffins (cost `3 * (p + 15)`). The total cost is 395 pence.\n    `4p + 3(p + 15) = 395`\n3.  **Expand the bracket:** Distribute the 3 to both terms inside the bracket.\n    `4p + 3p + 45 = 395`\n4.  **Combine like terms:** Add the 'p' terms together.\n    `7p + 45 = 395`\n5.  **Isolate the 'p' term:** Subtract 45 from both sides of the equation.\n    `7p = 395 - 45`\n    `7p = 350`\n6.  **Solve for 'p':** Divide both sides by 7.\n    `p = 350 / 7`\n    `p = 50`\nSo, the cost of one plain muffin is 50 pence.",
+      "hint": "Start by using a letter (like 'p') to represent the cost of a plain muffin. Then, express the cost of a chocolate muffin in terms of 'p'. Finally, form an equation that represents the total cost of all the muffins purchased.",
+      "generatedAt": "2026-04-29T17:07:31.506780"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_009",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A local craft store sells handmade cards for £3 each. They also charge a one-time fee of £4 for special packaging if you buy more than one card. Mia wants to buy 5 cards and have them put in the special packaging. She currently has £15 saved. How much more money does Mia need to save to buy the cards and the packaging? Show your working.",
+      "options": [
+        "£3",
+        "£4",
+        "£5",
+        "£6"
+      ],
+      "correctAnswer": "£4",
+      "explanation": "First, calculate the total cost of the cards:\nNumber of cards = 5\nCost per card = £3\nCost of cards = 5 × £3 = £15\n\nNext, add the special packaging fee:\nTotal cost = Cost of cards + Packaging fee\nTotal cost = £15 + £4 = £19\n\nFinally, calculate how much more Mia needs to save:\nMoney needed = Total cost - Money saved\nMoney needed = £19 - £15 = £4\n\nSo, Mia needs to save £4 more.",
+      "hint": "Begin by working out the total cost of all the cards plus the packaging. Then compare this total to the amount Mia already has.",
+      "generatedAt": "2026-04-29T17:07:43.438224"
+    },
+    {
+      "id": "m-y6-algebra-intro_intermediate_010",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A local taxi service calculates the total cost of a journey using a simple formula: a fixed booking fee plus a charge per kilometre. The booking fee is £2.50. The charge for each kilometre travelled is £1.20. On a recent journey, the total cost was £14.50. Let 'd' represent the distance travelled in kilometres.\nFormulate an equation to represent this information and solve it to find the distance 'd' travelled for this journey. Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the total cost be C, the fixed booking fee be F, the charge per kilometre be R, and the distance be d.\n\nThe general formula for the total cost is: C = F + (R * d)\n\nFrom the problem, we are given:\nFixed booking fee (F) = £2.50\nCharge per kilometre (R) = £1.20\nTotal cost (C) = £14.50\n\nSubstitute these values into the formula to form an equation:\n£14.50 = £2.50 + (£1.20 * d)\n\nNow, we need to solve this equation for 'd':\n\nStep 1: Subtract the fixed booking fee from both sides of the equation to isolate the term with 'd'.\n£14.50 - £2.50 = £1.20 * d\n£12.00 = £1.20 * d\n\nStep 2: Divide both sides of the equation by the charge per kilometre (£1.20) to find the value of 'd'.\nd = £12.00 / £1.20\nd = 10\n\nTherefore, the distance travelled for this journey was 10 kilometres.",
+      "explanation": "The problem requires translating a real-world scenario into an algebraic equation and then solving it. The total cost is determined by a fixed amount (booking fee) plus a variable amount (charge per kilometre multiplied by the distance). This forms a linear equation of the form C = F + Rd. To solve for the unknown distance 'd', we apply inverse operations. First, subtract the fixed fee from the total cost to find the cost attributable to the distance. Then, divide this remaining cost by the cost per kilometre to find the distance itself. This is a two-step process involving subtraction and then division, demonstrating understanding of inverse operations in algebra.",
+      "hint": "Think about how the total cost is built up from the two different charges. First, write an equation that shows how the total cost relates to the booking fee, the charge per kilometre, and the unknown distance 'd'. Then, use inverse operations (doing the opposite) to work backwards and find 'd'.",
+      "generatedAt": "2026-04-29T17:08:01.156161"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y6-algebra-intro_advanced_001",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "The Year 6 class organised a charity event to raise money. They had a fixed cost of £30 for hiring their stall for the entire event. They decided to sell specially designed bookmarks, and each bookmark was sold for the same price.\n\nOn the first day, they sold 80 bookmarks. After paying for the stall hire, their total profit for the first day was £90.\n\n(a) Let `b` represent the price of one bookmark in pounds. Write down an equation using `b` to show the profit made on the first day.\n\n(b) Use your equation to work out the price of one bookmark. Show your working clearly.\n\nOn the second day, they wanted to make enough money so that their total profit for both days combined would be £150.\n\n(c) How many bookmarks did they need to sell on the second day to reach their target total profit of £150 for the entire event? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "(a) The profit is calculated as (number of bookmarks sold × price of one bookmark) - fixed cost.\nSo, 80b - 30 = 90.\n\n(b) From part (a):\n80b - 30 = 90\nTo isolate the term with 'b', add 30 to both sides of the equation:\n80b = 90 + 30\n80b = 120\nTo find the value of 'b', divide both sides by 80:\nb = 120 / 80\nb = 12 / 8\nb = 3 / 2\nb = 1.5\nThe price of one bookmark is £1.50.\n\n(c) The total target profit for both days combined is £150.\nThe fixed cost for the entire event is £30.\nTherefore, the total sales revenue (money collected from selling bookmarks) needed across both days to achieve this profit is:\nTotal sales revenue needed = Total target profit + Fixed cost\nTotal sales revenue needed = £150 + £30 = £180.\n\nNow, let's find the sales revenue from Day 1. We know the profit for Day 1 was £90, and the fixed cost (which was covered by sales) was £30.\nSales revenue from Day 1 = Profit Day 1 + Fixed cost\nSales revenue from Day 1 = £90 + £30 = £120.\n(Alternatively, using the price of one bookmark found in part (b): Sales revenue Day 1 = 80 bookmarks × £1.50/bookmark = £120).\n\nNext, calculate the sales revenue needed from Day 2:\nSales revenue needed from Day 2 = Total sales revenue needed - Sales revenue from Day 1\nSales revenue needed from Day 2 = £180 - £120 = £60.\n\nFinally, to find the number of bookmarks needed on Day 2, divide the sales revenue needed from Day 2 by the price of one bookmark:\nNumber of bookmarks needed on Day 2 = Sales revenue needed from Day 2 / Price per bookmark\nNumber of bookmarks needed on Day 2 = £60 / £1.50\nNumber of bookmarks needed on Day 2 = 40.\nThey needed to sell 40 bookmarks on the second day.",
+      "explanation": "This is an open-ended question. The full model answer above provides the step-by-step working for each part of the question. It demonstrates how to set up an algebraic equation from a word problem (part a), solve for an unknown variable (part b), and then use that variable in a multi-step calculation to solve a further problem involving target profit and sales over multiple periods (part c). The calculation in part (c) correctly accounts for the fixed cost being a one-off charge for the entire event, which is crucial for determining the total revenue required.",
+      "hint": "Remember that profit is calculated as (Total Sales Revenue) - (Total Costs). For part (c), you need to work out the total sales revenue required across both days to cover the single fixed cost and achieve the combined target profit. Then, find out how much more sales revenue is needed from Day 2, and use the price of one bookmark to find the number of bookmarks.",
+      "generatedAt": "2026-04-29T17:08:29.005159"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_002",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "In a special maths challenge, contestants earn points for correct answers and lose points for incorrect answers. For each correct answer, a contestant gains 8 points. For each incorrect answer, a contestant loses 3 points. Every question must be answered.\n\nSarah answered a total of 10 questions in the challenge. Her final score was 47 points.\n\nHow many questions did Sarah answer correctly? Show your working.",
+      "options": [],
+      "correctAnswer": "Let 'c' represent the number of correct answers and 'i' represent the number of incorrect answers.\n\nSarah answered a total of 10 questions, so:\nc + i = 10\n\nThis means that the number of incorrect answers can be expressed as:\ni = 10 - c\n\nThe total score is calculated as:\nTotal Score = (Points per correct answer × c) - (Points per incorrect answer × i)\nTotal Score = 8c - 3i\n\nSarah's final score was 47 points, so we can write the equation:\n47 = 8c - 3i\n\nNow, substitute 'i = 10 - c' into the score equation:\n47 = 8c - 3(10 - c)\n\nExpand the bracket:\n47 = 8c - (3 × 10) + (3 × c)\n47 = 8c - 30 + 3c\n\nCombine the 'c' terms:\n47 = 11c - 30\n\nTo isolate 'c', first add 30 to both sides of the equation:\n47 + 30 = 11c\n77 = 11c\n\nNow, divide both sides by 11:\nc = 77 ÷ 11\nc = 7\n\nSarah answered 7 questions correctly.",
+      "explanation": "The step-by-step working is provided in the 'correctAnswer' field for open-ended questions.",
+      "hint": "Think about how the number of correct answers and incorrect answers are linked if you know the total number of questions answered. Use this relationship to write down a single equation for the total score.",
+      "generatedAt": "2026-04-29T17:08:47.928518"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_003",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "In a new online game, players earn points by completing different types of challenges. A 'Speed Challenge' earns a player 7 points, and a 'Logic Challenge' earns a player 12 points.\n\nSarah played the game and completed `S` Speed Challenges and `L` Logic Challenges.\n\nOn Monday, Sarah completed exactly 6 Speed Challenges. Her total score for all challenges on Monday was 102 points.\n\nUsing this information, work out the number of Logic Challenges (`L`) Sarah completed on Monday. Show all your working.\n\nThen, if another player, Tom, completed the same number of Logic Challenges as Sarah, but only completed 4 Speed Challenges, what would Tom's total score be?",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate points from Speed Challenges.\nSarah completed 6 Speed Challenges.\nPoints from Speed Challenges = Number of Speed Challenges × Points per Speed Challenge\nPoints from Speed Challenges = 6 × 7 = 42 points.\n\nStep 2: Set up an equation for Sarah's total score to find `L`.\nSarah's total score is 102 points. This is the sum of points from Speed Challenges and Logic Challenges.\nTotal Points = (Points from Speed Challenges) + (Number of Logic Challenges × Points per Logic Challenge)\n102 = 42 + (L × 12)\n102 = 42 + 12L\n\nStep 3: Solve the equation for `L`.\nTo find 12L, subtract 42 from both sides:\n102 - 42 = 12L\n60 = 12L\nTo find L, divide 60 by 12:\nL = 60 ÷ 12\nL = 5\n\nSo, Sarah completed 5 Logic Challenges on Monday.\n\nStep 4: Calculate Tom's total score.\nTom completed the same number of Logic Challenges as Sarah, which is 5 Logic Challenges.\nTom completed 4 Speed Challenges.\n\nPoints from Tom's Speed Challenges = 4 × 7 = 28 points.\nPoints from Tom's Logic Challenges = 5 × 12 = 60 points.\n\nTom's total score = Points from Speed Challenges + Points from Logic Challenges\nTom's total score = 28 + 60 = 88 points.\n\nFinal Answer:\nSarah completed 5 Logic Challenges.\nTom's total score would be 88 points.",
+      "explanation": "The problem requires two main parts: first, determining the number of Logic Challenges Sarah completed by setting up and solving an algebraic equation, and second, using that information to calculate a new player's score. \n\n1.  **Calculate Sarah's Speed Challenge points:** Multiply the number of Speed Challenges (6) by the points per challenge (7) to get 42 points.\n2.  **Formulate an equation for Sarah's total score:** Sarah's total score (102) is the sum of her Speed Challenge points (42) and her Logic Challenge points (12 multiplied by L). This gives the equation: 42 + 12L = 102.\n3.  **Solve the equation for L:** Subtract 42 from both sides of the equation to find 12L = 60. Then, divide 60 by 12 to find L = 5. So, Sarah completed 5 Logic Challenges.\n4.  **Calculate Tom's total score:** Tom completed 4 Speed Challenges (4 x 7 = 28 points) and the same number of Logic Challenges as Sarah (5 x 12 = 60 points). Add these two amounts together: 28 + 60 = 88 points.",
+      "hint": "First, calculate the points Sarah earned from her Speed Challenges. Then, use this value and her total score to set up an algebraic equation for the points earned from Logic Challenges, where 'L' is the unknown number of Logic Challenges.",
+      "generatedAt": "2026-04-29T17:09:12.409740"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_004",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A craft store sells 'Art Packs'. Each Art Pack contains an unknown number of paint brushes, represented by `p`, and 8 tubes of glitter. Liam buys 5 Art Packs. He also buys an additional 7 paint brushes separately. If Liam has a total of 32 paint brushes, how many paint brushes, `p`, are in each Art Pack? Show your working clearly.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "5",
+      "explanation": "1. Let `p` represent the number of paint brushes in each Art Pack.\n2. Liam buys 5 Art Packs, so the total number of paint brushes from these packs is `5 * p`, which can be written as `5p`.\n3. He also buys an additional 7 paint brushes separately.\n4. The total number of paint brushes Liam has is the sum of brushes from the packs and the extra brushes: `5p + 7`.\n5. We are told that Liam has a total of 32 paint brushes.\n6. So, we can set up the algebraic equation: `5p + 7 = 32`.\n7. To solve for `p`, first subtract 7 from both sides of the equation:\n   `5p + 7 - 7 = 32 - 7`\n   `5p = 25`\n8. Next, divide both sides by 5:\n   `5p / 5 = 25 / 5`\n   `p = 5`\n9. Therefore, there are 5 paint brushes in each Art Pack. The information about '8 tubes of glitter' is extra and not needed to solve this problem.",
+      "hint": "Start by writing an algebraic expression for the total number of paint brushes Liam has, using 'p' for the unknown number of brushes in each pack. Then set this expression equal to the total number of brushes given.",
+      "generatedAt": "2026-04-29T17:09:29.111203"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_005",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Imagine a special machine called a 'Number Changer'. It takes a starting number, does some calculations, and gives an output number.\n\nWhen you put a number, let's call it `S`, into the Number Changer, these steps happen:\n1. The machine multiplies `S` by 4.\n2. Then, it subtracts a secret number, which we'll call `X`.\n3. Finally, it divides the new result by 2.\n\nThe number that comes out at the end is called `F`.\n\nOn Tuesday, the secret number `X` was set to 10.\nIf the final output number `F` on Tuesday was 18, what was the starting number `S` that was put into the machine? You must show all your working to find `S`.",
+      "options": [],
+      "correctAnswer": "Let's write down the steps the Number Changer performs:\n1. Multiply `S` by 4: `4S`\n2. Subtract the secret number `X`: `4S - X`\n3. Divide the result by 2: `(4S - X) / 2`\nThis gives the final output `F`.\nSo, the formula is: `F = (4S - X) / 2`\n\nWe are given: `F = 18` and `X = 10`.\nWe need to find `S`.\n\nSubstitute the known values into the formula:\n`18 = (4S - 10) / 2`\n\nTo find `S`, we need to work backwards by reversing the operations:\n\nStep 1: The last operation applied to `(4S - 10)` was dividing by 2. To reverse this, we multiply both sides of the equation by 2:\n`18 * 2 = 4S - 10`\n`36 = 4S - 10`\n\nStep 2: The operation before that was subtracting 10. To reverse this, we add 10 to both sides of the equation:\n`36 + 10 = 4S`\n`46 = 4S`\n\nStep 3: The first operation applied to `S` was multiplying by 4. To reverse this, we divide both sides of the equation by 4:\n`46 / 4 = S`\n`S = 11.5`\n\nThe starting number `S` was 11.5.",
+      "explanation": "The problem describes a sequence of operations to transform a starting number `S` into a final number `F`, with a secret number `X` involved. We are given the values for `F` and `X` and need to find `S`. This requires setting up an algebraic expression that represents the machine's process and then using inverse operations to solve for the unknown `S`.\n\nThe process can be written as `F = ( (S * 4) - X ) / 2`. Substituting the given values `F = 18` and `X = 10` gives `18 = (4S - 10) / 2`.\n\nTo solve for `S`, we reverse the operations in the opposite order:\n1. Undo the division by 2: Multiply both sides by 2 -> `18 * 2 = 4S - 10`, which simplifies to `36 = 4S - 10`.\n2. Undo the subtraction of 10: Add 10 to both sides -> `36 + 10 = 4S`, which simplifies to `46 = 4S`.\n3. Undo the multiplication by 4: Divide both sides by 4 -> `46 / 4 = S`, which simplifies to `S = 11.5`.",
+      "hint": "Start by writing down the mathematical expression for the final output `F` in terms of `S` and `X`. Then substitute the given values for `F` and `X` and work backwards using inverse operations to find `S`.",
+      "generatedAt": "2026-04-29T17:10:08.345278"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_006",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A baker calculates the price of a custom cake using a formula: P = 3S + 5. \nHere, P is the price of the cake in pounds (£), and S is the number of slices the cake can be cut into.\nFor a special order, a customer pays £35 for a cake.\nThe baker also offers a special \"Loyalty Discount\" (L) if the cake price is more than £25. The discount is calculated using the formula: L = (P - 25) / 2.\nHow many slices was the cake cut into, and what was the Loyalty Discount offered for this cake?\nShow your working.",
+      "options": [
+        "A. 10 slices, £4.50",
+        "B. 10 slices, £5.00",
+        "C. 12 slices, £5.00",
+        "D. 12 slices, £6.00"
+      ],
+      "correctAnswer": "B. 10 slices, £5.00",
+      "explanation": "1.  **Finding the number of slices (S):**\n    *   The formula for the cake price is P = 3S + 5.\n    *   We know the price (P) is £35. So, we substitute this into the formula to get the equation: 35 = 3S + 5.\n    *   To find S, we need to isolate it. First, subtract 5 from both sides of the equation:\n        *   35 - 5 = 3S + 5 - 5\n        *   30 = 3S\n    *   Next, divide both sides by 3:\n        *   30 / 3 = 3S / 3\n        *   10 = S\n    *   So, the cake was cut into 10 slices.\n\n2.  **Finding the Loyalty Discount (L):**\n    *   The formula for the Loyalty Discount is L = (P - 25) / 2.\n    *   We know the price (P) is £35. Substitute this value into the discount formula:\n        *   L = (35 - 25) / 2\n    *   First, calculate the value inside the brackets:\n        *   L = 10 / 2\n    *   Then, perform the division:\n        *   L = 5\n    *   So, the Loyalty Discount offered was £5.00.\n\nTherefore, the cake had 10 slices, and the discount was £5.00.",
+      "hint": "Start by using the first formula (P = 3S + 5) with the given price (£35) to find the number of slices. Once you have the price, use it in the second formula (L = (P - 25) / 2) to calculate the discount.",
+      "generatedAt": "2026-04-29T17:10:25.935714"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_007",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "CodeCrafters make special digital chains using three types of components: an \"Input Block\", an \"Output Block\", and several \"Data Modules\".\nEvery chain always starts with one \"Input Block\" and ends with one \"Output Block\".\nIn between the \"Input Block\" and the \"Output Block\" are a number of identical \"Data Modules\".\n\nEach \"Input Block\" contains 18 tiny processing units.\nEach \"Output Block\" contains 12 tiny processing units.\nEach \"Data Module\" contains the same, unknown number of tiny processing units.\n\nPart A: A chain is built using 5 \"Data Modules\". The total number of tiny processing units in this chain is 70. How many tiny processing units are there in each \"Data Module\"? Show your working.\n\nPart B: Using your answer from Part A, another chain is built with the same \"Input Block\" and \"Output Block\", and \"Data Modules\" containing the same number of tiny processing units. If this new chain has a total of 94 tiny processing units, how many \"Data Modules\" does it have? Show your working.",
+      "options": [],
+      "correctAnswer": "Part A:\nLet 'p' represent the number of tiny processing units in each \"Data Module\".\nTotal processing units = (Units in Input Block) + (Units in Output Block) + (Number of Data Modules × p)\n70 = 18 + 12 + (5 × p)\n70 = 30 + 5p\nTo find 5p, subtract 30 from 70:\n70 - 30 = 5p\n40 = 5p\nTo find p, divide 40 by 5:\np = 40 ÷ 5\np = 8\nEach \"Data Module\" contains 8 tiny processing units.\n\nPart B:\nFrom Part A, we know each \"Data Module\" contains 8 tiny processing units.\nLet 'n' represent the unknown number of \"Data Modules\" in the new chain.\nTotal processing units = (Units in Input Block) + (Units in Output Block) + (Number of Data Modules × Units per Data Module)\n94 = 18 + 12 + (n × 8)\n94 = 30 + 8n\nTo find 8n, subtract 30 from 94:\n94 - 30 = 8n\n64 = 8n\nTo find n, divide 64 by 8:\nn = 64 ÷ 8\nn = 8\nThe new chain has 8 \"Data Modules\".",
+      "explanation": "The full working is provided in the 'correctAnswer' field. It demonstrates setting up simple algebraic expressions (missing number problems) from a word problem, performing inverse operations (subtraction then division) to solve for an unknown in Part A, and then using that calculated value to solve for a different unknown in a similar problem in Part B. This shows a multi-step application of introductory algebra concepts.",
+      "hint": "For Part A, first add the known number of processing units from the \"Input Block\" and \"Output Block\". Then, subtract this sum from the total to find how many units are used by the \"Data Modules\". Finally, divide that number by the count of \"Data Modules\" to find the units per module. For Part B, use the value you found for a \"Data Module\" from Part A and apply the same logic in reverse to find the number of \"Data Modules\" in the new chain.",
+      "generatedAt": "2026-04-29T17:10:44.804166"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_008",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A construction company builds fences using two types of panels: basic panels and deluxe panels.\nA deluxe panel costs £7 more than a basic panel.\nFor a specific fence section, the company uses 5 basic panels and 3 deluxe panels.\nThere is also a fixed charge of £35 for posts and labour for this section.\nIf the total cost for this specific fence section was £216, what was the cost of a single basic panel? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Let 'b' represent the cost of a single basic panel.\n\n1.  **Express the cost of a deluxe panel:**\n    A deluxe panel costs £7 more than a basic panel, so its cost is 'b + £7'.\n\n2.  **Set up an equation for the total cost:**\n    The total cost is the sum of the cost of basic panels, deluxe panels, and the fixed charge.\n    Cost of 5 basic panels = 5 * b\n    Cost of 3 deluxe panels = 3 * (b + 7)\n    Fixed charge = £35\n    Total cost = £216\n\n    So, the equation is: (5 * b) + (3 * (b + 7)) + 35 = 216\n\n3.  **Solve the equation:**\n    Expand the brackets:\n    5b + 3b + (3 * 7) + 35 = 216\n    5b + 3b + 21 + 35 = 216\n\n    Combine like terms:\n    8b + 56 = 216\n\n    Subtract 56 from both sides (inverse operation):\n    8b = 216 - 56\n    8b = 160\n\n    Divide by 8 (inverse operation) to find 'b':\n    b = 160 / 8\n    b = 20\n\nTherefore, the cost of a single basic panel was £20.",
+      "explanation": "To solve this advanced problem, you first need to define a variable (a letter) to represent the unknown cost of the basic panel. Then, you use this variable to write an algebraic expression for the cost of the deluxe panel. Next, combine these expressions with the given quantities and fixed charge to create a single algebraic equation that equals the total cost. The final step involves solving this multi-step equation using inverse operations, which means you'll perform addition/subtraction and multiplication/division in reverse order to isolate your variable and find its value.",
+      "hint": "Begin by letting a letter, such as 'p', represent the cost of one basic panel. Then, use this to write down what the cost of a deluxe panel would be. After that, create a full algebraic expression for the total cost of the specific fence section, and set it equal to the given total cost. Finally, work backwards using inverse operations to find the value of 'p'.",
+      "generatedAt": "2026-04-29T17:11:03.401519"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_009",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "In a special animal sanctuary, there are two types of creatures: 'Cloud-Wing Birds' and 'Whisper-Toe Mammals'. The number of Whisper-Toe Mammals is always 9 more than four times the number of Cloud-Wing Birds.\nLet 'B' represent the number of Cloud-Wing Birds.\nLet 'M' represent the number of Whisper-Toe Mammals.\n\nIf the sanctuary has a total of 154 creatures, how many Cloud-Wing Birds are there? Show your working clearly.",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "125"
+      ],
+      "correctAnswer": "29",
+      "explanation": "1.  First, express the relationship between 'M' (Whisper-Toe Mammals) and 'B' (Cloud-Wing Birds) as an algebraic formula.\n    \"The number of Whisper-Toe Mammals is always 9 more than four times the number of Cloud-Wing Birds\" can be written as:\n    M = 4B + 9\n\n2.  Next, consider the total number of creatures. The total number of creatures is the sum of Cloud-Wing Birds and Whisper-Toe Mammals, which is given as 154.\n    B + M = 154\n\n3.  Now, substitute the formula for M from step 1 into the total equation from step 2:\n    B + (4B + 9) = 154\n\n4.  Combine the 'B' terms:\n    5B + 9 = 154\n\n5.  To find the value of B, first subtract 9 from both sides of the equation:\n    5B = 154 - 9\n    5B = 145\n\n6.  Finally, divide both sides by 5 to find B:\n    B = 145 / 5\n    B = 29\n\nTherefore, there are 29 Cloud-Wing Birds.",
+      "hint": "Start by writing an algebraic expression for the number of Whisper-Toe Mammals (M) in terms of the number of Cloud-Wing Birds (B). Then, use the total number of creatures to form an equation involving B.",
+      "generatedAt": "2026-04-29T17:11:23.448332"
+    },
+    {
+      "id": "m-y6-algebra-intro_advanced_010",
+      "topicId": "m-y6-algebra-intro",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of friends is collecting rare stamps. They start their collection with 28 stamps. Each month, they manage to find the same number of new stamps. Let 'k' represent the number of new stamps they find each month.\n\nAfter 5 months, they have a total of 73 stamps.\n\nUsing algebraic expressions and showing all your working:\n1. Find the value of 'k'.\n2. Calculate how many stamps they will have in total after 8 months.",
+      "options": [],
+      "correctAnswer": "Part 1: Find the value of 'k'.\n\nInitial stamps = 28\nStamps found each month = k\nNumber of months = 5\nTotal stamps after 5 months = 73\n\nWe can write an algebraic expression for the total number of stamps after 5 months:\nTotal stamps = Initial stamps + (Number of months * Stamps per month)\nTotal stamps = 28 + (5 * k)\nTotal stamps = 28 + 5k\n\nWe are told that after 5 months, they have a total of 73 stamps. So, we can set up an equation:\n28 + 5k = 73\n\nTo find 'k', we first need to isolate the term with 'k'. Subtract 28 from both sides of the equation:\n5k = 73 - 28\n5k = 45\n\nNow, divide both sides by 5 to find 'k':\nk = 45 / 5\nk = 9\n\nSo, they find 9 new stamps each month.\n\nPart 2: Calculate how many stamps they will have in total after 8 months.\n\nNow that we know k = 9, we can use this value to calculate the total stamps after 8 months.\n\nInitial stamps = 28\nStamps found each month (k) = 9\nNumber of months = 8\n\nTotal stamps after 8 months = Initial stamps + (Number of months * Stamps per month)\nTotal stamps after 8 months = 28 + (8 * k)\nTotal stamps after 8 months = 28 + (8 * 9)\nTotal stamps after 8 months = 28 + 72\nTotal stamps after 8 months = 100\n\nTherefore, after 8 months, they will have a total of 100 stamps.",
+      "explanation": "This problem requires you to first represent the total number of stamps algebraically based on the initial amount and the rate of collection. Then, use the given total after a specific period to form an equation and solve it for the unknown variable, 'k'. Finally, use the determined value of 'k' to calculate the total number of stamps after a different, specified number of months.",
+      "hint": "Start by writing an algebraic expression for the total number of stamps after 5 months, using the initial number and the variable 'k'.",
+      "generatedAt": "2026-04-29T17:11:59.591001"
+    }
+  ]
+}

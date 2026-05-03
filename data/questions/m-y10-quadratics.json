@@ -1,0 +1,463 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y10-quadratics_beginner_001",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Solve the quadratic equation x² + 7x + 10 = 0.",
+      "options": [
+        "x = -2 or x = -5",
+        "x = 2 or x = 5",
+        "x = -10 or x = -1",
+        "x = 0 or x = -7"
+      ],
+      "correctAnswer": "x = -2 or x = -5",
+      "explanation": "To solve the quadratic equation x² + 7x + 10 = 0 by factorising:\n1. We need to find two numbers that multiply to give 10 (the constant term) and add to give 7 (the coefficient of x).\n2. These two numbers are 2 and 5 (since 2 × 5 = 10 and 2 + 5 = 7).\n3. So, we can rewrite the quadratic equation as (x + 2)(x + 5) = 0.\n4. For the product of two factors to be zero, at least one of the factors must be zero.\n5. Therefore, either x + 2 = 0 or x + 5 = 0.\n6. Solving these linear equations:\n   x + 2 = 0  =>  x = -2\n   x + 5 = 0  =>  x = -5\nThe solutions are x = -2 or x = -5.",
+      "hint": "Try to factorise the quadratic expression. Look for two numbers that multiply to the constant term and add to the coefficient of x.",
+      "generatedAt": "2026-04-30T18:43:04.850816"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_002",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Use the quadratic formula to find one of the solutions to the equation x² + 6x + 4 = 0. Give your answer to two decimal places.",
+      "options": [
+        "A) -0.67",
+        "B) -0.76",
+        "C) -1.23",
+        "D) -5.00"
+      ],
+      "correctAnswer": "B) -0.76",
+      "explanation": "To solve the quadratic equation x² + 6x + 4 = 0 using the quadratic formula, first identify the coefficients:\n\na = 1\nb = 6\nc = 4\n\nThe quadratic formula is: x = [-b ± √(b² - 4ac)] / 2a\n\nSubstitute the values of a, b, and c into the formula:\nx = [-6 ± √(6² - 4 * 1 * 4)] / (2 * 1)\nx = [-6 ± √(36 - 16)] / 2\nx = [-6 ± √20] / 2\n\nNow, calculate the two possible solutions:\n\nSolution 1 (using +√20):\nx₁ = (-6 + √20) / 2\nx₁ = (-6 + 4.47213595...) / 2\nx₁ = -1.52786405... / 2\nx₁ = -0.763932025...\nRounded to two decimal places, x₁ ≈ -0.76\n\nSolution 2 (using -√20):\nx₂ = (-6 - √20) / 2\nx₂ = (-6 - 4.47213595...) / 2\nx₂ = -10.47213595... / 2\nx₂ = -5.236067975...\nRounded to two decimal places, x₂ ≈ -5.24\n\nComparing these solutions with the given options, -0.76 matches option B.",
+      "hint": "Remember to correctly identify the values of a, b, and c from the quadratic equation (ax² + bx + c = 0) before substituting them into the quadratic formula.",
+      "generatedAt": "2026-04-30T18:43:22.578522"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_003",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "For the quadratic equation 3x² - 7x + 2 = 0, calculate the value of the discriminant, which is b² - 4ac.",
+      "options": [
+        "-25",
+        "25",
+        "73",
+        "-31"
+      ],
+      "correctAnswer": "25",
+      "explanation": "The standard form of a quadratic equation is ax² + bx + c = 0.\nBy comparing 3x² - 7x + 2 = 0 with the standard form, we can identify:\na = 3\nb = -7\nc = 2\n\nThe formula for the discriminant is b² - 4ac.\nSubstitute the identified values into the formula:\nDiscriminant = (-7)² - 4(3)(2)\nDiscriminant = 49 - 24\nDiscriminant = 25",
+      "hint": "First, identify the values of 'a', 'b', and 'c' from the given quadratic equation. Then, carefully substitute these values into the discriminant formula: b² - 4ac.",
+      "generatedAt": "2026-04-30T18:43:35.200356"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_004",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "To complete the square for the expression x² + 10x, what number must be added to it?",
+      "options": [
+        "5",
+        "10",
+        "25",
+        "100"
+      ],
+      "correctAnswer": "25",
+      "explanation": "To complete the square for an expression in the form x² + bx, you need to add (b/2)². \nIn this case, the coefficient of x (b) is 10. \nSo, we calculate (10/2)² = 5² = 25. \nAdding 25 to the expression makes it x² + 10x + 25, which is a perfect square trinomial equal to (x + 5)².",
+      "hint": "Recall that a perfect square trinomial (x + a)² expands to x² + 2ax + a².",
+      "generatedAt": "2026-04-30T18:43:46.964616"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_005",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "When completing the square for the expression x² + 12x + 7, the part x² + 12x can be rewritten in the form (x+p)² - q. What is the value of p?",
+      "options": [
+        "12",
+        "6",
+        "-6",
+        "36"
+      ],
+      "correctAnswer": "6",
+      "explanation": "To rewrite an expression of the form x² + bx in the completed square form (x+p)² - q, the value of p is found by halving the coefficient of x (which is b).\nIn the given expression, x² + 12x, the coefficient of x is 12 (so b = 12).\nTherefore, p = b / 2 = 12 / 2 = 6.\nSo, x² + 12x can be written as (x+6)² - 36. The value of p is 6.",
+      "hint": "Consider how the coefficient of the 'x' term (the 'b' in x² + bx) relates to the number inside the bracket (the 'p' in (x+p)²) when completing the square.",
+      "generatedAt": "2026-04-30T18:43:59.345770"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_006",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following values of x is a solution to the quadratic equation x² - 7x + 10 = 0?",
+      "options": [
+        "x = 1",
+        "x = 2",
+        "x = 3",
+        "x = 4"
+      ],
+      "correctAnswer": "x = 2",
+      "explanation": "To determine which value of x is a solution, substitute each option into the quadratic equation x² - 7x + 10 = 0 and check if the equation holds true (equals 0).\n\nLet's test each option:\n\n1.  For x = 1:\n    (1)² - 7(1) + 10 = 1 - 7 + 10 = 4\n    Since 4 ≠ 0, x = 1 is not a solution.\n\n2.  For x = 2:\n    (2)² - 7(2) + 10 = 4 - 14 + 10 = 0\n    Since 0 = 0, x = 2 is a solution.\n\n3.  For x = 3:\n    (3)² - 7(3) + 10 = 9 - 21 + 10 = -2\n    Since -2 ≠ 0, x = 3 is not a solution.\n\n4.  For x = 4:\n    (4)² - 7(4) + 10 = 16 - 28 + 10 = -2\n    Since -2 ≠ 0, x = 4 is not a solution.\n\nTherefore, x = 2 is the correct solution.",
+      "hint": "A solution to an equation makes the equation true when substituted. Substitute each option into the equation.",
+      "generatedAt": "2026-04-30T18:44:10.561542"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_007",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "What are the solutions to the quadratic equation x² + 2x - 8 = 0?",
+      "options": [
+        "x = -4 or x = 2",
+        "x = 4 or x = -2",
+        "x = -4 or x = -2",
+        "x = 4 or x = 2"
+      ],
+      "correctAnswer": "x = -4 or x = 2",
+      "explanation": "To find the solutions, we can factorise the quadratic equation x² + 2x - 8 = 0.\nWe need to find two numbers that multiply to give -8 and add to give 2. These numbers are 4 and -2.\nSo, we can rewrite the quadratic equation in factored form as (x + 4)(x - 2) = 0.\nFor the product of two factors to be zero, at least one of the factors must be zero.\nTherefore, we set each factor equal to zero:\n1. x + 4 = 0\n   Subtract 4 from both sides: x = -4\n2. x - 2 = 0\n   Add 2 to both sides: x = 2\nThe solutions to the quadratic equation are x = -4 or x = 2.",
+      "hint": "Consider factorising the quadratic expression into two brackets (x + a)(x + b) = 0, where a and b are integers.",
+      "generatedAt": "2026-04-30T18:44:20.114813"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_008",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "The quadratic expression x² + 9x + 14 can be factorised into the form (x+a)(x+b). Which of the following pairs of values are 'a' and 'b'?",
+      "options": [
+        "a=1, b=14",
+        "a=2, b=7",
+        "a=3, b=6",
+        "a=-2, b=-7"
+      ],
+      "correctAnswer": "a=2, b=7",
+      "explanation": "To factorise the quadratic expression x² + 9x + 14 into the form (x+a)(x+b), you need to find two numbers, 'a' and 'b', such that:\n1. When multiplied together, they give the constant term (14).\n2. When added together, they give the coefficient of 'x' (9).\n\nLet's test the options:\n- For 'a=1, b=14': 1 x 14 = 14 (correct for multiplication), but 1 + 14 = 15 (incorrect for addition).\n- For 'a=2, b=7': 2 x 7 = 14 (correct for multiplication), and 2 + 7 = 9 (correct for addition).\n- For 'a=3, b=6': 3 x 6 = 18 (incorrect for multiplication).\n- For 'a=-2, b=-7': (-2) x (-7) = 14 (correct for multiplication), but (-2) + (-7) = -9 (incorrect for addition, as we need +9).\n\nThe correct pair of values for 'a' and 'b' is 2 and 7.",
+      "hint": "You need to find two numbers that multiply to give 14 and add to give 9.",
+      "generatedAt": "2026-04-30T18:44:31.394581"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_009",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "For the quadratic equation 5x² - 7x + 3 = 0, what is the value of the coefficient 'b'?",
+      "options": [
+        "A) 5",
+        "B) 7",
+        "C) -7",
+        "D) 3"
+      ],
+      "correctAnswer": "C) -7",
+      "explanation": "A quadratic equation is generally written in the standard form ax² + bx + c = 0, where a, b, and c are coefficients. \n\nComparing the given equation 5x² - 7x + 3 = 0 with the standard form:\n\n'a' is the coefficient of x², so a = 5.\n'b' is the coefficient of x, so b = -7.\n'c' is the constant term, so c = 3.\n\nTherefore, the value of the coefficient 'b' is -7.",
+      "hint": "Recall the standard form of a quadratic equation: ax² + bx + c = 0. Pay attention to the signs of the coefficients.",
+      "generatedAt": "2026-04-30T18:44:39.487410"
+    },
+    {
+      "id": "m-y10-quadratics_beginner_010",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "For the quadratic equation 3x² - 7x + 2 = 0, calculate the value of the discriminant.",
+      "options": [
+        "1",
+        "25",
+        "49",
+        "73"
+      ],
+      "correctAnswer": "25",
+      "explanation": "The discriminant of a quadratic equation in the standard form ax² + bx + c = 0 is given by the formula Δ = b² - 4ac.\n\nFor the given equation, 3x² - 7x + 2 = 0:\na = 3\nb = -7\nc = 2\n\nSubstitute these values into the discriminant formula:\nΔ = (-7)² - 4(3)(2)\nΔ = 49 - 24\nΔ = 25\n\nTherefore, the value of the discriminant is 25.",
+      "hint": "Recall the formula for the discriminant, which is the part under the square root in the quadratic formula.",
+      "generatedAt": "2026-04-30T18:44:47.915271"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y10-quadratics_intermediate_001",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The length of a rectangular garden is 3 metres greater than its width. The area of the garden is 54 square metres. Find the width of the garden. You must show all your working.",
+      "options": [
+        "A) 6 metres",
+        "B) 9 metres",
+        "C) 7.5 metres",
+        "D) 12 metres"
+      ],
+      "correctAnswer": "A) 6 metres",
+      "explanation": "1. Let the width of the rectangular garden be 'w' metres.\n2. According to the problem statement, the length of the garden is 3 metres greater than its width. So, the length can be expressed as 'w + 3' metres.\n3. The formula for the area of a rectangle is `Area = width × length`.\n4. We are given that the area of the garden is 54 square metres. Substituting the expressions for width, length, and the given area into the formula:\n   `w(w + 3) = 54`\n5. Expand the left side of the equation:\n   `w^2 + 3w = 54`\n6. Rearrange the equation into the standard quadratic form `ax^2 + bx + c = 0`:\n   `w^2 + 3w - 54 = 0`\n7. Now, we need to solve this quadratic equation for 'w'. There are several methods to choose from, such as factorising, using the quadratic formula, or completing the square.\n\n   **Method 1: Factorising**\n   We look for two numbers that multiply to -54 and add to 3. These numbers are 9 and -6.\n   So, the equation can be factorised as: `(w + 9)(w - 6) = 0`\n   This gives two possible solutions for 'w':\n   `w + 9 = 0  =>  w = -9`\n   `w - 6 = 0  =>  w = 6`\n\n   **Method 2: Using the Quadratic Formula**\n   For a quadratic equation in the form `aw^2 + bw + c = 0`, the solutions are given by `w = [-b ± sqrt(b^2 - 4ac)] / 2a`.\n   In our equation, `a = 1`, `b = 3`, and `c = -54`.\n   `w = [-3 ± sqrt(3^2 - 4 * 1 * -54)] / (2 * 1)`\n   `w = [-3 ± sqrt(9 + 216)] / 2`\n   `w = [-3 ± sqrt(225)] / 2`\n   `w = [-3 ± 15] / 2`\n   Two solutions:\n   `w1 = (-3 + 15) / 2 = 12 / 2 = 6`\n   `w2 = (-3 - 15) / 2 = -18 / 2 = -9`\n\n8. Since 'w' represents a physical dimension (the width of the garden), it cannot be a negative value. Therefore, we discard `w = -9`.\n9. The width of the garden is `w = 6` metres.\n\nSo, the correct answer is 6 metres.",
+      "hint": "Begin by defining the width as a variable, then express the length in terms of that variable. Formulate an equation for the area and solve the resulting quadratic equation.",
+      "generatedAt": "2026-04-30T18:45:01.875389"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_002",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The product of two positive integers is 168. One of these integers is 2 greater than the other. Find the two integers. Show your working.",
+      "options": [],
+      "correctAnswer": "Let the first positive integer be x.\nThe second integer is 2 greater than the first, so it is x + 2.\nThe product of the two integers is 168, so we can write the equation:\nx(x + 2) = 168\n\nExpand the equation:\nx^2 + 2x = 168\n\nRearrange into the standard quadratic form (ax^2 + bx + c = 0):\nx^2 + 2x - 168 = 0\n\nTo solve this quadratic equation, we can use factorising. We need two numbers that multiply to -168 and add to 2. These numbers are 14 and -12.\n(x + 14)(x - 12) = 0\n\nSet each factor equal to zero to find the possible values for x:\nx + 14 = 0  =>  x = -14\nx - 12 = 0  =>  x = 12\n\nThe problem states that the integers are positive. Therefore, x = 12 is the valid solution.\n\nNow find the second integer:\nSecond integer = x + 2 = 12 + 2 = 14\n\nThe two positive integers are 12 and 14.\n\nCheck: 12 * 14 = 168. 14 is 2 greater than 12. The solution is correct.",
+      "explanation": "The problem describes a relationship between two unknown positive integers. By defining one integer as 'x', the other can be expressed as 'x+2'. Their product forms a quadratic equation. This equation can then be solved using factorising, the quadratic formula, or completing the square. The solutions to the quadratic equation give two possible values for 'x'. Since the problem specifies positive integers, only the positive solution for 'x' is valid. Once 'x' is found, the second integer can be calculated.",
+      "hint": "Start by defining one of the integers as a variable, say 'x'. Then express the other integer in terms of 'x'. Formulate an equation based on their product. This will lead to a quadratic equation. Remember to consider the condition that the integers are positive.",
+      "generatedAt": "2026-04-30T18:45:19.574309"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_003",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The sum of the squares of two consecutive positive odd integers is 130. Find the larger of these two integers. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "The larger integer is 9.\n\nWorking:\nLet the first positive odd integer be represented as 2n + 1, where n is a non-negative integer.\nThe next consecutive positive odd integer will be (2n + 1) + 2 = 2n + 3.\n\nThe problem states that the sum of their squares is 130:\n(2n + 1)^2 + (2n + 3)^2 = 130\n\nExpand the squared terms:\n(4n^2 + 4n + 1) + (4n^2 + 12n + 9) = 130\n\nCombine like terms on the left side:\n8n^2 + 16n + 10 = 130\n\nRearrange the equation into the standard quadratic form (ax^2 + bx + c = 0):\n8n^2 + 16n + 10 - 130 = 0\n8n^2 + 16n - 120 = 0\n\nDivide the entire equation by the common factor of 8 to simplify:\nn^2 + 2n - 15 = 0\n\nSolve the quadratic equation. This can be done by factorising, using the quadratic formula, or completing the square.\nUsing factorisation: We need two numbers that multiply to -15 and add to 2. These numbers are 5 and -3.\n(n + 5)(n - 3) = 0\n\nThis gives two possible values for n:\nn + 5 = 0  => n = -5\nn - 3 = 0  => n = 3\n\nThe original integers must be positive. If n = -5, the integers would be 2(-5) + 1 = -9 and 2(-5) + 3 = -7, which are not positive.\nTherefore, we must use n = 3.\n\nSubstitute n = 3 back into our expressions for the integers:\nFirst integer: 2(3) + 1 = 6 + 1 = 7\nSecond integer: 2(3) + 3 = 6 + 3 = 9\n\nCheck these values: 7^2 + 9^2 = 49 + 81 = 130. The values are correct.\n\nThe question asks for the larger of these two integers.\nThe integers are 7 and 9. The larger integer is 9.",
+      "explanation": "Step 1: Define the variables. Let the first positive odd integer be represented by '2n + 1'. This ensures the number is odd. Since it's positive, 'n' must be a non-negative integer. The next consecutive positive odd integer will then be '2n + 3'.\n\nStep 2: Formulate the quadratic equation. The sum of the squares of these two integers is 130, so we write the equation: (2n + 1)^2 + (2n + 3)^2 = 130.\n\nStep 3: Expand and simplify the equation. Expand the squared terms: (4n^2 + 4n + 1) + (4n^2 + 12n + 9) = 130. Combine like terms: 8n^2 + 16n + 10 = 130. Rearrange into the standard quadratic form by subtracting 130 from both sides: 8n^2 + 16n - 120 = 0. Divide by the common factor of 8 to simplify: n^2 + 2n - 15 = 0.\n\nStep 4: Solve the quadratic equation. The simplified equation n^2 + 2n - 15 = 0 can be solved by factorising. We look for two numbers that multiply to -15 and add to +2, which are +5 and -3. So, the equation factors to (n + 5)(n - 3) = 0. This gives two possible solutions for n: n = -5 or n = 3.\n\nStep 5: Select the correct value for n and find the integers. Since the problem specifies 'positive odd integers', we must use the value of n that results in positive integers. If n = -5, the integers would be negative (2(-5)+1 = -9). Therefore, we choose n = 3. Substitute n = 3 back into our original expressions for the integers: 2(3) + 1 = 7 and 2(3) + 3 = 9. These are indeed two consecutive positive odd integers.\n\nStep 6: Identify the larger integer. The two integers are 7 and 9. The larger of these two is 9.",
+      "hint": "Let the first positive odd integer be represented by an expression involving 'n' (e.g., 2n + 1). Express the next consecutive odd integer in terms of 'n'. Form an equation based on the sum of their squares and then solve the resulting quadratic equation for 'n'.",
+      "generatedAt": "2026-04-30T18:45:39.626199"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_004",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A delivery driver travels a distance of 150 km. If the driver's average speed had been 5 km/h faster, the journey would have taken 30 minutes less. Calculate the driver's original average speed in km/h. You must show all your working. Give your answer correct to one decimal place.",
+      "options": [
+        "A) 34.5 km/h",
+        "B) 36.3 km/h",
+        "C) 38.0 km/h",
+        "D) 40.5 km/h"
+      ],
+      "correctAnswer": "B) 36.3 km/h",
+      "explanation": "Let the original average speed of the driver be x km/h.\n\n1.  **Formulate expressions for time:**\n    Original time taken = Distance / Original Speed = 150/x hours.\n    New speed = (x + 5) km/h.\n    New time taken = Distance / New Speed = 150/(x + 5) hours.\n\n2.  **Convert time difference:**\n    30 minutes is equal to 0.5 hours.\n\n3.  **Set up the equation based on the time difference:**\n    Original time - New time = Time difference\n    150/x - 150/(x + 5) = 0.5\n\n4.  **Clear the denominators and the decimal:**\n    Multiply the entire equation by 2x(x + 5) to eliminate fractions and the 0.5:\n    2x(x + 5) * [150/x - 150/(x + 5)] = 2x(x + 5) * 0.5\n    300(x + 5) - 300x = x(x + 5)\n\n5.  **Expand and simplify to form a quadratic equation:**\n    300x + 1500 - 300x = x^2 + 5x\n    1500 = x^2 + 5x\n    Rearrange into the standard quadratic form (ax^2 + bx + c = 0):\n    x^2 + 5x - 1500 = 0\n\n6.  **Solve the quadratic equation using the quadratic formula:**\n    For ax^2 + bx + c = 0, x = [-b ± sqrt(b^2 - 4ac)] / 2a\n    Here, a = 1, b = 5, c = -1500.\n    x = [-5 ± sqrt(5^2 - 4 * 1 * -1500)] / (2 * 1)\n    x = [-5 ± sqrt(25 + 6000)] / 2\n    x = [-5 ± sqrt(6025)] / 2\n\n7.  **Calculate the value of sqrt(6025):**\n    sqrt(6025) ≈ 77.62084...\n\n8.  **Find the two possible values for x:**\n    x1 = (-5 + 77.62084) / 2 = 72.62084 / 2 ≈ 36.3104 km/h\n    x2 = (-5 - 77.62084) / 2 = -82.62084 / 2 ≈ -41.3104 km/h\n\n9.  **Interpret the solution:**\n    Since speed cannot be a negative value, we discard x2.\n    Therefore, the original average speed is x ≈ 36.3104 km/h.\n\n10. **Round to one decimal place:**\n    The original average speed is 36.3 km/h.",
+      "hint": "Define the original speed as 'x' and use the relationship 'time = distance / speed' to form an equation for the given time difference. Rearrange this into the standard quadratic form (ax^2 + bx + c = 0) and then choose the appropriate method to solve for x.",
+      "generatedAt": "2026-04-30T18:45:58.462137"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_005",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The side length of a square card is `x` cm. A new rectangular card is formed from this square. One side of the square is increased by 4 cm, and the adjacent side is decreased by 1 cm. The area of the new rectangular card is 44 cm². Calculate the original side length, `x`, of the square card. Give your answer correct to 3 significant figures. Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the original side length of the square be `x` cm.\n\nWhen one side is increased by 4 cm, its new length is `(x + 4)` cm.\nWhen the adjacent side is decreased by 1 cm, its new length is `(x - 1)` cm.\n\nThe new card is a rectangle with these dimensions. Its area is given as 44 cm².\nSo, we can set up the equation:\n`(x + 4)(x - 1) = 44`\n\nExpand the brackets:\n`x^2 - x + 4x - 4 = 44`\n`x^2 + 3x - 4 = 44`\n\nRearrange the equation into the standard quadratic form `ax^2 + bx + c = 0`:\n`x^2 + 3x - 4 - 44 = 0`\n`x^2 + 3x - 48 = 0`\n\nThis quadratic equation does not factorise easily, so we use the quadratic formula:\n`x = [-b ± sqrt(b^2 - 4ac)] / 2a`\n\nFrom our equation, `a = 1`, `b = 3`, `c = -48`.\n\nSubstitute these values into the formula:\n`x = [-3 ± sqrt(3^2 - 4 * 1 * -48)] / (2 * 1)`\n`x = [-3 ± sqrt(9 + 192)] / 2`\n`x = [-3 ± sqrt(201)] / 2`\n\nCalculate the square root of 201:\n`sqrt(201) ≈ 14.17744688`\n\nNow find the two possible values for `x`:\n`x1 = (-3 + 14.17744688) / 2`\n`x1 = 11.17744688 / 2`\n`x1 ≈ 5.58872344`\n\n`x2 = (-3 - 14.17744688) / 2`\n`x2 = -17.17744688 / 2`\n`x2 ≈ -8.58872344`\n\nSince `x` represents a physical length, it must be positive. Additionally, the side length `(x-1)` must also be positive, meaning `x > 1`. Therefore, `x ≈ 5.58872344` is the only valid solution.\n\nRound the answer to 3 significant figures:\n`x = 5.59` cm (3 s.f.)",
+      "explanation": "The problem requires two main steps: first, forming a quadratic equation from the given geometric information about the card's dimensions and area; second, solving that quadratic equation. The dimensions of the new rectangle are derived from the original square's side length `x`. These are `(x+4)` and `(x-1)`. The product of these dimensions equals the given area, 44 cm², leading to the equation `(x+4)(x-1) = 44`. Expanding and rearranging this results in the standard quadratic form `x^2 + 3x - 48 = 0`. Since the discriminant `b^2 - 4ac = 3^2 - 4(1)(-48) = 9 + 192 = 201` is not a perfect square, the equation does not factorise easily. Therefore, the quadratic formula `x = [-b ± sqrt(b^2 - 4ac)] / 2a` is the most appropriate method for solving. Substituting the values `a=1`, `b=3`, `c=-48` yields `x = [-3 ± sqrt(201)] / 2`. Calculating the two possible values and discarding the negative one (as length must be positive, and `x-1` must also be positive) gives `x ≈ 5.5887`. Finally, rounding this to 3 significant figures provides the answer `5.59` cm.",
+      "hint": "First, form an algebraic expression for the dimensions of the new rectangular card based on the original side length `x`. Then, use the given area to set up a quadratic equation. Rearrange this equation into the standard form `ax^2 + bx + c = 0`. If factorising is not straightforward, consider using the quadratic formula.",
+      "generatedAt": "2026-04-30T18:46:16.899968"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_006",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A class of students is organising a charity event. They want to raise a total of £360. Each student in the class is asked to contribute an equal amount of money. If there were 3 fewer students in the class, each remaining student would have to contribute an additional £4 to still reach the target of £360. How many students are in the class? Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the original number of students be 'x'.\nLet the original contribution per student be 'y' pounds.\n\nFrom the first statement, the total raised is £360, so:\nx * y = 360  (Equation 1)\nThis implies y = 360/x.\n\nFrom the second statement, if there were 3 fewer students, the number of students would be (x - 3). Each remaining student would contribute an additional £4, so their contribution would be (y + 4) pounds. The total raised is still £360:\n(x - 3)(y + 4) = 360  (Equation 2)\n\nSubstitute the expression for 'y' from Equation 1 into Equation 2:\n(x - 3)(360/x + 4) = 360\n\nExpand the brackets:\nx * (360/x) + x * 4 - 3 * (360/x) - 3 * 4 = 360\n360 + 4x - 1080/x - 12 = 360\n\nSimplify the equation:\n4x - 1080/x - 12 = 0\n\nTo eliminate the fraction, multiply every term in the equation by 'x':\n4x^2 - 1080 - 12x = 0\n\nRearrange into the standard quadratic form (ax^2 + bx + c = 0):\n4x^2 - 12x - 1080 = 0\n\nDivide the entire equation by 4 to simplify it:\nx^2 - 3x - 270 = 0\n\nNow, solve the quadratic equation. This can be done by factorising, using the quadratic formula, or completing the square.\n\nUsing factorisation:\nWe need two numbers that multiply to -270 and add to -3.\nThese numbers are -18 and 15 (since -18 * 15 = -270 and -18 + 15 = -3).\nSo, the equation factorises to:\n(x - 18)(x + 15) = 0\n\nThis gives two possible solutions for x:\nx - 18 = 0  => x = 18\nx + 15 = 0  => x = -15\n\nSince 'x' represents the number of students, it must be a positive integer. Therefore, x = 18.\n\nFinal Answer: There are 18 students in the class.",
+      "explanation": "To solve this problem, first define variables for the original number of students and the original contribution per student. Set up two equations based on the given information: one for the initial situation (total amount = number of students × contribution per student) and another for the modified situation (fewer students, increased contribution, same total amount). Substitute one variable from the first equation into the second to eliminate it and form a single quadratic equation. Simplify the quadratic equation and then solve it using factorisation, the quadratic formula, or completing the square. Finally, select the valid positive solution, as the number of students cannot be negative.",
+      "hint": "Begin by defining a variable for the original number of students and another for the original contribution per student. Then, set up two algebraic equations based on the given information about the total amount raised.",
+      "generatedAt": "2026-04-30T18:46:37.892838"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_007",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The height, h metres, of a ball thrown vertically upwards is modelled by the equation h = 20t - 5t^2, where t is the time in seconds after the ball is thrown.\nCalculate the time, t, when the ball is at a height of 12 metres.\nGive your answers correct to two decimal places.\nShow your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the time when the ball is at a height of 12 metres, substitute h = 12 into the equation:\n\n12 = 20t - 5t^2\n\nRearrange the equation into the standard quadratic form ax^2 + bx + c = 0:\n5t^2 - 20t + 12 = 0\n\nNow, identify the coefficients:\na = 5\nb = -20\nc = 12\n\nUse the quadratic formula, t = [-b ± √(b^2 - 4ac)] / 2a:\nt = [ -(-20) ± √((-20)^2 - 4 * 5 * 12) ] / (2 * 5)\nt = [ 20 ± √(400 - 240) ] / 10\nt = [ 20 ± √(160) ] / 10\n\nCalculate the two possible values for t:\n\nt1 = (20 + √160) / 10\nt1 = (20 + 12.64911...) / 10\nt1 = 32.64911... / 10\nt1 = 3.264911...\n\nt2 = (20 - √160) / 10\nt2 = (20 - 12.64911...) / 10\nt2 = 7.35088... / 10\nt2 = 0.735088...\n\nRounding to two decimal places:\nt1 = 3.26 seconds\nt2 = 0.74 seconds\n\nTherefore, the ball is at a height of 12 metres at approximately 0.74 seconds and 3.26 seconds.",
+      "explanation": "The problem requires solving a quadratic equation derived from the given height model. First, substitute the given height (h = 12) into the equation and rearrange it into the standard form ax^2 + bx + c = 0. This results in 5t^2 - 20t + 12 = 0. Since this quadratic equation does not easily factorise with integer values, the most reliable method for finding the values of t is the quadratic formula (t = [-b ± √(b^2 - 4ac)] / 2a). Applying the formula with a=5, b=-20, and c=12 yields two solutions, which represent the two distinct times the ball is at the specified height (once on its way up and once on its way down). Finally, these solutions are rounded to the required two decimal places.",
+      "hint": "Start by substituting the given height into the equation and rearrange it into the standard quadratic form `ax^2 + bx + c = 0`. Then, consider using the quadratic formula, as factorising may not be straightforward for the resulting equation.",
+      "generatedAt": "2026-04-30T18:47:00.639101"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_008",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A rectangular lawn has a width of x metres and a length that is x + 3 metres. A path of uniform width 1 metre is built around the entire perimeter of the lawn. The total area of the lawn and the path combined is 54 square metres.\n\nCalculate the width of the lawn, x. Give your answer to one decimal place if necessary.\nShow all your working.",
+      "options": [],
+      "correctAnswer": "Let the width of the lawn be x metres.\nThen the length of the lawn is (x + 3) metres.\n\nThe path has a uniform width of 1 metre built around the entire perimeter.\nThis means the total width (lawn + path) will be x + 1 metre (on one side) + 1 metre (on the other side) = (x + 2) metres.\nThe total length (lawn + path) will be (x + 3) + 1 metre (on one end) + 1 metre (on the other end) = (x + 5) metres.\n\nThe total area of the lawn and path combined is the product of the total width and total length.\nTotal Area = (Total Width) × (Total Length)\nTotal Area = (x + 2)(x + 5)\n\nWe are given that the total area is 54 square metres.\nSo, (x + 2)(x + 5) = 54\n\nExpand the brackets on the left side:\nx * x + x * 5 + 2 * x + 2 * 5 = 54\nx^2 + 5x + 2x + 10 = 54\nx^2 + 7x + 10 = 54\n\nRearrange the equation into the standard quadratic form ax^2 + bx + c = 0:\nx^2 + 7x + 10 - 54 = 0\nx^2 + 7x - 44 = 0\n\nNow, solve the quadratic equation. We can attempt to factorise it, use the quadratic formula, or complete the square.\n\nUsing factorising:\nWe need two numbers that multiply to -44 and add to 7.\nThe numbers are 11 and -4 (since 11 × -4 = -44 and 11 + (-4) = 7).\nSo, the equation can be factorised as:\n(x + 11)(x - 4) = 0\n\nThis gives two possible solutions for x:\n1) x + 11 = 0  =>  x = -11\n2) x - 4 = 0   =>  x = 4\n\nSince x represents a physical width, it must be a positive value. A width cannot be negative.\nTherefore, x = 4.\n\nThe width of the lawn is 4 metres.\nTo one decimal place, the width of the lawn is 4.0 metres.",
+      "explanation": "The problem requires setting up a quadratic equation from a given scenario involving the area of a rectangle with a border. First, define the dimensions of the larger rectangle (the lawn plus the path) in terms of x. Remember that a uniform path around a shape adds twice its width to both the original width and length. Then, form an equation for the total area using these new dimensions and the given total area. Expand the brackets and rearrange the equation into the standard quadratic form (ax^2 + bx + c = 0). Finally, solve the quadratic equation using an appropriate method (factorising, the quadratic formula, or completing the square) and choose the positive solution as physical dimensions cannot be negative.",
+      "hint": "Start by determining the overall dimensions (length and width) of the lawn *including* the path in terms of x. Remember that a path of uniform width adds to both sides of a dimension. Then, use the total area to form your quadratic equation. Remember to discard any solutions that are not physically possible for a length.",
+      "generatedAt": "2026-04-30T18:47:21.326952"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_009",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Sarah is 3 years older than Tom. The product of their current ages is 130. Calculate Tom's age. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Let Tom's age be 'x' years.\nThen Sarah's age is 'x + 3' years.\n\nThe problem states that the product of their ages is 130, so we can set up the equation:\nx(x + 3) = 130\n\nExpand the equation:\nx^2 + 3x = 130\n\nRearrange into the standard quadratic form ax^2 + bx + c = 0:\nx^2 + 3x - 130 = 0\n\nMethod 1: Using the quadratic formula\nFor a quadratic equation ax^2 + bx + c = 0, the solutions are given by x = [-b ± sqrt(b^2 - 4ac)] / 2a.\nHere, a = 1, b = 3, c = -130.\nSubstitute these values into the formula:\nx = [-3 ± sqrt(3^2 - 4 * 1 * -130)] / (2 * 1)\nx = [-3 ± sqrt(9 + 520)] / 2\nx = [-3 ± sqrt(529)] / 2\nx = [-3 ± 23] / 2\n\nTwo possible solutions for x:\nx1 = (-3 + 23) / 2 = 20 / 2 = 10\nx2 = (-3 - 23) / 2 = -26 / 2 = -13\n\nSince age cannot be a negative value, we discard x = -13.\n\nMethod 2: Factorising\nWe need to find two numbers that multiply to -130 and add to 3. These numbers are 13 and -10.\nSo, the equation x^2 + 3x - 130 = 0 can be factorised as:\n(x + 13)(x - 10) = 0\n\nThis gives two possible solutions for x:\nx + 13 = 0  => x = -13\nx - 10 = 0  => x = 10\n\nAgain, since age cannot be negative, we discard x = -13.\n\nTherefore, Tom's age is 10 years.",
+      "explanation": "1. **Define variables:** Let Tom's current age be represented by 'x' years. Since Sarah is 3 years older than Tom, Sarah's age can be represented as 'x + 3' years.\n2. **Formulate the equation:** The problem states that the product of their ages is 130. So, we multiply their ages together and set it equal to 130:\n   x * (x + 3) = 130\n3. **Expand and rearrange:** Expand the left side of the equation and then move all terms to one side to form a standard quadratic equation (ax^2 + bx + c = 0):\n   x^2 + 3x = 130\n   x^2 + 3x - 130 = 0\n4. **Solve the quadratic equation:** You can solve this quadratic equation using factorising, the quadratic formula, or completing the square. \n   *Using the quadratic formula (x = [-b ± sqrt(b^2 - 4ac)] / 2a) with a=1, b=3, c=-130:* \n     x = [-3 ± sqrt(3^2 - 4 * 1 * -130)] / (2 * 1)\n     x = [-3 ± sqrt(9 + 520)] / 2\n     x = [-3 ± sqrt(529)] / 2\n     x = [-3 ± 23] / 2\n   This gives two possible solutions: x = ( -3 + 23 ) / 2 = 20 / 2 = 10, and x = ( -3 - 23 ) / 2 = -26 / 2 = -13.\n5. **Interpret the solution:** Since age cannot be a negative value, we discard the solution x = -13. Therefore, Tom's age is 10 years.",
+      "hint": "Start by defining a variable for Tom's age. Then, express Sarah's age in terms of that variable. Formulate a quadratic equation based on the product of their ages and solve it. Remember to consider if both solutions are valid in the context of the problem.",
+      "generatedAt": "2026-04-30T18:47:39.196319"
+    },
+    {
+      "id": "m-y10-quadratics_intermediate_010",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "The sum of the square of an integer and 5 times the integer is equal to 104. Find the possible values of this integer. Show all your working.",
+      "options": [],
+      "correctAnswer": "Let the integer be `x`.\n\nFrom the problem description, we can form the equation:\nThe square of the integer: `x^2`\n5 times the integer: `5x`\nThe sum is 104: `x^2 + 5x = 104`\n\nRearrange the equation into the standard quadratic form `ax^2 + bx + c = 0`:\n`x^2 + 5x - 104 = 0`\n\nNow we can solve this quadratic equation. We can choose to factorise, use the quadratic formula, or complete the square.\n\n**Method 1: Factorising**\nWe need two numbers that multiply to -104 and add to 5.\nThe factors of 104 are (1, 104), (2, 52), (4, 26), (8, 13).\nThe pair 13 and -8 satisfy these conditions (13 * -8 = -104 and 13 + (-8) = 5).\nSo, we can factorise the equation as:\n`(x + 13)(x - 8) = 0`\n\nFor the product of two factors to be zero, at least one of the factors must be zero:\n`x + 13 = 0`  =>  `x = -13`\nor\n`x - 8 = 0`   =>  `x = 8`\n\n**Method 2: Using the Quadratic Formula**\nThe quadratic formula is `x = [-b ± sqrt(b^2 - 4ac)] / 2a`\nFor `x^2 + 5x - 104 = 0`, we have `a = 1`, `b = 5`, `c = -104`.\n\nSubstitute these values into the formula:\n`x = [-5 ± sqrt(5^2 - 4 * 1 * -104)] / (2 * 1)`\n`x = [-5 ± sqrt(25 + 416)] / 2`\n`x = [-5 ± sqrt(441)] / 2`\n`x = [-5 ± 21] / 2`\n\nTwo possible solutions:\n`x1 = (-5 + 21) / 2 = 16 / 2 = 8`\n`x2 = (-5 - 21) / 2 = -26 / 2 = -13`\n\n**Method 3: Completing the Square**\nStart with `x^2 + 5x = 104`\nTo complete the square for `x^2 + bx`, we add `(b/2)^2` to both sides.\nHere, `b = 5`, so `(b/2)^2 = (5/2)^2 = 2.5^2 = 6.25`.\n\n`x^2 + 5x + 6.25 = 104 + 6.25`\n`(x + 2.5)^2 = 110.25`\n\nTake the square root of both sides:\n`x + 2.5 = ±sqrt(110.25)`\n`x + 2.5 = ±10.5`\n\nTwo possible solutions:\n`x1 = -2.5 + 10.5 = 8`\n`x2 = -2.5 - 10.5 = -13`\n\nThe possible values of the integer are 8 and -13.",
+      "explanation": "The problem requires setting up a quadratic equation from a word problem and then solving it. First, define a variable for the unknown integer. Translate the phrases \"the square of an integer\" (x^2) and \"5 times the integer\" (5x) into algebraic terms. Form the initial equation by summing these terms and equating to 104: x^2 + 5x = 104. Next, rearrange this into the standard quadratic form, ax^2 + bx + c = 0, which gives x^2 + 5x - 104 = 0. Finally, solve this quadratic equation using any suitable method (factorising, quadratic formula, or completing the square). All methods will yield the solutions x = 8 and x = -13.",
+      "hint": "Start by letting the integer be 'x' and form an algebraic equation based on the given information. Then, decide which method is most suitable to solve the resulting quadratic equation.",
+      "generatedAt": "2026-04-30T18:47:55.834805"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y10-quadratics_advanced_001",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A rectangular patio has a length of 'x' metres and a width of '(x-5)' metres. The owner decides to extend the patio by adding 3 metres to both its length and its width. The area of the extended patio is 84 square metres.\n\nShow your working for this question.\n\nWhat are the original length and width of the patio?",
+      "options": [
+        "A) Length = 9 metres, Width = 4 metres",
+        "B) Length = 12 metres, Width = 7 metres",
+        "C) Length = 10 metres, Width = 5 metres",
+        "D) Length = 11 metres, Width = 6 metres"
+      ],
+      "correctAnswer": "A) Length = 9 metres, Width = 4 metres",
+      "explanation": "1.  **Determine the new dimensions:**\n    Original length = x metres\n    Original width = (x-5) metres\n\n    New length = (x + 3) metres\n    New width = (x - 5 + 3) = (x - 2) metres\n\n2.  **Formulate the equation for the area:**\n    The area of the extended patio is given as 84 square metres. The area of a rectangle is length × width.\n    (x + 3)(x - 2) = 84\n\n3.  **Expand and rearrange into standard quadratic form (ax² + bx + c = 0):**\n    x² - 2x + 3x - 6 = 84\n    x² + x - 6 = 84\n    x² + x - 6 - 84 = 0\n    x² + x - 90 = 0\n\n4.  **Solve the quadratic equation x² + x - 90 = 0:**\n    This quadratic equation can be solved by factorising, using the quadratic formula, or completing the square.\n\n    *   **By Factorising:** We look for two numbers that multiply to -90 and add up to +1. These numbers are +10 and -9.\n        (x + 10)(x - 9) = 0\n        This gives two possible solutions for x: x + 10 = 0  => x = -10  OR  x - 9 = 0  => x = 9.\n\n    *   **By Quadratic Formula:** For a quadratic ax² + bx + c = 0, x = [-b ± √(b² - 4ac)] / 2a. Here, a=1, b=1, c=-90.\n        x = [-1 ± √(1² - 4 × 1 × -90)] / (2 × 1)\n        x = [-1 ± √(1 + 360)] / 2\n        x = [-1 ± √361] / 2\n        x = [-1 ± 19] / 2\n        So, x = (-1 + 19) / 2 = 18 / 2 = 9  OR  x = (-1 - 19) / 2 = -20 / 2 = -10.\n\n    *   **By Completing the Square:**\n        x² + x - 90 = 0\n        x² + x = 90\n        (x + 1/2)² - (1/2)² = 90\n        (x + 1/2)² - 1/4 = 90\n        (x + 1/2)² = 90 + 1/4\n        (x + 1/2)² = 360/4 + 1/4\n        (x + 1/2)² = 361/4\n        x + 1/2 = ±√(361/4)\n        x + 1/2 = ±19/2\n        x = -1/2 ± 19/2\n        So, x = (-1 + 19) / 2 = 9  OR  x = (-1 - 19) / 2 = -10.\n\n5.  **Interpret the valid solution:**\n    Since 'x' represents a physical length, it cannot be negative. Therefore, we discard x = -10 and accept x = 9.\n\n6.  **Calculate the original dimensions of the patio:**\n    Original length = x = 9 metres\n    Original width = x - 5 = 9 - 5 = 4 metres\n\n    To verify, the new dimensions would be (9+3)=12m and (4+3)=7m. The new area is 12m × 7m = 84m², which matches the problem statement.\n\nThe correct original dimensions are Length = 9 metres and Width = 4 metres.",
+      "hint": "First, express the new length and new width in terms of 'x'. Then, form an equation for the area of the extended patio using these new dimensions. Rearrange this equation into the standard quadratic form ax² + bx + c = 0 before solving for 'x'.",
+      "generatedAt": "2026-04-30T18:48:24.237139"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_002",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A sequence of numbers is generated by the rule `u_n = n^2 + An + B`, where `n` is a positive integer representing the term number, and `A` and `B` are constants.\n\nThe third term of the sequence, `u_3`, is 18.\nThe sum of the first two terms, `u_1 + u_2`, is 13.\n\na) Find the values of `A` and `B`. Show your working. (2 marks)\nb) Another sequence is defined by `v_n = n^2 + (A+1)n + (B-3)`. Find all possible values of `n` for which `v_n = 0`, giving your answers correct to 2 decimal places where necessary. Show all your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) For `u_n = n^2 + An + B`:\n\n`u_3 = 3^2 + A(3) + B = 9 + 3A + B`\nGiven `u_3 = 18`:\n`9 + 3A + B = 18`\n`3A + B = 9` (Equation 1)\n\n`u_1 = 1^2 + A(1) + B = 1 + A + B`\n`u_2 = 2^2 + A(2) + B = 4 + 2A + B`\n\n`u_1 + u_2 = (1 + A + B) + (4 + 2A + B) = 5 + 3A + 2B`\nGiven `u_1 + u_2 = 13`:\n`5 + 3A + 2B = 13`\n`3A + 2B = 8` (Equation 2)\n\nSubtract Equation 1 from Equation 2:\n`(3A + 2B) - (3A + B) = 8 - 9`\n`B = -1`\n\nSubstitute `B = -1` into Equation 1:\n`3A + (-1) = 9`\n`3A - 1 = 9`\n`3A = 10`\n`A = 10/3`\n\nSo, `A = 10/3` and `B = -1`.\n\nb) The second sequence is `v_n = n^2 + (A+1)n + (B-3)`.\nSubstitute the values of `A` and `B` found in part (a):\n`A+1 = 10/3 + 1 = 10/3 + 3/3 = 13/3`\n`B-3 = -1 - 3 = -4`\n\nSo, the equation `v_n = 0` becomes:\n`n^2 + (13/3)n - 4 = 0`\n\nTo eliminate the fraction, multiply the entire equation by 3:\n`3n^2 + 13n - 12 = 0`\n\nThis is a quadratic equation of the form `ax^2 + bx + c = 0`, where `a=3`, `b=13`, and `c=-12`.\nWe can use the quadratic formula `n = [-b ± sqrt(b^2 - 4ac)] / (2a)`:\n\n`n = [-13 ± sqrt(13^2 - 4(3)(-12))] / (2 * 3)`\n`n = [-13 ± sqrt(169 + 144)] / 6`\n`n = [-13 ± sqrt(313)] / 6`\n\nNow, calculate the two possible values for `n`:\n`sqrt(313) ≈ 17.691800...`\n\n`n_1 = (-13 + 17.691800) / 6 = 4.691800 / 6 ≈ 0.781966...`\n`n_1 ≈ 0.78` (to 2 decimal places)\n\n`n_2 = (-13 - 17.691800) / 6 = -30.691800 / 6 ≈ -5.115300...`\n`n_2 ≈ -5.12` (to 2 decimal places)\n\nTherefore, the possible values of `n` are `0.78` and `-5.12` (both to 2 decimal places).",
+      "explanation": "Part (a) requires setting up and solving a system of two linear simultaneous equations for A and B. By substituting the given conditions (`u_3 = 18` and `u_1 + u_2 = 13`) into the sequence rule `u_n = n^2 + An + B`, two equations (`3A + B = 9` and `3A + 2B = 8`) are formed. Solving these equations yields `A = 10/3` and `B = -1`.\n\nPart (b) requires constructing a new quadratic equation using the values of A and B found in part (a). The new sequence `v_n = n^2 + (A+1)n + (B-3)` simplifies to `n^2 + (13/3)n - 4 = 0` when `A = 10/3` and `B = -1` are substituted. Multiplying by 3 gives `3n^2 + 13n - 12 = 0`. Since the question asks for answers correct to 2 decimal places, this indicates that the quadratic will not factorise easily, and the quadratic formula or completing the square should be used. Applying the quadratic formula `n = [-b ± sqrt(b^2 - 4ac)] / (2a)` with `a=3`, `b=13`, `c=-12` leads to `n = [-13 ± sqrt(313)] / 6`. Calculating these values and rounding to two decimal places gives `n ≈ 0.78` and `n ≈ -5.12`.",
+      "hint": "For part (a), substitute the values of `n` into the `u_n` rule to form two simultaneous equations in `A` and `B`. For part (b), substitute the values of `A` and `B` you found into the `v_n` rule, then solve the resulting quadratic equation using the quadratic formula or by completing the square.",
+      "generatedAt": "2026-04-30T18:48:47.984867"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_003",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "The height `h` metres of a stone thrown from the top of a cliff is modelled by the equation `h = -2t^2 + At + B`, where `t` is the time in seconds after it is thrown. The stone is thrown at `t=0` from a height of 30 metres. The maximum height the stone reaches is 39.2 metres. Find the values of `A` and `B`. Calculate the time, to two decimal places, when the stone reaches its maximum height. Finally, calculate the total time, to two decimal places, from being thrown until the stone hits the ground. Show all your working.",
+      "options": [],
+      "correctAnswer": "## Model Answer\n\n**Part a) Find the values of A and B.**\n\n1.  **Find B:**\n    The stone is thrown at `t=0` from a height of 30 metres. Substitute `t=0` and `h=30` into the equation `h = -2t^2 + At + B`:\n    `30 = -2(0)^2 + A(0) + B`\n    `30 = 0 + 0 + B`\n    `B = 30`\n\n2.  **Find A:**\n    Now the equation is `h = -2t^2 + At + 30`. To find the maximum height, we can complete the square or use the vertex formula. Let's use completing the square:\n    `h = -2(t^2 - (A/2)t) + 30`\n    To complete the square for `t^2 - (A/2)t`, we add and subtract `( (A/2) / 2 )^2 = (A/4)^2`:\n    `h = -2[ (t - A/4)^2 - (A/4)^2 ] + 30`\n    `h = -2(t - A/4)^2 + 2(A/4)^2 + 30`\n    The maximum height is the constant term when the squared term is zero, which is `2(A/4)^2 + 30`. We are given that the maximum height is 39.2 metres.\n    So, `39.2 = 2(A/4)^2 + 30`\n    `9.2 = 2(A^2/16)`\n    `9.2 = A^2/8`\n    `A^2 = 9.2 * 8`\n    `A^2 = 73.6`\n    Since `A` represents an initial upward velocity, it must be positive:\n    `A = sqrt(73.6)`\n\n    **Therefore, A = sqrt(73.6) and B = 30.**\n\n**Part b) Calculate the time, to two decimal places, when the stone reaches its maximum height.**\n\nFrom the completed square form, the time at which the maximum height occurs is `t = A/4`.\n`t_max = sqrt(73.6) / 4`\n`t_max approx 8.579044 / 4`\n`t_max approx 2.144761` seconds.\nRounded to two decimal places, `t_max = 2.14` seconds.\n\n**Part c) Calculate the total time, to two decimal places, from being thrown until the stone hits the ground.**\n\nThe stone hits the ground when its height `h` is 0.\nSo we need to solve the quadratic equation: `-2t^2 + sqrt(73.6)t + 30 = 0`\nTo make calculations with the quadratic formula easier, multiply by -1:\n`2t^2 - sqrt(73.6)t - 30 = 0`\nThis is in the form `at^2 + bt + c = 0`, where `a=2`, `b=-sqrt(73.6)`, and `c=-30`.\nUsing the quadratic formula `t = (-b ± sqrt(b^2 - 4ac)) / 2a`:\n`t = ( -(-sqrt(73.6)) ± sqrt( (-sqrt(73.6))^2 - 4 * 2 * (-30) ) ) / (2 * 2)`\n`t = ( sqrt(73.6) ± sqrt( 73.6 + 240 ) ) / 4`\n`t = ( sqrt(73.6) ± sqrt( 313.6 ) ) / 4`\n\nNow, calculate the numerical values:\n`sqrt(73.6) approx 8.579044`\n`sqrt(313.6) approx 17.708755`\n\nTwo possible values for `t`:\n`t1 = (8.579044 + 17.708755) / 4 = 26.287799 / 4 approx 6.571949`\n`t2 = (8.579044 - 17.708755) / 4 = -9.129711 / 4 approx -2.282428`\n\nSince time cannot be negative in this physical context, we take the positive solution.\n`t approx 6.57` seconds (to two decimal places).\n\n**Final Answer Summary:**\n*   `A = sqrt(73.6)`, `B = 30`\n*   Time to reach maximum height: `2.14` seconds\n*   Total time until hitting the ground: `6.57` seconds",
+      "explanation": "This question requires multiple steps involving different aspects of quadratic equations. First, initial conditions are used to find the constant term B. Second, the concept of a quadratic's vertex (maximum point) is used to find the coefficient A, either by completing the square or using the vertex formula t = -b/(2a) for the time of maximum height, combined with the given maximum height value. Finally, the quadratic formula is applied to solve for the time when the height is zero (ground level), and the physical context is used to select the valid positive time.",
+      "hint": "To find A and the time of maximum height, consider completing the square for the expression `-2t^2 + At`, or use the vertex formula `t = -b/(2a)` to relate A to the maximum height. For the total time until the stone hits the ground, you will need to solve the quadratic equation `h=0` using the quadratic formula.",
+      "generatedAt": "2026-04-30T18:49:31.871744"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_004",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A quadratic function is defined as `f(x) = x^2 + (4p-1)x + (p^2 + 2)`, where `p` is a constant.\n\na) The discriminant of `f(x)` is equal to 13. Show that `3p^2 - 2p - 5 = 0`. (Working required)\n\nb) Using the quadratic formula, find the exact values of `p`. (Working required)\n\nc) For the positive value of `p` found in part (b), express `f(x)` in the form `(x+a)^2 + b` by completing the square. State the exact coordinates of the turning point of `f(x)`. (Working required)",
+      "options": [],
+      "correctAnswer": "a) For the quadratic `Ax^2 + Bx + C = 0`, the discriminant is `Δ = B^2 - 4AC`.\nComparing `f(x) = x^2 + (4p-1)x + (p^2 + 2)` with `Ax^2 + Bx + C = 0`, we have:\n`A = 1`\n`B = (4p-1)`\n`C = (p^2 + 2)`\nGiven that the discriminant is 13:\n`Δ = (4p-1)^2 - 4(1)(p^2 + 2) = 13`\nExpand the terms:\n`(16p^2 - 8p + 1) - (4p^2 + 8) = 13`\n`16p^2 - 8p + 1 - 4p^2 - 8 = 13`\nCombine like terms:\n`12p^2 - 8p - 7 = 13`\nSubtract 13 from both sides:\n`12p^2 - 8p - 7 - 13 = 0`\n`12p^2 - 8p - 20 = 0`\nDivide all terms by 4 to simplify:\n`3p^2 - 2p - 5 = 0` (as required)\n\nb) To find the exact values of `p` for `3p^2 - 2p - 5 = 0`, we use the quadratic formula `p = [-b ± √(b^2 - 4ac)] / 2a`.\nHere, `a=3`, `b=-2`, `c=-5`.\nSubstitute these values into the formula:\n`p = [-(-2) ± √((-2)^2 - 4(3)(-5))] / (2*3)`\n`p = [2 ± √(4 + 60)] / 6`\n`p = [2 ± √64] / 6`\n`p = [2 ± 8] / 6`\nTwo possible values for `p`:\n`p1 = (2 + 8) / 6 = 10 / 6 = 5/3`\n`p2 = (2 - 8) / 6 = -6 / 6 = -1`\nThe exact values of `p` are `5/3` and `-1`.\n\nc) For the positive value of `p`, we use `p = 5/3`.\nSubstitute `p = 5/3` into the original quadratic function `f(x) = x^2 + (4p-1)x + (p^2 + 2)`:\nFirst, calculate the coefficients involving `p`:\n`4p - 1 = 4(5/3) - 1 = 20/3 - 3/3 = 17/3`\n`p^2 + 2 = (5/3)^2 + 2 = 25/9 + 18/9 = 43/9`\nSo, the function becomes `f(x) = x^2 + (17/3)x + (43/9)`.\nTo express `f(x)` in the form `(x+a)^2 + b`, we complete the square:\n`f(x) = (x + (17/3)/2)^2 - ((17/3)/2)^2 + 43/9`\n`f(x) = (x + 17/6)^2 - (17/6)^2 + 43/9`\n`f(x) = (x + 17/6)^2 - 289/36 + 43/9`\nTo combine the constant terms, find a common denominator, which is 36:\n`f(x) = (x + 17/6)^2 - 289/36 + (43*4)/(9*4)`\n`f(x) = (x + 17/6)^2 - 289/36 + 172/36`\n`f(x) = (x + 17/6)^2 - (289 - 172)/36`\n`f(x) = (x + 17/6)^2 - 117/36`\nSimplify the fraction `117/36` by dividing both the numerator and denominator by their greatest common divisor, which is 9:\n`117 ÷ 9 = 13`\n`36 ÷ 9 = 4`\nSo, `f(x) = (x + 17/6)^2 - 13/4`\nThus, `a = 17/6` and `b = -13/4`.\nThe turning point of a quadratic in the form `(x+a)^2 + b` is `(-a, b)`.\nThe exact coordinates of the turning point are `(-17/6, -13/4)`.",
+      "explanation": "This question assesses your ability to work with quadratic equations in various forms and contexts. Part (a) requires knowledge of the discriminant formula (`B^2 - 4AC`) and careful algebraic manipulation to derive a new quadratic equation in terms of 'p' from the given condition. Part (b) tests your proficiency in applying the quadratic formula to solve for the exact values of 'p', ensuring you handle fractions correctly and simplify the square root. Part (c) combines finding the correct 'p' value (the positive one in this case), substituting it accurately into the original function, and then performing the method of completing the square to transform the quadratic into its vertex form `(x+a)^2 + b`. Finally, you must correctly identify the coordinates of the turning point from this vertex form. Each step requires careful calculation and a thorough understanding of quadratic properties and algebraic skills.",
+      "hint": "Recall that for a quadratic equation `Ax^2 + Bx + C = 0`, the discriminant is given by the formula `Δ = B^2 - 4AC`. This value determines the nature of the roots and is the first step for part (a). For part (b), ensure you accurately substitute values into the quadratic formula. For part (c), remember that completing the square involves taking half of the coefficient of the 'x' term.",
+      "generatedAt": "2026-04-30T18:50:15.510458"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_005",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A quadratic equation is given by `x^2 + (k-2)x + (k+1) = 0`, where `k` is a constant. The equation has two distinct real roots, and one root is 3 greater than the other.\n\n1.  Determine the two possible values for `k`. You must show your working.\n2.  Using the largest of these two values for `k`, write down the specific quadratic function `y = x^2 + (k-2)x + (k+1)`.\n3.  For this specific quadratic function, use the method of completing the square to find its minimum value. You must show your working.",
+      "options": [],
+      "correctAnswer": "**Part 1: Determine the two possible values for k.**\nLet the two distinct real roots be `r` and `r+3`.\nFor a quadratic equation `ax^2 + bx + c = 0`, the sum of roots is `-b/a` and the product of roots is `c/a`.\nIn this equation, `x^2 + (k-2)x + (k+1) = 0`, we have `a=1`, `b=(k-2)`, `c=(k+1)`.\n\nSum of roots: `r + (r+3) = -(k-2)`\n`2r + 3 = 2 - k` (Equation 1)\n\nProduct of roots: `r(r+3) = k+1`\n`r^2 + 3r = k+1` (Equation 2)\n\nFrom Equation 1, we can express `k` in terms of `r`:\n`k = 2 - 2r - 3`\n`k = -2r - 1`\n\nSubstitute this expression for `k` into Equation 2:\n`r^2 + 3r = (-2r - 1) + 1`\n`r^2 + 3r = -2r`\n`r^2 + 5r = 0`\nFactorise the quadratic in `r`:\n`r(r + 5) = 0`\nThis gives two possible values for `r`: `r = 0` or `r = -5`.\n\nNow, substitute these values of `r` back into the expression for `k`:\nIf `r = 0`: `k = -2(0) - 1 = -1`\nIf `r = -5`: `k = -2(-5) - 1 = 10 - 1 = 9`\n\nThe two possible values for `k` are `-1` and `9`.\n\n**Part 2: Using the largest of these two values for k, write down the specific quadratic function.**\nThe largest value for `k` is `9`.\nSubstitute `k=9` into the quadratic function `y = x^2 + (k-2)x + (k+1)`:\n`y = x^2 + (9-2)x + (9+1)`\n`y = x^2 + 7x + 10`\n\n**Part 3: For this specific quadratic function, use the method of completing the square to find its minimum value.**\nThe function is `y = x^2 + 7x + 10`.\nTo complete the square for `x^2 + Bx + C`, we write it as `(x + B/2)^2 - (B/2)^2 + C`.\nHere, `B=7` and `C=10`.\n`y = (x + 7/2)^2 - (7/2)^2 + 10`\n`y = (x + 3.5)^2 - (49/4) + 10`\n`y = (x + 3.5)^2 - 12.25 + 10`\n`y = (x + 3.5)^2 - 2.25`\n\nThe minimum value of `(x + 3.5)^2` is `0`, which occurs when `x = -3.5`.\nTherefore, the minimum value of the quadratic function is `0 - 2.25 = -2.25`.\n\nThe minimum value is **-2.25**.",
+      "explanation": "The question requires combining knowledge of the relationships between roots and coefficients of a quadratic equation (often referred to as Vieta's formulas) with the method of completing the square to find the minimum value of a quadratic function.\n\nFirst, by setting up expressions for the sum and product of roots in terms of 'k' and one of the roots (let's say 'r'), and using the given information that one root is 3 greater than the other, we form a system of simultaneous equations. Solving these equations leads to two possible values for 'r', which in turn give two possible values for 'k'.\n\nNext, the problem specifies using the *largest* value of 'k'. This value is substituted back into the original quadratic function to define a specific function.\n\nFinally, the method of completing the square is applied to this specific function. This method transforms the quadratic `ax^2 + bx + c` into the form `a(x+p)^2 + q`, where the minimum (or maximum) value of the function is `q` (for a quadratic with a positive `a` coefficient, like `x^2`). The `(x+p)^2` term has a minimum value of 0, so the overall minimum of the function is `q`.",
+      "hint": "Recall the relationships between the roots of a quadratic equation `ax^2 + bx + c = 0` and its coefficients (sum of roots = `-b/a`, product of roots = `c/a`). For finding the minimum value of the quadratic function, completing the square is the required method.",
+      "generatedAt": "2026-04-30T18:50:38.338683"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_006",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A company's daily profit, `P` (in hundreds of pounds), from selling `x` items is modelled by the function `P(x) = - (x - 8)(x + 2) + 28`.\n\na) Show that when the daily profit is £3200, the equation for `x` can be written in the form `Ax^2 + Bx + C = 0`, where A, B, and C are integers. (3 marks - Working required)\n\nb) Calculate the number of items, `x`, that must be sold for the daily profit to be £3200. Give your answers to two decimal places. (4 marks - Working required)\n\nc) By completing the square, find the exact maximum possible daily profit (in hundreds of pounds) and the number of items, `x`, required to achieve it. (5 marks - Working required)",
+      "options": [],
+      "correctAnswer": "a) The daily profit is £3200, and P(x) is in hundreds of pounds, so P(x) = 32.\nSet the profit function equal to 32:\n`- (x - 8)(x + 2) + 28 = 32`\nFirst, expand the brackets:\n`- (x^2 + 2x - 8x - 16) + 28 = 32`\n`- (x^2 - 6x - 16) + 28 = 32`\nDistribute the negative sign:\n`- x^2 + 6x + 16 + 28 = 32`\n`- x^2 + 6x + 44 = 32`\nRearrange the equation to the form `Ax^2 + Bx + C = 0`:\n`- x^2 + 6x + 44 - 32 = 0`\n`- x^2 + 6x + 12 = 0`\nMultiply by -1 to make the leading coefficient positive (optional, but standard practice):\n`x^2 - 6x - 12 = 0`\nHere, A=1, B=-6, C=-12, which are integers. (3 marks)\n\nb) To calculate the number of items, `x`, for a daily profit of £3200, we solve the equation `x^2 - 6x - 12 = 0` using the quadratic formula `x = (-B ± √(B^2 - 4AC)) / 2A`.\nFrom part (a), A=1, B=-6, C=-12.\n`x = ( -(-6) ± √((-6)^2 - 4(1)(-12)) ) / (2 * 1)`\n`x = ( 6 ± √(36 + 48) ) / 2`\n`x = ( 6 ± √(84) ) / 2`\nCalculate the square root: `√84 ≈ 9.16515`\n`x1 = (6 + 9.16515) / 2 = 15.16515 / 2 ≈ 7.582575`\n`x2 = (6 - 9.16515) / 2 = -3.16515 / 2 ≈ -1.582575`\nSince `x` represents the number of items, it must be a positive value. Therefore, `x ≈ 7.58` (to two decimal places). (4 marks)\n\nc) To find the exact maximum profit, we complete the square for the profit function `P(x) = - (x - 8)(x + 2) + 28`.\nFirst, expand the function to the standard form `P(x) = ax^2 + bx + c`:\n`P(x) = - (x^2 + 2x - 8x - 16) + 28`\n`P(x) = - (x^2 - 6x - 16) + 28`\n`P(x) = -x^2 + 6x + 16 + 28`\n`P(x) = -x^2 + 6x + 44`\nNow, complete the square:\n`P(x) = - (x^2 - 6x) + 44`\nTake half of the coefficient of `x` (which is -6), square it, and add and subtract it inside the parenthesis:\n`P(x) = - ( (x - 3)^2 - (-3)^2 ) + 44`\n`P(x) = - ( (x - 3)^2 - 9 ) + 44`\nDistribute the negative sign:\n`P(x) = - (x - 3)^2 + 9 + 44`\n`P(x) = - (x - 3)^2 + 53`\nThe quadratic has a negative coefficient for `x^2`, so it's a downward-opening parabola, meaning it has a maximum point. The maximum value of `P(x)` occurs when `(x - 3)^2 = 0`, which is when `x = 3`.\nThe exact maximum possible daily profit is `53` (hundreds of pounds).\nThis maximum profit occurs when `x = 3` items are sold. (5 marks)",
+      "explanation": "a) The first step is to correctly interpret the given profit of £3200 as `P(x) = 32` (since `P(x)` is in hundreds of pounds). Then, substitute this value into the profit function `P(x) = - (x - 8)(x + 2) + 28`. Expand the binomials `(x - 8)(x + 2)` carefully, remembering to handle the negative sign in front of the brackets. After expanding to `- (x^2 - 6x - 16)`, distribute the negative, combine constant terms, and rearrange the entire equation to `0` on one side to get it into the standard `Ax^2 + Bx + C = 0` form. The result `x^2 - 6x - 12 = 0` (or `-x^2 + 6x + 12 = 0`) fulfills the requirement.\n\nb) To find the value(s) of `x` that yield the specified profit, solve the quadratic equation derived in part (a), which is `x^2 - 6x - 12 = 0`. Since the numbers are not easily factorised, the quadratic formula `x = (-B ± √(B^2 - 4AC)) / 2A` is the most reliable method. Substitute the values A=1, B=-6, and C=-12 into the formula. Calculate the discriminant `B^2 - 4AC`, then find its square root. Finally, calculate the two possible values for `x`. Since `x` represents the number of items, only the positive solution is physically meaningful, and it should be rounded to two decimal places as requested.\n\nc) To find the exact maximum profit and the `x` value at which it occurs, the method of completing the square is required. Start by expanding the given profit function `P(x) = - (x - 8)(x + 2) + 28` into its standard `ax^2 + bx + c` form, which is `P(x) = -x^2 + 6x + 44`. To complete the square for a quadratic with a negative leading coefficient, factor out the negative sign from the `x^2` and `x` terms: `P(x) = - (x^2 - 6x) + 44`. Then, complete the square for the expression inside the parenthesis: `(x^2 - 6x)` becomes `(x - 3)^2 - 9`. Substitute this back, distribute the factored-out negative sign carefully, and combine the constant terms. The resulting form `P(x) = - (x - 3)^2 + 53` shows that the maximum value of `P(x)` is 53 (when `(x - 3)^2` is 0), and this occurs when `x - 3 = 0`, so `x = 3`.",
+      "hint": "a) Remember to expand the binomials carefully and correctly set up the equation before rearranging it into the standard quadratic form. Pay attention to the units of profit.\nb) To solve the quadratic equation from part (a), the quadratic formula is a reliable method, especially when factorisation isn't straightforward. Remember to interpret the solutions in the context of the problem.\nc) When completing the square for a quadratic with a negative leading coefficient, factor out the negative first, or be extra careful with the signs. The completed square form will directly reveal the turning point and thus the maximum profit.",
+      "generatedAt": "2026-04-30T18:51:47.780045"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_007",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A rectangular photograph has a length of 18 cm and a width of 12 cm. The photograph is mounted in a rectangular frame of uniform width, `x` cm, around all four sides. The area of the frame itself (the border region, excluding the photograph) is 160 cm².\n\na) Show that `4x^2 + 60x - 160 = 0`. (2 marks - Working required)\nb) Hence, find the width of the frame, `x`, giving your answer in its exact surd form. (4 marks - Working required)\nc) Calculate the outer perimeter of the framed photograph, giving your answer in the form `a + b√c`, where `a`, `b`, and `c` are integers. (3 marks - Working required)",
+      "options": [],
+      "correctAnswer": "a) The dimensions of the photograph are 18 cm by 12 cm. The area of the photograph is `18 * 12 = 216` cm².\nWhen a frame of uniform width `x` cm is added around all four sides, the new dimensions of the framed photograph (including the photo and the frame) become:\nNew Length = `18 + x + x = 18 + 2x` cm\nNew Width = `12 + x + x = 12 + 2x` cm\n\nThe area of the framed photograph is `(18 + 2x)(12 + 2x)` cm².\n\nThe area of the frame itself is the total area of the framed photograph minus the area of the photograph:\nArea of frame = `(18 + 2x)(12 + 2x) - 216`\nWe are given that the area of the frame is 160 cm².\nSo, `160 = (18 + 2x)(12 + 2x) - 216`\nExpand the product:\n`160 = (18 * 12) + (18 * 2x) + (2x * 12) + (2x * 2x) - 216`\n`160 = 216 + 36x + 24x + 4x^2 - 216`\n`160 = 4x^2 + 60x`\nRearrange the equation to the desired form:\n`0 = 4x^2 + 60x - 160`\nTherefore, `4x^2 + 60x - 160 = 0`.\n\nb) From part (a), we have the quadratic equation `4x^2 + 60x - 160 = 0`.\nTo simplify, divide the entire equation by 4:\n`x^2 + 15x - 40 = 0`\nThis is in the form `ax^2 + bx + c = 0`, where `a=1`, `b=15`, and `c=-40`.\nUsing the quadratic formula, `x = (-b ± √(b^2 - 4ac)) / (2a)`:\n`x = (-15 ± √(15^2 - 4 * 1 * -40)) / (2 * 1)`\n`x = (-15 ± √(225 + 160)) / 2`\n`x = (-15 ± √385) / 2`\nSince `x` represents a physical width, it must be a positive value. The square root of 385 is approximately 19.6.\n`x = (-15 + √385) / 2` (This is positive)\n`x = (-15 - √385) / 2` (This is negative and thus not a valid solution for width)\nSo, the width of the frame, `x`, is `(-15 + √385) / 2` cm.\n\nc) The outer dimensions of the framed photograph are:\nOuter Length = `18 + 2x`\nOuter Width = `12 + 2x`\n\nThe outer perimeter of the framed photograph is `2 * (Outer Length + Outer Width)`:\nOuter Perimeter = `2 * ((18 + 2x) + (12 + 2x))`\nOuter Perimeter = `2 * (30 + 4x)`\nOuter Perimeter = `60 + 8x`\n\nSubstitute the exact value of `x` found in part (b):\n`x = (-15 + √385) / 2`\n\nOuter Perimeter = `60 + 8 * ((-15 + √385) / 2)`\nOuter Perimeter = `60 + 4 * (-15 + √385)`\nOuter Perimeter = `60 - 60 + 4√385`\nOuter Perimeter = `4√385` cm.\nThis is in the form `a + b√c`, where `a=0`, `b=4`, and `c=385` (since 385 has no perfect square factors, the surd cannot be simplified further).",
+      "explanation": "This multi-step problem tests the ability to translate a real-world scenario into a quadratic equation, solve it using the quadratic formula to obtain an exact surd answer, and then use that exact answer in further calculations. Part (a) requires careful algebraic setup and expansion. Part (b) specifically asks for exact surd form, indicating the quadratic formula is the appropriate method, and also requires understanding that a physical dimension must be positive. Part (c) combines the calculated surd value with a perimeter formula, requiring careful handling of surds in addition and multiplication.",
+      "hint": "For part (a), express the total area of the framed photograph in terms of `x`, then relate it to the given area of the frame. For part (b), once you have the quadratic equation in the form `ax^2 + bx + c = 0`, consider using the quadratic formula `x = (-b ± √(b^2 - 4ac)) / (2a)` to find the exact value of `x`. Remember that a length cannot be negative. For part (c), determine the expressions for the outer length and width in terms of `x` before calculating the perimeter and substituting the surd value.",
+      "generatedAt": "2026-04-30T18:52:13.637153"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_008",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A rectangular sheet of metal has a length of (3x + 1) cm and a width of (x + 5) cm. A square piece with side length (x - 1) cm is cut from one corner of the sheet. The area of the remaining metal is 108 cm².\n\na) Show that the equation describing the situation is 2x² + 18x - 104 = 0. (2 marks)\nb) Find the value of x. You must show that any other possible solutions for x are not valid in this context. (4 marks)\nc) Using the valid value of x, calculate the perimeter of the original rectangular sheet. (2 marks)\nd) The cost, C (in pounds), of coating the remaining metal with a protective layer is given by the formula C = 5x² - 40x + 90. By completing the square, find the minimum possible cost and the value of x at which this minimum occurs. (4 marks)\n\nWorking must be shown for all parts worth 2 or more marks.",
+      "options": [],
+      "correctAnswer": "a) Derived as 2x² + 18x - 104 = 0. b) x = 4 (rejecting x = -13). c) Perimeter = 44 cm. d) Minimum cost = £10, occurring at x = 4.",
+      "explanation": "a) Area of the original rectangular sheet = Length × Width\n   A_rectangle = (3x + 1)(x + 5)\n   A_rectangle = 3x(x + 5) + 1(x + 5)\n   A_rectangle = 3x² + 15x + x + 5\n   A_rectangle = 3x² + 16x + 5 cm²\n\n   Area of the square piece cut out = Side × Side\n   A_square = (x - 1)²\n   A_square = (x - 1)(x - 1)\n   A_square = x² - x - x + 1\n   A_square = x² - 2x + 1 cm²\n\n   Area of the remaining metal = A_rectangle - A_square\n   A_remaining = (3x² + 16x + 5) - (x² - 2x + 1)\n   A_remaining = 3x² + 16x + 5 - x² + 2x - 1\n   A_remaining = 2x² + 18x + 4 cm²\n\n   Given that the area of the remaining metal is 108 cm²:\n   2x² + 18x + 4 = 108\n   2x² + 18x + 4 - 108 = 0\n   2x² + 18x - 104 = 0 (as required)\n\nb) We need to solve the quadratic equation 2x² + 18x - 104 = 0.\n   First, divide the entire equation by 2 to simplify:\n   x² + 9x - 52 = 0\n\n   Now, we factorise the quadratic. We look for two numbers that multiply to -52 and add to 9. These numbers are 13 and -4.\n   (x + 13)(x - 4) = 0\n\n   This gives two possible solutions for x:\n   x + 13 = 0  =>  x = -13\n   x - 4 = 0   =>  x = 4\n\n   Next, we check the validity of these solutions in the context of the problem, as dimensions must be positive:\n   For the length, 3x + 1 > 0.\n   For the width, x + 5 > 0.\n   For the side of the cut-out square, x - 1 > 0. This last condition (x - 1 > 0) implies that x > 1.\n\n   If x = -13:\n   3x + 1 = 3(-13) + 1 = -38 (This is negative, so x = -13 is invalid).\n   (Checking other dimensions: x + 5 = -8, x - 1 = -14; all are negative).\n   Therefore, x = -13 is not a valid solution in this physical context.\n\n   If x = 4:\n   3x + 1 = 3(4) + 1 = 13 cm (Positive)\n   x + 5 = 4 + 5 = 9 cm (Positive)\n   x - 1 = 4 - 1 = 3 cm (Positive)\n   All dimensions are positive for x = 4.\n\n   So, the only valid value of x is 4.\n\nc) Using the valid value of x = 4, the dimensions of the original rectangular sheet are:\n   Length = 3x + 1 = 3(4) + 1 = 12 + 1 = 13 cm\n   Width = x + 5 = 4 + 5 = 9 cm\n\n   The perimeter of a rectangle is given by the formula P = 2 × (Length + Width).\n   Perimeter = 2 × (13 + 9)\n   Perimeter = 2 × 22\n   Perimeter = 44 cm.\n\nd) The cost formula is C = 5x² - 40x + 90.\n   To find the minimum cost, we use the method of completing the square:\n   C = 5(x² - 8x) + 90\n   C = 5([x - 4]² - 4²) + 90\n   C = 5([x - 4]² - 16) + 90\n   C = 5(x - 4)² - 5(16) + 90\n   C = 5(x - 4)² - 80 + 90\n   C = 5(x - 4)² + 10\n\n   The term 5(x - 4)² is a squared term multiplied by a positive number (5), so its minimum possible value is 0. This occurs when (x - 4) = 0, which means x = 4.\n\n   When 5(x - 4)² = 0, the minimum cost C is 0 + 10 = £10.\n\n   Therefore, the minimum possible cost is £10, and this occurs when x = 4.",
+      "hint": "For part b), remember that physical dimensions (length, width, and side of the cut-out square) must be positive. For part d), completing the square for a quadratic expression `ax² + bx + c` will transform it into the form `a(x - h)² + k`, where `k` represents the minimum or maximum value.",
+      "generatedAt": "2026-04-30T18:52:49.942796"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_009",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A quadratic function f(x) can be expressed in the form (x-p)² + q. The minimum point of f(x) is (5, -13).\nA second quadratic equation is given by x² - mx + (2m-5) = 0, where m is a constant. The value of the y-intercept for the second quadratic function, when expressed as y = x² - mx + (2m-5), is numerically equal to the value of q from the first quadratic function, f(x).\nFind the values of x for which x² - mx + (2m-5) = 0. Give your answer in exact form. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Determine the value of q from f(x).\nGiven that f(x) has a minimum point at (5, -13) and is in the form (x-p)² + q, we can directly identify p = 5 and q = -13.\nSo, q = -13.\n\nStep 2: Determine the y-intercept of the second quadratic function.\nThe second quadratic function is given by y = x² - mx + (2m-5). The y-intercept occurs when x = 0.\nSubstituting x = 0 into the equation: y = (0)² - m(0) + (2m-5)\ny = 2m-5.\n\nStep 3: Use the given relationship to find the value of m.\nThe problem states that the y-intercept of the second quadratic function is numerically equal to the value of q from f(x).\nSo, 2m-5 = q\n2m-5 = -13\nAdd 5 to both sides: 2m = -13 + 5\n2m = -8\nDivide by 2: m = -4.\n\nStep 4: Substitute the value of m back into the second quadratic equation.\nThe second quadratic equation is x² - mx + (2m-5) = 0.\nSubstitute m = -4:\nx² - (-4)x + (2(-4)-5) = 0\nx² + 4x + (-8-5) = 0\nx² + 4x - 13 = 0.\n\nStep 5: Solve the quadratic equation x² + 4x - 13 = 0 using the quadratic formula.\nThe quadratic formula is x = [-b ± √(b² - 4ac)] / 2a.\nFor x² + 4x - 13 = 0, we have a=1, b=4, c=-13.\n\nx = [-4 ± √(4² - 4(1)(-13))] / 2(1)\nx = [-4 ± √(16 + 52)] / 2\nx = [-4 ± √(68)] / 2\n\nSimplify the surd √68:\n√68 = √(4 × 17) = √4 × √17 = 2√17.\n\nSubstitute the simplified surd back into the formula for x:\nx = [-4 ± 2√17] / 2\n\nDivide both terms in the numerator by 2:\nx = -4/2 ± (2√17)/2\nx = -2 ± √17.\n\nThe exact values of x are x = -2 + √17 and x = -2 - √17.",
+      "explanation": "The problem is solved in five main steps. First, we identify 'q' from the completed square form of f(x) using its given minimum point. Then, we determine the algebraic expression for the y-intercept of the second quadratic function. Next, we equate the y-intercept expression to the value of 'q' to find the specific numerical value of 'm'. With 'm' found, we substitute it back into the second quadratic equation, resulting in a standard quadratic equation. Finally, we solve this standard quadratic equation using the quadratic formula, as it does not factorise easily, and simplify the resulting surd to provide the exact values of x.",
+      "hint": "First, use the given minimum point of f(x) to determine the value of 'q'. Then, identify the y-intercept of the second quadratic function in terms of 'm' and equate it to 'q' to find the value of 'm'. Finally, substitute 'm' back into the equation and solve it using the quadratic formula, simplifying any surds.",
+      "generatedAt": "2026-04-30T18:53:17.814203"
+    },
+    {
+      "id": "m-y10-quadratics_advanced_010",
+      "topicId": "m-y10-quadratics",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A student correctly determines that the roots of a quadratic equation are x = -2/3 and x = 5.\n\na) Determine the quadratic equation in the form ax² + bx + c = 0, where a, b, c are integers and a > 0. Show your working. (3 marks)\n\nb) Verify your equation from part (a) by finding its roots using factorisation. Show your working. (3 marks)\n\nc) A different quadratic equation, Q(x) = px² + qx + r, has a turning point at (1, -9) and passes through the point (0, -6). Find the integer values of p, q, and r. Show your working. (4 marks)\n\nd) Find the exact solutions to the equation Q(x) = 0 (from part c) using the quadratic formula. Show your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Given roots are x = -2/3 and x = 5.\nThis means (x + 2/3) = 0 and (x - 5) = 0.\nTo get integer coefficients, multiply the first factor by 3: (3x + 2) = 0.\nSo, the factors are (3x + 2) and (x - 5).\nThe quadratic equation is (3x + 2)(x - 5) = 0.\nExpanding the expression:\n3x(x - 5) + 2(x - 5) = 0\n3x² - 15x + 2x - 10 = 0\n3x² - 13x - 10 = 0.\nHere, a=3, b=-13, c=-10, which are integers and a > 0.\n\nb) To verify the equation 3x² - 13x - 10 = 0 by factorisation:\nWe look for two numbers that multiply to (3 * -10) = -30 and add up to -13. These numbers are 2 and -15.\nRewrite the middle term: 3x² + 2x - 15x - 10 = 0.\nFactor by grouping:\nx(3x + 2) - 5(3x + 2) = 0\n(x - 5)(3x + 2) = 0.\nSetting each factor to zero:\nx - 5 = 0  =>  x = 5\n3x + 2 = 0  =>  3x = -2  =>  x = -2/3.\nThe roots obtained by factorisation (5 and -2/3) match the given roots, thus verifying the equation.\n\nc) The turning point form of a quadratic equation is Q(x) = p(x - h)² + k, where (h, k) is the turning point.\nGiven turning point (1, -9), so h = 1 and k = -9.\nQ(x) = p(x - 1)² - 9.\nThe equation passes through the point (0, -6). Substitute x = 0 and Q(x) = -6 into the equation:\n-6 = p(0 - 1)² - 9\n-6 = p(-1)² - 9\n-6 = p(1) - 9\n-6 = p - 9\np = -6 + 9\np = 3.\nSubstitute p = 3 back into the turning point form:\nQ(x) = 3(x - 1)² - 9.\nExpand this to the form px² + qx + r:\nQ(x) = 3(x² - 2x + 1) - 9\nQ(x) = 3x² - 6x + 3 - 9\nQ(x) = 3x² - 6x - 6.\nThus, the integer values are p = 3, q = -6, and r = -6.\n\nd) The equation Q(x) = 0 is 3x² - 6x - 6 = 0.\nFirst, simplify the equation by dividing all terms by 3:\nx² - 2x - 2 = 0.\nThis is in the form ax² + bx + c = 0, with a = 1, b = -2, and c = -2.\nUsing the quadratic formula, x = [-b ± √(b² - 4ac)] / (2a):\nx = [-(-2) ± √((-2)² - 4 * 1 * -2)] / (2 * 1)\nx = [2 ± √(4 + 8)] / 2\nx = [2 ± √12] / 2.\nSimplify the square root: √12 = √(4 * 3) = 2√3.\nx = [2 ± 2√3] / 2.\nFactor out 2 from the numerator:\nx = 2(1 ± √3) / 2.\nCancel out the common factor of 2:\nx = 1 ± √3.\nThe exact solutions are x = 1 + √3 and x = 1 - √3.",
+      "explanation": "a) To form a quadratic equation from its roots, reverse the factorisation process. If the roots are r1 and r2, the factors are (x-r1) and (x-r2). Multiply these factors and expand to get the equation in the standard form ax²+bx+c=0, ensuring integer coefficients and a>0.\nb) To verify the equation by factorisation, find two numbers that multiply to 'ac' and add to 'b'. Replace the middle term 'bx' with these two numbers and factor by grouping to find the original factors. Setting each factor to zero should yield the original roots.\nc) A quadratic equation with a turning point (h, k) can be written in the form Q(x) = p(x - h)² + k. Use the given turning point to substitute h and k. Then, use the additional point the graph passes through (x, Q(x)) to find the value of p. Finally, expand the equation to the standard form Q(x) = px² + qx + r to identify p, q, and r.\nd) To find the exact solutions of a quadratic equation Q(x) = 0, first simplify the equation if possible (e.g., by dividing by a common factor). Then, identify the coefficients a, b, and c. Apply the quadratic formula x = [-b ± √(b² - 4ac)] / (2a), simplifying any surds to their simplest form.",
+      "hint": "For part (a), start by expressing the roots as factors (x - r1) and (x - r2), then multiply them out and adjust for integer coefficients. For part (c), remember that a quadratic equation with a turning point (h, k) can be written as y = p(x - h)² + k. For part (d), simplify the quadratic equation first by dividing by any common factors before applying the quadratic formula, and present your answer in exact surd form.",
+      "generatedAt": "2026-04-30T18:53:44.212181"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y10-organic-chem_beginner_001",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State the name of the industrial process used to convert long-chain hydrocarbon molecules, found in crude oil, into shorter, more useful ones like ethene and propene.",
+      "options": [
+        "A. Fractional distillation",
+        "B. Combustion",
+        "C. Cracking",
+        "D. Polymerisation"
+      ],
+      "correctAnswer": "C. Cracking",
+      "explanation": "The process described, where large, long-chain hydrocarbon molecules are broken down into smaller, more valuable hydrocarbons (such as shorter alkanes and alkenes like ethene and propene), is called cracking. Fractional distillation separates crude oil components based on their boiling points but does not break down molecules. Combustion is the burning of substances. Polymerisation is the joining of small molecules to form large ones.",
+      "hint": "Consider the process that changes the size of hydrocarbon molecules, rather than just separating them.",
+      "generatedAt": "2026-04-30T19:40:54.330475"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_002",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "What type of carbon-carbon bond is characteristic of an alkene but not found in an alkane?",
+      "options": [
+        "A) Single bond",
+        "B) Double bond",
+        "C) Triple bond",
+        "D) Ionic bond"
+      ],
+      "correctAnswer": "B) Double bond",
+      "explanation": "Alkanes are saturated hydrocarbons, meaning they contain only carbon-carbon single bonds. Alkenes, on the other hand, are unsaturated hydrocarbons and are defined by the presence of at least one carbon-carbon double bond. This double bond is the key structural difference and makes alkenes more reactive than alkanes. Triple bonds are found in alkynes, and ionic bonds are not characteristic of simple organic hydrocarbons like alkanes and alkenes.",
+      "hint": "Consider the unique structural feature that defines an alkene and differentiates it from an alkane.",
+      "generatedAt": "2026-04-30T19:41:05.040388"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_003",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "When long-chain hydrocarbon molecules, which are often less useful, are broken down into smaller, more valuable molecules during the cracking process, what two main types of hydrocarbon compounds are primarily formed?",
+      "options": [
+        "Alcohols and carboxylic acids",
+        "Alkanes and alkenes",
+        "Esters and ethers",
+        "Proteins and carbohydrates"
+      ],
+      "correctAnswer": "Alkanes and alkenes",
+      "explanation": "Cracking is an industrial process designed to break down large, less useful hydrocarbon molecules (typically found in the heavier fractions of crude oil) into smaller, more useful ones. The primary products formed are smaller alkanes (which are saturated hydrocarbons) and alkenes (which are unsaturated hydrocarbons containing at least one carbon-carbon double bond). These alkenes are particularly valuable as feedstock for the petrochemical industry.",
+      "hint": "Consider the basic classification of hydrocarbons and the primary goal of cracking, which is to produce smaller, more useful molecules, including those with double bonds.",
+      "generatedAt": "2026-04-30T19:41:13.799216"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_004",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State one reason why the process of cracking is used in the oil industry.",
+      "options": [],
+      "correctAnswer": "Cracking is used to break down long-chain hydrocarbon molecules (which are less useful or in lower demand) into shorter, more useful hydrocarbon molecules like petrol and alkenes.",
+      "explanation": "The process of cracking allows the oil industry to convert an excess supply of less useful, long-chain hydrocarbon molecules (found in crude oil) into more valuable and higher-demand products such as petrol (for fuel) and alkenes (for making polymers). This helps to meet market demand for specific types of fuels and chemical feedstocks.",
+      "hint": "Consider what happens to large molecules and why smaller molecules might be more valuable.",
+      "generatedAt": "2026-04-30T19:41:24.193185"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_005",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Crude oil is a mixture of hydrocarbons. These hydrocarbons are separated into different fractions during fractional distillation. \n\nState the property that allows the different hydrocarbons in crude oil to be separated during fractional distillation.",
+      "options": [
+        "A) Their different viscosities",
+        "B) Their different flammability",
+        "C) Their different boiling points",
+        "D) Their different colours"
+      ],
+      "correctAnswer": "C) Their different boiling points",
+      "explanation": "Fractional distillation separates the different hydrocarbons in crude oil based on their distinct boiling points. Hydrocarbons with lower boiling points will vaporise and rise higher in the fractionating column before condensing, while those with higher boiling points will condense at lower, hotter sections of the column.",
+      "hint": "Consider what happens to a liquid when it is heated and how this relates to separation in a tall column.",
+      "generatedAt": "2026-04-30T19:41:32.848894"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_006",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Crude oil is a complex mixture of many different hydrocarbon molecules. To separate these molecules into more useful groups called fractions, crude oil is heated and then passed into a fractionating column. What physical property of the hydrocarbons allows them to be separated in this way?",
+      "options": [
+        "A) Density",
+        "B) Melting point",
+        "C) Solubility in water",
+        "D) Boiling point"
+      ],
+      "correctAnswer": "D) Boiling point",
+      "explanation": "Different hydrocarbons in crude oil have different boiling points. In fractional distillation, the crude oil is heated, and the hydrocarbons vaporise. As they rise up the fractionating column, they cool and condense at different temperatures according to their boiling points, allowing them to be separated into fractions.",
+      "hint": "Think about what happens when a liquid mixture is heated to separate its components into different parts.",
+      "generatedAt": "2026-04-30T19:41:44.979873"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_007",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Crude oil is a mixture of hydrocarbons that can be separated into different useful fractions using fractional distillation. What property of hydrocarbons allows them to be separated by this method?",
+      "options": [
+        "A) Their density differences.",
+        "B) Their reactivity.",
+        "C) Their flammability.",
+        "D) Their boiling points."
+      ],
+      "correctAnswer": "D) Their boiling points.",
+      "explanation": "Fractional distillation is a separation technique that exploits the differences in boiling points of the components in a mixture. In crude oil, the various hydrocarbons have different chain lengths, which result in different intermolecular forces and therefore different boiling points. During fractional distillation, crude oil is heated, and the hydrocarbons vaporise at different temperatures, rising to different levels in the fractionating column before condensing back into liquid fractions based on their unique boiling points.",
+      "hint": "Consider how heat is used in the fractional distillation process and what physical state change occurs for separation.",
+      "generatedAt": "2026-04-30T19:41:58.371438"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_008",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Crude oil is a mixture of many different hydrocarbon molecules. To separate these hydrocarbons into useful fractions, the process of fractional distillation is used. Which physical property is primarily used to separate the hydrocarbons in crude oil during fractional distillation?",
+      "options": [
+        "Solubility in water",
+        "Density",
+        "Boiling point",
+        "Viscosity"
+      ],
+      "correctAnswer": "Boiling point",
+      "explanation": "Fractional distillation works by heating crude oil. The different hydrocarbon molecules in crude oil have different boiling points. Hydrocarbons with lower boiling points turn into a gas more easily and rise higher in the fractionating column before condensing back into a liquid, while those with higher boiling points condense lower down. This allows the mixture to be separated into different fractions based on their boiling points.",
+      "hint": "Consider what happens to a liquid when it is heated and turns into a gas, and how this relates to separating a mixture.",
+      "generatedAt": "2026-04-30T19:42:10.651215"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_009",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Alkanes are a homologous series of hydrocarbons commonly found in crude oil. Which of the following general formulae correctly represents an alkane?",
+      "options": [
+        "A. CnH2n",
+        "B. CnH2n+2",
+        "C. CnH2n-2",
+        "D. CnHn"
+      ],
+      "correctAnswer": "B. CnH2n+2",
+      "explanation": "Alkanes are saturated hydrocarbons, meaning they contain only carbon-carbon single bonds. Each carbon atom forms four single bonds. In a straight-chain alkane with 'n' carbon atoms, there are 'n-1' carbon-carbon bonds and two end carbon atoms. Each end carbon atom bonds to three hydrogen atoms, and each internal carbon atom bonds to two hydrogen atoms. This arrangement results in a total of 2n+2 hydrogen atoms for 'n' carbon atoms.",
+      "hint": "Consider that alkanes are saturated hydrocarbons and have only carbon-carbon single bonds.",
+      "generatedAt": "2026-04-30T19:42:20.341438"
+    },
+    {
+      "id": "s-y10-organic-chem_beginner_010",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Alkenes are a homologous series of hydrocarbons often produced during the cracking of longer hydrocarbon chains. State the type of carbon-carbon bond that makes alkene molecules unsaturated.",
+      "options": [
+        "A) Single covalent bond",
+        "B) Double covalent bond",
+        "C) Triple covalent bond",
+        "D) Ionic bond"
+      ],
+      "correctAnswer": "B) Double covalent bond",
+      "explanation": "Alkenes are hydrocarbons that contain at least one carbon-carbon double covalent bond. This double bond means the molecule has fewer hydrogen atoms than it could potentially hold, making it 'unsaturated'. Alkanes, which only have single carbon-carbon bonds, are 'saturated'.",
+      "hint": "Consider the key structural difference between an alkane and an alkene.",
+      "generatedAt": "2026-04-30T19:42:29.311366"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y10-organic-chem_intermediate_001",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil contains a high proportion of long-chain alkanes, such as dodecane (C₁₂H₂₆), which are not in high demand. To meet market demand for more useful products, dodecane can undergo cracking. A typical cracking reaction can be represented as:\nC₁₂H₂₆(l) → C₁₀H₂₂(l) + C₂H₄(g)\n\nWhich statement accurately describes both the primary reason for cracking dodecane AND a significant chemical property of ethene (C₂H₄)?",
+      "options": [
+        "A. Primary reason: To make dodecane more viscous and less volatile; Property of ethene: It is a saturated hydrocarbon.",
+        "B. Primary reason: To convert less useful long-chain hydrocarbons into more useful shorter-chain alkanes and alkenes; Property of ethene: It contains a carbon-carbon double bond, making it reactive.",
+        "C. Primary reason: To separate hydrocarbons based on their boiling points; Property of ethene: It has a higher boiling point than dodecane.",
+        "D. Primary reason: To increase the length of hydrocarbon chains for lubricants; Property of ethene: It is an unreactive molecule due to its stable structure."
+      ],
+      "correctAnswer": "B. Primary reason: To convert less useful long-chain hydrocarbons into more useful shorter-chain alkanes and alkenes; Property of ethene: It contains a carbon-carbon double bond, making it reactive.",
+      "explanation": "Let's break down each option:\n\n**Primary Reason for Cracking Dodecane:**\n*   Cracking is used to break down long-chain hydrocarbons (like dodecane) that are in low demand into shorter-chain hydrocarbons that are more useful and in higher demand (e.g., petrol/gasoline) and alkenes. Alkenes are particularly valuable as feedstock for polymers.\n\n**Significant Chemical Property of Ethene (C₂H₄):**\n*   Ethene is an alkene, which means it contains a carbon-carbon double bond (C=C). This double bond makes alkenes unsaturated and significantly more reactive than alkanes. Their reactivity allows them to undergo addition reactions, such as polymerisation.\n\n**Evaluating the Options:**\n*   **A. Primary reason: To make dodecane more viscous and less volatile; Property of ethene: It is a saturated hydrocarbon.**\n    *   Incorrect. Cracking aims to produce shorter, more volatile (less viscous) products. Ethene is an *unsaturated* hydrocarbon, not saturated.\n*   **B. Primary reason: To convert less useful long-chain hydrocarbons into more useful shorter-chain alkanes and alkenes; Property of ethene: It contains a carbon-carbon double bond, making it reactive.**\n    *   Correct. This accurately states the purpose of cracking (increasing the supply of valuable shorter-chain products and alkenes) and correctly identifies the key structural feature (C=C double bond) that makes ethene reactive.\n*   **C. Primary reason: To separate hydrocarbons based on their boiling points; Property of ethene: It has a higher boiling point than dodecane.**\n    *   Incorrect. Separating hydrocarbons by boiling point is the principle of fractional distillation, not cracking. Ethene is a gas at room temperature and has a much lower boiling point than liquid dodecane.\n*   **D. Primary reason: To increase the length of hydrocarbon chains for lubricants; Property of ethene: It is an unreactive molecule due to its stable structure.**\n    *   Incorrect. Cracking *reduces* the length of hydrocarbon chains, it does not increase them. Ethene is a *reactive* molecule due to its carbon-carbon double bond.\n\nTherefore, Option B is the only statement that is entirely accurate for both parts.",
+      "hint": "Consider the economic driving force behind crude oil processing and the key structural difference between alkanes and alkenes that affects their reactivity.",
+      "generatedAt": "2026-04-30T19:42:44.724059"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_002",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil undergoes fractional distillation to separate it into different fractions. One of these fractions contains a high proportion of long-chain alkanes (e.g., C$_{15}$H$_{32}$ to C$_{20}$H$_{42}$), which have low demand as fuels. However, there is a high demand for shorter-chain alkanes (like those found in petrol, e.g., C$_{5}$H$_{12}$ to C$_{10}$H$_{22}$) and for alkenes (like ethene and propene) to make polymers.\n\nWhich of the following *best* explains the industrial process used to address this imbalance in supply and demand, including its key products and their importance?",
+      "options": [
+        "Fractional distillation further separates the long-chain alkanes into their individual components, making them more reactive for polymer production.",
+        "Polymerisation converts the long-chain alkanes directly into shorter-chain alkanes and alkenes, increasing their value.",
+        "Cracking breaks down long-chain alkanes into shorter-chain alkanes (used as fuels) and alkenes (used to make polymers), increasing their economic value and meeting demand.",
+        "Complete combustion of long-chain alkanes produces shorter-chain alkanes and alkenes, which are then collected for further use."
+      ],
+      "correctAnswer": "Cracking breaks down long-chain alkanes into shorter-chain alkanes (used as fuels) and alkenes (used to make polymers), increasing their economic value and meeting demand.",
+      "explanation": "The problem describes an excess of long-chain alkanes (from fractional distillation) and a high demand for shorter-chain alkanes (for fuels like petrol) and alkenes (for polymers).\n\n1.  **Option A (Fractional distillation)** is incorrect because fractional distillation separates existing components based on boiling points; it does not chemically break down long chains into shorter ones or make them more reactive for polymer production.\n2.  **Option B (Polymerisation)** is incorrect because polymerisation is the process of joining small molecules (monomers) to form large chain molecules (polymers), not breaking down alkanes into shorter chains.\n3.  **Option D (Complete combustion)** is incorrect because complete combustion is burning in excess oxygen, which produces carbon dioxide and water, not shorter-chain alkanes and alkenes.\n4.  **Option C (Cracking)** is the correct process. Cracking is the thermal decomposition of long-chain hydrocarbons into smaller, more useful molecules. This process produces two main types of products: shorter-chain alkanes, which are in high demand as fuels (like petrol), and alkenes, which are essential raw materials for the petrochemical industry to produce polymers (like poly(ethene)). This process directly addresses the imbalance by converting low-demand fractions into high-demand products, thereby increasing their economic value and meeting industrial and consumer demands.",
+      "hint": "Consider which process involves the chemical breaking of carbon-carbon bonds in large molecules to form smaller ones.",
+      "generatedAt": "2026-04-30T19:43:02.211074"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_003",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil fractional distillation often produces an excess of long-chain alkanes, such as hexadecane (C₁₆H₃₄), which have low demand. These alkanes can be converted into more valuable shorter-chain alkanes and alkenes through a process called cracking.\n\na) Explain the conditions required for cracking and the reason why this process is carried out. (4 marks)\nb) Complete the following chemical equation for the cracking of hexadecane (C₁₆H₃₄) to produce octane (C₈H₁₈) and one other product, and identify the homologous series of this other product. (3 marks)\n\nC₁₆H₃₄ → C₈H₁₈ + _________",
+      "options": [],
+      "correctAnswer": "a) Cracking requires high temperatures (typically 400-700°C for thermal cracking) or a catalyst (e.g., aluminium oxide/silicon dioxide for catalytic cracking). It must also occur in the absence of oxygen to prevent combustion. This process is carried out because long-chain alkanes, which are often in excess from fractional distillation, have low economic value and demand. Cracking breaks these less useful, larger molecules into smaller, more valuable hydrocarbons. These include shorter-chain alkanes, which are in higher demand as fuels (like petrol), and alkenes, which are highly reactive and serve as crucial feedstocks for the petrochemical industry to make polymers and other chemicals.\n\nb) C₁₆H₃₄ → C₈H₁₈ + C₈H₁₆\n    The homologous series of C₈H₁₆ is an alkene.",
+      "explanation": "a) \n1.  **Conditions**: Cracking requires either high temperatures (e.g., 400-700°C) or a catalyst (e.g., aluminium oxide/silicon dioxide). It is crucial that the process takes place in the absence of oxygen to prevent combustion of the hydrocarbons instead of breaking their C-C bonds.\n2.  **Reason (Cause and Effect)**: Long-chain alkanes, obtained in large quantities from fractional distillation, have lower demand and economic value. Cracking is performed *because* it breaks the strong carbon-carbon bonds in these large molecules, *so* they are converted into smaller, more valuable hydrocarbons. These smaller hydrocarbons include shorter-chain alkanes, which are in high demand as fuels (like petrol), and alkenes, which are reactive and essential as feedstocks for the production of polymers and other organic chemicals.\n\nb)\n1.  **Apply Conservation of Atoms**: The total number of carbon atoms and hydrogen atoms must be conserved on both sides of the chemical equation.\n2.  **Calculate remaining atoms for the unknown product**: \n    *   Starting Carbon atoms = 16 (from C₁₆H₃₄)\n    *   Carbon atoms in octane (C₈H₁₈) = 8\n    *   Remaining Carbon atoms for the other product = 16 - 8 = 8. So, the product has C₈.\n    *   Starting Hydrogen atoms = 34 (from C₁₆H₃₄)\n    *   Hydrogen atoms in octane (C₈H₁₈) = 18\n    *   Remaining Hydrogen atoms for the other product = 34 - 18 = 16. So, the product has H₁₆.\n3.  **Determine the formula of the second product**: The second product is C₈H₁₆.\n4.  **Identify Homologous Series**: The general formula for an alkane is CnH2n+2. The general formula for an alkene is CnH2n. Since C₈H₁₆ fits the CnH2n formula (8 carbon atoms and 16 hydrogen atoms, which is 8 × 2), it belongs to the homologous series of alkenes.",
+      "hint": "For part b), remember the law of conservation of mass for atoms in a chemical reaction. Cracking typically produces at least one shorter alkane and one alkene.",
+      "generatedAt": "2026-04-30T19:43:22.601680"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_004",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil is fractionally distilled to separate it into fractions with different boiling points. One such fraction contains long-chain alkanes, such as tetradecane (C₁₄H₃₀), which is often produced in excess. To increase its economic value and usefulness, tetradecane can be catalytically cracked. If one of the organic products of cracking tetradecane is pentane (C₅H₁₂), which of the following could be another organic product formed during the same cracking reaction?",
+      "options": [
+        "A. Octane (C₈H₁₈)",
+        "B. Nonane (C₉H₂₀)",
+        "C. Hexene (C₆H₁₂)",
+        "D. Nonene (C₉H₁₈)"
+      ],
+      "correctAnswer": "D. Nonene (C₉H₁₈)",
+      "explanation": "Cracking breaks down larger hydrocarbon molecules into smaller, more useful molecules, typically a mixture of alkanes and alkenes. The total number of atoms must be conserved during the reaction.\n\n1.  **Determine the molecular formula of the 'Another Product' by subtracting the atoms of the known product (pentane) from the reactant (tetradecane):**\n    *   Reactant: Tetradecane (C₁₄H₃₀)\n    *   Known Product: Pentane (C₅H₁₂)\n\n    *   Number of Carbon atoms remaining: 14 (from C₁₄H₃₀) - 5 (from C₅H₁₂) = 9 carbon atoms\n    *   Number of Hydrogen atoms remaining: 30 (from C₁₄H₃₀) - 12 (from C₅H₁₂) = 18 hydrogen atoms\n\n    Therefore, the molecular formula of the other organic product is C₉H₁₈.\n\n2.  **Identify the type of hydrocarbon from its molecular formula using general formulas:**\n    *   Alkanes have the general formula CnH₂n+₂. For n=9, an alkane would be C₉H₂₀ (Nonane).\n    *   Alkenes have the general formula CnH₂n. For n=9, an alkene would be C₉H₁₈ (Nonene).\n\n    Since the calculated molecular formula C₉H₁₈ matches the general formula for an alkene (CnH₂n), the other product is Nonene. Thus, option D is the correct answer.",
+      "hint": "Remember that cracking involves the breaking of a large alkane into smaller alkanes AND alkenes, ensuring that the total number of atoms for each element is conserved. Use the general formulas for alkanes (CnH₂n+₂) and alkenes (CnH₂n) to identify the homologous series of the unknown product.",
+      "generatedAt": "2026-04-30T19:43:38.195477"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_005",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "An oil refinery receives a steady supply of crude oil. After initial processing, they find they have an excess of dodecane (C12H26), a long-chain alkane, which is less useful in its current form. To maximise efficiency and product value, they convert dodecane into more desirable shorter-chain hydrocarbons, including hexane (C6H14) and one other organic compound.\n\n(a) State the name of the process used to convert dodecane into these shorter-chain hydrocarbons.\n(b) Determine the molecular formula of the other organic compound produced alongside hexane.\n(c) Describe a chemical test that could be used to distinguish between dodecane and the other organic compound identified in (b), including the expected observations for each.",
+      "options": [],
+      "correctAnswer": "(a) Cracking\n\n(b) Dodecane (C12H26) is converted into hexane (C6H14) and another compound. The reaction is:\nC12H26 → C6H14 + X\n\nTo find the molecular formula of X, we balance the atoms:\nNumber of Carbon atoms in X = (Carbon atoms in C12H26) - (Carbon atoms in C6H14)\nCarbon atoms in X = 12 - 6 = 6 carbons\n\nNumber of Hydrogen atoms in X = (Hydrogen atoms in C12H26) - (Hydrogen atoms in C6H14)\nHydrogen atoms in X = 26 - 14 = 12 hydrogens\n\nTherefore, the molecular formula of the other organic compound is C6H12.\n\n(c) The other compound, C6H12, is an alkene (hexene), and dodecane (C12H26) is an alkane.\n\nChemical test: Add bromine water (or aqueous bromine) to separate samples of dodecane and the C6H12 compound.\n\nExpected Observations:\n-   Dodecane (alkane): The orange/brown colour of the bromine water remains unchanged. This is because alkanes are saturated hydrocarbons and do not react with bromine water under normal conditions.\n-   C6H12 (alkene): The orange/brown colour of the bromine water rapidly disappears (decolorises). This is because alkenes are unsaturated hydrocarbons containing a carbon-carbon double bond, which undergoes an addition reaction with bromine, removing the coloured bromine.",
+      "explanation": "1.  **Part (a) - Process:** The process of breaking down large, less useful hydrocarbon molecules into smaller, more valuable ones (including alkanes and alkenes) is called cracking. This is done typically using heat (thermal cracking) or a catalyst (catalytic cracking).\n2.  **Part (b) - Molecular Formula:** This step requires applying the principle of conservation of atoms. In any chemical reaction, atoms are neither created nor destroyed. So, the total number of carbon and hydrogen atoms in the reactants must equal the total number of carbon and hydrogen atoms in the products.\n    *   Reactant: Dodecane (C12H26)\n    *   One product given: Hexane (C6H14)\n    *   Let the unknown product be X.\n    *   Equation: C12H26 → C6H14 + X\n    *   Subtracting the atoms of hexane from dodecane: (12 C - 6 C) = 6 C; (26 H - 14 H) = 12 H. Thus, X has the molecular formula C6H12. This formula (CnH2n) indicates it is an alkene, specifically hexene.\n3.  **Part (c) - Chemical Test:** The key difference between alkanes (like dodecane) and alkenes (like C6H12) is the presence of a carbon-carbon double bond in alkenes, making them unsaturated. Alkanes are saturated, with only single carbon-carbon bonds.\n    *   **Reagent:** Bromine water (aqueous bromine) is a standard reagent used to test for unsaturation. It is typically orange or reddish-brown.\n    *   **Reaction with Alkenes:** Alkenes undergo an addition reaction with bromine water. The bromine molecule (Br2) adds across the carbon-carbon double bond, breaking it and forming a dibromoalkane. This reaction consumes the coloured bromine, causing the solution to decolorize (turn colourless).\n    *   **Reaction with Alkanes:** Alkanes are relatively unreactive and do not have double bonds. They do not react with bromine water under normal conditions (without UV light). Therefore, the bromine water's orange/brown colour will remain unchanged in the presence of an alkane.",
+      "hint": "Remember that the total number of each type of atom must be conserved during cracking. Also, consider how saturated and unsaturated hydrocarbons react differently with halogens.",
+      "generatedAt": "2026-04-30T19:43:58.575390"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_006",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil contains a high proportion of long-chain alkanes, such as C₁₅H₃₂. There is a higher demand for shorter-chain alkanes (used as fuels like petrol) and alkenes (used to make polymers).\n\n1.  **State** the name of the industrial process used to convert long-chain alkanes into more useful shorter-chain alkanes and alkenes. (1 mark)\n2.  **Explain** why this process is carried out in an oil refinery, referring to the properties and demand for different fractions of crude oil. (3 marks)\n3.  During this process, one molecule of C₁₅H₃₂ is completely converted to produce one molecule of heptane (C₇H₁₆) and two molecules of an alkene. **Determine** the molecular formula of this alkene. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  Cracking.\n\n2.  Long-chain alkanes have high boiling points and high viscosity, making them less useful as fuels like petrol which require lower boiling points and lower viscosity for efficient combustion in engines. There is also low demand for these long chains. Shorter-chain alkanes are more volatile and flow more easily, making them suitable for petrol. Alkenes, which are not present in crude oil, are in high demand for making polymers (plastics) through addition polymerisation. Cracking converts the excess, low-demand long-chain alkanes into these more valuable, high-demand products.\n\n3.  **To determine the molecular formula of the alkene, we use the principle of conservation of atoms:**\n\n    **Initial molecule:** C₁₅H₃₂\n    **Products:** C₇H₁₆ + 2 * (Alkene)\n\n    **Conservation of Carbon atoms (C):**\n    Total C in C₁₅H₃₂ = 15\n    C in C₇H₁₆ = 7\n    Remaining C for 2 alkenes = 15 - 7 = 8\n    C in one alkene = 8 / 2 = 4\n\n    **Conservation of Hydrogen atoms (H):**\n    Total H in C₁₅H₃₂ = 32\n    H in C₇H₁₆ = 16\n    Remaining H for 2 alkenes = 32 - 16 = 16\n    H in one alkene = 16 / 2 = 8\n\n    Therefore, the molecular formula of the alkene produced is **C₄H₈**.",
+      "explanation": "For part 3, the key is to apply the law of conservation of atoms. All atoms present in the reactant molecule (C₁₅H₃₂) must be accounted for in the product molecules (C₇H₁₆ and the two alkene molecules).\n\n1.  **Count carbon atoms:** Start with 15 carbon atoms from C₁₅H₃₂. Subtract the 7 carbon atoms found in C₇H₁₆, leaving 8 carbon atoms. Since two identical alkene molecules are produced, divide the remaining carbon atoms by 2 (8 ÷ 2 = 4 carbon atoms per alkene).\n2.  **Count hydrogen atoms:** Start with 32 hydrogen atoms from C₁₅H₃₂. Subtract the 16 hydrogen atoms found in C₇H₁₆, leaving 16 hydrogen atoms. Since two identical alkene molecules are produced, divide the remaining hydrogen atoms by 2 (16 ÷ 2 = 8 hydrogen atoms per alkene).\n3.  **Combine to form the molecular formula:** With 4 carbon atoms and 8 hydrogen atoms, the alkene's molecular formula is C₄H₈.",
+      "hint": "For part 3, remember that atoms are conserved in chemical reactions. Count the number of carbon and hydrogen atoms in the reactant and known product, then deduce the atoms in the unknown product(s).",
+      "generatedAt": "2026-04-30T19:44:16.236217"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_007",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Dodecane (C₁₂H₂₆), a long-chain alkane from crude oil, is often cracked to produce more valuable shorter-chain hydrocarbons. If dodecane undergoes cracking and one of the products formed is propene (C₃H₆), determine the molecular formula of the *other* organic product.",
+      "options": [
+        "A) C₉H₁₈",
+        "B) C₉H₂₀",
+        "C) C₁₂H₂₄",
+        "D) C₃H₄"
+      ],
+      "correctAnswer": "B) C₉H₂₀",
+      "explanation": "1. Cracking is a process where large hydrocarbon molecules are broken down into smaller, more useful hydrocarbon molecules. During this process, the total number of carbon and hydrogen atoms must be conserved.\n2. The reactant is dodecane, with the molecular formula C₁₂H₂₆.\n3. One of the products formed is propene, with the molecular formula C₃H₆.\n4. To find the molecular formula of the *other* organic product, we subtract the number of carbon and hydrogen atoms in propene from those in dodecane:\n   - Number of carbon atoms in the other product = Total carbon atoms in dodecane - Carbon atoms in propene = 12 - 3 = 9 carbon atoms.\n   - Number of hydrogen atoms in the other product = Total hydrogen atoms in dodecane - Hydrogen atoms in propene = 26 - 6 = 20 hydrogen atoms.\n5. Therefore, the molecular formula of the other organic product is C₉H₂₀. This molecule fits the general formula for an alkane (CnH2n+2), meaning it is nonane.",
+      "hint": "Remember that in a cracking reaction, all the atoms present in the original large molecule must be accounted for in the smaller product molecules. The total number of carbon and hydrogen atoms remains constant.",
+      "generatedAt": "2026-04-30T19:44:27.780508"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_008",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Dodecane (C₁₂H₂₆) is a long-chain alkane obtained from crude oil, primarily used as a lubricant or fuel in low demand. To meet the demand for more valuable products, dodecane can be cracked to produce ethene (C₂H₄) and other hydrocarbons.\n\nExplain the primary reason why cracking dodecane to produce ethene is considered a valuable process for the chemical industry, compared to the direct use of dodecane.",
+      "options": [
+        "A) Ethene is a saturated hydrocarbon, making it an excellent, clean-burning fuel for vehicles.",
+        "B) Ethene has a carbon-carbon double bond, allowing it to undergo addition polymerisation to form useful plastics, unlike the unreactive dodecane.",
+        "C) Ethene has a higher boiling point than dodecane, making it easier to separate and purify for various applications.",
+        "D) Dodecane is highly reactive due to its long chain, so cracking it into less reactive ethene makes it safer to transport."
+      ],
+      "correctAnswer": "B) Ethene has a carbon-carbon double bond, allowing it to undergo addition polymerisation to form useful plastics, unlike the unreactive dodecane.",
+      "explanation": "1. **Identify product types:** Dodecane (C₁₂H₂₆) is an alkane, which are generally unreactive due to their saturated structure (single carbon-carbon bonds). Ethene (C₂H₄) is an alkene, characterised by a carbon-carbon double bond.\n2. **Reactivity difference:** The presence of the carbon-carbon double bond in ethene makes it significantly more reactive than dodecane. This double bond allows ethene to participate in addition reactions.\n3. **Industrial value:** A key addition reaction for alkenes like ethene is addition polymerisation. This process converts many small ethene molecules (monomers) into large polymer chains, such as poly(ethene), which are widely used as plastics and other valuable materials in various industries.\n4. **Comparison:** In contrast, dodecane is primarily used as a less valuable fuel or lubricant. Therefore, converting less-demanded dodecane into reactive ethene for polymer production adds significant value for the chemical industry.",
+      "hint": "Consider the structural differences between alkanes and alkenes, and how these differences affect their chemical reactivity and subsequent industrial applications.",
+      "generatedAt": "2026-04-30T19:44:46.212229"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_009",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Tetradecane (C₁₄H₃₀), a long-chain alkane, undergoes catalytic cracking. During one specific reaction pathway, it produces one molecule of octane (C₈H₁₈) and two molecules of an alkene. \n\nCalculate the total mass, in grams, of the alkene produced when 200 g of tetradecane is completely cracked in this way.\n\n(Relative atomic masses: C = 12, H = 1)",
+      "options": [
+        "A) 42.4 g",
+        "B) 84.8 g",
+        "C) 96.0 g",
+        "D) 120.0 g"
+      ],
+      "correctAnswer": "B) 84.8 g",
+      "explanation": "Step 1: Deduce the balanced chemical equation for the cracking reaction.\nThe reactant is tetradecane (C₁₄H₃₀).\nOne product is octane (C₈H₁₈).\nThe other products are two molecules of an alkene. Let the alkene be CₓHᵧ.\n\nThe general cracking equation can be written as: C₁₄H₃₀ → C₈H₁₈ + 2 CₓHᵧ\n\nApply the law of conservation of atoms:\nFor Carbon atoms:\nTotal carbon atoms on reactant side = 14\nTotal carbon atoms on product side = 8 (from C₈H₁₈) + 2x (from 2 CₓHᵧ)\n14 = 8 + 2x\n6 = 2x\nx = 3\n\nFor Hydrogen atoms:\nTotal hydrogen atoms on reactant side = 30\nTotal hydrogen atoms on product side = 18 (from C₈H₁₈) + 2y (from 2 CₓHᵧ)\n30 = 18 + 2y\n12 = 2y\ny = 6\n\nSo, the alkene is C₃H₆ (propene).\nThe balanced cracking equation is: C₁₄H₃₀ → C₈H₁₈ + 2 C₃H₆\n\nStep 2: Calculate the mass of the alkene (C₃H₆) produced.\n\n1.  Calculate the molar mass of tetradecane (C₁₄H₃₀):\nM(C₁₄H₃₀) = (14 × 12) + (30 × 1) = 168 + 30 = 198 g/mol\n\n2.  Calculate the moles of tetradecane (C₁₄H₃₀) from its given mass:\nMoles = Mass / Molar mass\nMoles of C₁₄H₃₀ = 200 g / 198 g/mol ≈ 1.0101 mol\n\n3.  Use the mole ratio from the balanced equation to find the moles of alkene (C₃H₆):\nFrom the equation, 1 mole of C₁₄H₃₀ produces 2 moles of C₃H₆.\nMoles of C₃H₆ = Moles of C₁₄H₃₀ × 2\nMoles of C₃H₆ = (200 / 198) mol × 2 = 400 / 198 mol ≈ 2.0202 mol\n\n4.  Calculate the molar mass of the alkene (C₃H₆):\nM(C₃H₆) = (3 × 12) + (6 × 1) = 36 + 6 = 42 g/mol\n\n5.  Calculate the total mass of the alkene (C₃H₆):\nMass = Moles × Molar mass\nMass of C₃H₆ = (400 / 198) mol × 42 g/mol = 16800 / 198 g ≈ 84.848 g\n\nRounding to three significant figures, the mass is 84.8 g.",
+      "hint": "First, use the principle of conservation of atoms to deduce the molecular formula of the alkene produced in the cracking reaction. Then, use this balanced equation and the molar masses to perform stoichiometric calculations.",
+      "generatedAt": "2026-04-30T19:45:16.216953"
+    },
+    {
+      "id": "s-y10-organic-chem_intermediate_010",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Crude oil is separated into fractions through fractional distillation. Fractions containing long-chain alkanes, such as those with 10-18 carbon atoms, often have lower demand than shorter-chain fractions like petrol. To increase the yield of more valuable, smaller hydrocarbons, these long-chain alkanes undergo catalytic cracking.\n\nConsider a specific cracking reaction where decane (C₁₀H₂₂), a long-chain alkane, decomposes into ethene (C₂H₄) and octane (C₈H₁₈) according to the following equation:\nC₁₀H₂₂(l) → C₂H₄(g) + C₈H₁₈(l)\n\nCalculate the maximum mass of ethene (C₂H₄) that can be produced from 284 kg of decane (C₁₀H₂₂).\n(Relative atomic masses: C = 12, H = 1)",
+      "options": [
+        "A) 28 kg",
+        "B) 56 kg",
+        "C) 114 kg",
+        "D) 142 kg"
+      ],
+      "correctAnswer": "B) 56 kg",
+      "explanation": "Step 1: Determine the molar masses of the reactants and products involved in the stoichiometry.\n   Relative atomic masses (Ar): C = 12, H = 1\n   Molar mass of decane (C₁₀H₂₂) = (10 × 12) + (22 × 1) = 120 + 22 = 142 g/mol\n   Molar mass of ethene (C₂H₄) = (2 × 12) + (4 × 1) = 24 + 4 = 28 g/mol\n\nStep 2: Use the balanced chemical equation to find the mole ratio.\n   The equation C₁₀H₂₂(l) → C₂H₄(g) + C₈H₁₈(l) shows that 1 mole of decane produces 1 mole of ethene.\n\nStep 3: Apply the mole ratio to the given mass to find the mass of ethene produced.\n   From the molar masses, 142 g of C₁₀H₂₂ produces 28 g of C₂H₄.\n   We are given 284 kg of decane.\n   Number of 'molar mass equivalents' of decane = Given mass / Molar mass = 284 kg / 142 kg = 2\n   Since 284 kg of decane is exactly twice the mass equivalent of one mole of decane, the mass of ethene produced will be twice the mass equivalent of one mole of ethene.\n   Mass of ethene = 2 × 28 kg = 56 kg.\n\nTherefore, the maximum mass of ethene that can be produced is 56 kg.",
+      "hint": "First, calculate the molar masses of decane and ethene. Then, use the stoichiometric ratio from the balanced equation to determine the mass of ethene produced.",
+      "generatedAt": "2026-04-30T19:45:37.657121"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y10-organic-chem_advanced_001",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Crude oil is a vital resource, but the fractions obtained directly from fractional distillation often do not match market demand. For example, there is a high demand for petrol (C5-C12 alkanes) but a lower demand for longer-chain hydrocarbons like fuel oil (C15+ alkanes). To address this, refineries employ cracking.\n\nA common cracking reaction involves breaking down a long-chain alkane, C16H34, into octane (C8H18) and a shorter-chain alkene.\n\na) Explain why cracking is an essential process in the petroleum industry, referring to both economic factors and the properties of different hydrocarbon fractions. (4 marks)\nb) Describe a laboratory test to distinguish between octane (an alkane) and the alkene produced in this reaction. State the expected observations for both. (3 marks)\nc) i) State the molecular formula of the alkene produced in this specific reaction. (1 mark)\n   ii) If 50.0 kg of C16H34 is cracked and produces 18.0 kg of octane, calculate the percentage yield of octane. Give your answer to one decimal place.",
+      "options": [
+        "A) 35.7 %",
+        "B) 71.4 %",
+        "C) 80.6 %",
+        "D) 90.0 %"
+      ],
+      "correctAnswer": "B) 71.4 %",
+      "explanation": "To calculate the percentage yield, we first need to determine the theoretical yield of octane.\n\n**Step 1: Determine the balanced chemical equation for the cracking reaction.**\nGiven: C16H34 cracks into C8H18 and a shorter-chain alkene.\nLet the alkene be CxHy.\nC16H34 → C8H18 + CxHy\n\nBalance the carbon atoms:\n16 (from C16H34) = 8 (from C8H18) + x (from alkene)\nx = 16 - 8 = 8\n\nBalance the hydrogen atoms:\n34 (from C16H34) = 18 (from C8H18) + y (from alkene)\ny = 34 - 18 = 16\n\nSo, the alkene produced is C8H16 (octene). (This answers part c)i))\nThe balanced equation is: C16H34 → C8H18 + C8H16\n\n**Step 2: Calculate the molar masses of the reactant and the desired product.**\nMolar mass of C16H34 = (16 × 12.0) + (34 × 1.0) = 192.0 + 34.0 = 226.0 g/mol\nMolar mass of C8H18 = (8 × 12.0) + (18 × 1.0) = 96.0 + 18.0 = 114.0 g/mol\n\n**Step 3: Calculate the moles of the reactant (C16H34) used.**\nMass of C16H34 = 50.0 kg = 50 000 g\nMoles of C16H34 = Mass / Molar mass = 50 000 g / 226.0 g/mol = 221.2389... mol\n\n**Step 4: Calculate the theoretical moles of octane (C8H18) that could be produced.**\nFrom the balanced equation, 1 mole of C16H34 produces 1 mole of C8H18.\nTheoretical moles of C8H18 = 221.2389... mol\n\n**Step 5: Calculate the theoretical mass of octane (C8H18) that could be produced.**\nTheoretical mass of C8H18 = Theoretical moles × Molar mass\nTheoretical mass of C8H18 = 221.2389... mol × 114.0 g/mol = 25221.240... g = 25.221 kg (keeping more precision for calculation)\n\n**Step 6: Calculate the percentage yield of octane.**\nActual mass of C8H18 produced = 18.0 kg\nPercentage Yield = (Actual mass / Theoretical mass) × 100\nPercentage Yield = (18.0 kg / 25.221 kg) × 100 = 71.368...\n\nRounding to one decimal place, the percentage yield of octane is 71.4 %.\n\n**Model answers for parts a), b), and c)i):**\na) **Explanation of cracking's essential role (4 marks):**\nCracking is essential because fractional distillation of crude oil produces a higher proportion of long-chain hydrocarbons (like fuel oil and bitumen) for which there is low market demand, and a lower proportion of short-chain hydrocarbons (like petrol and naphtha) for which there is high market demand. Cracking breaks down these long-chain, less valuable hydrocarbons into shorter-chain, more valuable alkanes (like petrol) and alkenes. This process allows refineries to match the supply of different fractions to current market demands, increasing economic profitability because the more valuable shorter-chain fractions can be sold at higher prices.\n\nb) **Laboratory test to distinguish octane and octene (3 marks):**\nTo distinguish between octane (an alkane) and octene (an alkene), add a few drops of aqueous bromine water to separate samples of each hydrocarbon in test tubes and shake.\n\n**Observations:**\n*   **Octane (alkane):** The orange/brown colour of the bromine water will remain. This is because alkanes are saturated and relatively unreactive; they do not undergo addition reactions with bromine.\n*   **Octene (alkene):** The orange/brown colour of the bromine water will rapidly decolourise (turn colourless). This is because alkenes are unsaturated, containing a carbon-carbon double bond, which reacts with bromine in an addition reaction.\n\nc) i) **Molecular formula of the alkene:** C8H16",
+      "hint": "For part c)ii, first write a balanced chemical equation for the cracking reaction to find the stoichiometric ratio. Then, calculate the molar masses of the reactant and the desired product. Use the given mass of the reactant to find the theoretical mass of the product using moles. Finally, apply the formula for percentage yield: (Actual yield / Theoretical yield) × 100.",
+      "generatedAt": "2026-04-30T19:46:10.272798"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_002",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Hydrocarbon Solutions Ltd. processes crude oil, which is a complex mixture of hydrocarbons. A significant fraction obtained from their distillation column is dodecane (C12H26), a long-chain alkane. Due to low market demand for dodecane and high demand for shorter-chain alkanes (like those in petrol) and alkenes (for plastics), the company converts dodecane into more valuable products using a cracking process.\n\na) **Describe** the industrial process used to separate crude oil into different fractions, including the physical property upon which this separation is based. (3 marks)\n\nb) **Explain** why cracking is an essential process for petrochemical companies, linking your answer to both economic factors and the different uses of the products formed. (4 marks)\n\nc) **State** the general conditions (temperature and catalyst) required for catalytic cracking. (1 mark)\n\nd) In one cracking reaction, dodecane (C12H26) is converted into propene (C3H6) and nonane (C9H20).\n    **Calculate** the total mass of propene that can be produced from 258 kg of dodecane, assuming the reaction goes to completion and produces propene and nonane in a 1:1 molar ratio from dodecane.\n    *   Relative atomic masses: C=12, H=1.\n    *   Show your working clearly and include appropriate units. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Crude oil is heated until most of it vaporises. The hot mixture of liquid and vapour then enters the bottom of a tall fractionating column, which is hotter at the bottom and cooler at the top. Vapours rise up the column and cool. Different fractions condense at different temperatures/heights according to their boiling points, with longer chain hydrocarbons (higher boiling points) condensing lower down, and shorter chain hydrocarbons (lower boiling points) condensing higher up. The physical property upon which separation is based is **boiling point**.\n\nb) Cracking is essential because it converts long-chain, less useful hydrocarbons, which are in low demand and have low economic value (e.g., fuel oil, bitumen fractions), into shorter-chain hydrocarbons that are in high demand and have higher economic value. This includes producing petrol (shorter alkanes) for fuel because there is a high demand for it. It also produces alkenes (e.g., propene, ethene) which are essential raw materials for the petrochemical industry, used to make polymers (plastics) and other organic chemicals, thereby increasing the utility and value of the original crude oil fractions.\n\nc) High temperature (around 450-700 °C) and a catalyst (e.g., alumina or silica).\n\nd) **Calculation:**\n    1.  **Balanced chemical equation:** C12H26 → C3H6 + C9H20\n    2.  **Relative molecular mass (Mr) of Dodecane (C12H26):**\n        Mr = (12 × 12) + (26 × 1) = 144 + 26 = 170 g/mol\n    3.  **Relative molecular mass (Mr) of Propene (C3H6):**\n        Mr = (3 × 12) + (6 × 1) = 36 + 6 = 42 g/mol\n    4.  **Moles of Dodecane:**\n        Mass = 258 kg = 258,000 g\n        Moles = Mass / Mr = 258,000 g / 170 g/mol = 1517.647... mol\n    5.  **Moles of Propene:**\n        From the balanced equation, 1 mole of C12H26 produces 1 mole of C3H6.\n        So, Moles of propene = 1517.647... mol\n    6.  **Mass of Propene:**\n        Mass = Moles × Mr = 1517.647... mol × 42 g/mol = 63741.176... g\n        Mass = **63.7 kg** (to 3 significant figures)",
+      "explanation": "For part (d), the calculation requires first determining the molar masses of dodecane and propene using the given relative atomic masses. Then, the mass of dodecane is converted into moles. From the balanced chemical equation (which shows a 1:1 molar ratio between dodecane and propene), the moles of propene produced are determined. Finally, the moles of propene are converted back into mass using its molar mass. Correct units must be used at each step and in the final answer.",
+      "hint": "For part (d), start by writing the balanced chemical equation for the cracking process, then calculate the molar masses of the reactant (dodecane) and the desired product (propene). Remember to convert all masses to the same unit (e.g., grams) before performing mole calculations and consider the mole ratio from your balanced equation.",
+      "generatedAt": "2026-04-30T19:46:35.960684"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_003",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A chemical plant receives a long-chain alkane fraction, tetradecane (C₁₄H₃₀), from crude oil processing. They aim to convert this into more valuable shorter-chain hydrocarbons, specifically focusing on producing ethene (C₂H₄) and one other alkane through a catalytic cracking process. The cracking process is designed to be as efficient as possible, splitting each tetradecane molecule into exactly one ethene molecule and one other saturated hydrocarbon.\n\na)  **Describe** the conditions required for catalytic cracking. (2 marks)\nb)  **Write** a balanced chemical equation for the cracking of tetradecane (C₁₄H₃₀) into ethene (C₂H₄) and one other saturated hydrocarbon. (2 marks)\nc)  **Calculate** the mass of ethene that can be produced from 500 kg of tetradecane, assuming 100% conversion efficiency. (Aᵣ: C = 12, H = 1) (4 marks)\nd)  **Explain** why the production of ethene from longer alkanes via cracking is considered an important process in the chemical industry, referencing both the properties of ethene and the initial source of the long alkanes. (4 marks)",
+      "options": [],
+      "correctAnswer": "a)  **Conditions for catalytic cracking:**\n    *   High temperature (e.g., between 400 °C and 600 °C)\n    *   Presence of a catalyst (e.g., zeolite, aluminium oxide, or silicon dioxide)\n\nb)  **Balanced chemical equation:**\n    C₁₄H₃₀ → C₂H₄ + C₁₂H₂₆\n\nc)  **Calculation of mass of ethene:**\n    1.  Relative formula mass (Mᵣ) of C₁₄H₃₀ = (14 × 12) + (30 × 1) = 168 + 30 = 198 g/mol\n    2.  Relative formula mass (Mᵣ) of C₂H₄ = (2 × 12) + (4 × 1) = 24 + 4 = 28 g/mol\n    3.  Moles of C₁₄H₃₀ = Mass / Mᵣ = 500,000 g / 198 g/mol ≈ 2525.2525 mol\n    4.  From the balanced equation (1 mole C₁₄H₃₀ → 1 mole C₂H₄ + 1 mole C₁₂H₂₆), the mole ratio of C₁₄H₃₀ to C₂H₄ is 1:1.\n    5.  Moles of C₂H₄ produced = 2525.2525 mol\n    6.  Mass of C₂H₄ = Moles × Mᵣ = 2525.2525 mol × 28 g/mol ≈ 70707.07 g\n    7.  Mass of ethene = 70.7 kg (to 3 significant figures)\n\nd)  **Explanation of importance:**\n    The production of ethene from longer alkanes via cracking is considered an important process because crude oil fractional distillation naturally yields a greater proportion of long-chain alkanes (like tetradecane), which have a lower market demand and value compared to shorter-chain hydrocarbons. Ethene, conversely, is a small, unsaturated alkene characterised by its carbon-carbon double bond, which makes it highly reactive. This reactivity is crucial as it allows ethene to act as a vital monomer for the production of poly(ethene) (polythene), a widely used polymer, and as a key feedstock for many other valuable petrochemicals. Therefore, cracking enables the chemical industry to convert less valuable, oversupplied long-chain fractions from crude oil into highly demanded, more valuable short-chain alkenes like ethene, thereby optimising the economic utility of crude oil resources and meeting significant industrial demands.",
+      "explanation": "a) Catalytic cracking requires specific conditions to efficiently break down large hydrocarbon molecules. High temperatures provide the necessary energy to overcome activation barriers and initiate bond breaking, while a catalyst (such as zeolites) lowers the activation energy further, allowing the reaction to proceed faster and often at lower overall temperatures than thermal cracking alone.\nb) The chemical equation must balance the number of carbon and hydrogen atoms on both sides. Given tetradecane (C₁₄H₃₀) cracks into ethene (C₂H₄) and one other saturated hydrocarbon (an alkane), the remaining atoms must form the alkane. Number of carbons remaining = 14 - 2 = 12. Number of hydrogens remaining = 30 - 4 = 26. This corresponds to the alkane dodecane, C₁₂H₂₆.\nc) This calculation requires stoichiometric principles. First, the relative formula mass (Mᵣ) of both reactant (tetradecane) and product (ethene) are calculated. The initial mass of tetradecane is then converted to moles. Using the 1:1 mole ratio established from the balanced equation, the moles of ethene produced are determined. Finally, these moles are converted back to a mass of ethene, ensuring correct units are used throughout and in the final answer.\nd) This explanation combines knowledge of crude oil composition, the properties of alkanes vs. alkenes, and their industrial relevance. Crude oil contains an abundance of long-chain alkanes, which are less valuable because their supply often exceeds their demand (e.g., they are used as heavy fuel oils). Ethene, as an alkene, is highly reactive due to its C=C double bond. This reactivity makes it an essential building block (monomer) for the plastics industry (e.g., poly(ethene)) and for synthesising other organic chemicals, which are in very high demand. Cracking therefore provides a crucial pathway to convert less valuable crude oil fractions into highly demanded and economically valuable products, aligning supply with market needs.",
+      "hint": "For part (c), remember to convert mass to moles using relative formula mass (Mᵣ), apply the mole ratio from your balanced chemical equation, and then convert moles of product back to its mass. For part (d), consider the relative demand and economic value of long-chain alkanes versus short-chain alkenes in the context of crude oil refining and their uses in the chemical industry.",
+      "generatedAt": "2026-04-30T19:47:33.473300"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_004",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A petrochemical company obtains a fraction from crude oil that is rich in hexadecane (C₁₆H₃₄), a long-chain alkane. To increase its economic value, this hexadecane is subjected to catalytic cracking. One specific cracking reaction pathway produces one molecule of ethene (C₂H₄) and one molecule of another alkane from each molecule of hexadecane.\n\na) State the molecular formula of the other alkane produced in this specific cracking reaction. (1 mark)\n\nb) Calculate the mass of ethene, in grams, that could theoretically be produced from 22.6 g of hexadecane, assuming 100% conversion via this specific pathway. (Relative atomic masses: C = 12.0, H = 1.0) (4 marks)\n\nc) Explain why ethene, a product of cracking, is more reactive than hexadecane. Include reference to their bonding. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) The cracking reaction equation is: C₁₆H₃₄ → C₂H₄ + X\nTo find the molecular formula of X, we balance the atoms:\nCarbon atoms: 16 (in C₁₆H₃₄) - 2 (in C₂H₄) = 14 carbons for X.\nHydrogen atoms: 34 (in C₁₆H₃₄) - 4 (in C₂H₄) = 30 hydrogens for X.\nTherefore, the molecular formula of the other alkane produced is **C₁₄H₃₀**.\n\nb) Calculation of the mass of ethene:\n1.  **Write the balanced chemical equation for the specific cracking pathway:**\n    C₁₆H₃₄ → C₂H₄ + C₁₄H₃₀\n2.  **Calculate the molar mass (Mᵣ) of hexadecane (C₁₆H₃₄):**\n    Mᵣ(C₁₆H₃₄) = (16 × 12.0) + (34 × 1.0) = 192.0 + 34.0 = 226.0 g/mol\n3.  **Calculate the molar mass (Mᵣ) of ethene (C₂H₄):**\n    Mᵣ(C₂H₄) = (2 × 12.0) + (4 × 1.0) = 24.0 + 4.0 = 28.0 g/mol\n4.  **Calculate the number of moles of hexadecane:**\n    Moles = Mass / Molar mass\n    Moles(C₁₆H₃₄) = 22.6 g / 226.0 g/mol = 0.10 mol\n5.  **Determine the moles of ethene produced using the stoichiometric ratio:**\n    From the balanced equation, the mole ratio of C₁₆H₃₄ : C₂H₄ is 1:1.\n    Therefore, 0.10 mol of C₁₆H₃₄ will produce 0.10 mol of C₂H₄.\n6.  **Calculate the mass of ethene produced:**\n    Mass = Moles × Molar mass\n    Mass(C₂H₄) = 0.10 mol × 28.0 g/mol = **2.8 g**\n\nc) Hexadecane is an **alkane**, which means it is a saturated hydrocarbon, containing only carbon-carbon **single covalent bonds** and carbon-hydrogen single covalent bonds. These bonds are strong and do not readily break or react, making alkanes relatively **unreactive**.\nEthene, on the other hand, is an **alkene**, which is an unsaturated hydrocarbon containing a carbon-carbon **double covalent bond (C=C)**. The presence of this double bond creates a region of high electron density that is more exposed and contains a weaker 'pi' component, making it susceptible to attack by other molecules. This allows ethene to undergo **addition reactions** (e.g., with hydrogen, halogens, or steam), which hexadecane cannot. Therefore, the **C=C double bond makes ethene significantly more reactive** than hexadecane.",
+      "explanation": "The question requires balancing a chemical equation to identify an unknown product, followed by a multi-step calculation involving molar masses and mole ratios to determine the mass of a product. Finally, it asks for an explanation of reactivity differences based on chemical bonding. The detailed step-by-step working and reasoning are provided in the 'correctAnswer' field.",
+      "hint": "For part (b), remember to first use the balanced chemical equation to establish the molar ratio between hexadecane and ethene. Then, convert the given mass of hexadecane into moles before using the ratio to find moles of ethene, and finally convert back to mass.",
+      "generatedAt": "2026-04-30T19:47:56.386246"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_005",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Hydrocarbon Innovators, a petrochemical company, aims to maximise the production of high-demand short-chain alkenes like ethene (C₂H₄) and propene (C₃H₆) from less valuable, longer-chain alkane fractions obtained from crude oil. They have identified decane (C₁₀H₂₂) as a suitable feedstock for cracking.\n\n1.  **Describe** the process of fractional distillation used to separate crude oil into different fractions, ensuring you explain the principle behind this separation. (3 marks)\n2.  **Write a balanced symbol equation** for the catalytic cracking of decane (C₁₀H₂₂) to produce one molecule of ethene (C₂H₄), one molecule of propene (C₃H₆), and one molecule of another alkane. (2 marks)\n3.  Hydrocarbon Innovators processes 500 kg of decane using the cracking reaction described in part 2. If the overall percentage yield of ethene (C₂H₄) is 60% by mass from the decane reacted, **calculate** the mass of ethene produced.\n    (Relative atomic masses: C=12, H=1. Give your answer to 3 significant figures.) (4 marks)\n4.  **Explain** why cracking is an essential industrial process for modern petrochemical companies, referring to both the types of products obtained and their market demand. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Describe** the process of fractional distillation:\n    Crude oil is heated in a furnace, causing most of the hydrocarbons to vaporise. This hot mixture of liquid and vapour is then fed into the bottom of a tall fractionating column. The column has a temperature gradient, being hottest at the bottom and gradually getting cooler towards the top. As the hot vapours rise, they cool and condense at different levels (fractions) according to their boiling points. Hydrocarbons with higher boiling points (which are typically longer chains with stronger intermolecular forces) condense lower down the column, while those with lower boiling points (shorter chains with weaker intermolecular forces) continue to rise further before condensing higher up. This separation is based on the different boiling points of the various hydrocarbon components.\n    *(3 marks: 1 for heating/vapourisation and entry into column, 1 for temperature gradient/condensation at different levels, 1 for principle linked to boiling points/intermolecular forces/chain length).\n\n2.  **Balanced symbol equation**:\n    C₁₀H₂₂ → C₂H₄ + C₃H₆ + C₅H₁₂\n    *(2 marks: 1 for correct products including the derived alkane, 1 for a correctly balanced equation).\n\n3.  **Calculate** the mass of ethene produced:\n    *Step 1: Calculate molar masses.*\n    Molar mass of decane (C₁₀H₂₂) = (10 × 12) + (22 × 1) = 120 + 22 = 142 g/mol\n    Molar mass of ethene (C₂H₄) = (2 × 12) + (4 × 1) = 24 + 4 = 28 g/mol\n\n    *Step 2: Determine theoretical mass ratio from balanced equation.*\n    From the balanced equation (1 mole of C₁₀H₂₂ produces 1 mole of C₂H₄):\n    142 g of decane theoretically produces 28 g of ethene.\n\n    *Step 3: Calculate theoretical mass of ethene from 500 kg decane.*\n    Theoretical mass of ethene = (Mass of ethene / Mass of decane) × Mass of decane processed\n    Theoretical mass of ethene = (28 g / 142 g) × 500 kg\n    Theoretical mass of ethene = 0.19718... × 500 kg = 98.591... kg\n\n    *Step 4: Apply percentage yield.*\n    Actual mass of ethene = Theoretical mass of ethene × (Percentage yield / 100)\n    Actual mass of ethene = 98.591... kg × (60 / 100)\n    Actual mass of ethene = 98.591... kg × 0.60 = 59.154... kg\n\n    *Step 5: Round to 3 significant figures.*\n    Mass of ethene produced = **59.2 kg**\n    *(4 marks: 1 for correct molar masses, 1 for correct theoretical mass ratio/calculation, 1 for applying percentage yield, 1 for correct final answer with units and s.f.).\n\n4.  **Explain** why cracking is an essential industrial process:\n    Cracking is essential because the fractional distillation of crude oil often produces an excess of less valuable, long-chain alkanes (e.g., in fuel oil or bitumen fractions) for which there is low market demand. Cracking allows these large, less useful molecules to be broken down into more valuable, shorter-chain alkanes and, crucially, alkenes. Alkenes, such as ethene and propene, are in very high demand as they are the primary starting materials (monomers) for the production of polymers (plastics) and other important petrochemicals. By converting low-demand fractions into high-demand products, cracking maximises the profitability of crude oil refining and helps meet the market's specific needs for petrochemical feedstocks.\n    *(3 marks: 1 for breaking long-chain alkanes into shorter alkanes and alkenes, 1 for stating long-chain alkanes are in low demand/less valuable, 1 for stating alkenes are high demand/used for polymers/more valuable).",
+      "explanation": "This question assesses the student's understanding of key organic chemistry concepts within an industrial context. Part 1 requires a detailed description of fractional distillation, including its underlying scientific principle. Part 2 tests the ability to balance a cracking equation, applying the conservation of atoms to determine an unknown product. Part 3 is an advanced calculation that combines stoichiometry (using molar masses and mole ratios from the balanced equation) with the concept of percentage yield. This requires careful unit management and significant figure rounding. Part 4 asks for an explanation of the industrial importance of cracking, requiring students to link the properties and demand of different hydrocarbon types to economic considerations.",
+      "hint": "For the calculation, first determine the theoretical mass of ethene produced from the given mass of decane using molar masses and the stoichiometry of your balanced equation. Then, apply the percentage yield to find the actual mass produced.",
+      "generatedAt": "2026-04-30T19:48:47.239618"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_006",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Petro-Isle Refinery operates on a remote island where the local crude oil is particularly rich in very long-chain hydrocarbons, specifically a fraction containing molecules averaging 25 carbon atoms, such as pentacosane (C₂₅H₅₂). The island's primary energy demands are for petrol and LPG, and there is a growing interest in developing a local plastics manufacturing industry.\n\na) Describe the principle by which crude oil is separated into different fractions in a fractional distillation column. (3 marks)\n\nb) The Petro-Isle Refinery finds that the pentacosane (C₂₅H₅₂) fraction is in low demand directly, but there is high demand for ethene (C₂H₄) for plastics and for an alkane suitable for petrol, such as octane (C₈H₁₈).\n   i) Explain why the pentacosane fraction is in low demand for direct use as fuel compared to shorter-chain hydrocarbons like octane. (3 marks)\n   ii) Write a balanced symbol equation for the catalytic cracking of one molecule of pentacosane (C₂₅H₅₂) to produce one molecule of ethene (C₂H₄), one molecule of octane (C₈H₁₈), and one other straight-chain hydrocarbon product. (4 marks)\n   iii) Explain why cracking is an essential process for Petro-Isle Refinery, considering the island's demands. (4 marks)\n\nc) Describe how a student could distinguish between the octane (C₈H₁₈) and ethene (C₂H₄) produced in the cracking process using a simple chemical test. Include the expected observations. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Crude oil is heated until most of it vaporises and enters the fractionating column. The column has a temperature gradient, being hottest at the bottom and coolest at the top. As the hot vapours rise, they cool, and hydrocarbons condense at different levels (trays) according to their specific boiling points. Longer-chain hydrocarbons have higher boiling points and condense lower down the column, while shorter-chain hydrocarbons have lower boiling points and rise higher before condensing.\n\nb) i) Pentacosane (C₂₅H₅₂) has a very long carbon chain, giving it a high boiling point and making it less volatile. Because of its large size, it is also very viscous and does not flow easily. These properties make it difficult to ignite and unsuitable for direct use as a fuel like petrol, which requires shorter, more volatile hydrocarbons for efficient combustion in engines.\n   ii) C₂₅H₅₂ → C₂H₄ + C₈H₁₈ + C₁₅H₃₀\n      (C atoms: 25 on left; 2+8+15 = 25 on right)\n      (H atoms: 52 on left; 4+18+30 = 52 on right)\n   iii) Cracking is essential for Petro-Isle Refinery because it converts long-chain, low-demand hydrocarbons (like pentacosane) into shorter-chain, higher-demand products. This allows them to meet the local demand for fuels like petrol (made from octane) and LPG, which would otherwise be in short supply. Additionally, cracking produces alkenes (like ethene), which are vital chemical feedstocks for the plastics manufacturing industry the island wishes to develop, adding value to their crude oil and supporting local economic growth.\n\nc) A student could use bromine water to distinguish between octane and ethene. Add a few drops of orange-brown bromine water to separate samples of octane and ethene. Ethene, being an unsaturated alkene containing a C=C double bond, will rapidly decolorize the bromine water as the bromine adds across the double bond. Octane, being a saturated alkane with only single bonds, will not react with the bromine water, and its orange-brown colour will persist.",
+      "explanation": "a) This part describes the physical process of fractional distillation, focusing on the temperature gradient and the relationship between boiling point, chain length, and condensation levels.\n\nb) i) This explanation links the physical properties (chain length, boiling point, volatility, viscosity) of pentacosane to its suitability as a fuel compared to shorter chains, demonstrating understanding of hydrocarbon properties.\n   ii) This part requires the student to apply knowledge of cracking, general formulae for alkanes and alkenes, and balancing chemical equations. The student must deduce the formula of the third hydrocarbon product (pentadecene, C₁₅H₃₀) by ensuring carbon and hydrogen atoms are conserved. Pentacosane (C₂₅H₅₂) is an alkane (CnH2n+2). Ethene (C₂H₄) is an alkene (CnH2n). Octane (C₈H₁₈) is an alkane (CnH2n+2). To balance, the remaining carbon atoms (25 - 2 - 8 = 15) and hydrogen atoms (52 - 4 - 18 = 30) must form a molecule with formula C₁₅H₃₀, which is an alkene (CnH2n).\n   iii) This explanation requires understanding the purpose of cracking, linking the process to economic drivers (supply and demand for different fractions) and the production of valuable raw materials (alkenes for polymers).\n\nc) This describes the standard laboratory test for unsaturation using bromine water (or acidified potassium permanganate). It requires stating the reagent, the expected observation for an alkene (decolorization), and the expected observation for an alkane (no change), along with the underlying chemical reason (presence/absence of double bond).",
+      "hint": "For part b(ii), remember that cracking typically produces a mixture of saturated (alkanes) and unsaturated (alkenes) hydrocarbons from a larger alkane. The total number of carbon and hydrogen atoms must be conserved in the balanced equation.",
+      "generatedAt": "2026-04-30T19:49:28.170940"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_007",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A remote island nation, 'Isle Verde', relies on its small-scale refinery to process locally extracted crude oil. Historically, the island's primary industries required heavy fuel oils for shipping and bitumen for road construction. However, recent economic shifts have led to a surge in demand for lightweight motor fuels for new transport networks and short-chain alkenes as feedstocks for a burgeoning polymer manufacturing industry. The crude oil extracted on Isle Verde is predominantly composed of very long-chain alkanes.\n\n1.  **Describe** how fractional distillation separates the crude oil into different fractions, referring to the physical property exploited and the temperature gradient within the fractionating column. (3 marks)\n2.  **Explain** why the initial separation by fractional distillation alone will not adequately meet the new demands for lightweight motor fuels and polymer feedstocks on Isle Verde. (4 marks)\n3.  To meet the new demands, the refinery plans to install a catalytic cracking unit. **Describe** the essential conditions (temperature and catalyst) required for catalytic cracking and the general nature of the hydrocarbon products formed. (3 marks)\n4.  **Explain** how the introduction of a cracking unit will enable the refinery to satisfy the increased demand for both lightweight motor fuels and polymer feedstocks, naming the *types* of hydrocarbons relevant to each product. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  Crude oil is first heated until most of it vaporises.\n    The hot vapours then enter the bottom of a tall fractionating column, which is hotter at the bottom and gradually gets cooler towards the top.\n    As the vapours rise, they cool and condense at different levels (or fractions) according to their boiling points/molecular size. Hydrocarbons with higher boiling points (longer chains) condense lower down in the column, while those with lower boiling points (shorter chains) continue to rise further before condensing higher up.\n\n2.  Isle Verde's crude oil is predominantly composed of very long-chain alkanes. Fractional distillation primarily separates these existing long-chain hydrocarbons into heavy fractions like fuel oils and bitumen, which have high boiling points.\n    Lightweight motor fuels (e.g., petrol/gasoline) consist of shorter-chain alkanes, which are present in relatively small quantities in the initial crude oil.\n    Polymer feedstocks (e.g., ethene) are alkenes, which are unsaturated hydrocarbons and are either not naturally present in crude oil or present in negligible amounts. Therefore, fractional distillation cannot produce enough of the required short-chain alkanes for motor fuel, nor can it produce the necessary alkenes for polymer manufacturing.\n\n3.  Catalytic cracking requires specific conditions:\n    -   High temperatures, typically ranging from 400°C to 800°C.\n    -   A catalyst, such as zeolite (a mixture of aluminium oxide and silicon dioxide).\n    The general nature of the hydrocarbon products formed is a mixture of shorter-chain alkanes (saturated hydrocarbons) and alkenes (unsaturated hydrocarbons).\n\n4.  The cracking unit addresses the demands by chemically breaking down the abundant, less-demanded very long-chain alkanes into smaller, more valuable molecules.\n    This process produces shorter-chain **alkanes**, which are ideal for use as lightweight motor fuels (e.g., petrol), thus meeting the demand for transport.\n    Crucially, cracking also yields **alkenes** (e.g., ethene, propene), which are unsaturated hydrocarbons. These alkenes are vital as chemical feedstocks for the burgeoning polymer manufacturing industry (e.g., to create poly(ethene) for plastic films), thereby satisfying that specific demand.",
+      "explanation": "This is an open-ended question designed to assess the student's holistic understanding of crude oil processing, linking fractional distillation, cracking, and the properties/uses of alkanes and alkenes. The model answer provides a detailed, step-by-step breakdown:\n\n1.  **Fractional Distillation:** Explains the heating, vaporisation, temperature gradient in the column, and differential condensation based on boiling points/molecular size.\n2.  **Limitations of Fractional Distillation:** Connects the crude oil's composition (long-chain alkanes) to the limited yield of desired products (short-chain alkanes for fuel, and absence of alkenes for polymers), highlighting why it's insufficient for the new demands.\n3.  **Catalytic Cracking Process:** Details the specific conditions (high temperature, catalyst) and the types of products (shorter alkanes and alkenes) formed during cracking.\n4.  **Meeting Demands with Cracking:** Explains how cracking directly solves the problem by converting the abundant long-chain alkanes into both shorter-chain alkanes (for motor fuel) and alkenes (for polymer feedstocks), explicitly naming the hydrocarbon types relevant to each demand. This demonstrates a clear cause-and-effect understanding of how cracking addresses the specific economic shift.",
+      "hint": "Consider how the molecular size of hydrocarbons affects their boiling points and uses. Think about what types of molecules are present in crude oil and what types are needed, and how cracking fundamentally changes hydrocarbon structures.",
+      "generatedAt": "2026-04-30T19:49:50.223852"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_008",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "The remote island nation of 'Isla Verde' has discovered a small crude oil reserve. Initial analysis reveals that this crude oil is unusually rich in very long-chain alkanes, with molecules predominantly containing between 25 and 30 carbon atoms. There is a very limited amount of shorter-chain hydrocarbons, such as those found in petrol (gasoline) or liquefied petroleum gas (LPG). The community of Isla Verde urgently needs to produce sufficient quantities of petrol for their transportation and LPG for domestic cooking. They are also committed to minimising environmental impact from their refining activities.\n\n**(a)** Describe, with reference to the boiling points of hydrocarbons, why simple fractional distillation of Isla Verde's crude oil would be an inefficient method to meet their immediate needs for petrol and LPG. (3 marks)\n\n**(b)** Explain why a cracking process is essential for Isla Verde to effectively utilise their crude oil resource to meet the community's fuel demands, referencing the chemical changes that occur. (4 marks)\n\n**(c)** During the cracking of a representative long-chain alkane, hexacosane (C₂₆H₅₄), a key product desired is octane (C₈H₁₈).\n   **(i)** State the general formula for the homologous series to which hexacosane belongs. (1 mark)\n   **(ii)** Write a balanced chemical equation for the cracking of hexacosane (C₂₆H₅₄) into octane (C₈H₁₈) and **one other** hydrocarbon product. (3 marks)\n\n**(d)** The cracking process invariably produces significant quantities of alkenes.\n   **(i)** Describe a chemical test, including the expected observation, that Isla Verde's scientists could use to confirm the presence of alkenes in a sample of their cracked products. (3 marks)\n   **(ii)** Explain two distinct ways the alkenes produced could be utilised by Isla Verde, considering both their economic value and commitment to environmental sustainability. (4 marks)",
+      "options": [],
+      "correctAnswer": {
+        "(a)": "Fractional distillation separates crude oil components based on their boiling points. Long-chain alkanes, like those predominant in Isla Verde's crude oil (C25-C30), have high boiling points because of stronger intermolecular forces (van der Waals forces) between larger molecules. This means they would condense at lower, hotter sections of the fractional distillation column, yielding mainly heavy fuel oils or bitumen. Petrol (C5-C12) and LPG (C1-C4) consist of shorter-chain alkanes with much lower boiling points, causing them to vaporise and rise higher in the column. Since Isla Verde's crude oil has very limited amounts of these shorter chains, fractional distillation would produce negligible quantities of petrol and LPG, making it inefficient for their immediate fuel needs. (3 marks)",
+        "(b)": "Cracking is essential because the long-chain alkanes in Isla Verde's crude oil are not directly useful as petrol or LPG, which are composed of shorter-chain hydrocarbons. Cracking is a thermal decomposition process where large, less useful hydrocarbon molecules are broken down into smaller, more useful ones. High temperatures (and often catalysts) provide the energy to break the strong carbon-carbon covalent bonds within the long alkane chains. This chemical change results in the formation of a mixture of shorter alkanes (suitable for petrol and LPG) and alkenes. By converting the abundant long-chain alkanes into these valuable shorter molecules, cracking allows Isla Verde to effectively meet its fuel demands. (4 marks)",
+        "(c)": {
+          "(i)": "CnH₂n+₂ (1 mark)",
+          "(ii)": "C₂₆H₅₄ → C₈H₁₈ + C₁₈H₃₆ (3 marks - 1 mark for correct reactants, 1 mark for correct products, 1 mark for balancing)"
+        },
+        "(d)": {
+          "(i)": "To confirm the presence of alkenes, Isla Verde's scientists could use the bromine water test. A small sample of the cracked products would be shaken with aqueous bromine water, which is typically orange-brown. If alkenes are present, the bromine will react with the carbon-carbon double bond via an addition reaction, causing the orange-brown colour of the bromine water to rapidly decolourise, turning colourless. (3 marks - 1 mark for test, 1 mark for observation, 1 mark for linking to reaction/alkenes)",
+          "(ii)": "Two potential uses for the alkenes produced:\n1.  **Production of polymers (plastics):** Alkenes are unsaturated hydrocarbons with carbon-carbon double bonds, making them very reactive. They can undergo addition polymerisation to form long-chain polymers, which are the basis for plastics. This would provide Isla Verde with a valuable material for manufacturing local goods, reducing waste and reliance on imported plastics, aligning with environmental sustainability by creating durable products. (2 marks)\n2.  **Feedstock for other chemicals:** Alkenes are crucial raw materials (feedstock) in the petrochemical industry for synthesising a wide range of organic compounds, such as alcohols, haloalkanes, and other specialty chemicals. By processing alkenes further into these valuable products, Isla Verde can diversify its economy beyond just fuel, creating higher-value exports and reducing environmental impact by converting a potential 'waste' product into a useful resource, rather than simply burning it. (2 marks)"
+        }
+      },
+      "explanation": "This question assesses a student's ability to apply knowledge of crude oil refining processes (fractional distillation and cracking), properties of alkanes and alkenes, and their wider societal and environmental implications in an unfamiliar but realistic context. \n\n**(a) Fractional Distillation Limitations:** Students must explain that longer-chain alkanes have higher boiling points due to stronger intermolecular forces, causing them to condense in lower, hotter parts of the distillation column. Conversely, petrol and LPG fractions consist of shorter-chain alkanes with low boiling points that rise higher. Since the crude oil is rich in long chains and poor in short chains, fractional distillation alone will not yield the desired products.\n\n**(b) Necessity of Cracking:** Students should explain that cracking is a thermal decomposition process that breaks down large, less useful hydrocarbon molecules (long-chain alkanes) into smaller, more useful ones (shorter alkanes and alkenes). This chemical change is essential to convert the abundant but unsuitable long-chain alkanes into the desired petrol and LPG fractions.\n\n**(c) Chemical Equation and Homologous Series:** \n   (i) Hexacosane (C₂₆H₅₄) is an alkane, so its general formula is CnH₂n+₂.\n   (ii) For the balanced equation, subtract the atoms of octane (C₈H₁₈) from hexacosane (C₂₆H₅₄) to find the remaining product: C₂₆ - C₈ = C₁₈; H₅₄ - H₁₈ = H₃₆. The remaining product is C₁₈H₃₆, which is an alkene (CnH₂n).\n\n**(d) Alkene Detection and Utilisation:**\n   (i) The chemical test for unsaturation (alkenes) is the bromine water test. Alkenes react with bromine water (orange-brown) via addition reaction, causing the colour to rapidly decolourise and turn colourless.\n   (ii) Students need to provide two distinct uses for alkenes, linking them to economic value and environmental sustainability. Common uses include polymerisation to make plastics (reduces waste if locally manufactured, provides durable goods) or as chemical feedstock for other valuable organic compounds (diversifies economy, converts a byproduct into a high-value resource rather than just burning it, which can be less efficient or produce more pollutants).",
+      "hint": "Remember to connect the physical properties of hydrocarbons (e.g., boiling points) to the separation processes, and the chemical properties (e.g., reactivity, bond breaking) to the transformation and utilisation of different hydrocarbon types.",
+      "generatedAt": "2026-04-30T19:50:15.465296"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_009",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly discovered oil field, \"Greenfield Reservoir,\" yields crude oil with an unusually high proportion of very long-chain hydrocarbons (average carbon chain length C25) and a significantly lower proportion of medium-chain hydrocarbons (C8-C12), which are crucial for petrol production. The crude oil also contains a small amount of an unknown liquid, X, which is separated during distillation.\n\n**(a)** Describe how the different hydrocarbons in the Greenfield Reservoir crude oil are separated during fractional distillation. (3 marks)\n\n**(b)** Explain why the high proportion of very long-chain hydrocarbons in Greenfield Reservoir crude oil presents an economic challenge for a refinery aiming to maximise petrol production. (3 marks)\n\nState the industrial process used to overcome this challenge and convert long-chain hydrocarbons into more valuable shorter-chain ones. (1 mark)\n\n**(c)** A key component of the very long-chain hydrocarbons is pentacosane (C25H52). During cracking, one molecule of pentacosane is broken down to produce one molecule of dodecane (C12H26) and one molecule of an alkene. Write a balanced symbol equation for this cracking reaction. (3 marks)\n\n**(d)** Liquid X, a small component separated from the crude oil, has the formula C4H8.\n\nDescribe a chemical test that could be used to confirm that liquid X is an alkene, including the expected observations. (3 marks)\n\nExplain why liquid X would have a lower boiling point than dodecane (C12H26). (3 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Describe how the different hydrocarbons in the Greenfield Reservoir crude oil are separated during fractional distillation. (3 marks)**\n*   Crude oil is heated and vaporised. (1 mark)\n*   The vapours rise up a fractionating column, cooling as they ascend. (1 mark)\n*   Hydrocarbons condense at different levels (fractions) according to their specific boiling points, with longer chains (higher boiling points) condensing lower down and shorter chains (lower boiling points) condensing higher up. (1 mark)\n\n**(b) Explain why the high proportion of very long-chain hydrocarbons in Greenfield Reservoir crude oil presents an economic challenge for a refinery aiming to maximise petrol production. (3 marks)**\n*   Very long-chain hydrocarbons have high boiling points and are often viscous or solid at room temperature, making them less useful as high-demand fuels like petrol. (1 mark)\n*   Petrol (medium-chain hydrocarbons, e.g., C8-C12) is in very high demand for vehicles and thus has a higher economic value. (1 mark)\n*   Therefore, a crude oil rich in long chains means less high-value petrol can be directly obtained, leading to lower profits unless further processing is done. (1 mark)\n\n**State the industrial process used to overcome this challenge and convert long-chain hydrocarbons into more valuable shorter-chain ones. (1 mark)**\n*   Cracking (1 mark)\n\n**(c) A key component of the very long-chain hydrocarbons is pentacosane (C25H52). During cracking, one molecule of pentacosane is broken down to produce one molecule of dodecane (C12H26) and one molecule of an alkene. Write a balanced symbol equation for this cracking reaction. (3 marks)**\n*   Reactant: C25H52 (pentacosane)\n*   Known Product: C12H26 (dodecane)\n*   Let the alkene be CxHy.\n*   Balancing carbon atoms: 25 = 12 + x => x = 13 (1 mark for determining x)\n*   Balancing hydrogen atoms: 52 = 26 + y => y = 26 (1 mark for determining y)\n*   Since it's an alkene, the formula CnH2n holds (C13H26).\n*   Balanced equation: C25H52 → C12H26 + C13H26 (1 mark for correct balanced equation)\n\n**(d) Liquid X, a small component separated from the crude oil, has the formula C4H8.**\n\n**Describe a chemical test that could be used to confirm that liquid X is an alkene, including the expected observations. (3 marks)**\n*   Add bromine water to liquid X. (1 mark)\n*   If liquid X is an alkene, the orange/brown colour of the bromine water will disappear/decolorise. (1 mark)\n*   This happens because the bromine adds across the double bond of the alkene. (1 mark)\n\n**Explain why liquid X would have a lower boiling point than dodecane (C12H26). (3 marks)**\n*   Liquid X (C4H8) has fewer carbon atoms in its chain compared to dodecane (C12H26). (1 mark)\n*   Shorter hydrocarbon chains have weaker intermolecular forces of attraction (van der Waals forces). (1 mark)\n*   Less energy is required to overcome these weaker forces, resulting in a lower boiling point. (1 mark)",
+      "explanation": "This question assesses the student's understanding of key concepts in organic chemistry, including fractional distillation, the economic drivers for crude oil refining, the process of cracking, balancing chemical equations for cracking, identification of alkenes, and the relationship between molecular structure and physical properties like boiling point.\n\nPart (a) requires a description of the fractional distillation process, linking heating, vaporisation, temperature gradients, and condensation at different levels to the varying boiling points of hydrocarbons.\n\nPart (b) delves into the applied context, asking students to explain the economic implications of a specific crude oil composition and then identify the industrial solution (cracking). This requires linking the properties of long-chain hydrocarbons (high boiling point, low demand for fuel) to economic value.\n\nPart (c) tests the ability to apply the principle of conservation of atoms to construct a balanced symbol equation for a cracking reaction, correctly identifying the formula of an unknown alkene product.\n\nPart (d) first requires knowledge of the characteristic test for alkenes (bromine water test) and the expected observation. The second part asks for an explanation of the difference in boiling points between two hydrocarbons, requiring the student to link chain length to the strength of intermolecular forces and the energy needed to overcome them.",
+      "hint": "Remember to consider the conservation of mass for balanced equations, and how the length of hydrocarbon chains affects the strength of intermolecular forces and subsequently boiling points.",
+      "generatedAt": "2026-04-30T19:50:37.628454"
+    },
+    {
+      "id": "s-y10-organic-chem_advanced_010",
+      "topicId": "s-y10-organic-chem",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A petrochemical company is analyzing a specific fraction obtained from the fractional distillation of crude oil. This fraction, primarily composed of a long-chain alkane, decane (C10H22), is considered less valuable as a direct fuel source due to its high boiling point and viscosity. To increase its utility, the company plans to crack this decane under controlled conditions. During one successful cracking reaction, propene (C3H6) is identified as one of the gaseous products.\n\nWhich of the following statements correctly describes the remaining hydrocarbon product of this specific cracking reaction and explains how it would react with bromine water compared to decane?",
+      "options": [
+        "A) The remaining product is heptane (C7H16), which would decolorize bromine water due to its saturated nature, unlike decane.",
+        "B) The remaining product is heptane (C7H16), which would not decolorize bromine water, similar to decane, as both are alkanes.",
+        "C) The remaining product is heptene (C7H14), which would decolorize bromine water due to its unsaturated nature, unlike decane.",
+        "D) The remaining product is heptene (C7H14), which would not decolorize bromine water, similar to decane, as both are hydrocarbons."
+      ],
+      "correctAnswer": "B) The remaining product is heptane (C7H16), which would not decolorize bromine water, similar to decane, as both are alkanes.",
+      "explanation": "1.  **Determine the molecular formula of the remaining product:**\n    Cracking involves breaking a larger molecule into smaller ones. The reaction can be represented as:\n    C10H22 (decane) → C3H6 (propene) + X\n    To find the formula of X, we balance the number of carbon and hydrogen atoms on both sides of the equation:\n    Carbon (C) atoms: 10 (reactant) - 3 (propene) = 7 (for X)\n    Hydrogen (H) atoms: 22 (reactant) - 6 (propene) = 16 (for X)\n    Therefore, the molecular formula of the remaining hydrocarbon product (X) is C7H16.\n\n2.  **Classify the remaining product:**\n    The general formula for alkanes is CnH2n+2. For C7H16, if n=7, then 2n+2 = 2(7)+2 = 14+2 = 16. This matches the derived formula, meaning C7H16 is an alkane (specifically, heptane).\n\n3.  **Predict the reaction with bromine water:**\n    *   **Alkanes (like decane, C10H22, and heptane, C7H16)** are saturated hydrocarbons, containing only carbon-carbon single bonds. They do not react with or decolorize bromine water under normal conditions. Bromine water remains its characteristic orange/brown colour.\n    *   **Alkenes (like propene, C3H6)** are unsaturated hydrocarbons, containing a carbon-carbon double bond. They readily undergo addition reactions with bromine, causing the bromine water to decolorize (turn colourless) as the bromine atoms add across the double bond.\n\n4.  **Evaluate the given options:**\n    *   **A) Incorrect.** The product is correctly identified as heptane (C7H16), but alkanes are saturated and *do not* decolorize bromine water. The explanation given is incorrect.\n    *   **B) Correct.** The product is correctly identified as heptane (C7H16). As an alkane, it is saturated and *would not* decolorize bromine water. This behaviour is similar to decane, which is also an alkane. This statement is accurate in all aspects.\n    *   **C) Incorrect.** The product is incorrectly identified as heptene (C7H14). While heptene (an alkene) would decolorize bromine water due to its unsaturated nature, C7H14 is not the product of this specific cracking reaction.\n    *   **D) Incorrect.** The product is incorrectly identified as heptene (C7H14). Furthermore, an alkene like heptene *would* decolorize bromine water, so the statement that it would not decolorize bromine water is incorrect.\n\nThus, Option B is the correct statement.",
+      "hint": "First, balance the atoms in the cracking equation (C10H22 → C3H6 + ?) to determine the molecular formula of the unknown product. Then, determine if this product fits the general formula for alkanes (CnH2n+2) or alkenes (CnH2n). Finally, recall the chemical test using bromine water to distinguish between saturated and unsaturated hydrocarbons.",
+      "generatedAt": "2026-04-30T19:51:17.497069"
+    }
+  ]
+}

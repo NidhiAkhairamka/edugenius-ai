@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y8-nutrition_beginner_001",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State the main organ in the human digestive system where most of the digested nutrients are absorbed into the bloodstream.",
+      "options": [
+        "A) Oesophagus",
+        "B) Stomach",
+        "C) Small intestine",
+        "D) Large intestine"
+      ],
+      "correctAnswer": "C) Small intestine",
+      "explanation": "The small intestine is the primary site for nutrient absorption. After food has been broken down into smaller, soluble molecules by enzymes, its long length and numerous folds, called villi, provide a very large surface area. This adaptation allows for efficient transfer of these digested nutrients (like glucose and amino acids) into the bloodstream, which then transports them to cells throughout the body.",
+      "hint": "Think about which part of the digestive system is specifically adapted with a very large internal surface area to get the beneficial substances from your food into your body.",
+      "generatedAt": "2026-04-30T13:05:46.196360"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_002",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "What is the primary role of the stomach in the human digestive system?",
+      "options": [
+        "A) Absorbing most of the water from undigested food.",
+        "B) Churning food and mixing it with digestive juices.",
+        "C) Producing bile to help digest fats.",
+        "D) Absorbing most of the digested nutrients into the bloodstream."
+      ],
+      "correctAnswer": "B) Churning food and mixing it with digestive juices.",
+      "explanation": "The stomach is a muscular organ that churns and mixes food with gastric juices, which contain acids and enzymes. This physical and chemical breakdown of food prepares it for further digestion in the small intestine. Option A describes the function of the large intestine, Option C describes a function of the liver, and Option D describes the primary role of the small intestine.",
+      "hint": "Think about what happens to food immediately after you swallow it and before it reaches the small intestine. What kind of action does the stomach perform?",
+      "generatedAt": "2026-04-30T13:05:54.797398"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_003",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State the main function of protein in the human body.",
+      "options": [
+        "A) Providing quick energy for activities",
+        "B) Keeping the body warm through insulation",
+        "C) Growth and repair of tissues and cells",
+        "D) Aiding in the absorption of vitamins"
+      ],
+      "correctAnswer": "C) Growth and repair of tissues and cells",
+      "explanation": "Proteins are essential for building and repairing body tissues, such as muscles, skin, and organs. They are also vital for making enzymes, hormones, and other body chemicals. While other nutrients provide energy (carbohydrates and fats) or help with absorption (vitamins and minerals), the primary structural and repair role belongs to proteins.",
+      "hint": "Consider what your body needs to do after exercise or when you are growing.",
+      "generatedAt": "2026-04-30T13:09:01.080112"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_004",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Which term describes the process in the human digestive system where large, insoluble food molecules are broken down into smaller, soluble molecules that can be absorbed into the bloodstream?",
+      "options": [
+        "A: Excretion",
+        "B: Respiration",
+        "C: Digestion",
+        "D: Circulation"
+      ],
+      "correctAnswer": "C: Digestion",
+      "explanation": "Digestion is the correct term. It is the process of breaking down complex food substances into simpler, absorbable forms so that nutrients can pass into the bloodstream. Excretion is the removal of waste products, respiration is the process of releasing energy from food, and circulation is the movement of blood around the body.",
+      "hint": "Think about what happens to food in your body from the moment it enters your mouth until its nutrients are ready to be used by your cells.",
+      "generatedAt": "2026-04-30T13:09:12.964428"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_005",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State one benefit of including fibre in a healthy diet.",
+      "options": [],
+      "correctAnswer": "Fibre helps to prevent constipation.",
+      "explanation": "Fibre, also known as roughage, is an important component of a healthy diet. Although it cannot be digested by the human body, it adds bulk to the food passing through the digestive system. This bulk stimulates the muscles in the intestine to contract and push the waste products along more effectively, which helps to maintain regular bowel movements and prevent constipation.",
+      "hint": "Think about how fibre affects the movement of waste material through your digestive system.",
+      "generatedAt": "2026-04-30T13:09:23.155317"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_006",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State the process by which digested food moves from the small intestine into the bloodstream.",
+      "options": [
+        "A) Ingestion",
+        "B) Peristalsis",
+        "C) Absorption",
+        "D) Excretion"
+      ],
+      "correctAnswer": "C) Absorption",
+      "explanation": "Absorption is the process where tiny, digested nutrient molecules pass through the wall of the small intestine and enter the bloodstream. The bloodstream then transports these nutrients to all the cells in the body where they are used for energy, growth, and repair.",
+      "hint": "Think about what happens to the fully broken-down food molecules after digestion is complete in the small intestine, before they are used by the body's cells.",
+      "generatedAt": "2026-04-30T13:09:33.065658"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_007",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Which of the following organs is primarily responsible for absorbing water from undigested food, forming faeces?",
+      "options": [
+        "A. Stomach",
+        "B. Small intestine",
+        "C. Large intestine",
+        "D. Oesophagus"
+      ],
+      "correctAnswer": "C. Large intestine",
+      "explanation": "The large intestine's main function in the digestive system is to absorb water from the remaining indigestible food material. This process solidifies the waste products, turning them into faeces, which are then ready for elimination from the body. The stomach is involved in churning food and initial protein digestion, the small intestine is where most nutrient absorption occurs, and the oesophagus transports food to the stomach.",
+      "hint": "Consider the organ responsible for the final stage of water reabsorption before waste is expelled from the body.",
+      "generatedAt": "2026-04-30T13:09:46.638440"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_008",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Which type of digestion begins in the mouth through the process of chewing food?",
+      "options": [
+        "A) Chemical digestion",
+        "B) Nutrient absorption",
+        "C) Mechanical digestion",
+        "D) Water absorption"
+      ],
+      "correctAnswer": "C) Mechanical digestion",
+      "explanation": "Digestion is the process of breaking down food. Mechanical digestion involves the physical breakdown of food into smaller pieces, which is what happens when you chew. This action increases the surface area for chemical digestion to work more efficiently. Chemical digestion involves enzymes, while nutrient and water absorption occur later in the digestive tract.",
+      "hint": "Think about whether chewing physically breaks down food or chemically changes it.",
+      "generatedAt": "2026-04-30T13:09:58.531035"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_009",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State the primary function of carbohydrates in the human body.",
+      "options": [
+        "To build and repair body tissues",
+        "To insulate organs and provide long-term energy storage",
+        "To provide a quick source of energy",
+        "To transport oxygen around the body"
+      ],
+      "correctAnswer": "To provide a quick source of energy",
+      "explanation": "Carbohydrates are essential nutrients that are broken down into glucose, which is then used by the body's cells as their main and most immediate source of energy. This energy fuels all bodily functions, from movement to thinking. While other nutrients like fats also provide energy, carbohydrates are the body's preferred and quickest energy source.",
+      "hint": "Consider which nutrient is often described as 'fuel' for immediate activities.",
+      "generatedAt": "2026-04-30T13:10:11.066681"
+    },
+    {
+      "id": "s-y8-nutrition_beginner_010",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "State the primary function of protein within the human body.",
+      "options": [
+        "Providing a quick source of energy",
+        "Insulating the body and storing energy",
+        "Growth and repair of tissues",
+        "Helping dissolve waste products"
+      ],
+      "correctAnswer": "Growth and repair of tissues",
+      "explanation": "Protein is an essential nutrient primarily responsible for the growth and repair of body tissues, such as muscles, organs, and skin. While carbohydrates mainly provide a quick source of energy and fats are important for insulation and long-term energy storage, protein's key role is structural maintenance and repair.",
+      "hint": "Think about what nutrients are needed for building and fixing parts of your body.",
+      "generatedAt": "2026-04-30T13:10:22.773668"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y8-nutrition_intermediate_001",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A Year 8 student needs an average of 8000 kJ of energy per day. For lunch, they eat one slice of wholemeal bread (450 kJ), a serving of chicken breast (900 kJ), and a small apple (300 kJ).\n\n**Calculate** the total energy provided by this lunch.\n**State** how much *more* or *less* energy this lunch provides compared to an ideal one-third of their daily energy needs.",
+      "options": [
+        "A. 1650 kJ; 1017 kJ more",
+        "B. 1650 kJ; 1017 kJ less",
+        "C. 1650 kJ; 833 kJ less",
+        "D. 2667 kJ; 0 kJ difference"
+      ],
+      "correctAnswer": "B. 1650 kJ; 1017 kJ less",
+      "explanation": "Here's the step-by-step working:\n\n1.  **Calculate the total energy provided by the lunch:**\n    Energy from bread = 450 kJ\n    Energy from chicken = 900 kJ\n    Energy from apple = 300 kJ\n    Total lunch energy = 450 kJ + 900 kJ + 300 kJ = 1650 kJ\n\n2.  **Calculate the ideal energy for one main meal (one-third of daily needs):**\n    Ideal daily energy = 8000 kJ\n    Ideal energy for one meal = 8000 kJ / 3 = 2666.6... kJ (approximately 2667 kJ when rounded to the nearest whole number).\n\n3.  **Compare the lunch energy to the ideal amount and find the difference:**\n    Lunch energy = 1650 kJ\n    Ideal meal energy = 2667 kJ\n    Since 1650 kJ is less than 2667 kJ, the lunch provides less energy than ideal.\n    Difference = 2667 kJ - 1650 kJ = 1017 kJ\n\nTherefore, the lunch provides 1650 kJ of energy, which is 1017 kJ less than an ideal one-third of the student's daily energy needs.",
+      "hint": "First, sum the energy values of the food items in the lunch. Then, calculate one-third of the student's total daily energy needs. Finally, find the difference between these two values.",
+      "generatedAt": "2026-04-30T13:10:38.504614"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_002",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A student eats a meal consisting of a burger bun (mainly starch), a beef patty (mainly protein and fat), and some lettuce (mainly fibre).\nWhich of the following statements *correctly* identifies the primary enzyme responsible for the initial chemical breakdown of *fat* and the primary enzyme responsible for the initial chemical breakdown of *starch* in the human digestive system?",
+      "options": [
+        "A) Fat: Amylase, Starch: Protease",
+        "B) Fat: Lipase, Starch: Amylase",
+        "C) Fat: Protease, Starch: Lipase",
+        "D) Fat: Amylase, Starch: Lipase"
+      ],
+      "correctAnswer": "B) Fat: Lipase, Starch: Amylase",
+      "explanation": "This question requires identifying two specific enzymes for two different macronutrients.\n1.  **Fat digestion:** The primary enzyme responsible for the chemical breakdown of fats is **lipase**. Although bile salts from the liver emulsify fats (a physical breakdown process), lipase performs the chemical digestion, breaking fats into fatty acids and glycerol.\n2.  **Starch digestion:** The primary enzyme responsible for the initial chemical breakdown of starch is **amylase**. This enzyme begins its action in the mouth (salivary amylase) and continues in the small intestine (pancreatic amylase), breaking starch into smaller sugars like maltose.\nTherefore, the correct pairing is Fat: Lipase, Starch: Amylase.",
+      "hint": "Recall the three main types of macronutrients (carbohydrates, proteins, fats) and the specific enzymes that chemically digest each one. Remember which enzyme acts on which substrate.",
+      "generatedAt": "2026-04-30T13:10:57.985875"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_003",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A patient undergoes a cholecystectomy, which is the surgical removal of their gall bladder. Which of the following statements best explains the most likely long-term impact on their digestive system and nutrient absorption?",
+      "options": [
+        "A) The breakdown of starch into simpler sugars will be significantly reduced, leading to lower energy levels.",
+        "B) The final absorption of water and minerals in the large intestine will be impaired, causing issues with hydration.",
+        "C) The initial stages of protein digestion in the stomach will cease entirely, preventing amino acid formation.",
+        "D) The emulsification of fats will become less efficient, making fat digestion slower and nutrient absorption more difficult."
+      ],
+      "correctAnswer": "D) The emulsification of fats will become less efficient, making fat digestion slower and nutrient absorption more difficult.",
+      "explanation": "The gall bladder's primary function is to store and concentrate bile, which is produced by the liver. Bile is crucial for the emulsification of fats in the small intestine. Emulsification breaks down large fat globules into smaller ones, increasing the surface area for the fat-digesting enzyme (lipase) to act upon. Without the gall bladder, bile is still produced by the liver but is released continuously in smaller, less concentrated amounts directly into the small intestine, rather than being stored and released efficiently when fatty food is present. This means fat emulsification, and consequently fat digestion and absorption, will be less efficient, especially after consuming fatty meals.\n\nOption A is incorrect because starch digestion mainly involves salivary and pancreatic amylase, which are not directly affected by gall bladder removal.\nOption B is incorrect because water absorption primarily occurs in the large intestine and is not directly affected by the gall bladder's function.\nOption C is incorrect because protein digestion begins with pepsin in the stomach and continues with proteases in the small intestine, none of which are directly linked to the gall bladder's function.",
+      "hint": "Recall the specific role of the gall bladder in the digestive process and which major macronutrient's breakdown it primarily assists with. Remember, the gall bladder *stores* something vital for digestion.",
+      "generatedAt": "2026-04-30T13:11:12.330484"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_004",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A student eats a meal which includes chicken, a rich source of protein.\n\nWhich statement correctly identifies the primary organs involved in the *chemical digestion* of protein AND the *final absorbable form* of this nutrient?",
+      "options": [
+        "A) Stomach and large intestine; fatty acids.",
+        "B) Mouth and small intestine; glucose.",
+        "C) Stomach and small intestine; amino acids.",
+        "D) Small intestine and large intestine; glycerol."
+      ],
+      "correctAnswer": "C) Stomach and small intestine; amino acids.",
+      "explanation": "Chemical digestion of protein begins in the stomach with the enzyme pepsin. It then continues in the small intestine with enzymes like trypsin and peptidases. The mouth is primarily for mechanical digestion, and the large intestine mainly absorbs water. Proteins are complex molecules made of long chains of amino acids. Through chemical digestion, these chains are broken down into their simplest units, amino acids, which are then small enough to be absorbed into the bloodstream.",
+      "hint": "Consider the journey of protein through the digestive system and what its basic building blocks are. Where do enzymes that break down protein act?",
+      "generatedAt": "2026-04-30T13:11:25.235024"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_005",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A Year 8 student is learning about the importance of fibre for a healthy digestive system. One serving of their breakfast cereal provides 4.0 g of dietary fibre. The recommended daily intake of fibre for a Year 8 student is 24 g.\n\n**Calculate** the percentage of the recommended daily fibre intake that one serving of this breakfast cereal provides. Give your answer to one decimal place.",
+      "options": [
+        "A. 15.0 %",
+        "B. 16.0 %",
+        "C. 16.7 %",
+        "D. 17.0 %"
+      ],
+      "correctAnswer": "C. 16.7 %",
+      "explanation": "1. Identify the amount of dietary fibre provided by one serving of cereal: 4.0 g.\n2. Identify the recommended daily intake of fibre: 24 g.\n3. To calculate the percentage, divide the amount of fibre in one serving by the recommended daily intake:\n   Percentage = (Fibre per serving / Recommended daily intake) \n4. Multiply the result by 100 to express it as a percentage:\n   Percentage = (4.0 g / 24 g) × 100\n5. Perform the division:\n   4.0 / 24 = 0.16666...\n6. Multiply by 100:\n   0.16666... × 100 = 16.666... %\n7. Round the answer to one decimal place:\n   16.7 %",
+      "hint": "To calculate a percentage, divide the part by the whole, then multiply by 100. Remember to round your final answer as specified.",
+      "generatedAt": "2026-04-30T13:11:39.264184"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_006",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A Year 8 student eats a meal that is high in both carbohydrates (specifically starch) and protein. Their body will begin the digestion of these macromolecules in different parts of the digestive system. Which of the following statements correctly identifies the primary site of starch digestion AND the enzyme responsible for beginning protein digestion?",
+      "options": [
+        "Primary starch digestion begins in the stomach, and protein digestion begins with amylase.",
+        "Primary starch digestion begins in the mouth, and protein digestion begins with pepsin.",
+        "Primary starch digestion begins in the small intestine, and protein digestion begins with bile.",
+        "Primary starch digestion begins in the mouth, and protein digestion begins with lipase."
+      ],
+      "correctAnswer": "Primary starch digestion begins in the mouth, and protein digestion begins with pepsin.",
+      "explanation": "To answer this question, we need to consider two distinct parts of digestion:\n1.  **Starch digestion:** Starch, a complex carbohydrate, begins to be digested in the mouth by salivary amylase. This is its primary starting point.\n2.  **Protein digestion:** Protein digestion begins in the stomach, where the enzyme pepsin starts breaking down proteins into smaller polypeptides. Amylase digests carbohydrates, bile emulsifies fats, and lipase digests fats.\n\nTherefore, the correct statement must identify the mouth as the primary site for starch digestion and pepsin as the enzyme initiating protein digestion. Option B correctly states both of these facts.",
+      "hint": "Recall the sequence of the digestive system and which specific enzymes are active on carbohydrates and proteins in each major organ.",
+      "generatedAt": "2026-04-30T13:11:57.216712"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_007",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A student is reviewing the functions of different nutrients and their digestion. They learn that a specific type of macronutrient is crucial for building new cells and repairing damaged tissues throughout the body. This nutrient begins its chemical digestion in the stomach and is further broken down in the small intestine before absorption.\n\nConsidering this information, what would be the most significant long-term health consequence for a child who consistently consumes a diet severely lacking in this particular macronutrient?",
+      "options": [
+        "A) An immediate feeling of weakness and fatigue due to insufficient quick energy supply.",
+        "B) Increased risk of developing rickets, a condition affecting bone development.",
+        "C) Stunted growth and delayed wound healing, impacting overall physical development.",
+        "D) Difficulty digesting fats effectively, leading to abdominal discomfort and nutrient malabsorption."
+      ],
+      "correctAnswer": "C) Stunted growth and delayed wound healing, impacting overall physical development.",
+      "explanation": "Step 1: Identify the macronutrient based on its description. The description 'crucial for building new cells and repairing damaged tissues' and 'begins its chemical digestion in the stomach and is further broken down in the small intestine' points directly to protein.\nStep 2: Determine the long-term health consequence of a severe protein deficiency in a child. Protein is essential for growth (building new cells) and repair (damaged tissues). Therefore, a consistent lack of protein would lead to stunted growth and impaired healing processes, which are significant for a child's overall physical development.\n\n*   Option A relates more to a lack of carbohydrates or fats (energy sources).\n*   Option B relates to a lack of Vitamin D or calcium.\n*   Option D relates more to issues with bile production or lipase enzymes, not directly a protein deficiency.",
+      "hint": "First, identify which macronutrient is being described by its function and digestion location. Then, consider the primary roles of that nutrient in the body, especially for a growing child.",
+      "generatedAt": "2026-04-30T13:12:17.355338"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_008",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A Year 8 student is planning a healthy breakfast. They choose a meal containing 50 g of carbohydrates, 15 g of protein, and 10 g of fat.\nAssume that carbohydrates and proteins each provide 17 kJ of energy per gram, and fats provide 37 kJ of energy per gram.\n\n1.  **Calculate** the total energy, in kilojoules (kJ), provided by the carbohydrates and protein in this breakfast. Show your working. (3 marks)\n2.  **Explain** why protein, after digestion, is vital for the growth and repair of body tissues in a Year 8 student. (3 marks)",
+      "options": [],
+      "correctAnswer": "Part 1 Calculation:\nEnergy from carbohydrates = 50 g × 17 kJ/g = 850 kJ (1 mark)\nEnergy from protein = 15 g × 17 kJ/g = 255 kJ (1 mark)\nTotal energy = 850 kJ + 255 kJ = 1105 kJ (1 mark)\n\nPart 2 Explanation:\nProtein is digested in the stomach and small intestine into smaller molecules called amino acids (1 mark).\nThese amino acids are then absorbed into the bloodstream and transported to body cells.\nCells use these amino acids as 'building blocks' (1 mark) to synthesise new proteins for growth (e.g., muscle growth) or to repair damaged cells and tissues (1 mark). Therefore, protein is vital for growth and repair in a Year 8 student.",
+      "explanation": "Part 1: To calculate the total energy from carbohydrates, multiply the mass of carbohydrates (50 g) by its energy value per gram (17 kJ/g) to get 850 kJ. To calculate the total energy from protein, multiply the mass of protein (15 g) by its energy value per gram (17 kJ/g) to get 255 kJ. Finally, add these two energy values together: 850 kJ + 255 kJ = 1105 kJ.\n\nPart 2: Protein is a macronutrient that undergoes digestion, primarily in the stomach and small intestine, to break down into its constituent smaller molecules, known as amino acids. Once digested and absorbed into the bloodstream, these amino acids are circulated to all body cells. Growing individuals, like a Year 8 student, require these amino acids because their cells use them as essential 'building blocks' to synthesise new proteins. These newly synthesised proteins are crucial for processes such as muscle development, overall body growth, and the continuous repair and replacement of old or damaged body tissues and cells. Without sufficient digested protein, a student's ability to grow and repair would be significantly hampered.",
+      "hint": "For part 1, ensure you use the correct energy conversion for each *specified* nutrient (carbohydrates and protein) and only include these in your sum. For part 2, consider what proteins are broken down into during digestion and their primary structural role in the body.",
+      "generatedAt": "2026-04-30T13:12:34.357035"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_009",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A Year 8 student is learning about essential minerals and their role in a healthy diet. They learn that iron is crucial for transporting oxygen in the blood and is absorbed during digestion in the small intestine. They consume a meal that provides 10 mg of iron. However, due to various factors, only 10% of the iron from this specific type of food source is absorbed by the human body during its passage through the digestive system. The recommended daily intake of iron for a Year 8 student is 11 mg.\n\nCalculate the minimum number of *additional* identical portions of this food (each also providing 10 mg of iron) the student would need to consume to meet their recommended daily iron intake for the day.",
+      "options": [
+        "9 portions",
+        "10 portions",
+        "11 portions",
+        "12 portions"
+      ],
+      "correctAnswer": "10 portions",
+      "explanation": "Step 1: Calculate the amount of iron absorbed from the initial portion consumed.\nIron provided by one portion = 10 mg\nPercentage absorbed by the body = 10%\nAmount of iron absorbed from the initial portion = 10 mg × (10/100) = 1 mg\n\nStep 2: Calculate the remaining amount of iron the student still needs to meet their daily intake.\nRecommended daily iron intake = 11 mg\nIron already absorbed from the initial portion = 1 mg\nRemaining iron needed = 11 mg - 1 mg = 10 mg\n\nStep 3: Calculate how many additional portions are required to provide the remaining iron needed.\nEach additional identical portion will also provide 1 mg of absorbed iron (10 mg × 10%).\nNumber of additional portions needed = Remaining iron needed / Iron absorbed per additional portion\nNumber of additional portions needed = 10 mg / 1 mg/portion = 10 portions.\nTherefore, the student needs to consume 10 additional portions to meet their recommended daily iron intake.",
+      "hint": "First, determine the actual amount of iron absorbed from the initial portion eaten. Then, figure out the difference between the recommended daily intake and the amount already absorbed. Finally, calculate how many more portions are needed to supply this remaining amount, considering the absorption rate for each additional portion.",
+      "generatedAt": "2026-04-30T13:12:52.187222"
+    },
+    {
+      "id": "s-y8-nutrition_intermediate_010",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A student eats a small meal containing a slice of wholemeal toast and a boiled egg. The wholemeal toast provides 20g carbohydrate, 3g protein, and 1g fat. The boiled egg provides 0g carbohydrate, 6g protein, and 5g fat.\n\nUse the following energy values per gram:\n- Carbohydrate: 17 kJ\n- Protein: 17 kJ\n- Fat: 37 kJ\n\n**Calculate** the total energy contributed by *protein* in this meal. Based on this, which statement correctly describes the *initial* stage of protein digestion in the human body?",
+      "options": [
+        "A. 153 kJ; Protein digestion begins in the mouth with amylase.",
+        "B. 102 kJ; Protein digestion begins in the small intestine with lipase.",
+        "C. 153 kJ; Protein digestion begins in the stomach with pepsin.",
+        "D. 102 kJ; Protein digestion begins in the large intestine with proteases."
+      ],
+      "correctAnswer": "C. 153 kJ; Protein digestion begins in the stomach with pepsin.",
+      "explanation": "1.  **Calculate the total mass of protein in the meal:**\n    *   Protein from wholemeal toast = 3g\n    *   Protein from boiled egg = 6g\n    *   Total protein = 3g + 6g = 9g\n\n2.  **Calculate the total energy contributed by protein:**\n    *   Energy per gram of protein = 17 kJ/g\n    *   Total energy from protein = 9g × 17 kJ/g = 153 kJ\n\n3.  **Recall the initial stage of protein digestion:**\n    *   Chemical digestion of protein primarily begins in the stomach.\n    *   The main enzyme responsible for breaking down protein in the stomach is pepsin.\n\n4.  **Match with the options:**\n    *   Option C correctly states both the calculated energy (153 kJ) and the correct initial stage of protein digestion (begins in the stomach with pepsin).",
+      "hint": "First, find the total mass of protein from both food items. Then, multiply this total mass by the energy value per gram of protein. Finally, recall where protein digestion first chemically breaks down and the enzyme involved.",
+      "generatedAt": "2026-04-30T13:13:07.930782"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y8-nutrition_advanced_001",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Alex is a Year 8 student preparing for a school sports day and wants to ensure they have enough sustained energy. For lunch, Alex eats a meal consisting of wholemeal pasta with grilled chicken, a variety of vegetables (like broccoli and carrots), and a small amount of olive oil dressing.\n\n1.  **State** the primary nutrient found in wholemeal pasta that provides Alex with long-term energy. (1 mark)\n2.  **Describe** the main role of the protein in the chicken within Alex's body. (2 marks)\n3.  **Explain** the chemical digestion of the carbohydrate from the wholemeal pasta as it passes from the stomach into the small intestine, mentioning any relevant enzymes and changes in conditions. (4 marks)\n4.  **Describe** two features of the small intestine that make it highly efficient at absorbing the digested nutrients from Alex's meal. (2 marks)",
+      "options": [],
+      "correctAnswer": "1.  Carbohydrate / Starch (1 mark)\n2.  The protein in the chicken is used for growth and repair of cells and tissues (1 mark). It is also essential for making enzymes and hormones / antibodies (1 mark).\n3.  In the stomach, the highly acidic conditions cause the enzyme (salivary amylase) that started carbohydrate digestion in the mouth to denature / stop working (1 mark). So, chemical carbohydrate digestion largely ceases in the stomach. As the partially digested food moves into the small intestine, the conditions become alkaline (due to bicarbonate from the pancreas and bile) (1 mark). Here, pancreatic amylase from the pancreas continues to break down starch into smaller sugars like maltose (1 mark). Further enzymes (e.g., maltase) found on the lining of the small intestine then break these into simple sugars like glucose, which are small enough to be absorbed (1 mark).\n4.  The small intestine has a very large internal surface area due to its great length and the presence of numerous folds, villi, and microvilli (1 mark). It also has a very rich blood supply / the walls of the villi are only one cell thick, which allows digested nutrients to quickly diffuse into the bloodstream (1 mark).",
+      "explanation": "The model answer demonstrates a comprehensive understanding of nutrition and digestion, meeting the advanced difficulty criteria for Year 8.\n1.  Correctly identifies carbohydrates/starch as the primary long-term energy source, fulfilling the 'State' command accurately.\n2.  Accurately describes the dual role of protein in growth, repair, and the synthesis of crucial biological molecules like enzymes and hormones, meeting the 'Describe' command.\n3.  Provides a detailed 'Explanation' of carbohydrate digestion. It correctly identifies the effect of stomach acid on salivary amylase (denaturation and cessation of digestion), the crucial change to alkaline conditions in the small intestine, and the sequential action of pancreatic amylase and other intestinal enzymes to break down complex carbohydrates into absorbable simple sugars (glucose). This multi-step explanation, linking cause and effect across different organs and conditions, satisfies the 'Explain' command and the 'Advanced' difficulty level for Year 8.\n4.  'Describes' two key structural adaptations of the small intestine (large surface area due to villi/microvilli and excellent blood supply/thin walls) that significantly enhance nutrient absorption, showing a clear understanding of structure-function relationships in the digestive system.",
+      "hint": "For the digestion process, remember that enzymes are specific and sensitive to changes in pH in different parts of the digestive system. When considering absorption, think about how the small intestine's structure is optimised to maximise the uptake of nutrients into the blood.",
+      "generatedAt": "2026-04-30T13:13:26.991172"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_002",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Dr. Anya Sharma has developed a new \"Astro-NutriBar\" for astronauts on extended space missions. Each 100g bar contains:\n*   **70g \"Synthe-Carb\"**: A complex carbohydrate polymer, chemically identical to natural starch but with an average molecular length twice that of typical starch molecules.\n*   **20g \"Pro-Blend\"**: A synthetic protein with peptide bonds similar to natural proteins.\n*   **5g Essential Fats**: Lipids.\n*   **5g Vitamins & Minerals**: Micronutrients.\n\nThe bar is designed to be highly concentrated and provide sustained energy.\n\n**Part A: Nutritional Evaluation**\n1.  **Describe** two benefits of the Astro-NutriBar's nutritional composition for an astronaut's diet during a space mission. (2 marks)\n2.  **Explain** one potential long-term nutritional concern for an astronaut consuming only Astro-NutriBars for an extended period, linking your explanation to the principles of a balanced diet. (3 marks)\n\n**Part B: Digestive System Analysis**\n3.  **Describe** the initial chemical digestion of the \"Synthe-Carb\" within the human digestive system, naming the enzyme involved and its primary location of action. (3 marks)\n4.  **Explain** the complete chemical digestion process of \"Pro-Blend\" as it passes through the human digestive system, identifying the key enzymes involved and their respective optimal pH environments. (4 marks)\n5.  **Predict** and **explain** one potential challenge related to the absorption of nutrients from the Astro-NutriBar, considering its highly concentrated nature and the structure of the small intestine. (4 marks)",
+      "options": [],
+      "correctAnswer": "**Part A: Nutritional Evaluation**\n1.  **Benefits (2 marks, any two from below):**\n    *   **High energy density:** The bar contains 70g of carbohydrate, 20g of protein, and 5g of fat per 100g, providing a large amount of energy in a small, lightweight package, which is crucial for space missions with limited storage and weight capacity.\n    *   **Comprehensive macronutrient provision:** It supplies all essential macronutrients (carbohydrates for energy, protein for growth/repair, fats for energy/fat-soluble vitamins) and micronutrients (vitamins and minerals for metabolic processes) in a compact form.\n    *   **Sustained energy release:** The 'Synthe-Carb' is a complex carbohydrate, implying a slow and steady release of glucose into the bloodstream, which would provide sustained energy without rapid spikes and crashes.\n\n2.  **Potential long-term nutritional concern (3 marks):**\n    *   **Concern:** Lack of dietary fibre (roughage).\n    *   **Explanation:** A healthy, balanced diet requires sufficient fibre to promote healthy bowel movements and prevent constipation (cause). If an astronaut consumes only Astro-NutriBars, they would likely lack adequate fibre, which could lead to digestive discomfort, irregular bowel movements, and potential long-term gut health issues (effect). This highlights the importance of variety and fibre in a balanced diet.\n\n**Part B: Digestive System Analysis**\n3.  **Initial chemical digestion of 'Synthe-Carb' (3 marks):**\n    *   The initial chemical digestion of 'Synthe-Carb' would begin in the **mouth**.\n    *   The enzyme **salivary amylase** (or ptyalin) is involved.\n    *   This enzyme starts breaking down the long complex carbohydrate chains into smaller polysaccharide fragments (dextrins) and some disaccharides (maltose).\n\n4.  **Complete chemical digestion of 'Pro-Blend' (4 marks):**\n    *   **Stomach:** Digestion of 'Pro-Blend' (synthetic protein) begins in the stomach. The enzyme **pepsin**, activated by hydrochloric acid, breaks the peptide bonds in the proteins. Pepsin functions optimally in the highly **acidic environment** of the stomach (pH 1.5-3.5), breaking the proteins into smaller polypeptides.\n    *   **Small Intestine (Pancreatic Proteases):** As the partially digested food (chyme) moves into the duodenum, pancreatic enzymes are released. **Trypsin** (and other pancreatic proteases like chymotrypsin) continue breaking down polypeptides into smaller peptides. These enzymes work optimally in the **alkaline environment** of the small intestine (pH 7.5-8.5), which is maintained by bicarbonate from the pancreas.\n    *   **Small Intestine (Brush Border Enzymes):** Finally, enzymes called **peptidases** (e.g., dipeptidases, aminopeptidases), located in the brush border of the small intestine lining, break down the remaining small peptides into individual **amino acids**, which are then absorbed into the bloodstream.\n\n5.  **Potential challenge in nutrient absorption (4 marks):**\n    *   **Prediction:** One potential challenge is that the highly concentrated nature of the Astro-NutriBar could lead to inefficient or reduced absorption of nutrients in the small intestine.\n    *   **Explanation:** The small intestine is adapted for efficient absorption with a vast surface area provided by villi and microvilli. However, if the concentration of nutrients in the lumen is excessively high (cause):\n        *   **Osmotic imbalance:** It could create a strong osmotic gradient, drawing excessive water into the intestinal lumen. This could lead to digestive discomfort or osmotic diarrhoea, thereby making it harder for nutrients to be absorbed effectively (effect).\n        *   **Saturated transport systems:** The active transport proteins and facilitated diffusion channels responsible for absorbing specific nutrients (e.g., glucose, amino acids) across the intestinal lining might become saturated. If these transporters are overwhelmed, some nutrients may pass through the digestive system unabsorbed, potentially reducing the overall nutritional benefit (effect).",
+      "explanation": "This question assesses the student's ability to apply knowledge of a healthy diet and the digestive system to a novel scenario.\n\n**Part A (Nutrition):** Requires students to analyse the given nutritional composition and relate it to the needs of an astronaut and principles of a balanced diet. They must identify benefits (e.g., concentrated energy, comprehensive nutrients) and potential drawbacks (e.g., lack of fibre) of this specialized food.\n\n**Part B (Digestion):**\n*   **Q3 (Synthe-Carb):** Tests knowledge of carbohydrate digestion, specifically the initial enzyme and location (mouth/salivary amylase).\n*   **Q4 (Pro-Blend):** Demands a comprehensive understanding of protein digestion, requiring students to sequence the enzymes (pepsin, trypsin, peptidases), their locations (stomach, small intestine), and their optimal pH environments (acidic for pepsin, alkaline for trypsin/peptidases).\n*   **Q5 (Absorption challenge):** This is the most 'advanced' part, requiring students to predict an issue based on the 'highly concentrated' nature of the food and link it to physiological mechanisms of absorption, such as osmosis and transporter saturation in the small intestine. This goes beyond simple recall and asks for applied reasoning about cause and effect in an unfamiliar context, using scientific terminology.",
+      "hint": "For the absorption challenge, consider how a very high concentration of solutes might affect water movement (osmosis) and the capacity of nutrient transport systems across the small intestine lining.",
+      "generatedAt": "2026-04-30T13:13:57.607062"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_003",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Mr. Henderson has a medical condition that severely reduces the efficiency of fat absorption in his small intestine. This means that a significant portion of the fat he consumes passes through without being absorbed into his bloodstream. His healthy daily energy intake should be approximately 9500 kJ.\n\nHe is advised to ensure that at least 15% of his total daily energy requirement is absorbed from fat, even with his condition. Given that 1 gram of fat provides 37 kJ of energy, and due to his condition, he only absorbs 30% of the fat he consumes:\n\nCalculate the minimum mass of fat (in grams) Mr. Henderson needs to consume daily to absorb 15% of his total daily energy requirement from fat.",
+      "options": [
+        "A) 12.8 g",
+        "B) 38.5 g",
+        "C) 128.4 g",
+        "D) 428.0 g"
+      ],
+      "correctAnswer": "C) 128.4 g",
+      "explanation": "1.  **Calculate the target energy to be absorbed from fat:**\n    Mr. Henderson needs to absorb 15% of his total daily energy requirement from fat.\n    Target absorbed energy = 0.15 × 9500 kJ = 1425 kJ.\n\n2.  **Calculate the mass of fat that *would be absorbed* to provide this energy:**\n    Since 1 gram of fat provides 37 kJ of energy:\n    Mass of fat absorbed = Target absorbed energy / Energy per gram of fat\n    Mass of fat absorbed = 1425 kJ / 37 kJ/g = 38.5135... g.\n\n3.  **Calculate the total mass of fat Mr. Henderson needs to *consume*:**\n    He only absorbs 30% (or 0.30) of the fat he consumes.\n    Let 'X' be the mass of fat consumed.\n    0.30 × X = Mass of fat absorbed\n    0.30 × X = 38.5135 g\n    X = 38.5135 g / 0.30 = 128.378... g.\n\n4.  **Round the answer:**\n    Rounding to one decimal place, the minimum mass of fat Mr. Henderson needs to consume daily is 128.4 g.",
+      "hint": "First, determine the total amount of energy (in kJ) that Mr. Henderson needs to absorb specifically from fat. Then, consider how much fat he must *consume* to ensure that 30% of it provides this absorbed energy.",
+      "generatedAt": "2026-04-30T13:14:18.019183"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_004",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "The Hydrothermal Vent Grub (HVG) is a recently discovered organism that thrives near deep-sea hydrothermal vents. Its primary food source is a unique type of chemosynthetic bacteria, which is particularly rich in proteins and complex carbohydrates, but contains minimal fats. The HVG lives under extreme pressure and constant cold (around 2°C), meaning it requires a high energy intake and robust structural components to survive.\n\n**(a) Describe** the primary role of proteins in the HVG's survival in its extreme environment, giving one specific example. (2 marks)\n\n**(b) State** the specific class of enzymes primarily responsible for the chemical breakdown of the complex carbohydrates found in the HVG's diet. (1 mark)\n\n**(c) Explain** two distinct adaptations the HVG's small intestine might possess to maximise the absorption of nutrients from its specialised diet. For each adaptation, you must describe how it increases absorption efficiency, referencing relevant structures or processes found in a mammalian digestive system. (6 marks)",
+      "options": [],
+      "correctAnswer": "(a) Proteins are essential for growth and repair within the HVG (1 mark). In its extreme environment, this is crucial for building and maintaining robust structural components (e.g., cell membranes, muscle tissue) to withstand high pressure, or for synthesising enzymes that can function efficiently in low temperatures to carry out metabolic reactions (1 mark for specific example/context).\n\n(b) Amylases (1 mark).\n\n(c) Here are two distinct adaptations the HVG's small intestine might possess to maximise nutrient absorption:\n\n1.  **Adaptation: Increased surface area** (1 mark)\n    *   **Explanation:** The small intestine of the HVG might have a highly folded inner lining, or possess finger-like projections called villi (similar to those in mammalian small intestines) and even microscopic microvilli on the surface of its cells. This dramatically increases the surface area over which digested nutrients can come into contact with the absorbing cells (cause), **so** a greater number of nutrient molecules can be absorbed simultaneously, leading to faster and more complete uptake of food into the bloodstream (effect). (1 mark for cause, 1 mark for effect/link).\n\n2.  **Adaptation: Rich blood supply** (1 mark)\n    *   **Explanation:** The walls of the HVG's small intestine (specifically within structures like villi) would likely contain a dense network of blood capillaries (similar to mammalian villi). This ensures that once nutrients are absorbed into the bloodstream, they are rapidly transported away from the intestine (cause), **so** a steep concentration gradient is continuously maintained between the intestinal lumen (inside the gut) and the blood. This allows for sustained and efficient diffusion and active transport of nutrients from the gut into the circulatory system (effect). (1 mark for cause, 1 mark for effect/link).\n\n*(Other valid adaptations include: thin intestinal walls (e.g., one-cell-thick lining), presence of specific protein transporters for active transport, rhythmic muscular contractions (peristalsis) to mix food and bring it into contact with the wall.)*",
+      "explanation": "This question requires students to apply their knowledge of nutrition and digestion to an unfamiliar, hypothetical organism. \n\n**(a)** Students must recall the general role of proteins (growth, repair) and then link it specifically to the challenges of the extreme environment (pressure, cold) for the HVG, demonstrating applied understanding.\n\n**(b)** This tests direct recall of enzyme classes, but within the context of the HVG's diet, ensuring specific application.\n\n**(c)** This is the most challenging part. Students need to:\n    1.  Identify a structural or functional adaptation that enhances absorption (e.g., villi, blood supply).\n    2.  Explain *how* this adaptation increases efficiency (the 'cause').\n    3.  Explain the ultimate benefit or consequence of this increased efficiency (the 'effect').\n    4.  Relate this back to mammalian digestive systems, showing their ability to transfer concepts.\nEach point for an adaptation (identifying it, explaining cause, and explaining effect) contributes to the marks, demonstrating a multi-step understanding of structure-function relationships in digestion.",
+      "hint": "For part (c), consider how the human small intestine is structurally and functionally adapted to maximise the transfer of digested food into the bloodstream. Think about the surface, transport, and removal of absorbed nutrients.",
+      "generatedAt": "2026-04-30T13:14:38.248883"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_005",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "The \"Arctic Endurance Ration\" is a specialised, compact food bar designed for explorers on extended expeditions in extremely cold, high-altitude environments. Its nutritional composition per 100g bar is provided below:\n\n| Nutrient              | Amount per 100g (g) | Energy Content (kJ/g) |\n|-----------------------|---------------------|-----------------------|\n| Complex Carbohydrates | 45                  | 17                    |\n| Simple Sugars         | 15                  | 17                    |\n| Proteins              | 15                  | 17                    |\n| Fats                  | 20                  | 37                    |\n| Fibre                 | 5                   | 0                     |\n| Water                 | 0                   | 0                     |\n\nExplorers consume these bars to maintain body temperature, sustain prolonged physical activity, and support tissue repair.\n\nA. Explain two reasons why the \"Arctic Endurance Ration\" contains a high proportion of both complex carbohydrates and fats, considering the demands of an expedition in extremely cold, high-altitude environments. (4 marks)\n\nB. Using the information about the \"Arctic Endurance Ration\", describe the physical journey and explain the chemical digestion of the *proteins* from one bar as they pass through the human digestive system. You must name the key organs involved and the specific types of enzymes responsible for protein breakdown. (6 marks)\n\nC. Calculate the total energy, in kilojoules (kJ), provided by one \"Arctic Endurance Ration\" bar. Show your formula, substitution, and final answer with units. (3 marks)",
+      "options": [],
+      "correctAnswer": "A. **Explanation for high proportion of complex carbohydrates and fats (4 marks):**\n\n1.  **Complex Carbohydrates (2 marks):**\n    *   **Reason 1:** Complex carbohydrates provide a slow and sustained release of energy (1). This is crucial for explorers undertaking prolonged physical activity in demanding conditions, ensuring a continuous supply of energy to maintain stamina and perform tasks without rapid energy drops over many hours (1).\n\n2.  **Fats (2 marks):**\n    *   **Reason 2:** Fats are a highly concentrated source of energy, providing more than double the energy per gram compared to carbohydrates or proteins (1). In extremely cold environments, high energy intake is vital to generate and maintain body heat, preventing hypothermia, and providing significant energy reserves for survival (1).\n\nB. **Description of physical journey and explanation of chemical digestion of proteins (6 marks):**\n\n*   **Physical Journey (2 marks):**\n    *   Proteins are physically broken down by chewing in the mouth, then swallowed (1). They travel down the oesophagus to the stomach via peristalsis. From the stomach, the mixture containing proteins moves into the small intestine (1).\n\n*   **Chemical Digestion (4 marks):**\n    *   In the **stomach**, hydrochloric acid creates a highly acidic environment, which helps to denature proteins and provides the optimum pH for the enzyme **pepsin** (a type of protease) (1). Pepsin begins the chemical breakdown of large protein molecules into smaller polypeptides (1).\n    *   As the partially digested food (chyme) enters the **small intestine**, the acidic environment is neutralised. Here, **proteases** (e.g., trypsin) released from the pancreas further break down the polypeptides into even smaller peptides (1). Finally, enzymes in the lining of the small intestine complete the digestion, breaking these smaller peptides into individual **amino acids**, which are then absorbed into the bloodstream (1).\n\nC. **Calculation of total energy (3 marks):**\n\n*   **Formula/Method (1 mark):**\n    Total Energy = (Total Carbs mass × Energy/g) + (Proteins mass × Energy/g) + (Fats mass × Energy/g)\n\n*   **Substitution and Calculation (1 mark):**\n    Total Carbs = 45g (complex) + 15g (simple) = 60g\n    Energy from Carbs = 60g × 17 kJ/g = 1020 kJ\n    Energy from Proteins = 15g × 17 kJ/g = 255 kJ\n    Energy from Fats = 20g × 37 kJ/g = 740 kJ\n    Total Energy = 1020 kJ + 255 kJ + 740 kJ\n\n*   **Final Answer with Units (1 mark):**\n    Total Energy = 2015 kJ",
+      "explanation": "The question is designed to assess a Year 8 student's ability to apply knowledge of nutrition and digestion in an advanced, multi-step context.\n\n**Part A (Explain):** Requires students to link the function of specific macronutrients (complex carbohydrates and fats) to the energy demands of a challenging environment (cold, high-altitude expeditions). It tests their understanding of nutrient roles (sustained energy from complex carbs, high energy density/insulation from fats) and their ability to articulate cause-and-effect relationships.\n\n**Part B (Describe & Explain):** Focuses on the stages of protein digestion. It requires students to:\n1.  **Describe the physical journey:** Naming key organs involved in the passage of food.\n2.  **Explain chemical digestion:** Identifying specific enzymes (pepsin, proteases/trypsin), their sites of action (stomach, small intestine), and the environmental conditions (acidic pH in stomach) necessary for their function. This goes beyond simple recall by asking for specific enzymes and conditions.\n\n**Part C (Calculate):** Tests numerical application skills. Students must correctly identify the total carbohydrate mass (complex + simple), use the provided energy content per gram for each macronutrient, perform multiplication, and sum the results to find the total energy. Showing the formula, substitution, and correct units are key components for full marks.\n\nOverall, the question combines diet components, digestive stages, and a quantitative element within an applied, slightly unfamiliar scenario, making it 'Advanced' for a Year 8 student.",
+      "hint": "For Part A, consider the specific energy needs for maintaining body temperature and prolonged activity. For Part B, trace the path of food and recall which enzymes break down proteins in the stomach and small intestine. For Part C, remember to sum the energy from all energy-providing nutrients.",
+      "generatedAt": "2026-04-30T13:15:08.872612"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_006",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "An individual, Alex, decides to consume a diet for a week consisting primarily of highly refined carbohydrates (e.g., white pasta, sugary cereals) and processed meats (e.g., sausages, bacon). By the end of the week, Alex reports feeling tired quickly after meals, experiencing frequent hunger pangs, and severe constipation.\n\n1. State (1 mark): Identify the primary macronutrient Alex's diet is likely excessively high in, contributing to their rapid energy fluctuations.\n\n2. Explain (4 marks): Explain *how* the lack of dietary fibre in Alex's diet contributes to their feeling of frequent hunger and their constipation. Your explanation must link the specific functions of fibre to processes in the digestive system.\n\n3. Describe (4 marks): Describe *two* specific, healthy food groups Alex could add to their diet to alleviate both the hunger and the constipation. For each food group, justify *why* it would be beneficial.",
+      "options": [],
+      "correctAnswer": "1. State: Refined carbohydrates / Sugars.\n\n2. Explain:\n   *   **For frequent hunger (2 marks):** Dietary fibre adds bulk to food (cause) which stretches the stomach wall and slows down the rate at which food leaves the stomach (gastric emptying). This prolongs the feeling of fullness and satiety. Without enough fibre, food passes through the digestive system more quickly (effect), leading to rapid drops in blood sugar and an earlier return of hunger.\n   *   **For constipation (2 marks):** Dietary fibre absorbs water in the large intestine (cause), making the faeces softer, bulkier, and easier to pass. It also stimulates the muscle contractions (peristalsis) that move food waste along the gut. A lack of fibre means faeces are dry, hard, and lack bulk (effect), making them difficult to move and pass, resulting in constipation.\n\n3. Describe:\n   *   **Food Group 1: Whole Grains (e.g., wholewheat bread, brown rice, oats) (2 marks):** Whole grains are rich in dietary fibre and complex carbohydrates. The fibre will add bulk to Alex's diet, slowing down digestion and promoting a sustained feeling of fullness, thus reducing hunger. The increased fibre content will also absorb water and soften faeces, making them easier to pass and alleviating constipation. Complex carbohydrates provide a slower, sustained release of energy, preventing rapid energy fluctuations.\n   *   **Food Group 2: Legumes (e.g., lentils, beans, chickpeas) or Vegetables (e.g., broccoli, spinach, carrots) (2 marks):** Legumes/Vegetables are excellent sources of dietary fibre, as well as essential vitamins and minerals. The high fibre content will similarly contribute to satiety by adding bulk to meals and slowing digestion, addressing hunger. Furthermore, the fibre will help absorb water in the large intestine, increasing faecal bulk and softness, which aids peristalsis and helps to relieve constipation.",
+      "explanation": "The detailed model answer provided in the 'correctAnswer' field illustrates the expected scientific reasoning and terminology for each part of the question. It demonstrates understanding of macronutrients, the role of dietary fibre in digestion and satiety, and the application of nutritional knowledge to suggest beneficial dietary changes, addressing the 'Explain' and 'Describe' command words with clear cause-and-effect links.",
+      "hint": "Remember to link specific nutrients or food components directly to their functions within the different organs or processes of the digestive system. Consider both the *absence* of beneficial components and the *excess* of problematic ones in the diet described.",
+      "generatedAt": "2026-04-30T13:16:23.932270"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_007",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A school canteen is considering two new snack options: 'Energy Burst Bites' (primarily made from glucose syrup, refined flour, and palm oil) and 'Sustained Power Squares' (primarily made from whole oats, lean protein powder, and flax seeds). A Year 8 student wants to understand which snack would provide more consistent energy for an afternoon of lessons and why.\n\n**(a) State two types of macronutrients found in food and one essential role for each in the human body. [2 marks]**\n\n**(b) Describe the key digestive processes that would occur for the carbohydrates in the 'Energy Burst Bites' as they travel from the mouth to the small intestine. [3 marks]**\n\n**(c) Explain how the composition of 'Sustained Power Squares' (specifically its complex carbohydrates and fibre content) would lead to a more gradual absorption of glucose into the bloodstream compared to the 'Energy Burst Bites'. Include the role of specific enzymes and digestive organs in your explanation. [4 marks]**\n\n**(d) Based on your understanding, recommend which snack the student should choose for sustained energy throughout the afternoon and justify your recommendation by linking the snack's composition, its digestion, and energy release. [3 marks]**",
+      "options": [],
+      "correctAnswer": "**(a) State two types of macronutrients found in food and one essential role for each in the human body. [2 marks]**\n1.  **Carbohydrates:** Provide energy for daily activities and bodily functions.\n2.  **Proteins:** Essential for growth and repair of tissues, and for making enzymes and hormones.\n(Accept: Fats/Lipids: Provide concentrated energy, insulation, protect organs.)\n\n**(b) Describe the key digestive processes that would occur for the carbohydrates in the 'Energy Burst Bites' as they travel from the mouth to the small intestine. [3 marks]**\nIn the **mouth**, mechanical digestion (chewing) breaks down the food. Salivary amylase begins to break down starches (from refined flour) into smaller sugars. In the **stomach**, the acidic conditions denature salivary amylase, stopping carbohydrate digestion. In the **small intestine**, pancreatic amylase continues to break down any remaining starches. Enzymes like maltase then break down disaccharides into monosaccharides (glucose). The simple sugars (glucose from glucose syrup and breakdown products) are then rapidly absorbed into the bloodstream through the villi in the small intestine.\n\n**(c) Explain how the composition of 'Sustained Power Squares' (specifically its complex carbohydrates and fibre content) would lead to a more gradual absorption of glucose into the bloodstream compared to the 'Energy Burst Bites'. Include the role of specific enzymes and digestive organs in your explanation. [4 marks]**\n'Sustained Power Squares' contain **complex carbohydrates** (from whole oats) which are long chains of sugar molecules. These require more extensive digestion by enzymes like amylase (produced by salivary glands and pancreas) in the mouth and **small intestine** to break them down into individual glucose units. This process takes longer, *because* there are more bonds to break, *so* glucose is released gradually. Furthermore, the **fibre** (from whole oats and flax seeds) is largely indigestible. Fibre slows down the movement of food through the **stomach** and **small intestine**, *because* it adds bulk and traps some nutrients, *so* this further delays the rate at which glucose is absorbed into the bloodstream. This combined effect results in a slow and steady release of glucose.\n\n**(d) Based on your understanding, recommend which snack the student should choose for sustained energy throughout the afternoon and justify your recommendation by linking the snack's composition, its digestion, and energy release. [3 marks]**\n**Recommendation:** The student should choose 'Sustained Power Squares'.\n**Justification:** 'Sustained Power Squares' contain complex carbohydrates and fibre. The complex carbohydrates are digested slowly by enzymes in the digestive system, taking longer to break down into glucose. The fibre further slows down gastric emptying and glucose absorption in the small intestine. This results in a gradual and steady release of glucose into the bloodstream, providing a consistent supply of energy over a longer period, preventing a rapid energy 'spike' followed by a 'crash' often associated with simple sugars.",
+      "explanation": "This question assesses the student's ability to integrate knowledge of healthy diet components with the processes of digestion and nutrient absorption. Part (a) tests basic recall of macronutrients and their functions. Part (b) requires a description of the rapid digestion of simple and refined carbohydrates. Part (c) is the core advanced component, requiring an explanation of how complex carbohydrates and fibre, through their interaction with specific enzymes and digestive organs, lead to a slower, more sustained release of glucose. The explanation explicitly uses 'because' and 'so' to link cause and effect, as per the command word rules. Part (d) requires the student to apply their understanding to a practical scenario, making a recommendation and justifying it by connecting the nutritional composition, digestive processes, and the resulting energy profile. This multi-step approach and application of concepts in a comparative context make it 'Advanced' for a Year 8 level.",
+      "hint": "For parts (b) and (c), consider the different types of carbohydrates (simple vs. complex), the role of fibre, and the specific enzymes and digestive organs involved in breaking down and absorbing these nutrients at different rates.",
+      "generatedAt": "2026-04-30T13:16:50.556970"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_008",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "The \"Astro-Nutrient Research Institute\" is evaluating a newly discovered alien plant, *Nutribloom*, as a potential food source for long-duration space missions. Preliminary analysis of a 100g sample of raw *Nutribloom* yields the following nutritional information:\n\n*   **Carbohydrates:** 60g (consisting of 40g starch and 20g dietary fibre)\n*   **Protein:** 15g\n*   **Fats:** 10g\n*   **Vitamins & Minerals:** Trace amounts\n*   **Water:** 15g\n\nScientists estimate that an adult space explorer requires approximately 8,400 kJ of energy per day.\n\n**(a) Explain** why a diet consisting solely of *Nutribloom* would not provide a balanced diet suitable for long-term space missions.\n**(b) Describe** the initial chemical digestion process for the *starch* component of *Nutribloom* as it passes through the mouth and into the stomach.\n**(c) Calculate** the total energy, in kilojoules (kJ), provided by a 250g serving of *Nutribloom*. Show your working.\n*(Use the following energy values: Carbohydrates = 17 kJ/g, Protein = 17 kJ/g, Fats = 37 kJ/g)*\n**(d) State** one specific function of the *dietary fibre* component of *Nutribloom* within the human digestive system.",
+      "options": [],
+      "correctAnswer": "**Model Answer:**\n\n**(a) Explain** why a diet consisting solely of *Nutribloom* would not provide a balanced diet suitable for long-term space missions. (4 marks)\n*   *Nutribloom* contains only trace amounts of essential vitamins and minerals (1 mark).\n*   A balanced diet requires sufficient amounts of various vitamins and minerals because they are vital co-factors for enzyme function, immune system health, and bone strength (1 mark).\n*   Without these in adequate supply, space explorers would develop deficiency diseases (e.g., scurvy, rickets) or weakened bodily functions (1 mark), which would severely impair their long-term health and ability to perform mission tasks (1 mark).\n*   (Alternative/Additional point for full marks if above is less detailed: The protein and fat content may not provide the full range of essential amino acids and essential fatty acids required, leading to issues with growth, repair, and hormone production.)\n\n**(b) Describe** the initial chemical digestion process for the *starch* component of *Nutribloom* as it passes through the mouth and into the stomach. (3-4 marks)\n*   In the mouth, chewing (mechanical digestion) breaks the *Nutribloom* into smaller pieces (1 mark).\n*   Saliva, released in the mouth, contains the enzyme salivary amylase (1 mark).\n*   This amylase enzyme begins the chemical digestion of starch, breaking it down into smaller sugar molecules, such as maltose (1 mark).\n*   As the food (bolus) is swallowed and reaches the stomach, the highly acidic conditions (low pH) in the stomach cause the salivary amylase to denature (lose its specific 3D shape and therefore its function) (1 mark), effectively stopping starch digestion in the stomach (1 mark).\n\n**(c) Calculate** the total energy, in kilojoules (kJ), provided by a 250g serving of *Nutribloom*. Show your working. (4 marks)\n*   **Step 1: Calculate the amount of each nutrient in a 250g serving.**\n    *   A 250g serving is 2.5 times the 100g sample (250g / 100g = 2.5).\n    *   Carbohydrates: 60g * 2.5 = 150g\n    *   Protein: 15g * 2.5 = 37.5g\n    *   Fats: 10g * 2.5 = 25g\n*   **Step 2: Calculate energy contributed by each nutrient.**\n    *   Energy from Carbohydrates = 150g * 17 kJ/g = 2550 kJ\n    *   Energy from Protein = 37.5g * 17 kJ/g = 637.5 kJ\n    *   Energy from Fats = 25g * 37 kJ/g = 925 kJ\n*   **Step 3: Calculate the total energy.**\n    *   Total Energy = 2550 kJ + 637.5 kJ + 925 kJ = 4112.5 kJ\n*   **Answer:** 4112.5 kJ\n\n**(d) State** one specific function of the *dietary fibre* component of *Nutribloom* within the human digestive system. (1 mark)\n*   Adds bulk to the faeces / undigested food (1 mark).\n*   Helps prevent constipation / promotes regular bowel movements (1 mark).\n*   Helps to move food efficiently through the digestive tract (1 mark).",
+      "explanation": "This is an open-ended question designed to assess understanding of both nutritional components and digestive processes within an applied, unfamiliar context. The explanation for each part is integrated into the model answer.\n\n**Part (a)** requires students to identify the inadequacy of *Nutribloom* as a sole food source for a balanced diet (specifically lack of vitamins and minerals, and potentially variety in essential proteins/fats) and clearly explain the biological consequences of these deficiencies, linking cause and effect using scientific terminology.\n\n**Part (b)** tests knowledge of the early stages of chemical digestion. Students must describe the role of salivary amylase in the mouth in breaking down starch and then explain why this digestion ceases in the stomach due to its acidic conditions and enzyme denaturation.\n\n**Part (c)** is a multi-step numerical calculation. Students must first scale the given nutrient quantities from a 100g sample to a 250g serving. Then, they need to apply the provided energy conversion factors to each nutrient type to calculate the individual energy contributions. Finally, they sum these contributions to arrive at the total energy, ensuring units are correct and working is shown.\n\n**Part (d)** is a direct recall question, asking for a specific, scientifically accurate function of dietary fibre in the digestive system.",
+      "hint": "For part (c), first determine the quantities of carbohydrates, protein, and fats in a 250g serving by scaling up from the 100g sample. Then, use the provided energy values for each macronutrient to calculate their respective energy contributions, and finally, sum these values to find the total energy.",
+      "generatedAt": "2026-04-30T13:17:17.190290"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_009",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A primary school is holding its annual sports day. The school chef, Mr. Henderson, is planning a special lunch for the students to ensure they have enough energy and can recover effectively for the afternoon events. He proposes a meal consisting of: wholemeal pasta with a chicken and vegetable sauce, a side salad with a light vinaigrette dressing, and a banana.\n\n(a) State two macronutrients found in wholemeal pasta. Explain how each of these macronutrients contributes to a student's performance during sports day. (6 marks)\n\n(b) Describe the journey of carbohydrates from the wholemeal pasta, starting from ingestion, until they reach the small intestine. Name the enzyme involved in the initial chemical digestion of carbohydrates. (4 marks)\n\n(c) Explain why thoroughly chewing the wholemeal pasta before swallowing is crucial for its efficient digestion, specifically focusing on the roles of mechanical and chemical digestion in the mouth and stomach. (4 marks)\n\n(d) Mr. Henderson knows that the wholemeal pasta provides 350 kcal per 100g serving, and 60% of these calories come from carbohydrates. A student eats a 150g serving of pasta. Calculate the total energy (in kJ) provided by the carbohydrates in this student's serving. (1 kcal = 4.18 kJ) (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Macronutrients from wholemeal pasta and their contribution:\n\n1.  **Carbohydrates:** (1 mark)\n    *   **Explanation:** Carbohydrates are the body's primary and most readily available source of energy (glucose). During sports day activities, glucose is crucial for muscle contraction and providing sustained energy to prevent fatigue, allowing students to perform effectively over prolonged periods. (2 marks)\n\n2.  **Fibre:** (1 mark)\n    *   **Explanation:** While not a direct energy source, fibre helps regulate blood sugar levels by slowing down the absorption of glucose into the bloodstream from other carbohydrates. This provides a more sustained and gradual release of energy, preventing sudden energy crashes and supporting consistent physical activity throughout the afternoon. (2 marks)\n\n(b) Journey and initial digestion of carbohydrates:\n*   **Journey:** The wholemeal pasta is ingested into the **mouth**, then travels down the **oesophagus** (after passing the pharynx), through the **stomach**, and finally enters the **small intestine**. (2 marks - 1 for correct sequence of at least 3 organs, 1 for all correct and in order)\n*   **Initial Chemical Digestion:** In the mouth, **salivary amylase** (1 mark) begins the chemical breakdown of complex carbohydrates (starch) into simpler sugars. (1 mark for location/action)\n\n(c) Importance of chewing for efficient digestion:\n*   **Mechanical Digestion (Mouth):** Chewing physically breaks down large pieces of pasta into smaller fragments. This process of mechanical digestion significantly increases the surface area of the food particles. (1 mark)\n*   **Chemical Digestion (Mouth):** The increased surface area allows salivary amylase (the enzyme for carbohydrate digestion) to mix more thoroughly with the food and act more efficiently, thereby beginning the breakdown of starch into simpler sugars sooner. (1 mark)\n*   **Stomach's Role:** Although chemical carbohydrate digestion largely stops in the acidic stomach environment (as salivary amylase is denatured), the smaller, well-chewed food particles are easier for the stomach's muscular walls to churn (mechanical digestion). This churning further mixes the food with gastric juices and prepares it more efficiently for subsequent enzymatic breakdown and absorption in the small intestine. Insufficient chewing would result in larger lumps that are harder for enzymes to access later and prolong the overall digestive process. (2 marks)\n\n(d) Calculation of carbohydrate energy:\n\n1.  **Energy per 1g of pasta:**\n    350 kcal / 100g = 3.5 kcal/g (1 mark)\n\n2.  **Total energy from 150g serving:**\n    3.5 kcal/g × 150g = 525 kcal (1 mark)\n\n3.  **Energy from carbohydrates (60% of total):**\n    0.60 × 525 kcal = 315 kcal (1 mark)\n\n4.  **Convert kcal to kJ:**\n    Formula: Energy (kJ) = Energy (kcal) × 4.18 kJ/kcal\n    Substitution: Energy (kJ) = 315 kcal × 4.18 kJ/kcal\n    Answer: Energy (kJ) = 1316.7 kJ\n    (1 mark for correct calculation and units)\n\n**Final Answer for (d): 1316.7 kJ**",
+      "explanation": "This question assesses the student's understanding of both nutrition and digestion, requiring them to apply their knowledge in a multi-step scenario.\n\nPart (a) requires identification of macronutrients (carbohydrates and fibre) and explaining their specific functional roles in the context of physical activity (energy and sustained energy release), combining knowledge of diet components with physiological needs. This goes beyond simple recall.\n\nPart (b) tests knowledge of the sequential digestive pathway and the specific enzyme responsible for initial carbohydrate breakdown, demonstrating an understanding of the stages of digestion and the role of enzymes.\n\nPart (c) is an 'explain' question requiring cause-and-effect reasoning. It connects mechanical and chemical digestion processes, highlighting their interdependence (chewing increases surface area for enzymes) and discussing the consequences of inefficient initial breakdown in the mouth and its impact on the subsequent mechanical processing in the stomach, preparing for digestion in the small intestine. This requires students to integrate multiple concepts.\n\nPart (d) is a multi-step calculation involving unit conversions and percentage calculations, requiring careful sequential steps to arrive at the final answer. It assesses numerical problem-solving skills within a scientific context, a key aspect of advanced questions.",
+      "hint": "For part (d), break down the calculation into steps: first, find the total energy for the specific serving size. Then, calculate the portion of that energy that comes from carbohydrates. Finally, convert the energy units from kcal to kJ using the provided conversion factor, ensuring you show all your working.",
+      "generatedAt": "2026-04-30T13:17:44.119614"
+    },
+    {
+      "id": "s-y8-nutrition_advanced_010",
+      "topicId": "s-y8-nutrition",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A company is developing a specialised \"Recovery Nutrient Paste\" for patients who need easily digestible and highly absorbable food due to temporary digestive challenges. The paste is designed to minimise the work required by the digestive system.\n\nThe nutritional information for 150g of the Recovery Nutrient Paste is as follows:\n*   Protein: 45g\n*   Carbohydrates: 75g\n*   Fats: 22.5g\n*   Dietary Fibre: 3g\n*   Water: 4.5g\n\n1.  **Calculate:** Using the provided energy values (1g carbohydrate = 17 kJ, 1g protein = 17 kJ, 1g fat = 37 kJ), calculate the total energy, in kJ, provided by 150g of this Recovery Nutrient Paste. Show your working. (3 marks)\n2.  **Explain:** Explain two ways the low dietary fibre content of this paste is beneficial for patients with temporary digestive challenges. (4 marks)\n3.  **Describe:** Describe the main chemical changes that the protein from this paste undergoes in the stomach and small intestine, mentioning the key enzymes involved in each stage. (4 marks)\n4.  **State:** State the primary form in which digested carbohydrates are absorbed from the small intestine into the bloodstream. (1 mark)",
+      "options": [],
+      "correctAnswer": "1.  **Calculation:**\n    *   Energy from protein = 45g * 17 kJ/g = 765 kJ\n    *   Energy from carbohydrates = 75g * 17 kJ/g = 1275 kJ\n    *   Energy from fats = 22.5g * 37 kJ/g = 832.5 kJ\n    *   Total energy = 765 kJ + 1275 kJ + 832.5 kJ = **2872.5 kJ**\n    *   *(1 mark for correctly calculating each component's energy, 1 mark for summing them, 1 mark for correct units)*\n\n2.  **Explanation of low fibre benefit:**\n    *   **Benefit 1 (Reduced bulk/work):** Fibre is largely indigestible by human enzymes and adds bulk to food. A low fibre content means less undigested material travels through the digestive tract, so the intestines do not have to work as hard pushing this bulk along, *which is beneficial because* it conserves energy and reduces strain on a compromised digestive system. (2 marks for cause and effect linked)\n    *   **Benefit 2 (Faster transit/absorption of nutrients):** High fibre can slow down the absorption of other nutrients by forming a gel or trapping them. A low fibre content allows the other digested nutrients (like carbohydrates and proteins) to be absorbed more quickly and efficiently into the bloodstream, *which is beneficial because* patients need rapid nutrient delivery for recovery. (2 marks for cause and effect linked)\n\n3.  **Description of protein digestion:**\n    *   **In the stomach:** The protein is mechanically broken down by the churning action of the stomach muscles and chemically digested by the enzyme pepsin (a type of protease), *which is activated by hydrochloric acid (HCl)*. This breaks the large protein molecules into smaller polypeptide chains. (2 marks for enzyme, location, and what happens)\n    *   **In the small intestine:** These polypeptide chains are further broken down into even smaller peptides and then into individual amino acids by other proteases (e.g., trypsin, chymotrypsin) secreted by the pancreas and the small intestine wall. (2 marks for enzyme, location, and what happens)\n\n4.  **State primary form of carbohydrate absorption:**\n    *   **Glucose** (or simple sugars/monosaccharides). (1 mark)",
+      "explanation": "The question assesses a student's ability to apply knowledge of healthy diet components (macronutrients, fibre), energy calculations, and the stages of chemical digestion (involving specific enzymes and organs) to an unfamiliar, but relevant, medical scenario. It requires multi-step calculations, cause-and-effect explanations, and detailed descriptions of biological processes, meeting the 'Advanced' criteria for Year 8.",
+      "hint": "Remember to use the correct energy values for each macronutrient in your calculation. When explaining fibre, consider its digestibility and its impact on the digestive system's workload. For protein digestion, recall which enzymes act in which major digestive organs and what the end products are for absorption.",
+      "generatedAt": "2026-04-30T13:18:29.980253"
+    }
+  ]
+}

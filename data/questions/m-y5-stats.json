@@ -1,0 +1,488 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-stats_beginner_001",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A sweet shop recorded the number of lollipops sold each day for part of a week. The data is shown in the table below.\n\n| Day       | Lollipops Sold |\n| :-------- | :------------- |\n| Monday    | 18             |\n| Tuesday   | 25             |\n| Wednesday | 12             |\n| Thursday  | 30             |\n| Friday    | 22             |\n\nHow many more lollipops were sold on Thursday than on Monday?",
+      "options": [
+        "A. 8",
+        "B. 10",
+        "C. 12",
+        "D. 18"
+      ],
+      "correctAnswer": "C. 12",
+      "explanation": "1.  First, find the number of lollipops sold on Thursday from the table. This is 30.\n2.  Next, find the number of lollipops sold on Monday from the table. This is 18.\n3.  To find how many more lollipops were sold on Thursday than on Monday, subtract the number sold on Monday from the number sold on Thursday: 30 - 18 = 12.\nSo, 12 more lollipops were sold on Thursday than on Monday.",
+      "hint": "Identify the number of lollipops sold on Thursday and Monday from the table. Then, perform a subtraction to find the difference between these two numbers.",
+      "generatedAt": "2026-04-29T10:56:28.928481"
+    },
+    {
+      "id": "m-y5-stats_beginner_002",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student measured the height of a sunflower plant at the end of each week for four weeks. The data recorded is shown in the table below, which represents points on a line graph:\n\n| Week | Height (cm) |\n|------|-------------|\n| 1    | 10          |\n| 2    | 15          |\n| 3    | 22          |\n| 4    | 30          |\n\nCalculate the total increase in the plant's height between the end of Week 2 and the end of Week 4.",
+      "options": [
+        "5 cm",
+        "7 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "correctAnswer": "15 cm",
+      "explanation": "To find the total increase in height between the end of Week 2 and the end of Week 4:\n1. Find the height of the plant at the end of Week 4, which is 30 cm.\n2. Find the height of the plant at the end of Week 2, which is 15 cm.\n3. Subtract the height at Week 2 from the height at Week 4 to find the increase: 30 cm - 15 cm = 15 cm.",
+      "hint": "Identify the plant's height at Week 2 and Week 4 from the table. Then, think about how to find the 'increase' or 'difference' between these two values.",
+      "generatedAt": "2026-04-29T10:56:38.649747"
+    },
+    {
+      "id": "m-y5-stats_beginner_003",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A group of children recorded the number of marbles of different colours they collected. The data is shown in the table below:\n\n| Marble Colour | Number of Marbles |\n| :------------ | :---------------- |\n| Red           | 12                |\n| Blue          | 18                |\n| Green         | 15                |\n| Yellow        | 7                 |\n\nHow many more blue marbles were collected than yellow marbles?",
+      "options": [
+        "A) 5",
+        "B) 11",
+        "C) 25",
+        "D) 30"
+      ],
+      "correctAnswer": "B) 11",
+      "explanation": "To find how many more blue marbles were collected than yellow marbles, you need to subtract the number of yellow marbles from the number of blue marbles.\nFrom the table:\nNumber of blue marbles = 18\nNumber of yellow marbles = 7\nDifference = 18 - 7 = 11\nSo, 11 more blue marbles were collected than yellow marbles.",
+      "hint": "To find out how many 'more' of one item there are compared to another, you need to calculate the difference between their numbers.",
+      "generatedAt": "2026-04-29T10:56:47.312536"
+    },
+    {
+      "id": "m-y5-stats_beginner_004",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A local library recorded the number of books borrowed each day over five days. The information is shown in the table below:\n\n| Day       | Books Borrowed |\n|-----------|----------------|\n| Monday    | 125            |\n| Tuesday   | 110            |\n| Wednesday | 95             |\n| Thursday  | 130            |\n| Friday    | 150            |\n\nShow your working for both parts.\n\na) Calculate the total number of books borrowed on Monday, Tuesday, and Wednesday. (1 mark)\nb) How many more books were borrowed on Friday than on Tuesday? (1 mark)",
+      "options": [],
+      "correctAnswer": "a) To find the total number of books borrowed on Monday, Tuesday, and Wednesday, add the values for those days:\n125 (Monday) + 110 (Tuesday) + 95 (Wednesday) = 330 books.\n\nb) To find how many more books were borrowed on Friday than on Tuesday, subtract the Tuesday's number from Friday's number:\n150 (Friday) - 110 (Tuesday) = 40 books.",
+      "explanation": "For part (a), you need to identify the number of books borrowed on Monday, Tuesday, and Wednesday from the table and add them together. For part (b), identify the number of books borrowed on Friday and Tuesday, then subtract the smaller number from the larger to find the difference.",
+      "hint": "Read the values carefully from the table. For part (a), you need to sum the books for three specific days. For part (b), you need to calculate the difference between two specific days.",
+      "generatedAt": "2026-04-29T10:57:02.195775"
+    },
+    {
+      "id": "m-y5-stats_beginner_005",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A nature park recorded the number of visitors over five days. The data is shown in the table below:\n\nDay        | Number of Visitors\n-----------|-------------------\nMonday     | 120\nTuesday    | 150\nWednesday  | 100\nThursday   | 130\nFriday     | 180\n\nHow many more visitors were there on Friday than on Monday?",
+      "options": [
+        "A. 50",
+        "B. 60",
+        "C. 70",
+        "D. 80"
+      ],
+      "correctAnswer": "B. 60",
+      "explanation": "1. Look at the table to find the number of visitors on Friday. It is 180.\n2. Look at the table to find the number of visitors on Monday. It is 120.\n3. To find out 'how many more', you need to calculate the difference between the two numbers. Subtract the number of visitors on Monday from the number of visitors on Friday: 180 - 120 = 60.\nTherefore, there were 60 more visitors on Friday than on Monday.",
+      "hint": "To find out 'how many more' one value is than another, you need to subtract the smaller value from the larger value.",
+      "generatedAt": "2026-04-29T10:57:11.099398"
+    },
+    {
+      "id": "m-y5-stats_beginner_006",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Liam and Chloe played a card game for three matches. The points they scored in each match are given in the table below:\n\nMatch | Liam's Points | Chloe's Points\n------|---------------|---------------\n1     | 15            | 10\n2     | 12            | 16\n3     | 18            | 14\n\nWhat was Liam's total score across all three matches?",
+      "options": [
+        "A) 40",
+        "B) 45",
+        "C) 85",
+        "D) 18"
+      ],
+      "correctAnswer": "B) 45",
+      "explanation": "To find Liam's total score across all three matches, you need to add up his points from each match.\nLiam's points were:\nMatch 1: 15\nMatch 2: 12\nMatch 3: 18\n\nTotal score = 15 + 12 + 18\nTotal score = 27 + 18\nTotal score = 45\n\nTherefore, Liam's total score was 45.",
+      "hint": "To find the total score for Liam, you need to sum his points from each of the three matches.",
+      "generatedAt": "2026-04-29T10:57:25.349364"
+    },
+    {
+      "id": "m-y5-stats_beginner_007",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A farmer recorded the weight of two baby animals, a lamb and a kid goat, at the end of each month. The weights are shown in the table below:\n\n| Month     | Lamb Weight (kg) | Kid Goat Weight (kg) |\n|-----------|------------------|----------------------|\n| January   | 12               | 9                    |\n| February  | 15               | 11                   |\n| March     | 18               | 14                   |\n\nWhat was the difference in weight between the lamb and the kid goat in March?",
+      "options": [
+        "2 kg",
+        "3 kg",
+        "4 kg",
+        "5 kg"
+      ],
+      "correctAnswer": "4 kg",
+      "explanation": "1. First, find the row for 'March' in the table.\n2. In March, the Lamb's weight was 18 kg.\n3. In March, the Kid Goat's weight was 14 kg.\n4. To find the difference, subtract the Kid Goat's weight from the Lamb's weight: 18 kg - 14 kg = 4 kg.",
+      "hint": "To find the difference between two values, subtract the smaller number from the larger number.",
+      "generatedAt": "2026-04-29T10:57:36.600991"
+    },
+    {
+      "id": "m-y5-stats_beginner_008",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A horticulturist measured the height of a bean plant over three consecutive weeks. The recorded heights are presented in the table below:\n\n| Week Number | Height (cm) |\n|-------------|-------------|\n| Week 1      | 6           |\n| Week 2      | 11          |\n| Week 3      | 18          |\n\nWhat is the sum of the heights recorded for the bean plant over these three weeks?",
+      "options": [
+        "30 cm",
+        "35 cm",
+        "32 cm",
+        "38 cm"
+      ],
+      "correctAnswer": "35 cm",
+      "explanation": "To find the sum of the heights recorded, you need to add the height from each week together.\nHeight in Week 1 = 6 cm\nHeight in Week 2 = 11 cm\nHeight in Week 3 = 18 cm\n\nTotal sum = 6 cm + 11 cm + 18 cm = 35 cm.",
+      "hint": "To find the 'sum', you need to add all the given height values together.",
+      "generatedAt": "2026-04-29T10:57:45.352698"
+    },
+    {
+      "id": "m-y5-stats_beginner_009",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A toy shop recorded the number of different toy types sold in one week. The data is shown in the table below:\n\n| Toy Type        | Number Sold |\n| :-------------- | :---------- |\n| Building Blocks | 35          |\n| Plush Animals   | 48          |\n| Action Figures  | 27          |\n| Board Games     | 31          |\n\nWhat is the total number of Plush Animals and Board Games sold in that week?",
+      "options": [
+        "A) 75",
+        "B) 79",
+        "C) 83",
+        "D) 58"
+      ],
+      "correctAnswer": "B) 79",
+      "explanation": "To find the total number of Plush Animals and Board Games sold, you need to add the number of Plush Animals sold to the number of Board Games sold.\nFrom the table:\nNumber of Plush Animals sold = 48\nNumber of Board Games sold = 31\nTotal = 48 + 31 = 79",
+      "hint": "Identify the number of Plush Animals and Board Games from the table and then add them together.",
+      "generatedAt": "2026-04-29T10:57:56.582557"
+    },
+    {
+      "id": "m-y5-stats_beginner_010",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Four friends took part in a fun run. The table below shows the distance, in metres, each friend ran.\n\n| Friend   | Distance (metres) |\n|----------|-------------------|\n| Emily    | 175               |\n| Ben      | 210               |\n| Sarah    | 190               |\n| Tom      | 235               |\n\nHow much further did Tom run than Emily?\nShow your working.",
+      "options": [
+        "50 metres",
+        "55 metres",
+        "60 metres",
+        "70 metres"
+      ],
+      "correctAnswer": "60 metres",
+      "explanation": "To find out how much further Tom ran than Emily, you need to calculate the difference between their distances. This involves a subtraction.\n\nTom's distance = 235 metres\nEmily's distance = 175 metres\n\nDifference = Tom's distance - Emily's distance\nDifference = 235 - 175\nDifference = 60 metres\n\nTherefore, Tom ran 60 metres further than Emily.",
+      "hint": "To find how much 'further' one person ran than another, you need to find the difference between their distances. Which mathematical operation should you use for finding a difference?",
+      "generatedAt": "2026-04-29T10:58:10.845938"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-stats_intermediate_001",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "The sales figures for laptops at two different shops, Bargain Buys and Super Savers, over the first five months of the year are shown in the tables below.\n\n**Bargain Buys Sales:**\nMonth: Jan, Feb, Mar, Apr, May\nLaptops Sold: 45, 38, 52, 40, 55\n\n**Super Savers Sales:**\nMonth: Jan, Feb, Mar, Apr, May\nLaptops Sold: 30, 42, 48, 55, 60\n\nOver the five-month period, which statement accurately compares the total number of laptops sold by Bargain Buys and Super Savers? Show your working.",
+      "options": [
+        "A. Bargain Buys sold 5 more laptops than Super Savers.",
+        "B. Super Savers sold 5 more laptops than Bargain Buys.",
+        "C. Bargain Buys sold 10 more laptops than Super Savers.",
+        "D. Super Savers sold 10 more laptops than Bargain Buys."
+      ],
+      "correctAnswer": "B. Super Savers sold 5 more laptops than Bargain Buys.",
+      "explanation": "Step 1: Calculate the total number of laptops sold by Bargain Buys over the five months.\nTotal for Bargain Buys = 45 + 38 + 52 + 40 + 55 = 230 laptops.\n\nStep 2: Calculate the total number of laptops sold by Super Savers over the five months.\nTotal for Super Savers = 30 + 42 + 48 + 55 + 60 = 235 laptops.\n\nStep 3: Compare the total sales from both shops.\nSuper Savers sold 235 laptops, and Bargain Buys sold 230 laptops.\nSince 235 > 230, Super Savers sold more laptops.\n\nStep 4: Calculate the difference in sales.\nDifference = Total for Super Savers - Total for Bargain Buys\nDifference = 235 - 230 = 5 laptops.\n\nTherefore, Super Savers sold 5 more laptops than Bargain Buys.",
+      "hint": "To determine the comparison, you first need to find the sum of sales for each shop over the entire period mentioned.",
+      "generatedAt": "2026-04-29T10:58:29.179430"
+    },
+    {
+      "id": "m-y5-stats_intermediate_002",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Alice and Ben are tracking the number of pages they read in their respective books over a school week. The data they collected is shown in the tables below.\n\nAlice's Reading Record:\n| Day       | Pages Read |\n|-----------|------------|\n| Monday    | 30         |\n| Tuesday   | 25         |\n| Wednesday | 40         |\n| Thursday  | 35         |\n| Friday    | 50         |\n\nBen's Reading Record:\n| Day       | Pages Read |\n|-----------|------------|\n| Monday    | 20         |\n| Tuesday   | 30         |\n| Wednesday | 35         |\n| Thursday  | 45         |\n| Friday    | 40         |\n\nBen claims that he read more pages in total than Alice over these five days. Is Ben correct? You must show all your working to justify your answer.",
+      "options": [],
+      "correctAnswer": "To determine if Ben is correct, we need to calculate the total number of pages read by Alice and Ben over the five days.\n\nAlice's Total Pages Read:\n30 (Monday) + 25 (Tuesday) + 40 (Wednesday) + 35 (Thursday) + 50 (Friday) = 180 pages\n\nBen's Total Pages Read:\n20 (Monday) + 30 (Tuesday) + 35 (Wednesday) + 45 (Thursday) + 40 (Friday) = 170 pages\n\nNow, we compare their totals:\nAlice read 180 pages.\nBen read 170 pages.\n\nSince 180 > 170, Alice read more pages than Ben.\n\nTherefore, Ben is incorrect in his claim that he read more pages in total than Alice.",
+      "explanation": "The problem requires two main steps: first, calculating the sum of pages read for each individual from their respective tables, and second, comparing these sums to answer Ben's claim. By summing Alice's daily page counts, we find her total. Similarly, summing Ben's daily page counts gives his total. A direct comparison of these two totals then reveals who read more pages.",
+      "hint": "To find the total number of pages read by each person, you need to sum the pages read for each day from their individual tables. Once you have both totals, you can compare them.",
+      "generatedAt": "2026-04-29T10:58:59.828177"
+    },
+    {
+      "id": "m-y5-stats_intermediate_003",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A school class is tracking the growth of two types of plant, Plant A and Plant B, over 5 weeks. The heights of the plants were measured at the end of each week and recorded in the table below. All heights are in centimetres (cm).\n\n| Week | Plant A Height (cm) | Plant B Height (cm) |\n|---|---|---|\n| 0 | 5 | 8 |\n| 1 | 12 | 18 |\n| 2 | 25 | 35 |\n| 3 | 40 | 55 |\n| 4 | 58 | 78 |\n| 5 | 75 | 105 |\n\nCalculate the total increase in the *combined* height of Plant A and Plant B from Week 2 to Week 4. Show your working.",
+      "options": [],
+      "correctAnswer": "Working:\n1.  Calculate the combined height of Plant A and Plant B at Week 2:\n    Combined height at Week 2 = Plant A height (Week 2) + Plant B height (Week 2)\n    Combined height at Week 2 = 25 cm + 35 cm = 60 cm\n\n2.  Calculate the combined height of Plant A and Plant B at Week 4:\n    Combined height at Week 4 = Plant A height (Week 4) + Plant B height (Week 4)\n    Combined height at Week 4 = 58 cm + 78 cm = 136 cm\n\n3.  Calculate the total increase in combined height from Week 2 to Week 4:\n    Increase = Combined height at Week 4 - Combined height at Week 2\n    Increase = 136 cm - 60 cm = 76 cm\n\nAnswer: The total increase in the combined height of Plant A and Plant B from Week 2 to Week 4 is 76 cm.",
+      "explanation": "To solve this problem, you first need to determine the combined height of both plants at two specific points in time: Week 2 and Week 4. For each week, add the height of Plant A to the height of Plant B. Once you have these two combined heights, calculate the difference between the combined height at Week 4 and the combined height at Week 2. This difference represents the total increase over that period.",
+      "hint": "First, find the sum of the heights of Plant A and Plant B for Week 2. Do the same for Week 4. Then, subtract the earlier total from the later total to find the increase.",
+      "generatedAt": "2026-04-29T10:59:15.493165"
+    },
+    {
+      "id": "m-y5-stats_intermediate_004",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "The daily maximum temperatures for two cities, Greenfield and Orchardville, were recorded over five days. The temperatures are shown in the table below:\n\n| Day       | Greenfield (°C) | Orchardville (°C) |\n|-----------|-----------------|-------------------|\n| Monday    | 18              | 17                |\n| Tuesday   | 20              | 19                |\n| Wednesday | 22              | 23                |\n| Thursday  | 19              | 20                |\n| Friday    | 21              | 22                |\n\nWhat was the difference between the total maximum temperature recorded in Orchardville and the total maximum temperature recorded in Greenfield over these five days? Show your working clearly.",
+      "options": [
+        "Orchardville was 1°C warmer overall.",
+        "Greenfield was 1°C warmer overall.",
+        "Orchardville was 5°C warmer overall.",
+        "Greenfield was 5°C warmer overall."
+      ],
+      "correctAnswer": "Orchardville was 1°C warmer overall.",
+      "explanation": "To find the difference between the total maximum temperatures, we need to calculate the sum of the temperatures for each city over the five days and then find the difference between these sums.\n\n**Step 1: Calculate the total maximum temperature for Greenfield.**\nGreenfield Total = 18°C + 20°C + 22°C + 19°C + 21°C = 100°C\n\n**Step 2: Calculate the total maximum temperature for Orchardville.**\nOrchardville Total = 17°C + 19°C + 23°C + 20°C + 22°C = 101°C\n\n**Step 3: Find the difference between the two totals.**\nDifference = Orchardville Total - Greenfield Total\nDifference = 101°C - 100°C = 1°C\n\nSince Orchardville's total temperature (101°C) is higher than Greenfield's total temperature (100°C), Orchardville was 1°C warmer overall.",
+      "hint": "Begin by calculating the total sum of the maximum temperatures for each city over the entire five-day period. Then, subtract the smaller total from the larger total.",
+      "generatedAt": "2026-04-29T10:59:33.651865"
+    },
+    {
+      "id": "m-y5-stats_intermediate_005",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A factory monitors its stock of widgets over two shifts on Monday and Tuesday. The data for production (widgets added to stock) and dispatch (widgets removed from stock) is given below, representing changes to the stock level. \n\n**Monday's Stock Activity:**\nStock level at the start of the Morning shift: 250 widgets.\nDuring the Morning shift:\n- At 09:00, 80 widgets were produced.\n- At 11:00, 120 widgets were dispatched.\nDuring the Afternoon shift:\n- At 13:00, 150 widgets were produced.\n- At 16:00, 90 widgets were dispatched.\n\n**Tuesday's Stock Activity:**\nStock level at the start of the Morning shift: 300 widgets.\nDuring the Morning shift:\n- At 09:00, 100 widgets were produced.\n- At 11:00, 140 widgets were dispatched.\nDuring the Afternoon shift:\n- At 13:00, 130 widgets were produced.\n- At 16:00, 110 widgets were dispatched.\n\nWhat was the difference in the final stock level at the end of the Afternoon shift between Monday and Tuesday? Show your working.",
+      "options": [
+        "10 widgets",
+        "20 widgets",
+        "30 widgets",
+        "40 widgets"
+      ],
+      "correctAnswer": "10 widgets",
+      "explanation": "To find the final stock level for Monday:\nStart stock + produced - dispatched + produced - dispatched\nMonday's final stock = 250 (start) + 80 (produced) - 120 (dispatched) + 150 (produced) - 90 (dispatched)\nMonday's final stock = 330 - 120 + 150 - 90\nMonday's final stock = 210 + 150 - 90\nMonday's final stock = 360 - 90\nMonday's final stock = 270 widgets.\n\nTo find the final stock level for Tuesday:\nStart stock + produced - dispatched + produced - dispatched\nTuesday's final stock = 300 (start) + 100 (produced) - 140 (dispatched) + 130 (produced) - 110 (dispatched)\nTuesday's final stock = 400 - 140 + 130 - 110\nTuesday's final stock = 260 + 130 - 110\nTuesday's final stock = 390 - 110\nTuesday's final stock = 280 widgets.\n\nTo find the difference in the final stock levels:\nDifference = Tuesday's final stock - Monday's final stock\nDifference = 280 - 270\nDifference = 10 widgets.\n\nTherefore, the difference in the final stock level between Monday and Tuesday is 10 widgets.",
+      "hint": "First, calculate the total stock at the end of Monday by adding all productions and subtracting all dispatches from the initial stock. Do the same for Tuesday. Then, find the numerical difference between these two final stock totals.",
+      "generatedAt": "2026-04-29T10:59:52.706114"
+    },
+    {
+      "id": "m-y5-stats_intermediate_006",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A museum monitors the number of visitors to two of its popular exhibits, the 'Ancient Wonders' exhibit and the 'Future Frontiers' exhibit, between 9 am and 2 pm. The number of visitors recorded each hour is shown in the table below.\n\n| Time    | Ancient Wonders Visitors | Future Frontiers Visitors |\n| :------ | :----------------------- | :------------------------ |\n| 9 am    | 45                       | 30                        |\n| 10 am   | 60                       | 55                        |\n| 11 am   | 72                       | 68                        |\n| 12 pm   | 80                       | 75                        |\n| 1 pm    | 65                       | 70                        |\n| 2 pm    | 50                       | 62                        |\n\nCalculate the difference between the total number of visitors to the 'Future Frontiers' exhibit and the total number of visitors to the 'Ancient Wonders' exhibit for the entire period from 9 am to 2 pm. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total visitors for the 'Ancient Wonders' exhibit.\nTotal Ancient Wonders Visitors = 45 + 60 + 72 + 80 + 65 + 50 = 372 visitors.\n\nStep 2: Calculate the total visitors for the 'Future Frontiers' exhibit.\nTotal Future Frontiers Visitors = 30 + 55 + 68 + 75 + 70 + 62 = 360 visitors.\n\nStep 3: Calculate the difference between the total Future Frontiers visitors and the total Ancient Wonders visitors.\nDifference = Total Future Frontiers Visitors - Total Ancient Wonders Visitors\nDifference = 360 - 372 = -12.\n\nThe difference is -12 (meaning the 'Ancient Wonders' exhibit had 12 more visitors than the 'Future Frontiers' exhibit).",
+      "explanation": "The 'correctAnswer' field provides a full model answer with step-by-step working, which serves as the explanation for open-ended questions.",
+      "hint": "First, sum all the visitors for each exhibit separately over the entire period. Then, subtract the total visitors of 'Ancient Wonders' from the total visitors of 'Future Frontiers'.",
+      "generatedAt": "2026-04-29T11:00:29.161416"
+    },
+    {
+      "id": "m-y5-stats_intermediate_007",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Liam and Noah are collecting cards. The tables below show how many packs of cards each boy opened over one week.\n\n**Liam's Packs Opened:**\n| Day         | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |\n|-------------|--------|---------|-----------|----------|--------|----------|--------|\n| Packs Opened| 3      | 2       | 5         | 2        | 5      | 6        | 4      |\n\n**Noah's Packs Opened:**\n| Day         | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |\n|-------------|--------|---------|-----------|----------|--------|----------|--------|\n| Packs Opened| 4      | 3       | 3         | 3        | 4      | 5        | 5      |\n\nOn which day did Liam open the *most* packs *more than* Noah? On that specific day, what was the total number of packs they opened together? Show your working.",
+      "options": [],
+      "correctAnswer": "Day: Wednesday, Total Packs: 8",
+      "explanation": "1.  **Identify days when Liam opened more packs than Noah and calculate the difference:**\n    *   Monday: Liam 3, Noah 4 (Noah opened more)\n    *   Tuesday: Liam 2, Noah 3 (Noah opened more)\n    *   Wednesday: Liam 5, Noah 3 (Liam opened more) -> Difference: 5 - 3 = 2 packs\n    *   Thursday: Liam 2, Noah 3 (Noah opened more)\n    *   Friday: Liam 5, Noah 4 (Liam opened more) -> Difference: 5 - 4 = 1 pack\n    *   Saturday: Liam 6, Noah 5 (Liam opened more) -> Difference: 6 - 5 = 1 pack\n    *   Sunday: Liam 4, Noah 5 (Noah opened more)\n\n2.  **Determine the day Liam opened the most packs more than Noah:**\n    *   The largest difference where Liam opened more is 2 packs. This occurred on Wednesday.\n\n3.  **Calculate the total packs opened together on Wednesday:**\n    *   Liam opened 5 packs on Wednesday.\n    *   Noah opened 3 packs on Wednesday.\n    *   Total packs = 5 + 3 = 8 packs.\n\nTherefore, on Wednesday, Liam opened the most packs more than Noah, and together they opened 8 packs.",
+      "hint": "First, compare Liam's and Noah's daily packs to find on which days Liam opened more. Then, calculate the difference for those days to find the greatest difference. Once you have identified the correct day, find the sum of packs they both opened on that specific day.",
+      "generatedAt": "2026-04-29T11:00:49.588947"
+    },
+    {
+      "id": "m-y5-stats_intermediate_008",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A local cinema, 'Reel Fun', tracks the number of tickets sold for its afternoon and evening shows over four days. The sales data is presented in the table below:\n\n| Day       | Afternoon Show Tickets | Evening Show Tickets |\n|-----------|------------------------|----------------------|\n| Thursday  | 110                    | 180                  |\n| Friday    | 135                    | 210                  |\n| Saturday  | 160                    | 240                  |\n| Sunday    | 120                    | 190                  |\n\nThe cinema manager set a goal: the total number of tickets sold for afternoon shows from Thursday to Saturday must be at least 60% of the total number of tickets sold for evening shows on Friday and Sunday. \n\nWhat is the difference between the total number of tickets sold for afternoon shows from Thursday to Saturday and 60% of the total number of tickets sold for evening shows on Friday and Sunday? State if this difference was above or below the target value. (You must show your working).",
+      "options": [
+        "45 tickets above",
+        "165 tickets below",
+        "45 tickets below",
+        "165 tickets above"
+      ],
+      "correctAnswer": "165 tickets above",
+      "explanation": "Step 1: Calculate the total number of tickets sold for afternoon shows from Thursday to Saturday.\nTotal Afternoon Tickets = Tickets (Thursday) + Tickets (Friday) + Tickets (Saturday)\nTotal Afternoon Tickets = 110 + 135 + 160 = 405 tickets.\n\nStep 2: Calculate the total number of tickets sold for evening shows on Friday and Sunday.\nTotal Evening Tickets (Friday & Sunday) = Tickets (Friday) + Tickets (Sunday)\nTotal Evening Tickets (Friday & Sunday) = 210 + 190 = 400 tickets.\n\nStep 3: Calculate 60% of the total number of tickets sold for evening shows on Friday and Sunday.\nTarget Value = 60% of 400\nTarget Value = 0.60 * 400 = 240 tickets.\n\nStep 4: Find the difference between the actual total afternoon sales and the calculated target value.\nDifference = Total Afternoon Tickets - Target Value\nDifference = 405 - 240 = 165 tickets.\n\nStep 5: Determine if the actual afternoon sales were above or below the target.\nSince 405 (actual afternoon sales) is greater than 240 (the target value), the difference is 'above'.\n\nTherefore, the difference is 165 tickets above the target value.",
+      "hint": "First, sum the specified afternoon show tickets and the specified evening show tickets separately. Then, calculate the percentage of the evening show total before finding the final difference and comparing.",
+      "generatedAt": "2026-04-29T11:01:11.217254"
+    },
+    {
+      "id": "m-y5-stats_intermediate_009",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Maya and Ben tracked the number of steps they took each day for a school week. The table below shows their daily steps.\n\n| Day       | Maya's Steps | Ben's Steps |\n|:----------|:-------------|:------------|\n| Monday    | 4500         | 4800        |\n| Tuesday   | 5200         | 4900        |\n| Wednesday | 3800         | 4200        |\n| Thursday  | 6100         | 5800        |\n| Friday    | 4900         | 5100        |\n\nCalculate the total number of steps taken by each person over the entire school week. Then, determine the difference in their total steps and state who took more. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the total steps for each person, we add their daily steps:\n\nMaya's Total Steps:\n4500 + 5200 + 3800 + 6100 + 4900 = 24500 steps\n\nBen's Total Steps:\n4800 + 4900 + 4200 + 5800 + 5100 = 24800 steps\n\nTo find the difference, we subtract the smaller total from the larger total:\nDifference = Ben's Total Steps - Maya's Total Steps\nDifference = 24800 - 24500 = 300 steps\n\nComparing their totals, Ben took 24800 steps and Maya took 24500 steps. Since 24800 > 24500, Ben took more steps.\n\nAnswer: Maya took a total of 24500 steps. Ben took a total of 24800 steps. Ben took 300 more steps than Maya.",
+      "explanation": "This problem requires two main steps: first, calculating the sum of steps for each person over the week, and second, comparing these sums to find the difference. \n\n1.  **Calculate each person's total steps:** For Maya, add all her daily steps (4500 + 5200 + 3800 + 6100 + 4900). Do the same for Ben (4800 + 4900 + 4200 + 5800 + 5100).\n2.  **Find the difference and identify who took more:** Once you have both totals, subtract the smaller total from the larger total to find the difference. The person with the higher total is the one who took more steps.",
+      "hint": "To solve this, first calculate the sum of steps for Maya and the sum of steps for Ben over the five days. Then, compare these two total sums to find the difference and identify the person with the greater sum.",
+      "generatedAt": "2026-04-29T11:01:27.557620"
+    },
+    {
+      "id": "m-y5-stats_intermediate_010",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A local fruit stall, 'Fresh Picks', records the number of apples and oranges sold each hour over a 4-hour period. Apples are sold at £0.60 each and oranges at £0.50 each.\n\nThe number of apples sold per hour is given in Table 1:\nTable 1: Number of Apples Sold\nHour: 1, 2, 3, 4\nUnits Sold: 25, 32, 28, 35\n\nThe number of oranges sold per hour is given in Table 2:\nTable 2: Number of Oranges Sold\nHour: 1, 2, 3, 4\nUnits Sold: 20, 30, 38, 30\n\nCalculate the difference in total revenue generated between apples and oranges over the 4-hour period. Show your working.",
+      "options": [
+        "£11.00",
+        "£13.00",
+        "£15.00",
+        "£17.00"
+      ],
+      "correctAnswer": "£13.00",
+      "explanation": "1.  **Calculate total apples sold:**\n    Total apples = 25 + 32 + 28 + 35 = 120 apples.\n\n2.  **Calculate total revenue from apples:**\n    Revenue from apples = 120 apples * £0.60/apple = £72.00.\n\n3.  **Calculate total oranges sold:**\n    Total oranges = 20 + 30 + 38 + 30 = 118 oranges.\n\n4.  **Calculate total revenue from oranges:**\n    Revenue from oranges = 118 oranges * £0.50/orange = £59.00.\n\n5.  **Calculate the difference in revenue:**\n    Difference = Revenue from apples - Revenue from oranges\n    Difference = £72.00 - £59.00 = £13.00.\n\nTherefore, the difference in total revenue generated between apples and oranges is £13.00.",
+      "hint": "First, calculate the total number of apples sold and the total number of oranges sold over the 4-hour period. Then, use the given prices to find the total revenue for each fruit type before calculating the difference.",
+      "generatedAt": "2026-04-29T11:01:46.174461"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-stats_advanced_001",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A school fair recorded the daily income for two stalls over four days. Stall A sold cakes, and Stall B sold drinks.\n\nThe daily income for Stall A (Cakes) is shown in the table below:\nDay: Monday, Tuesday, Wednesday, Thursday\nIncome (£): 15.50, 12.75, 18.25, 20.00\n\nThe daily income for Stall B (Drinks) is shown in the data collected for a line graph:\nDay: Monday, Tuesday, Wednesday, Thursday\nIncome (£): 10.20, 14.50, 11.80, 16.30\n\nCalculate the total income for Stall A over the four days. Then, calculate the total income for Stall B over the four days. Finally, determine the difference between the total income of Stall A and Stall B. Give your answer to two decimal places. Show all your working.",
+      "options": [
+        "£119.30",
+        "£13.70",
+        "£12.70",
+        "£13.80"
+      ],
+      "correctAnswer": "£13.70",
+      "explanation": "Step 1: Calculate the total income for Stall A (Cakes).\nTotal Income for Stall A = £15.50 + £12.75 + £18.25 + £20.00 = £66.50\n\nStep 2: Calculate the total income for Stall B (Drinks).\nTotal Income for Stall B = £10.20 + £14.50 + £11.80 + £16.30 = £52.80\n\nStep 3: Determine the difference between the total income of Stall A and Stall B.\nDifference = Total Income for Stall A - Total Income for Stall B\nDifference = £66.50 - £52.80 = £13.70\n\nThe final answer is £13.70.",
+      "hint": "First, find the sum of all daily incomes for Stall A. Next, find the sum of all daily incomes for Stall B. Finally, subtract the smaller total from the larger total.",
+      "generatedAt": "2026-04-29T11:02:01.266057"
+    },
+    {
+      "id": "m-y5-stats_advanced_002",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Ben and Chloe are collecting special edition football stickers. They record the number of new stickers they find each week for five consecutive weeks. The data is shown in the table below:\n\n| Week | Ben's New Stickers | Chloe's New Stickers |\n|------|--------------------|----------------------|\n| 1    | 28                 | 35                   |\n| 2    | 32                 | 29                   |\n| 3    | 40                 | 38                   |\n| 4    | 35                 | 42                   |\n| 5    | 25                 | 30                   |\n\nThey want to complete an album that requires a total of 300 stickers. Any stickers they collect beyond the 300 needed for the album can be sold. Each extra sticker is worth 50 pence.\n\nAfter five weeks, Ben and Chloe decide to combine all their stickers and use them to complete one album. They then sell all their extra stickers.\n\nHow much money, in pounds and pence, could they earn in total from selling the extra stickers? You must show your working. (5 marks)",
+      "options": [
+        "£7.00",
+        "£15.00",
+        "£17.00",
+        "£20.00"
+      ],
+      "correctAnswer": "£17.00",
+      "explanation": "Step 1: Calculate the total number of stickers Ben collected.\nBen's total = 28 + 32 + 40 + 35 + 25 = 160 stickers.\n\nStep 2: Calculate the total number of stickers Chloe collected.\nChloe's total = 35 + 29 + 38 + 42 + 30 = 174 stickers.\n\nStep 3: Calculate the combined total number of stickers collected by Ben and Chloe.\nCombined total = Ben's total + Chloe's total = 160 + 174 = 334 stickers.\n\nStep 4: Determine how many stickers are extra (beyond the 300 needed for the album).\nExtra stickers = Combined total - Album requirement = 334 - 300 = 34 stickers.\n\nStep 5: Calculate the total money earned from selling the extra stickers.\nMoney earned = Number of extra stickers × Price per sticker\nMoney earned = 34 × 50 pence = 1700 pence.\n\nStep 6: Convert the total pence into pounds and pence.\nSince 100 pence = £1, then 1700 pence = 1700 ÷ 100 = £17.00.\n\nTherefore, they could earn £17.00 in total from selling the extra stickers.",
+      "hint": "Remember to first find the total number of stickers collected by each person, then combine them before working out how many stickers are extra and their total value. Don't forget to convert pence to pounds at the end.",
+      "generatedAt": "2026-04-29T11:02:26.104564"
+    },
+    {
+      "id": "m-y5-stats_advanced_003",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A local bakery records its daily sales of blueberry muffins and apple turnovers. The table below shows the number of items sold over four days:\n\nDay: Monday, Tuesday, Wednesday, Thursday\nBlueberry Muffins Sold: 35, 42, 30, 48\nApple Turnovers Sold: 20, 25, 30, 35\n\nCalculate the total number of blueberry muffins sold from Monday to Thursday. Then, determine the total number of apple turnovers sold over the same period. Finally, if a blueberry muffin costs £2 and an apple turnover costs £3, find the difference in the total money earned from blueberry muffins compared to apple turnovers over these four days. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total number of blueberry muffins sold.\nTotal blueberry muffins = 35 + 42 + 30 + 48 = 155 muffins.\n\nStep 2: Calculate the total number of apple turnovers sold.\nTotal apple turnovers = 20 + 25 + 30 + 35 = 110 turnovers.\n\nStep 3: Calculate the total money earned from blueberry muffins.\nMoney from muffins = 155 muffins * £2/muffin = £310.\n\nStep 4: Calculate the total money earned from apple turnovers.\nMoney from turnovers = 110 turnovers * £3/turnover = £330.\n\nStep 5: Find the difference in total money earned.\nDifference = Total money from apple turnovers - Total money from blueberry muffins\nDifference = £330 - £310 = £20.\n\nThe difference in the total money earned is £20.",
+      "explanation": "The problem requires several steps. First, sum the sales for each item type (blueberry muffins and apple turnovers) over the four days. Next, multiply each total by its respective cost per item to find the total income for each item. Finally, subtract the smaller total income from the larger total income to find the difference. Each step uses basic addition, subtraction, and multiplication, which are skills typically developed by Year 5.",
+      "hint": "Start by finding the total number of each item sold. Then, use the given prices to calculate the total money earned for each item before finding the difference.",
+      "generatedAt": "2026-04-29T11:02:41.654182"
+    },
+    {
+      "id": "m-y5-stats_advanced_004",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A delivery company tracks the daily mileage of two drivers, Ahmed and Brenda, using data recorded at regular intervals. The tables below show their cumulative mileage (total distance covered from the start of the day) throughout a working day.\n\nAhmed's Mileage (km):\nTime   | Mileage\n-------|--------\n08:00  | 0\n10:00  | 75\n12:00  | 140\n14:00  | 210\n16:00  | 285\n\nBrenda's Mileage (km):\nTime   | Mileage\n-------|--------\n08:00  | 0\n10:00  | 60\n12:00  | 150\n14:00  | 200\n16:00  | 290\n\nThe company set a combined mileage target for both drivers to reach 550 km by the end of the day at 16:00. By how much did they miss or exceed this target? Show your working clearly.",
+      "options": [
+        "A. They exceeded the target by 25 km.",
+        "B. They missed the target by 25 km.",
+        "C. They exceeded the target by 30 km.",
+        "D. They missed the target by 30 km."
+      ],
+      "correctAnswer": "A. They exceeded the target by 25 km.",
+      "explanation": "Step 1: Find the total mileage Ahmed drove by 16:00.\nFrom Ahmed's table, at 16:00, Ahmed's cumulative mileage is 285 km.\n\nStep 2: Find the total mileage Brenda drove by 16:00.\nFrom Brenda's table, at 16:00, Brenda's cumulative mileage is 290 km.\n\nStep 3: Calculate the combined total mileage for both drivers by 16:00.\nCombined total = Ahmed's total + Brenda's total\nCombined total = 285 km + 290 km = 575 km.\n\nStep 4: Compare the combined total mileage to the company's target.\nCompany's target = 550 km.\nCombined total mileage = 575 km.\nSince 575 km is greater than 550 km, they exceeded the target.\n\nStep 5: Calculate by how much they exceeded the target.\nDifference = Combined total mileage - Company's target\nDifference = 575 km - 550 km = 25 km.\n\nTherefore, they exceeded the target by 25 km.",
+      "hint": "First, determine the total distance each driver covered individually by 16:00. Then, add these individual distances together to find their combined total mileage. Finally, compare this combined total to the company's target mileage.",
+      "generatedAt": "2026-04-29T11:02:59.029439"
+    },
+    {
+      "id": "m-y5-stats_advanced_005",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A primary school held a sports day with three events: Sprint, Long Jump, and Skipping. The points scored by three students, Finn, Grace, and Harry, are recorded in the table below.\n\n| Student | Sprint (points) | Long Jump (points) | Skipping (points) |\n|---------|-----------------|--------------------|-------------------|\n| Finn    | 145             | 85                 | 110               |\n| Grace   | 120             | 85                 | 105               |\n| Harry   | 150             | 80                 | 100               |\n\nThe school announced that any student who achieved a total score of 340 points or more would receive a gold medal.\n\nDid Grace receive a gold medal? If not, what is the smallest number of extra points she would have needed to score in the Skipping event to achieve a gold medal, assuming her Sprint and Long Jump scores remained the same? You must show your working.",
+      "options": [],
+      "correctAnswer": "1.  **Calculate Grace's total score:**\n    Grace's Sprint score = 120 points\n    Grace's Long Jump score = 85 points\n    Grace's Skipping score = 105 points\n    Grace's total score = 120 + 85 + 105 = 310 points.\n\n2.  **Compare Grace's total with the gold medal requirement:**\n    The gold medal requirement is 340 points or more.\n    Grace's total score is 310 points, which is less than 340 points.\n    Therefore, Grace did not receive a gold medal.\n\n3.  **Calculate the extra points needed:**\n    Points required for gold medal = 340 points\n    Grace's current total score = 310 points\n    Extra points needed = 340 - 310 = 30 points.\n\nGrace would have needed to score an extra 30 points in the Skipping event to achieve a gold medal.",
+      "explanation": "To solve this problem, we first need to find Grace's total score by adding her points from all three events. Once we have her total, we compare it to the gold medal requirement of 340 points. If her total is less than 340, she did not get a medal, and we then calculate the difference between the required score and her actual score to find out how many more points she needed.",
+      "hint": "First, calculate Grace's total score from her Sprint, Long Jump, and Skipping points. Then compare this total to the 340 points needed for a gold medal. If her total is too low, subtract her total from the target score to find the difference.",
+      "generatedAt": "2026-04-29T11:04:03.253153"
+    },
+    {
+      "id": "m-y5-stats_advanced_006",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A wildlife conservation group is analysing visitor data for two of its nature reserves, 'Serene Sanctuary' and 'Whispering Woods', recorded over a specific five-day period from Monday to Friday. The data helps them understand visitor patterns and plan for future events.\n\n**Serene Sanctuary Visitor Numbers:**\n| Day       | Number of Visitors |\n|-----------|--------------------|\n| Monday    | 132                |\n| Tuesday   | 98                 |\n| Wednesday | 155                |\n| Thursday  | 117                |\n| Friday    | 185                |\n\n**Whispering Woods Visitor Numbers:**\n| Day       | Number of Visitors |\n|-----------|--------------------|\n| Monday    | 120                |\n| Tuesday   | 108                |\n| Wednesday | 140                |\n| Thursday  | 125                |\n| Friday    | 170                |\n\nUsing the provided data:\n1.  Calculate the total number of visitors for Serene Sanctuary over the five days.\n2.  Calculate the total number of visitors for Whispering Woods over the five days.\n3.  Identify on which specific day the difference in visitor numbers between the two reserves was the greatest, and state what that difference was.\n4.  For the upcoming Saturday, Serene Sanctuary expects its visitor numbers to be triple its Tuesday numbers. Whispering Woods expects its visitor numbers to be 75 more than its Wednesday numbers.\n    a. What will be the *combined total* number of visitors across both reserves for Saturday?\n    b. Which reserve is predicted to have more visitors on Saturday, and by how many?\n\nShow all your working clearly.",
+      "options": [],
+      "correctAnswer": "### Step-by-step working:\n\n**1. Total number of visitors for Serene Sanctuary (Monday to Friday):**\n132 (Monday) + 98 (Tuesday) + 155 (Wednesday) + 117 (Thursday) + 185 (Friday) = 687 visitors.\n\n**2. Total number of visitors for Whispering Woods (Monday to Friday):**\n120 (Monday) + 108 (Tuesday) + 140 (Wednesday) + 125 (Thursday) + 170 (Friday) = 663 visitors.\n\n**3. Day with the greatest difference in visitor numbers:**\n*   **Monday Difference:** 132 - 120 = 12 visitors\n*   **Tuesday Difference:** 108 - 98 = 10 visitors (Whispering Woods had more)\n*   **Wednesday Difference:** 155 - 140 = 15 visitors\n*   **Thursday Difference:** 125 - 117 = 8 visitors (Whispering Woods had more)\n*   **Friday Difference:** 185 - 170 = 15 visitors\n\nThe greatest difference in visitor numbers was **15 visitors**, which occurred on **Wednesday** and **Friday**.\n\n**4. Saturday Predictions:**\n*   **Serene Sanctuary Saturday visitors:** Triple its Tuesday numbers.\n    Tuesday's numbers for Serene Sanctuary = 98.\n    98 × 3 = 294 visitors.\n\n*   **Whispering Woods Saturday visitors:** 75 more than its Wednesday numbers.\n    Wednesday's numbers for Whispering Woods = 140.\n    140 + 75 = 215 visitors.\n\n    **a. Combined total number of visitors across both reserves for Saturday:**\n    294 (Serene Sanctuary) + 215 (Whispering Woods) = 509 visitors.\n\n    **b. Which reserve is predicted to have more visitors on Saturday, and by how many?**\n    Serene Sanctuary (294 visitors) is predicted to have more visitors than Whispering Woods (215 visitors).\n    Difference = 294 - 215 = 79 visitors.\n    **Serene Sanctuary** is predicted to have **79 more visitors** than Whispering Woods on Saturday.",
+      "explanation": "The question requires several steps involving addition, subtraction, and multiplication based on the provided tabular data. For part 1 and 2, all daily visitor numbers for each reserve are summed. For part 3, the difference in visitor numbers for each day is calculated, and then the largest difference is identified along with the day(s) it occurred. For part 4, specific calculations for Saturday visitors are performed based on the rules given ('triple' means multiply by 3, '75 more than' means add 75). Finally, these Saturday figures are used to find the combined total and compare which reserve has more visitors and by how much. All steps require careful reading and accurate arithmetic.",
+      "hint": "Carefully read each part of the question. Remember that 'triple' means multiply by three, and when finding the greatest difference, you need to calculate the difference for each day first before comparing them.",
+      "generatedAt": "2026-04-29T11:04:24.291490"
+    },
+    {
+      "id": "m-y5-stats_advanced_007",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A group of Year 5 students is tracking the temperature in two different school garden sections, Section P and Section Q, over a 4-hour period from 9:00 AM. They record the temperature every hour.\n\nHere is their data:\nTime (Hours past 9:00 AM): 0, 1, 2, 3, 4\nSection P Temperature (°C): 18, 20, 23, 22, 21\nSection Q Temperature (°C): 17, 19, 21, 23, 20\n\nAnswer the following questions:\n\na) Calculate the total temperature recorded for Section P over the entire 4-hour period. (1 mark)\n\nb) At what specific time (e.g., 9:00 AM, 10:00 AM) was the difference in temperature between Section P and Section Q the greatest? What was this difference in degrees Celsius? (2 marks)\n\nc) Another garden section, Section R, was consistently 3°C warmer than Section Q at each hourly reading. Calculate the total temperature recorded for Section R over the entire 4-hour period. Show your working. (3 marks)\n\nd) Which section, P or Q, had the higher average temperature over the entire 4-hour period? Show your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) The total temperature recorded for Section P is 104°C.\nb) The greatest difference was at 11:00 AM, with a difference of 2°C.\nc) The total temperature recorded for Section R is 115°C.\nd) Section P had the higher average temperature (20.8°C) compared to Section Q (20°C).",
+      "explanation": "Here is the step-by-step working:\n\na) To find the total temperature for Section P, sum all its temperature readings:\n18°C + 20°C + 23°C + 22°C + 21°C = 104°C\n\nb) To find the greatest difference, calculate the difference in temperature between Section P and Section Q at each hourly reading:\nAt Time 0 (9:00 AM): 18°C (P) - 17°C (Q) = 1°C\nAt Time 1 (10:00 AM): 20°C (P) - 19°C (Q) = 1°C\nAt Time 2 (11:00 AM): 23°C (P) - 21°C (Q) = 2°C\nAt Time 3 (12:00 PM): 23°C (Q) - 22°C (P) = 1°C\nAt Time 4 (1:00 PM): 21°C (P) - 20°C (Q) = 1°C\nThe greatest difference is 2°C, which occurred at Time 2. Since Time 0 is 9:00 AM, Time 2 is 11:00 AM.\n\nc) First, calculate the temperatures for Section R by adding 3°C to each Section Q reading:\nSection Q readings: 17, 19, 21, 23, 20\nSection R readings:\nTime 0: 17 + 3 = 20°C\nTime 1: 19 + 3 = 22°C\nTime 2: 21 + 3 = 24°C\nTime 3: 23 + 3 = 26°C\nTime 4: 20 + 3 = 23°C\nNow, sum the Section R readings to find the total temperature: 20 + 22 + 24 + 26 + 23 = 115°C\n\nd) To find the average temperature, sum the readings for each section and then divide by the number of readings. There are 5 readings (from Time 0 to Time 4).\nFor Section P:\nTotal temperature = 104°C (from part a)\nAverage temperature = 104°C ÷ 5 = 20.8°C\nFor Section Q:\nTotal temperature = 17 + 19 + 21 + 23 + 20 = 100°C\nAverage temperature = 100°C ÷ 5 = 20°C\nComparing the averages, 20.8°C (Section P) is greater than 20°C (Section Q). Therefore, Section P had the higher average temperature.",
+      "hint": "To find the average temperature for a section, you need to sum all its temperature readings and then divide by the total number of readings taken (which is 5 in this case).",
+      "generatedAt": "2026-04-29T11:04:54.666180"
+    },
+    {
+      "id": "m-y5-stats_advanced_008",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A Year 5 class organised a week-long collection drive for recyclable materials. They recorded the number of plastic bottle caps and aluminium cans they collected each day from Monday to Friday.\n\nThe data for the plastic bottle caps is shown in the table below:\nPlastic Bottle Caps Collected:\nDay | Number of Caps\n---|---\nMonday | 25\nTuesday | 30\nWednesday | 15\nThursday | 40\nFriday | 35\n\nThe data for the aluminium cans is shown in this second table:\nAluminium Cans Collected:\nDay | Number of Cans\n---|---\nMonday | 18\nTuesday | 28\nWednesday | 22\nThursday | 32\nFriday | 20\n\nThe class set a goal to collect exactly 150 *more* plastic bottle caps than aluminium cans over the entire week (Monday to Friday).\n\nDid the class achieve their goal? You must show your working.\nIf they did not achieve their goal, state by how many items they were over or under the target difference of 150.",
+      "options": [],
+      "correctAnswer": "To determine if the class achieved their goal, we need to follow these steps:\n\n**Step 1: Calculate the total number of plastic bottle caps collected.**\nTotal Caps = 25 (Monday) + 30 (Tuesday) + 15 (Wednesday) + 40 (Thursday) + 35 (Friday)\nTotal Caps = 145 caps\n\n**Step 2: Calculate the total number of aluminium cans collected.**\nTotal Cans = 18 (Monday) + 28 (Tuesday) + 22 (Wednesday) + 32 (Thursday) + 20 (Friday)\nTotal Cans = 120 cans\n\n**Step 3: Calculate the actual difference between the total number of caps and cans collected.**\nDifference = Total Caps - Total Cans\nDifference = 145 - 120\nDifference = 25 items\n\n**Step 4: Compare the actual difference with the target difference.**\nThe class's goal was to collect 150 more plastic bottle caps than aluminium cans. The actual difference was 25.\nSince 25 is not equal to 150, the class did not achieve their goal.\n\n**Step 5: Determine by how many items they were under the target difference.**\nAmount under target = Target difference - Actual difference\nAmount under target = 150 - 25\nAmount under target = 125 items\n\n**Conclusion:** The class did not achieve their goal. They were under the target difference of 150 by 125 items.",
+      "explanation": "The problem requires calculating the sum of two different sets of data (bottle caps and cans), then finding the difference between these sums. Finally, this actual difference is compared to a target difference, and the discrepancy is calculated. This involves multiple steps of addition and subtraction, interpreting data from tables, and performing a comparison against a set goal, making it an advanced problem for Year 5 students.\n\n1.  **Summation:** First, add all the 'Number of Caps' values together to get the total caps. Do the same for 'Number of Cans' to get the total cans.\n2.  **Comparison by Subtraction:** Find out how many more caps were collected than cans by subtracting the total cans from the total caps. This gives the 'actual difference'.\n3.  **Goal Check:** Compare this 'actual difference' with the 'target difference' (150).\n4.  **Calculate Discrepancy:** If the goal was not met, subtract the 'actual difference' from the 'target difference' to find out by how much they were under the goal.",
+      "hint": "Start by calculating the total number of plastic bottle caps collected over the week. Then, calculate the total number of aluminium cans collected over the week. What is the difference between these two totals?",
+      "generatedAt": "2026-04-29T11:05:31.979996"
+    },
+    {
+      "id": "m-y5-stats_advanced_009",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Oakwood Primary School tracked the number of books borrowed from its two libraries, 'Story Sprout' and 'Knowledge Nook', over three weeks in November. The data is shown in the table below:\n\n| Week      | Story Sprout (Books borrowed) | Knowledge Nook (Books borrowed) |\n|-----------|-----------------------------|-------------------------------|\n| Week 1    | 120                         | 95                            |\n| Week 2    | 135                         | 110                           |\n| Week 3    | 140                         | 130                           |\n\nThe school wanted to identify the library that showed the most significant growth. They decided to reward the library that had the greatest increase in books borrowed from Week 1 to Week 3. \n\nWhich library received the reward, and what was the difference in the number of books by which it increased compared to the other library? Show your working clearly.",
+      "options": [
+        "Story Sprout, by 5 books more",
+        "Knowledge Nook, by 15 books more",
+        "Story Sprout, by 20 books more",
+        "Knowledge Nook, by 35 books more"
+      ],
+      "correctAnswer": "Knowledge Nook, by 15 books more",
+      "explanation": "To solve this problem, we need to calculate the increase in books borrowed for each library from Week 1 to Week 3, then compare these increases and find the difference.\n\n1.  **Calculate the increase for Story Sprout:**\n    Books borrowed in Week 3 = 140\n    Books borrowed in Week 1 = 120\n    Increase for Story Sprout = 140 - 120 = 20 books.\n\n2.  **Calculate the increase for Knowledge Nook:**\n    Books borrowed in Week 3 = 130\n    Books borrowed in Week 1 = 95\n    Increase for Knowledge Nook = 130 - 95 = 35 books.\n\n3.  **Identify the library with the greatest increase:**\n    Story Sprout increased by 20 books.\n    Knowledge Nook increased by 35 books.\n    Knowledge Nook had the greatest increase (35 is greater than 20), so it received the reward.\n\n4.  **Calculate the difference in increases:**\n    Difference = (Knowledge Nook's increase) - (Story Sprout's increase)\n    Difference = 35 - 20 = 15 books.\n\nTherefore, Knowledge Nook received the reward, and it increased by 15 books more than Story Sprout.",
+      "hint": "First, calculate the change in books borrowed for each library from Week 1 to Week 3. Then, compare these changes to find the largest increase and the difference between them.",
+      "generatedAt": "2026-04-29T11:05:55.320414"
+    },
+    {
+      "id": "m-y5-stats_advanced_010",
+      "topicId": "m-y5-stats",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A community centre records the number of children attending two different after-school clubs, 'Creative Arts' and 'Science Explorers', over a school week.\n\nThe attendance for the 'Creative Arts' club is shown in this table:\nDay       | Monday | Tuesday | Wednesday | Thursday | Friday\n----------|--------|---------|-----------|----------|-------\nChildren  | 28     | 32      | 25        | 30        | 35\n\nThe attendance for the 'Science Explorers' club is shown in this table:\nDay       | Monday | Tuesday | Wednesday | Thursday | Friday\n----------|--------|---------|-----------|----------|-------\nChildren  | 20     | 28      | 33        | 25        | 30\n\nFirst, calculate the total number of children who attended the 'Creative Arts' club over the entire week.\nNext, calculate the total number of children who attended the 'Science Explorers' club over the entire week.\nFinally, find the difference between the total attendance for 'Creative Arts' and the total attendance for 'Science Explorers' over the entire week. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Working:\n\n1.  **Calculate total attendance for 'Creative Arts' club:**\n    To find the total attendance for 'Creative Arts', add the number of children for each day:\n    28 (Monday) + 32 (Tuesday) + 25 (Wednesday) + 30 (Thursday) + 35 (Friday) = 150 children\n\n2.  **Calculate total attendance for 'Science Explorers' club:**\n    To find the total attendance for 'Science Explorers', add the number of children for each day:\n    20 (Monday) + 28 (Tuesday) + 33 (Wednesday) + 25 (Thursday) + 30 (Friday) = 136 children\n\n3.  **Find the difference between the total attendances:**\n    To find how many more children attended 'Creative Arts' than 'Science Explorers', subtract the smaller total from the larger total:\n    150 (Creative Arts total) - 136 (Science Explorers total) = 14 children\n\nAnswer: The 'Creative Arts' club had 14 more children attending in total compared to the 'Science Explorers' club over the entire week.",
+      "explanation": "This problem requires multiple steps of data interpretation and calculation. First, you need to accurately read the daily attendance figures for each club from the provided tables. Next, you perform a sum calculation for each club separately, adding up the daily attendance for all five days to find the total weekly attendance for 'Creative Arts' and then for 'Science Explorers'. Finally, to compare the two totals, you find the difference by subtracting the smaller total from the larger total. This process demonstrates skills in reading data, multi-digit addition, and subtraction.",
+      "hint": "Remember to sum all the attendance numbers for each club separately over the five days before calculating the difference between their totals.",
+      "generatedAt": "2026-04-29T11:06:20.840792"
+    }
+  ]
+}

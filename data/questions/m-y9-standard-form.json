@@ -1,0 +1,513 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-standard-form_beginner_001",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "What is the ordinary number equivalent of 7.2 x 10^5?",
+      "options": [
+        "72,000",
+        "720,000",
+        "7,200,000",
+        "0.000072"
+      ],
+      "correctAnswer": "720,000",
+      "explanation": "To convert 7.2 x 10^5 to an ordinary number, you need to move the decimal point 5 places to the right. \n\nStarting with 7.2:\nMove 1 place: 72.\nMove 2 places: 720.\nMove 3 places: 7,200.\nMove 4 places: 72,000.\nMove 5 places: 720,000.\n\nTherefore, 7.2 x 10^5 = 720,000.",
+      "hint": "Recall how positive powers of 10 indicate the direction and number of places the decimal point should be moved.",
+      "generatedAt": "2026-04-30T17:12:49.044481"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_002",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Write the number 63,000,000 in standard form. Show your working.",
+      "options": [],
+      "correctAnswer": "1. To express 63,000,000 in standard form, we need to write it as 'a x 10^n', where 'a' is a number between 1 and 10 (1 ≤ a < 10), and 'n' is an integer.\n2. Start with the number 63,000,000. The decimal point is initially at the end: 63,000,000.\n3. Move the decimal point to the left until the resulting number is between 1 and 10. If we move it after the '6', we get 6.3.\n4. Count the number of places the decimal point moved. From 63,000,000. to 6.3, it moved 7 places to the left.\n5. Since the original number (63,000,000) is greater than 1, the power of 10 will be positive. So, n = 7.\n6. Combine the new number 'a' (6.3) with the power of 10 (10^7).\nTherefore, 63,000,000 in standard form is 6.3 x 10^7.",
+      "explanation": "To convert a large number to standard form, identify the first non-zero digit and place the decimal point after it to create a number 'a' such that 1 ≤ a < 10. Then count how many places the decimal point had to move from its original position to this new position. This count becomes the positive power of 10.",
+      "hint": "Remember that standard form requires the first part of the number to be between 1 and 10 (inclusive of 1, exclusive of 10) and the second part to be a power of 10.",
+      "generatedAt": "2026-04-30T17:13:05.693081"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_003",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which of the following numbers is NOT written in standard form?",
+      "options": [
+        "7.2 x 10^5",
+        "1.0 x 10^-4",
+        "0.8 x 10^9",
+        "9.5 x 10^1"
+      ],
+      "correctAnswer": "0.8 x 10^9",
+      "explanation": "For a number to be in standard form, it must be written as A x 10^n, where 1 ≤ A < 10 and n is an integer. In the option '0.8 x 10^9', the value of A is 0.8. Since 0.8 is less than 1, this number is not in standard form.",
+      "hint": "Remember the rule for the first part of a number (A) when it is written in standard form: 1 ≤ A < 10.",
+      "generatedAt": "2026-04-30T17:13:13.633175"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_004",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which of the following numbers is the largest?",
+      "options": [
+        "A) 4.5 x 10^6",
+        "B) 8.1 x 10^5",
+        "C) 1.2 x 10^7",
+        "D) 9.9 x 10^5"
+      ],
+      "correctAnswer": "C) 1.2 x 10^7",
+      "explanation": "To compare numbers written in standard form, first look at the exponent (the power of 10). The higher the positive exponent, the larger the number.\n\n- Option A has an exponent of 6 (10^6)\n- Option B has an exponent of 5 (10^5)\n- Option C has an exponent of 7 (10^7)\n- Option D has an exponent of 5 (10^5)\n\nThe largest exponent among the options is 7. Therefore, the number with 10^7 will be the largest overall, regardless of the 'a' value (as long as 'a' is between 1 and 10, which it is for all options).",
+      "hint": "When comparing numbers in standard form (a x 10^n), first look at the value of 'n' (the power of 10).",
+      "generatedAt": "2026-04-30T17:13:23.469705"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_005",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A scientist measured the mass of a tiny dust particle as 0.056 x 10<sup>-2</sup> grams. Which of the following correctly writes this mass in standard form?",
+      "options": [
+        "A) 5.6 x 10<sup>-0</sup> grams",
+        "B) 5.6 x 10<sup>-2</sup> grams",
+        "C) 5.6 x 10<sup>-4</sup> grams",
+        "D) 5.6 x 10<sup>0</sup> grams"
+      ],
+      "correctAnswer": "C) 5.6 x 10<sup>-4</sup> grams",
+      "explanation": "Standard form requires the first number (A) to be between 1 and 10 (1 ≤ A < 10).\nIn the given number, 0.056 x 10<sup>-2</sup>:\n1. The first part, 0.056, is not between 1 and 10.\n2. To change 0.056 into a number between 1 and 10, we move the decimal point 2 places to the right. This gives us 5.6.\n3. Moving the decimal 2 places to the right means we've effectively multiplied 0.056 by 10<sup>2</sup>. To keep the value of the number the same, we must compensate by dividing the power of 10 by 10<sup>2</sup> (or multiplying by 10<sup>-2</sup>).\n4. So, 0.056 can be written as 5.6 x 10<sup>-2</sup>.\n5. Now substitute this back into the original expression: (5.6 x 10<sup>-2</sup>) x 10<sup>-2</sup>.\n6. Using the rule for multiplying powers with the same base (x<sup>a</sup> * x<sup>b</sup> = x<sup>a+b</sup>), we add the exponents: -2 + (-2) = -4.\n7. Therefore, the mass in standard form is 5.6 x 10<sup>-4</sup> grams.",
+      "hint": "Remember that in standard form, the first part of the number must be between 1 and 10 (e.g., 2.5, 7.0, 9.9, but not 0.5 or 12). Adjust the power of 10 accordingly when you move the decimal point.",
+      "generatedAt": "2026-04-30T17:13:36.255158"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_006",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A specific type of microbe has a length of 4 x 10<sup>-5</sup> metres. Another, even smaller microbe is 10 times shorter than this. What is the length of the smaller microbe, expressed in standard form?",
+      "options": [
+        "4 x 10<sup>-4</sup> m",
+        "4 x 10<sup>-6</sup> m",
+        "40 x 10<sup>-5</sup> m",
+        "0.4 x 10<sup>-5</sup> m"
+      ],
+      "correctAnswer": "4 x 10<sup>-6</sup> m",
+      "explanation": "To find the length of the smaller microbe, we need to divide the length of the first microbe by 10.\nLength of the first microbe = 4 x 10<sup>-5</sup> metres.\nLength of the smaller microbe = (4 x 10<sup>-5</sup>) / 10.\nRemember that 10 can be written as 10<sup>1</sup>.\nSo, Length = (4 x 10<sup>-5</sup>) / 10<sup>1</sup>.\nWhen dividing powers of the same base (in this case, 10), you subtract the exponents.\nLength = 4 x 10<sup>(-5 - 1)</sup>\nLength = 4 x 10<sup>-6</sup> metres.\nThis number is correctly written in standard form because the first part (4) is between 1 and 10, and it's multiplied by a power of 10.",
+      "hint": "To find a number that is 'X times shorter' or 'X times smaller', you should divide the original number by X. Remember how to divide powers of 10 by subtracting their exponents.",
+      "generatedAt": "2026-04-30T17:13:49.581962"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_007",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "What is the ordinary number equivalent of 3.45 x 10<sup>4</sup>?",
+      "options": [
+        "3450",
+        "34500",
+        "0.000345",
+        "345000"
+      ],
+      "correctAnswer": "34500",
+      "explanation": "To convert 3.45 x 10<sup>4</sup> from standard form to an ordinary number, you look at the power of 10. Since the power is +4, you need to move the decimal point 4 places to the right. \n\nStarting with 3.45:\n1. Move 1 place right: 34.5\n2. Move 2 places right: 345.\n3. Move 3 places right: 3450.\n4. Move 4 places right: 34500.\n\nSo, 3.45 x 10<sup>4</sup> is equivalent to 34500.",
+      "hint": "The exponent (the small number in the power of 10) tells you how many places and in which direction to move the decimal point. A positive exponent means move the decimal point to the right.",
+      "generatedAt": "2026-04-30T17:13:57.632759"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_008",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Write the number 650,000 in standard form.",
+      "options": [
+        "6.5 x 10^6",
+        "65 x 10^4",
+        "0.65 x 10^6",
+        "6.5 x 10^5"
+      ],
+      "correctAnswer": "6.5 x 10^5",
+      "explanation": "To write a number in standard form (A x 10^n), you need to make sure that the number A is between 1 and 10 (1 ≤ A < 10).\n\n1. Start with the number 650,000.\n2. To get a number between 1 and 10, move the decimal point from the end of the number to the left until there is only one non-zero digit before it. This gives us 6.5.\n3. Count how many places you moved the decimal point. You moved it 5 places to the left (from 650000. to 6.50000).\n4. Since the original number is a large number (greater than 1), the power of 10 will be positive.\n\nSo, 650,000 written in standard form is 6.5 x 10^5.",
+      "hint": "Standard form is written as A x 10^n, where A is a number such that 1 ≤ A < 10, and n is an integer.",
+      "generatedAt": "2026-04-30T17:14:08.380336"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_009",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "The mass of a planet is approximately 1450 x 10<sup>20</sup> kilograms. This number is not written in correct standard form. Which of the following is the correct standard form representation for this mass?",
+      "options": [
+        "1.45 x 10<sup>23</sup> kg",
+        "14.5 x 10<sup>22</sup> kg",
+        "1.45 x 10<sup>20</sup> kg",
+        "145 x 10<sup>21</sup> kg"
+      ],
+      "correctAnswer": "1.45 x 10<sup>23</sup> kg",
+      "explanation": "Standard form requires the first part of the number (the 'a' in a x 10<sup>n</sup>) to be between 1 and 10 (inclusive of 1, exclusive of 10). For the number 1450 x 10<sup>20</sup> kg:\n\n1.  First, let's convert 1450 into correct standard form. To make 1450 a number between 1 and 10, we move the decimal point 3 places to the left: 1.45. This means 1450 = 1.45 x 10<sup>3</sup>.\n2.  Now, substitute this back into the original expression: (1.45 x 10<sup>3</sup>) x 10<sup>20</sup>.\n3.  Using the rules of indices (when multiplying powers with the same base, you add the exponents), combine the powers of 10: 10<sup>3</sup> x 10<sup>20</sup> = 10<sup>(3+20)</sup> = 10<sup>23</sup>.\n4.  Therefore, the correct standard form for the mass is 1.45 x 10<sup>23</sup> kg.",
+      "hint": "Remember the rule for standard form: the first part of the number must be between 1 and 10 (e.g., 1.45, not 1450).",
+      "generatedAt": "2026-04-30T17:14:23.896210"
+    },
+    {
+      "id": "m-y9-standard-form_beginner_010",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Which of the following numbers is correctly written in standard form?",
+      "options": [
+        "A) 23.5 x 10^4",
+        "B) 0.8 x 10^6",
+        "C) 7.1 x 10^-3",
+        "D) 450 x 10^2"
+      ],
+      "correctAnswer": "C) 7.1 x 10^-3",
+      "explanation": "For a number to be in standard form, it must be written as a x 10^n, where 'a' is a number such that 1 <= a < 10, and 'n' is an integer.\nLet's check each option:\n- A) 23.5 x 10^4: Here, 'a' is 23.5, which is not less than 10. So this is not in standard form.\n- B) 0.8 x 10^6: Here, 'a' is 0.8, which is not greater than or equal to 1. So this is not in standard form.\n- C) 7.1 x 10^-3: Here, 'a' is 7.1, which is greater than or equal to 1 and less than 10. So this is correctly written in standard form.\n- D) 450 x 10^2: Here, 'a' is 450, which is not less than 10. So this is not in standard form.\nTherefore, option C is the correct answer.",
+      "hint": "Recall the specific rule for the value of 'a' in the standard form expression 'a x 10^n'.",
+      "generatedAt": "2026-04-30T17:14:35.208140"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-standard-form_intermediate_001",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A particular type of bacterial cell has a diameter of 5 x 10⁻⁶ metres. A specific virus particle has a diameter of 2 x 10⁻⁸ metres. Calculate how many times larger the diameter of the bacterial cell is compared to the virus particle. Give your answer as an ordinary number. Show your working clearly.",
+      "options": [
+        "A) 25",
+        "B) 250",
+        "C) 0.025",
+        "D) 2500"
+      ],
+      "correctAnswer": "B) 250",
+      "explanation": "1. To find out how many times larger the bacterial cell is than the virus particle, you need to divide the diameter of the bacterial cell by the diameter of the virus particle:\n   Ratio = (Diameter of bacterial cell) / (Diameter of virus particle)\n2. Substitute the given values:\n   Ratio = (5 x 10⁻⁶) / (2 x 10⁻⁸)\n3. Separate the numerical parts and the powers of 10:\n   Ratio = (5 / 2) x (10⁻⁶ / 10⁻⁸)\n4. Perform the division for the numerical parts:\n   5 / 2 = 2.5\n5. Perform the division for the powers of 10. When dividing powers with the same base, subtract the exponents:\n   10⁻⁶ / 10⁻⁸ = 10⁽⁻⁶ ⁻ ⁽⁻⁸⁾⁾\n   = 10⁽⁻⁶ ⁺ ⁸⁾\n   = 10²\n6. Combine the results:\n   Ratio = 2.5 x 10²\n7. Convert this to an ordinary number by multiplying by 100:\n   2.5 x 100 = 250\nTherefore, the bacterial cell is 250 times larger than the virus particle.",
+      "hint": "To find out how many times larger one quantity is than another, you should divide the larger quantity by the smaller quantity. Remember the rule for dividing powers with the same base: subtract the exponents.",
+      "generatedAt": "2026-04-30T17:14:47.235319"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_002",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A large technology company reported an annual revenue of £3.2 x 10^7 for the last financial year. A competitor company achieved an annual revenue that was 4.5 times greater than this amount. Calculate the annual revenue of the competitor company, expressing your answer in standard form. Show your working.",
+      "options": [
+        "14.4 x 10^7",
+        "1.44 x 10^8",
+        "1.44 x 10^7",
+        "1.44 x 10^6"
+      ],
+      "correctAnswer": "1.44 x 10^8",
+      "explanation": "Step 1: To find the competitor's revenue, multiply the first company's revenue by 4.5.\nCompetitor's Revenue = (3.2 x 10^7) x 4.5\n\nStep 2: Multiply the numerical parts together:\n3.2 x 4.5 = 14.4\n\nStep 3: Combine this result with the power of 10:\n14.4 x 10^7\n\nStep 4: Convert this number into standard form. A number in standard form must be in the format a x 10^n, where 'a' is a number such that 1 ≤ a < 10. Currently, 14.4 is not in this range.\nTo convert 14.4 to a number between 1 and 10, we divide by 10 (or move the decimal point one place to the left), which is equivalent to writing 14.4 as 1.44 x 10^1.\n\nStep 5: Substitute this back into the expression:\n(1.44 x 10^1) x 10^7\n\nStep 6: Apply the rules of indices (a^m * a^n = a^(m+n)) to the powers of 10:\n1.44 x 10^(1+7)\n1.44 x 10^8\n\nTherefore, the annual revenue of the competitor company is £1.44 x 10^8.",
+      "hint": "First, multiply the given revenue by 4.5. Then, ensure your final answer is correctly expressed in standard form, meaning the numerical part must be between 1 and 10 (inclusive of 1, exclusive of 10).",
+      "generatedAt": "2026-04-30T17:15:00.982912"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_003",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A factory produces two types of metal components. Component A has a length of 4.5 x 10⁻³ metres. Component B has a length of 1.2 x 10⁻² metres.\nIf 1500 Component A are laid end-to-end, and 600 Component B are laid end-to-end, calculate the difference between their total lengths. Give your answer in standard form. Show your working.",
+      "options": [
+        "4.5 x 10⁻¹ m",
+        "0.45 m",
+        "4.5 x 10⁻² m",
+        "1.395 x 10¹ m"
+      ],
+      "correctAnswer": "4.5 x 10⁻¹ m",
+      "explanation": "Step 1: Calculate the total length of 1500 Component A.\nLength A = 1500 × (4.5 x 10⁻³ m)\n1500 can be written as 1.5 x 10³.\nLength A = (1.5 x 10³) × (4.5 x 10⁻³) m\nLength A = (1.5 × 4.5) × (10³ × 10⁻³) m\nLength A = 6.75 × 10⁰ m\nLength A = 6.75 m\n\nStep 2: Calculate the total length of 600 Component B.\nLength B = 600 × (1.2 x 10⁻² m)\n600 can be written as 6 x 10².\nLength B = (6 x 10²) × (1.2 x 10⁻²) m\nLength B = (6 × 1.2) × (10² × 10⁻²) m\nLength B = 7.2 × 10⁰ m\nLength B = 7.2 m\n\nStep 3: Calculate the difference between their total lengths.\nDifference = Length B - Length A (since Length B is greater)\nDifference = 7.2 m - 6.75 m\nDifference = 0.45 m\n\nStep 4: Convert the difference to standard form.\nTo write 0.45 in standard form, we move the decimal point 1 place to the right to get 4.5. Since we moved the decimal point to the right, the power of 10 will be negative.\n0.45 = 4.5 x 10⁻¹ m",
+      "hint": "First, calculate the total length for each type of component by multiplying the number of components by their individual lengths, converting numbers to standard form where helpful. Then, find the difference between these two total lengths and express the final result in standard form (a x 10ⁿ, where 1 ≤ a < 10).",
+      "generatedAt": "2026-04-30T17:15:20.269414"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_004",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A construction project uses a specific type of metal beam. Each beam has a mass of 8.5 × 10⁻² kilograms. The total mass of all beams required for a section of the project is 1.7 × 10³ kilograms.\n\nCalculate the total number of metal beams required for this section of the project. Give your final answer in standard form.\n\nShow your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the total number of beams, divide the total mass required by the mass of a single beam.\n\nNumber of beams = (Total mass) ÷ (Mass of one beam)\nNumber of beams = (1.7 × 10³) ÷ (8.5 × 10⁻²)\n\nFirst, divide the numerical parts:\n1.7 ÷ 8.5 = 0.2\n\nNext, divide the powers of 10 using the rule aⁿ ÷ aᶘ = aⁿ⁻ᶘ:\n10³ ÷ 10⁻² = 10³⁻(⁻²) = 10³⁺² = 10⁵\n\nCombine these results:\nNumber of beams = 0.2 × 10⁵\n\nFinally, express this in standard form. A number in standard form must have a single non-zero digit before the decimal point (e.g., between 1 and 10).\n0.2 × 10⁵ = (2 × 10⁻¹) × 10⁵\n= 2 × 10⁻¹⁺⁵\n= 2 × 10⁴\n\nThe total number of metal beams required is 2 × 10⁴.",
+      "explanation": "To find the total number of beams, divide the total mass required by the mass of a single beam.\n\nNumber of beams = (Total mass) ÷ (Mass of one beam)\nNumber of beams = (1.7 × 10³) ÷ (8.5 × 10⁻²)\n\nFirst, divide the numerical parts:\n1.7 ÷ 8.5 = 0.2\n\nNext, divide the powers of 10 using the rule aⁿ ÷ aᶘ = aⁿ⁻ᶘ:\n10³ ÷ 10⁻² = 10³⁻(⁻²) = 10³⁺² = 10⁵\n\nCombine these results:\nNumber of beams = 0.2 × 10⁵\n\nFinally, express this in standard form. A number in standard form must have a single non-zero digit before the decimal point (e.g., between 1 and 10).\n0.2 × 10⁵ = (2 × 10⁻¹) × 10⁵\n= 2 × 10⁻¹⁺⁵\n= 2 × 10⁴\n\nThe total number of metal beams required is 2 × 10⁴.",
+      "hint": "To find the number of items, you need to perform a division of the total quantity by the quantity of a single item. Remember the rules for dividing numbers in standard form, particularly how to handle the powers of 10 (subtracting exponents). Ensure your final answer is correctly written in standard form with the first digit between 1 and 9 (inclusive).",
+      "generatedAt": "2026-04-30T17:15:43.179628"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_005",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The mass of Earth is approximately 5.972 × 10^24 kilograms. The mass of the Moon is approximately 7.342 × 10^22 kilograms. Calculate the total combined mass of the Earth and the Moon, expressing your answer in standard form. Show your working.",
+      "options": [
+        "A) 6.04542 × 10^24 kg",
+        "B) 6.7062 × 10^24 kg",
+        "C) 6.04542 × 10^46 kg",
+        "D) 6.04542 × 10^23 kg"
+      ],
+      "correctAnswer": "A) 6.04542 × 10^24 kg",
+      "explanation": "To add numbers in standard form, they must have the same power of 10. \nFirst, convert the mass of the Moon so it has the same power of 10 as the Earth's mass (10^24):\n7.342 × 10^22 kg can be written as 0.07342 × 10^24 kg (by moving the decimal point 2 places to the left, which increases the power by 2).\n\nNow, add the two masses:\nTotal mass = (5.972 × 10^24 kg) + (0.07342 × 10^24 kg)\nTotal mass = (5.972 + 0.07342) × 10^24 kg\nTotal mass = 6.04542 × 10^24 kg\n\nThe result 6.04542 × 10^24 kg is already in standard form, as the number 6.04542 is between 1 and 10 (inclusive of 1, exclusive of 10).",
+      "hint": "When adding or subtracting numbers in standard form, ensure both numbers have the same power of 10 before performing the operation. You may need to adjust one of the numbers by shifting the decimal point and changing the exponent accordingly.",
+      "generatedAt": "2026-04-30T17:15:59.478824"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_006",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A high-performance server processes data at a rate of 1.2 x 10^9 bits per second. A new upgrade aims to make the server process data 400 times faster. Calculate the new processing rate in bits per second, expressing your answer in standard form. Show your working.",
+      "options": [
+        "A. 4.8 x 10^10",
+        "B. 4.8 x 10^11",
+        "C. 4.8 x 10^12",
+        "D. 48 x 10^10"
+      ],
+      "correctAnswer": "B. 4.8 x 10^11",
+      "explanation": "To find the new processing rate, we need to multiply the current rate by 400.\n\n1.  **Set up the multiplication:**\n    New rate = (1.2 x 10^9) * 400\n\n2.  **Separate the numerical parts and powers of 10:**\n    New rate = (1.2 * 400) * 10^9\n\n3.  **Calculate the product of the numerical parts:**\n    1.2 * 400 = 480\n\n4.  **Combine the numerical product with the power of 10:**\n    New rate = 480 x 10^9 bits/second\n\n5.  **Convert the result to standard form:**\n    For a number to be in standard form, it must be written as a number between 1 and 10 (excluding 10) multiplied by a power of 10.\n    Convert 480 to standard form: 480 = 4.8 x 10^2.\n\n6.  **Substitute this back into the expression for the new rate:**\n    New rate = (4.8 x 10^2) x 10^9\n\n7.  **Apply the rule for multiplying powers with the same base (add the exponents):**\n    New rate = 4.8 x 10^(2+9)\n    New rate = 4.8 x 10^11 bits/second\n\nTherefore, the correct answer is 4.8 x 10^11.",
+      "hint": "First, multiply the numerical parts of the calculation (1.2 and 400). Then, convert that product into standard form before combining it with the existing power of 10. Remember that when multiplying powers of the same base, you add the exponents.",
+      "generatedAt": "2026-04-30T17:16:25.284977"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_007",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The average diameter of a human red blood cell is approximately `7.5 \\times 10^{-6}` metres. A common bacterium, Escherichia coli, has an average length of `2.5 \\times 10^{-7}` metres. Calculate how many times larger the diameter of the red blood cell is compared to the length of the bacterium. Show your working.",
+      "options": [
+        "A) 0.3",
+        "B) 3",
+        "C) 30",
+        "D) 300"
+      ],
+      "correctAnswer": "C) 30",
+      "explanation": "To find how many times larger the red blood cell's diameter is compared to the bacterium's length, we need to divide the diameter of the red blood cell by the length of the bacterium.\n\nDiameter of red blood cell = `7.5 \\times 10^{-6}` m\nLength of bacterium = `2.5 \\times 10^{-7}` m\n\nSet up the division:\n` (7.5 \\times 10^{-6}) \\div (2.5 \\times 10^{-7}) `\n\nStep 1: Divide the numerical parts:\n` 7.5 \\div 2.5 = 3 `\n\nStep 2: Divide the powers of 10. When dividing powers with the same base, subtract the exponents:\n` 10^{-6} \\div 10^{-7} = 10^{(-6) - (-7)} `\n` = 10^{-6 + 7} `\n` = 10^1 `\n\nStep 3: Combine the results from Step 1 and Step 2:\n` 3 \\times 10^1 = 3 \\times 10 = 30 `\n\nSo, the red blood cell's diameter is 30 times larger than the bacterium's length.",
+      "hint": "To find 'how many times larger' one quantity is compared to another, you need to use division. Remember to divide the numerical parts and the powers of 10 separately, and be careful with negative exponents when subtracting them.",
+      "generatedAt": "2026-04-30T17:16:44.429996"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_008",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A scientific instrument can detect microscopic dust particles. Each dust particle has an average diameter of 8 x 10^-6 metres. A collection of these dust particles are arranged in a straight line, end-to-end, and the total length of this line is measured as 0.0032 metres. Calculate the number of dust particles in the line. Give your answer in standard form. Show your working.",
+      "options": [
+        "4 x 10^2",
+        "4 x 10^3",
+        "4 x 10^-9",
+        "4 x 10^-4"
+      ],
+      "correctAnswer": "4 x 10^2",
+      "explanation": "1.  **Convert the total length to standard form:**\n    The total length is 0.0032 metres.\n    To write this in standard form, move the decimal point 3 places to the right to get 3.2.\n    Since the decimal point was moved 3 places to the right (making the number larger, so the power of 10 must be negative), the standard form is 3.2 x 10^-3 metres.\n\n2.  **Calculate the number of dust particles:**\n    Number of particles = (Total length) / (Diameter of one particle)\n    Number of particles = (3.2 x 10^-3) / (8 x 10^-6)\n\n3.  **Perform the division:**\n    Divide the numerical parts: 3.2 ÷ 8 = 0.4\n    Divide the powers of 10: 10^-3 ÷ 10^-6 = 10^(-3 - (-6)) = 10^(-3 + 6) = 10^3\n    So, the initial result is 0.4 x 10^3.\n\n4.  **Convert the answer to correct standard form:**\n    The numerical part (0.4) in 0.4 x 10^3 is not between 1 and 10, so it is not yet in standard form.\n    Convert 0.4 to standard form: 0.4 = 4 x 10^-1.\n    Substitute this back into the result: (4 x 10^-1) x 10^3\n    Combine the powers of 10: 4 x 10^(-1 + 3) = 4 x 10^2.\n\nTherefore, there are 4 x 10^2 dust particles in the line.",
+      "hint": "First, express both the total length and the diameter of a single particle in standard form. Then, divide the total length by the diameter of one particle, using the rules for dividing numbers in standard form. Remember to ensure your final answer is also in standard form.",
+      "generatedAt": "2026-04-30T17:17:01.021283"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_009",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A factory produces tiny electronic components. Each component has a length of 3.2 x 10^-4 metres.\nThe factory operates for 7 hours a day and produces 50,000 components per hour.\nWhat is the total length of all components produced in one day, expressed in standard form?\nShow your working.",
+      "options": [
+        "1.12 x 10^2 metres",
+        "1.12 x 10^1 metres",
+        "11.2 x 10^1 metres",
+        "1.12 x 10^6 metres"
+      ],
+      "correctAnswer": "1.12 x 10^2 metres",
+      "explanation": "Step 1: Calculate the total number of components produced in one day.\nNumber of components per hour = 50,000\nNumber of hours operated per day = 7\nTotal components produced in one day = 50,000 * 7 = 350,000 components.\n\nStep 2: Convert the total number of components to standard form.\n350,000 = 3.5 x 10^5\n\nStep 3: Calculate the total length of all components produced in one day.\nLength of each component = 3.2 x 10^-4 metres\nTotal length = (Total components in standard form) * (Length per component)\nTotal length = (3.5 x 10^5) * (3.2 x 10^-4)\n\nStep 4: Multiply the numerical parts and the powers of 10 separately.\nMultiply numerical parts: 3.5 * 3.2 = 11.2\nMultiply powers of 10: 10^5 * 10^-4 = 10^(5 - 4) = 10^1\n\nStep 5: Combine these results.\nTotal length = 11.2 x 10^1 metres\n\nStep 6: Express the final answer in correct standard form (where the first number is between 1 and 10).\n11.2 can be written as 1.12 x 10^1.\nSo, Total length = (1.12 x 10^1) x 10^1 = 1.12 x 10^(1+1) = 1.12 x 10^2 metres.",
+      "hint": "First, determine the total number of components produced in a day. Then, multiply this total by the length of a single component. Ensure your final answer is correctly expressed in standard form, where the first number is between 1 and 10.",
+      "generatedAt": "2026-04-30T17:17:38.126281"
+    },
+    {
+      "id": "m-y9-standard-form_intermediate_010",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "The population of a large city is 4,800,000 people. The total land area of the city is 6.4 x 10^8 square metres. Calculate the population density of the city, in people per square metre. Give your answer in standard form. Show your working.",
+      "options": [],
+      "correctAnswer": "To calculate population density, we divide the total population by the total land area.\n\nFirst, convert the population to standard form:\nPopulation = 4,800,000 = 4.8 x 10^6 people.\n\nTotal land area = 6.4 x 10^8 square metres.\n\nPopulation Density = Population / Area\nPopulation Density = (4.8 x 10^6) / (6.4 x 10^8)\n\nSeparate the numerical parts and the powers of 10:\nPopulation Density = (4.8 / 6.4) x (10^6 / 10^8)\n\nCalculate the numerical part:\n4.8 / 6.4 = 0.75\n\nCalculate the powers of 10 part (using the rule a^m / a^n = a^(m-n)):\n10^6 / 10^8 = 10^(6-8) = 10^-2\n\nCombine these parts:\nPopulation Density = 0.75 x 10^-2\n\nFinally, convert this to standard form (a x 10^n, where 1 ≤ a < 10):\nTo make 0.75 into a number between 1 and 10, we multiply it by 10, so it becomes 7.5. To compensate, we must divide the power of 10 by 10 (or subtract 1 from the exponent):\n0.75 x 10^-2 = (7.5 x 10^-1) x 10^-2\n= 7.5 x 10^(-1 + -2)\n= 7.5 x 10^-3\n\nThe population density of the city is 7.5 x 10^-3 people per square metre.",
+      "explanation": "To calculate the population density, we first need to express the population in standard form: 4,800,000 becomes 4.8 x 10^6. Then, we divide this by the given area in standard form: (4.8 x 10^6) / (6.4 x 10^8). We divide the numerical parts (4.8 / 6.4 = 0.75) and the powers of 10 (10^6 / 10^8 = 10^(6-8) = 10^-2). This gives 0.75 x 10^-2. To write this in correct standard form, the leading number must be between 1 and 10. So, we convert 0.75 to 7.5 by multiplying by 10, and compensate by subtracting 1 from the exponent of 10: 10^-2 becomes 10^-3. Thus, the final answer is 7.5 x 10^-3.",
+      "hint": "Remember that population density is calculated by dividing the total population by the total area. Ensure both numbers are in standard form before performing the division, and write your final answer in standard form (a x 10^n where 1 ≤ a < 10).",
+      "generatedAt": "2026-04-30T17:17:52.521991"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-standard-form_advanced_001",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "The density of gold is approximately 1.93 x 10^4 kg/m³. A single gold nanoparticle has a volume of 2.1 x 10^-24 m³. A chemist prepares a solution containing a batch of these gold nanoparticles. The total mass of gold in this batch is measured to be 8.106 x 10^-3 kg.\n\nWhat is the number of gold nanoparticles in this batch, given in standard form rounded to 3 significant figures? Show your working clearly.",
+      "options": [
+        "A) 2.03 x 10^17",
+        "B) 2.00 x 10^-31",
+        "C) 4.05 x 10^-20",
+        "D) 2.00 x 10^17"
+      ],
+      "correctAnswer": "D) 2.00 x 10^17",
+      "explanation": "To find the number of nanoparticles, we first need to calculate the mass of a single gold nanoparticle.\n\nStep 1: Calculate the mass of a single gold nanoparticle.\nWe know that Density = Mass / Volume, so Mass = Density × Volume.\nMass_single = (1.93 x 10^4 kg/m³) × (2.1 x 10^-24 m³)\nMass_single = (1.93 × 2.1) × (10^4 × 10^-24) kg\nMass_single = 4.053 × 10^(4 - 24) kg\nMass_single = 4.053 × 10^-20 kg\n\nStep 2: Calculate the total number of gold nanoparticles.\nNumber of nanoparticles = Total mass of gold / Mass of a single gold nanoparticle\nNumber of nanoparticles = (8.106 x 10^-3 kg) / (4.053 x 10^-20 kg)\nNumber of nanoparticles = (8.106 / 4.053) × (10^-3 / 10^-20)\nNumber of nanoparticles = 2 × 10^(-3 - (-20))\nNumber of nanoparticles = 2 × 10^(-3 + 20)\nNumber of nanoparticles = 2 × 10^17\n\nStep 3: Round the answer to 3 significant figures.\n2 × 10^17, when expressed to 3 significant figures, is 2.00 × 10^17.",
+      "hint": "First, use the formula relating density, mass, and volume to find the mass of a single gold nanoparticle. Then, use this value and the total mass of gold to find the total number of nanoparticles.",
+      "generatedAt": "2026-04-30T17:18:13.756028"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_002",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "The estimated global population is approximately 8 x 10^9 people. On average, each person consumes 2.5 x 10^3 litres of water annually. A new water-saving initiative aims to reduce individual annual water consumption by 40%.\n\nCalculate the total amount of water saved globally each year, in litres, if every person adopted this initiative. Give your answer in standard form.\n\nShow all your working.",
+      "options": [
+        "A. 1.2 x 10^13 litres",
+        "B. 8 x 10^12 litres",
+        "C. 2 x 10^13 litres",
+        "D. 3.2 x 10^12 litres"
+      ],
+      "correctAnswer": "B. 8 x 10^12 litres",
+      "explanation": "To solve this problem, we first need to calculate the amount of water saved per person and then multiply this by the total global population.\n\nStep 1: Calculate the amount of water saved per person annually.\nOriginal annual consumption per person = 2.5 x 10^3 litres.\nReduction = 40%.\nAmount saved per person = 40% of (2.5 x 10^3) litres\n= 0.40 * (2.5 x 10^3)\n= (0.4 * 2.5) x 10^3\n= 1 x 10^3 litres.\n\nStep 2: Calculate the total water saved globally each year.\nGlobal population = 8 x 10^9 people.\nTotal water saved = (Amount saved per person) * (Global population)\n= (1 x 10^3) * (8 x 10^9)\n= (1 * 8) x (10^3 * 10^9)\n= 8 x 10^(3+9)\n= 8 x 10^12 litres.\n\nThe total amount of water saved globally each year is 8 x 10^12 litres.",
+      "hint": "First, calculate the amount of water saved by a single person by finding 40% of their annual consumption. Then, multiply this individual saving by the total global population. Remember to express the percentage as a decimal when performing calculations.",
+      "generatedAt": "2026-04-30T17:18:32.030269"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_003",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A large technology company, 'TechGiant Innovations', reported an annual revenue of £5.2 x 10^9 for the fiscal year 2023.\n\nThe company's board decided to allocate exactly 0.003% of this total revenue to its advanced research and development (R&D) division.\n\nWithin the R&D division, a specific project focusing on miniaturisation received 1.5 x 10^-2 % of the R&D's total allocated budget.\n\nThe funds for this miniaturisation project were used exclusively to purchase a new type of nano-processor, with each nano-processor costing £1.2 x 10^-4.\n\nCalculate the total number of nano-processors purchased for the miniaturisation project. Give your answer in standard form to 3 significant figures.\n\n(Show your working clearly.)",
+      "options": [],
+      "correctAnswer": "To calculate the total number of nano-processors, we need to perform several steps:\n\n**Step 1: Calculate the R&D division's allocated budget.**\nThe R&D division receives 0.003% of the total revenue.\nTotal revenue = £5.2 x 10^9\n0.003% as a decimal = 0.003 / 100 = 0.00003 = 3 x 10^-5\nR&D budget = (3 x 10^-5) * (5.2 x 10^9)\nR&D budget = (3 * 5.2) x (10^-5 * 10^9)\nR&D budget = 15.6 x 10^4\nR&D budget = £1.56 x 10^5\n\n**Step 2: Calculate the miniaturisation project's budget.**\nThe miniaturisation project receives 1.5 x 10^-2 % of the R&D budget.\n1.5 x 10^-2 % as a decimal = (1.5 x 10^-2) / 100 = (1.5 x 10^-2) x 10^-2 = 1.5 x 10^-4\nMiniaturisation project budget = (1.5 x 10^-4) * (1.56 x 10^5)\nMiniaturisation project budget = (1.5 * 1.56) x (10^-4 * 10^5)\nMiniaturisation project budget = 2.34 x 10^1\nMiniaturisation project budget = £23.40\n\n**Step 3: Calculate the total number of nano-processors purchased.**\nCost per nano-processor = £1.2 x 10^-4\nNumber of nano-processors = Miniaturisation project budget / Cost per nano-processor\nNumber of nano-processors = 23.4 / (1.2 x 10^-4)\nNumber of nano-processors = 23.4 / 0.00012\nNumber of nano-processors = 195,000\n\n**Step 4: Express the answer in standard form to 3 significant figures.**\n195,000 in standard form is 1.95 x 10^5.\nThis number already has 3 significant figures (1, 9, and 5).\n\n**Final Answer:** The total number of nano-processors purchased is **1.95 x 10^5**.",
+      "explanation": "The problem requires a sequence of calculations involving percentages and standard form. First, you calculate the R&D budget by finding 0.003% of the total revenue. Remember that to convert a percentage to a decimal, you divide by 100. Then, you calculate the miniaturisation project's budget by finding 1.5 x 10^-2 % of the R&D budget. Finally, you divide the miniaturisation project's budget by the cost of a single nano-processor to find the total number of nano-processors, expressing your final answer in standard form to the specified number of significant figures.",
+      "hint": "Remember that a percentage like 'X%' can be written as a decimal by dividing X by 100 (or multiplying by 10^-2). When multiplying or dividing numbers in standard form, handle the number parts and the powers of 10 separately.",
+      "generatedAt": "2026-04-30T17:18:48.442229"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_004",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A large digital archive initially stores 3.5 x 10^14 bytes of data. Due to new acquisitions, the total data stored increases by 8% each month. After 3 months, the archive needs to transfer all the data it currently holds to a new system. The transfer rate is constant at 7.0 x 10^8 bytes per second. Calculate the total time, in days, required to transfer all the data after 3 months. Give your answer to one significant figure. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the total data after 3 months.\nInitial data = 3.5 x 10^14 bytes.\nThe data increases by 8% each month, so the multiplier for one month is 1 + 0.08 = 1.08.\nAfter 3 months, the total data will be Initial data × (1.08)^3.\n(1.08)^3 = 1.259712\n\nTotal data after 3 months = (3.5 × 10^14) × 1.259712\n= (3.5 × 1.259712) × 10^14\n= 4.408992 × 10^14 bytes.\n\nStep 2: Calculate the time required to transfer this data in seconds.\nTransfer rate = 7.0 × 10^8 bytes per second.\nTime (seconds) = Total data / Transfer rate\nTime = (4.408992 × 10^14) / (7.0 × 10^8)\nTime = (4.408992 / 7.0) × (10^14 / 10^8)\nTime = 0.629856 × 10^(14-8)\nTime = 0.629856 × 10^6 seconds\nTime = 6.29856 × 10^5 seconds.\n\nStep 3: Convert the time from seconds to days.\nThere are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day.\nNumber of seconds in one day = 24 × 60 × 60 = 86400 seconds.\nIn standard form, 86400 = 8.64 × 10^4 seconds.\n\nTime (days) = Time (seconds) / Seconds per day\nTime = (6.29856 × 10^5) / (8.64 × 10^4)\nTime = (6.29856 / 8.64) × (10^5 / 10^4)\nTime = 0.72900 × 10^1\nTime = 7.2900 days (to 4 decimal places).\n\nStep 4: Round the answer to one significant figure.\n7.2900 days rounded to one significant figure is 7 days.\n\nFinal Answer: 7 days",
+      "explanation": "The problem requires several steps: first, calculate the total data volume after three months, applying a compound percentage increase. Second, use the total data and the transfer rate to find the time in seconds. Third, convert this time from seconds into days. Finally, round the result to one significant figure. Each step involves careful calculation with standard form numbers and unit conversions.",
+      "hint": "First, calculate the total data after 3 months using the percentage increase. Remember to apply the percentage increase for each month by multiplying by 1.08 three times. Then, use the data transfer rate to find the time in seconds, and finally convert this time into days by dividing by the number of seconds in a day.",
+      "generatedAt": "2026-04-30T17:19:10.489932"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_005",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A high-precision robotic arm is used to assemble miniature electronic components. Each component takes 1.25 x 10^-4 seconds to assemble. Each assembled component has a mass of 8.0 x 10^-6 kg. If the robotic arm operates continuously for 6 hours, what is the total mass of the components assembled during this period? Show your working.",
+      "options": [
+        "1.3824 x 10^3 kg",
+        "1.728 x 10^8 kg",
+        "1.3824 x 10^-5 kg",
+        "3.84 x 10^-1 kg"
+      ],
+      "correctAnswer": "1.3824 x 10^3 kg",
+      "explanation": "1.  **Convert the total operating time to seconds:**\n    6 hours = 6 x 60 minutes/hour x 60 seconds/minute = 21,600 seconds.\n    In standard form, this is 2.16 x 10^4 seconds.\n\n2.  **Calculate the number of components assembled:**\n    Number of components = Total operating time / Time per component\n    Number of components = (2.16 x 10^4 seconds) / (1.25 x 10^-4 seconds/component)\n    Number of components = (2.16 / 1.25) x (10^4 / 10^-4)\n    Number of components = 1.728 x 10^(4 - (-4))\n    Number of components = 1.728 x 10^8 components.\n\n3.  **Calculate the total mass of the assembled components:**\n    Total mass = Number of components x Mass per component\n    Total mass = (1.728 x 10^8) x (8.0 x 10^-6 kg)\n    Total mass = (1.728 x 8.0) x (10^8 x 10^-6)\n    Total mass = 13.824 x 10^(8 - 6)\n    Total mass = 13.824 x 10^2 kg\n    To express this in standard form (a number between 1 and 10 multiplied by a power of 10):\n    Total mass = 1.3824 x 10^1 x 10^2 kg\n    Total mass = 1.3824 x 10^3 kg.",
+      "hint": "First, ensure all time units are consistent. Then, think about how to find the total number of components assembled before calculating their total mass, remembering the rules for arithmetic with standard form.",
+      "generatedAt": "2026-04-30T17:19:28.551279"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_006",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Planet X is located a distance of 5.4 x 10^8 kilometres from Earth. Radio signals, which travel at the speed of light, are used to communicate between Planet X and Earth. The speed of light is approximately 3.0 x 10^8 metres per second. Calculate the time it takes, in minutes, for a radio signal to travel from Planet X to Earth. Give your answer in standard form, correct to 3 significant figures. Show your working clearly.",
+      "options": [
+        "3.00 x 10^1 minutes",
+        "1.80 x 10^3 minutes",
+        "3.00 x 10^2 minutes",
+        "3.00 x 10^0 minutes"
+      ],
+      "correctAnswer": "3.00 x 10^1 minutes",
+      "explanation": "Step 1: Convert the distance from kilometres to metres.\nDistance = 5.4 x 10^8 km\nSince 1 km = 1000 m (or 10^3 m),\nDistance = 5.4 x 10^8 x 10^3 m = 5.4 x 10^(8+3) m = 5.4 x 10^11 m.\n\nStep 2: Calculate the time taken in seconds using the formula Time = Distance / Speed.\nDistance = 5.4 x 10^11 m\nSpeed = 3.0 x 10^8 m/s\nTime = (5.4 x 10^11) / (3.0 x 10^8) s\nTime = (5.4 / 3.0) x 10^(11-8) s\nTime = 1.8 x 10^3 s.\n\nStep 3: Convert the time from seconds to minutes.\nSince 1 minute = 60 seconds,\nTime in minutes = (1.8 x 10^3) / 60 minutes\nTime in minutes = 1800 / 60 minutes\nTime in minutes = 30 minutes.\n\nStep 4: Express the answer in standard form, correct to 3 significant figures.\n30 minutes = 3.00 x 10^1 minutes.",
+      "hint": "Remember to ensure all units are consistent (e.g., all metres) before performing calculations. Then, apply the rules for dividing numbers in standard form, and finally, convert the time to the required units and significant figures.",
+      "generatedAt": "2026-04-30T17:20:11.682939"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_007",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A cutting-edge factory produces a new, ultra-thin material. The material has a density of 2.25 x 10^3 kilograms per cubic metre (kg/m^3). Each layer of this material is incredibly thin, with a thickness of 0.75 x 10^-9 metres. The factory manufactures a continuous roll of this material, which has a constant width of 1.2 metres. The production line operates at a rate of 3.0 x 10^3 metres of length produced per hour.\n\nCalculate the total mass, in kilograms, of the material produced by the factory in a 24-hour day. Give your answer in standard form. Show your working.",
+      "options": [
+        "1.458 x 10^-1 kg",
+        "1.458 x 10^-2 kg",
+        "1.458 x 10^0 kg",
+        "2.025 x 10^-6 kg"
+      ],
+      "correctAnswer": "1.458 x 10^-1 kg",
+      "explanation": "Step 1: Calculate the volume of a 1-metre length of the material roll.\nVolume = Length × Width × Thickness\nFor a 1-metre length:\nVolume = 1 m × 1.2 m × (0.75 × 10^-9 m)\nVolume = (1.2 × 0.75) × 10^-9 m^3\nVolume = 0.9 × 10^-9 m^3\n\nStep 2: Calculate the mass of a 1-metre length of the material roll.\nMass = Density × Volume\nMass = (2.25 × 10^3 kg/m^3) × (0.9 × 10^-9 m^3)\nMass = (2.25 × 0.9) × (10^3 × 10^-9) kg\nMass = 2.025 × 10^(3-9) kg\nMass = 2.025 × 10^-6 kg\n\nStep 3: Calculate the total length of material produced in a 24-hour day.\nLength per hour = 3.0 × 10^3 m\nTotal hours = 24 hours\nTotal Length = (3.0 × 10^3 m/hour) × 24 hours\nTotal Length = (3.0 × 24) × 10^3 m\nTotal Length = 72 × 10^3 m\nTotal Length = 7.2 × 10^4 m (in standard form)\n\nStep 4: Calculate the total mass of material produced in a 24-hour day.\nTotal Mass = Mass per 1-metre length × Total Length produced\nTotal Mass = (2.025 × 10^-6 kg/m) × (7.2 × 10^4 m)\nTotal Mass = (2.025 × 7.2) × (10^-6 × 10^4) kg\nTotal Mass = 14.58 × 10^(-6+4) kg\nTotal Mass = 14.58 × 10^-2 kg\n\nStep 5: Convert the total mass to standard form.\nA number in standard form must be between 1 and 10 (inclusive of 1, exclusive of 10). To convert 14.58 to this range, we divide by 10 and increase the power by 1.\n14.58 × 10^-2 kg = 1.458 × 10^1 × 10^-2 kg\nTotal Mass = 1.458 × 10^(1-2) kg\nTotal Mass = 1.458 × 10^-1 kg",
+      "hint": "First, calculate the volume of a 1-metre length of the material using its width and thickness. Then, use the material's density to find the mass of this 1-metre length. Next, calculate the total length of material produced in 24 hours. Finally, multiply the mass per 1-metre length by the total length produced to get the total mass. Remember to convert your final answer into correct standard form (a number between 1 and 10 multiplied by a power of 10).",
+      "generatedAt": "2026-04-30T17:20:31.396396"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_008",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A specialist laboratory manufactures microscopic sensors. Each sensor has a mass of 8.2 x 10^-5 grams.\nA client places an order for a bulk shipment with a total mass of 20.5 kilograms of these sensors.\nThe sensors are packaged into trays for shipment, with each tray designed to hold exactly 5.0 x 10^3 sensors.\n\nShow your working for all parts.\na) Calculate the total number of sensors required for the client's shipment. Give your answer in standard form.\nb) Determine the minimum number of trays needed to package all the sensors for the shipment. Give your answer as an integer.",
+      "options": [],
+      "correctAnswer": "a) First, convert the total mass from kilograms to grams:\n20.5 kg = 20.5 * 1000 g = 20500 g.\nExpress this in standard form: 2.05 x 10^4 g.\n\nNow, calculate the total number of sensors by dividing the total mass by the mass of one sensor:\nNumber of sensors = (2.05 x 10^4 g) / (8.2 x 10^-5 g)\nNumber of sensors = (2.05 / 8.2) x (10^4 / 10^-5)\nNumber of sensors = 0.25 x 10^(4 - (-5))\nNumber of sensors = 0.25 x 10^9\nIn standard form: Number of sensors = 2.5 x 10^8 sensors.\n\nb) To find the number of trays, divide the total number of sensors by the number of sensors per tray:\nNumber of trays = (2.5 x 10^8 sensors) / (5.0 x 10^3 sensors/tray)\nNumber of trays = (2.5 / 5.0) x (10^8 / 10^3)\nNumber of trays = 0.5 x 10^(8 - 3)\nNumber of trays = 0.5 x 10^5\nNumber of trays = 50000.\nSince 50000 is an exact integer, the minimum number of trays needed is 50000.",
+      "explanation": "1.  **Part a) - Calculate total number of sensors:**\n    *   **Step 1: Convert the total shipment mass to grams.** The mass of a single sensor is given in grams, so the total mass must be in the same unit. 20.5 kilograms * 1000 grams/kilogram = 20500 grams.\n    *   **Step 2: Express the total mass in standard form.** 20500 g = 2.05 x 10^4 g.\n    *   **Step 3: Calculate the total number of sensors.** Divide the total mass by the mass of one sensor.\n        (2.05 x 10^4 g) / (8.2 x 10^-5 g)\n    *   **Step 4: Perform the division.** Divide the numerical parts and subtract the powers of 10 for the exponents.\n        (2.05 / 8.2) = 0.25\n        (10^4 / 10^-5) = 10^(4 - (-5)) = 10^(4 + 5) = 10^9\n        So, the result is 0.25 x 10^9.\n    *   **Step 5: Convert the result to correct standard form.** 0.25 x 10^9 = 2.5 x 10^8 sensors.\n\n2.  **Part b) - Determine minimum number of trays:**\n    *   **Step 1: Calculate the number of trays.** Divide the total number of sensors (from part a) by the number of sensors each tray can hold.\n        (2.5 x 10^8 sensors) / (5.0 x 10^3 sensors/tray)\n    *   **Step 2: Perform the division.** Divide the numerical parts and subtract the powers of 10.\n        (2.5 / 5.0) = 0.5\n        (10^8 / 10^3) = 10^(8 - 3) = 10^5\n        So, the result is 0.5 x 10^5.\n    *   **Step 3: Convert the result to an integer.** 0.5 x 10^5 = 50000.\n    *   **Step 4: Check for rounding.** Since the result is an exact integer, 50000 trays are needed. If it were, for example, 50000.1, you would need to round up to 50001 trays to hold all the sensors.",
+      "hint": "Remember to ensure all mass measurements are in the same unit (grams) before performing calculations. When dividing numbers in standard form, divide the numerical parts and subtract the powers of 10.",
+      "generatedAt": "2026-04-30T17:20:53.611974"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_009",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A global logistics company manages the inventory of a very small, specialised component across its network of warehouses.\nEach standard storage container can hold 2.5 x 10^7 units of the component.\n\nThe company operates one large regional depot and 15 smaller distribution centres.\n1. The large regional depot contains 1.5 x 10^3 standard storage containers.\n2. Each of the 15 smaller distribution centres contains 8.0 x 10^2 standard storage containers.\n\na) Calculate the total number of components stored in the large regional depot. Give your answer in standard form.\nb) Calculate the total number of components stored across all 15 smaller distribution centres combined. Give your answer in standard form.\nc) Determine the grand total number of components managed by this logistics company across all these locations. Give your answer in standard form.\nd) The estimated global annual demand for this component is 2.0 x 10^12 units. What percentage of the annual demand is represented by the grand total number of components calculated in part (c)? Give your answer to two significant figures.\n\nShow your working for all parts.",
+      "options": [],
+      "correctAnswer": "a) Total components in large regional depot:\nNumber of containers = 1.5 x 10^3\nUnits per container = 2.5 x 10^7\nTotal units = (1.5 x 10^3) x (2.5 x 10^7)\n= (1.5 x 2.5) x (10^3 x 10^7)\n= 3.75 x 10^(3+7)\n= 3.75 x 10^10 units\n\nb) Total components in 15 smaller distribution centres:\nUnits per container = 2.5 x 10^7\nContainers per distribution centre = 8.0 x 10^2\nNumber of distribution centres = 15\n\nUnits in one distribution centre = (2.5 x 10^7) x (8.0 x 10^2)\n= (2.5 x 8.0) x (10^7 x 10^2)\n= 20 x 10^9\n= 2.0 x 10^10 units\n\nTotal units in 15 distribution centres = 15 x (2.0 x 10^10)\n= 30 x 10^10\n= 3.0 x 10^11 units\n\nc) Grand total number of components:\nTotal from depot (part a) = 3.75 x 10^10 units\nTotal from 15 centres (part b) = 3.0 x 10^11 units\n\nTo add, adjust powers of 10 to be the same:\n3.75 x 10^10 = 0.375 x 10^11\n\nGrand total = (0.375 x 10^11) + (3.0 x 10^11)\n= (0.375 + 3.0) x 10^11\n= 3.375 x 10^11 units\n\nd) Percentage of annual demand:\nGrand total (part c) = 3.375 x 10^11 units\nGlobal annual demand = 2.0 x 10^12 units\n\nPercentage = (Grand total / Annual demand) x 100%\n= (3.375 x 10^11) / (2.0 x 10^12) x 100%\n= (3.375 / 2.0) x (10^11 / 10^12) x 100%\n= 1.6875 x 10^(11-12) x 100%\n= 1.6875 x 10^-1 x 100%\n= 0.16875 x 100%\n= 16.875%\n\nTo two significant figures:\n17%",
+      "explanation": "This question requires multiple steps involving standard form calculations. For part (a) and (b), you multiply numbers in standard form by multiplying the numerical parts and adding the exponents of 10. For part (c), you need to add numbers in standard form, which requires adjusting them so they have the same power of 10 before adding their numerical parts. Finally, for part (d), you divide the total inventory by the annual demand (both in standard form), multiply by 100 to get a percentage, and then round the result to two significant figures. Each step builds on the previous one, demonstrating a comprehensive understanding of standard form operations and application in a multi-step problem.",
+      "hint": "Remember the rules for multiplying and adding numbers in standard form: for multiplication, multiply the numerical parts and add the exponents; for addition, ensure the powers of 10 are the same before adding the numerical parts. When calculating percentage, divide the part by the whole and multiply by 100. Pay attention to rounding to significant figures at the final step.",
+      "generatedAt": "2026-04-30T17:21:15.190596"
+    },
+    {
+      "id": "m-y9-standard-form_advanced_010",
+      "topicId": "m-y9-standard-form",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A chemistry laboratory prepares a solution for an experiment. The desired concentration of a key chemical in the solution is 4.2 x 10^-5 moles per litre. They prepare 250 millilitres of this solution. The entire prepared solution is then distributed equally into 8000 identical small containers.\n\nCalculate the number of moles of the key chemical in each small container. Give your answer in standard form. Show your working.",
+      "options": [
+        "1.3125 x 10^-9 mol",
+        "1.3125 x 10^-6 mol",
+        "1.3125 x 10^-7 mol",
+        "1.3125 x 10^-3 mol"
+      ],
+      "correctAnswer": "1.3125 x 10^-9 mol",
+      "explanation": "Step 1: Convert the volume from millilitres to litres.\nThere are 1000 millilitres in 1 litre, so 250 millilitres = 250 / 1000 = 0.25 litres.\nIn standard form, 0.25 litres = 2.5 x 10^-1 litres.\n\nStep 2: Calculate the total number of moles of the key chemical in the prepared solution.\nTotal moles = Concentration × Volume\nTotal moles = (4.2 x 10^-5 mol/L) × (2.5 x 10^-1 L)\nTo multiply numbers in standard form, multiply the base numbers and add the powers of 10:\nTotal moles = (4.2 × 2.5) × (10^-5 × 10^-1)\nTotal moles = 10.5 × 10^(-5 + -1)\nTotal moles = 10.5 × 10^-6 mol\nConvert this to correct standard form (where the base number is between 1 and 10): 10.5 = 1.05 × 10^1. So, 1.05 × 10^1 × 10^-6 = 1.05 × 10^(-5) mol.\n\nStep 3: Express the number of small containers in standard form.\n8000 containers = 8 × 10^3 containers.\n\nStep 4: Calculate the number of moles in each small container.\nMoles per container = Total moles / Number of containers\nMoles per container = (1.05 x 10^-5 mol) / (8 x 10^3)\nTo divide numbers in standard form, divide the base numbers and subtract the powers of 10:\nMoles per container = (1.05 / 8) × (10^-5 / 10^3)\nMoles per container = 0.13125 × 10^(-5 - 3)\nMoles per container = 0.13125 × 10^-8 mol\n\nStep 5: Convert the final answer to standard form.\n0.13125 × 10^-8 = 1.3125 × 10^-1 × 10^-8 = 1.3125 × 10^(-1 + -8)\nMoles per container = 1.3125 × 10^-9 mol.",
+      "hint": "Remember to ensure all units are consistent before performing calculations, especially converting millilitres to litres. Carefully apply the rules of exponents for multiplication and division of numbers in standard form.",
+      "generatedAt": "2026-04-30T17:21:42.700055"
+    }
+  ]
+}

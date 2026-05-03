@@ -1,0 +1,498 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y10-infection_beginner_001",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following terms describes a microorganism that causes disease?",
+      "options": [
+        "Antibody",
+        "Vaccine",
+        "Pathogen",
+        "Antibiotic"
+      ],
+      "correctAnswer": "Pathogen",
+      "explanation": "A pathogen is correctly defined as a microorganism (like a bacterium, virus, fungus, or protist) that is capable of causing disease. Antibodies are proteins produced by the immune system, vaccines are substances used to create immunity, and antibiotics are medicines used to kill bacteria.",
+      "hint": "Think about the name given to organisms that make you sick.",
+      "generatedAt": "2026-04-30T19:31:33.686287"
+    },
+    {
+      "id": "s-y10-infection_beginner_002",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A vaccine is given to individuals to help prevent them from developing a communicable disease. Which statement correctly describes the primary way a vaccine protects an individual's body from future infection by a specific pathogen?",
+      "options": [
+        "It makes the body produce antibiotics to fight the pathogen.",
+        "It introduces live, strong pathogens to develop a full immune response.",
+        "It stimulates the immune system to produce antibodies and memory cells against the pathogen.",
+        "It directly destroys all pathogens present in the body at the time of vaccination."
+      ],
+      "correctAnswer": "It stimulates the immune system to produce antibodies and memory cells against the pathogen.",
+      "explanation": "Option C is correct because vaccines introduce a weakened or inactive form of a pathogen, or just its antigens, to the body. This safely triggers the immune system to recognise the pathogen and produce specific antibodies and memory cells. These memory cells allow for a rapid and strong immune response if the actual pathogen is encountered in the future, preventing illness. \n\nOption A is incorrect because antibiotics are medicines that kill bacteria, not substances produced by the body in response to a vaccine. \n\nOption B is incorrect because vaccines typically use weakened, dead, or parts of pathogens (antigens), not strong, live pathogens, to ensure safety and prevent the disease itself.\n\nOption D is incorrect because vaccines are primarily for prevention; they don't immediately destroy existing pathogens upon vaccination, but rather prepare the immune system for future encounters.",
+      "hint": "Think about how the body's natural defence system responds to a harmless introduction of a disease-causing agent.",
+      "generatedAt": "2026-04-30T19:31:43.558351"
+    },
+    {
+      "id": "s-y10-infection_beginner_003",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State the primary function of white blood cells as part of the body's immune response.",
+      "options": [],
+      "correctAnswer": "White blood cells defend the body against pathogens (disease-causing microorganisms) / fight infection / destroy harmful microbes.",
+      "explanation": "White blood cells, also known as leukocytes, are a crucial component of the immune system. Their primary role is to protect the body by identifying and destroying foreign invaders, such as bacteria and viruses, which are known as pathogens. They achieve this in various ways, for example, by engulfing pathogens (phagocytosis) or by producing antibodies to neutralise them.",
+      "hint": "Consider what happens when your body encounters a germ and how it tries to protect itself.",
+      "generatedAt": "2026-04-30T19:31:51.123677"
+    },
+    {
+      "id": "s-y10-infection_beginner_004",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Explain how vaccination protects an individual from a specific communicable disease. (4 marks)",
+      "options": [],
+      "correctAnswer": "A vaccine contains a weakened or inactive form of the pathogen, or parts of it, which cannot cause the disease. Because of this, the body's immune system is safely exposed to the pathogen's antigens. This exposure stimulates the immune system to produce specific antibodies and memory cells. So, if the vaccinated individual later encounters the actual pathogen, their immune system can quickly recognise it and produce a large number of antibodies rapidly, preventing them from developing the disease.",
+      "explanation": "This answer correctly identifies what a vaccine contains (weakened/inactive pathogen/antigens), explains how it triggers the immune system to produce antibodies and memory cells (cause), and finally describes how this prepares the body to respond quickly and effectively upon future exposure to the actual pathogen, thereby preventing the disease (effect). It links the cause and effect clearly, fulfilling the requirements of an 'Explain' command word.",
+      "hint": "Consider what a vaccine contains and how the body's immune system reacts to it, both initially and upon subsequent exposure to the actual pathogen.",
+      "generatedAt": "2026-04-30T19:32:02.078564"
+    },
+    {
+      "id": "s-y10-infection_beginner_005",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Describe one physical barrier the human body uses to prevent pathogens from entering. (2 marks)",
+      "options": [],
+      "correctAnswer": "The skin is a tough, waterproof outer layer that covers the body. It acts as a physical barrier, preventing most pathogens from physically entering the internal tissues and bloodstream unless there is a cut or wound.",
+      "explanation": "This question tests your understanding of the body's first line of defence against pathogens. Physical barriers are part of the non-specific immune response. The skin is a primary example because its tough, continuous structure directly blocks the entry of most microorganisms.",
+      "hint": "Think about the body's outermost layer and how it stops foreign substances from getting inside.",
+      "generatedAt": "2026-04-30T19:32:13.085240"
+    },
+    {
+      "id": "s-y10-infection_beginner_006",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which type of microorganism is responsible for causing diseases such as measles and influenza (the flu)?",
+      "options": [
+        "A) Bacteria",
+        "B) Viruses",
+        "C) Fungi",
+        "D) Protists"
+      ],
+      "correctAnswer": "B) Viruses",
+      "explanation": "Measles and influenza (the flu) are both well-known communicable diseases that are caused by viruses. Viruses are microscopic pathogens that require host cells to replicate, and they are responsible for a wide range of common human illnesses.",
+      "hint": "Consider the type of pathogen against which antibiotics are ineffective.",
+      "generatedAt": "2026-04-30T19:32:23.098505"
+    },
+    {
+      "id": "s-y10-infection_beginner_007",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which type of pathogen can be killed by antibiotics?",
+      "options": [
+        "A) Viruses",
+        "B) Fungi",
+        "C) Bacteria",
+        "D) Protists"
+      ],
+      "correctAnswer": "C) Bacteria",
+      "explanation": "Antibiotics are a type of medicine specifically designed to kill bacteria or prevent their growth. They are not effective against viruses, fungi, or protists, which require different types of treatments.",
+      "hint": "Think about the specific group of microorganisms that antibiotics were first developed to combat and are most effective against.",
+      "generatedAt": "2026-04-30T19:32:32.033124"
+    },
+    {
+      "id": "s-y10-infection_beginner_008",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following describes a common way that pathogenic microorganisms cause disease symptoms in the human body?",
+      "options": [
+        "A) They produce toxins that damage cells and tissues.",
+        "B) They increase the production of beneficial hormones.",
+        "C) They help to digest food in the small intestine.",
+        "D) They directly repair damaged body cells."
+      ],
+      "correctAnswer": "A) They produce toxins that damage cells and tissues.",
+      "explanation": "Pathogenic microorganisms, such as certain bacteria, often cause disease by producing harmful chemical substances called toxins. These toxins can poison or damage the host's cells and tissues, leading to the characteristic symptoms of the disease. Options B, C, and D describe processes that are either beneficial to the body or are not direct mechanisms by which pathogens cause illness.",
+      "hint": "Think about the direct harmful substances that some disease-causing microbes release into the body.",
+      "generatedAt": "2026-04-30T19:32:41.276793"
+    },
+    {
+      "id": "s-y10-infection_beginner_009",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "What is the primary role of lymphocytes in the human immune system?",
+      "options": [
+        "A) Transporting oxygen around the body",
+        "B) Producing antibodies to fight pathogens",
+        "C) Helping blood to clot after an injury",
+        "D) Digesting food in the stomach"
+      ],
+      "correctAnswer": "B) Producing antibodies to fight pathogens",
+      "explanation": "1. Lymphocytes are a specific type of white blood cell.\n2. White blood cells are key components of the immune system, responsible for defending the body against disease-causing microorganisms (pathogens).\n3. A primary function of certain lymphocytes (B-lymphocytes) is to recognise specific pathogens and produce proteins called antibodies.\n4. These antibodies specifically target and help to destroy or neutralise the pathogens, or mark them for destruction by other immune cells.\n5. The other options describe functions of other systems or cells: transporting oxygen (red blood cells), blood clotting (platelets), and digesting food (digestive system).",
+      "hint": "Consider the specific actions of white blood cells when the body encounters a pathogen. What defensive molecules do some of these cells produce?",
+      "generatedAt": "2026-04-30T19:32:49.493767"
+    },
+    {
+      "id": "s-y10-infection_beginner_010",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "State what a vaccine typically contains to help the body develop immunity.",
+      "options": [
+        "A) Live, active pathogens that cause the disease.",
+        "B) Strong antibiotics to kill any existing infection.",
+        "C) Weakened or inactive forms of a pathogen, or parts of a pathogen.",
+        "D) Chemicals that completely stop all immune responses."
+      ],
+      "correctAnswer": "C) Weakened or inactive forms of a pathogen, or parts of a pathogen.",
+      "explanation": "Vaccines work by introducing a harmless version of a pathogen, such as weakened or inactive forms, or specific parts of it (like proteins or toxins), into the body. These components are not strong enough to cause the actual disease but are sufficient to trigger the immune system. The body learns to recognise these components and produces specific antibodies and memory cells. This prepares the immune system to mount a rapid and effective response if it encounters the real, active pathogen in the future, thus providing immunity without suffering the disease.",
+      "hint": "Think about how vaccines prepare your immune system without making you sick.",
+      "generatedAt": "2026-04-30T19:32:59.639635"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y10-infection_intermediate_001",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A town with a population of 80,000 is preparing for a new highly contagious disease. Public health officials aim to vaccinate 80% of the entire population to achieve herd immunity. The vaccine developed for this disease is 85% effective at preventing infection.\n\nCalculate the number of vaccinated individuals in the town who, despite being vaccinated, could still potentially become infected due to the vaccine's effectiveness rate.",
+      "options": [
+        "A) 8,000 people",
+        "B) 9,600 people",
+        "C) 12,000 people",
+        "D) 15,200 people"
+      ],
+      "correctAnswer": "B) 9,600 people",
+      "explanation": "1. First, calculate the number of people who need to be vaccinated to reach the herd immunity target:\n   Target vaccinated population = 80% of 80,000 people\n   Target vaccinated population = 0.80 × 80,000 = 64,000 people.\n\n2. Next, determine the percentage of vaccinated individuals who might still become infected. If the vaccine is 85% effective at preventing infection, then 100% - 85% = 15% of vaccinated individuals are not protected.\n\n3. Finally, calculate the number of vaccinated individuals who could still potentially become infected:\n   Number potentially infected = 15% of 64,000 people\n   Number potentially infected = 0.15 × 64,000 = 9,600 people.",
+      "hint": "First, calculate the total number of people who need to be vaccinated. Then, determine what percentage of these vaccinated individuals are still susceptible to infection based on the vaccine's effectiveness.",
+      "generatedAt": "2026-04-30T19:33:09.705481"
+    },
+    {
+      "id": "s-y10-infection_intermediate_002",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A person becomes infected with a new bacterial pathogen. These bacteria reproduce by binary fission, doubling their population every 30 minutes. Initially, there are 20 bacteria present in the body. The human immune system typically takes 8 hours to produce a significant number of antibodies to effectively control the infection. Symptoms of the disease usually become noticeable when the bacterial count reaches approximately 3.3 x 10<sup>5</sup> bacteria.\n\nBased on this information, which of the following statements accurately describes the bacterial population after 8 hours and the likelihood of noticeable symptoms?",
+      "options": [
+        "A) Bacterial population after 8 hours is 1.31 x 10<sup>6</sup> bacteria. Symptoms would be noticeable because this count is significantly above the threshold for symptoms.",
+        "B) Bacterial population after 8 hours is 6.55 x 10<sup>5</sup> bacteria. Symptoms would be noticeable because this count is above the threshold for symptoms.",
+        "C) Bacterial population after 8 hours is 2.62 x 10<sup>5</sup> bacteria. Symptoms would not be noticeable because this count is below the threshold for symptoms.",
+        "D) Bacterial population after 8 hours is 1.31 x 10<sup>6</sup> bacteria. Symptoms would not be noticeable as this count is below the threshold for symptoms."
+      ],
+      "correctAnswer": "A) Bacterial population after 8 hours is 1.31 x 10<sup>6</sup> bacteria. Symptoms would be noticeable because this count is significantly above the threshold for symptoms.",
+      "explanation": "To determine the correct answer, two steps are required:\n\n**Step 1: Calculate the bacterial population after 8 hours.**\n*   First, convert the total time into the number of reproduction cycles. The bacteria double every 30 minutes.\n    *   Total time = 8 hours\n    *   Reproduction time per cycle = 30 minutes\n    *   Number of cycles = (8 hours * 60 minutes/hour) / 30 minutes/cycle = 480 minutes / 30 minutes/cycle = 16 cycles.\n*   Next, calculate the final bacterial population using the formula: Initial population × 2<sup>(number of cycles)</sup>.\n    *   Initial population = 20 bacteria\n    *   Final population = 20 × 2<sup>16</sup>\n    *   2<sup>16</sup> = 65,536\n    *   Final population = 20 × 65,536 = 1,310,720 bacteria\n    *   In scientific notation, this is approximately 1.31 × 10<sup>6</sup> bacteria.\n\n**Step 2: Explain whether symptoms would be noticeable.**\n*   Compare the calculated bacterial population (1.31 × 10<sup>6</sup> bacteria) to the symptom threshold (3.3 × 10<sup>5</sup> bacteria).\n*   Since 1.31 × 10<sup>6</sup> (or 1,310,720) is significantly greater than 3.3 × 10<sup>5</sup> (or 330,000), symptoms would be noticeable.\n\nTherefore, option A is the correct statement, as it accurately provides both the calculated bacterial population and the correct explanation regarding symptoms.",
+      "hint": "First, calculate the total number of 30-minute reproduction cycles in 8 hours. Then, use this to determine the final bacterial count, and finally compare it to the symptom threshold.",
+      "generatedAt": "2026-04-30T19:33:31.758090"
+    },
+    {
+      "id": "s-y10-infection_intermediate_003",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Measles is a highly contagious disease with a basic reproduction number (R₀) of 15. This number represents the average number of people an infected person will transmit the disease to in a susceptible population.\n\nCalculate the minimum percentage of the population that needs to be immune to achieve herd immunity for measles. Explain how achieving this level of immunity protects individuals who are not immune, such as infants or those with weakened immune systems.",
+      "options": [],
+      "correctAnswer": "Part 1: Calculation (3 marks)\nFormula for herd immunity threshold (HIT) = (R₀ - 1) / R₀\n\nSubstitution:\nHIT = (15 - 1) / 15\nHIT = 14 / 15\nHIT = 0.9333...\n\nAnswer:\nPercentage = 0.9333... × 100 = 93.3% (accept 93% to 93.33%)\n\nTherefore, approximately 93.3% of the population needs to be immune to achieve herd immunity for measles.\n\nPart 2: Explanation (3-4 marks)\nAchieving this high level of immunity (e.g., 93.3% for measles) means that a very large proportion of the population is resistant to the disease. Because there are so few susceptible individuals for the pathogen to infect, the chain of transmission is broken. This makes it very difficult for the pathogen to spread through the community. So, individuals who cannot be vaccinated (such as infants) or have weakened immune systems (e.g., due to illness or medication) are indirectly protected from the disease because their chance of encountering an infected person is significantly reduced.",
+      "explanation": "The question requires two distinct parts: a calculation and an explanation.\n\n**For the calculation (3 marks):**\n1.  **Identify the relevant formula:** The formula for the herd immunity threshold (HIT) is commonly expressed as (R₀ - 1) / R₀ or 1 - (1 / R₀).\n2.  **Substitute the given value:** The basic reproduction number (R₀) for measles is given as 15. Substitute this value into the formula: (15 - 1) / 15.\n3.  **Perform the calculation:** This simplifies to 14 / 15, which calculates to approximately 0.9333.\n4.  **Convert to percentage and state units:** Multiply the decimal by 100 to express it as a percentage: 0.9333 × 100 = 93.3% (or 93.33%, depending on decimal places, but 1 d.p. is sufficient for GCSE). Include the percentage unit.\n\n**For the explanation (3-4 marks):**\n1.  **Define the condition:** A high proportion of the population is immune (either through vaccination or previous infection).\n2.  **Explain the cause:** This large immune population creates a 'barrier' against the spread of the pathogen. There are very few susceptible hosts available for the pathogen to infect.\n3.  **Explain the effect (linking cause and effect):** Because there are so few susceptible individuals, the probability of an infected person transmitting the disease to another susceptible person is greatly reduced. This effectively breaks the chain of transmission, making it difficult for the disease to spread through the community.\n4.  **Explain the benefit to non-immune individuals:** As a consequence, vulnerable individuals who cannot be vaccinated (e.g., infants too young for vaccines) or have compromised immune systems (e.g., due to medical conditions or treatments) are indirectly protected because the overall risk of exposure to the pathogen in the population is significantly lowered.",
+      "hint": "Remember the formula for the herd immunity threshold involves the basic reproduction number (R₀). When explaining the protection for non-immune individuals, focus on how a high level of immunity in the population affects the transmission pathways of the pathogen.",
+      "generatedAt": "2026-04-30T19:33:50.041994"
+    },
+    {
+      "id": "s-y10-infection_intermediate_004",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A clinical trial for a new vaccine against a specific bacterial infection involved two groups, each with 2000 participants. In the vaccinated group, 40 individuals contracted the infection. In the unvaccinated control group, 200 individuals contracted the infection.\n\n**Calculate** the percentage vaccine efficacy. Show your working.\n(Vaccine efficacy = [(Risk in unvaccinated - Risk in vaccinated) / Risk in unvaccinated] x 100%)",
+      "options": [
+        "A) 20%",
+        "B) 80%",
+        "C) 4%",
+        "D) 10%"
+      ],
+      "correctAnswer": "B) 80%",
+      "explanation": "1.  Identify the number of infected individuals in each group and the total participants.\n    *   Total participants per group = 2000\n    *   Infected in unvaccinated group = 200\n    *   Infected in vaccinated group = 40\n\n2.  Calculate the 'Risk in unvaccinated' (proportion of unvaccinated individuals who contracted the infection):\n    *   Risk in unvaccinated = (Infected in unvaccinated / Total unvaccinated participants) = 200 / 2000 = 0.1\n\n3.  Calculate the 'Risk in vaccinated' (proportion of vaccinated individuals who contracted the infection):\n    *   Risk in vaccinated = (Infected in vaccinated / Total vaccinated participants) = 40 / 2000 = 0.02\n\n4.  Substitute these values into the vaccine efficacy formula:\n    *   Vaccine efficacy = [(0.1 - 0.02) / 0.1] x 100%\n    *   Vaccine efficacy = [0.08 / 0.1] x 100%\n    *   Vaccine efficacy = 0.8 x 100%\n    *   Vaccine efficacy = 80%\n\nTherefore, the percentage vaccine efficacy is 80%.",
+      "hint": "Ensure you correctly identify the 'Risk in unvaccinated' and 'Risk in vaccinated' from the data provided before applying the formula. Remember that 'Risk' is a proportion of the group.",
+      "generatedAt": "2026-04-30T19:34:12.222964"
+    },
+    {
+      "id": "s-y10-infection_intermediate_005",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A student is studying the course of a viral infection in a human body. They observe that immediately after infection, the number of virus particles in the blood increases rapidly. However, after several days, this viral load begins to decrease significantly, eventually returning to undetectable levels. \n\nExplain how the human immune system brings about this decrease in viral load, mentioning specific immune components and processes. (4 marks)",
+      "options": [],
+      "correctAnswer": "When the virus infects the body, its antigens are detected by the immune system. Specific white blood cells, called lymphocytes, are activated. B-lymphocytes differentiate into plasma cells, which produce specific antibodies (1 mark). These antibodies bind to the viral particles (antigens), neutralising them (e.g., preventing them from entering host cells) and marking them for destruction by other immune cells like phagocytes (1 mark). T-lymphocytes identify and destroy body cells that have been infected by the virus, preventing further viral replication inside these cells (1 mark). The combined action of antibodies reducing free virus particles and T-lymphocytes eliminating virus-producing cells leads to a significant reduction in the overall viral load (1 mark).",
+      "explanation": "The explanation details the multi-step process of how the specific immune system combats a viral infection. It starts with the recognition of the pathogen, then describes the roles of both B-lymphocytes (antibody production and function) and T-lymphocytes (killing infected cells). Finally, it links these actions to the observed decrease in viral load, demonstrating a complete understanding of cause and effect in the immune response.",
+      "hint": "Consider the roles of the two main types of lymphocytes (B and T cells) and how they target viruses and infected cells.",
+      "generatedAt": "2026-04-30T19:34:22.565389"
+    },
+    {
+      "id": "s-y10-infection_intermediate_006",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A secondary school with 800 students is experiencing an increase in a highly contagious but preventable disease. Public health officials recommend achieving a vaccination rate of 90% within the school to establish effective herd immunity. The vaccine administered provides 95% protection against developing the disease in vaccinated individuals.\n\nCalculate the number of students who would be effectively protected from the disease if the recommended vaccination rate is achieved within the school.",
+      "options": [
+        "A: 684 students",
+        "B: 720 students",
+        "C: 760 students",
+        "D: 800 students"
+      ],
+      "correctAnswer": "A: 684 students",
+      "explanation": "First, calculate the number of students who would be vaccinated to achieve the recommended rate:\nNumber vaccinated = 90% of 800 students = 0.90 × 800 = 720 students.\n\nNext, calculate the number of these vaccinated students who would be effectively protected by the vaccine:\nNumber effectively protected = 95% of 720 students = 0.95 × 720 = 684 students.\n\nTherefore, 684 students would be effectively protected.",
+      "hint": "This is a two-step percentage calculation. First, determine the number of students who would be vaccinated, then calculate the number of those vaccinated students who are protected.",
+      "generatedAt": "2026-04-30T19:34:34.513608"
+    },
+    {
+      "id": "s-y10-infection_intermediate_007",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A bacterial pathogen replicates within a host's body, increasing its population by 15% every hour. The host's immune system requires 8 hours to fully recognise the pathogen and begin producing antibodies. After this initial delay, the immune system produces antibodies at a steady rate of 2,500 units per hour.\n\nIf a patient is initially infected with 10,000 bacterial cells, calculate the difference between the total number of bacterial cells present after 8 hours and the total number of antibody units produced by the immune system during the *subsequent* 4 hours (i.e., from the 9th to the 12th hour of infection).\n\nState your answer to the nearest whole number.",
+      "options": [
+        "20,590",
+        "40,590",
+        "10,000",
+        "30,590"
+      ],
+      "correctAnswer": "20,590",
+      "explanation": "To solve this problem, we need to perform two main calculations and then find their difference:\n\n**Step 1: Calculate the bacterial cells after 8 hours.**\nThe initial bacterial population is 10,000 cells.\nThe population increases by 15% every hour, which means it multiplies by a factor of (1 + 0.15) = 1.15 each hour.\nAfter 8 hours, the total number of bacterial cells (B) will be:\nB = Initial cells × (Growth factor)^Number of hours\nB = 10,000 × (1.15)^8\nB = 10,000 × 3.059023...\nB = 30,590.23...\nTo the nearest whole number, B ≈ 30,590 bacterial cells.\n\n**Step 2: Calculate the antibody units produced in the subsequent 4 hours.**\nThe immune system begins producing antibodies after 8 hours, at a rate of 2,500 units per hour.\nThe subsequent 4 hours refer to the period from hour 9 to hour 12.\nTotal antibody units (A) produced in these 4 hours:\nA = Rate of antibody production × Number of hours\nA = 2,500 units/hour × 4 hours\nA = 10,000 antibody units.\n\n**Step 3: Calculate the difference.**\nDifference = Total bacterial cells after 8 hours - Total antibody units produced in the subsequent 4 hours\nDifference = 30,590 - 10,000\nDifference = 20,590.\n\nTherefore, the difference is 20,590.",
+      "hint": "Consider the two different rates of change involved: one for bacterial growth and another for antibody production. Remember to calculate each over the specified timeframes before finding the difference. Bacterial growth is exponential, while antibody production is a steady rate.",
+      "generatedAt": "2026-04-30T19:35:00.115388"
+    },
+    {
+      "id": "s-y10-infection_intermediate_008",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A town has a total population of 10,000 people. A new vaccine against a specific bacterial disease is made available. 80% of the population decides to get vaccinated. During a subsequent outbreak, 150 vaccinated people contracted the disease, while 800 unvaccinated people contracted it. \n\nCalculate the percentage effectiveness of the vaccine.",
+      "options": [
+        "A) 85.0%",
+        "B) 92.5%",
+        "C) 95.3%",
+        "D) 97.5%"
+      ],
+      "correctAnswer": "C) 95.3%",
+      "explanation": "1.  First, determine the number of vaccinated and unvaccinated people in the town.\n    *   Total population = 10,000\n    *   Vaccinated population = 80% of 10,000 = 0.80 × 10,000 = 8,000 people\n    *   Unvaccinated population = 10,000 - 8,000 = 2,000 people\n\n2.  Next, calculate the 'attack rate' (proportion of infected individuals) for both vaccinated and unvaccinated groups.\n    *   Attack rate (vaccinated) = (Number of vaccinated infected / Total vaccinated population) × 100\n        Attack rate (vaccinated) = (150 / 8,000) × 100 = 1.875%\n    *   Attack rate (unvaccinated) = (Number of unvaccinated infected / Total unvaccinated population) × 100\n        Attack rate (unvaccinated) = (800 / 2,000) × 100 = 40%\n\n3.  Finally, calculate the percentage effectiveness of the vaccine using the formula:\n    Vaccine Effectiveness = ((Attack rate unvaccinated - Attack rate vaccinated) / Attack rate unvaccinated) × 100\n    Vaccine Effectiveness = ((40% - 1.875%) / 40%) × 100\n    Vaccine Effectiveness = (38.125 / 40) × 100\n    Vaccine Effectiveness = 0.953125 × 100 = 95.3125%\n\n    Rounding to one decimal place, the vaccine effectiveness is 95.3%.",
+      "hint": "To calculate vaccine effectiveness, you need to compare the infection rate in the vaccinated group to the infection rate in the unvaccinated group. Start by determining the size of each population group.",
+      "generatedAt": "2026-04-30T19:35:13.986675"
+    },
+    {
+      "id": "s-y10-infection_intermediate_009",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A study observed a group of 300 individuals exposed to a new bacterial pathogen. Within 48 hours, 60% of these individuals developed symptoms. Of those who developed symptoms, 25% required antibiotic treatment. Calculate the number of individuals who developed symptoms but *did not* require antibiotic treatment.",
+      "options": [
+        "45 individuals",
+        "75 individuals",
+        "105 individuals",
+        "135 individuals"
+      ],
+      "correctAnswer": "135 individuals",
+      "explanation": "Step 1: Calculate the number of individuals who developed symptoms.\nNumber of symptomatic individuals = 60% of 300 = 0.60 × 300 = 180 individuals.\n\nStep 2: Calculate the number of symptomatic individuals who required antibiotic treatment.\nNumber requiring antibiotics = 25% of 180 = 0.25 × 180 = 45 individuals.\n\nStep 3: Calculate the number of individuals who developed symptoms but *did not* require antibiotic treatment.\nIndividuals who developed symptoms but did not require treatment = Total symptomatic individuals - Individuals requiring antibiotics\n= 180 individuals - 45 individuals = 135 individuals.",
+      "hint": "First, calculate the number of individuals who developed symptoms. Then, determine the percentage of *that specific group* who did not require treatment before performing the final subtraction.",
+      "generatedAt": "2026-04-30T19:35:27.460707"
+    },
+    {
+      "id": "s-y10-infection_intermediate_010",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A new influenza vaccine is offered to a year group of 250 students. To achieve full immunity against the virus, two doses are required. The first dose provides 60% protection, and the second dose, given 4 weeks later, boosts protection to 95%. \n\nOf the 250 students, 80% received the first dose. Of those who received the first dose, 75% returned for the second dose.\n\nCalculate the number of students in this year group who are *not fully protected* after both doses should have been administered.",
+      "options": [
+        "A. 50 students",
+        "B. 100 students",
+        "C. 150 students",
+        "D. 200 students"
+      ],
+      "correctAnswer": "B. 100 students",
+      "explanation": "1.  **Calculate the number of students who received the first dose:**\n    80% of 250 students = 0.80 × 250 = 200 students.\n\n2.  **Calculate the number of students who received the second dose:**\n    75% of the students who received the first dose (200 students) = 0.75 × 200 = 150 students.\n    These 150 students have received both doses and are considered *fully protected*.\n\n3.  **Determine the number of students who are *not fully protected*:**\n    This group includes students who received only the first dose, and students who received no doses.\n\n    *   **Students who received only the first dose:**\n        Students who received first dose - Students who received second dose = 200 - 150 = 50 students.\n        These students are not fully protected (they only have 60% protection).\n\n    *   **Students who received no doses:**\n        Total students - Students who received the first dose = 250 - 200 = 50 students.\n        These students are also not fully protected (0% protection).\n\n    *   **Total students not fully protected:**\n        Students with only one dose + Students with no doses = 50 + 50 = 100 students.\n\n    Alternatively, you can subtract the number of fully protected students from the total:\n    Total students - Students fully protected = 250 - 150 = 100 students.",
+      "hint": "First, calculate the number of students who received *both* doses. Then, consider how many students are left who are not fully protected based on the criteria that full immunity requires two doses.",
+      "generatedAt": "2026-04-30T19:35:44.634840"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y10-infection_advanced_001",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A new highly contagious viral disease, ViroX, has recently emerged, causing severe respiratory illness. Scientists rapidly develop a new vaccine. A clinical trial is conducted with 200 volunteers, randomly assigned to two groups: Group A receives the ViroX vaccine, and Group B receives a placebo (a harmless inert substance). Both groups consist of 100 participants each. Over a six-month period, the number of participants who contract ViroX is recorded. In Group A, 8 participants contracted ViroX. In Group B, 40 participants contracted ViroX.\n\nCalculate the percentage vaccine efficacy for the ViroX vaccine in preventing infection during this trial.",
+      "options": [
+        "A: 70%",
+        "B: 75%",
+        "C: 80%",
+        "D: 85%"
+      ],
+      "correctAnswer": "C: 80%",
+      "explanation": "To calculate the percentage vaccine efficacy, we first need to determine the incidence rate of ViroX in both the vaccinated and placebo groups.\n\n1.  **Calculate Incidence Rate in Vaccinated Group (Group A):**\n    *   Number of infected in Group A = 8\n    *   Total participants in Group A = 100\n    *   Incidence Rate (vaccinated) = (Number of infected / Total participants) = 8 / 100 = 0.08\n\n2.  **Calculate Incidence Rate in Placebo Group (Group B):**\n    *   Number of infected in Group B = 40\n    *   Total participants in Group B = 100\n    *   Incidence Rate (placebo) = (Number of infected / Total participants) = 40 / 100 = 0.40\n\n3.  **Apply the Vaccine Efficacy Formula:**\n    The general formula for vaccine efficacy is:\n    Vaccine Efficacy = ((Incidence Rate in Placebo Group - Incidence Rate in Vaccinated Group) / Incidence Rate in Placebo Group) * 100%\n\n    *   Vaccine Efficacy = ((0.40 - 0.08) / 0.40) * 100%\n    *   Vaccine Efficacy = (0.32 / 0.40) * 100%\n    *   Vaccine Efficacy = 0.8 * 100%\n    *   Vaccine Efficacy = 80%\n\nTherefore, the vaccine efficacy is 80%.",
+      "hint": "First, calculate the proportion of infected individuals (incidence rate) in both the vaccinated and placebo groups. Then, determine the percentage reduction in the incidence rate in the vaccinated group compared to the placebo group.",
+      "generatedAt": "2026-04-30T19:36:02.082864"
+    },
+    {
+      "id": "s-y10-infection_advanced_002",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Aureus Disease is a bacterial infection spread through respiratory droplets, causing severe lung damage. A highly effective vaccine has been developed to combat its spread. Public health officials aim to achieve herd immunity to protect vulnerable populations.\n\n**(a) State the specific type of immunity gained by an individual through vaccination.** (1 mark)\n\n**(b) In a town with a total population of 45,000, 72% of the residents have received the Aureus Disease vaccine. The estimated herd immunity threshold for Aureus Disease is 85%. Calculate the minimum number of additional people who need to be vaccinated to achieve herd immunity in this town, assuming no one has natural immunity from prior infection.** (4 marks)\n*Show your working clearly and include units.*\n\n**(c) Describe the cellular events that occur in a vaccinated individual's immune system when they are exposed to the Aureus Disease pathogen for the first time.** (3 marks)\n\n**(d) A new strain of Aureus Disease has emerged, possessing significantly altered surface antigens compared to the original strain against which the vaccine was developed. Explain why the existing vaccine may be less effective against this new strain and how an individual's primary immune response would then become critical.** (5 marks)",
+      "options": [],
+      "correctAnswer": {
+        "a": "Artificial active immunity.",
+        "b": "Step 1: Calculate the number of people needed for herd immunity.\n   Number needed = 85% of 45,000 = 0.85 × 45,000 = 38,250 people.\nStep 2: Calculate the number of people currently vaccinated.\n   Number currently vaccinated = 72% of 45,000 = 0.72 × 45,000 = 32,400 people.\nStep 3: Calculate the additional number required.\n   Additional people needed = 38,250 - 32,400 = 5,850 people.\n\nAnswer: 5,850 additional people.",
+        "c": "Upon exposure, memory lymphocytes (B cells and T cells), which were produced during vaccination, rapidly recognise the specific antigens of the Aureus Disease pathogen. These memory cells quickly proliferate and differentiate, leading to a much faster and stronger immune response than a primary response. Memory B cells rapidly differentiate into plasma cells, producing a high concentration of specific antibodies which bind to and destroy the pathogens, often before symptoms appear.",
+        "d": "The existing vaccine was developed to stimulate an immune response against the specific surface antigens of the original Aureus Disease strain. If the new strain has significantly altered antigens, the memory cells and antibodies generated by the vaccine may not recognise these new antigens effectively, or at all. This means the vaccinated individual's immune system would not be able to mount the rapid, strong secondary immune response it would normally.\n\nIn such a scenario, the individual's immune system would effectively be encountering the new strain as if it were a novel pathogen for the first time. It would have to initiate a primary immune response, which is inherently much slower and less effective initially. This involves the activation of naive B and T cells, clonal selection, and clonal expansion, taking several days or even weeks. During this critical period, the individual would be highly susceptible to developing severe symptoms of Aureus Disease, as the pathogen would have more time to multiply and cause damage before an effective immune response is mounted."
+      },
+      "explanation": "**(a) (1 mark)** Vaccination directly stimulates an individual's immune system to produce its own antibodies and memory cells against a specific pathogen, without causing the disease. This is an 'active' process (body makes its own immune components) and 'artificial' (induced by medical intervention, not natural infection).\n\n**(b) (4 marks)** This calculation involves finding the target number of vaccinated individuals for herd immunity, determining the current number, and then finding the difference. \n1. Calculate 85% of the total population (herd immunity threshold).\n2. Calculate 72% of the total population (currently vaccinated).\n3. Subtract the current vaccinated number from the target number to find the additional people needed. Ensure units ('people') are included in the final answer.\n\n**(c) (3 marks)** This question requires describing the *secondary* immune response, which is characteristic of a vaccinated individual's reaction to a pathogen. Key points include: \n1. Role of memory cells (B and T lymphocytes) from previous exposure (vaccination).\n2. Rapid proliferation and differentiation of these memory cells.\n3. Resulting faster, stronger, and more sustained production of specific antibodies (by plasma cells) and/or cytotoxic T cells, leading to quick pathogen elimination, often without symptoms.\n\n**(d) (5 marks)** This explanation requires linking understanding of antigen specificity with vaccine efficacy and the nature of primary vs. secondary immune responses.\n1. **Reduced vaccine effectiveness (2 marks):** Explain that vaccines train the immune system to recognise specific antigens. If the new strain's antigens are significantly altered (antigenic drift/shift), the existing memory cells and antibodies (which are highly specific to the *original* antigens) will no longer recognise or bind effectively to the *new* antigens. This renders the vaccine-induced immunity ineffective.\n2. **Primary immune response criticality (3 marks):** Since the vaccine's specific protection is compromised, the immune system will treat the new strain as if it's never encountered it before. This means it will initiate a *primary* immune response, which is slower to develop, less intense, and takes time for naive B and T cells to be activated, cloned, and differentiated. During this delay, the pathogen can multiply unchecked, leading to more severe disease and symptom development. The body relies on this slower, initial response to eventually clear the infection, but at a greater cost to the individual's health.",
+      "hint": "For part (b), remember that the herd immunity threshold represents a *proportion* of the total population, and you need to calculate the absolute numbers. For part (d), consider the highly specific nature of antibody-antigen binding and how this relates to immunological memory.",
+      "generatedAt": "2026-04-30T19:37:09.084639"
+    },
+    {
+      "id": "s-y10-infection_advanced_003",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A clinical trial investigated a new vaccine against *Cryptococcus mirabilis*, a fungal pathogen causing severe respiratory illness. In a population of 20,000 individuals, 10,000 received the vaccine, and 10,000 received a placebo. Over a six-month period, 18 vaccinated individuals contracted *C. mirabilis*, compared to 120 individuals in the placebo group. Public health authorities have determined that an 80% herd immunity threshold is required to protect vulnerable, immunocompromised members of the population. \n\nWhich of the following statements correctly calculates the minimum vaccination coverage needed to achieve this 80% herd immunity threshold and accurately explains the biological principle behind it?",
+      "options": [
+        "A. 85% coverage is needed because the vaccine is 85% effective, meaning 85% of vaccinated individuals will develop immunity, directly meeting the threshold.",
+        "B. 94.1% coverage is needed because the vaccine is 85% effective, requiring a higher proportion of the population to be vaccinated to ensure 80% *effective* immunity against pathogen transmission.",
+        "C. 80% coverage is sufficient because the herd immunity threshold is 80%, regardless of vaccine efficacy, as it directly reduces the number of susceptible individuals.",
+        "D. 76.5% coverage is sufficient because 80% of 85% effectiveness is approximately 76.5%, which ensures enough people will be immune to prevent widespread outbreaks."
+      ],
+      "correctAnswer": "B. 94.1% coverage is needed because the vaccine is 85% effective, requiring a higher proportion of the population to be vaccinated to ensure 80% *effective* immunity against pathogen transmission.",
+      "explanation": "To solve this, two main steps are required:\n\n**Step 1: Calculate the Vaccine Efficacy (VE).**\n*   **Attack Rate in unvaccinated (placebo) group (AR_u):** Number of infected / Total in group = 120 / 10,000 = 0.012\n*   **Attack Rate in vaccinated group (AR_v):** Number of infected / Total in group = 18 / 10,000 = 0.0018\n*   **Formula for Vaccine Efficacy:** VE = ((AR_u - AR_v) / AR_u) * 100\n*   VE = ((0.012 - 0.0018) / 0.012) * 100\n*   VE = (0.0102 / 0.012) * 100 = 0.85 * 100 = 85%\n\n**Step 2: Calculate the minimum vaccination coverage (P) needed for the 80% herd immunity threshold.**\n*   The herd immunity threshold requires 80% of the population to be *effectively* immune. Since the vaccine is not 100% effective, a higher percentage of the population must be vaccinated to achieve this level of *effective* immunity.\n*   Let P be the proportion of the population that needs to be vaccinated. The proportion of the population that becomes effectively immune through vaccination is P × VE (as a decimal).\n*   We need P × VE = Herd Immunity Threshold (as a decimal).\n*   P × 0.85 = 0.80\n*   P = 0.80 / 0.85\n*   P ≈ 0.941176...\n*   Converting to a percentage, P ≈ 94.1%\n\n**Biological Principle Explanation:** Herd immunity protects vulnerable individuals by reducing the overall prevalence of the pathogen. When a high enough proportion of the population is immune (either through vaccination or prior infection), the chain of transmission is disrupted, making it much harder for the pathogen to spread and reach susceptible individuals who cannot be vaccinated (e.g., immunocompromised people, infants). If a vaccine is not 100% effective, a larger proportion of the population must receive the vaccine to ensure that the *total number of effectively immune individuals* reaches the necessary threshold to break the transmission chain. Option B correctly identifies both the calculated coverage and provides an accurate biological explanation for why a higher coverage is needed when vaccine efficacy is less than 100%.",
+      "hint": "First, calculate the vaccine efficacy using the attack rates in the vaccinated and placebo groups. Then, use this efficacy value along with the target herd immunity threshold to determine the required vaccination coverage, remembering that not all vaccinated individuals will develop immunity.",
+      "generatedAt": "2026-04-30T19:37:32.882560"
+    },
+    {
+      "id": "s-y10-infection_advanced_004",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Zelov's Syndrome is a viral infection common in isolated communities. Researchers are studying the specific immune response in two groups:\n*   **Group A:** Individuals who recovered from a natural Zelov's Syndrome infection.\n*   **Group B:** Individuals who received a newly developed Zelov's Syndrome vaccine.\n\nThe table below shows the average concentration of specific antibodies in the blood of both groups over 24 months.\n\n| Month | Group A (Natural Infection) - Antibody Conc. (AU) | Group B (Vaccinated) - Antibody Conc. (AU) |\n| :---- | :------------------------------------------------ | :----------------------------------------- |\n| 0     | 0                                                 | 0                                          |\n| 1     | 20                                                | 80                                         |\n| 3     | 180                                               | 120                                        |\n| 6     | 250                                               | 70                                         |\n| 9     | 200                                               | 40                                         |\n| 12    | 150                                               | 25                                         |\n| 18    | 100                                               | 15                                         |\n| 24    | 70                                                | 10                                         |\n\nThe 'protection threshold' against Zelov's Syndrome is considered to be an antibody concentration of 50 AU.\n\n1.  **Describe** two significant differences in the antibody response observed between Group A and Group B, based on the data provided. (2 marks)\n2.  **Explain** why the immune system response in Group A (natural infection) typically leads to a higher peak antibody concentration and more sustained immunity compared to the initial response from the vaccine in Group B. (4 marks)\n3.  The Zelov's Syndrome virus is known to undergo frequent mutations, particularly in its surface proteins. **Explain** how this characteristic might pose a challenge for maintaining long-term protection from the current vaccine. (3 marks)\n4.  **Calculate** the percentage of time, to one decimal place, that Group B individuals (vaccinated) are protected from Zelov's Syndrome during the first 12 months after vaccination, according to the protection threshold. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Description of differences (2 marks):**\n    *   Group A's antibody concentration rises more slowly initially (20 AU at 1 month) but reaches a significantly higher peak (250 AU at 6 months) compared to Group B, which rises faster (80 AU at 1 month) but reaches a lower peak (120 AU at 3 months).\n    *   Group A maintains antibody levels above the protection threshold (50 AU) for a much longer duration (at least 24 months based on data) than Group B, which drops below the threshold between 6 and 9 months.\n\n2.  **Explanation of natural vs. vaccine response (4 marks):**\n    *   Natural infection (Group A) involves the pathogen actively replicating within the host, leading to a much larger and more prolonged exposure to a wider range of viral antigens. **(Cause)**\n    *   This extensive and varied antigenic stimulation fully activates a greater number and diversity of B lymphocytes and T lymphocytes, resulting in a more robust and widespread antibody production. **(Effect)**\n    *   Furthermore, the body generates a larger population of long-lived plasma cells and memory cells during a natural infection. **(Cause)**\n    *   **So**, these memory cells are better equipped to produce higher and more sustained levels of antibodies over a longer duration, providing more durable immunity. **(Effect)**\n\n3.  **Explanation of viral mutation challenge (3 marks):**\n    *   Viruses that undergo frequent mutations can change the structure of their surface proteins (antigens) over time. **(Cause)**\n    *   The current vaccine is designed to elicit an immune response, including antibody production, specifically against the antigens present in its formulation. **(Cause)**\n    *   If the virus mutates significantly, its 'new' surface proteins may no longer be effectively recognised by the antibodies and memory cells produced by the existing vaccine. **(Effect)**\n    *   **Therefore**, these mutated viral strains can evade the immune response generated by the vaccine, potentially leading to a loss of protection even in vaccinated individuals. **(Effect)**\n\n4.  **Calculation of protection time for Group B (3 marks):**\n    *   **Step 1: Identify when antibody concentration falls to the protection threshold.**\n        *   At Month 6, Group B's antibody concentration is 70 AU (above 50 AU).\n        *   At Month 9, Group B's antibody concentration is 40 AU (below 50 AU).\n        *   The antibody concentration falls below 50 AU between Month 6 and Month 9.\n    *   **Step 2: Calculate the exact time point (t) when concentration reaches 50 AU using linear interpolation.**\n        *   Between Month 6 and Month 9 (a 3-month period), the antibody concentration drops from 70 AU to 40 AU, a decrease of 30 AU.\n        *   Rate of decay = (40 AU - 70 AU) / (9 months - 6 months) = -30 AU / 3 months = -10 AU/month.\n        *   To drop from 70 AU to 50 AU (a decrease of 20 AU), the time taken is: 20 AU / (10 AU/month) = 2 months.\n        *   So, protection lasts for 6 months + 2 months = 8 months.\n    *   **Step 3: Calculate the percentage of time protected during the first 12 months.**\n        *   Protected duration = 8 months.\n        *   Total period = 12 months.\n        *   Percentage protected = (Protected duration / Total period) × 100\n        *   Percentage protected = (8 months / 12 months) × 100 = 0.6666... × 100 = 66.666...%\n        *   **Answer to one decimal place = 66.7%**",
+      "explanation": "The full model answer provides step-by-step working and reasoning for each part of the question. For the calculation, linear interpolation is used to determine the exact time when antibody levels drop below the threshold, and then this duration is used to calculate the percentage of time protected.",
+      "hint": "For the calculation, consider how to determine the precise time point at which the antibody concentration in Group B drops to the 'protection threshold' of 50 AU between the given data points. You may need to interpolate between values.",
+      "generatedAt": "2026-04-30T19:38:00.654195"
+    },
+    {
+      "id": "s-y10-infection_advanced_005",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly identified bacterial strain, 'Strain Z', is responsible for a widespread respiratory illness. Investigations reveal that Strain Z possesses two key features that challenge the human immune system:\n1. It secretes a thick polysaccharide capsule, which surrounds the bacterial cell.\n2. It undergoes rapid genetic mutation, frequently altering the structure of its surface proteins.\n\nAn existing vaccine provides some protection against an older, less virulent strain of the same bacterial species but is found to be largely ineffective against Strain Z. Public health officials are urging the development of a new vaccine.\n\n1. Explain fully how the two specific features of Strain Z (the polysaccharide capsule and rapidly altering surface proteins) enable it to evade the primary human immune response. (4 marks)\n\n2. Describe how a new vaccine, designed to target the polysaccharide capsule of Strain Z, would stimulate specific immunity and protect an individual from future infection. (3 marks)\n\n3. In a town with a population of 18,500 people, an outbreak of Strain Z occurred. Initially, 65% of the population had received the older, ineffective vaccine. Public health efforts have since ensured that 40% of the *unvaccinated* individuals have now received a *new, effective* vaccine (which targets the capsule).\nCalculate the total number of individuals in the town who are now protected by the new, effective vaccine. Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "1. The polysaccharide capsule resists phagocytosis / engulfment by phagocytes (such as macrophages or neutrophils) (1 mark) because it makes the bacterium difficult for these cells to recognise or attach to. (1 mark)\nRapidly altering surface proteins mean that antibodies produced from previous exposure or existing vaccines will no longer recognise the pathogen (1 mark) because the antigens' shape has changed, preventing effective binding and marking for destruction. (1 mark)\n\n2. The new vaccine would introduce a harmless form of the polysaccharide capsule (e.g., weakened or inactive material) into the body. (1 mark) This stimulates specific lymphocytes (B-lymphocytes) to produce antibodies that recognise and bind to the capsule. (1 mark) The body also produces memory cells, which provide a rapid and stronger immune response upon future exposure to live Strain Z, preventing the disease. (1 mark)\n\n3. Step 1: Calculate the number of individuals who received the older vaccine.\n18,500 people * 0.65 = 12,025 individuals (received older vaccine)\n\nStep 2: Calculate the number of initially unvaccinated individuals.\n18,500 - 12,025 = 6,475 individuals (unvaccinated)\n\nStep 3: Calculate 40% of these unvaccinated individuals who received the new, effective vaccine.\n6,475 individuals * 0.40 = 2,590 individuals\n\nFinal Answer: 2,590 individuals are now protected by the new, effective vaccine.",
+      "explanation": "This is an open-ended question with three parts.\n\n**Part 1 (Explanation of Immune Evasion):**\n- **Capsule (2 marks):** One mark for stating the capsule resists phagocytosis / engulfment by phagocytes. One mark for explaining *why* (e.g., prevents recognition/attachment).\n- **Altering surface proteins (2 marks):** One mark for stating that antibodies won't recognise the new proteins. One mark for explaining *why* (e.g., antigen shape change, preventing binding).\n\n**Part 2 (Description of Vaccination):**\n- **Introduction of antigen (1 mark):** State that the vaccine introduces a harmless form of the capsule/antigen.\n- **Specific immune response (1 mark):** Explain that this stimulates specific lymphocytes (B-cells) to produce antibodies.\n- **Long-term immunity (1 mark):** Describe the formation of memory cells for a faster/stronger future response.\n\n**Part 3 (Calculation):**\n- **Step 1 (1 mark):** Correctly calculate the number of individuals with the *older* vaccine (18,500 * 0.65 = 12,025).\n- **Step 2 (1 mark):** Correctly calculate the number of *initially unvaccinated* individuals (18,500 - 12,025 = 6,475).\n- **Step 3 (1 mark):** Correctly calculate 40% of these unvaccinated individuals (6,475 * 0.40 = 2,590).\n- **Step 4 (1 mark):** State the final answer with correct units (2,590 individuals).\n\nTotal marks = 4 + 3 + 4 = 11 marks.",
+      "hint": "For question 1, consider how each feature directly interferes with the actions of phagocytes and the specificity of antibodies. For question 2, remember the role of specific white blood cells and memory in vaccine-induced immunity. For question 3, calculate the number of unvaccinated individuals first, then apply the new vaccination percentage to *that* group.",
+      "generatedAt": "2026-04-30T19:38:23.836661"
+    },
+    {
+      "id": "s-y10-infection_advanced_006",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A public health study investigated the immune responses of individuals to bacterial infections. Researchers monitored the antibody levels in two individuals, Subject A and Subject B, following their exposure to a specific strain of *Streptococcus pneumoniae* (a common bacterium causing pneumonia).\n\nSubject A had no prior exposure to *S. pneumoniae* or vaccination against it. Subject B had received a booster vaccination against the same strain of *S. pneumoniae* six months earlier.\n\nAfter exposure to *S. pneumoniae*:\n- Subject A's antibody levels remained low for the first 5 days, then slowly increased, reaching a peak concentration of 40 arbitrary units (AU) on day 15.\n- Subject B's antibody levels began to rise rapidly within 2 days, reaching a peak concentration of 600 AU on day 8.\n\n**(a) Describe** the initial non-specific immune response involving phagocytes when *Streptococcus pneumoniae* first enters the body. (3 marks)\n\n**(b) Explain** the significant differences observed in the *rate* and *magnitude* of antibody production between Subject A and Subject B following exposure to *Streptococcus pneumoniae*. (4 marks)\n\n**(c) State** the specific type of white blood cell responsible for the production of antibodies. (1 mark)\n\n**(d) Calculate** the factor by which Subject B's peak antibody concentration was higher than Subject A's peak antibody concentration. Show your working. (2 marks)",
+      "options": [],
+      "correctAnswer": {
+        "(a)": "Phagocytes, such as macrophages or neutrophils, are a type of white blood cell involved in the non-specific immune response. When *Streptococcus pneumoniae* enters the body, phagocytes recognise these pathogens as foreign. They then engulf the bacteria through a process called phagocytosis, internalising them within a vesicle called a phagosome. Lysosomes containing powerful digestive enzymes then fuse with the phagosome, breaking down and destroying the bacteria, thereby neutralising the threat and preventing further infection.",
+        "(b)": "Subject B demonstrated a much faster *rate* of antibody production (rising within 2 days) and a significantly higher *magnitude* of peak antibody concentration (600 AU) compared to Subject A (5 days to rise, peak 40 AU). This difference occurs because Subject B had been previously vaccinated against *Streptococcus pneumoniae*. This prior exposure led to the formation of specific memory cells (B-lymphocytes and T-lymphocytes) within Subject B's immune system. Upon subsequent re-exposure to the pathogen, these memory cells rapidly recognise the antigens and quickly differentiate into plasma cells, which are able to produce a large quantity of specific antibodies at a much faster rate than during a primary response.",
+        "(c)": "B-lymphocytes (or plasma cells).",
+        "(d)": "Formula: Factor = (Peak antibody concentration of Subject B) / (Peak antibody concentration of Subject A)\nSubstitution: Factor = 600 AU / 40 AU\nAnswer: Factor = 15\nSubject B's peak antibody concentration was 15 times higher than Subject A's."
+      },
+      "explanation": "**(a)** This part assesses the understanding of the non-specific immune response, specifically the role and mechanism of phagocytes in dealing with pathogens.\n\n**(b)** This question requires a detailed explanation of the difference between primary and secondary immune responses. The core concept is the role of memory cells, which are generated during initial exposure (either natural infection or vaccination) and lead to a faster and more potent (higher magnitude) antibody response upon subsequent exposure.\n\n**(c)** This tests the knowledge of specific cell types involved in the humoral immune response.\n\n**(d)** This is a calculation question requiring students to extract numerical data from the text and perform a simple ratio calculation. It assesses data interpretation and basic mathematical skills.",
+      "hint": "For part (b), consider how previous exposure or vaccination prepares the immune system for a quicker and stronger response. Think about the specific cells involved. For part (d), remember to divide the larger peak concentration by the smaller one to find the factor.",
+      "generatedAt": "2026-04-30T19:39:09.007558"
+    },
+    {
+      "id": "s-y10-infection_advanced_007",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Scientists have identified a novel bacterial pathogen, *Bacterion infernum*, responsible for a severe communicable disease in cattle herds. Investigations reveal that *B. infernum* rapidly multiplies within the host and produces potent exotoxins. Cattle that recover from the infection are found to be immune to subsequent re-exposure. A vaccine is currently under development to control its spread.\n\n**Part A:**\n1.  **State** the classification of pathogen that *Bacterion infernum* is. (1 mark)\n2.  **Describe** how the rapid multiplication rate and production of exotoxins by *Bacterion infernum* contribute to the severity of the disease in infected cattle. (3 marks)\n\n**Part B:**\n**Explain** the specific roles of two different types of white blood cells in developing long-term immunity in a cattle that has recovered from an infection with *Bacterion infernum*. (4 marks)\n\n**Part C:**\nA trial was conducted to assess the efficacy of a new vaccine against *Bacterion infernum*.\n*   Group X: 250 cattle were vaccinated. 15 of these cattle subsequently developed the disease.\n*   Group Y: 250 cattle were not vaccinated (control group). 90 of these cattle subsequently developed the disease.\n\n1.  **Calculate** the percentage vaccine efficacy for *Bacterion infernum*. Show your working. (3 marks)\n2.  **Explain** why achieving a high vaccine efficacy in a significant proportion of the cattle population is crucial for preventing widespread outbreaks, even for cattle that are not vaccinated. (4 marks)",
+      "options": [],
+      "correctAnswer": "## Model Answer\n\n**Part A:**\n1.  **State** the classification of pathogen that *Bacterion infernum* is. (1 mark)\n    *   Bacteria / Bacterial (1)\n\n2.  **Describe** how the rapid multiplication rate and production of exotoxins by *Bacterion infernum* contribute to the severity of the disease in infected cattle. (3 marks)\n    *   Rapid multiplication means the bacteria quickly increase in number (1), overwhelming the host's immune system / causing widespread infection rapidly (1).\n    *   Exotoxins are poisonous substances released by the bacteria (1), which directly damage host cells/tissues or disrupt normal physiological processes (1), leading to severe symptoms.\n\n**Part B:**\n**Explain** the specific roles of two different types of white blood cells in developing long-term immunity in a cattle that has recovered from an infection with *Bacterion infernum*. (4 marks)\n*   **B-lymphocytes (B cells)**: When exposed to the pathogen's antigens, specific B-cells are activated and rapidly divide (1) to produce plasma cells that secrete antibodies (1). These antibodies bind to and destroy pathogens. Some B-cells differentiate into memory B-cells, which remain in the body and allow for a rapid and stronger antibody response upon subsequent exposure (1), leading to long-term immunity.\n*   **T-lymphocytes (T cells)**: There are different types of T-cells. Helper T-cells stimulate B-cells and Killer T-cells (cytotoxic T-cells). Killer T-cells identify and destroy host cells that have been infected by the pathogen (1). Similar to B-cells, some T-cells differentiate into memory T-cells (1) that persist in the body, ensuring a faster and more effective cellular response if the same pathogen is encountered again (1), conferring long-term immunity.\n\n**Part C:**\n1.  **Calculate** the percentage vaccine efficacy for *Bacterion infernum*. Show your working. (3 marks)\n    *   Incidence in vaccinated group (IV) = 15/250 = 0.06 (1)\n    *   Incidence in unvaccinated group (IU) = 90/250 = 0.36 (1)\n    *   Vaccine Efficacy = ((IU - IV) / IU) * 100\n    *   Vaccine Efficacy = ((0.36 - 0.06) / 0.36) * 100\n    *   Vaccine Efficacy = (0.30 / 0.36) * 100\n    *   Vaccine Efficacy = 83.33% (1)\n\n2.  **Explain** why achieving a high vaccine efficacy in a significant proportion of the cattle population is crucial for preventing widespread outbreaks, even for cattle that are not vaccinated. (4 marks)\n    *   High vaccine efficacy means that a large percentage of vaccinated cattle will develop immunity (1) and be protected from the disease. \n    *   When a significant proportion of the population is immune (known as herd immunity) (1), the pathogen struggles to find susceptible hosts to infect and transmit to (1).\n    *   This reduces the overall spread of the pathogen within the herd, protecting individuals who are not vaccinated or those for whom the vaccine was not effective (1), thus preventing widespread outbreaks.",
+      "explanation": "The model answer demonstrates a comprehensive understanding across several key areas of 'Infection & Response'. Part A assesses knowledge of pathogen classification and how specific pathogen characteristics (rapid multiplication, exotoxin production) directly lead to disease severity. Part B requires a detailed explanation of the adaptive immune response, specifically involving B-lymphocytes and T-lymphocytes, and their role in memory cell formation for long-term immunity. Part C.1 demands a calculation of vaccine efficacy using provided data, requiring correct application of the formula and units. Part C.2 integrates the concepts of vaccine efficacy with herd immunity, requiring an explanation of how high vaccine coverage protects even unvaccinated individuals by breaking the chain of transmission.",
+      "hint": "Recall the distinct roles of specific white blood cells (lymphocytes) in generating adaptive immune responses and forming memory. For vaccine efficacy, remember the formula: ((Incidence in Unvaccinated - Incidence in Vaccinated) / Incidence in Unvaccinated) * 100.",
+      "generatedAt": "2026-04-30T19:39:27.345028"
+    },
+    {
+      "id": "s-y10-infection_advanced_008",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A novel respiratory pathogen, 'Virex-24', has emerged. It is a highly contagious virus that targets lung cells and has been observed to have an unusually high rate of mutation, particularly in its surface proteins. Symptoms range from mild respiratory discomfort to severe pneumonia.\n\na) State one characteristic feature of a virus that classifies it as a pathogen. (1 mark)\n\nb) Explain how the high mutation rate of Virex-24's surface proteins could allow it to evade the human immune system, even in individuals who have previously recovered from infection. (3 marks)\n\nc) A new Virex-24 vaccine is developed with a tested efficacy of 85% against severe disease. In a city with a population of 1.2 million, 70% of the population receives two doses of the vaccine.\nCalculate the number of vaccinated individuals in this city who would still be expected to develop severe disease if exposed to Virex-24. Show your working. (3 marks)\n\nd) Describe two public health measures, other than vaccination, that could be implemented by local authorities to reduce the transmission rate of Virex-24 within the community. (2 marks)\n\ne) Explain how the adaptive immune system would generate a specific long-term immunity to Virex-24 following a natural infection. Your answer should mention the role of two specific cell types. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Requires a host cell to replicate / Cannot reproduce independently / Non-living outside of host cells / Consists of genetic material (DNA or RNA) enclosed in a protein coat. (1 mark for any one)\n\nb) The high mutation rate causes the surface proteins (antigens) of Virex-24 to change significantly (1 mark). So, the antibodies and memory cells produced during a previous infection or vaccination may no longer recognise these new, altered surface proteins (1 mark). This means the immune system cannot mount a rapid and effective secondary response, allowing the virus to infect and cause disease again (1 mark).\n\nc) Number of vaccinated individuals = Total population × Vaccination rate\n= 1,200,000 × 0.70 (1 mark for formula/substitution)\n= 840,000 individuals\nNumber expected to develop severe disease = Number of vaccinated individuals × (1 - Vaccine efficacy)\n= 840,000 × (1 - 0.85) (1 mark for substitution into next step)\n= 840,000 × 0.15\n= 126,000 individuals (1 mark for correct answer with units)\n\nd) (Any two for 2 marks, 1 mark for each description):\n1. Isolation/Quarantine: Infected individuals or close contacts are separated to prevent further spread.\n2. Social Distancing: Maintaining physical distance between people to reduce close contact transmission.\n3. Mask-wearing: Covering mouth and nose to reduce airborne droplet transmission.\n4. Hand hygiene: Regular hand washing/sanitising to remove viral particles.\n5. Improved ventilation: Increasing airflow in indoor spaces to disperse viral particles.\n\ne) When Virex-24 enters the body, its specific antigens are recognised by B-lymphocytes and T-lymphocytes (1 mark). B-lymphocytes (with the help of T-helper cells) undergo clonal selection and differentiate into plasma cells, which produce specific antibodies to target Virex-24, and memory B-cells (1 mark). T-lymphocytes differentiate into various types, including cytotoxic T-cells that directly destroy infected host cells, and memory T-cells (1 mark). These memory B-cells and memory T-cells persist in the body for a long time, so upon subsequent exposure to Virex-24, they can rapidly recognise the pathogen and mount a much faster and stronger immune response, conferring long-term immunity (1 mark).",
+      "explanation": "The full step-by-step working and reasoning for each part of the question are provided in the 'correctAnswer' field.",
+      "hint": "For part (c), calculate the number of vaccinated individuals first, then apply the inverse of the vaccine efficacy (1 - efficacy) to determine the proportion of vaccinated individuals still expected to develop severe disease.",
+      "generatedAt": "2026-04-30T19:39:50.123064"
+    },
+    {
+      "id": "s-y10-infection_advanced_009",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "Evershield, a town with 25,000 residents, has a long-standing vaccination program against the viral disease Virox-A. The original vaccine provides 90% effective immunity. Public health targets for herd immunity against Virox-A are based on achieving 80% effective immunity in the population. Currently, 70% of Evershield's population is vaccinated.\n\nA new variant, Virox-B, has recently emerged. Studies indicate the existing vaccine's efficacy against Virox-B is only 50%.\n\nConsidering the current vaccination rate, what percentage of Evershield's entire population would possess effective immunity against the new Virox-B variant solely due to vaccination?",
+      "options": [
+        "A. 35%",
+        "B. 50%",
+        "C. 60%",
+        "D. 70%"
+      ],
+      "correctAnswer": "A. 35%",
+      "explanation": "1. Identify the proportion of the population currently vaccinated: 70%, which can be written as 0.70.\n2. Identify the efficacy of the existing vaccine against the new Virox-B variant: 50%, which can be written as 0.50.\n3. To calculate the percentage of the *entire population* that would possess effective immunity against Virox-B *due to vaccination*, multiply these two proportions:\n   Proportion of population with effective immunity = (Proportion vaccinated) × (Vaccine efficacy against Virox-B)\n   Proportion of population with effective immunity = 0.70 × 0.50 = 0.35.\n4. Convert this decimal to a percentage: 0.35 × 100 = 35%.\nTherefore, 35% of Evershield's entire population would possess effective immunity against the new Virox-B variant solely due to vaccination. The other information (total population, original vaccine efficacy, original herd immunity target) is not directly required for this specific calculation.",
+      "hint": "You need to consider two key proportions: the proportion of the population that is vaccinated, and the reduced efficacy of the vaccine against the new variant. Multiply these two proportions to find the percentage of the *total* population with vaccine-derived immunity to the new variant.",
+      "generatedAt": "2026-04-30T19:40:06.150715"
+    },
+    {
+      "id": "s-y10-infection_advanced_010",
+      "topicId": "s-y10-infection",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A large commercial poultry farm, housing 25,000 chickens, is experiencing an outbreak of 'Avianibacterium farmensis', a newly identified bacterial pathogen. This pathogen causes severe respiratory illness and can be highly contagious within the flock. Veterinary health experts have developed a vaccine for Avianibacterium farmensis. Studies show that the vaccine effectively stimulates an immune response in 95% of vaccinated chickens, providing robust immunity for approximately 180 days. The disease has a basic reproductive number (R0) of 5.\n\na) Describe how the vaccine for Avianibacterium farmensis provides immunity in a chicken, preventing future infection by the pathogen. (3 marks)\n\nb) Explain why some individual vaccinated chickens might still contract Avianibacterium farmensis, even if they have received the vaccine. (3 marks)\n\nc) Calculate the minimum percentage of the chicken flock that needs to be effectively immune to Avianibacterium farmensis to achieve herd immunity. Show your working. (3 marks)\n\nd) State the specific type of white blood cell primarily responsible for engulfing and destroying bacterial pathogens through phagocytosis. (1 mark)",
+      "options": [],
+      "correctAnswer": "a) Describe how the vaccine for Avianibacterium farmensis provides immunity in a chicken, preventing future infection by the pathogen. (3 marks)\n\n*   The vaccine contains attenuated (weakened), dead, or inactive forms of the Avianibacterium farmensis pathogen, or its specific antigens. (1 mark)\n*   Upon vaccination, these antigens stimulate the chicken's immune system, specifically lymphocytes, to produce antibodies. (1 mark)\n*   The immune system also produces memory cells, which can rapidly produce a large number of antibodies upon subsequent exposure to the live pathogen, preventing illness. (1 mark)\n\nb) Explain why some individual vaccinated chickens might still contract Avianibacterium farmensis, even if they have received the vaccine. (3 marks)\n\n*   The vaccine has an efficacy of 95%, meaning that 5% of vaccinated chickens will not develop an effective immune response (1 mark).\n*   These individuals, despite being vaccinated, therefore remain susceptible to infection by the pathogen (1 mark).\n*   This lack of effective response can be due to individual variations in their immune system that prevent them from mounting a sufficient protective response to the vaccine. (1 mark)\n\nc) Calculate the minimum percentage of the chicken flock that needs to be effectively immune to Avianibacterium farmensis to achieve herd immunity. Show your working. (3 marks)\n\n*   Formula: Herd Immunity Threshold (HIT) = 1 - (1 / R0) (1 mark)\n*   Substitution: HIT = 1 - (1 / 5) (1 mark)\n*   Calculation: HIT = 1 - 0.2 = 0.8\n*   Answer: The minimum percentage is 80%. (1 mark for correct answer with unit)\n\nd) State the specific type of white blood cell primarily responsible for engulfing and destroying bacterial pathogens through phagocytosis. (1 mark)\n\n*   Phagocyte (or Macrophage / Neutrophil) (1 mark)",
+      "explanation": "This question assesses the student's understanding of key concepts in 'Infection & Response'. Part (a) requires a description of vaccine mechanisms, including antigen recognition, antibody production, and memory cell formation. Part (b) tests the understanding of vaccine efficacy and why individual variations can lead to vaccine failure, linking it to susceptibility. Part (c) involves a calculation of the herd immunity threshold using the provided R0 value, requiring the correct formula, substitution, and final answer with units. Part (d) checks the student's knowledge of specific immune cells involved in non-specific immunity.",
+      "hint": "For describing vaccine action, consider what a vaccine introduces into the body and how the immune system responds to prepare for future infection. Remember that vaccine efficacy is rarely 100%. For the calculation, recall the formula that links the basic reproductive number (R0) to the herd immunity threshold.",
+      "generatedAt": "2026-04-30T19:40:28.761955"
+    }
+  ]
+}

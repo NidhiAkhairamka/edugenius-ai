@@ -1,0 +1,503 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y6-fractions_beginner_001",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Calculate the sum of 0.6 and 0.35.",
+      "options": [
+        "0.9",
+        "0.95",
+        "1.05",
+        "0.635"
+      ],
+      "correctAnswer": "0.95",
+      "explanation": "To add decimals, it is important to line up the decimal points. You can think of 0.6 as 0.60. \n\n  0.60\n+ 0.35\n-------\n  0.95\n\nSo, 0.6 + 0.35 = 0.95.",
+      "hint": "Remember to line up the decimal points before adding, especially when the numbers have different numbers of decimal places.",
+      "generatedAt": "2026-04-29T16:53:54.425158"
+    },
+    {
+      "id": "m-y6-fractions_beginner_002",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "What is the value of 1/4 + 0.3?",
+      "options": [
+        "0.34",
+        "0.55",
+        "0.7",
+        "1.3"
+      ],
+      "correctAnswer": "0.55",
+      "explanation": "To solve 1/4 + 0.3, first convert the fraction 1/4 into a decimal. \nWe know that 1/4 is equivalent to 0.25.\nNow, add the two decimal numbers: 0.25 + 0.3.\nLine up the decimal points and add:\n  0.25\n+ 0.30\n------\n  0.55\nTherefore, 1/4 + 0.3 = 0.55.",
+      "hint": "It is usually easiest to convert fractions to decimals (or decimals to fractions) when adding or subtracting them together. Think about what 1/4 is as a decimal.",
+      "generatedAt": "2026-04-29T16:54:04.831091"
+    },
+    {
+      "id": "m-y6-fractions_beginner_003",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which of the following calculations results in a value equivalent to three-quarters?",
+      "options": [
+        "A) 0.8 - 0.1",
+        "B) 1/2 + 0.25",
+        "C) 1 - 1/5",
+        "D) 0.3 + 0.4"
+      ],
+      "correctAnswer": "B) 1/2 + 0.25",
+      "explanation": "First, let's understand what 'three-quarters' means. Three-quarters can be written as the fraction 3/4. To compare it with decimals, we convert 3/4 to a decimal: 3 ÷ 4 = 0.75.\nNow, let's evaluate each option:\n\nA) 0.8 - 0.1 = 0.7. This is not equal to 0.75.\n\nB) We need to add 1/2 and 0.25. It's easiest to work with both numbers in the same format. Let's convert 1/2 to a decimal: 1 ÷ 2 = 0.5. Now, add the decimals: 0.5 + 0.25 = 0.75. This is equal to three-quarters.\n\nC) We need to subtract 1/5 from 1. Let's convert 1/5 to a decimal: 1 ÷ 5 = 0.2. Now, subtract: 1 - 0.2 = 0.8. This is not equal to 0.75.\n\nD) 0.3 + 0.4 = 0.7. This is not equal to 0.75.\n\nTherefore, the calculation that results in a value equivalent to three-quarters is option B.",
+      "hint": "Convert 'three-quarters' into its decimal form first. Then, for each option, change any fractions into decimals before you do the calculation, so you can easily compare them.",
+      "generatedAt": "2026-04-29T16:54:22.598102"
+    },
+    {
+      "id": "m-y6-fractions_beginner_004",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A baker has 0.75 kg of sugar. He uses 1/2 kg of sugar for a cake. How much sugar does he have left?",
+      "options": [
+        "0.25 kg",
+        "0.2 kg",
+        "0.5 kg",
+        "1.25 kg"
+      ],
+      "correctAnswer": "0.25 kg",
+      "explanation": "To find out how much sugar is left, we need to subtract the amount used from the initial amount. \nFirst, convert the fraction 1/2 kg into a decimal. 1/2 is equivalent to 0.5. So, the baker uses 0.5 kg of sugar.\nNow, subtract this from the initial amount: 0.75 kg - 0.5 kg = 0.25 kg.\nTherefore, the baker has 0.25 kg of sugar left.",
+      "hint": "To subtract quantities given in different forms (decimal and fraction), first convert them so they are both in the same form (e.g., both decimals or both fractions).",
+      "generatedAt": "2026-04-29T16:54:34.670903"
+    },
+    {
+      "id": "m-y6-fractions_beginner_005",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A pizza is divided into 10 equal slices. Jamie eats 3 of these slices. His friend, Lucy, then eats 0.4 of the whole pizza. What fraction of the pizza did they eat in total?",
+      "options": [
+        "A. 3/10",
+        "B. 1/2",
+        "C. 7/10",
+        "D. 9/10"
+      ],
+      "correctAnswer": "C. 7/10",
+      "explanation": "1. Jamie eats 3 slices out of 10, which can be written as the fraction 3/10.\n2. Lucy eats 0.4 of the whole pizza. The decimal 0.4 is equivalent to the fraction 4/10.\n3. To find the total amount they ate, add their portions: 3/10 + 4/10.\n4. When adding fractions with the same denominator, add the numerators and keep the denominator the same: (3 + 4) / 10 = 7/10.\n5. Therefore, they ate 7/10 of the pizza in total.",
+      "hint": "First, express both Jamie's and Lucy's portions as fractions with a denominator of 10. Then, add these fractions together.",
+      "generatedAt": "2026-04-29T16:54:55.545100"
+    },
+    {
+      "id": "m-y6-fractions_beginner_006",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which of the following numbers is between 0.7 and 4/5?",
+      "options": [
+        "A) 0.6",
+        "B) 0.85",
+        "C) 3/4",
+        "D) 0.9"
+      ],
+      "correctAnswer": "C) 3/4",
+      "explanation": "1. First, convert the fraction 4/5 into a decimal to make it easier to compare. To convert a fraction to a decimal, divide the numerator by the denominator: 4 ÷ 5 = 0.8.\n2. Now the question is asking for a number that is greater than 0.7 and less than 0.8.\n3. Let's check each option:\n   *   A) 0.6 is smaller than 0.7, so it is not between 0.7 and 0.8.\n   *   B) 0.85 is larger than 0.8, so it is not between 0.7 and 0.8.\n   *   C) 3/4. Convert this fraction to a decimal: 3 ÷ 4 = 0.75. This number is indeed between 0.7 and 0.8 (since 0.7 < 0.75 < 0.8).\n   *   D) 0.9 is larger than 0.8, so it is not between 0.7 and 0.8.\n4. Therefore, the correct answer is 3/4.",
+      "hint": "To easily compare fractions and decimals, convert all numbers into the same format, usually decimals.",
+      "generatedAt": "2026-04-29T16:55:06.672287"
+    },
+    {
+      "id": "m-y6-fractions_beginner_007",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Convert the decimal 0.6 into a fraction in its simplest form.",
+      "options": [
+        "6/10",
+        "3/5",
+        "1/6",
+        "2/5"
+      ],
+      "correctAnswer": "3/5",
+      "explanation": "To convert 0.6 into a fraction, first write it based on its place value. The '6' is in the tenths place, so 0.6 can be written as 6/10.\n\nNext, simplify the fraction 6/10. Find the greatest common factor (GCF) of the numerator (6) and the denominator (10). The GCF of 6 and 10 is 2.\n\nDivide both the numerator and the denominator by 2:\n6 ÷ 2 = 3\n10 ÷ 2 = 5\n\nSo, the fraction in its simplest form is 3/5.",
+      "hint": "Start by writing the decimal as a fraction based on its place value (e.g., 0.1 is 1/10, 0.25 is 25/100). Then, simplify the fraction if possible by dividing the numerator and denominator by their greatest common factor.",
+      "generatedAt": "2026-04-29T16:55:16.706811"
+    },
+    {
+      "id": "m-y6-fractions_beginner_008",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Calculate the value of 0.3 + 1/2. Give your answer as a decimal.",
+      "options": [
+        "0.5",
+        "0.53",
+        "0.8",
+        "0.7"
+      ],
+      "correctAnswer": "0.8",
+      "explanation": "To calculate 0.3 + 1/2, you need to work with both numbers in the same format. It is easiest to convert the fraction to a decimal because the question asks for a decimal answer.\n\nStep 1: Convert the fraction 1/2 into a decimal.\n1/2 is equivalent to 0.5.\n\nStep 2: Add the two decimal numbers.\n0.3 + 0.5 = 0.8\n\nSo, the value of 0.3 + 1/2 is 0.8.",
+      "hint": "Convert the fraction into a decimal before performing the addition.",
+      "generatedAt": "2026-04-29T16:55:37.219102"
+    },
+    {
+      "id": "m-y6-fractions_beginner_009",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which of these statements correctly shows an equivalence between a fraction and a decimal?",
+      "options": [
+        "A) 1/2 = 0.2",
+        "B) 1/4 = 0.4",
+        "C) 3/4 = 0.75",
+        "D) 1/5 = 0.05"
+      ],
+      "correctAnswer": "C) 3/4 = 0.75",
+      "explanation": "To check the equivalence between a fraction and a decimal, you can divide the numerator (top number) of the fraction by its denominator (bottom number), or recall common fraction-decimal equivalences.\n\nLet's check each option:\nA) For 1/2: Divide 1 by 2. 1 ÷ 2 = 0.5. So, 1/2 = 0.5, not 0.2. This statement is incorrect.\nB) For 1/4: Divide 1 by 4. 1 ÷ 4 = 0.25. So, 1/4 = 0.25, not 0.4. This statement is incorrect.\nC) For 3/4: Divide 3 by 4. 3 ÷ 4 = 0.75. So, 3/4 = 0.75. This statement is correct.\nD) For 1/5: Divide 1 by 5. 1 ÷ 5 = 0.2. So, 1/5 = 0.2, not 0.05. This statement is incorrect.\n\nTherefore, the correct statement is C.",
+      "hint": "Remember that a fraction represents division. To convert a fraction to a decimal, divide the numerator by the denominator.",
+      "generatedAt": "2026-04-29T16:55:51.515196"
+    },
+    {
+      "id": "m-y6-fractions_beginner_010",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "What number must be added to 0.6 to make the total 1 1/2?",
+      "options": [
+        "0.7",
+        "0.9",
+        "1.1",
+        "1.9"
+      ],
+      "correctAnswer": "0.9",
+      "explanation": "To find the number that must be added, we need to set up the problem as an equation: 0.6 + X = 1 1/2.\nTo solve for X, we subtract 0.6 from 1 1/2 (X = 1 1/2 - 0.6).\n\nMethod 1: Convert to decimals.\nFirst, convert the mixed number 1 1/2 to a decimal: 1 1/2 = 1.5.\nNow, subtract 0.6 from 1.5:\n1.5 - 0.6 = 0.9.\n\nMethod 2: Convert to fractions.\nFirst, convert the decimal 0.6 to a fraction: 0.6 = 6/10, which simplifies to 3/5.\nNext, convert the mixed number 1 1/2 to an improper fraction: 1 1/2 = 3/2.\nNow, subtract the fractions: 3/2 - 3/5.\nTo subtract, find a common denominator, which is 10.\nConvert 3/2 to tenths: (3 * 5) / (2 * 5) = 15/10.\nConvert 3/5 to tenths: (3 * 2) / (5 * 2) = 6/10.\nSubtract: 15/10 - 6/10 = 9/10.\nFinally, convert 9/10 back to a decimal: 9/10 = 0.9.",
+      "hint": "Think about converting both numbers to the same format (either both decimals or both fractions) before performing the calculation.",
+      "generatedAt": "2026-04-29T16:56:07.229755"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y6-fractions_intermediate_001",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A chef has 4.5 kg of sugar. He uses 1/3 of the sugar to bake a large cake and then uses an additional 0.75 kg of sugar to make some cookies. How much sugar, in kilograms, does the chef have left? Show your working.",
+      "options": [
+        "1.5 kg",
+        "2.25 kg",
+        "3.75 kg",
+        "2.0 kg"
+      ],
+      "correctAnswer": "2.25 kg",
+      "explanation": "Here's how to solve the problem step-by-step:\n\n1.  **Calculate the amount of sugar used for the cake:**\n    The chef uses 1/3 of the initial 4.5 kg of sugar.\n    Amount of sugar for cake = (1/3) * 4.5 kg = 1.5 kg.\n\n2.  **Calculate the total amount of sugar used:**\n    Sugar used for cake = 1.5 kg\n    Sugar used for cookies = 0.75 kg\n    Total sugar used = 1.5 kg + 0.75 kg = 2.25 kg.\n\n3.  **Calculate the amount of sugar remaining:**\n    Initial amount of sugar = 4.5 kg\n    Total sugar used = 2.25 kg\n    Remaining sugar = 4.5 kg - 2.25 kg = 2.25 kg.\n\nAlternatively, using fractions throughout:\n1.  Initial sugar = 4.5 kg = 9/2 kg.\n2.  Sugar for cake = (1/3) * (9/2) kg = 9/6 kg = 3/2 kg.\n3.  Sugar for cookies = 0.75 kg = 3/4 kg.\n4.  Total sugar used = 3/2 kg + 3/4 kg = 6/4 kg + 3/4 kg = 9/4 kg.\n5.  Remaining sugar = 9/2 kg - 9/4 kg = 18/4 kg - 9/4 kg = 9/4 kg.\n6.  Convert back to decimal: 9/4 kg = 2.25 kg.",
+      "hint": "You can solve this by converting all quantities to decimals or by converting them all to fractions. Remember that '1/3 of' means to multiply.",
+      "generatedAt": "2026-04-29T16:56:23.673155"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_002",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Amelia has £20. She buys a book that costs £5.50. She then spends two-fifths of the money she has left on a toy. Calculate how much money Amelia has remaining. Show all your working.",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working:\n\n1.  **Calculate the money Amelia has left after buying the book:**\n    Starting money: £20.00\n    Cost of book: £5.50\n    Money left = £20.00 - £5.50 = £14.50\n\n2.  **Calculate the amount Amelia spends on the toy:**\n    She spends two-fifths (2/5) of the remaining money (£14.50).\n    *Method 1: Convert fraction to decimal*\n    2/5 = 0.4\n    Amount spent on toy = 0.4 × £14.50 = £5.80\n    *Method 2: Work with the fraction*\n    Amount spent on toy = (14.50 ÷ 5) × 2 = £2.90 × 2 = £5.80\n\n3.  **Calculate the final amount of money Amelia has remaining:**\n    Money before toy purchase: £14.50\n    Amount spent on toy: £5.80\n    Money remaining = £14.50 - £5.80 = £8.70\n\nAmelia has £8.70 remaining.",
+      "explanation": "The problem requires several steps involving both decimals and fractions. First, subtract the cost of the book from the initial amount. Second, calculate two-fifths of that *new* amount (the money left). This step can be done by converting the fraction to a decimal (2/5 = 0.4) and multiplying, or by dividing the amount by 5 and then multiplying by 2. Finally, subtract the cost of the toy from the money she had left after buying the book to find the final remaining amount.",
+      "hint": "Start by finding out how much money Amelia has after buying the book. Then, work out what two-fifths of that *remaining* amount is. Remember you can convert two-fifths to a decimal (0.4) or work directly with the fraction.",
+      "generatedAt": "2026-04-29T16:56:36.203524"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_003",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A shop has 12 litres of fresh orange juice at the start of the week. On Monday, they sell one-third of the total juice. On Tuesday, they sell another 2.5 litres. How many litres of orange juice are left at the end of Tuesday? Show your working.",
+      "options": [
+        "5.5 litres",
+        "8 litres",
+        "9.5 litres",
+        "6.5 litres"
+      ],
+      "correctAnswer": "5.5 litres",
+      "explanation": "Step 1: Calculate the amount of juice sold on Monday.\nOne-third of the total juice is (1/3) * 12 litres = 4 litres.\n\nStep 2: Calculate the total amount of juice sold over Monday and Tuesday.\nTotal sold = Juice sold on Monday + Juice sold on Tuesday\nTotal sold = 4 litres + 2.5 litres = 6.5 litres.\n\nStep 3: Calculate the amount of juice remaining.\nJuice remaining = Initial total juice - Total juice sold\nJuice remaining = 12 litres - 6.5 litres = 5.5 litres.",
+      "hint": "First, calculate the volume of juice sold on Monday by finding a fraction of the total. Then, subtract both amounts sold from the initial total volume.",
+      "generatedAt": "2026-04-29T16:56:49.018380"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_004",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A company allocates a certain budget for its marketing campaign. They spend 2/5 of the budget on online advertisements. They then spend 0.35 of the budget on print media advertisements. What fraction of the original budget remains? Show your working clearly.",
+      "options": [
+        "1/4",
+        "3/4",
+        "13/20",
+        "9/20"
+      ],
+      "correctAnswer": "1/4",
+      "explanation": "There are two common methods to solve this problem:\n\n**Method 1: Convert all amounts to decimals**\n1. Convert the fraction 2/5 to a decimal: 2 ÷ 5 = 0.4.\n2. Add the decimal amounts spent: 0.4 (online) + 0.35 (print) = 0.75.\n3. The total budget is 1 (or 1.0). To find the remaining budget, subtract the total spent from 1: 1.0 - 0.75 = 0.25.\n4. Convert the remaining decimal 0.25 back to a fraction: 0.25 = 25/100, which simplifies to 1/4.\n\n**Method 2: Convert all amounts to fractions**\n1. Convert the decimal 0.35 to a fraction: 0.35 = 35/100. Simplify this fraction by dividing both numerator and denominator by 5: 35 ÷ 5 = 7 and 100 ÷ 5 = 20. So, 0.35 = 7/20.\n2. Add the fractions of the budget spent: 2/5 (online) + 7/20 (print).\n3. To add these fractions, find a common denominator, which is 20. Convert 2/5 to an equivalent fraction with a denominator of 20: (2 * 4) / (5 * 4) = 8/20.\n4. Now add the fractions: 8/20 + 7/20 = 15/20.\n5. The total budget is 1, which can be represented as 20/20. To find the remaining budget, subtract the total spent from the whole: 20/20 - 15/20 = 5/20.\n6. Simplify the remaining fraction: 5/20 simplifies to 1/4 by dividing both numerator and denominator by 5.\n\nBoth methods lead to the same result: 1/4 of the original budget remains.",
+      "hint": "Consider converting all amounts to either fractions with a common denominator or decimals before performing the addition and subtraction.",
+      "generatedAt": "2026-04-29T16:57:26.846824"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_005",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A rectangular shape has a length of 4.8 cm. Its width is exactly three-eighths of its length. Calculate the perimeter of the rectangular shape. Show your working clearly.",
+      "options": [
+        "11.4 cm",
+        "13.2 cm",
+        "14.6 cm",
+        "16.8 cm"
+      ],
+      "correctAnswer": "13.2 cm",
+      "explanation": "To solve this problem, we first need to find the width of the rectangular shape and then use both the length and width to calculate the perimeter.\n\n**Step 1: Calculate the width of the rectangle.**\nThe length is 4.8 cm.\nThe width is three-eighths (3/8) of the length.\n\nThere are two main ways to calculate the width:\n\n**Method A (Using Fractions):**\nConvert the length to a fraction: 4.8 = 48/10 = 24/5.\nWidth = (3/8) × (24/5)\nTo simplify, we can cross-cancel the 8 and 24:\nWidth = (3/1) × (3/5)  (since 24 ÷ 8 = 3 and 8 ÷ 8 = 1)\nWidth = 9/5 cm\nConvert to a decimal: 9 ÷ 5 = 1.8 cm.\n\n**Method B (Using Decimals):**\nConvert the fraction to a decimal: 3/8 = 0.375.\nWidth = 0.375 × 4.8\nWe can multiply 375 by 48 and then place the decimal point:\n   375\n x 48\n -----\n  3000 (375 × 8)\n15000 (375 × 40)\n-----\n18000\nSince there are 3 decimal places in 0.375 and 1 decimal place in 4.8, there are 3 + 1 = 4 decimal places in the answer.\nWidth = 1.8000 cm = 1.8 cm.\n\nSo, the width of the rectangle is 1.8 cm.\n\n**Step 2: Calculate the perimeter of the rectangle.**\nThe formula for the perimeter of a rectangle is P = 2 × (Length + Width).\nLength = 4.8 cm\nWidth = 1.8 cm\n\nPerimeter = 2 × (4.8 + 1.8)\nPerimeter = 2 × (6.6)\nPerimeter = 13.2 cm.\n\nTherefore, the correct answer is 13.2 cm.",
+      "hint": "First, determine the width of the rectangle by finding three-eighths of the given length. You can choose to work with either fractions or decimals consistently. Once you have both the length and the width, remember the formula for the perimeter of a rectangle: P = 2 × (Length + Width).",
+      "generatedAt": "2026-04-29T16:57:42.123490"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_006",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A baker uses 1.75 kg of flour for a cake recipe. For a batch of muffins, they use 5/8 kg less flour than they used for the cake. What is the total mass of flour, in kilograms, used for both the cake and the muffins? Show your working.",
+      "options": [
+        "2.375 kg",
+        "2.875 kg",
+        "2 and 1/8 kg",
+        "3.125 kg"
+      ],
+      "correctAnswer": "2.875 kg",
+      "explanation": "Here are two methods to solve this problem:\n\n**Method 1: Using decimals**\n1.  First, convert 5/8 kg to a decimal. Divide 5 by 8: \n    5 ÷ 8 = 0.625 kg.\n2.  Calculate the flour used for the muffins. This is 0.625 kg less than the cake flour (1.75 kg):\n    Flour for muffins = 1.75 kg - 0.625 kg = 1.125 kg.\n3.  Calculate the total mass of flour used for both the cake and the muffins:\n    Total flour = Flour for cake + Flour for muffins\n    Total flour = 1.75 kg + 1.125 kg = 2.875 kg.\n\n**Method 2: Using fractions**\n1.  First, convert 1.75 kg to a fraction. 1.75 is 1 and 75/100, which simplifies to 1 and 3/4. Convert this to an improper fraction:\n    1 3/4 kg = (1 × 4 + 3) / 4 kg = 7/4 kg.\n2.  Calculate the flour used for the muffins. This is 5/8 kg less than the cake flour (7/4 kg). To subtract, find a common denominator, which is 8:\n    7/4 kg = 14/8 kg.\n    Flour for muffins = 14/8 kg - 5/8 kg = 9/8 kg.\n3.  Calculate the total mass of flour used for both the cake and the muffins:\n    Total flour = Flour for cake + Flour for muffins\n    Total flour = 7/4 kg + 9/8 kg.\n    Convert 7/4 kg to 14/8 kg to add:\n    Total flour = 14/8 kg + 9/8 kg = 23/8 kg.\n4.  Convert the improper fraction 23/8 kg to a mixed number or decimal. Divide 23 by 8:\n    23 ÷ 8 = 2 with a remainder of 7, so 2 and 7/8 kg.\n    To convert to decimal: 23 ÷ 8 = 2.875 kg.\n\nBoth methods give the same answer: 2.875 kg.",
+      "hint": "Consider converting all the given values to a common format, either all fractions or all decimals, before performing the calculations. Remember to work out the amount of flour for the muffins first.",
+      "generatedAt": "2026-04-29T16:58:02.836813"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_007",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A baker is preparing ingredients for a cake. They need 0.6 kilograms of sugar for the main cake mixture and an additional 3/8 kilograms of sugar for the frosting. The baker has a bag containing 1.5 kilograms of sugar to start with.\nHow much sugar will be left over in the bag after the cake and frosting have been made? Show your working.",
+      "options": [
+        "0.975 kg",
+        "0.525 kg",
+        "1.275 kg",
+        "0.5 kg"
+      ],
+      "correctAnswer": "0.525 kg",
+      "explanation": "Step 1: Calculate the total amount of sugar needed.\nThe main cake mixture needs 0.6 kg of sugar.\nThe frosting needs 3/8 kg of sugar.\n\nTo add these amounts, we need them in the same format (either both decimals or both fractions). Let's convert 3/8 to a decimal:\n3 ÷ 8 = 0.375 kg\n\nTotal sugar needed = 0.6 kg + 0.375 kg = 0.975 kg.\n\nStep 2: Calculate the amount of sugar left over.\nThe baker started with a bag containing 1.5 kg of sugar.\nThe total sugar used is 0.975 kg.\n\nSugar left over = Initial sugar - Total sugar needed\nSugar left over = 1.5 kg - 0.975 kg\n\nTo perform the subtraction:\n  1.500\n- 0.975\n-------\n  0.525\n\nSo, 0.525 kg of sugar will be left over in the bag.",
+      "hint": "First, decide whether to work with fractions or decimals for all amounts. Convert all values to your chosen format before performing any calculations. Then, determine the total amount of sugar required and subtract it from the initial amount.",
+      "generatedAt": "2026-04-29T16:58:26.241569"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_008",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A piece of rope is 40 meters long. Emily cuts off 1/5 of the rope. From the remaining rope, her brother then cuts off 0.25 of its length. What is the final length of the rope remaining? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Method 1: Using fractions\n1.  **Initial length:** 40 meters.\n2.  **Emily cuts off:** 1/5 of 40 meters.\n    1/5 × 40 = 8 meters.\n3.  **Rope remaining after Emily's cut:** 40 - 8 = 32 meters.\n4.  **Brother cuts off:** 0.25 of the remaining rope. Convert 0.25 to a fraction: 0.25 = 1/4.\n    1/4 × 32 = 8 meters.\n5.  **Final length of rope remaining:** 32 - 8 = 24 meters.\n\nMethod 2: Using decimals\n1.  **Initial length:** 40 meters.\n2.  **Emily cuts off:** 1/5 of 40 meters. Convert 1/5 to a decimal: 1/5 = 0.2.\n    0.2 × 40 = 8 meters.\n3.  **Rope remaining after Emily's cut:** 40 - 8 = 32 meters.\n4.  **Brother cuts off:** 0.25 of the remaining rope.\n    0.25 × 32 = 8 meters.\n5.  **Final length of rope remaining:** 32 - 8 = 24 meters.\n\nThe final length of the rope remaining is 24 meters.",
+      "explanation": "The problem requires two main steps of calculation, each involving a fraction or decimal part of a quantity. First, calculate the length Emily cuts off and the length remaining. Second, calculate the length the brother cuts off from the *new* remaining length, and then find the final remaining length. Students can choose to perform all calculations using fractions by converting 0.25 to 1/4, or using decimals by converting 1/5 to 0.2, or a mix of both. Both pathways lead to the same correct answer.",
+      "hint": "Consider whether it is easier to work with fractions or decimals throughout the problem, or convert between them at different stages.",
+      "generatedAt": "2026-04-29T16:58:44.055896"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_009",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A project needs to be completed. Alex finishes 3/10 of the project. Beth then completes 0.35 of the project. What fraction of the project still needs to be completed? Show your working.",
+      "options": [],
+      "correctAnswer": "To find the total amount of the project completed, we first need to ensure both values are in the same format (either both fractions or both decimals).\n\n**Method 1: Working with fractions**\n1. Convert Beth's completed portion from a decimal to a fraction:\n   0.35 = 35/100\n2. Simplify the fraction 35/100 by dividing the numerator and denominator by 5:\n   35 ÷ 5 = 7\n   100 ÷ 5 = 20\n   So, Beth completed 7/20 of the project.\n3. Alex completed 3/10 of the project. To add this to Beth's portion, find a common denominator. The lowest common multiple of 10 and 20 is 20.\n   3/10 = (3 × 2) / (10 × 2) = 6/20\n4. Add the completed portions:\n   Total completed = 6/20 (Alex) + 7/20 (Beth) = 13/20\n5. The whole project represents 1, or 20/20. To find the remaining portion, subtract the completed part from the whole:\n   Remaining = 20/20 - 13/20 = 7/20\n\n**Method 2: Working with decimals**\n1. Convert Alex's completed portion from a fraction to a decimal:\n   3/10 = 0.3\n2. Add the completed portions:\n   Total completed = 0.3 (Alex) + 0.35 (Beth) = 0.65\n3. The whole project represents 1. To find the remaining portion, subtract the completed part from the whole:\n   Remaining = 1 - 0.65 = 0.35\n4. Convert the remaining decimal back to a fraction (as the question asks for a fraction):\n   0.35 = 35/100\n5. Simplify the fraction 35/100 by dividing the numerator and denominator by 5:\n   35 ÷ 5 = 7\n   100 ÷ 5 = 20\n   So, the remaining fraction is 7/20.\n\nBoth methods give the same answer.\n\n**Answer: 7/20 of the project still needs to be completed.**",
+      "explanation": "The problem requires calculating the total proportion of a project completed by two individuals, one given as a fraction and the other as a decimal. The final answer must be given as a fraction. The first step involves converting one of the values so both are in the same format (either both fractions or both decimals). Then, these two parts are added together to find the total completed portion. Finally, this total is subtracted from the whole project (represented by 1 or 1/1) to find the remaining portion. If the calculations were done using decimals, the final decimal answer needs to be converted back into a simplified fraction.",
+      "hint": "To solve this problem, you need to combine the parts of the project completed by Alex and Beth. Consider converting both parts to the same format, either fractions or decimals, before adding them. Remember that a whole project can be represented as 1 (or 10/10, 20/20, 1.00).",
+      "generatedAt": "2026-04-29T16:59:00.058239"
+    },
+    {
+      "id": "m-y6-fractions_intermediate_010",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A bag of sweets initially contains 2.5 kg of sweets. Jamie eats 1/4 kg of sweets from the bag. Afterwards, Sarah adds 0.3 kg of sweets to the bag. What is the final weight of sweets in the bag? Show your working.",
+      "options": [],
+      "correctAnswer": "To solve this problem, you can either convert all quantities to decimals or all quantities to fractions.\n\n**Method 1: Convert everything to decimals**\n1.  **Initial weight:** 2.5 kg\n2.  **Jamie eats:** Convert 1/4 kg to a decimal.\n    1/4 = 0.25 kg\n3.  **Weight after Jamie eats:** Subtract the amount Jamie ate from the initial weight.\n    2.5 kg - 0.25 kg = 2.25 kg\n4.  **Sarah adds:** Sarah adds 0.3 kg.\n5.  **Final weight:** Add the amount Sarah added to the current weight.\n    2.25 kg + 0.3 kg = 2.55 kg\n\n**Method 2: Convert everything to fractions**\n1.  **Initial weight:** Convert 2.5 kg to a fraction.\n    2.5 kg = 2 and 1/2 kg = 5/2 kg\n2.  **Jamie eats:** 1/4 kg\n3.  **Weight after Jamie eats:** Subtract the amount Jamie ate from the initial weight.\n    5/2 kg - 1/4 kg\n    Find a common denominator, which is 4:\n    5/2 = 10/4\n    10/4 kg - 1/4 kg = 9/4 kg\n4.  **Sarah adds:** Convert 0.3 kg to a fraction.\n    0.3 kg = 3/10 kg\n5.  **Final weight:** Add the amount Sarah added to the current weight.\n    9/4 kg + 3/10 kg\n    Find a common denominator for 4 and 10, which is 20:\n    9/4 = (9 * 5) / (4 * 5) = 45/20\n    3/10 = (3 * 2) / (10 * 2) = 6/20\n    45/20 kg + 6/20 kg = 51/20 kg\n6.  **Convert to a mixed number or decimal (optional but good practice):**\n    51/20 kg = 2 and 11/20 kg\n    To convert to decimal: 11/20 = 0.55, so 2 and 11/20 kg = 2.55 kg\n\nThe final weight of sweets in the bag is **2.55 kg**.",
+      "explanation": "The problem requires a sequence of operations involving both decimals and fractions. The first step is to calculate the new weight after Jamie eats some sweets, which involves subtracting 1/4 kg from 2.5 kg. The second step is to calculate the final weight after Sarah adds 0.3 kg to the remaining amount. Students can choose to convert all quantities to decimals (e.g., 2.5 - 0.25 + 0.3) or all quantities to fractions (e.g., 5/2 - 1/4 + 3/10) and then perform the respective additions and subtractions, ensuring correct handling of common denominators for fractions.",
+      "hint": "Consider converting all the amounts to either fractions or decimals before performing the calculations. Choose the method that you find easiest for addition and subtraction.",
+      "generatedAt": "2026-04-29T16:59:19.798016"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y6-fractions_advanced_001",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A baker starts with a supply of 3.5 kilograms of sugar. They use 7/8 of a kilogram of sugar for cookies, and then 0.9 kilograms for a large cake. Later, they use 1/4 of a kilogram for muffins. Finally, they need to make a small dessert that requires 0.15 kilograms of sugar. Calculate the total amount of sugar remaining after making all these items. Show your working clearly.",
+      "options": [
+        "1.325 kg",
+        "1.225 kg",
+        "1.45 kg",
+        "1.175 kg"
+      ],
+      "correctAnswer": "1.325 kg",
+      "explanation": "To solve this problem, we need to first ensure all quantities are in the same format, preferably decimals, since the starting amount and the final answer options are in decimals.\n\nStep 1: Convert all fractional amounts of sugar to decimals:\n*   Sugar for cookies: 7/8 kg = 7 ÷ 8 kg = 0.875 kg\n*   Sugar for muffins: 1/4 kg = 1 ÷ 4 kg = 0.25 kg\n\nStep 2: List all amounts of sugar used:\n*   For cookies: 0.875 kg\n*   For cake: 0.9 kg\n*   For muffins: 0.25 kg\n*   For small dessert: 0.15 kg\n\nStep 3: Calculate the total amount of sugar used:\nTotal sugar used = 0.875 kg + 0.9 kg + 0.25 kg + 0.15 kg\nTotal sugar used = 2.175 kg\n\nStep 4: Calculate the amount of sugar remaining:\nInitial sugar = 3.5 kg\nRemaining sugar = Initial sugar - Total sugar used\nRemaining sugar = 3.5 kg - 2.175 kg\nRemaining sugar = 1.325 kg\n\nThe correct answer is 1.325 kg.",
+      "hint": "To combine all the different amounts of sugar, it's easiest to convert all quantities to decimals first before performing addition and subtraction.",
+      "generatedAt": "2026-04-29T16:59:39.778807"
+    },
+    {
+      "id": "m-y6-fractions_advanced_002",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A Year 6 class is planning a community garden project. They have an initial budget of £45.00.\nFirst, they decide to spend 2/5 of their budget on flower seeds.\nNext, they purchase bags of soil for £12.75.\nFinally, they spend 3/4 of the *money remaining at that point* on vegetable seeds.\n\nHow much money does the Year 6 class have left from their initial budget? Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the cost of flower seeds.\n   Amount spent on flower seeds = (2/5) × £45.00\n   = 0.4 × £45.00 = £18.00\n\nStep 2: Calculate the money remaining after buying flower seeds.\n   Remaining money = £45.00 - £18.00 = £27.00\n\nStep 3: Calculate the money remaining after buying soil.\n   Remaining money = £27.00 - £12.75 = £14.25\n\nStep 4: Calculate the cost of vegetable seeds.\n   Amount spent on vegetable seeds = (3/4) × £14.25\n   = 0.75 × £14.25 = £10.6875\n\nStep 5: Calculate the final amount of money left and round to two decimal places.\n   Final money left = £14.25 - £10.6875 = £3.5625\n   Rounded to two decimal places, the class has £3.56 left.",
+      "explanation": "The problem requires calculating expenses in sequence and finding a fraction of a changing remaining amount. First, find the cost of flower seeds by calculating 2/5 of the initial budget. Subtract this from the initial budget. Then, subtract the cost of soil. With the new remaining amount, calculate the cost of vegetable seeds by finding 3/4 of this new remaining amount. Finally, subtract the cost of vegetable seeds to find the total leftover money and remember to round the final answer to two decimal places for money.",
+      "hint": "Remember to calculate the remaining budget after *each* expenditure before calculating the next fraction of the remaining money. Pay attention to rounding for money.",
+      "generatedAt": "2026-04-29T16:59:58.770289"
+    },
+    {
+      "id": "m-y6-fractions_advanced_003",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "In the annual 'Logic & Numbers Challenge', students compete in three rounds. \nIn Round 1, participants can earn a maximum of 60 points. A student named Chloe scored 7/10 of the maximum points available in this round.\nIn Round 2, the maximum points are 70. Chloe scored 0.65 of the maximum points in this round.\nIn Round 3, there are 50 maximum points. Chloe scored 4/5 of the maximum points in this round.\nTo encourage high scores, an extra bonus is awarded: if a student's total score from the first three rounds is more than 120 points, they receive an additional 1/4 of their Round 3 score. \nWhat is Chloe's final total score after potentially adding the bonus? Show your working.",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working to find Chloe's final score:\n\n**Step 1: Calculate Chloe's score for Round 1.**\nChloe scored 7/10 of 60 points.\n(7 ÷ 10) × 60 = 0.7 × 60 = 42 points.\n\n**Step 2: Calculate Chloe's score for Round 2.**\nChloe scored 0.65 of 70 points.\n0.65 × 70 = 45.5 points.\n\n**Step 3: Calculate Chloe's score for Round 3.**\nChloe scored 4/5 of 50 points.\n(4 ÷ 5) × 50 = 0.8 × 50 = 40 points.\n\n**Step 4: Calculate Chloe's total score from the first three rounds.**\nTotal score = Score Round 1 + Score Round 2 + Score Round 3\nTotal score = 42 + 45.5 + 40 = 127.5 points.\n\n**Step 5: Check if Chloe qualifies for the bonus.**\nThe bonus is awarded if the total score is more than 120 points.\nChloe's total score is 127.5 points, which is more than 120 points. Therefore, Chloe qualifies for the bonus.\n\n**Step 6: Calculate the bonus points.**\nThe bonus is 1/4 of her Round 3 score.\nRound 3 score = 40 points.\nBonus = (1 ÷ 4) × 40 = 0.25 × 40 = 10 points.\n\n**Step 7: Calculate Chloe's final total score.**\nFinal total score = Total score from three rounds + Bonus points\nFinal total score = 127.5 + 10 = 137.5 points.\n\nChloe's final total score is **137.5 points**.",
+      "explanation": "The problem requires calculating a student's score in three different rounds, involving fractions and decimals of given maximum points. These individual scores are then summed. A conditional bonus is then applied based on the total score from the first three rounds. If the condition is met, an additional fraction of one of the round scores is added to the total. This involves multiple steps of calculating fractions of quantities, decimals of quantities, addition of decimals, and applying conditional logic.",
+      "hint": "Break the problem down into smaller steps. First, calculate the score for each individual round. Then, sum these scores to get a sub-total. Next, check the condition for the bonus carefully before calculating and adding any extra points. Remember to be precise with decimal calculations.",
+      "generatedAt": "2026-04-29T17:00:18.220018"
+    },
+    {
+      "id": "m-y6-fractions_advanced_004",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "In a scientific experiment, Beaker P initially contains 0.8 litres of a liquid solution. A scientist adds 1/4 of a litre of a different liquid to Beaker P. Next, 0.35 litres are carefully poured from Beaker P into Beaker Q. Finally, the scientist adds another 3/8 of a litre to Beaker P.\n\nWhat is the final volume of liquid in Beaker P? Show your working out.",
+      "options": [
+        "0.975 litres",
+        "1.075 litres",
+        "1.125 litres",
+        "0.825 litres"
+      ],
+      "correctAnswer": "1.075 litres",
+      "explanation": "To solve this problem, we need to keep track of the volume of liquid in Beaker P at each step, converting all volumes to a consistent format (either all fractions or all decimals).\n\nLet's convert all fractions to decimals, as this might make addition and subtraction easier:\n1/4 litre = 0.25 litres\n3/8 litre = 0.375 litres\n\nNow, let's track the volume in Beaker P:\n1.  **Initial volume:** Beaker P starts with 0.8 litres.\n2.  **First addition:** A scientist adds 1/4 litre (which is 0.25 litres).\n    Current volume = 0.8 + 0.25 = 1.05 litres.\n3.  **First removal:** 0.35 litres are poured out from Beaker P.\n    Current volume = 1.05 - 0.35 = 0.70 litres.\n4.  **Second addition:** Another 3/8 litre (which is 0.375 litres) is added to Beaker P.\n    Final volume = 0.70 + 0.375 = 1.075 litres.\n\nTherefore, the final volume of liquid in Beaker P is 1.075 litres.",
+      "hint": "To make calculations simpler, convert all the fractional volumes to decimal numbers first. Remember to carefully add and subtract the volumes in the correct order.",
+      "generatedAt": "2026-04-29T17:00:41.734827"
+    },
+    {
+      "id": "m-y6-fractions_advanced_005",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Three athletes, Finn, Liam, and Chloe, are training for a multi-stage challenge. The total length of their training route is 1200 meters.\nFinn completes the first stage, covering a distance equivalent to 7/10 of the *total* training route.\nLiam then completes the second stage, which is 0.45 of the *remaining* distance after Finn's stage.\nChloe finishes the third and final stage, covering 1/3 of the distance *still left* after Liam's stage.\n\nHow many meters did Chloe cover in her stage? Show your working.",
+      "options": [],
+      "correctAnswer": "Chloe covered 66 meters.\n\n**Step-by-step working:**\n1.  **Calculate Finn's distance:**\n    Finn covered 7/10 of the total route (1200m).\n    (7/10) * 1200m = 7 * (1200m / 10) = 7 * 120m = 840m.\n\n2.  **Calculate the remaining distance after Finn's stage:**\n    Total route - Finn's distance = 1200m - 840m = 360m.\n\n3.  **Calculate Liam's distance:**\n    Liam covered 0.45 of the *remaining* distance (360m).\n    0.45 * 360m = (45/100) * 360m = (9/20) * 360m.\n    (9 * 360m) / 20 = 9 * 18m = 162m.\n\n4.  **Calculate the remaining distance after Liam's stage:**\n    Distance left after Finn - Liam's distance = 360m - 162m = 198m.\n\n5.  **Calculate Chloe's distance:**\n    Chloe covered 1/3 of the distance *still left* (198m).\n    (1/3) * 198m = 198m / 3 = 66m.",
+      "explanation": "This multi-step problem requires careful sequential calculation of parts of a continually diminishing total. First, determine the amount completed, then the amount remaining, before calculating the next athlete's distance as a fraction or decimal of *that specific remaining amount*.",
+      "hint": "Remember to calculate the remaining distance after each athlete's stage before calculating the next athlete's distance. Convert between fractions and decimals if it helps your calculations.",
+      "generatedAt": "2026-04-29T17:01:07.063102"
+    },
+    {
+      "id": "m-y6-fractions_advanced_006",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of explorers is tasked with mapping a new nature trail. The total length of the trail is 24 km. On the first day, they successfully map 1/3 of the total trail. On the second day, they map 0.375 of the *remaining* unmapped trail. On the third day, they complete the final section of the trail. What fraction of the *original total trail length* did they map on the third day? Give your answer in its simplest form. Show your working.",
+      "options": [
+        "A) 1/4",
+        "B) 3/10",
+        "C) 5/12",
+        "D) 7/24"
+      ],
+      "correctAnswer": "C) 5/12",
+      "explanation": "1. Calculate the distance mapped on the first day:\n   1/3 of 24 km = (1/3) * 24 = 8 km.\n\n2. Calculate the remaining unmapped trail after the first day:\n   24 km - 8 km = 16 km.\n\n3. Convert 0.375 to a fraction. (0.375 = 375/1000 = 3/8).\n\n4. Calculate the distance mapped on the second day:\n   0.375 of the *remaining* 16 km = (3/8) * 16 = (3 * 16) / 8 = 48 / 8 = 6 km.\n\n5. Calculate the remaining unmapped trail after the second day, which is the distance mapped on the third day:\n   16 km - 6 km = 10 km.\n\n6. Express the distance mapped on the third day as a fraction of the original total trail length:\n   10 km / 24 km = 10/24.\n\n7. Simplify the fraction by dividing both the numerator and denominator by their greatest common divisor, which is 2:\n   10 ÷ 2 = 5\n   24 ÷ 2 = 12\n   So, the simplified fraction is 5/12.",
+      "hint": "Start by calculating the distance covered on the first day, then work out how much trail is left. Remember to convert the decimal to a fraction or use decimal multiplication carefully for the second day's mapping of the *remaining* trail.",
+      "generatedAt": "2026-04-29T17:01:23.981905"
+    },
+    {
+      "id": "m-y6-fractions_advanced_007",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A new virtual game keeps track of a player's performance using a \"Star Score\". The Star Score starts at 1.\n\n1.  After completing the first task, the player's Star Score increases by 1/5.\n2.  Then, due to a penalty, the score decreases by 0.6.\n3.  Next, the player earns a \"multiplier bonus\" which doubles their *current* Star Score.\n4.  Finally, a \"golden reward\" adds an extra 1/8 to the score.\n\nWhat is the final Star Score?\nShow your working clearly.",
+      "options": [
+        "1.325",
+        "1.2",
+        "0.725",
+        "1.725"
+      ],
+      "correctAnswer": "1.325",
+      "explanation": "Here is a step-by-step calculation of the final Star Score:\n\n**Initial Star Score:** 1\n\n**Step 1: Increases by 1/5**\nTo add 1/5 to the current score, it's easiest to convert 1/5 to a decimal.\n1/5 = 0.2\nNew score = 1 + 0.2 = 1.2\n\n**Step 2: Decreases by 0.6**\nThe score decreases by 0.6 from the *current* score.\nNew score = 1.2 - 0.6 = 0.6\n\n**Step 3: Multiplier bonus doubles the current score**\nThe current score (0.6) is doubled.\nNew score = 0.6 × 2 = 1.2\n\n**Step 4: Golden reward adds 1/8**\nTo add 1/8 to the current score (1.2), convert 1/8 to a decimal.\n1/8 = 0.125\nFinal score = 1.2 + 0.125 = 1.325\n\nThe final Star Score is 1.325.",
+      "hint": "Work through each change in the score one step at a time, converting fractions to decimals (or decimals to fractions) when it helps with calculations. Remember that 'doubling' means multiplying by 2.",
+      "generatedAt": "2026-04-29T17:01:44.610200"
+    },
+    {
+      "id": "m-y6-fractions_advanced_008",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A baker is preparing ingredients for a large batch of fruit tarts.\nFor the pastry, he needs 1 3/4 kilograms of flour. He already has one bag containing 0.8 kilograms of flour and buys another bag containing 1 1/2 kilograms of flour.\nFor the fruit filling, he needs 3/5 kilograms of mixed berries. He has a punnet with 0.35 kilograms of strawberries and another punnet with 1/4 kilograms of raspberries.\n\nShow all your working for the following:\na) Does the baker have enough flour for the pastry? If he does, state how much extra flour he has, as a decimal. If he does not, state how much more flour he needs, as a decimal.\nb) Does the baker have enough mixed berries for the filling? If he does, state how much extra mixed berries he has, as a fraction in its simplest form. If he does not, state how much more mixed berries he needs, as a fraction in its simplest form.\nc) After making the tarts, how much flour and how much mixed berries would be left in total from his combined initial stock (including what he bought), expressed as a single decimal amount?",
+      "options": [],
+      "correctAnswer": "a) Flour needed: 1 3/4 kg = 1.75 kg\nFlour he has: 0.8 kg + 1 1/2 kg = 0.8 kg + 1.5 kg = 2.3 kg\nComparing: 2.3 kg (has) > 1.75 kg (needs)\nAmount extra = 2.3 kg - 1.75 kg = 0.55 kg\nAnswer: Yes, the baker has enough flour. He has 0.55 kg extra flour.\n\nb) Mixed berries needed: 3/5 kg\nMixed berries he has: 0.35 kg + 1/4 kg\nConvert to fractions or decimals for comparison. Let's use fractions:\n0.35 kg = 35/100 kg = 7/20 kg\n1/4 kg = 5/20 kg\nTotal berries he has = 7/20 kg + 5/20 kg = 12/20 kg\nSimplify: 12/20 kg = 3/5 kg\nComparing: 3/5 kg (has) = 3/5 kg (needs)\nAmount extra = 3/5 kg - 3/5 kg = 0 kg\nAnswer: Yes, the baker has exactly enough mixed berries. He has 0 kg extra mixed berries.\n\nc) Flour left = 0.55 kg (from part a)\nMixed berries left = 0 kg (from part b)\nTotal left = Flour left + Mixed berries left\nTotal left = 0.55 kg + 0 kg = 0.55 kg\nAnswer: After making the tarts, 0.55 kg of flour and mixed berries would be left in total.",
+      "explanation": "This multi-step problem requires careful conversion between fractions and decimals and accurate calculation. \nFor part (a), all flour quantities are converted to decimals to easily add what the baker has and then subtract the amount needed. The result shows he has extra flour.\nFor part (b), the mixed berries quantities are converted to fractions with a common denominator (or decimals) to determine the total available. Comparing this to the needed amount shows he has exactly enough, resulting in 0 kg extra.\nFor part (c), the leftover amounts from parts (a) and (b) are combined. The extra flour (0.55 kg) is added to the extra berries (0 kg) to get the total amount remaining, expressed as a single decimal.",
+      "hint": "Consider converting all quantities to either decimals or fractions with a common denominator at the start of each part to make comparisons and calculations easier. Pay attention to the required format for your final answers in each section.",
+      "generatedAt": "2026-04-29T17:02:01.962012"
+    },
+    {
+      "id": "m-y6-fractions_advanced_009",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Three friends, Aisha, Ben, and Chloe, are participating in a multi-stage game where points are tracked using fractions and decimals.\n\nAisha starts with 15 points. She completes a challenge gaining 3/5 of a point, then loses 0.25 points due to a penalty.\nBen starts with 14.8 points. He incurs a penalty losing 1/4 of a point, then completes a challenge gaining 0.6 points.\nChloe starts with 15.1 points. She completes a challenge gaining 0.3 points, then loses 2/5 of a point due to a penalty.\n\nThe winner of the game is the player with the highest final score.\nWhat is the final score of the winner? Show your working clearly.\n\nA) 15.35 points\nB) 15.15 points\nC) 15.0 points\nD) 15.65 points",
+      "options": [
+        "A) 15.35 points",
+        "B) 15.15 points",
+        "C) 15.0 points",
+        "D) 15.65 points"
+      ],
+      "correctAnswer": "A) 15.35 points",
+      "explanation": "Step 1: Calculate Aisha's final score.\nAisha starts with 15 points.\nShe gains 3/5 of a point. To convert 3/5 to a decimal: 3 ÷ 5 = 0.6.\nShe loses 0.25 points.\nAisha's score = 15 + 0.6 - 0.25 = 15.6 - 0.25 = 15.35 points.\n\nStep 2: Calculate Ben's final score.\nBen starts with 14.8 points.\nHe loses 1/4 of a point. To convert 1/4 to a decimal: 1 ÷ 4 = 0.25.\nHe gains 0.6 points.\nBen's score = 14.8 - 0.25 + 0.6 = 14.55 + 0.6 = 15.15 points.\n\nStep 3: Calculate Chloe's final score.\nChloe starts with 15.1 points.\nShe gains 0.3 points.\nShe loses 2/5 of a point. To convert 2/5 to a decimal: 2 ÷ 5 = 0.4.\nChloe's score = 15.1 + 0.3 - 0.4 = 15.4 - 0.4 = 15.0 points.\n\nStep 4: Compare the final scores to find the winner.\nAisha: 15.35 points\nBen: 15.15 points\nChloe: 15.0 points\n\nComparing the scores, 15.35 is the highest.\nTherefore, the winner is Aisha, and her final score is 15.35 points.",
+      "hint": "First, convert all fractions to decimals so that all scores can be calculated and compared using the same format.",
+      "generatedAt": "2026-04-29T17:02:20.924714"
+    },
+    {
+      "id": "m-y6-fractions_advanced_010",
+      "topicId": "m-y6-fractions",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A science class is conducting an experiment using different liquids. They begin with a beaker containing 2.4 litres of Liquid A.\nFirst, they add a volume of Liquid B that is equivalent to 1/4 of the initial volume of Liquid A.\nNext, they carefully remove 0.35 litres of the mixture.\nFinally, they pour in Liquid C, which has a volume of 1 and 3/4 litres.\n\nWhat is the total volume of liquid in the beaker now? Give your answer as a decimal. Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the volume of Liquid B added.\nInitial volume of Liquid A = 2.4 litres.\nLiquid B added = 1/4 of 2.4 litres.\nTo calculate this, convert 1/4 to a decimal (0.25) or divide by 4:\n0.25 × 2.4 = 0.6 litres.\n\nStep 2: Calculate the total volume after adding Liquid B.\nVolume after adding Liquid B = Initial volume + Volume of Liquid B\n2.4 litres + 0.6 litres = 3.0 litres.\n\nStep 3: Calculate the volume after removing some mixture.\nVolume removed = 0.35 litres.\nVolume after removal = 3.0 litres - 0.35 litres = 2.65 litres.\n\nStep 4: Calculate the volume of Liquid C added.\nLiquid C added = 1 and 3/4 litres.\nConvert the mixed number to a decimal: 3/4 as a decimal is 0.75, so 1 and 3/4 litres = 1.75 litres.\n\nStep 5: Calculate the final total volume.\nFinal total volume = Volume after removal + Volume of Liquid C\n2.65 litres + 1.75 litres = 4.40 litres.\n\nThe total volume of liquid in the beaker is 4.40 litres.",
+      "explanation": "The step-by-step working is provided in the 'correctAnswer' field, showing the calculation for each stage of the experiment.",
+      "hint": "To make calculations easier, consider converting all volumes into decimals at the start of the problem.",
+      "generatedAt": "2026-04-29T17:02:38.523536"
+    }
+  ]
+}

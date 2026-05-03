@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y7-directed-numbers_beginner_001",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The temperature in a town is 5°C. Overnight, the temperature drops by 8°C. What is the new temperature?",
+      "options": [
+        "A) 13°C",
+        "B) 3°C",
+        "C) -3°C",
+        "D) -13°C"
+      ],
+      "correctAnswer": "C) -3°C",
+      "explanation": "The initial temperature is 5°C. \nWhen the temperature 'drops by' a certain amount, you subtract that amount from the current temperature.\nSo, we need to calculate: 5°C - 8°C.\nStarting at 5 and subtracting 8 means you count down past zero. \n5 - 5 = 0\n0 - 3 = -3 (since 8 is 5 + 3)\nTherefore, the new temperature is -3°C.",
+      "hint": "Think about a number line. If you start at 5 and move 8 steps to the left (down), where do you land?",
+      "generatedAt": "2026-04-29T21:54:48.107815"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_002",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Jamie's bank account has a balance of £20. He then pays a bill for £35 from this account. What is the new balance in Jamie's bank account?",
+      "options": [
+        "A) £55",
+        "B) £15",
+        "C) -£15",
+        "D) -£55"
+      ],
+      "correctAnswer": "C) -£15",
+      "explanation": "1. Start with the initial balance in the account: £20.\n2. Jamie pays a bill for £35, which means £35 is subtracted from his balance.\n3. The calculation is: £20 - £35.\n4. When you subtract a larger number from a smaller number, the result will be a negative number.\n5. Counting down 35 from 20 gives you -15 (20 - 20 = 0, then 0 - 15 = -15).\n6. So, the new balance is -£15.",
+      "hint": "Consider what happens to a bank balance when you spend more money than you have in your account.",
+      "generatedAt": "2026-04-29T21:54:55.360817"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_003",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A submarine is at a depth of 12 metres below sea level. It then rises by 5 metres. What is the new depth of the submarine relative to sea level?",
+      "options": [
+        "A) 17 metres below sea level",
+        "B) 7 metres above sea level",
+        "C) 7 metres below sea level",
+        "D) 17 metres above sea level"
+      ],
+      "correctAnswer": "C) 7 metres below sea level",
+      "explanation": "1.  Being 12 metres below sea level can be represented as -12 metres.\n2.  Rising by 5 metres means adding +5 metres to the current depth.\n3.  Calculate the new depth: -12 + 5 = -7 metres.\n4.  A depth of -7 metres means the submarine is 7 metres below sea level.",
+      "hint": "Think of 'below sea level' as a negative number. What happens when you add a positive number (like rising) to a negative number?",
+      "generatedAt": "2026-04-29T21:55:05.561945"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_004",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The temperature inside a special freezer starts at -15°C. For maintenance, the temperature is increased until it reaches -2°C. What is the total change in temperature, in degrees Celsius?",
+      "options": [
+        "-17°C",
+        "13°C",
+        "-13°C",
+        "17°C"
+      ],
+      "correctAnswer": "13°C",
+      "explanation": "To find the total change in temperature, you need to subtract the starting temperature from the final temperature.\nFinal temperature = -2°C\nStarting temperature = -15°C\nChange = Final temperature - Starting temperature\nChange = -2 - (-15)\nWhen you subtract a negative number, it's the same as adding the positive version of that number:\nChange = -2 + 15\nChange = 13°C\nSo, the temperature increased by 13°C.",
+      "hint": "To find the 'change' or 'difference' between two values, you can subtract the initial value from the final value. Remember how to handle subtracting negative numbers.",
+      "generatedAt": "2026-04-29T21:55:16.429080"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_005",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A diver is exploring a reef. Their current depth is 6 metres below the surface of the water. They then swim downwards another 4 metres to investigate something on the seabed. What is the diver's new depth?",
+      "options": [
+        "A) 2 metres below the surface",
+        "B) 10 metres below the surface",
+        "C) 2 metres above the surface",
+        "D) 10 metres above the surface"
+      ],
+      "correctAnswer": "B) 10 metres below the surface",
+      "explanation": "1. The initial depth of 6 metres below the surface can be represented as -6 metres.\n2. Swimming downwards another 4 metres means the depth decreases further by 4 metres. This is represented by subtracting 4 or adding -4.\n3. To find the new depth, we calculate: -6 - 4.\n4. When you subtract a positive number from a negative number, and the result moves further away from zero in the negative direction, you add the magnitudes and keep the negative sign: 6 + 4 = 10, so -6 - 4 = -10.\n5. Therefore, the diver's new depth is -10 metres, which means 10 metres below the surface.",
+      "hint": "Remember that 'below the surface' can be represented with negative numbers. When you swim 'downwards', you are moving further into negative depth.",
+      "generatedAt": "2026-04-29T21:55:32.677300"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_006",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A video game player's score can be positive or negative. Liam starts a level with a score of -25 points. During the level, he makes a mistake and loses 15 points. What is Liam's final score?",
+      "options": [
+        "-10 points",
+        "10 points",
+        "-40 points",
+        "40 points"
+      ],
+      "correctAnswer": "-40 points",
+      "explanation": "To find Liam's final score, you start with his initial score and subtract the points he lost. \nInitial score = -25 points\nPoints lost = 15 points\nFinal score = Initial score - Points lost\nFinal score = -25 - 15\nWhen you subtract a positive number from a negative number, you move further into the negative direction on a number line.\n-25 - 15 = -40\nTherefore, Liam's final score is -40 points.",
+      "hint": "Think about starting at -25 on a number line and then moving 15 units to the left.",
+      "generatedAt": "2026-04-29T21:55:44.159351"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_007",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "The temperature in a desert town during the day is 4°C. Overnight, the temperature falls by 9°C. What is the temperature in the desert town overnight?",
+      "options": [
+        "A) 5°C",
+        "B) -5°C",
+        "C) 13°C",
+        "D) -13°C"
+      ],
+      "correctAnswer": "B) -5°C",
+      "explanation": "1. The starting temperature is 4°C.\n2. The temperature falls by 9°C, which means you need to subtract 9 from the starting temperature.\n3. Calculation: 4 - 9 = -5.\n4. Therefore, the temperature overnight is -5°C.",
+      "hint": "Start with the initial temperature and consider whether 'falls by' means you add or subtract the change. Think about where you land on a number line if you start at 4 and move 9 units to the left.",
+      "generatedAt": "2026-04-29T21:55:52.541277"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_008",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Sophie's bank account has an overdraft of £30, which means her balance is -£30. She then deposits £50 into her account. What is Sophie's new bank balance?",
+      "options": [
+        "£80",
+        "£20",
+        "-£20",
+        "-£80"
+      ],
+      "correctAnswer": "£20",
+      "explanation": "Sophie's initial balance is -£30.\nShe deposits £50, which means we add £50 to her current balance.\nThe calculation is -£30 + £50.\nStarting at -30 on a number line and moving 50 units in the positive direction (to the right) brings you to +20.\nTherefore, Sophie's new bank balance is £20.",
+      "hint": "Think about starting at -30 on a number line and then adding 50. Which direction do you move on the number line?",
+      "generatedAt": "2026-04-29T21:56:01.319502"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_009",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A small business owner has £120 in their bank account. They pay a bill for £150. What is their new bank balance?",
+      "options": [
+        "£270",
+        "£30",
+        "-£30",
+        "-£270"
+      ],
+      "correctAnswer": "-£30",
+      "explanation": "1. The initial bank balance is £120.\n2. Paying a bill of £150 means this amount is subtracted from the balance.\n3. The calculation is £120 - £150.\n4. When you subtract a larger number from a smaller number, the result is negative.\n5. The difference between 150 and 120 is 30.\n6. Therefore, the new bank balance is -£30.",
+      "hint": "Consider what happens when you spend more money than you have in your account.",
+      "generatedAt": "2026-04-29T21:56:10.656060"
+    },
+    {
+      "id": "m-y7-directed-numbers_beginner_010",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A factory production line tracks its daily defect count. At the start of the day, the count is 0. By lunchtime, 4 products are identified as defective. By the end of the day, an additional 9 products are found to be defective. What is the total number of defective products recorded for the day, expressed as a directed number?",
+      "options": [
+        "A) 13",
+        "B) 5",
+        "C) -5",
+        "D) -13"
+      ],
+      "correctAnswer": "D) -13",
+      "explanation": "Start with a count of 0.\nWhen 4 products are identified as defective, the count changes by -4, so the total becomes 0 - 4 = -4.\nWhen an additional 9 products are found defective, the count changes by another -9, so the total becomes -4 - 9 = -13.\nTherefore, the total number of defective products recorded is -13.",
+      "hint": "Think of identifying defective products as a subtraction from the starting count of 0.",
+      "generatedAt": "2026-04-29T21:56:36.091304"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y7-directed-numbers_intermediate_001",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "The temperature in a town at midnight was -5°C. By 6 am, the temperature had risen by 8°C. Then, by midday, it fell by 11°C. What was the temperature at midday? Show your working.",
+      "options": [
+        "14°C",
+        "8°C",
+        "-8°C",
+        "-14°C"
+      ],
+      "correctAnswer": "-8°C",
+      "explanation": "Step 1: Calculate the temperature at 6 am.\nThe temperature at midnight was -5°C. It then rose by 8°C.\n-5°C + 8°C = 3°C\n\nStep 2: Calculate the temperature at midday.\nFrom 6 am, the temperature (3°C) fell by 11°C.\n3°C - 11°C = -8°C\n\nTherefore, the temperature at midday was -8°C.",
+      "hint": "Break the problem down into two steps. First, calculate the temperature after the rise. Then, use that result to calculate the temperature after the fall. Remember that 'risen' means addition and 'fell' means subtraction.",
+      "generatedAt": "2026-04-29T21:56:49.591685"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_002",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "Jamal's bank account had a starting balance of -£75. He then deposited £120 into his account. A few days later, he used his debit card to pay for groceries costing £90. What is Jamal's final bank account balance? Show your working.",
+      "options": [],
+      "correctAnswer": "Initial balance: -£75\n\nStep 1: Calculate balance after deposit.\n-£75 + £120 = £45\n\nStep 2: Calculate balance after paying for groceries.\n£45 - £90 = -£45\n\nJamal's final bank account balance is -£45.",
+      "explanation": "This problem requires you to perform two operations with directed numbers. First, Jamal's account starts with a negative balance of -£75. When he deposits £120, this amount is added to his balance. So, you calculate -£75 + £120. Think of this as clearing his debt of £75 first, and then having £45 left over from the deposit (£120 - £75 = £45). His balance is now £45. Next, he spends £90 on groceries, which means this amount is subtracted from his current balance. So, you calculate £45 - £90. Since you are subtracting a larger number from a smaller positive number, the result will be negative. The difference between £90 and £45 is £45, so his final balance is -£45.",
+      "hint": "Remember that depositing money increases the balance (addition) and paying for something decreases the balance (subtraction). Work through the transactions in the order they occurred. Pay close attention to whether the balance becomes positive or negative after each step.",
+      "generatedAt": "2026-04-29T21:57:03.020207"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_003",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "In a quiz game, players start with 0 points. For a 'Challenge' question, players lose 35 points if incorrect. For a 'Quick Fire' question, players gain 20 points if correct.\nJamie answers one 'Challenge' question incorrectly and then answers two 'Quick Fire' questions correctly.\nCalculate Jamie's final score. Show your working.",
+      "options": [
+        "-15",
+        "5",
+        "15",
+        "75"
+      ],
+      "correctAnswer": "5",
+      "explanation": "Step 1: Calculate the points lost from the 'Challenge' question.\nJamie answers one 'Challenge' question incorrectly, so Jamie loses 35 points. This is represented as -35 points.\n\nStep 2: Calculate the points gained from the 'Quick Fire' questions.\nJamie answers two 'Quick Fire' questions correctly. Each correct answer gains 20 points.\nTotal points gained = 2 * 20 = 40 points. This is represented as +40 points.\n\nStep 3: Calculate Jamie's final score by combining the points from Step 1 and Step 2.\nFinal score = (Points lost) + (Points gained)\nFinal score = -35 + 40\nFinal score = 5 points.",
+      "hint": "First, calculate the total points lost. Then, calculate the total points gained. Finally, combine these two values to find the overall score.",
+      "generatedAt": "2026-04-29T21:57:14.423910"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_004",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A lift starts on floor -2 (two floors below ground level). It travels up 18 floors. After delivering a parcel, it then travels down 11 floors to collect another parcel. On which floor does the lift finish? Show your working.",
+      "options": [
+        "Floor 5",
+        "Floor 9",
+        "Floor 11",
+        "Floor -4"
+      ],
+      "correctAnswer": "Floor 5",
+      "explanation": "First, the lift starts on floor -2 and travels up 18 floors.\nTo find the new position, we calculate: -2 + 18 = 16.\nSo, the lift is now on floor 16.\nNext, the lift travels down 11 floors from floor 16.\nTo find the final position, we calculate: 16 - 11 = 5.\nTherefore, the lift finishes on Floor 5.",
+      "hint": "Think of 'up' as adding a positive number and 'down' as subtracting a positive number (or adding a negative number) to the current floor number. Perform the operations in the order they occur.",
+      "generatedAt": "2026-04-29T21:57:24.814284"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_005",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A deep-sea probe is exploring the ocean. Its current position is at -120 meters, meaning 120 meters below sea level. The probe then descends an additional 75 meters to collect a sample. After collecting the sample, it ascends 90 meters. What is the probe's final depth, in meters, relative to sea level?",
+      "options": [
+        "A) -105 meters",
+        "B) -285 meters",
+        "C) 45 meters",
+        "D) 105 meters"
+      ],
+      "correctAnswer": "A) -105 meters",
+      "explanation": "1. The probe starts at a depth of -120 meters.\n2. It then descends an additional 75 meters. Descending means the depth becomes more negative, so we subtract: -120 - 75 = -195 meters.\n3. Finally, it ascends 90 meters. Ascending means the depth becomes less negative (moves closer to 0 or positive), so we add: -195 + 90 = -105 meters.\nThe probe's final depth is -105 meters.",
+      "hint": "Represent 'below sea level' as negative numbers. Remember that descending means subtracting from the current depth, and ascending means adding to it.",
+      "generatedAt": "2026-04-29T21:57:54.043342"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_006",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small business started the financial year with a debt of £250. This can be represented as a balance of -£250.\nDuring the first quarter, the business made sales resulting in a profit of £480.\nHowever, they then had to pay two invoices: one for £120 and another for £95.\nCalculate the final balance of the business at the end of the first quarter. Show your working.",
+      "options": [],
+      "correctAnswer": "Starting balance = -£250\nProfit from sales = +£480\nFirst invoice payment = -£120\nSecond invoice payment = -£95\n\nStep 1: Calculate the balance after making a profit.\n-£250 + £480 = £230\n\nStep 2: Calculate the balance after paying the first invoice.\n£230 - £120 = £110\n\nStep 3: Calculate the final balance after paying the second invoice.\n£110 - £95 = £15\n\nThe final balance of the business at the end of the first quarter is £15.",
+      "explanation": "The initial debt is a negative value. A profit increases the balance, so it's added. Paying invoices reduces the balance, so these amounts are subtracted. The calculation sequence is -250 + 480 - 120 - 95.",
+      "hint": "Remember that debt is represented by a negative number and profit by a positive number. Payments will decrease the total balance.",
+      "generatedAt": "2026-04-29T21:58:21.055445"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_007",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "In a cold region, the average daily temperature for a particular week was -7°C. On Monday, the temperature recorded was 5°C higher than this average. On Tuesday, the temperature was 9°C lower than the temperature recorded on Monday. What was the temperature on Tuesday? Show your working.",
+      "options": [
+        "-11°C",
+        "-3°C",
+        "7°C",
+        "-21°C"
+      ],
+      "correctAnswer": "-11°C",
+      "explanation": "First, calculate Monday's temperature:\nThe average temperature was -7°C. Monday's temperature was 5°C higher than the average, so we add 5 to the average temperature:\n-7°C + 5°C = -2°C\n\nNext, calculate Tuesday's temperature:\nTuesday's temperature was 9°C lower than Monday's temperature. We subtract 9 from Monday's temperature:\n-2°C - 9°C = -11°C\n\nTherefore, the temperature on Tuesday was -11°C.",
+      "hint": "Break the problem down into two steps. First, calculate Monday's temperature based on the average. Then, use Monday's temperature to calculate Tuesday's temperature.",
+      "generatedAt": "2026-04-29T21:58:30.950907"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_008",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small charity has a starting bank balance of -£350, meaning they owe £350. They then receive a donation of £280. Later, they pay an outstanding bill of £175. What is the charity's final bank balance? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "The charity's final bank balance is -£245.\n\nWorking:\n1.  Starting balance: -£350\n2.  After receiving a donation of £280:\n    -£350 + £280 = -£70\n    The balance is now -£70.\n3.  After paying an outstanding bill of £175:\n    -£70 - £175 = -£245\n    The final bank balance is -£245.",
+      "explanation": "1.  The charity starts with a debt, represented by a negative balance of -£350.\n2.  When they receive a donation of £280, this is an addition to their balance. So, we calculate -£350 + £280. This simplifies to -£70, meaning they still owe £70.\n3.  Next, they pay an outstanding bill of £175. This is a subtraction from their current balance. So, we calculate -£70 - £175. This results in -£245.\n4.  Therefore, the charity's final bank balance is -£245, indicating they now owe £245.",
+      "hint": "Start with the initial balance and perform each financial transaction in order, remembering that a donation adds money and paying a bill subtracts money.",
+      "generatedAt": "2026-04-29T21:58:42.608404"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_009",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "In a football league, Team Delta started the season with a goal difference of 0. In their first four matches, they scored a total of 7 goals and conceded a total of 3 goals. In their next three matches, they scored a total of 2 goals and conceded a total of 10 goals. What is Team Delta's final goal difference? Show your working clearly.",
+      "options": [
+        "A) 6",
+        "B) -4",
+        "C) 8",
+        "D) -12"
+      ],
+      "correctAnswer": "B) -4",
+      "explanation": "There are two main ways to solve this problem.\n\n**Method 1: Calculate goal difference for each period then combine.**\n1.  **First four matches:** Team Delta scored 7 goals and conceded 3 goals.\n    Goal difference for this period = 7 - 3 = +4.\n2.  **Next three matches:** Team Delta scored 2 goals and conceded 10 goals.\n    Goal difference for this period = 2 - 10 = -8.\n3.  **Final goal difference:** Start with 0 and add the changes from each period.\n    Final goal difference = 0 + (+4) + (-8) = 4 - 8 = -4.\n\n**Method 2: Calculate total goals scored and total goals conceded.**\n1.  **Total goals scored:** 7 goals (first matches) + 2 goals (next matches) = 9 goals.\n2.  **Total goals conceded:** 3 goals (first matches) + 10 goals (next matches) = 13 goals.\n3.  **Final goal difference:** Total goals scored - Total goals conceded.\n    Final goal difference = 9 - 13 = -4.\n\nBoth methods lead to the same answer, -4.",
+      "hint": "Consider how goals scored contribute positively and goals conceded contribute negatively to the goal difference. You can either find the net change for each set of matches or find the overall total of goals scored and goals conceded.",
+      "generatedAt": "2026-04-29T21:59:01.281025"
+    },
+    {
+      "id": "m-y7-directed-numbers_intermediate_010",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "Sarah's bank account had a balance of £-75 on Monday morning. On Tuesday, she paid for a new book, which cost £18. Later that day, her friend repaid her £30 for a concert ticket. What was Sarah's bank account balance at the end of Tuesday? Show your working.",
+      "options": [
+        "£-63",
+        "£-93",
+        "£-27",
+        "£-123"
+      ],
+      "correctAnswer": "£-63",
+      "explanation": "1.  **Starting Balance:** Sarah's bank account began with a balance of £-75.\n2.  **Paying for the book:** When Sarah paid £18 for a new book, this amount is deducted from her balance:\n    -75 - 18 = -93\n    Her balance is now £-93.\n3.  **Friend's repayment:** When her friend repaid her £30, this amount is added to her balance:\n    -93 + 30 = -63\n    Therefore, Sarah's bank account balance at the end of Tuesday was £-63.",
+      "hint": "Consider the effect of 'paying for' something and 'repaying' money on the balance. One will decrease it, the other will increase it.",
+      "generatedAt": "2026-04-29T21:59:14.694257"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y7-directed-numbers_advanced_001",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Maria has a bank account. Her balance at the start of the week was £80.\n\nOn Monday, she paid for a new jacket costing £120 using her debit card.\nOn Tuesday, she deposited £50 cash into her account.\nOn Wednesday, she withdrew £40 cash from an ATM.\nOn Thursday, her grandmother sent her a gift, and she deposited £100 into her account.\n\nMaria wants to have a balance of at least £150 by the end of the week. How much more money, if any, does Maria need to deposit by the end of the week to reach her target balance? Show all your working.",
+      "options": [],
+      "correctAnswer": "£80\n\n**Step-by-step working:**\n1.  **Start of the week balance:** £80\n\n2.  **After Monday's purchase:** Maria spent £120.\n    £80 - £120 = -£40\n    (Her account is now overdrawn by £40)\n\n3.  **After Tuesday's deposit:** Maria deposited £50.\n    -£40 + £50 = £10\n\n4.  **After Wednesday's withdrawal:** Maria withdrew £40.\n    £10 - £40 = -£30\n    (Her account is again overdrawn by £30)\n\n5.  **After Thursday's deposit:** Maria deposited £100.\n    -£30 + £100 = £70\n    (Her current balance is £70)\n\n6.  **Calculate money needed to reach target:** Maria wants a balance of £150.\n    Target balance - Current balance = Money needed\n    £150 - £70 = £80\n\nMaria needs to deposit £80 more to reach her target balance.",
+      "explanation": "This question requires applying operations with directed numbers in a practical context. Students must track a bank account balance through several transactions, including those that cause the balance to become negative (an overdraft). Each transaction involves either adding a positive amount (deposit) or subtracting a positive amount (spending/withdrawal), which can lead to negative results. The final step involves calculating the difference between the current balance and a desired positive target balance.",
+      "hint": "Keep track of the balance after each transaction, remembering that an overdraft means the balance is a negative number. To find out how much more money is needed, calculate the difference between the target balance and the final current balance.",
+      "generatedAt": "2026-04-29T21:59:30.547251"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_002",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Gadget Galaxy is a small business. At the start of Monday morning, their bank account had a balance of -£250 (meaning they were £250 in debt).\n\nOn Monday: They received a payment of £800 from customers and paid a supplier bill of £350.\n\nOn Tuesday: They received another payment of £210 and bought new stock costing £600.\n\nOn Wednesday: They received a refund of £75 due to an overcharge from a supplier and paid staff bonuses totalling £120.\n\nWhat was Gadget Galaxy's bank balance at the end of Wednesday? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Initial balance on Monday morning = -£250\n\n**Monday:**\nBalance after receiving payment: -£250 + £800 = £550\nBalance after paying supplier bill: £550 - £350 = £200\n\n**Tuesday:**\nBalance after receiving payment: £200 + £210 = £410\nBalance after buying new stock: £410 - £600 = -£190\n\n**Wednesday:**\nBalance after receiving refund: -£190 + £75 = -£115\nBalance after paying staff bonuses: -£115 - £120 = -£235\n\nGadget Galaxy's bank balance at the end of Wednesday was -£235.",
+      "explanation": "1.  **Start of Monday:** The initial balance is given as -£250, indicating a debt.\n2.  **Monday Transactions:**\n    *   They received £800, so the balance increased: -£250 + £800 = £550.\n    *   They paid £350 for a bill, so the balance decreased: £550 - £350 = £200. The balance at the end of Monday was £200.\n3.  **Tuesday Transactions:**\n    *   They received £210, so the balance increased: £200 + £210 = £410.\n    *   They bought stock for £600, so the balance decreased: £410 - £600 = -£190. This means they were now £190 in debt at the end of Tuesday.\n4.  **Wednesday Transactions:**\n    *   They received a refund of £75, so the balance increased: -£190 + £75 = -£115. They were still in debt, but less so.\n    *   They paid bonuses of £120, so the balance decreased: -£115 - £120 = -£235.\n\nTherefore, the final bank balance at the end of Wednesday was -£235.",
+      "hint": "Track the bank balance sequentially from the start of Monday. Remember that money coming in (payments received, refunds) means you add to the balance, while money going out (bills paid, stock purchased, bonuses) means you subtract from the balance. Be careful when crossing between positive and negative values.",
+      "generatedAt": "2026-04-29T21:59:51.019145"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_003",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A highly sensitive scientific experiment requires precise temperature control. The temperature inside a sealed chamber is initially set at -20°C.\n\nFor the first phase of the experiment, the temperature is increased by 15°C.\nFor the second phase, the temperature is then decreased by 18°C.\n\nAfter these two adjustments, a malfunction occurs, causing the chamber's temperature to steadily drop by 4°C every 30 minutes. The malfunction lasts for 2 hours and 30 minutes before being fixed.\n\na) What is the final temperature in the chamber after the malfunction is fixed? (3 marks)\nb) The absolute lowest safe operating temperature for the chamber is -45°C. By how many degrees is the final temperature calculated in part (a) above or below this absolute lowest safe operating temperature? State your answer clearly, indicating whether it is 'above' or 'below'. (2 marks)\n\nShow all your working for full marks.",
+      "options": [],
+      "correctAnswer": "a) The final temperature in the chamber is -43°C.\nb) The final temperature is 2°C above the absolute lowest safe operating temperature.",
+      "explanation": "a) Step 1: Calculate temperature after the first phase.\nInitial temperature = -20°C\nIncreased by 15°C: -20 + 15 = -5°C.\n\nStep 2: Calculate temperature after the second phase.\nDecreased by 18°C: -5 - 18 = -23°C.\n\nStep 3: Calculate the total drop during the malfunction.\nThe malfunction lasts for 2 hours and 30 minutes.\nConvert 2 hours 30 minutes to minutes: (2 * 60) + 30 = 120 + 30 = 150 minutes.\nThe temperature drops by 4°C every 30 minutes.\nNumber of 30-minute intervals = 150 minutes / 30 minutes = 5 intervals.\nTotal temperature drop = 5 intervals * 4°C/interval = 20°C drop.\n\nStep 4: Calculate the final temperature.\nTemperature after second phase = -23°C.\nTotal drop during malfunction = 20°C.\nFinal temperature = -23 - 20 = -43°C.\n\nb) Step 1: Compare the final temperature to the lowest safe operating temperature.\nFinal temperature = -43°C.\nLowest safe operating temperature = -45°C.\n\nStep 2: Calculate the difference and determine if it's above or below.\nDifference = Final temperature - Lowest safe operating temperature\nDifference = -43 - (-45) = -43 + 45 = 2°C.\nSince the difference is positive, the final temperature is above the lowest safe operating temperature.\nSo, the final temperature is 2°C above the absolute lowest safe operating temperature.",
+      "hint": "For part (a), work through the temperature changes step-by-step. Remember to convert the total malfunction time into 30-minute intervals to find the total temperature drop. For part (b), subtract the lowest safe temperature from the final temperature, paying close attention to whether the result indicates 'above' or 'below'.",
+      "generatedAt": "2026-04-29T22:00:10.196838"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_004",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A special climate-controlled storage unit is designed to keep rare plants at a precise ideal temperature of -7°C.\nOn Monday morning, the unit's actual temperature is -2°C.\nDue to a sensor fault, the temperature unexpectedly drops by 4°C every 3 hours for a total of 9 hours.\nAfter these 9 hours, the fault is fixed. The system then automatically increases the temperature by 2°C per hour until it reaches the ideal temperature.\nHow many hours did it take for the system to return to the ideal temperature after the fault was fixed? Show your working.",
+      "options": [],
+      "correctAnswer": "1.  **Calculate the total temperature drop due to the fault:**\n    The temperature drops by 4°C every 3 hours.\n    Over 9 hours, this happens 9 ÷ 3 = 3 times.\n    Total temperature drop = 3 × 4°C = 12°C.\n\n2.  **Calculate the temperature after the fault:**\n    The initial temperature was -2°C.\n    Temperature after fault = -2°C - 12°C = -14°C.\n\n3.  **Determine the temperature difference needed to reach the ideal temperature:**\n    The ideal temperature is -7°C.\n    The current temperature after the fault is -14°C.\n    Difference needed = Ideal temperature - Current temperature\n    Difference needed = -7°C - (-14°C) = -7°C + 14°C = 7°C.\n\n4.  **Calculate the time taken to return to the ideal temperature:**\n    The system increases the temperature by 2°C per hour.\n    Time taken = Temperature difference needed ÷ Rate of increase\n    Time taken = 7°C ÷ 2°C per hour = 3.5 hours.\n\nIt took **3.5 hours** for the system to return to the ideal temperature after the fault was fixed.",
+      "explanation": "The solution involves several steps of calculation with directed numbers. First, determine the total temperature drop during the fault period by calculating how many times the 3-hour drop occurs within 9 hours, then multiplying by the drop per cycle. Second, subtract this total drop from the initial temperature to find the temperature after the fault. Third, calculate the difference between this new temperature and the ideal temperature, which involves subtracting a negative number. Finally, divide this required temperature change by the rate of increase to find the total time taken to reach the ideal temperature.",
+      "hint": "First, calculate the total temperature change during the 9-hour fault period. Then, find the new temperature before determining how much the temperature needs to change to reach the ideal, and finally how long that change will take.",
+      "generatedAt": "2026-04-29T22:00:24.781531"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_005",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "In a competitive online game called \"Valor Points\", players can earn or lose points, leading to negative scores. \n\nAt the start of a round, Maya had a score of -50 points. \n\nIn her first action, she earned 45 points. \n\nIn her second action, she took a penalty, losing 70 points. \n\nFinally, in her third action, she activated a special ability which tripled her current score. \n\nShow your working for all parts. \n\na) What was Maya's score after her third action? \nb) Another player, Ethan, had a score that was exactly halfway between Maya's *initial* score and Maya's *final* score. What was Ethan's score?",
+      "options": [],
+      "correctAnswer": "a) Maya's initial score = -50 points.\nAfter first action (earned 45 points): -50 + 45 = -5 points.\nAfter second action (lost 70 points): -5 - 70 = -75 points.\nAfter third action (tripled current score): -75 × 3 = -225 points.\nMaya's final score after her third action was -225 points.\n\nb) Maya's initial score = -50 points.\nMaya's final score (from part a) = -225 points.\nTo find the score exactly halfway between two numbers, you can calculate their average:\nEthan's score = (Initial score + Final score) ÷ 2\nEthan's score = (-50 + (-225)) ÷ 2\nEthan's score = (-50 - 225) ÷ 2\nEthan's score = -275 ÷ 2\nEthan's score = -137.5 points.\nEthan's score was -137.5 points.",
+      "explanation": "This problem requires careful tracking of a player's score through several changes involving directed numbers. Part a) involves addition, subtraction, and multiplication of negative numbers in sequence. Part b) requires finding the midpoint (average) of two negative numbers, building upon the final score calculated in part a).",
+      "hint": "For part a), calculate Maya's score step-by-step after each action, paying close attention to whether points are gained or lost, and remember how to multiply a negative number. For part b), think about how you find the number that is exactly in the middle of two other numbers.",
+      "generatedAt": "2026-04-29T22:00:46.576661"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_006",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A deep-sea exploration robot, 'Neptune-X', monitors its operational energy level. The energy level is measured in 'units', where 0 units means the robot is fully charged. Positive units mean it has excess energy, and negative units mean it has a deficit from the full charge (e.g., -50 units means it needs 50 units to be fully charged).\n\n1.  Neptune-X begins a mission with an energy level of -15 units.\n2.  It completes a scanning sequence, which uses 30 units of energy.\n3.  Then, it finds an an underwater thermal vent and is able to partially recharge, gaining 22 units of energy.\n4.  Finally, it activates its deep-sea manipulator arm for a difficult task, which uses 45 units of energy.\n\nWhat is the final energy level of Neptune-X?\nShow your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "The final energy level of Neptune-X is -68 units.\n\nWorking:\n1. Initial energy level: -15 units.\n2. After scanning sequence (uses 30 units): -15 - 30 = -45 units.\n3. After partial recharge (gains 22 units): -45 + 22 = -23 units.\n4. After activating manipulator arm (uses 45 units): -23 - 45 = -68 units.",
+      "explanation": "Step-by-step calculation:\n1. The robot starts at an energy level of -15 units.\n2. It 'uses' 30 units of energy, meaning we subtract this amount from the current level: -15 - 30 = -45 units.\n3. It 'gains' 22 units of energy, so we add this amount: -45 + 22 = -23 units.\n4. It 'uses' another 45 units of energy, meaning we subtract again: -23 - 45 = -68 units.\nTherefore, the final energy level of Neptune-X is -68 units.",
+      "hint": "Start with the initial energy level and perform the operations in the order given. Remember that 'uses energy' implies subtraction, and 'gains energy' implies addition. Be careful with the signs of your directed numbers at each step.",
+      "generatedAt": "2026-04-29T22:00:58.485495"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_007",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A geological research team is monitoring a sensor's 'environmental stability reading' during a drilling operation. The sensor starts at a ground level, where the initial reading is 0 units. As the drill moves downwards through different rock layers, the reading changes based on the layer's properties.\n\n*   First, the drill penetrates through Layer X, which is 25 metres thick. For every metre drilled through Layer X, the environmental stability reading changes by -0.8 units.\n*   Next, the drill passes through Layer Y, which is 40 metres thick. For every metre drilled through Layer Y, the reading changes by +0.5 units.\n*   Finally, the drill goes through Layer Z, which is 15 metres thick. For every metre drilled through Layer Z, the reading changes by -1.2 units.\n\nCalculate the final environmental stability reading after the drill has completely passed through all three layers. Show your working.",
+      "options": [
+        "-18 units",
+        "18 units",
+        "58 units",
+        "22 units"
+      ],
+      "correctAnswer": "-18 units",
+      "explanation": "1.  Calculate the change in reading for Layer X:\n    Thickness of Layer X = 25 metres\n    Change per metre in Layer X = -0.8 units\n    Total change for Layer X = 25 * (-0.8) = -20 units\n\n2.  Calculate the change in reading for Layer Y:\n    Thickness of Layer Y = 40 metres\n    Change per metre in Layer Y = +0.5 units\n    Total change for Layer Y = 40 * (+0.5) = +20 units\n\n3.  Calculate the change in reading for Layer Z:\n    Thickness of Layer Z = 15 metres\n    Change per metre in Layer Z = -1.2 units\n    Total change for Layer Z = 15 * (-1.2) = -18 units\n\n4.  Calculate the final environmental stability reading:\n    Start reading = 0 units\n    Total change = (Change for Layer X) + (Change for Layer Y) + (Change for Layer Z)\n    Total change = (-20 units) + (+20 units) + (-18 units)\n    Total change = 0 - 18 = -18 units\n\n    Final reading = Start reading + Total change = 0 + (-18) = -18 units.",
+      "hint": "Calculate the total change in reading for each layer separately by multiplying its thickness by the change per metre. Remember to pay close attention to the positive and negative signs during multiplication and when adding the total changes together.",
+      "generatedAt": "2026-04-29T22:01:22.601436"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_008",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Sarah has £50 in her bank account on Sunday evening. On Monday, she spends £35 on a new game. On Tuesday, her grandmother sends her £20, which is deposited into her account. On Wednesday, Sarah withdraws £60 to buy some art supplies. On Thursday, the bank charges her an overdraft fee of £8 because her balance dropped below zero. What is Sarah's final bank balance on Friday morning? Show your working.",
+      "options": [
+        "-£17",
+        "-£25",
+        "-£33",
+        "£17"
+      ],
+      "correctAnswer": "-£33",
+      "explanation": "1. Sarah's starting balance on Sunday evening: £50.\n2. On Monday, she spends £35: £50 - £35 = £15.\n3. On Tuesday, her grandmother deposits £20: £15 + £20 = £35.\n4. On Wednesday, she withdraws £60: £35 - £60 = -£25.\n5. On Thursday, the bank charges an overdraft fee of £8: -£25 - £8 = -£33.\nTherefore, Sarah's final bank balance on Friday morning is -£33.",
+      "hint": "Track the bank balance after each transaction. Remember that spending money, withdrawing money, or being charged a fee means subtracting from the current balance. Depositing money means adding to the current balance. Pay close attention to when the balance becomes negative and how subsequent subtractions affect it.",
+      "generatedAt": "2026-04-29T22:01:39.137756"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_009",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A group of students sets up a shared bank account for their Year 7 science project. \n1.  They start the account by depositing £120.\n2.  Liam then uses his own money to buy project materials costing £45. The group agrees to reimburse him from the shared account.\n3.  Maria organises a small fundraising event and deposits the £30 collected into the shared account.\n4.  Later, Liam withdraws £20 from the shared account to cover transport costs for a field trip related to the project.\n5.  A bill for specialised software, costing £78, is paid directly from the shared account.\n6.  At the end of the month, the bank applies a management fee of £5 to the account.\n\nThe students then realise they need to pay their project supervisor a total of £100 for a special workshop.\n\nWhat is the final balance in the account after all these transactions and the bank fee? Will they have enough money in the fund to pay their project supervisor? If not, how much more do they need? If so, how much money will be left over? Show all your working.",
+      "options": [],
+      "correctAnswer": "Initial balance: £120\n\n1.  Reimburse Liam for materials (£45): £120 - £45 = £75\n2.  Maria's deposit (£30): £75 + £30 = £105\n3.  Liam's withdrawal (£20): £105 - £20 = £85\n4.  Software bill payment (£78): £85 - £78 = £7\n5.  Bank management fee (£5): £7 - £5 = £2\n\nThe final balance in the account after all transactions and the bank fee is £2.\n\nThe students need to pay their project supervisor £100.\nSince the final balance (£2) is less than the amount needed (£100), they do not have enough money.\nAmount more needed = £100 - £2 = £98.\n\nTherefore, the final balance is £2. They do not have enough money to pay their supervisor and need £98 more.",
+      "explanation": "This is an open-ended question. The step-by-step working is provided in the 'correctAnswer' field.",
+      "hint": "Start with the initial deposit and calculate the running balance after each transaction. Remember that deposits increase the balance (positive change) and reimbursements, withdrawals, bills, and fees decrease the balance (negative change).",
+      "generatedAt": "2026-04-29T22:01:57.249854"
+    },
+    {
+      "id": "m-y7-directed-numbers_advanced_010",
+      "topicId": "m-y7-directed-numbers",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A small independent comic book shop, 'Heroic Tales', manages its finances carefully. The shop's financial balance is tracked, where a positive balance means money the shop has, and a negative balance means money the shop owes (debt). \n\nOn Sunday evening, Heroic Tales had a financial balance of -£325. This means they owed £325.\n\nDuring the next week, the following transactions occurred:\n- On Monday, the shop received a payment of £180 from an advance order for a rare comic.\n- On Tuesday, they paid their monthly rent of £650.\n- On Wednesday, they sold various comics and merchandise, totalling £415.\n- On Thursday, they purchased new stock from suppliers, costing £290.\n- On Friday, a customer returned a graphic novel and was given a refund of £25.\n- On Saturday, they made another big sale of graphic novels, bringing in £350.\n\nCalculate the shop's final financial balance at the end of Saturday.\nAlso, calculate the total change in the shop's financial balance from Sunday evening to the end of Saturday.\n\nShow your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the final financial balance, we start with the initial balance and add/subtract each transaction chronologically:\nInitial balance (Sunday evening): -£325\n\n1.  **Monday (Payment received):** -£325 + £180 = -£145\n2.  **Tuesday (Rent paid):** -£145 - £650 = -£795\n3.  **Wednesday (Sales):** -£795 + £415 = -£380\n4.  **Thursday (New stock purchased):** -£380 - £290 = -£670\n5.  **Friday (Refund given):** -£670 - £25 = -£695\n6.  **Saturday (Sales):** -£695 + £350 = -£345\n\n**Final financial balance at the end of Saturday: -£345** (The shop still owes £345).\n\nTo calculate the total change in the balance, we subtract the initial balance from the final balance:\nTotal change = Final balance - Initial balance\nTotal change = -£345 - (-£325)\nTotal change = -£345 + £325\nTotal change = -£20\n\n**Total change in the shop's financial balance: -£20** (A decrease of £20).",
+      "explanation": "The problem requires tracking a series of financial transactions for a comic book shop, starting with an initial debt (negative balance). Each transaction must be applied sequentially to the current balance. Receiving money (payment, sales) increases the balance (positive change), while paying money (rent, stock purchase, refund) decreases the balance (negative change).\n\nStep-by-step calculation of the final balance:\n1.  Start with the given initial balance: -325.\n2.  Add Monday's payment: -325 + 180 = -145.\n3.  Subtract Tuesday's rent: -145 - 650 = -795.\n4.  Add Wednesday's sales: -795 + 415 = -380.\n5.  Subtract Thursday's purchase cost: -380 - 290 = -670.\n6.  Subtract Friday's refund: -670 - 25 = -695.\n7.  Add Saturday's sales: -695 + 350 = -345.\n\nThis gives the final balance of -£345.\n\nTo find the total change, compare the final balance to the initial balance: \nChange = Final Balance - Initial Balance.\nChange = -345 - (-325) = -345 + 325 = -20.\nThis means the overall balance decreased by £20 from the start to the end of the week.",
+      "hint": "Start with the initial balance and carefully process each transaction in order. Remember that money received is a positive change, and money paid out (including refunds) is a negative change. To find the total change, subtract the starting balance from the final balance.",
+      "generatedAt": "2026-04-29T22:02:31.043205"
+    }
+  ]
+}

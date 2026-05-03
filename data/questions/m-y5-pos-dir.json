@@ -1,0 +1,523 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-pos-dir_beginner_001",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A point P is located at the coordinates (3, 4). This point is translated 2 units to the right and 1 unit down. What are the new coordinates of point P?",
+      "options": [
+        "(5, 3)",
+        "(1, 5)",
+        "(5, 5)",
+        "(4, 6)"
+      ],
+      "correctAnswer": "(5, 3)",
+      "explanation": "To translate a point 2 units to the right, you add 2 to its x-coordinate. So, the new x-coordinate is 3 + 2 = 5.\nTo translate a point 1 unit down, you subtract 1 from its y-coordinate. So, the new y-coordinate is 4 - 1 = 3.\nTherefore, the new coordinates of point P are (5, 3).",
+      "hint": "Remember that moving right or left affects the x-coordinate, and moving up or down affects the y-coordinate. 'Right' means add to x, 'left' means subtract from x. 'Up' means add to y, 'down' means subtract from y.",
+      "generatedAt": "2026-04-29T10:47:28.487564"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_002",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Triangle ABC has vertices at the coordinates A(1, 2), B(4, 2) and C(1, 5). The triangle is reflected across the y-axis. What are the coordinates of the reflected vertex A' (A prime)?",
+      "options": [
+        "(1, -2)",
+        "(-1, 2)",
+        "(-1, -2)",
+        "(1, 2)"
+      ],
+      "correctAnswer": "(-1, 2)",
+      "explanation": "When a point is reflected across the y-axis, the x-coordinate changes sign, while the y-coordinate remains the same. The general rule for reflection across the y-axis is (x, y) → (-x, y).\n\nFor vertex A(1, 2):\n\n1. The x-coordinate is 1, so it changes to -1.\n2. The y-coordinate is 2, so it remains 2.\n\nTherefore, the coordinates of the reflected vertex A' are (-1, 2).",
+      "hint": "Remember the rule for reflecting a point (x, y) across the y-axis: the x-coordinate changes its sign, but the y-coordinate stays the same.",
+      "generatedAt": "2026-04-29T10:47:39.638595"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_003",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A rectangle FGHI has one of its corners, F, located at the coordinates (3, -5). The entire rectangle is reflected across the x-axis. What are the new coordinates of corner F?",
+      "options": [
+        "(3, 5)",
+        "(-3, -5)",
+        "(-3, 5)",
+        "(5, -3)"
+      ],
+      "correctAnswer": "(3, 5)",
+      "explanation": "To reflect a point across the x-axis, the x-coordinate remains the same, and the sign of the y-coordinate changes.\n\nThe original coordinates of corner F are (3, -5).\n\nThe x-coordinate is 3, which stays the same.\nThe y-coordinate is -5, so when its sign changes, it becomes 5.\n\nTherefore, the new coordinates of corner F after reflection across the x-axis are (3, 5).",
+      "hint": "Think about how the x-coordinate and y-coordinate change when a point crosses the x-axis during a reflection.",
+      "generatedAt": "2026-04-29T10:47:52.519680"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_004",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square has its bottom-left vertex at the coordinates (1, 1). This square is translated 3 units to the right and 2 units up. What are the new coordinates of this bottom-left vertex after the translation? You must show your working.",
+      "options": [
+        "(4, 3)",
+        "(3, 2)",
+        "(2, 4)",
+        "(4, 2)"
+      ],
+      "correctAnswer": "(4, 3)",
+      "explanation": "To translate a point 3 units to the right, you add 3 to its x-coordinate. To translate a point 2 units up, you add 2 to its y-coordinate.\n\nOriginal coordinates of the bottom-left vertex: (1, 1)\n\nNew x-coordinate = Original x-coordinate + 3 = 1 + 3 = 4\nNew y-coordinate = Original y-coordinate + 2 = 1 + 2 = 3\n\nSo, the new coordinates of the bottom-left vertex are (4, 3).",
+      "hint": "Remember that moving right increases the x-coordinate, and moving up increases the y-coordinate. Apply these additions to the given coordinates.",
+      "generatedAt": "2026-04-29T10:48:06.717597"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_005",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A point, P, is located at the coordinates (3, 2) on a coordinate grid. This point is reflected across the vertical line where x = 7. What are the coordinates of the reflected point, P'?",
+      "options": [
+        "(3, 12)",
+        "(11, 2)",
+        "(7, 2)",
+        "(4, 2)"
+      ],
+      "correctAnswer": "(11, 2)",
+      "explanation": "1. The original point P has coordinates (3, 2).\n2. The reflection line is a vertical line at x = 7.\n3. When reflecting across a vertical line (like x=7), the y-coordinate of the point does not change. So, the y-coordinate of P' will be 2.\n4. To find the new x-coordinate, first find the horizontal distance from the original x-coordinate (3) to the reflection line (x=7).\n   Distance = 7 - 3 = 4 units.\n5. The reflected point P' will be the same distance (4 units) on the other side of the reflection line. So, add this distance to the reflection line's x-value.\n   New x-coordinate = 7 + 4 = 11.\n6. Therefore, the coordinates of the reflected point P' are (11, 2).",
+      "hint": "For a reflection, the distance from the original point to the reflection line is equal to the distance from the reflected point to the reflection line.",
+      "generatedAt": "2026-04-29T10:48:22.941477"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_006",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A point P has coordinates (5, -3). This point is reflected in the x-axis to form a new point, P'. Which of the following are the coordinates of P'?",
+      "options": [
+        "A) (-5, 3)",
+        "B) (5, 3)",
+        "C) (-5, -3)",
+        "D) (3, 5)"
+      ],
+      "correctAnswer": "B) (5, 3)",
+      "explanation": "When a point is reflected in the x-axis, its x-coordinate remains the same, but the sign of its y-coordinate changes. \n\nThe original point P has coordinates (5, -3).\n\n1. The x-coordinate stays the same: 5.\n2. The y-coordinate changes its sign: -(-3) = 3.\n\nSo, the coordinates of the reflected point P' are (5, 3).",
+      "hint": "Recall the rule for reflecting a point across the x-axis: what happens to the x-coordinate and what happens to the y-coordinate?",
+      "generatedAt": "2026-04-29T10:48:36.923326"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_007",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A quadrilateral has four sides. The lengths of its sides are 6 cm, 8 cm, 7 cm, and 9 cm. This quadrilateral is translated 4 units to the left and 3 units down on a coordinate grid. What are the lengths of the sides of the quadrilateral after this translation?",
+      "options": [
+        "A. 6 cm, 8 cm, 7 cm, and 9 cm",
+        "B. 10 cm, 12 cm, 11 cm, and 13 cm",
+        "C. 2 cm, 4 cm, 3 cm, and 5 cm",
+        "D. All sides become 5 cm long"
+      ],
+      "correctAnswer": "A. 6 cm, 8 cm, 7 cm, and 9 cm",
+      "explanation": "A translation is a type of transformation where a shape is moved from one position to another without changing its size, shape, or orientation. This means that the lengths of the sides of the quadrilateral will remain exactly the same after it has been translated. The distance and direction of the translation (4 units to the left and 3 units down) do not affect the internal measurements of the shape itself.",
+      "hint": "Think about what happens to a shape's size and shape when it is simply 'slid' from one place to another.",
+      "generatedAt": "2026-04-29T10:48:50.968167"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_008",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A triangle, DEF, has its vertices at D(3, 4), E(6, 4), and F(3, 8). This triangle is translated. After the translation, the new position of vertex D, called D', is at coordinates (5, 1).\n\nWhat are the new coordinates of vertex E, called E'?",
+      "options": [
+        "(5, 1)",
+        "(8, 1)",
+        "(8, 7)",
+        "(4, 7)"
+      ],
+      "correctAnswer": "(8, 1)",
+      "explanation": "Step 1: Determine the translation vector.\nOriginal coordinates of D are (3, 4).\nNew coordinates of D' are (5, 1).\nTo find the change in x-coordinate: 5 - 3 = +2.\nTo find the change in y-coordinate: 1 - 4 = -3.\nSo, the translation vector is (+2, -3).\n\nStep 2: Apply the translation vector to vertex E.\nOriginal coordinates of E are (6, 4).\nAdd the x-component of the vector to E's x-coordinate: 6 + 2 = 8.\nAdd the y-component of the vector to E's y-coordinate: 4 + (-3) = 4 - 3 = 1.\n\nTherefore, the new coordinates of vertex E, called E', are (8, 1).",
+      "hint": "First, work out the translation vector by comparing the original and new coordinates of vertex D. Then, apply this same translation vector to vertex E.",
+      "generatedAt": "2026-04-29T10:49:06.815553"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_009",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A triangle, named PQR, has its vertices at the following coordinates: P(2, 3), Q(5, 3), and R(2, 6).\n\nThe triangle is translated 3 units to the right and 2 units upwards.\n\nWhat are the new coordinates of vertex P after this translation?",
+      "options": [
+        "(4, 5)",
+        "(5, 5)",
+        "(5, 4)",
+        "(4, 4)"
+      ],
+      "correctAnswer": "(5, 5)",
+      "explanation": "To find the new coordinates of vertex P after a translation, you need to apply the given movement to its original coordinates.\n\nThe original coordinates of vertex P are (2, 3).\n\nThe translation is 3 units to the right, which means we add 3 to the x-coordinate.\nNew x-coordinate = 2 + 3 = 5\n\nThe translation is 2 units upwards, which means we add 2 to the y-coordinate.\nNew y-coordinate = 3 + 2 = 5\n\nTherefore, the new coordinates of vertex P are (5, 5).",
+      "hint": "Think about how 'moving right' affects the x-coordinate and how 'moving upwards' affects the y-coordinate.",
+      "generatedAt": "2026-04-29T10:49:20.283734"
+    },
+    {
+      "id": "m-y5-pos-dir_beginner_010",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square has one of its vertices, P, at the coordinates (1, 2). The square is translated 3 units to the right and 4 units up. What are the new coordinates of vertex P?",
+      "options": [
+        "(4, 6)",
+        "(6, 4)",
+        "(4, -2)",
+        "(-2, 6)"
+      ],
+      "correctAnswer": "(4, 6)",
+      "explanation": "To find the new coordinates of a point after a translation, you apply the movement to its original coordinates.\n\nOriginal coordinates of P = (1, 2).\n\nThe translation is 3 units to the right:\nThis means we add 3 to the x-coordinate.\nNew x-coordinate = 1 + 3 = 4.\n\nThe translation is 4 units up:\nThis means we add 4 to the y-coordinate.\nNew y-coordinate = 2 + 4 = 6.\n\nSo, the new coordinates of vertex P are (4, 6).",
+      "hint": "Remember that moving right increases the x-coordinate, and moving up increases the y-coordinate. Moving left or down would decrease them.",
+      "generatedAt": "2026-04-29T10:49:34.952582"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-pos-dir_intermediate_001",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Triangle PQR has vertices at P(2, 1), Q(5, 1), and R(5, 4). \nThe triangle is first reflected in the y-axis to form triangle P'Q'R'. \nThen, triangle P'Q'R' is translated by the vector $\\begin{pmatrix} 7 \\\\ -3 \\end{pmatrix}$ to form triangle P''Q''R''. \n\nWhat are the coordinates of vertex P''?\n\nShow your working.",
+      "options": [
+        "(9, -2)",
+        "(5, -2)",
+        "(-2, 1)",
+        "(9, -4)"
+      ],
+      "correctAnswer": "(5, -2)",
+      "explanation": "To find the coordinates of P'', we need to apply the transformations to the initial coordinates of P step-by-step.\n\n**Step 1: Reflect P(2, 1) in the y-axis.**\nWhen a point (x, y) is reflected in the y-axis, its x-coordinate changes sign, while its y-coordinate remains the same. The rule is (x, y) $\\rightarrow$ (-x, y).\nSo, P(2, 1) becomes P'(-2, 1).\n\n**Step 2: Translate P'(-2, 1) by the vector $\\begin{pmatrix} 7 \\\\ -3 \\end{pmatrix}$.**\nWhen a point (x, y) is translated by a vector $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$, the translation adds 'a' to the x-coordinate and 'b' to the y-coordinate. The rule is (x, y) $\\rightarrow$ (x+a, y+b).\nSo, P'(-2, 1) is translated by $\\begin{pmatrix} 7 \\\\ -3 \\end{pmatrix}$ to become P''(-2 + 7, 1 + (-3)).\nP''(-2 + 7, 1 - 3) = P''(5, -2).\n\nTherefore, the coordinates of vertex P'' are (5, -2).",
+      "hint": "First, apply the reflection rule for the y-axis to find P'. Then, use the translation vector to find P'' from P'. Remember, a reflection in the y-axis changes the sign of the x-coordinate, and a translation adds the vector components to the coordinates.",
+      "generatedAt": "2026-04-29T10:49:49.385221"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_002",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A rectangle ABCD has sides parallel to the coordinate axes. The bottom-left vertex, A, is at the coordinate (1, 2). The width of the rectangle is 4 units and its height is 3 units.\n\nThe rectangle ABCD is first reflected across the line x = 0 (the y-axis).\n\nThe reflected rectangle, now A'B'C'D', is then translated by the vector (-3, 4).\n\nWhat are the coordinates of vertex C after both transformations? Show your working.",
+      "options": [
+        "A) (-8, 9)",
+        "B) (-2, 9)",
+        "C) (-8, 1)",
+        "D) (2, 9)"
+      ],
+      "correctAnswer": "A) (-8, 9)",
+      "explanation": "1.  **Determine the initial coordinates of vertex C:**\n    *   The bottom-left vertex A is at (1, 2).\n    *   The width is 4 units (along the x-axis) and the height is 3 units (along the y-axis).\n    *   Since A is the bottom-left vertex, to find vertex C (the top-right vertex), we add the width to A's x-coordinate and the height to A's y-coordinate.\n    *   Initial C coordinates: (1 + 4, 2 + 3) = (5, 5).\n\n2.  **Perform the reflection across the line x = 0 (the y-axis):**\n    *   When a point (x, y) is reflected across the y-axis, its new coordinates become (-x, y).\n    *   For C(5, 5), the reflected coordinates C' will be (-5, 5).\n\n3.  **Perform the translation by the vector (-3, 4):**\n    *   When a point (x, y) is translated by a vector (a, b), its new coordinates become (x + a, y + b).\n    *   For the reflected point C'(-5, 5) and the translation vector (-3, 4):\n        *   New x-coordinate: -5 + (-3) = -5 - 3 = -8\n        *   New y-coordinate: 5 + 4 = 9\n    *   The final coordinates of vertex C after both transformations are (-8, 9).",
+      "hint": "First, identify the coordinates of vertex C from the given description. Then, apply the reflection rule for the y-axis, which changes the sign of the x-coordinate. Finally, apply the translation vector to the coordinates obtained after the reflection.",
+      "generatedAt": "2026-04-29T10:50:04.025489"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_003",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A quadrilateral ABCD has vertices at A(2, 5), B(6, 5), C(6, 7) and D(2, 7).\nThe quadrilateral is first translated by the vector $\\begin{pmatrix} -2 \\ -7 \\end{pmatrix}$ to form quadrilateral A'B'C'D'.\nQuadrilateral A'B'C'D' is then reflected in the line y = -x to form quadrilateral A''B''C''D''.\nFind the coordinates of vertex B''. Show all your working.",
+      "options": [
+        "(2, -4)",
+        "(-2, 4)",
+        "(4, -2)",
+        "(-4, 2)"
+      ],
+      "correctAnswer": "(2, -4)",
+      "explanation": "Step 1: Apply the translation to find the coordinates of B'.\nThe initial coordinates of vertex B are (6, 5).\nThe translation vector is $\\begin{pmatrix} -2 \\ -7 \\end{pmatrix}$.\nTo translate a point (x, y) by a vector $\\begin{pmatrix} a \\ b \\end{pmatrix}$, the new coordinates are (x+a, y+b).\nSo, for B':\nx-coordinate = 6 + (-2) = 6 - 2 = 4\ny-coordinate = 5 + (-7) = 5 - 7 = -2\nTherefore, the coordinates of B' are (4, -2).\n\nStep 2: Apply the reflection to find the coordinates of B''.\nThe coordinates of B' are (4, -2).\nThe reflection is in the line y = -x.\nThe rule for reflection in the line y = -x for a point (x, y) is (x, y) $\\rightarrow$ (-y, -x).\nApplying this rule to B'(4, -2):\nx = 4, y = -2\nNew x-coordinate = -y = -(-2) = 2\nNew y-coordinate = -x = -(4) = -4\nTherefore, the coordinates of B'' are (2, -4).",
+      "hint": "Remember to perform the transformations in the given order. First, apply the translation vector to the original coordinates of B. Then, take the resulting coordinates of B' and apply the reflection rule for the line y = -x. The rule for reflecting a point (x, y) in the line y = -x is to transform it to (-y, -x).",
+      "generatedAt": "2026-04-29T10:50:26.022185"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_004",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A quadrilateral, PQRS, has vertices at P(2, 5), Q(6, 5), R(8, 8), and S(4, 8).\n\nFirst, the quadrilateral is translated by the vector $\\begin{pmatrix} -3 \\\\ -7 \\end{pmatrix}$.\n\nNext, the translated quadrilateral is reflected across the y-axis.\n\nWhat are the coordinates of the vertex Q after both transformations? Show your working.",
+      "options": [
+        "(-3, -2)",
+        "(3, -2)",
+        "(-6, -5)",
+        "(6, -5)"
+      ],
+      "correctAnswer": "(-3, -2)",
+      "explanation": "1.  **Identify the initial coordinates of vertex Q:** The vertex Q is given as (6, 5).\n\n2.  **Apply the translation:** The quadrilateral is translated by the vector $\\begin{pmatrix} -3 \\\\ -7 \\end{pmatrix}$. To translate a point (x, y) by this vector, you add -3 to the x-coordinate and -7 to the y-coordinate.\n    *   New x-coordinate of Q = 6 + (-3) = 3\n    *   New y-coordinate of Q = 5 + (-7) = -2\n    *   After the translation, the coordinates of Q are (3, -2).\n\n3.  **Apply the reflection:** The translated quadrilateral is then reflected across the y-axis. When a point (x, y) is reflected across the y-axis, its new coordinates become (-x, y).\n    *   Using the translated coordinates (3, -2):\n    *   New x-coordinate = -(3) = -3\n    *   New y-coordinate = -2 (remains the same)\n    *   Therefore, the coordinates of Q after both transformations are (-3, -2).",
+      "hint": "First, apply the translation rule to the initial coordinates of Q to find its new position. Then, apply the reflection rule across the y-axis to these newly translated coordinates.",
+      "generatedAt": "2026-04-29T10:50:38.054521"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_005",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A triangle, DEF, has its vertices at the coordinates D(2, 1), E(5, 1), and F(2, 4).\n\nThis triangle is first reflected in the line y = x. The resulting image, triangle D'E'F', is then translated by the column vector $\\begin{pmatrix} -2 \\ 3 \\end{pmatrix}$ to form triangle D''E''F''.\n\nYou must show your working.\n\nWhat are the coordinates of the vertex E''?",
+      "options": [
+        "(-1, 8)",
+        "(1, 5)",
+        "(3, 4)",
+        "(3, 8)"
+      ],
+      "correctAnswer": "(-1, 8)",
+      "explanation": "To find the coordinates of vertex E'', we need to apply the transformations sequentially to the original coordinates of E.\n\n1.  **Identify the initial coordinates of E:**\n    E = (5, 1)\n\n2.  **Apply the first transformation: Reflection in the line y = x.**\n    The rule for reflection in the line y = x is (x, y) \\rightarrow (y, x).\n    Applying this to E(5, 1):\n    E' = (1, 5)\n\n3.  **Apply the second transformation: Translation by the vector $\\begin{pmatrix} -2 \\ 3 \\end{pmatrix}$.**\n    The rule for translation by a vector $\\begin{pmatrix} a \\ b \\end{pmatrix}$ is (x, y) \\rightarrow (x + a, y + b).\n    Applying this to E'(1, 5) with a = -2 and b = 3:\n    E'' = (1 + (-2), 5 + 3)\n    E'' = (1 - 2, 5 + 3)\n    E'' = (-1, 8)\n\nTherefore, the coordinates of the vertex E'' are (-1, 8).",
+      "hint": "Recall the rule for reflecting a point in the line y=x and the method for translating a point using a column vector. Apply these transformations in the given order.",
+      "generatedAt": "2026-04-29T10:50:54.980923"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_006",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Triangle JKL has vertices at J(3, 1), K(6, 1), and L(3, 4).\n\nFirst, Triangle JKL is reflected in the line y = x to form Triangle J'K'L'.\nThen, Triangle J'K'L' is translated by the vector (-5, 3) to form Triangle J''K''L''.\n\nWhat are the coordinates of vertex L''? Show your working. (3 marks)",
+      "options": [
+        "A) (-1, 6)",
+        "B) (-2, 7)",
+        "C) (4, 3)",
+        "D) (-8, 7)"
+      ],
+      "correctAnswer": "A) (-1, 6)",
+      "explanation": "Step 1: Reflect vertex L(3, 4) in the line y = x.\nWhen a point (x, y) is reflected in the line y = x, its new coordinates are (y, x).\nSo, L(3, 4) becomes L'(4, 3).\n\nStep 2: Translate vertex L'(4, 3) by the vector (-5, 3).\nWhen a point (x, y) is translated by the vector (dx, dy), its new coordinates are (x + dx, y + dy).\nSo, L'(4, 3) is translated by (-5, 3) to become L''(4 + (-5), 3 + 3).\nL'' = (4 - 5, 3 + 3)\nL'' = (-1, 6).\n\nTherefore, the coordinates of vertex L'' are (-1, 6).",
+      "hint": "Recall the transformation rule for reflecting a point (x, y) in the line y = x. Then, apply the translation vector to the new coordinates obtained from the reflection.",
+      "generatedAt": "2026-04-29T10:51:09.536651"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_007",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "Triangle PQR has vertices with coordinates given in the table below:\n\n| Vertex | x-coordinate | y-coordinate |\n|--------|--------------|--------------|\n| P      | 2            | 3            |\n| Q      | 6            | 3            |\n| R      | 4            | 7            |\n\nThis triangle is first reflected in the line x = 1 to form triangle P'Q'R'.\nThen, triangle P'Q'R' is translated by the vector $\\begin{pmatrix} 3 \\ -2 \\ \\end{pmatrix}$ to form triangle P''Q''R''.\n\nWhat are the coordinates of vertex R''?\n\nShow your working.",
+      "options": [
+        "(-1, 5)",
+        "(1, 9)",
+        "(1, 5)",
+        "(-5, 5)"
+      ],
+      "correctAnswer": "(1, 5)",
+      "explanation": "**Step 1: Reflect triangle PQR in the line x = 1.**\nTo reflect a point (x, y) in the vertical line x = k, the new x-coordinate is calculated as 2k - x, while the y-coordinate remains unchanged. In this case, k = 1.\nFor vertex R(4, 7):\nx-coordinate of R' = 2(1) - 4 = 2 - 4 = -2.\ny-coordinate of R' = 7.\nSo, the coordinates of R' are (-2, 7).\n\n**Step 2: Translate triangle P'Q'R' by the vector $\\begin{pmatrix} 3 \\ -2 \\ \\end{pmatrix}$.**\nTo translate a point (x, y) by the vector $\\begin{pmatrix} a \\ b \\ \\end{pmatrix}$, the new coordinates are (x+a, y+b). Here, the translation vector is $\\begin{pmatrix} 3 \\ -2 \\ \\end{pmatrix}$.\nFor vertex R'(-2, 7):\nx-coordinate of R'' = -2 + 3 = 1.\ny-coordinate of R'' = 7 + (-2) = 7 - 2 = 5.\nSo, the coordinates of R'' are (1, 5).\n\nTherefore, the final coordinates of vertex R'' are (1, 5).",
+      "hint": "First, determine the rule for reflecting a point (x,y) in the vertical line x=1. Then, apply the rule for translating a point by the given vector to the reflected coordinates. Ensure you perform the transformations in the correct sequence.",
+      "generatedAt": "2026-04-29T10:51:25.753956"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_008",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A square, ABCD, has its vertices at the coordinates A(3, 4), B(6, 4), C(6, 7), and D(3, 7).\n\nFirst, the square ABCD is translated by the vector (-4, -2) to form the square A'B'C'D'.\n\nNext, the square A'B'C'D' is reflected across the y-axis to form the square A''B''C''D''.\n\nDetermine the coordinates of the vertices of the final square, A''B''C''D''. Show all your working.",
+      "options": [],
+      "correctAnswer": "To determine the coordinates of the final square A''B''C''D'', we must perform two transformations sequentially:\n\n**Step 1: Translate square ABCD by the vector (-4, -2).**\nWhen a point (x, y) is translated by a vector (a, b), its new coordinates are (x+a, y+b).\nHere, the translation vector is (-4, -2), so we subtract 4 from the x-coordinate and subtract 2 from the y-coordinate of each vertex.\n\nOriginal vertices:\nA(3, 4)\nB(6, 4)\nC(6, 7)\nD(3, 7)\n\nTranslated vertices (A'B'C'D'):\nA' = (3 + (-4), 4 + (-2)) = (3 - 4, 4 - 2) = (-1, 2)\nB' = (6 + (-4), 4 + (-2)) = (6 - 4, 4 - 2) = (2, 2)\nC' = (6 + (-4), 7 + (-2)) = (6 - 4, 7 - 2) = (2, 5)\nD' = (3 + (-4), 7 + (-2)) = (3 - 4, 7 - 2) = (-1, 5)\n\nSo, the coordinates of square A'B'C'D' are A'(-1, 2), B'(2, 2), C'(2, 5), and D'(-1, 5).\n\n**Step 2: Reflect square A'B'C'D' across the y-axis.**\nWhen a point (x, y) is reflected across the y-axis (the line x=0), its new coordinates are (-x, y).\nWe apply this rule to each vertex of A'B'C'D':\n\nTranslated vertices:\nA'(-1, 2)\nB'(2, 2)\nC'(2, 5)\nD'(-1, 5)\n\nReflected vertices (A''B''C''D''):\nA'' = (-(-1), 2) = (1, 2)\nB'' = (-(2), 2) = (-2, 2)\nC'' = (-(2), 5) = (-2, 5)\nD'' = (-(-1), 5) = (1, 5)\n\nTherefore, the coordinates of the final square A''B''C''D'' are:\nA''(1, 2)\nB''(-2, 2)\nC''(-2, 5)\nD''(1, 5)",
+      "explanation": "The problem requires two sequential transformations: first a translation, and then a reflection. For translation, add the components of the translation vector to the x and y coordinates respectively. For reflection across the y-axis, the x-coordinate changes sign while the y-coordinate remains the same. Each step must be applied to the current set of coordinates to find the next set.",
+      "hint": "Remember that a translation by vector (a, b) changes a point (x, y) to (x+a, y+b). For a reflection across the y-axis, the x-coordinate of a point (x, y) becomes -x, while the y-coordinate stays the same.",
+      "generatedAt": "2026-04-29T10:51:40.788346"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_009",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A point, P, is located at the coordinates (4, 7).\n\nFirst, the point P is reflected across the horizontal line given by the equation y = 1 to create point P'.\n\nNext, point P' is translated by the column vector $\\begin{pmatrix} -6 \\ 3 \\end{pmatrix}$ to create point P''.\n\nWhat are the coordinates of point P''? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the coordinates of point P'':\n\nStep 1: Reflect point P(4, 7) across the line y = 1.\nWhen reflecting a point (x, y) across the horizontal line y = k, the x-coordinate remains the same, and the y-coordinate changes from y to 2k - y.\nHere, P = (4, 7) and k = 1.\nThe coordinates of P' are (4, (2 * 1) - 7).\nP' = (4, 2 - 7)\nP' = (4, -5)\n\nStep 2: Translate point P'(4, -5) by the column vector $\\begin{pmatrix} -6 \\ 3 \\end{pmatrix}$.\nTo translate a point (x, y) by the vector $\\begin{pmatrix} a \\ b \\end{pmatrix}$, the new coordinates are (x + a, y + b).\nHere, P' = (4, -5) and the vector is $\\begin{pmatrix} -6 \\ 3 \\end{pmatrix}$.\nThe coordinates of P'' are (4 + (-6), -5 + 3).\nP'' = (4 - 6, -5 + 3)\nP'' = (-2, -2)\n\nTherefore, the coordinates of point P'' are (-2, -2).",
+      "explanation": "The problem requires two transformations in sequence: a reflection and a translation. First, identify the coordinates of the initial point P. Then, apply the reflection rule for a horizontal line y=k to find the coordinates of P'. Finally, apply the translation rule using the given column vector to the coordinates of P' to find the final coordinates of P''.",
+      "hint": "Remember that reflection across a horizontal line y=k changes the y-coordinate to 2k-y while keeping x the same. For translation by a vector (a, b), you add 'a' to the x-coordinate and 'b' to the y-coordinate.",
+      "generatedAt": "2026-04-29T10:51:54.598403"
+    },
+    {
+      "id": "m-y5-pos-dir_intermediate_010",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A triangle, LMN, has vertices with coordinates given in the table below:\n\n| Vertex | x-coordinate | y-coordinate |\n|--------|--------------|--------------|\n| L      | 2            | 3            |\n| M      | 5            | 3            |\n| N      | 2            | 6            |\n\nThe triangle LMN is first reflected across the line y = 1 to form triangle L'M'N'.\nSubsequently, triangle L'M'N' is translated by the vector \\(\\begin{pmatrix} -3 \\ 4 \\end{pmatrix}\\) to form triangle L''M''N''.\n\nWhat are the coordinates of vertex M''? Show your working.",
+      "options": [],
+      "correctAnswer": "To find the coordinates of vertex M'', we need to perform two transformations sequentially.\n\n**Step 1: Reflect M across the line y = 1.**\nThe initial coordinates of vertex M are (5, 3).\nWhen reflecting a point (x, y) across a horizontal line y = k, the new coordinates are (x, 2k - y).\nIn this case, k = 1. So, M(5, 3) reflects to M'(x', y') where:\nx' = x = 5\ny' = 2(1) - 3 = 2 - 3 = -1\nSo, the coordinates of M' are (5, -1).\n\n**Step 2: Translate M' by the vector \\(\\begin{pmatrix} -3 \\ 4 \\end{pmatrix}\\).**\nThe coordinates of M' are (5, -1).\nWhen translating a point (x, y) by a vector \\(\\begin{pmatrix} a \\ b \\end{pmatrix}\\), the new coordinates are (x+a, y+b).\nIn this case, a = -3 and b = 4. So, M'(5, -1) translates to M''(x'', y'') where:\nx'' = 5 + (-3) = 5 - 3 = 2\ny'' = -1 + 4 = 3\nSo, the coordinates of M'' are (2, 3).\n\nTherefore, the coordinates of vertex M'' are (2, 3).",
+      "explanation": "The problem requires two transformations. First, reflect the initial point M across the line y=1. The rule for reflecting a point (x, y) across the line y=k is (x, 2k-y). For M(5,3) and k=1, the reflected point M' becomes (5, 2*1 - 3) = (5, -1).\n\nSecond, translate the reflected point M' by the given vector \\(\\begin{pmatrix} -3 \\ 4 \\end{pmatrix}\\). The rule for translating a point (x, y) by a vector \\(\\begin{pmatrix} a \\ b \\end{pmatrix}\\) is (x+a, y+b). For M'(5, -1) and the vector \\(\\begin{pmatrix} -3 \\ 4 \\end{pmatrix}\\), the final point M'' becomes (5 + (-3), -1 + 4) = (2, 3).",
+      "hint": "Remember the specific rules for reflection across a horizontal line y=k and for translating a point by a given vector. Apply these transformations in the correct order.",
+      "generatedAt": "2026-04-29T10:52:12.237980"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-pos-dir_advanced_001",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A triangle, named Triangle PQR, has vertices at the coordinates P(3, 2), Q(7, 2), and R(3, 8).\nFirst, Triangle PQR is reflected across the vertical line with equation x = 9 to create Triangle P'Q'R'.\nNext, Triangle P'Q'R' is translated by the column vector (-6, -5) to create Triangle P''Q''R''.\nDetermine the coordinates of the final vertex Q''. Show your working clearly as this is a multi-step question.",
+      "options": [
+        "(1, -3)",
+        "(5, -3)",
+        "(1, 7)",
+        "(5, 7)"
+      ],
+      "correctAnswer": "(5, -3)",
+      "explanation": "To find the coordinates of Q'', we need to perform two transformations step-by-step.\n\n**Step 1: Reflection of Q across the line x = 9**\n\nThe initial coordinates of vertex Q are (7, 2).\nThe line of reflection is x = 9.\n\nFor a reflection across a vertical line x = k, the y-coordinate remains unchanged, and the x-coordinate changes. The distance from the original point to the line of reflection is equal to the distance from the line of reflection to the image point.\n\n1.  **Distance of Q from x=9:** The x-coordinate of Q is 7. The line is at x=9. The horizontal distance is |7 - 9| = 2 units.\n2.  **New x-coordinate for Q':** Since Q (at x=7) is 2 units to the left of the line x=9, its reflected image Q' will be 2 units to the right of the line x=9. So, the new x-coordinate is 9 + 2 = 11.\n3.  **New y-coordinate for Q':** The y-coordinate remains the same, which is 2.\n\nSo, the coordinates of Q' are (11, 2).\n\n**Step 2: Translation of Q' by the vector (-6, -5)**\n\nWe start with the coordinates of Q', which are (11, 2).\nThe translation vector is (-6, -5).\n\nTo translate a point by a vector (a, b), you add 'a' to the x-coordinate and 'b' to the y-coordinate.\n\n1.  **New x-coordinate for Q'':** 11 + (-6) = 11 - 6 = 5.\n2.  **New y-coordinate for Q'':** 2 + (-5) = 2 - 5 = -3.\n\nSo, the final coordinates of vertex Q'' are (5, -3).",
+      "hint": "First, reflect the initial point Q across the line x=9. Remember that a vertical reflection line only changes the x-coordinate. Then, take the reflected coordinates (Q') and apply the translation vector (-6, -5) by adding the x-component to the x-coordinate and the y-component to the y-coordinate.",
+      "generatedAt": "2026-04-29T10:52:29.391534"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_002",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A rectangle, named Shape A, has its bottom-left corner at the coordinates (1, 2). The rectangle has a width of 3 units and a height of 4 units.\n\nFirst, Shape A is reflected across the vertical line with the equation x = 6 to create Shape B.\n\nNext, Shape B is translated 4 units to the left and 1 unit upwards to create Shape C.\n\nWhat are the coordinates of the top-right corner of Shape C? Show your working for full marks.",
+      "options": [
+        "(4, 7)",
+        "(11, 7)",
+        "(1, 3)",
+        "(7, 3)"
+      ],
+      "correctAnswer": "(4, 7)",
+      "explanation": "1.  **Identify the top-right corner of Shape A:**\n    *   The bottom-left corner is given as (1, 2).\n    *   Since the rectangle has a width of 3 units, the x-coordinate of the right side is 1 + 3 = 4.\n    *   Since the rectangle has a height of 4 units, the y-coordinate of the top side is 2 + 4 = 6.\n    *   Therefore, the top-right corner of Shape A is (4, 6). This is the point we need to track through the transformations.\n\n2.  **Reflect the top-right corner of Shape A across the line x = 6 to find the corresponding corner of Shape B:**\n    *   When reflecting a point (x, y) across a vertical line x = k, the y-coordinate stays the same, and the new x-coordinate is found by calculating 2k - x.\n    *   Here, k = 6 and the point is (4, 6).\n    *   New x-coordinate = (2 × 6) - 4 = 12 - 4 = 8.\n    *   The y-coordinate remains 6.\n    *   So, the top-right corner of Shape B is (8, 6).\n\n3.  **Translate the top-right corner of Shape B 4 units left and 1 unit upwards to find the corresponding corner of Shape C:**\n    *   To translate 4 units to the left, we subtract 4 from the x-coordinate.\n    *   To translate 1 unit upwards, we add 1 to the y-coordinate.\n    *   Starting with the top-right corner of Shape B, which is (8, 6):\n    *   New x-coordinate = 8 - 4 = 4.\n    *   New y-coordinate = 6 + 1 = 7.\n    *   Therefore, the coordinates of the top-right corner of Shape C are (4, 7).",
+      "hint": "First, determine the exact coordinates of the top-right corner of Shape A. Then, apply the reflection rule for a vertical line to that point to find the corresponding point for Shape B. Finally, apply the translation rule (subtract from x, add to y) to find the final coordinates for Shape C.",
+      "generatedAt": "2026-04-29T10:52:50.830067"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_003",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A triangle, named Shape T, has its three corner points (vertices) at the coordinates P(2, 3), Q(5, 3) and R(2, 6).\n\nFirst, Shape T is translated to form Shape U. This translation moves every point of Shape T by 4 units in the positive x-direction and 1 unit in the negative y-direction.\n\nNext, Shape U is reflected to form Shape V. This reflection happens across the vertical line defined by x = 7.\n\nWhat are the coordinates of the corner point of Shape V that corresponds to point R of the original Shape T? Show your working clearly.",
+      "options": [
+        "(6, 5)",
+        "(8, 6)",
+        "(8, 5)",
+        "(1, 5)"
+      ],
+      "correctAnswer": "(8, 5)",
+      "explanation": "To find the coordinates of the corner point of Shape V that corresponds to point R, we need to apply the transformations step-by-step:\n\n1.  **Initial coordinates of point R:**\n    R = (2, 6)\n\n2.  **Translate Shape T to Shape U:**\n    The translation moves every point by 4 units in the positive x-direction and 1 unit in the negative y-direction. This can be represented as adding the vector (4, -1) to the coordinates.\n    For point R, the new coordinates (R') will be:\n    R' = (2 + 4, 6 - 1)\n    R' = (6, 5)\n    So, the point corresponding to R in Shape U is (6, 5).\n\n3.  **Reflect Shape U to Shape V across the line x = 7:**\n    When reflecting a point (x, y) across a vertical line x = k, the y-coordinate remains the same. The new x-coordinate (x'') is found by considering the distance from the original x-coordinate to the line of reflection. The formula for the new x-coordinate is x'' = k + (k - x').\n    For R' = (6, 5) and the reflection line x = 7:\n    The y-coordinate remains 5.\n    The new x-coordinate (x'') is: 7 + (7 - 6) = 7 + 1 = 8.\n    So, the final coordinates (R'') of the point corresponding to R in Shape V are (8, 5).\n\nTherefore, the correct answer is (8, 5).",
+      "hint": "First, apply the translation to the coordinates of point R. Then, take the resulting coordinates and apply the reflection. Remember that reflecting across a vertical line (like x=7) only changes the x-coordinate, and the distance from the line of reflection remains the same on both sides.",
+      "generatedAt": "2026-04-29T10:53:17.633818"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_004",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A quadrilateral, named Shape S, has one of its vertices at a point P. This Shape S undergoes two transformations. First, it is reflected across the line y = x. Then, its image is translated by the column vector (-4, 3). The final position of vertex P, after both transformations, is denoted as P'', and its coordinates are (2, -1).\n\nWhat are the original coordinates of vertex P?\n\nWorking is required to achieve full marks.",
+      "options": [
+        "A. (-4, 6)",
+        "B. (3, -1)",
+        "C. (6, -4)",
+        "D. (-2, 2)"
+      ],
+      "correctAnswer": "A. (-4, 6)",
+      "explanation": "To find the original coordinates of vertex P, we must reverse the transformations in the opposite order they were applied.\n\n1.  **Reverse the Translation:**\n    The final position of P'' is (2, -1).\n    The last transformation was a translation by the column vector (-4, 3).\n    To reverse this translation, we apply the inverse translation, which is by the column vector (4, -3).\n    So, P_reflected = (2 + 4, -1 - 3) = (6, -4).\n\n2.  **Reverse the Reflection:**\n    The point P_reflected is (6, -4).\n    The first transformation was a reflection across the line y = x.\n    A reflection across the line y = x swaps the x and y coordinates of a point. The inverse of this reflection is also a reflection across y = x.\n    So, the original coordinates of P are found by reflecting (6, -4) across y = x.\n    P = (-4, 6).\n\nTherefore, the original coordinates of vertex P are (-4, 6).",
+      "hint": "To reverse a sequence of transformations, you must apply the inverse of each transformation in the reverse order. Remember that reflecting a point (a,b) across the line y=x results in the point (b,a).",
+      "generatedAt": "2026-04-29T10:53:45.009244"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_005",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A square, named Shape S, has one of its vertices at the coordinate (2, 1). The square has a side length of 3 units, and its sides are parallel to the x-axis and y-axis. All vertices are in the first quadrant initially.\n\nShape S is reflected across the line with the equation y = -x to form Shape S'.\n\nShape S' is then translated by the vector (-3, 2) to form Shape S''.\n\nWhat is the coordinate of the vertex of Shape S'' that corresponds to the original vertex (5,4) of Shape S? Show your working clearly.",
+      "options": [
+        "A) (-4, 0)",
+        "B) (-7, -3)",
+        "C) (-4, -3)",
+        "D) (-7, 0)"
+      ],
+      "correctAnswer": "B) (-7, -3)",
+      "explanation": "1.  First, identify the vertices of the original Shape S. Since one vertex is (2,1), the side length is 3 units, and sides are parallel to the axes, the vertices are:\n    *   (2,1)\n    *   (2+3, 1) = (5,1)\n    *   (2, 1+3) = (2,4)\n    *   (5, 1+3) = (5,4)\n    The question specifically asks for the vertex corresponding to (5,4), so we will track this specific point through the transformations.\n\n2.  Next, perform the reflection of the point (5,4) across the line y = -x to find its corresponding position in Shape S'. The rule for reflection across the line y = -x is that a point (x, y) maps to (-y, -x).\n    *   Applying this to (5,4): x=5, y=4 → (-4, -5).\n    So, the corresponding vertex in Shape S' is (-4, -5).\n\n3.  Finally, perform the translation of this point by the vector (-3, 2) to find its corresponding position in Shape S''. The rule for translation by a vector (a, b) is that a point (x, y) maps to (x+a, y+b).\n    *   Applying this to (-4, -5) with the translation vector (-3, 2):\n        *   New x-coordinate: -4 + (-3) = -4 - 3 = -7\n        *   New y-coordinate: -5 + 2 = -3\n    So, the coordinate of the vertex in Shape S'' corresponding to the original (5,4) is (-7, -3).\n\nTherefore, the correct option is B.",
+      "hint": "Begin by confirming all vertices of the original square and then focus on the specific vertex (5,4). Recall the coordinate rules for reflection across the line y = -x and for translation by a given vector.",
+      "generatedAt": "2026-04-29T10:54:01.773651"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_006",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A square, labelled JKLM, has its bottom-left vertex J at the coordinate (2, -3). The side length of the square is 5 units. \n\nThe square JKLM is first reflected across the line y = x to form square J'K'L'M'. \n\nThis reflected square, J'K'L'M', is then translated by the vector (-4, -6) to form the final square J''K''L''M''. \n\nCalculate the coordinates of the top-right vertex of the final square J''K''L''M''. Show your working clearly.",
+      "options": [
+        "(-2, 1)",
+        "(-7, 1)",
+        "(-2, -4)",
+        "(-7, -4)"
+      ],
+      "correctAnswer": "(-2, 1)",
+      "explanation": "1.  **Identify the coordinates of the top-right vertex of the original square JKLM:**\n    *   The bottom-left vertex J is at (2, -3).\n    *   Since the side length is 5 units, we can find the other vertices.\n    *   The top-right vertex L will have an x-coordinate 5 units to the right of J's x-coordinate, and a y-coordinate 5 units above J's y-coordinate.\n    *   So, L = (2 + 5, -3 + 5) = (7, 2).\n\n2.  **Reflect the top-right vertex L(7, 2) across the line y = x:**\n    *   The rule for reflecting a point (x, y) across the line y = x is to swap the x and y coordinates, resulting in (y, x).\n    *   Applying this to L(7, 2):\n        *   L' = (2, 7).\n\n3.  **Translate the reflected vertex L'(2, 7) by the vector (-4, -6):**\n    *   The rule for translating a point (x, y) by a vector (a, b) is to add a to the x-coordinate and b to the y-coordinate, resulting in (x+a, y+b).\n    *   Applying this to L'(2, 7) with the vector (-4, -6):\n        *   L'' = (2 + (-4), 7 + (-6))\n        *   L'' = (2 - 4, 7 - 6)\n        *   L'' = (-2, 1).\n\nTherefore, the coordinates of the top-right vertex of the final square J''K''L''M'' are (-2, 1).",
+      "hint": "First determine the coordinates of the top-right vertex of the original square. Then apply the reflection rule for y = x, followed by the translation rule for the given vector.",
+      "generatedAt": "2026-04-29T10:54:21.135576"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_007",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A right-angled triangle, denoted as 'Initial Shape', has its vertices at J, K, and L. The vertex J is located at coordinates (p, q). Vertex K is positioned 6 units horizontally to the right of J on the same horizontal line. Vertex L is positioned 4 units vertically upwards from J on the same vertical line.\n\nThe Initial Shape undergoes two consecutive transformations:\n1. A reflection across the line y = 1.\n2. A translation by the vector \\begin{pmatrix} -4 \\\\ 2 \\end{pmatrix}.\n\nThis sequence of transformations results in a 'Final Shape'. One of the vertices of this Final Shape is observed to be at the coordinate (3, 8). \n\nShow your working clearly to calculate the sum of all possible x-coordinates for the initial vertex J.",
+      "options": [],
+      "correctAnswer": "The vertices of the Initial Shape are:\nJ = (p, q)\nK = (p+6, q) (since K is 6 units horizontally to the right of J)\nL = (p, q+4) (since L is 4 units vertically upwards from J)\n\nStep 1: Reflect the vertices across the line y = 1.\nThe rule for reflection across y = c is (x, y) -> (x, 2c - y). Here c = 1, so (x, y) -> (x, 2 - y).\n\nJ' = (p, 2 - q)\nK' = (p+6, 2 - q)\nL' = (p, 2 - (q+4)) = (p, 2 - q - 4) = (p, -q - 2)\n\nStep 2: Translate the reflected vertices by the vector \\begin{pmatrix} -4 \\\\ 2 \\end{pmatrix}.\nThe rule for translation by \\begin{pmatrix} a \\\\ b \\end{pmatrix} is (x, y) -> (x+a, y+b). Here a = -4, b = 2.\n\nJ'' = (p - 4, (2 - q) + 2) = (p - 4, 4 - q)\nK'' = ((p+6) - 4, (2 - q) + 2) = (p + 2, 4 - q)\nL'' = (p - 4, (-q - 2) + 2) = (p - 4, -q)\n\nWe are given that one of the vertices of the Final Shape (J'', K'', or L'') is at (3, 8). We must consider each possibility:\n\nCase 1: J'' = (3, 8)\nComparing coordinates: \n p - 4 = 3  =>  p = 7\n 4 - q = 8  =>  q = -4\nSo, for this case, the initial vertex J is (7, -4). The x-coordinate for J is 7.\n\nCase 2: K'' = (3, 8)\nComparing coordinates: \n p + 2 = 3  =>  p = 1\n 4 - q = 8  =>  q = -4\nSo, for this case, the initial vertex J is (1, -4). The x-coordinate for J is 1.\n\nCase 3: L'' = (3, 8)\nComparing coordinates: \n p - 4 = 3  =>  p = 7\n -q = 8   =>  q = -8\nSo, for this case, the initial vertex J is (7, -8). The x-coordinate for J is 7.\n\nThe possible x-coordinates for the initial vertex J are 7 and 1.\n\nTo find the sum of all possible x-coordinates for J: 7 + 1 = 8.\n\nFinal Answer: The sum of all possible x-coordinates for the initial vertex J is 8.",
+      "explanation": "The solution involves defining the initial vertices based on the problem description, then applying the given transformations sequentially to each vertex. First, a reflection across the line y=1 is performed using the rule (x, y) → (x, 2c - y). Next, a translation by the vector (-4, 2) is applied using the rule (x, y) → (x-4, y+2). Since the final position of *one* vertex is given, three separate cases must be considered: where J, K, or L is the vertex that ends up at (3, 8). For each case, the equations for the transformed coordinates are set equal to (3, 8) to solve for 'p' (the x-coordinate of J) and 'q' (the y-coordinate of J). Finally, all unique 'p' values found are summed to get the answer.",
+      "hint": "Start by defining the coordinates of J, K, and L in terms of (p,q). Then apply the reflection and translation rules step-by-step to each of these initial vertices. Remember that one of the three final vertices (J'', K'', or L'') must be (3, 8), so you will need to set up three separate equations to find the possible values of 'p'.",
+      "generatedAt": "2026-04-29T10:54:44.042258"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_008",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Consider a rectangular shape, designated as 'Shape R'. Its bottom-left vertex is located at the point with coordinates (3, 2). The rectangle has a horizontal length of 4 units and a vertical height of 3 units.\n\nFirstly, Shape R undergoes a translation defined by the vector (-5, -2). This means every point on the shape moves 5 units to the left and 2 units downwards.\n\nSecondly, the translated shape is then reflected across the y-axis (the line x=0).\n\nWhat are the coordinates of the top-right vertex of Shape R after both the translation and the reflection have been applied? Show your working clearly.",
+      "options": [
+        "A) (-2, 3)",
+        "B) (2, -3)",
+        "C) (2, 3)",
+        "D) (-7, 5)"
+      ],
+      "correctAnswer": "A) (-2, 3)",
+      "explanation": "Step 1: Determine the initial coordinates of the top-right vertex of Shape R.\nThe bottom-left vertex is given as (3, 2). The rectangle has a horizontal length of 4 units and a vertical height of 3 units.\nTo find the top-right vertex, we add the horizontal length to the x-coordinate and the vertical height to the y-coordinate of the bottom-left vertex:\nInitial top-right vertex: (3 + 4, 2 + 3) = (7, 5).\n\nStep 2: Apply the translation to the top-right vertex.\nThe translation is defined by the vector (-5, -2), meaning we subtract 5 from the x-coordinate and subtract 2 from the y-coordinate.\nApplying this to (7, 5):\nTranslated top-right vertex: (7 - 5, 5 - 2) = (2, 3).\n\nStep 3: Apply the reflection across the y-axis to the translated vertex.\nWhen a point (x, y) is reflected across the y-axis (the line x=0), its new coordinates become (-x, y).\nApplying this to the translated vertex (2, 3):\nReflected top-right vertex: (-2, 3).\n\nTherefore, the final coordinates of the top-right vertex are (-2, 3).",
+      "hint": "Remember to first find the coordinates of the top-right vertex of the original rectangle, then apply the translation, and finally apply the reflection across the y-axis in that specific order. Pay close attention to how each transformation changes the x and y coordinates.",
+      "generatedAt": "2026-04-29T10:55:10.669485"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_009",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A square shape, named Quadrilateral GHIJ, undergoes two consecutive transformations.\nFirst, Quadrilateral GHIJ is reflected across the vertical line with the equation x = 3. This creates a new shape, Quadrilateral G'H'I'J'.\nSecondly, Quadrilateral G'H'I'J' is then translated using the movement rule represented by the vector (-2, 5). This results in the final shape, Quadrilateral G''H''I''J''.\n\nThe coordinates of the vertices of the final shape, Quadrilateral G''H''I''J'', are given in the table below:\n| Vertex | x-coordinate | y-coordinate |\n|:-------|:-------------|:-------------|\n| G''    | 4            | 7            |\n| H''    | 6            | 7            |\n| I''    | 6            | 9            |\n| J''    | 4            | 9            |\n\nDetermine the coordinates of vertex G of the *original* Quadrilateral GHIJ. You must show all your working.",
+      "options": [],
+      "correctAnswer": "To find the coordinates of the original vertex G, we must reverse the transformations in the opposite order.\n\n**Step 1: Reverse the translation**\nThe final shape, Quadrilateral G''H''I''J'', was created by translating Quadrilateral G'H'I'J' by the vector (-2, 5). To reverse this, we apply the inverse translation, which is adding (2, -5) to the coordinates of G''.\n\nCoordinates of G'' = (4, 7)\nInverse translation vector = (2, -5)\n\nCoordinates of G' = (4 + 2, 7 - 5)\nCoordinates of G' = (6, 2)\n\n**Step 2: Reverse the reflection**\nThe shape Quadrilateral G'H'I'J' was created by reflecting Quadrilateral GHIJ across the line x = 3. To reverse this, we reflect G' back across the same line x = 3.\n\nCoordinates of G' = (6, 2)\nLine of reflection = x = 3 (a vertical line)\n\nFor a reflection across a vertical line, the y-coordinate remains unchanged. The x-coordinate changes based on its distance from the line of reflection.\n\nThe x-coordinate of G' is 6.\nThe x-coordinate of the line of reflection is 3.\n\nThe distance from x = 6 to x = 3 is |6 - 3| = 3 units.\n\nTo find the original x-coordinate, we move 3 units to the *other side* of the line x = 3. So, 3 - 3 = 0.\n\nTherefore, the coordinates of the original vertex G are (0, 2).\n\n**Final Answer:** The coordinates of vertex G are (0, 2).",
+      "explanation": "To find the coordinates of the original vertex G, we must reverse the transformations in the opposite order.\n\n**Step 1: Reverse the translation**\nThe final shape, Quadrilateral G''H''I''J'', was created by translating Quadrilateral G'H'I'J' by the vector (-2, 5). To reverse this, we apply the inverse translation, which is adding (2, -5) to the coordinates of G''.\n\nCoordinates of G'' = (4, 7)\nInverse translation vector = (2, -5)\n\nCoordinates of G' = (4 + 2, 7 - 5)\nCoordinates of G' = (6, 2)\n\n**Step 2: Reverse the reflection**\nThe shape Quadrilateral G'H'I'J' was created by reflecting Quadrilateral GHIJ across the line x = 3. To reverse this, we reflect G' back across the same line x = 3.\n\nCoordinates of G' = (6, 2)\nLine of reflection = x = 3 (a vertical line)\n\nFor a reflection across a vertical line, the y-coordinate remains unchanged. The x-coordinate changes based on its distance from the line of reflection.\n\nThe x-coordinate of G' is 6.\nThe x-coordinate of the line of reflection is 3.\n\nThe distance from x = 6 to x = 3 is |6 - 3| = 3 units.\n\nTo find the original x-coordinate, we move 3 units to the *other side* of the line x = 3. So, 3 - 3 = 0.\n\nTherefore, the coordinates of the original vertex G are (0, 2).",
+      "hint": "Remember to reverse the transformations in the opposite order to find the original position. Start by reversing the translation, then reverse the reflection. For reflection across a vertical line x=c, the y-coordinate stays the same, and the new x-coordinate is found by considering the distance from the original x-coordinate to the line x=c.",
+      "generatedAt": "2026-04-29T10:55:33.754940"
+    },
+    {
+      "id": "m-y5-pos-dir_advanced_010",
+      "topicId": "m-y5-pos-dir",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A square, named Shape M, has its vertices at the coordinates P(2, 1), Q(5, 1), R(5, 4), and S(2, 4).\n\nShape M is translated to create a new square, Shape N. After the translation, the vertex Q from Shape M moves to a new position Q'(9, 3).\n\nShape N is then reflected to form another square, Shape O. The line of reflection for this transformation is the vertical line x = 12.\n\nWork out the perimeter of Shape O. Show your working clearly.",
+      "options": [
+        "A) 9 units",
+        "B) 12 units",
+        "C) 16 units",
+        "D) 20 units"
+      ],
+      "correctAnswer": "B) 12 units",
+      "explanation": "To solve this multi-step problem, we need to follow the transformations carefully.\n\n**Step 1: Determine the translation rule from Shape M to Shape N.**\nThe original vertex Q is at (5, 1). Its translated position Q' is at (9, 3).\nTo find the change in the x-coordinate (horizontal movement): 9 - 5 = 4 units.\nTo find the change in the y-coordinate (vertical movement): 3 - 1 = 2 units.\nSo, the translation rule is '4 units right and 2 units up'.\n\n**Step 2: Calculate the coordinates of all the vertices of Shape N.**\nApply the translation rule ('4 units right, 2 units up') to all vertices of Shape M:\n\nP(2, 1) becomes P'(2 + 4, 1 + 2) = P'(6, 3)\nQ(5, 1) becomes Q'(5 + 4, 1 + 2) = Q'(9, 3) (This matches the given Q')\nR(5, 4) becomes R'(5 + 4, 4 + 2) = R'(9, 6)\nS(2, 4) becomes S'(2 + 4, 4 + 2) = S'(6, 6)\nSo, the vertices of Shape N are P'(6,3), Q'(9,3), R'(9,6), S'(6,6).\n\n**Step 3: Calculate the coordinates of all the vertices of Shape O.**\nShape N is reflected across the vertical line x = 12. For a reflection across a vertical line x=k, the new x-coordinate is found by calculating the distance from the original x-coordinate to the line of reflection (k - original x) and adding that distance again to k. The y-coordinate stays the same.\n\nP'(6, 3) is 6 units left of x=12 (12-6=6). So, its reflection P'' will be 6 units right of x=12. P''(12 + 6, 3) = P''(18, 3).\nQ'(9, 3) is 3 units left of x=12 (12-9=3). So, its reflection Q'' will be 3 units right of x=12. Q''(12 + 3, 3) = Q''(15, 3).\nR'(9, 6) is 3 units left of x=12. So, its reflection R'' will be 3 units right of x=12. R''(12 + 3, 6) = R''(15, 6).\nS'(6, 6) is 6 units left of x=12. So, its reflection S'' will be 6 units right of x=12. S''(12 + 6, 6) = S''(18, 6).\nSo, the vertices of Shape O are P''(18,3), Q''(15,3), R''(15,6), S''(18,6).\n\n**Step 4: Work out the perimeter of Shape O.**\nShape O is a square. We can find its side length by looking at the coordinates of its vertices.\nLet's take P''(18,3) and Q''(15,3). They have the same y-coordinate, so the distance between them is the difference in their x-coordinates: 18 - 15 = 3 units.\nLet's take Q''(15,3) and R''(15,6). They have the same x-coordinate, so the distance between them is the difference in their y-coordinates: 6 - 3 = 3 units.\nSince it's a square, all sides have a length of 3 units.\nPerimeter of a square = 4 × side length.\nPerimeter of Shape O = 4 × 3 = 12 units.",
+      "hint": "First, find the translation rule by comparing the coordinates of Q and Q'. Then apply this rule to all vertices of Shape M to find Shape N. Next, reflect Shape N across the line x=12 to find Shape O. Finally, calculate the side length of Shape O from its coordinates and use it to find the perimeter.",
+      "generatedAt": "2026-04-29T10:56:02.533726"
+    }
+  ]
+}

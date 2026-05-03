@@ -1,0 +1,473 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y8-linear-graphs_beginner_001",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "What is the y-intercept of the straight line with the equation y = 3x - 5?",
+      "options": [
+        "3",
+        "5",
+        "-5",
+        "-3"
+      ],
+      "correctAnswer": "-5",
+      "explanation": "The standard form of a linear equation is y = mx + c, where 'm' represents the gradient and 'c' represents the y-intercept. \n\nIn the given equation, y = 3x - 5, we can compare it to the standard form.\n\nHere, m = 3 and c = -5.\n\nTherefore, the y-intercept of the line is -5. This means the line crosses the y-axis at the point (0, -5).",
+      "hint": "Remember that a linear equation in the form y = mx + c tells you two key things about the line. What does the 'c' value represent?",
+      "generatedAt": "2026-04-30T12:17:22.020238"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_002",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has the equation y = 3x + 2. \nWhat is the missing y-coordinate of the point (4, y) that lies on this line?",
+      "options": [
+        "A) 6",
+        "B) 9",
+        "C) 12",
+        "D) 14"
+      ],
+      "correctAnswer": "D) 14",
+      "explanation": "To find the y-coordinate for the point (4, y) that lies on the line y = 3x + 2, you need to substitute the given x-coordinate, which is 4, into the equation of the line.\n\nStart with the equation: y = 3x + 2\nReplace 'x' with '4': y = 3(4) + 2\nPerform the multiplication: y = 12 + 2\nPerform the addition: y = 14\n\nSo, the missing y-coordinate is 14, meaning the point is (4, 14).",
+      "hint": "To find a point on a line, substitute the given coordinate value (x or y) into the equation of the line.",
+      "generatedAt": "2026-04-30T12:17:33.520901"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_003",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Which of the following points lies on the straight line with the equation y = 2x + 3?",
+      "options": [
+        "(1, 4)",
+        "(0, 3)",
+        "(2, 5)",
+        "(-1, 2)"
+      ],
+      "correctAnswer": "(0, 3)",
+      "explanation": "To determine which point lies on the line, substitute the x-coordinate of each option into the equation y = 2x + 3 and check if the result matches the y-coordinate of that option.\n\nFor option A) (1, 4):\nSubstitute x = 1 into the equation: y = 2(1) + 3 = 2 + 3 = 5.\nSince 5 is not equal to 4, the point (1, 4) does not lie on the line.\n\nFor option B) (0, 3):\nSubstitute x = 0 into the equation: y = 2(0) + 3 = 0 + 3 = 3.\nSince 3 is equal to 3, the point (0, 3) lies on the line.\n\nFor option C) (2, 5):\nSubstitute x = 2 into the equation: y = 2(2) + 3 = 4 + 3 = 7.\nSince 7 is not equal to 5, the point (2, 5) does not lie on the line.\n\nFor option D) (-1, 2):\nSubstitute x = -1 into the equation: y = 2(-1) + 3 = -2 + 3 = 1.\nSince 1 is not equal to 2, the point (-1, 2) does not lie on the line.\n\nTherefore, the correct answer is (0, 3).",
+      "hint": "For each point, substitute its x-coordinate into the equation y = 2x + 3. If the calculated y-value matches the y-coordinate of the point, then that point lies on the line.",
+      "generatedAt": "2026-04-30T12:17:47.248915"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_004",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has the equation y = 3x - 2. Which of the following tables of values is correct for this equation?",
+      "options": [
+        "Option A: x: 0, 1, 2 | y: -2, 1, 4",
+        "Option B: x: 0, 1, 2 | y: 2, 5, 8",
+        "Option C: x: 0, 1, 2 | y: -2, -1, 0",
+        "Option D: x: 0, 1, 2 | y: 1, 3, 5"
+      ],
+      "correctAnswer": "Option A: x: 0, 1, 2 | y: -2, 1, 4",
+      "explanation": "To find the correct table of values, substitute each x-value into the equation y = 3x - 2.\n\nFor x = 0:\ny = 3(0) - 2\ny = 0 - 2\ny = -2\n\nFor x = 1:\ny = 3(1) - 2\ny = 3 - 2\ny = 1\n\nFor x = 2:\ny = 3(2) - 2\ny = 6 - 2\ny = 4\n\nSo, the correct table of values is x: 0, 1, 2 | y: -2, 1, 4. This matches Option A.",
+      "hint": "Substitute each given x-value into the equation y = 3x - 2 to calculate the corresponding y-value.",
+      "generatedAt": "2026-04-30T12:18:00.565533"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_005",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has the equation y = 4x + 7. When the x-coordinate of a point on this line increases by 1, what is the corresponding change in the y-coordinate?",
+      "options": [
+        "A) Increases by 1",
+        "B) Increases by 4",
+        "C) Increases by 7",
+        "D) Decreases by 4"
+      ],
+      "correctAnswer": "B) Increases by 4",
+      "explanation": "The general equation of a straight line is y = mx + c, where 'm' is the gradient of the line. The gradient 'm' tells us how much the y-coordinate changes for every unit (1 unit) increase in the x-coordinate.\n\nIn the given equation, y = 4x + 7, the gradient (m) is 4.\n\nThis means that for every 1 unit increase in the x-coordinate, the y-coordinate increases by 4.",
+      "hint": "Consider the role of the number 'm' in the equation y = mx + c. What does it tell you about the steepness and direction of the line?",
+      "generatedAt": "2026-04-30T12:18:11.370326"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_006",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line passes through several points. A partial table of coordinates for this line is given below:\n\n| x | 0 | 1 | 2 | 3 |\n|---|---|---|---|---|\n| y | 4 | ? | 8 | 10 |\n\nWhat is the missing y-coordinate in the table when x = 1?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correctAnswer": "B) 6",
+      "explanation": "1. Observe the change in x-coordinates in the table. As x increases by 1 (e.g., from 2 to 3), the y-coordinate changes by a consistent amount because it's a straight line.\n2. Look at the known points: when x = 2, y = 8, and when x = 3, y = 10.\n3. The change in x from 2 to 3 is +1.\n4. The change in y from 8 to 10 is +2.\n5. This means that for every increase of 1 in x, the y-coordinate increases by 2.\n6. To find the missing y-coordinate when x = 1, start from the point where x = 0, y = 4.\n7. Since x increases by 1 (from 0 to 1), y must also increase by 2.\n8. Therefore, the missing y-coordinate is 4 + 2 = 6.",
+      "hint": "Look at the pattern of how the y-values change as the x-values increase. Remember that for a straight line, this change is constant.",
+      "generatedAt": "2026-04-30T12:18:22.528398"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_007",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has the equation y = 5x - 3. What is the y-intercept of this line?",
+      "options": [
+        "A) 5",
+        "B) -5",
+        "C) 3",
+        "D) -3"
+      ],
+      "correctAnswer": "D) -3",
+      "explanation": "The general form of a linear equation is y = mx + c, where 'm' is the gradient and 'c' is the y-intercept. In the given equation, y = 5x - 3, the value that corresponds to 'c' is -3. Therefore, the y-intercept of the line is -3.",
+      "hint": "Recall the standard form of a linear equation, y = mx + c, and identify which part represents the y-intercept.",
+      "generatedAt": "2026-04-30T12:18:30.670182"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_008",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has a gradient of 4. The line crosses the y-axis at the point (0, -3). Which of the following is the correct equation of this straight line?",
+      "options": [
+        "y = 4x + 3",
+        "y = -3x + 4",
+        "y = 4x - 3",
+        "y = -3x - 4"
+      ],
+      "correctAnswer": "y = 4x - 3",
+      "explanation": "The general equation for a straight line is y = mx + c, where 'm' represents the gradient and 'c' represents the y-intercept. \n\nIn this question, the gradient (m) is given as 4.\n\nThe line crosses the y-axis at the point (0, -3). This means the y-intercept (c) is -3.\n\nSubstitute the values m = 4 and c = -3 into the general equation:\ny = (4)x + (-3)\ny = 4x - 3",
+      "hint": "Remember the general form of a straight line equation is y = mx + c. Identify what 'm' and 'c' represent and substitute the given values.",
+      "generatedAt": "2026-04-30T12:18:40.587223"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_009",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "Which of the following points lies on the straight line with the equation y = 2x + 3?",
+      "options": [
+        "A: (1, 4)",
+        "B: (2, 7)",
+        "C: (0, 2)",
+        "D: (-1, 0)"
+      ],
+      "correctAnswer": "B: (2, 7)",
+      "explanation": "To check if a point lies on the line y = 2x + 3, substitute the x-coordinate of the point into the equation and verify if the calculated y-value matches the y-coordinate of the point.\n\nFor option A: Point (1, 4)\nSubstitute x = 1 into the equation: y = 2(1) + 3 = 2 + 3 = 5.\nSince the y-coordinate for this point is 4, and our calculated y is 5, (1, 4) does not lie on the line.\n\nFor option B: Point (2, 7)\nSubstitute x = 2 into the equation: y = 2(2) + 3 = 4 + 3 = 7.\nSince the y-coordinate for this point is 7, and our calculated y is 7, (2, 7) lies on the line.\n\nFor option C: Point (0, 2)\nSubstitute x = 0 into the equation: y = 2(0) + 3 = 0 + 3 = 3.\nSince the y-coordinate for this point is 2, and our calculated y is 3, (0, 2) does not lie on the line.\n\nFor option D: Point (-1, 0)\nSubstitute x = -1 into the equation: y = 2(-1) + 3 = -2 + 3 = 1.\nSince the y-coordinate for this point is 0, and our calculated y is 1, (-1, 0) does not lie on the line.\n\nTherefore, the only point that satisfies the equation is (2, 7).",
+      "hint": "For each option, substitute the x-coordinate into the line's equation (y = 2x + 3) and calculate the y-value. The correct point will have a y-value that matches the calculated result.",
+      "generatedAt": "2026-04-30T12:18:57.415985"
+    },
+    {
+      "id": "m-y8-linear-graphs_beginner_010",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 8,
+      "text": "A straight line has the equation y = 2x - 6. Which of the following statements correctly describes a feature of this line?",
+      "options": [
+        "A) The line slopes downwards from left to right.",
+        "B) The line crosses the y-axis at a positive y-coordinate.",
+        "C) The line is horizontal.",
+        "D) The line slopes upwards from left to right."
+      ],
+      "correctAnswer": "D) The line slopes upwards from left to right.",
+      "explanation": "The general equation for a straight line is y = mx + c, where 'm' is the gradient and 'c' is the y-intercept.\n\nFor the given equation y = 2x - 6:\n- The gradient (m) is 2. A positive gradient (m > 0) means the line slopes upwards from left to right.\n- The y-intercept (c) is -6. This means the line crosses the y-axis at the point (0, -6), which is a negative y-coordinate.\n\nLet's evaluate each option:\nA) The line slopes downwards from left to right. (Incorrect, because the gradient 'm' is 2, which is positive. A downward slope requires a negative gradient).\nB) The line crosses the y-axis at a positive y-coordinate. (Incorrect, because the y-intercept 'c' is -6, which is a negative y-coordinate).\nC) The line is horizontal. (Incorrect, a horizontal line has a gradient of 0, but here the gradient is 2).\nD) The line slopes upwards from left to right. (Correct, because the gradient 'm' is 2, which is a positive value).",
+      "hint": "Remember that in the equation y = mx + c, the value of 'm' tells you about the slope (direction) of the line.",
+      "generatedAt": "2026-04-30T12:19:16.226861"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y8-linear-graphs_intermediate_001",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A linear graph passes through the points given in the table below.\n\nx: -2, 0, 2\ny: 11, 5, -1\n\nFind the value of y when x = 5. Show your working clearly.",
+      "options": [
+        "-10",
+        "20",
+        "10",
+        "-20"
+      ],
+      "correctAnswer": "-10",
+      "explanation": "Step 1: Find the equation of the linear graph in the form y = mx + c.\nTo find the gradient (m), use two points from the table, for example, (0, 5) and (2, -1).\nm = (change in y) / (change in x) = (y₂ - y₁) / (x₂ - x₁)\nm = (-1 - 5) / (2 - 0) = -6 / 2 = -3.\n\nThe y-intercept (c) is the value of y when x = 0. From the table, when x = 0, y = 5. So, c = 5.\nTherefore, the equation of the line is y = -3x + 5.\n\nStep 2: Substitute x = 5 into the equation to find the value of y.\ny = -3(5) + 5\ny = -15 + 5\ny = -10.\n\nThus, when x = 5, y = -10.",
+      "hint": "First, determine the gradient and the y-intercept from the given table to write the equation of the line in the form y = mx + c. Then, substitute the given x-value into your equation.",
+      "generatedAt": "2026-04-30T12:19:29.491991"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_002",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line passes through point A(3, 11) and point B(7, 27). Find the equation of this line in the form y = mx + c. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the equation of a straight line (y = mx + c), we need to calculate the gradient (m) first, and then find the y-intercept (c).\n\nStep 1: Calculate the gradient (m).\nThe formula for the gradient is m = (y₂ - y₁) / (x₂ - x₁).\nLet (x₁, y₁) = (3, 11) and (x₂, y₂) = (7, 27).\nm = (27 - 11) / (7 - 3)\nm = 16 / 4\nm = 4\n\nStep 2: Find the y-intercept (c).\nNow we know m = 4, so the equation is y = 4x + c.\nWe can use either point A or point B to find c. Let's use point A(3, 11):\nSubstitute x = 3 and y = 11 into the equation:\n11 = 4(3) + c\n11 = 12 + c\nc = 11 - 12\nc = -1\n\nSo, the equation of the line is y = 4x - 1.",
+      "explanation": "The problem requires finding the equation of a straight line in the form y = mx + c, given two points it passes through. This is a two-step process: first calculate the gradient (m) using the coordinates of the two points, then substitute one of the points and the calculated gradient into the y = mx + c form to find the y-intercept (c). The final step is to write out the full equation.",
+      "hint": "Start by calculating the gradient using the formula m = (y₂ - y₁) / (x₂ - x₁). Once you have the gradient, substitute it and the coordinates of one of the given points into y = mx + c to find the value of c.",
+      "generatedAt": "2026-04-30T12:19:40.971805"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_003",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line, Line A, has the equation y = 4x - 9.\nAnother straight line, Line B, is parallel to Line A and passes through the point (3, 7).\n\nFind the coordinates of the point where Line B crosses the y-axis. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the coordinates where Line B crosses the y-axis, we first need to determine the equation of Line B.\n\nStep 1: Identify the gradient of Line A.\nThe equation of Line A is y = 4x - 9. For a linear equation in the form y = mx + c, 'm' represents the gradient. So, the gradient of Line A is 4.\n\nStep 2: Determine the gradient of Line B.\nSince Line B is parallel to Line A, it must have the same gradient. Therefore, the gradient of Line B is also 4.\n\nStep 3: Use the gradient and the given point to find the y-intercept (c) of Line B.\nThe general equation for Line B is y = 4x + c. We know that Line B passes through the point (3, 7). We can substitute x = 3 and y = 7 into the equation:\n7 = 4(3) + c\n7 = 12 + c\nSubtract 12 from both sides:\nc = 7 - 12\nc = -5\n\nStep 4: Write the full equation for Line B.\nNow that we have the gradient (m=4) and the y-intercept (c=-5), the equation for Line B is y = 4x - 5.\n\nStep 5: Find the coordinates where Line B crosses the y-axis.\nA line crosses the y-axis when the x-coordinate is 0. We can substitute x = 0 into the equation of Line B:\ny = 4(0) - 5\ny = 0 - 5\ny = -5\n\nTherefore, Line B crosses the y-axis at the point (0, -5).",
+      "explanation": "To find the coordinates where Line B crosses the y-axis, we first need to determine the equation of Line B.\n\nStep 1: Identify the gradient of Line A.\nThe equation of Line A is y = 4x - 9. For a linear equation in the form y = mx + c, 'm' represents the gradient. So, the gradient of Line A is 4.\n\nStep 2: Determine the gradient of Line B.\nSince Line B is parallel to Line A, it must have the same gradient. Therefore, the gradient of Line B is also 4.\n\nStep 3: Use the gradient and the given point to find the y-intercept (c) of Line B.\nThe general equation for Line B is y = 4x + c. We know that Line B passes through the point (3, 7). We can substitute x = 3 and y = 7 into the equation:\n7 = 4(3) + c\n7 = 12 + c\nSubtract 12 from both sides:\nc = 7 - 12\nc = -5\n\nStep 4: Write the full equation for Line B.\nNow that we have the gradient (m=4) and the y-intercept (c=-5), the equation for Line B is y = 4x - 5.\n\nStep 5: Find the coordinates where Line B crosses the y-axis.\nA line crosses the y-axis when the x-coordinate is 0. We can substitute x = 0 into the equation of Line B:\ny = 4(0) - 5\ny = 0 - 5\ny = -5\n\nTherefore, Line B crosses the y-axis at the point (0, -5).",
+      "hint": "Remember that parallel lines have the same gradient. Once you have the gradient of Line B and a point it passes through, you can use the form y = mx + c to find its y-intercept.",
+      "generatedAt": "2026-04-30T12:19:55.265611"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_004",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line, Line P, passes through the point (2, 7) and has a y-intercept of 3.\nA second straight line, Line Q, is parallel to Line P and passes through the point (5, 1).\n\nCalculate the x-intercept of Line Q. Show all your working.",
+      "options": [],
+      "correctAnswer": "**Step 1: Find the equation of Line P.**\nThe general equation of a straight line is y = mx + c, where m is the gradient and c is the y-intercept.\nFor Line P, we are given a y-intercept (c) of 3. So, the equation is y = mx + 3.\nLine P passes through the point (2, 7). Substitute these values into the equation:\n7 = m(2) + 3\n7 - 3 = 2m\n4 = 2m\nm = 2\nSo, the equation of Line P is y = 2x + 3.\n\n**Step 2: Find the equation of Line Q.**\nLine Q is parallel to Line P. Parallel lines have the same gradient.\nTherefore, the gradient (m) of Line Q is also 2.\nLine Q passes through the point (5, 1). Substitute m = 2 and the point (5, 1) into y = mx + c:\n1 = 2(5) + c\n1 = 10 + c\nc = 1 - 10\nc = -9\nSo, the equation of Line Q is y = 2x - 9.\n\n**Step 3: Calculate the x-intercept of Line Q.**\nThe x-intercept is the point where the line crosses the x-axis, which means the y-coordinate is 0.\nSubstitute y = 0 into the equation of Line Q:\n0 = 2x - 9\n9 = 2x\nx = 9 / 2\nx = 4.5\n\nThe x-intercept of Line Q is 4.5.",
+      "explanation": "The problem requires finding the x-intercept of Line Q. This is a multi-step process:\n1.  First, determine the gradient and y-intercept of Line P using the given point (2, 7) and its y-intercept (0, 3).\n2.  Next, use the property of parallel lines (they have the same gradient) to find the gradient of Line Q. Then, use the point (5, 1) that Line Q passes through to find its y-intercept, thereby establishing the full equation for Line Q.\n3.  Finally, to find the x-intercept of Line Q, set y = 0 in its equation and solve for x.",
+      "hint": "Begin by finding the gradient of Line P using its y-intercept and the point (2, 7). Remember that parallel lines share the same gradient.",
+      "generatedAt": "2026-04-30T12:20:10.312696"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_005",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line, Line A, passes through the coordinates (1, 5) and (4, 17).\nAnother straight line, Line B, is parallel to Line A and passes through the point (2, 3).\n\nDetermine the y-intercept of Line B. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the gradient of Line A.\nThe gradient (m) of a line passing through two points (x1, y1) and (x2, y2) is given by the formula m = (y2 - y1) / (x2 - x1).\nFor Line A, using points (1, 5) and (4, 17):\nm = (17 - 5) / (4 - 1)\nm = 12 / 3\nm = 4\n\nStep 2: Use the gradient to find the y-intercept of Line B.\nSince Line B is parallel to Line A, it has the same gradient. Therefore, the gradient of Line B is also 4.\nLine B passes through the point (2, 3). We can use the equation of a straight line, y = mx + c, where 'm' is the gradient and 'c' is the y-intercept.\nSubstitute m = 4, x = 2, and y = 3 into the equation:\n3 = 4(2) + c\n3 = 8 + c\nTo find 'c', subtract 8 from both sides:\nc = 3 - 8\nc = -5\n\nThe y-intercept of Line B is -5.",
+      "explanation": "This problem requires two main steps. First, you need to calculate the gradient of Line A using the coordinates it passes through. The gradient formula is (change in y) / (change in x). Second, you use the property that parallel lines have the same gradient to establish the gradient of Line B. Finally, substitute this gradient and the given point for Line B into the standard linear equation y = mx + c to solve for the y-intercept (c).",
+      "hint": "Remember that parallel lines have the same gradient. Your first step should be to calculate the gradient using the two points given for Line A.",
+      "generatedAt": "2026-04-30T12:20:26.449424"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_006",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line has a gradient of 4. It passes through the point with coordinates (3, 7). Working is required.\nWhat is the value of the y-coordinate when the x-coordinate is 5 for this line?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correctAnswer": "15",
+      "explanation": "1. The general equation of a straight line is `y = mx + c`, where `m` is the gradient and `c` is the y-intercept.\n2. We are given that the gradient, `m`, is 4. So, the equation starts as `y = 4x + c`.\n3. The line passes through the point (3, 7). We substitute `x = 3` and `y = 7` into our equation to find the y-intercept, `c`:\n   `7 = 4(3) + c`\n   `7 = 12 + c`\n   To find `c`, subtract 12 from both sides:\n   `c = 7 - 12`\n   `c = -5`\n4. Now we have the full equation of the line: `y = 4x - 5`.\n5. Finally, we need to find the value of `y` when `x = 5`. Substitute `x = 5` into the line's equation:\n   `y = 4(5) - 5`\n   `y = 20 - 5`\n   `y = 15`\nTherefore, when the x-coordinate is 5, the y-coordinate is 15.",
+      "hint": "First, use the given gradient and point to find the equation of the line in the form `y = mx + c`. Then, substitute the new x-coordinate into your equation to find the corresponding y-coordinate.",
+      "generatedAt": "2026-04-30T12:20:41.013545"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_007",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line, Line L, has a gradient of 3. This line passes through the point with coordinates (4, 17).\n\nPart A: Determine the value of the y-intercept for Line L. Show your working.\n\nPart B: Another point, P, has coordinates (7, 26). Does point P lie on Line L? Show your working to justify your answer.",
+      "options": [],
+      "correctAnswer": "Part A:\nThe general equation of a straight line is y = mx + c, where m is the gradient and c is the y-intercept.\nGiven that the gradient (m) is 3, the equation becomes y = 3x + c.\nThe line passes through the point (4, 17). We can substitute x=4 and y=17 into the equation to find c:\n17 = 3(4) + c\n17 = 12 + c\nTo find c, subtract 12 from both sides:\nc = 17 - 12\nc = 5\nThe y-intercept for Line L is 5.\n\nPart B:\nFrom Part A, the equation of Line L is y = 3x + 5.\nTo check if point P (7, 26) lies on Line L, we substitute its x-coordinate (x=7) into the equation and see if the resulting y-value matches the y-coordinate of P (y=26):\ny = 3(7) + 5\ny = 21 + 5\ny = 26\nSince the calculated y-value (26) matches the y-coordinate of point P, point P (7, 26) does lie on Line L.\nJustification: Yes, point P (7, 26) lies on Line L because when x=7 is substituted into the equation y = 3x + 5, the result for y is 26.",
+      "explanation": "The full working and explanation are provided in the 'correctAnswer' field as it's an open-ended question.",
+      "hint": "Remember that the general form of a straight line equation is y = mx + c. For Part A, substitute the given gradient (m) and the coordinates of the point (x, y) into this equation to find the y-intercept (c). For Part B, use the full equation of the line you found and substitute the x-coordinate of point P to check if the calculated y-value matches point P's y-coordinate.",
+      "generatedAt": "2026-04-30T12:20:54.912828"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_008",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "A straight line, Line P, passes through the point with coordinates (4, 17). The line also has a y-intercept at (0, 5).\n\nWhich of the following points lies on Line P? Show your working clearly.",
+      "options": [
+        "(2, 11)",
+        "(3, 12)",
+        "(-1, 7)",
+        "(5, 19)"
+      ],
+      "correctAnswer": "(2, 11)",
+      "explanation": "To determine which point lies on Line P, we first need to find the equation of Line P in the form y = mx + c.\n\nStep 1: Find the y-intercept (c) and gradient (m).\nWe are given that the y-intercept is at (0, 5), so c = 5.\nNow we have the partial equation: y = mx + 5.\n\nWe are also given that the line passes through the point (4, 17). We can substitute these x and y values into the equation to find m:\n17 = m(4) + 5\n17 - 5 = 4m\n12 = 4m\nm = 12 / 4\nm = 3\n\nSo, the equation of Line P is y = 3x + 5.\n\nStep 2: Test each given option by substituting its x-coordinate into the equation and checking if the resulting y-coordinate matches.\n\nFor option (2, 11):\nSubstitute x = 2 into y = 3x + 5:\ny = 3(2) + 5\ny = 6 + 5\ny = 11\nSince the calculated y-value (11) matches the y-coordinate of the point (2, 11), this point lies on Line P.\n\nLet's check the other options to confirm:\nFor option (3, 12):\nSubstitute x = 3 into y = 3x + 5:\ny = 3(3) + 5\ny = 9 + 5\ny = 14\n14 ≠ 12, so (3, 12) does not lie on Line P.\n\nFor option (-1, 7):\nSubstitute x = -1 into y = 3x + 5:\ny = 3(-1) + 5\ny = -3 + 5\ny = 2\n2 ≠ 7, so (-1, 7) does not lie on Line P.\n\nFor option (5, 19):\nSubstitute x = 5 into y = 3x + 5:\ny = 3(5) + 5\ny = 15 + 5\ny = 20\n20 ≠ 19, so (5, 19) does not lie on Line P.\n\nThe only point that lies on Line P is (2, 11).",
+      "hint": "Start by finding the equation of the line in the form y = mx + c, using the given point and y-intercept.",
+      "generatedAt": "2026-04-30T12:21:09.717265"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_009",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "Line A passes through the points with coordinates (3, 11) and (7, 27).\n\nLine B has a gradient that is half the gradient of Line A. Line B also has the same y-intercept as Line A.\n\nLine B passes through the point (2, y). What is the value of y?\n\nShow your working clearly.",
+      "options": [
+        "3",
+        "7",
+        "15",
+        "-1"
+      ],
+      "correctAnswer": "3",
+      "explanation": "Step 1: Find the gradient of Line A.\nThe formula for the gradient (m) from two points (x1, y1) and (x2, y2) is m = (y2 - y1) / (x2 - x1).\nFor Line A, using the points (3, 11) and (7, 27):\nm_A = (27 - 11) / (7 - 3) = 16 / 4 = 4.\n\nStep 2: Find the y-intercept of Line A.\nUsing the general equation of a straight line, y = mx + c, substitute the gradient (m_A = 4) and one of the points (e.g., (3, 11)) into the equation:\n11 = 4(3) + c_A\n11 = 12 + c_A\nc_A = 11 - 12 = -1.\n\nStep 3: Determine the gradient and y-intercept of Line B.\nLine B has a gradient that is half the gradient of Line A:\nm_B = m_A / 2 = 4 / 2 = 2.\nLine B has the same y-intercept as Line A:\nc_B = c_A = -1.\n\nStep 4: Write the equation of Line B.\nUsing y = mx + c with m_B = 2 and c_B = -1, the equation for Line B is:\ny = 2x - 1.\n\nStep 5: Find the value of y for the point (2, y) on Line B.\nLine B passes through the point (2, y). Substitute x = 2 into the equation for Line B:\ny = 2(2) - 1\ny = 4 - 1\ny = 3.\n\nTherefore, the value of y is 3.",
+      "hint": "Begin by calculating the gradient of Line A using the two given coordinates. Then, use this gradient and one of the points to find the y-intercept of Line A using the formula y = mx + c.",
+      "generatedAt": "2026-04-30T12:21:29.425179"
+    },
+    {
+      "id": "m-y8-linear-graphs_intermediate_010",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 8,
+      "text": "Line F has the equation y = 4x - 7.\n\nLine G passes through the points shown in the table:\n| x | -1 | 2 | 5 |\n|---|----|---|---|\n| y | 0  | 12| 24|\n\nWhich line has a y-intercept that is closer to the origin? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To determine which line's y-intercept is closer to the origin, we need to find the y-intercept for both Line F and Line G and then compare their distances from the origin.\n\n**For Line F:**\nThe equation of Line F is y = 4x - 7.\nIn the form y = mx + c, 'c' represents the y-intercept.\nSo, the y-intercept of Line F is -7.\nThe distance of this y-intercept from the origin is |-7| = 7 units.\n\n**For Line G:**\nFirst, we need to find the gradient of Line G using two points from the table. Let's use (-1, 0) and (2, 12).\nGradient (m) = (change in y) / (change in x)\n               = (12 - 0) / (2 - (-1))\n               = 12 / (2 + 1)\n               = 12 / 3\n               = 4\n\nNow we have the gradient m = 4. We can use the equation y = mx + c and one of the points to find the y-intercept (c).\nLet's use the point (2, 12):\n12 = 4(2) + c\n12 = 8 + c\nc = 12 - 8\nc = 4\nSo, the y-intercept of Line G is 4.\nThe distance of this y-intercept from the origin is |4| = 4 units.\n\n**Comparison:**\nLine F's y-intercept is 7 units from the origin.\nLine G's y-intercept is 4 units from the origin.\nSince 4 is less than 7, Line G's y-intercept is closer to the origin.\n\n**Answer: Line G**",
+      "explanation": "1.  **Find the y-intercept of Line F:** For an equation in the form y = mx + c, 'c' is the y-intercept. For y = 4x - 7, the y-intercept is -7. Its distance from the origin is |-7| = 7.\n2.  **Find the gradient of Line G:** Choose any two points from the table, for example, (-1, 0) and (2, 12). Calculate the gradient using the formula m = (y2 - y1) / (x2 - x1). m = (12 - 0) / (2 - (-1)) = 12 / 3 = 4.\n3.  **Find the y-intercept of Line G:** Use the gradient (m=4) and one of the points (e.g., (2, 12)) in the equation y = mx + c. Substitute the values: 12 = 4(2) + c. Solve for c: 12 = 8 + c, so c = 4. The y-intercept is 4. Its distance from the origin is |4| = 4.\n4.  **Compare distances:** Compare the absolute values of the y-intercepts. Line F is 7 units from the origin, and Line G is 4 units from the origin. Since 4 < 7, Line G's y-intercept is closer to the origin.",
+      "hint": "Remember that the y-intercept is the value of 'c' in the equation y = mx + c. For the line given by points in a table, you'll first need to calculate its gradient, and then use that gradient along with one of the given points to find its y-intercept.",
+      "generatedAt": "2026-04-30T12:21:46.144882"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y8-linear-graphs_advanced_001",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A school is planning a field trip and needs to hire a bus. They are considering two local bus companies, TravelFirst and QuickRide, whose charges depend on the number of hours the bus is hired.\n\nTravelFirst provides the following cost information:\n| Hours (h) | Total Cost (£) |\n|:---------:|:--------------:|\n| 2         | 100            |\n| 5         | 190            |\n\nQuickRide charges a fixed booking fee of £30, plus an additional £25 for every hour the bus is used.\n\nThe school estimates they will need the bus for 6 hours.\nDetermine which company the school should choose to pay the minimum total cost, and calculate the exact difference in cost between the two companies for 6 hours of hire. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To determine the best company, we first need to find the total cost equation (in the form Cost = mh + c) for each company and then calculate their costs for 6 hours.\n\n**Step 1: Determine the cost equation for TravelFirst.**\n1.  **Calculate the gradient (m), which represents the cost per hour:**\n    Using the two data points from the table (2 hours, £100) and (5 hours, £190):\n    Change in Cost = £190 - £100 = £90\n    Change in Hours = 5 - 2 = 3 hours\n    Gradient (m) = Change in Cost / Change in Hours = £90 / 3 = £30 per hour.\n2.  **Calculate the y-intercept (c), which represents the fixed cost:**\n    We use the equation `Cost = 30h + c` and one of the given points, for example, (2 hours, £100):\n    100 = 30 * 2 + c\n    100 = 60 + c\n    c = 100 - 60\n    c = 40\n    So, the fixed cost for TravelFirst is £40.\n3.  **The cost equation for TravelFirst is: `Cost_TravelFirst = 30h + 40`**\n\n**Step 2: Determine the cost equation for QuickRide.**\n1.  QuickRide charges a fixed booking fee of £30. This is the y-intercept (c).\n2.  QuickRide charges an additional £25 for every hour. This is the gradient (m).\n3.  **The cost equation for QuickRide is: `Cost_QuickRide = 25h + 30`**\n\n**Step 3: Calculate the total cost for 6 hours for each company.**\n1.  **For TravelFirst (h = 6 hours):**\n    `Cost_TravelFirst = (30 * 6) + 40`\n    `Cost_TravelFirst = 180 + 40`\n    `Cost_TravelFirst = £220`\n2.  **For QuickRide (h = 6 hours):**\n    `Cost_QuickRide = (25 * 6) + 30`\n    `Cost_QuickRide = 150 + 30`\n    `Cost_QuickRide = £180`\n\n**Step 4: Compare the costs and find the difference.**\n*   For 6 hours, TravelFirst costs £220.\n*   For 6 hours, QuickRide costs £180.\n*   QuickRide is cheaper.\n*   The difference in cost = `£220 - £180 = £40`.\n\n**Conclusion:**\nThe school should choose QuickRide because it would cost £180, which is cheaper than TravelFirst's £220. The exact difference in cost between the two companies for 6 hours of hire would be £40.",
+      "explanation": "The full step-by-step working is provided in the 'correctAnswer' field above, demonstrating how to: 1. Calculate the gradient and y-intercept for TravelFirst using the given data points to form its linear equation. 2. Directly form the linear equation for QuickRide from its given fixed fee and hourly rate. 3. Substitute the required number of hours (6) into both equations to find the total cost for each company. 4. Compare the two total costs and calculate the difference.",
+      "hint": "First, for each company, find an equation that describes the total cost (£) in terms of the number of hours (h). Remember that a linear equation can be written in the form Cost = m * Hours + c, where 'm' is the gradient (cost per hour) and 'c' is the y-intercept (fixed cost).",
+      "generatedAt": "2026-04-30T12:22:02.979940"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_002",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Consider two straight lines, Line L and Line M.\nLine L passes through the points (2, 7) and (5, 16).\nLine M is parallel to Line L and passes through the point (1, 1).\n\nYour task is to find the equation of Line M in the form y = mx + c, where m is the gradient and c is the y-intercept. You must show all your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "1. **Find the gradient of Line L:**\n   The gradient, m, of a line passing through two points (x1, y1) and (x2, y2) is given by the formula:\n   m = (y2 - y1) / (x2 - x1)\n   For Line L, using points (2, 7) and (5, 16):\n   m_L = (16 - 7) / (5 - 2)\n   m_L = 9 / 3\n   m_L = 3\n\n2. **Determine the gradient of Line M:**\n   Since Line M is parallel to Line L, they have the same gradient.\n   Therefore, the gradient of Line M, m_M, is also 3.\n\n3. **Find the equation of Line M:**\n   The equation of a straight line is y = mx + c.\n   We know m_M = 3 and Line M passes through the point (1, 1). Substitute these values into the equation:\n   1 = 3(1) + c\n   1 = 3 + c\n   Subtract 3 from both sides:\n   c = 1 - 3\n   c = -2\n\n4. **Write the final equation for Line M:**\n   Substitute m = 3 and c = -2 into y = mx + c:\n   The equation of Line M is y = 3x - 2.",
+      "explanation": "The problem requires finding the equation of Line M. First, calculate the gradient of Line L using the two points (2, 7) and (5, 16) with the formula m = (y2-y1)/(x2-x1). Since Line M is parallel to Line L, they share the same gradient. Then, use this common gradient along with the point (1, 1) through which Line M passes to substitute into the equation y = mx + c. Solve this equation for 'c', the y-intercept, to complete the equation for Line M.",
+      "hint": "Remember that parallel lines have the same gradient. First, calculate the gradient of Line L using the two given points, (2, 7) and (5, 16).",
+      "generatedAt": "2026-04-30T12:22:19.980836"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_003",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A charity is tracking the total amount of money in its bank account during an online fundraising event. The amount of money, M (in pounds), is observed to increase linearly with the number of hours, H, since the event started.\n\nThe data collected is shown in the table below:\n| Hours (H) | Total Money (M in £) |\n|---|---|\n| 3 | 450 |\n| 7 | 770 |\n\nIf the charity continues to raise money at the same linear rate, how much money will they have accumulated in total after 10 hours? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To solve this, we first need to find the equation of the linear relationship in the form M = mH + c, where 'm' is the gradient (rate of fundraising) and 'c' is the y-intercept (initial money at H=0).\n\n1.  **Calculate the gradient (m):**\n    The two given points are (H1, M1) = (3, 450) and (H2, M2) = (7, 770).\n    The gradient, m, represents the rate of change of money per hour:\n    m = (M2 - M1) / (H2 - H1)\n    m = (770 - 450) / (7 - 3)\n    m = 320 / 4\n    m = 80\n    This means the charity is raising £80 per hour.\n\n2.  **Determine the y-intercept (c):**\n    Now use the linear equation M = mH + c with the calculated gradient m = 80 and one of the given points (e.g., (3, 450)) to find 'c':\n    450 = 80 * 3 + c\n    450 = 240 + c\n    c = 450 - 240\n    c = 210\n    This means the charity had £210 in its account before the event started (at H=0).\n\n3.  **Formulate the linear equation:**\n    Substitute the gradient and y-intercept into the equation M = mH + c:\n    M = 80H + 210\n\n4.  **Calculate the total money after 10 hours:**\n    Substitute H = 10 into the formulated equation:\n    M = 80 * 10 + 210\n    M = 800 + 210\n    M = 1010\n\nTherefore, the charity will have accumulated £1010 after 10 hours.",
+      "explanation": "The problem requires finding the total money after 10 hours, which is an output value for a given input (time). Since the relationship is linear (M = mH + c), the first step is to determine the equation of this line. This involves two sub-steps: calculating the gradient (m) using the 'change in y over change in x' formula from the two given data points, and then calculating the y-intercept (c) by substituting one of the points and the calculated gradient into the y = mx + c form. Once the full equation is established, the final step is to substitute H = 10 into the equation to find the corresponding value of M.",
+      "hint": "Remember that a linear relationship can be expressed as y = mx + c. First, find the gradient (m) using the two given data points. Then, use one of the points and the gradient to find the y-intercept (c). Finally, substitute the required number of hours into your equation.",
+      "generatedAt": "2026-04-30T12:22:38.921363"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_004",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Two new fitness clubs, Active Gym and FitFusion, offer different membership plans.\n\nActive Gym charges a £20 joining fee and then £15 per month.\nFitFusion charges a £50 joining fee and then £10 per month.\n\n(a) For each gym, complete the following table showing the total cost (C) for a given number of months (M).\n| Months (M) | Active Gym Cost (£) | FitFusion Cost (£) |\n|---|---|---|\n| 0 | | |\n| 1 | | |\n| 2 | | |\n| 3 | | |\n| 4 | | |\n| 5 | | |\n| 6 | | |\n\n(b) Write down the equation for the total cost C in terms of the number of months M for Active Gym. Do the same for FitFusion.\n\n(c) A member plans to join a gym for exactly 9 months. Calculate which gym would be cheaper and by how much. Show your working.\n\n(d) Determine after how many months the total cost for both gyms will be exactly the same. Show your working.",
+      "options": [],
+      "correctAnswer": "(a)\n| Months (M) | Active Gym Cost (£) | FitFusion Cost (£) |\n|---|---|---|\n| 0 | 20 | 50 |\n| 1 | 35 | 60 |\n| 2 | 50 | 70 |\n| 3 | 65 | 80 |\n| 4 | 80 | 90 |\n| 5 | 95 | 100 |\n| 6 | 110 | 110 |\n\n(b)\nActive Gym: C = 15M + 20\nFitFusion: C = 10M + 50\n\n(c)\nFor Active Gym (M=9):\nC = 15(9) + 20 = 135 + 20 = £155\nFor FitFusion (M=9):\nC = 10(9) + 50 = 90 + 50 = £140\nFitFusion is cheaper by £155 - £140 = £15.\n\n(d)\nTo find when the costs are the same, set the two equations equal:\n15M + 20 = 10M + 50\nSubtract 10M from both sides:\n5M + 20 = 50\nSubtract 20 from both sides:\n5M = 30\nDivide by 5:\nM = 6\nThe total cost for both gyms will be the same after 6 months.",
+      "explanation": "(a) To complete the table, substitute the number of months (M) into the cost structure for each gym. For Active Gym, the cost is £20 (joining fee) + £15 * (number of months). For FitFusion, the cost is £50 (joining fee) + £10 * (number of months). For example, for M=1, Active Gym = 15(1)+20=£35, and FitFusion = 10(1)+50=£60. Follow this pattern for all given months.\n\n(b) The equation for a linear relationship is typically y = mx + c, where 'm' is the gradient (rate of change per unit) and 'c' is the y-intercept (fixed starting value). For Active Gym, the fixed cost (joining fee) is £20, and the monthly cost (rate) is £15, so C = 15M + 20. For FitFusion, the fixed cost is £50, and the monthly cost is £10, so C = 10M + 50.\n\n(c) To find the cost for 9 months, substitute M=9 into each gym's equation. For Active Gym: C = 15(9) + 20 = 135 + 20 = £155. For FitFusion: C = 10(9) + 50 = 90 + 50 = £140. Comparing the two costs, £140 (FitFusion) is less than £155 (Active Gym). The difference is £155 - £140 = £15. Therefore, FitFusion is cheaper by £15.\n\n(d) To determine when the total costs are the same, set the two cost equations equal to each other: 15M + 20 = 10M + 50. To solve for M, first subtract 10M from both sides to get 5M + 20 = 50. Then, subtract 20 from both sides to get 5M = 30. Finally, divide by 5 to find M = 6. So, after 6 months, the total cost for both gyms will be the same.",
+      "hint": "Remember that the general form for a linear equation is y = mx + c, where 'm' represents the rate of change per unit (like cost per month) and 'c' represents the fixed starting value (like a joining fee). Use this to form your equations and make predictions. To find when two costs are equal, set their equations equal to each other and solve.",
+      "generatedAt": "2026-04-30T12:22:59.711974"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_005",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Two remote-controlled cars, Car A and Car B, are moving along a straight track. The distance is measured in metres from a fixed starting line.\n\nCar A starts at a position of 10 metres from the starting line and moves away from it at a constant speed of 3 metres per second.\n\nCar B starts at a position of 70 metres from the starting line and moves towards the starting line at a constant speed of 4 metres per second.\n\na) Write down an equation for the distance, `D_A`, of Car A from the starting line at time `t` seconds.\nb) Write down an equation for the distance, `D_B`, of Car B from the starting line at time `t` seconds.\nc) Determine the exact time, in seconds, when the two cars meet. You must show all your working.\nd) Calculate the exact distance from the starting line where the cars meet. You must show all your working.\ne) Calculate the total distance Car B would have travelled from its initial position by the time the cars meet. You must show all your working.",
+      "options": [],
+      "correctAnswer": "a) For Car A:\nInitial position (y-intercept) = 10 metres.\nSpeed (gradient) = +3 metres per second (positive because it's moving away from the starting line).\nEquation: `D_A = 3t + 10`\n\nb) For Car B:\nInitial position (y-intercept) = 70 metres.\nSpeed (gradient) = -4 metres per second (negative because it's moving towards the starting line).\nEquation: `D_B = -4t + 70`\n\nc) To find when the cars meet, set `D_A = D_B`:\n`3t + 10 = -4t + 70`\nAdd `4t` to both sides:\n`3t + 4t + 10 = 70`\n`7t + 10 = 70`\nSubtract `10` from both sides:\n`7t = 70 - 10`\n`7t = 60`\nDivide by `7`:\n`t = 60/7` seconds\n\nd) To find the distance where the cars meet, substitute `t = 60/7` into either `D_A` or `D_B`.\nUsing `D_A = 3t + 10`:\n`D_A = 3 * (60/7) + 10`\n`D_A = 180/7 + 10`\nConvert `10` to a fraction with denominator `7`:\n`10 = 70/7`\n`D_A = 180/7 + 70/7`\n`D_A = 250/7` metres\n(Using `D_B` for verification: `D_B = -4 * (60/7) + 70 = -240/7 + 490/7 = 250/7` metres)\n\ne) Car B travels at a speed of 4 metres per second. The time until the cars meet is `60/7` seconds.\nTotal distance travelled by Car B = Speed × Time\nDistance = `4 * (60/7)`\nDistance = `240/7` metres",
+      "explanation": "This question tests the understanding of linear equations in the form `y = mx + c` applied to a real-world context. \na) and b) require identifying the initial position as the y-intercept (`c`) and the constant speed as the gradient (`m`). The direction of movement determines the sign of the gradient. Moving away from the starting line means a positive gradient, while moving towards it means a negative gradient.\nc) To find when the cars meet, their distances from the starting line must be equal. This means setting their two equations equal to each other and solving the resulting linear equation for `t`.\nd) Once the time `t` of collision is found, substitute this value back into either of the original distance equations to find the specific distance from the starting line where they meet.\ne) This final step requires understanding that the total distance travelled by Car B from its starting point is its speed multiplied by the time it was moving, regardless of its initial position or direction relative to the starting line.",
+      "hint": "Remember that a constant speed implies a linear relationship. Consider how the starting position and direction of travel affect the equation y = mx + c, especially the gradient 'm'. When two objects meet, their positions are the same at that specific time.",
+      "generatedAt": "2026-04-30T12:23:18.348994"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_006",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "Consider two straight lines, Line L1 and Line L2, on a coordinate plane.\n\nLine L1 passes through the point A(1, 10) and the point B(4, 1).\n\nLine L2 has a gradient of 2 and passes through the point C(3, 10).\n\na) Find the equation of Line L1 in the form y = mx + c, where m is the gradient and c is the y-intercept. Show your working. (3 marks)\n\nb) Find the coordinates of the point where Line L1 and Line L2 intersect. Show your working. (4 marks)\n\nc) Line L2 intersects the x-axis at point P and the y-axis at point Q. Calculate the area of the triangle formed by the origin (0,0), point P, and point Q. Show your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) To find the equation of Line L1:\n1.  **Calculate the gradient (m):**\n    m = (y2 - y1) / (x2 - x1)\n    Using points A(1, 10) and B(4, 1):\n    m = (1 - 10) / (4 - 1)\n    m = -9 / 3\n    m = -3\n\n2.  **Use the gradient and one point to find the y-intercept (c):**\n    The equation is y = -3x + c. Using point A(1, 10):\n    10 = -3(1) + c\n    10 = -3 + c\n    c = 10 + 3\n    c = 13\n\n    The equation of Line L1 is y = -3x + 13.\n\nb) To find the coordinates of the intersection point:\n1.  **Find the equation of Line L2:**\n    Line L2 has a gradient (m) of 2 and passes through C(3, 10).\n    Using y = mx + c:\n    10 = 2(3) + c\n    10 = 6 + c\n    c = 10 - 6\n    c = 4\n\n    The equation of Line L2 is y = 2x + 4.\n\n2.  **Set the equations of Line L1 and Line L2 equal to each other to find x:**\n    -3x + 13 = 2x + 4\n    13 - 4 = 2x + 3x\n    9 = 5x\n    x = 9/5\n    x = 1.8\n\n3.  **Substitute the value of x into either equation to find y:**\n    Using L2: y = 2(1.8) + 4\n    y = 3.6 + 4\n    y = 7.6\n\n    The intersection point is (1.8, 7.6).\n\nc) To calculate the area of the triangle formed by the origin, P, and Q:\n1.  **Find the x-intercept (Point P) of Line L2:**\n    For the x-intercept, y = 0.\n    0 = 2x + 4\n    -4 = 2x\n    x = -2\n    So, P = (-2, 0).\n\n2.  **Find the y-intercept (Point Q) of Line L2:**\n    For the y-intercept, x = 0.\n    y = 2(0) + 4\n    y = 4\n    So, Q = (0, 4).\n\n3.  **Calculate the area of the triangle:**\n    The triangle has vertices at the origin (0,0), P(-2,0), and Q(0,4).\n    The base of the triangle lies along the x-axis, from (0,0) to (-2,0). Its length is |-2| = 2 units.\n    The height of the triangle lies along the y-axis, from (0,0) to (0,4). Its length is |4| = 4 units.\n\n    Area = (1/2) * base * height\n    Area = (1/2) * 2 * 4\n    Area = 4 square units.",
+      "explanation": "a) To find the equation of a line given two points, first calculate the gradient (m) using the formula m = (y2 - y1) / (x2 - x1). Then, use the general equation y = mx + c and substitute the calculated gradient along with the coordinates of one of the points to solve for the y-intercept (c).\n\nb) To find the intersection point of two lines, you need the equations of both lines. Once you have both equations in the form y = mx + c, set the two expressions for y equal to each other. This creates an equation with only x, which you can solve. After finding the x-coordinate, substitute it back into either of the original line equations to find the corresponding y-coordinate.\n\nc) The x-intercept is where the line crosses the x-axis, so the y-coordinate is 0. The y-intercept is where the line crosses the y-axis, so the x-coordinate is 0. These intercepts, along with the origin (0,0), form a right-angled triangle. The lengths of the base and height of this triangle are the absolute values of the x-intercept and y-intercept, respectively. The area of a triangle is calculated using the formula Area = (1/2) * base * height.",
+      "hint": "Remember that the y-intercept is the value of y when x=0, and the x-intercept is the value of x when y=0. To find where two lines intersect, set their equations for y equal to each other.",
+      "generatedAt": "2026-04-30T12:23:37.722728"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_007",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A straight line, Line K, passes through two points P(2, 7) and Q(5, 13). \nA second straight line, Line M, is parallel to Line K and passes through the point R(4, 1). \nA point S has coordinates (x, 11) and lies on Line M. \n\nWork out the value of x. Show all your working. This question is worth a total of 9 marks.",
+      "options": [],
+      "correctAnswer": "To find the value of x, we must first determine the equation of Line M.\n\n**Step 1: Calculate the gradient of Line K.**\nThe gradient (m) of a line passing through two points (x₁, y₁) and (x₂, y₂) is given by the formula: m = (y₂ - y₁) / (x₂ - x₁).\nUsing the points P(2, 7) and Q(5, 13):\nm_K = (13 - 7) / (5 - 2)\nm_K = 6 / 3\nm_K = 2\n\n**Step 2: Determine the equation of Line M.**\nSince Line M is parallel to Line K, it must have the same gradient. Therefore, the gradient of Line M (m_M) is also 2.\nThe general equation of a straight line is y = mx + c. For Line M, this becomes y = 2x + c'.\nLine M passes through the point R(4, 1). We can substitute these coordinates into the equation to find c':\n1 = 2(4) + c'\n1 = 8 + c'\nc' = 1 - 8\nc' = -7\nSo, the equation of Line M is y = 2x - 7.\n\n**Step 3: Find the value of x for point S.**\nPoint S has coordinates (x, 11) and lies on Line M. This means that when y = 11, the x-coordinate must satisfy the equation of Line M.\nSubstitute y = 11 into the equation y = 2x - 7:\n11 = 2x - 7\nAdd 7 to both sides of the equation:\n11 + 7 = 2x\n18 = 2x\nDivide by 2:\nx = 9\n\nThe final answer is **x = 9**.",
+      "explanation": "This problem requires finding the gradient of Line K, which then gives the gradient of Line M due to parallelism. Using the gradient of Line M and point R, the full equation of Line M can be determined. Finally, substituting the y-coordinate of point S into Line M's equation allows for the calculation of the unknown x-coordinate.",
+      "hint": "Begin by calculating the gradient of Line K using the coordinates of points P and Q. Remember that parallel lines have identical gradients. Once you have the gradient of Line M and the coordinates of point R, you can find the equation of Line M. The final step involves substituting the y-coordinate of point S into the equation of Line M to solve for x.",
+      "generatedAt": "2026-04-30T12:24:15.107188"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_008",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A small company manufactures custom-made wooden plaques. The total production cost, C (in pounds), for a batch of 'n' plaques follows a linear relationship. The cost includes a fixed setup fee for design and machine preparation, plus an additional cost for each plaque produced. The company records show that producing 6 plaques costs a total of £135, and producing 15 plaques costs a total of £270. All working must be shown.\n\nFor a large order, the company wants to determine the batch size for which the average cost per plaque is exactly £16.50. What is this batch size?",
+      "options": [
+        "20 plaques",
+        "25 plaques",
+        "30 plaques",
+        "35 plaques"
+      ],
+      "correctAnswer": "30 plaques",
+      "explanation": "1.  **Find the gradient (cost per plaque):**\n    The two points given are (n1, C1) = (6, 135) and (n2, C2) = (15, 270).\n    The gradient (m), which represents the cost per plaque, is calculated as:\n    m = (C2 - C1) / (n2 - n1)\n    m = (270 - 135) / (15 - 6)\n    m = 135 / 9\n    m = 15\n    So, the cost per plaque is £15.\n\n2.  **Find the y-intercept (fixed setup fee):**\n    We use the linear equation C = mn + c. Substitute m = 15 and one of the points (e.g., (6, 135)) into the equation:\n    135 = 15(6) + c\n    135 = 90 + c\n    c = 135 - 90\n    c = 45\n    So, the fixed setup fee is £45.\n\n3.  **Write the linear equation for total cost:**\n    The equation relating total cost C to the number of plaques n is C = 15n + 45.\n\n4.  **Formulate the expression for average cost per plaque:**\n    Average Cost = Total Cost / Number of plaques\n    Average Cost = (15n + 45) / n\n    Average Cost = 15 + 45/n\n\n5.  **Solve for the batch size (n) when the average cost is £16.50:**\n    Set the average cost expression equal to £16.50:\n    16.50 = 15 + 45/n\n    Subtract 15 from both sides:\n    16.50 - 15 = 45/n\n    1.50 = 45/n\n    Multiply both sides by n:\n    1.5n = 45\n    Divide by 1.5:\n    n = 45 / 1.5\n    n = 450 / 15\n    n = 30\n\nTherefore, the batch size for which the average cost per plaque is exactly £16.50 is 30 plaques.",
+      "hint": "First, determine the linear relationship between the total cost and the number of plaques by finding the gradient and y-intercept. Then, remember that the average cost per plaque is the total cost divided by the number of plaques.",
+      "generatedAt": "2026-04-30T12:24:36.700780"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_009",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A straight line, Line P, has the equation y = 2x + 6.\n\nAnother straight line, Line Q, has a gradient that is half the gradient of Line P. Line Q passes through the point where Line P crosses the x-axis.\n\nCalculate the equation of Line Q in the form y = mx + c. Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "To find the equation of Line Q, we first need to determine its gradient (m) and its y-intercept (c).\n\n**Step 1: Find the gradient of Line P.**\nLine P has the equation y = 2x + 6. In the form y = mx + c, the gradient (m) is the coefficient of x.\nSo, the gradient of Line P is 2.\n\n**Step 2: Find the gradient of Line Q.**\nLine Q has a gradient that is half the gradient of Line P.\nGradient of Line Q = (1/2) * (Gradient of Line P)\nGradient of Line Q = (1/2) * 2 = 1.\nSo, for Line Q, m = 1.\n\n**Step 3: Find the point where Line P crosses the x-axis.**\nA line crosses the x-axis when y = 0.\nFor Line P: 0 = 2x + 6\nSubtract 6 from both sides: -6 = 2x\nDivide by 2: x = -3.\nSo, Line P crosses the x-axis at the point (-3, 0).\nLine Q passes through this point (-3, 0).\n\n**Step 4: Use the gradient and the point to find the y-intercept (c) of Line Q.**\nWe know Line Q has the form y = mx + c, with m = 1, and it passes through the point (-3, 0).\nSubstitute these values into the equation:\n0 = (1)(-3) + c\n0 = -3 + c\nAdd 3 to both sides: c = 3.\n\n**Step 5: Write the equation of Line Q.**\nWith m = 1 and c = 3, the equation of Line Q is:\ny = 1x + 3\nOr simply:\ny = x + 3",
+      "explanation": "The problem requires several steps. First, identify the gradient of Line P. Then, use this to calculate the gradient of Line Q. Next, find the x-intercept of Line P by setting y=0 in its equation; this gives a point that Line Q passes through. Finally, use the gradient of Line Q and the point it passes through to find its y-intercept, and then write the full equation.",
+      "hint": "Remember how to find the x-intercept of a line, and how to calculate the equation of a line given its gradient and a single point it passes through.",
+      "generatedAt": "2026-04-30T12:24:59.980625"
+    },
+    {
+      "id": "m-y8-linear-graphs_advanced_010",
+      "topicId": "m-y8-linear-graphs",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 8,
+      "text": "A cylindrical water tank is being filled with water. The depth of the water is measured at specific times. \n\nInitially, at 2 minutes from the start of filling, the water depth is 15 cm. At 6 minutes from the start, the water depth is 27 cm. The tank is filled at a constant rate during this initial period.\n\nAfter exactly 10 minutes from the very beginning of the filling process, the first pump is switched off, and a more powerful second pump is used. This second pump fills the tank at a constant rate of 4 cm per minute.\n\nThe tank has a maximum depth of 70 cm.\n\nCalculate the total time, in minutes and seconds, from the very beginning of the filling process until the tank is completely full. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the equation for the first phase of filling.\nLet 't' be time in minutes and 'D' be depth in cm.\nWe have two points (t, D): (2, 15) and (6, 27).\n\nFirst, calculate the gradient (rate of filling) for the first pump:\nGradient (m1) = (Change in Depth) / (Change in Time)\nm1 = (27 - 15) / (6 - 2) = 12 / 4 = 3 cm/minute.\n\nNow, use one of the points (e.g., (2, 15)) and the gradient (m1 = 3) to find the y-intercept (c) using the form D = mt + c:\n15 = 3(2) + c\n15 = 6 + c\nc = 9\nSo, the equation for the first pump is D = 3t + 9.\n\nStep 2: Calculate the depth of water at the point the pump is changed (t = 10 minutes).\nSubstitute t = 10 into the first equation:\nD_10 = 3(10) + 9 = 30 + 9 = 39 cm.\nSo, after 10 minutes, the depth is 39 cm.\n\nStep 3: Find the equation for the second phase of filling.\nThe second pump starts at t = 10 minutes, when the depth is 39 cm. Its filling rate (gradient) is 4 cm/minute.\nUsing the point-gradient form D - D1 = m(t - t1) with point (10, 39) and gradient m2 = 4:\nD - 39 = 4(t - 10)\nD - 39 = 4t - 40\nD = 4t - 1\nSo, the equation for the second pump (for t ≥ 10) is D = 4t - 1.\n\nStep 4: Calculate the total time until the tank is full (D = 70 cm).\nWe use the equation for the second pump, as the tank reaches its maximum depth during this phase:\n70 = 4t - 1\nAdd 1 to both sides:\n71 = 4t\nDivide by 4:\nt = 71 / 4 = 17.75 minutes.\n\nStep 5: Convert the time to minutes and seconds.\n17.75 minutes means 17 full minutes and 0.75 of a minute.\nTo convert 0.75 minutes to seconds: 0.75 * 60 seconds/minute = 45 seconds.\n\nTherefore, the total time until the tank is completely full is 17 minutes and 45 seconds.",
+      "explanation": "The problem requires us to model two distinct linear phases of water filling and determine when a specific depth is reached. First, we establish the initial linear relationship (depth vs. time) using the given two data points to find the gradient (rate of filling) and the y-intercept (initial depth). This gives us the equation for the first pump. Next, we use this equation to calculate the water depth at the exact moment the pump is switched (at 10 minutes). This calculated depth and time point then becomes the starting point for the second linear phase. We then construct a new linear equation for the second pump, using its given filling rate (gradient) and the point (10 minutes, 39 cm depth). Finally, we use this second equation to find the total time (t) from the very beginning when the water depth reaches the maximum tank depth (70 cm), and then convert any decimal part of the minutes into seconds.",
+      "hint": "Break the problem down into two distinct linear phases. First, determine the linear equation (Depth = mt + c) for the initial filling process. Then, use this equation to find the water depth at the exact time the pump changes. After that, establish a new linear equation for the second filling process using the new rate and the depth at the changeover point. Finally, use this second equation to find the total time to reach the maximum depth and remember to convert any decimal minutes to seconds.",
+      "generatedAt": "2026-04-30T12:25:31.127432"
+    }
+  ]
+}

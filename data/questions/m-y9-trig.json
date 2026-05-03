@@ -1,0 +1,473 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-trig_beginner_001",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle PQR, the angle Q is 90 degrees. The length of the side PQ is 7 cm. The angle R is 30 degrees. Calculate the length of the side PR, giving your answer to one decimal place.",
+      "options": [
+        "A. 14.0 cm",
+        "B. 8.1 cm",
+        "C. 3.5 cm",
+        "D. 12.1 cm"
+      ],
+      "correctAnswer": "A. 14.0 cm",
+      "explanation": "1. Identify the knowns: We have a right-angled triangle PQR with angle Q = 90 degrees. We know the length of the side PQ = 7 cm and angle R = 30 degrees. We need to find the length of the side PR.\n2. Label the sides relative to angle R: \n   - PQ is the side Opposite (O) to angle R.\n   - QR is the side Adjacent (A) to angle R.\n   - PR is the Hypotenuse (H), as it is opposite the right angle.\n3. Choose the correct trigonometric ratio: We know the Opposite side (O = 7 cm) and we want to find the Hypotenuse (H = PR). The trigonometric ratio that relates Opposite and Hypotenuse is Sine (SOH):\n   Sin(angle) = Opposite / Hypotenuse\n4. Substitute the values into the formula:\n   Sin(30°) = 7 / PR\n5. Rearrange the formula to solve for PR:\n   PR = 7 / Sin(30°)\n6. Calculate the value: You should know that Sin(30°) = 0.5 (or use a calculator).\n   PR = 7 / 0.5\n   PR = 14 cm\n7. Give the answer to one decimal place:\n   PR = 14.0 cm",
+      "hint": "Consider which trigonometric ratio (Sine, Cosine, or Tangent) connects the side you know (Opposite to angle R) with the side you want to find (the Hypotenuse).",
+      "generatedAt": "2026-04-30T14:04:13.704714"
+    },
+    {
+      "id": "m-y9-trig_beginner_002",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle ABC, the angle at B is 90 degrees. The length of the side AB is 10 cm and the angle at A is 30 degrees. Calculate the length of side BC, giving your answer to two decimal places.",
+      "options": [
+        "5.00 cm",
+        "5.77 cm",
+        "8.66 cm",
+        "17.32 cm"
+      ],
+      "correctAnswer": "5.77 cm",
+      "explanation": "1. Identify the knowns and what needs to be found:\n   -   We have a right-angled triangle ABC, with angle B = 90 degrees.\n   -   Angle A = 30 degrees.\n   -   Side AB = 10 cm.\n   -   We need to find the length of side BC.\n\n2. Label the sides relative to the known angle A:\n   -   Side BC is Opposite to angle A.\n   -   Side AB is Adjacent to angle A.\n   -   Side AC is the Hypotenuse.\n\n3. Choose the correct trigonometric ratio:\n   -   We know the Adjacent side (AB) and want to find the Opposite side (BC).\n   -   The trigonometric ratio that connects Opposite and Adjacent is Tangent (TOA: Tan = Opposite / Adjacent).\n\n4. Set up the equation:\n   tan(A) = Opposite / Adjacent\n   tan(30°) = BC / AB\n   tan(30°) = BC / 10\n\n5. Solve for BC:\n   BC = 10 * tan(30°)\n\n6. Calculate the value:\n   Using a calculator, tan(30°) ≈ 0.57735...\n   BC = 10 * 0.57735...\n   BC ≈ 5.7735...\n\n7. Round to two decimal places:\n   BC ≈ 5.77 cm.",
+      "hint": "Consider which trigonometric ratio (Sine, Cosine, or Tangent) relates the side opposite an angle to the side adjacent to it.",
+      "generatedAt": "2026-04-30T14:04:30.120348"
+    },
+    {
+      "id": "m-y9-trig_beginner_003",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Consider a right-angled triangle named RST. The angle at S is 90 degrees. The angle at R is 30 degrees. The length of the side RS is 12 cm. Calculate the length of the side ST, rounding your answer to one decimal place.",
+      "options": [
+        "6.0 cm",
+        "6.9 cm",
+        "10.4 cm",
+        "20.8 cm"
+      ],
+      "correctAnswer": "6.9 cm",
+      "explanation": "1.  **Identify Knowns:** We have a right-angled triangle RST with angle S = 90 degrees, angle R = 30 degrees, and side RS = 12 cm.\n2.  **Identify Unknown:** We need to find the length of side ST.\n3.  **Label Sides:** Relative to the known angle R (30 degrees):\n    *   ST is the side **Opposite** to angle R.\n    *   RS is the side **Adjacent** to angle R.\n    *   RT is the **Hypotenuse**.\n4.  **Choose SOH CAH TOA Ratio:** We know the Adjacent side (RS) and want to find the Opposite side (ST). The trigonometric ratio that relates Opposite, Adjacent, and the angle is Tangent (TOA: Tan = Opposite / Adjacent).\n5.  **Set up the Equation:**\n    tan(angle R) = Opposite / Adjacent\n    tan(30°) = ST / 12\n6.  **Solve for ST:**\n    ST = 12 * tan(30°)\n7.  **Calculate:**\n    ST = 12 * 0.57735...\n    ST = 6.9282...\n8.  **Round:** Rounding to one decimal place, ST ≈ 6.9 cm.",
+      "hint": "First, identify which sides are Opposite and Adjacent to the 30-degree angle. Then, decide which SOH CAH TOA ratio (Sine, Cosine, or Tangent) connects these two sides with the given angle.",
+      "generatedAt": "2026-04-30T14:04:44.731413"
+    },
+    {
+      "id": "m-y9-trig_beginner_004",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Consider a right-angled triangle where one of the acute angles measures 35 degrees. The side adjacent to this 35-degree angle has a length of 8 cm. Calculate the length of the hypotenuse, giving your answer to one decimal place.",
+      "options": [
+        "6.6 cm",
+        "9.8 cm",
+        "11.4 cm",
+        "13.9 cm"
+      ],
+      "correctAnswer": "9.8 cm",
+      "explanation": "1. Identify the knowns and what needs to be found:\n   - Known angle (θ) = 35 degrees\n   - Known side = Adjacent (A) = 8 cm\n   - Unknown side = Hypotenuse (H)\n2. Choose the correct trigonometric ratio that relates the adjacent side and the hypotenuse. This is Cosine (CAH: Cosine = Adjacent / Hypotenuse).\n3. Set up the equation:\n   cos(θ) = Adjacent / Hypotenuse\n   cos(35°) = 8 / H\n4. Rearrange the equation to solve for H:\n   H = 8 / cos(35°)\n5. Calculate the value:\n   H = 8 / 0.81915...\n   H ≈ 9.7663 cm\n6. Round the answer to one decimal place:\n   H ≈ 9.8 cm",
+      "hint": "Remember SOH CAH TOA. Which ratio connects the Adjacent side and the Hypotenuse?",
+      "generatedAt": "2026-04-30T14:04:55.720356"
+    },
+    {
+      "id": "m-y9-trig_beginner_005",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A support wire is attached to the top of a vertical pole and anchored to the ground. The anchor point is 8 meters away from the base of the pole. The wire itself is 10 meters long. Calculate the angle, to one decimal place, that the support wire makes with the ground.",
+      "options": [
+        "36.9 degrees",
+        "53.1 degrees",
+        "51.3 degrees",
+        "0.8 degrees"
+      ],
+      "correctAnswer": "36.9 degrees",
+      "explanation": "1. First, identify the components of the right-angled triangle formed by the vertical pole, the ground, and the support wire.\n2. The angle we need to find is between the support wire and the ground.\n3. Relative to this angle:\n   - The length of the support wire (10 meters) is the Hypotenuse.\n   - The distance from the base of the pole to the anchor point (8 meters) is the Adjacent side.\n4. The trigonometric ratio that relates the Adjacent side (A) and the Hypotenuse (H) is Cosine (from SOH CAH TOA, specifically CAH: Cosine = Adjacent / Hypotenuse).\n5. Set up the equation: cos(angle) = 8 / 10\n6. Simplify: cos(angle) = 0.8\n7. To find the angle, use the inverse cosine function: angle = arccos(0.8)\n8. Using a calculator, arccos(0.8) ≈ 36.86989... degrees.\n9. Rounding to one decimal place, the angle is 36.9 degrees.",
+      "hint": "Consider which sides of the triangle are known relative to the angle you need to find. Then choose the appropriate SOH CAH TOA ratio.",
+      "generatedAt": "2026-04-30T14:05:12.102287"
+    },
+    {
+      "id": "m-y9-trig_beginner_006",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle ABC, the angle at B is 90 degrees. The hypotenuse AC is 10 cm and the angle BAC is 30 degrees. Calculate the length of side BC. Show your working.",
+      "options": [
+        "5 cm",
+        "8.66 cm",
+        "5.77 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "5 cm",
+      "explanation": "1.  Identify the known values: We have a right-angled triangle ABC with the right angle at B (90 degrees).\n2.  The hypotenuse (the side opposite the right angle) AC is 10 cm.\n3.  The angle BAC is 30 degrees.\n4.  Identify what needs to be found: The length of side BC.\n5.  Relate the sides to the given angle (30 degrees): Side BC is the 'Opposite' side to angle BAC. Side AC is the 'Hypotenuse'.\n6.  Choose the correct trigonometric ratio from SOH CAH TOA: Since we have the Opposite side and the Hypotenuse, we use SOH (Sine = Opposite / Hypotenuse).\n7.  Set up the equation: sin(angle BAC) = BC / AC\n    sin(30°) = BC / 10\n8.  Solve for BC: BC = 10 * sin(30°)\n9.  Calculate the value: We know that sin(30°) is 0.5.\n    BC = 10 * 0.5\n    BC = 5 cm.\nTherefore, the length of side BC is 5 cm.",
+      "hint": "Remember the SOH CAH TOA acronym. Identify which sides are Opposite, Adjacent, and the Hypotenuse relative to the angle of 30 degrees.",
+      "generatedAt": "2026-04-30T14:05:24.408882"
+    },
+    {
+      "id": "m-y9-trig_beginner_007",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A right-angled triangle has an acute angle of 40 degrees. The side adjacent to this angle is 12 cm long. What is the length of the side opposite to the 40-degree angle? Give your answer to one decimal place.",
+      "options": [
+        "A) 7.7 cm",
+        "B) 9.2 cm",
+        "C) 10.1 cm",
+        "D) 15.6 cm"
+      ],
+      "correctAnswer": "C) 10.1 cm",
+      "explanation": "1. Identify the given information: You have a right-angled triangle, an acute angle (40 degrees), and the length of the side adjacent to this angle (12 cm). You need to find the length of the side opposite to the 40-degree angle.\n2. Choose the correct trigonometric ratio: The ratio that relates the opposite side and the adjacent side to an angle is TAN (Tangent).\n   TAN(angle) = Opposite / Adjacent\n3. Substitute the known values into the formula:\n   TAN(40°) = Opposite / 12\n4. Rearrange the formula to solve for the Opposite side:\n   Opposite = 12 × TAN(40°)\n5. Calculate the value:\n   Opposite ≈ 12 × 0.8390996...\n   Opposite ≈ 10.0691952...\n6. Round to one decimal place as requested:\n   Opposite ≈ 10.1 cm.",
+      "hint": "Remember SOH CAH TOA to decide which trigonometric ratio (sine, cosine, or tangent) links the opposite side and the adjacent side to an angle.",
+      "generatedAt": "2026-04-30T14:05:38.814832"
+    },
+    {
+      "id": "m-y9-trig_beginner_008",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle XYZ, the angle at Y is 90 degrees. Angle X is 35 degrees and the hypotenuse XZ is 12 cm long. Calculate the length of the side YZ. Give your answer to 3 significant figures.",
+      "options": [
+        "A) 6.88 cm",
+        "B) 9.83 cm",
+        "C) 20.9 cm",
+        "D) 8.40 cm"
+      ],
+      "correctAnswer": "A) 6.88 cm",
+      "explanation": "1. Identify the sides relative to the given angle X (35 degrees):\n   - YZ is the side Opposite to angle X.\n   - XZ is the Hypotenuse.\n   - XY is the side Adjacent to angle X.\n2. Choose the correct trigonometric ratio: Since we know the Hypotenuse (XZ) and want to find the Opposite side (YZ), we use the Sine ratio (SOH: Sine = Opposite / Hypotenuse).\n3. Set up the equation:\n   sin(X) = Opposite / Hypotenuse\n   sin(35°) = YZ / 12\n4. Solve for YZ:\n   YZ = 12 * sin(35°)\n   YZ ≈ 12 * 0.573576\n   YZ ≈ 6.882912 cm\n5. Round to 3 significant figures:\n   YZ ≈ 6.88 cm",
+      "hint": "Remember SOH CAH TOA. Identify which sides you know and which side you need to find relative to the given angle.",
+      "generatedAt": "2026-04-30T14:05:54.878062"
+    },
+    {
+      "id": "m-y9-trig_beginner_009",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle PQR, the right angle is at Q. The length of side PQ is 8 cm and the length of side QR is 6 cm. Calculate the size of angle PRQ, correct to one decimal place.",
+      "options": [
+        "A. 36.9 degrees",
+        "B. 53.1 degrees",
+        "C. 45.0 degrees",
+        "D. 60.0 degrees"
+      ],
+      "correctAnswer": "B. 53.1 degrees",
+      "explanation": "1. Identify the angle you need to find: angle PRQ.\n2. From the perspective of angle PRQ:\n   - The side opposite to angle PRQ is PQ = 8 cm.\n   - The side adjacent to angle PRQ is QR = 6 cm.\n   - The hypotenuse is PR (not needed for this calculation).\n3. Choose the correct trigonometric ratio: Since you have the Opposite (O) and Adjacent (A) sides, use the Tangent (TOA) ratio.\n   tan(angle) = Opposite / Adjacent\n4. Set up the equation:\n   tan(PRQ) = PQ / QR\n   tan(PRQ) = 8 / 6\n5. Calculate the angle:\n   PRQ = arctan(8 / 6)\n   PRQ = arctan(1.333...)\n   PRQ ≈ 53.1301 degrees\n6. Round to one decimal place:\n   PRQ ≈ 53.1 degrees",
+      "hint": "Consider which trigonometric ratio (SOH, CAH, or TOA) connects the opposite and adjacent sides to the angle you need to find.",
+      "generatedAt": "2026-04-30T14:06:08.905813"
+    },
+    {
+      "id": "m-y9-trig_beginner_010",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle DEF, the angle at F is 90 degrees. Angle D is 50 degrees. The side opposite to angle D has a length of 10 cm. Calculate the length of the hypotenuse DE. Give your answer to one decimal place. Show your working.",
+      "options": [
+        "A) 13.1 cm",
+        "B) 7.7 cm",
+        "C) 15.6 cm",
+        "D) 11.9 cm"
+      ],
+      "correctAnswer": "A) 13.1 cm",
+      "explanation": "1.  **Identify the knowns and what needs to be found:**\n    *   Angle D = 50 degrees\n    *   Side opposite to Angle D (EF) = 10 cm\n    *   We need to find the hypotenuse (DE).\n\n2.  **Choose the correct trigonometric ratio:**\n    We have the 'Opposite' side and we want to find the 'Hypotenuse'. The ratio that connects Opposite and Hypotenuse is Sine (SOH: Sin = Opposite / Hypotenuse).\n\n3.  **Set up the equation:**\n    sin(Angle D) = Opposite / Hypotenuse\n    sin(50°) = 10 / DE\n\n4.  **Solve for DE:**\n    DE = 10 / sin(50°)\n    Using a calculator, sin(50°) ≈ 0.76604\n    DE ≈ 10 / 0.76604\n    DE ≈ 13.0542...\n\n5.  **Round to one decimal place:**\n    DE ≈ 13.1 cm\n\nTherefore, the correct answer is 13.1 cm.",
+      "hint": "Remember SOH CAH TOA. Consider which ratio uses the opposite side and the hypotenuse.",
+      "generatedAt": "2026-04-30T14:06:25.602342"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-trig_intermediate_001",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A vertical line segment QS is drawn from a point Q to a horizontal line PR, such that S is on PR. This creates two right-angled triangles, PQS and RQS, with the right angle at S in both cases.\nIn triangle PQS, the angle QPS is 40 degrees and the length of PQ is 12 cm.\nIn triangle RQS, the angle QRS is 55 degrees.\nCalculate the length of the side RS. Give your answer to 3 significant figures. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the length of QS using triangle PQS.\nTriangle PQS is a right-angled triangle at S.\nWe are given angle QPS = 40 degrees and the hypotenuse PQ = 12 cm.\nQS is the side opposite to angle QPS.\nUsing SOH (Sine = Opposite / Hypotenuse):\nsin(40°) = QS / PQ\nsin(40°) = QS / 12\nQS = 12 * sin(40°)\nQS = 12 * 0.6427876...\nQS = 7.71345... cm\n\nStep 2: Find the length of RS using triangle RQS.\nTriangle RQS is a right-angled triangle at S.\nWe have found QS = 7.71345... cm.\nWe are given angle QRS = 55 degrees.\nQS is the side opposite to angle QRS, and RS is the side adjacent to angle QRS.\nUsing TOA (Tangent = Opposite / Adjacent):\ntan(55°) = QS / RS\ntan(55°) = 7.71345... / RS\nRS = 7.71345... / tan(55°)\nRS = 7.71345... / 1.4281480...\nRS = 5.40108... cm\n\nRounding to 3 significant figures, RS = 5.40 cm.",
+      "explanation": "1. In triangle PQS, identify the known angle (40°) and the known side (hypotenuse PQ = 12 cm). The side QS is opposite to the known angle.\n2. Use the sine ratio (SOH: Sine = Opposite/Hypotenuse) to calculate the length of QS.\n3. Now consider triangle RQS. The side QS (calculated in step 2) is opposite to the known angle QRS (55°), and RS is adjacent to angle QRS.\n4. Use the tangent ratio (TOA: Tangent = Opposite/Adjacent) to calculate the length of RS.\n5. Round your final answer to 3 significant figures.",
+      "hint": "Identify the common side between the two right-angled triangles (QS) and calculate its length first using trigonometry in triangle PQS.",
+      "generatedAt": "2026-04-30T14:06:46.103833"
+    },
+    {
+      "id": "m-y9-trig_intermediate_002",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "In triangle ABC, angle B is a right angle. The length of side AB is 10 cm and the angle ACB is 30 degrees. A point D is located on the line segment AC such that the line segment BD is perpendicular to AC. Calculate the length of BD, giving your answer to one decimal place.",
+      "options": [
+        "A) 5.0 cm",
+        "B) 8.7 cm",
+        "C) 7.1 cm",
+        "D) 10.0 cm"
+      ],
+      "correctAnswer": "B) 8.7 cm",
+      "explanation": "This problem requires two steps. First, we need to find the measure of angle BAC. Second, we use trigonometry in the new right-angled triangle ABD to find the length of BD.\n\n**Step 1: Find angle BAC.**\nIn triangle ABC, we know that angle ABC is 90 degrees and angle ACB is 30 degrees. The sum of angles in any triangle is 180 degrees.\nAngle BAC = 180° - (Angle ABC + Angle ACB)\nAngle BAC = 180° - (90° + 30°)\nAngle BAC = 180° - 120°\nAngle BAC = 60°.\n\n**Step 2: Find the length of BD.**\nNow, consider the right-angled triangle ABD. We are given that the line segment BD is perpendicular to AC, which means angle ADB is 90 degrees. In triangle ABD, we know:\n- The hypotenuse AB = 10 cm.\n- Angle BAD (which is the same as Angle BAC) = 60 degrees.\n- We want to find the length of BD, which is the side opposite to angle BAD.\n\nUsing the SOH CAH TOA mnemonic:\n'SOH' stands for Sine = Opposite / Hypotenuse.\nSo, sin(Angle BAD) = Opposite side (BD) / Hypotenuse (AB)\nsin(60°) = BD / 10\n\nTo find BD, rearrange the formula:\nBD = 10 * sin(60°)\n\nUsing a calculator:\nsin(60°) ≈ 0.8660254\nBD = 10 * 0.8660254\nBD ≈ 8.660254 cm\n\nRounding to one decimal place, the length of BD is 8.7 cm.",
+      "hint": "First, determine the measure of angle BAC in triangle ABC. Then, identify the right-angled triangle ABD and use the appropriate trigonometric ratio (SOH CAH TOA) with angle BAD and side AB to find BD.",
+      "generatedAt": "2026-04-30T14:07:04.741705"
+    },
+    {
+      "id": "m-y9-trig_intermediate_003",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Consider two triangles, PQR and QRS, which share the common side QR.\n\nTriangle PQR is a right-angled triangle with the right angle at Q. The length of the side PQ is 10 cm and angle P is 35 degrees.\n\nTriangle QRS is also a right-angled triangle, with the right angle at S. The length of the side RS is 8 cm.\n\nCalculate the size of angle SQR, giving your answer to one decimal place. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To calculate the size of angle SQR, we need to perform two steps:\n\n**Step 1: Find the length of the common side QR using triangle PQR.**\nIn the right-angled triangle PQR:\n- The right angle is at Q.\n- We are given PQ (the side adjacent to angle P) = 10 cm.\n- We are given angle P = 35 degrees.\n- We need to find QR (the side opposite to angle P).\n\nUsing the TOA part of SOH CAH TOA (tan = Opposite/Adjacent):\ntan(angle P) = QR / PQ\ntan(35°) = QR / 10\nQR = 10 * tan(35°)\nQR ≈ 10 * 0.7002075\nQR ≈ 7.002075 cm (It's important to keep several decimal places for accuracy in the next step).\n\n**Step 2: Find the size of angle SQR using triangle QRS.**\nIn the right-angled triangle QRS:\n- The right angle is at S.\n- We have found QR (the side adjacent to angle SQR) ≈ 7.002075 cm.\n- We are given RS (the side opposite to angle SQR) = 8 cm.\n- We need to find angle SQR.\n\nUsing the TOA part of SOH CAH TOA (tan = Opposite/Adjacent):\ntan(angle SQR) = RS / QR\ntan(angle SQR) = 8 / 7.002075\ntan(angle SQR) ≈ 1.142510\n\nTo find angle SQR, we use the inverse tangent function:\nangle SQR = arctan(1.142510)\nangle SQR ≈ 48.8168 degrees\n\nRounding to one decimal place:\n**angle SQR = 48.8°**",
+      "explanation": "The problem requires finding an angle in one right-angled triangle by first calculating a shared side using information from another right-angled triangle. This is a two-step trigonometry problem.\n\n**Step 1: Identify the knowns and unknowns in the first triangle (PQR).**\n- Angle P is known (35°).\n- Side PQ (adjacent to P) is known (10 cm).\n- Side QR (opposite to P) is unknown and needed for the second triangle.\n- The relationship between Opposite, Adjacent, and an angle is given by the tangent function: tan(angle) = Opposite / Adjacent.\n- So, QR = PQ * tan(P).\n\n**Step 2: Identify the knowns and unknowns in the second triangle (QRS).**\n- Side RS (opposite to angle SQR) is known (8 cm).\n- Side QR (adjacent to angle SQR) is now known from Step 1.\n- Angle SQR is the unknown to be found.\n- Again, the tangent function is appropriate: tan(angle SQR) = RS / QR.\n- To find the angle, use the inverse tangent function: angle SQR = arctan(RS / QR).\n\nEnsure to keep sufficient precision in intermediate calculations to achieve the required rounding accuracy for the final answer.",
+      "hint": "Break the problem down into two steps. First, use trigonometry in triangle PQR to find the length of the common side QR. Then, use that length in triangle QRS to find the required angle SQR, applying SOH CAH TOA for both steps.",
+      "generatedAt": "2026-04-30T14:07:24.379677"
+    },
+    {
+      "id": "m-y9-trig_intermediate_004",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A vertical mast PR stands on horizontal ground. Point Q is on the ground such that the distance from the base of the mast, R, to Q is 10 metres. The angle of elevation of the top of the mast, P, from Q is 40 degrees. A second point, S, is also on the horizontal ground, along the same straight line as Q and R. Point S is 5 metres further away from R than Q is, with Q lying between S and R.\n\nCalculate the angle of elevation of P from S. Give your answer to one decimal place. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the height of the mast (PR).\nIn the right-angled triangle PQR, R is the right angle because PR is vertical and QR is horizontal.\nWe are given the adjacent side to angle PQR (QR = 10m) and the angle of elevation (angle PQR = 40 degrees).\nWe need to find the opposite side (PR).\nUsing SOH CAH TOA, the relationship between the opposite, adjacent, and angle is tan(angle) = Opposite / Adjacent.\ntan(40°) = PR / QR\ntan(40°) = PR / 10\nPR = 10 * tan(40°)\nPR = 10 * 0.83909963...\nPR ≈ 8.391 metres (It's important to keep more precision for intermediate steps to avoid rounding errors).\n\nStep 2: Find the angle of elevation of P from S (angle PSR).\nFirst, find the total distance from S to the base of the mast, R (SR).\nSince S, Q, and R are in a straight line with Q between S and R, the distances add up:\nSR = SQ + QR\nSR = 5m + 10m\nSR = 15 metres\n\nNow, consider the right-angled triangle PSR, where R is the right angle.\nWe have the opposite side (PR ≈ 8.391m from Step 1) and the adjacent side (SR = 15m).\nWe need to find the angle PSR.\nUsing tan(angle) = Opposite / Adjacent:\ntan(angle PSR) = PR / SR\ntan(angle PSR) = 8.3909963... / 15\ntan(angle PSR) = 0.55939975...\nangle PSR = arctan(0.55939975...)\nangle PSR ≈ 29.2319 degrees\n\nRounding to one decimal place, the angle of elevation of P from S is 29.2 degrees.",
+      "explanation": "This problem requires two stages of trigonometric calculation. First, we identify the right-angled triangle PQR. Given the distance from Q to R (adjacent side) and the angle of elevation from Q (angle PQR), we use the tangent function (Opposite/Adjacent) to calculate the height of the mast, PR. In the second stage, we determine the total distance from S to R (SR) by adding the given distances SQ and QR. Then, we consider the larger right-angled triangle PSR. Using the previously calculated height of the mast (PR as the opposite side) and the total distance SR (as the adjacent side), we apply the tangent function again to find the angle of elevation from S (angle PSR). The final answer is then rounded to one decimal place.",
+      "hint": "First, consider the triangle formed by points P, Q, and R to find the height of the mast. Remember that the angle of elevation, the height of the mast, and the horizontal distance form a right-angled triangle. Then, use this calculated height along with the total distance from S to R to find the required angle. The tangent ratio (Opposite/Adjacent) will be useful in both steps.",
+      "generatedAt": "2026-04-30T14:07:47.438448"
+    },
+    {
+      "id": "m-y9-trig_intermediate_005",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Triangle XYZ has a right angle at Y. The side XY is 10 cm and the side YZ is 7 cm. A point W lies on the side XZ such that angle YWZ is 90 degrees.\nCalculate the length of YW to one decimal place. Show all your working.",
+      "options": [],
+      "correctAnswer": "Here's a step-by-step solution:\n\n**Step 1: Find the angle at X (angle ZXY) in triangle XYZ.**\nIn the large right-angled triangle XYZ:\n*   The side opposite to angle ZXY is YZ = 7 cm.\n*   The side adjacent to angle ZXY is XY = 10 cm.\nUsing the tangent ratio (TOA: Tangent = Opposite/Adjacent):\ntan(angle ZXY) = YZ / XY\ntan(angle ZXY) = 7 / 10\ntan(angle ZXY) = 0.7\nangle ZXY = arctan(0.7)\nangle ZXY ≈ 34.99202 degrees (It's important to keep more precision at this stage for accuracy in the next step).\n\n**Step 2: Use angle ZXY to find the length of YW in triangle XYW.**\nThe point W lies on XZ such that angle YWZ = 90 degrees. This means that YW is an altitude to XZ, making triangle XYW a right-angled triangle at W.\nIn the right-angled triangle XYW:\n*   We know angle WXY (which is the same as angle ZXY) ≈ 34.99202 degrees.\n*   The hypotenuse is XY = 10 cm.\n*   The side opposite to angle WXY is YW (the length we want to find).\nUsing the sine ratio (SOH: Sine = Opposite/Hypotenuse):\nsin(angle WXY) = YW / XY\nYW = XY * sin(angle WXY)\nYW = 10 * sin(34.99202...)\nYW ≈ 10 * 0.573576...\nYW ≈ 5.73576 cm\n\nRounding to one decimal place, the length of YW is **5.7 cm**.",
+      "explanation": "This is a two-step trigonometry problem. First, you need to identify the larger right-angled triangle (XYZ) and use the given side lengths to calculate one of its acute angles (angle ZXY). In the second step, you use this calculated angle in the smaller right-angled triangle (XYW) along with a known side (XY) to find the missing side (YW). Both steps involve selecting and applying the correct SOH CAH TOA ratio.",
+      "hint": "Begin by finding the measure of angle ZXY in the main triangle XYZ. Then, consider the right-angled triangle XYW and use the angle you've just calculated to find the length of YW.",
+      "generatedAt": "2026-04-30T14:08:08.646604"
+    },
+    {
+      "id": "m-y9-trig_intermediate_006",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A right-angled triangle PQR has its right angle at Q. The length of side PQ is 15 cm. The angle PRQ is 28 degrees. A point S is located on the side QR such that the length of SR is 8 cm. Calculate the length of the line segment PS, giving your answer to one decimal place. Show your working.",
+      "options": [],
+      "correctAnswer": "25.2 cm",
+      "explanation": "**Step 1: Calculate the length of side QR.**\nIn the right-angled triangle PQR, we know the opposite side (PQ = 15 cm) to angle PRQ (28 degrees) and we want to find the adjacent side (QR).\nUsing the tangent ratio: tan(angle) = Opposite / Adjacent\ntan(28°) = PQ / QR\ntan(28°) = 15 / QR\nQR = 15 / tan(28°)\nQR ≈ 15 / 0.53170943\nQR ≈ 28.21090 cm (keeping more precision for intermediate steps)\n\n**Step 2: Calculate the length of side QS.**\nPoint S is on the side QR, and the length of SR is 8 cm. To find QS, subtract SR from QR.\nQS = QR - SR\nQS = 28.21090 - 8\nQS = 20.21090 cm\n\n**Step 3: Calculate the length of line segment PS.**\nConsider the right-angled triangle PQS. The right angle is at Q.\nWe know PQ = 15 cm and QS = 20.21090 cm. PS is the hypotenuse.\nUsing Pythagoras' theorem: PS² = PQ² + QS²\nPS² = 15² + (20.21090)²\nPS² = 225 + 408.4806\nPS² = 633.4806\nPS = √633.4806\nPS ≈ 25.1690 cm\n\n**Step 4: Round the answer to one decimal place.**\nPS ≈ 25.2 cm",
+      "hint": "First, use trigonometry (specifically the tangent ratio) in triangle PQR to find the full length of the side QR. Then, use this length to find the length of QS, and finally apply Pythagoras' theorem in the smaller right-angled triangle PQS.",
+      "generatedAt": "2026-04-30T14:08:32.842451"
+    },
+    {
+      "id": "m-y9-trig_intermediate_007",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Consider a right-angled triangle PQR, where the right angle is at vertex Q. The side PQ has a length of 10 cm and the side QR has a length of 15 cm. A line segment QS is drawn from vertex Q to the hypotenuse PR, such that QS is perpendicular to PR. Calculate the length of QS, giving your answer to three significant figures. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find one of the acute angles in triangle PQR.\nLet's find angle P (angle QPR).\nIn triangle PQR, PQ is the adjacent side to angle P, and QR is the opposite side.\ntan(P) = Opposite / Adjacent\ntan(P) = QR / PQ\ntan(P) = 15 / 10\ntan(P) = 1.5\nP = arctan(1.5)\nP ≈ 56.3099 degrees (to 4 decimal places).\n\nStep 2: Use angle P to find the length of QS.\nNow consider the right-angled triangle PQS. The right angle is at S because QS is perpendicular to PR. In triangle PQS, QS is the side opposite to angle P, and PQ is the hypotenuse.\nsin(P) = Opposite / Hypotenuse\nsin(P) = QS / PQ\nQS = PQ * sin(P)\nQS = 10 * sin(56.3099...)\nQS ≈ 10 * 0.83205\nQS ≈ 8.3205 cm\n\nRounding to three significant figures:\nQS = 8.32 cm",
+      "explanation": "The problem requires two main steps involving trigonometry. First, determine one of the acute angles in the main right-angled triangle PQR using the given side lengths. Then, use that calculated angle and one of the original side lengths within one of the smaller right-angled triangles (PQS or RQS) to find the length of QS. The calculations involve using the tangent function to find the angle and then the sine function to find the side, ensuring the intermediate angle is kept to high precision to avoid rounding errors in the final answer.",
+      "hint": "Consider finding one of the acute angles in the main triangle PQR first, for example, angle P. Then, consider the smaller right-angled triangle PQS to use that angle and a known side to find QS.",
+      "generatedAt": "2026-04-30T14:08:57.433885"
+    },
+    {
+      "id": "m-y9-trig_intermediate_008",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "In triangle ABC, a point D lies on the side AB such that CD is perpendicular to AB. This means that angle CDA is 90 degrees and angle CDB is 90 degrees. Given that angle CAD is 30 degrees and the length of AC is 10 cm. Also, the length of BD is 8 cm. Calculate the measure of angle CBA, giving your answer to one decimal place.",
+      "options": [
+        "A) 30.0 degrees",
+        "B) 32.0 degrees",
+        "C) 47.3 degrees",
+        "D) 58.0 degrees"
+      ],
+      "correctAnswer": "B) 32.0 degrees",
+      "explanation": "This is a two-step problem involving trigonometry in two right-angled triangles.\n\nStep 1: Find the length of CD using triangle ADC.\nIn triangle ADC, we know angle CAD = 30 degrees, AC (hypotenuse) = 10 cm, and angle CDA = 90 degrees. CD is the side opposite to angle CAD.\nUsing SOH CAH TOA, specifically sin(angle) = Opposite / Hypotenuse:\nsin(30°) = CD / AC\nsin(30°) = CD / 10\nCD = 10 * sin(30°)\nSince sin(30°) = 0.5:\nCD = 10 * 0.5\nCD = 5 cm.\n\nStep 2: Find the measure of angle CBA using triangle BDC.\nIn triangle BDC, we know CD = 5 cm (from Step 1), BD (adjacent to angle CBA) = 8 cm, and angle CDB = 90 degrees. Angle CBA (which is angle CBD) is the angle we need to find. CD is opposite to angle CBA, and BD is adjacent to angle CBA.\nUsing SOH CAH TOA, specifically tan(angle) = Opposite / Adjacent:\ntan(CBA) = CD / BD\ntan(CBA) = 5 / 8\ntan(CBA) = 0.625\nTo find the angle, we use the inverse tangent function:\nCBA = arctan(0.625)\nCBA ≈ 32.00538 degrees.\n\nRounding to one decimal place, angle CBA = 32.0 degrees.\nTherefore, the correct option is B.",
+      "hint": "First, use trigonometry in triangle ADC to find the length of the side CD. Then, use this length and the given length of BD in triangle BDC to find angle CBA.",
+      "generatedAt": "2026-04-30T14:09:17.868858"
+    },
+    {
+      "id": "m-y9-trig_intermediate_009",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Consider points A, B, C, and D. Points B, C, and D lie on a straight horizontal line, with C positioned directly between B and D. The point A is situated above this line such that the line segment AB is perpendicular to the line segment BD. This arrangement forms two right-angled triangles: triangle ABD and triangle ABC, both with their right angles at B.\nThe length of the side AB is 15 cm.\nThe length of the line segment CD is 8 cm.\nThe angle ADB is 35 degrees.\n\nCalculate the size of angle ACB, giving your answer to one decimal place. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the length of BD in triangle ABD.\nTriangle ABD is a right-angled triangle at B. We are given the side AB (opposite to angle ADB) and we need to find BD (adjacent to angle ADB).\nUsing the tangent ratio: tan(angle) = Opposite / Adjacent\ntan(ADB) = AB / BD\ntan(35°) = 15 / BD\nBD = 15 / tan(35°)\nBD = 15 / 0.7002075...\nBD ≈ 21.4219 cm (keeping more decimal places for accuracy)\n\nStep 2: Find the length of BC.\nSince C is between B and D, the total length BD is the sum of BC and CD.\nBD = BC + CD\nWe know BD ≈ 21.4219 cm and CD = 8 cm.\nBC = BD - CD\nBC = 21.4219 - 8\nBC ≈ 13.4219 cm\n\nStep 3: Find the size of angle ACB in triangle ABC.\nTriangle ABC is a right-angled triangle at B. We know AB (opposite to angle ACB) and BC (adjacent to angle ACB).\nUsing the tangent ratio: tan(angle) = Opposite / Adjacent\ntan(ACB) = AB / BC\ntan(ACB) = 15 / 13.4219\ntan(ACB) ≈ 1.11758\nTo find angle ACB, we use the inverse tangent function (arctan or tan⁻¹):\nACB = arctan(1.11758)\nACB ≈ 48.163 degrees\n\nRounding to one decimal place, angle ACB = 48.2 degrees.",
+      "explanation": "Step 1: Find the length of BD in triangle ABD.\nTriangle ABD is a right-angled triangle at B. We are given the side AB (opposite to angle ADB) and we need to find BD (adjacent to angle ADB).\nUsing the tangent ratio: tan(angle) = Opposite / Adjacent\ntan(ADB) = AB / BD\ntan(35°) = 15 / BD\nBD = 15 / tan(35°)\nBD = 15 / 0.7002075...\nBD ≈ 21.4219 cm (keeping more decimal places for accuracy)\n\nStep 2: Find the length of BC.\nSince C is between B and D, the total length BD is the sum of BC and CD.\nBD = BC + CD\nWe know BD ≈ 21.4219 cm and CD = 8 cm.\nBC = BD - CD\nBC = 21.4219 - 8\nBC ≈ 13.4219 cm\n\nStep 3: Find the size of angle ACB in triangle ABC.\nTriangle ABC is a right-angled triangle at B. We know AB (opposite to angle ACB) and BC (adjacent to angle ACB).\nUsing the tangent ratio: tan(angle) = Opposite / Adjacent\ntan(ACB) = AB / BC\ntan(ACB) = 15 / 13.4219\ntan(ACB) ≈ 1.11758\nTo find angle ACB, we use the inverse tangent function (arctan or tan⁻¹):\nACB = arctan(1.11758)\nACB ≈ 48.163 degrees\n\nRounding to one decimal place, angle ACB = 48.2 degrees.",
+      "hint": "First, use trigonometry (SOH CAH TOA) in triangle ABD to find the length of BD. Then, use this length and the given information about CD to find the length of BC. Finally, use trigonometry in triangle ABC to find angle ACB.",
+      "generatedAt": "2026-04-30T14:09:39.874461"
+    },
+    {
+      "id": "m-y9-trig_intermediate_010",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Triangle ABC has a right angle at B. The side AB has a length of 10 cm and angle BAC is 35 degrees. Point D is such that triangle ACD is a right-angled triangle with the right angle at C. The line segment AC is a side in both triangles. Angle CAD is 20 degrees. Calculate the length of the side AD. Give your answer to one decimal place. Show all your working.",
+      "options": [],
+      "correctAnswer": "Working:\n\nStep 1: Find the length of AC in triangle ABC.\nIn triangle ABC, the right angle is at B. We are given:\n- AB = 10 cm (This is the side adjacent to angle BAC)\n- Angle BAC = 35 degrees\n- AC is the hypotenuse\n\nUsing the cosine ratio (CAH: Cosine = Adjacent / Hypotenuse):\ncos(Angle BAC) = AB / AC\ncos(35°) = 10 / AC\nAC = 10 / cos(35°)\nAC ≈ 10 / 0.819152044\nAC ≈ 12.207130 cm\n\nStep 2: Find the length of AD in triangle ACD.\nIn triangle ACD, the right angle is at C. We now know:\n- AC ≈ 12.207130 cm (This is the side adjacent to angle CAD)\n- Angle CAD = 20 degrees\n- AD is the hypotenuse\n\nUsing the cosine ratio (CAH: Cosine = Adjacent / Hypotenuse):\ncos(Angle CAD) = AC / AD\ncos(20°) = 12.207130 / AD\nAD = 12.207130 / cos(20°)\nAD ≈ 12.207130 / 0.939692621\nAD ≈ 12.99060 cm\n\nRounding to one decimal place, the length of AD is 13.0 cm.",
+      "explanation": "This is a two-step trigonometry problem. First, you need to use the given information in the first right-angled triangle, ABC, to find the length of the shared side AC. Since you have the adjacent side (AB) and the angle (BAC), and you need the hypotenuse (AC), you should use the cosine function (SOH CAH TOA: Cosine = Adjacent/Hypotenuse). Once AC is calculated, use this length in the second right-angled triangle, ACD. In triangle ACD, AC is the adjacent side to angle CAD, and AD is the hypotenuse. Again, apply the cosine function to find the length of AD. Remember to keep precision during intermediate steps and only round your final answer.",
+      "hint": "Begin by calculating the length of the line segment AC within triangle ABC. This value will then be used as a known side in triangle ACD. In both steps, you will need to identify the correct trigonometric ratio (Sine, Cosine, or Tangent) based on the sides you know and the side you need to find relative to the given angle.",
+      "generatedAt": "2026-04-30T14:09:58.920836"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-trig_advanced_001",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A vertical mast, PQ, stands on horizontal ground. Point P is the top of the mast and Q is its base. Two straight wires, PR and PS, are attached to the top of the mast at P. The wires are anchored to the ground at points R and S respectively. Points Q, R, and S are collinear on the horizontal ground, with R positioned between Q and S.\n\nThe wire PR has a length of 25 metres. The angle of elevation of the wire PR from its anchor point R to the top of the mast P is 48 degrees.\nThe distance from the base of the mast Q to the anchor point S is 30 metres.\n\nCalculate the angle of elevation of the wire PS from its anchor point S to the top of the mast P. Give your answer to one decimal place. Working is required.",
+      "options": [],
+      "correctAnswer": "The first step is to find the height of the mast, PQ, using the information from wire PR.\n\n1.  **Find the height of the mast (PQ) using triangle PQR:**\n    *   Triangle PQR is a right-angled triangle at Q. We know the hypotenuse (PR = 25 m) and the angle of elevation (∠PRQ = 48°).\n    *   We want to find the side opposite to the angle (PQ).\n    *   Using the SOH CAH TOA rule: `sin(angle) = Opposite / Hypotenuse`\n    *   `sin(48°) = PQ / 25`\n    *   `PQ = 25 * sin(48°)`\n    *   `PQ ≈ 25 * 0.7431448`\n    *   `PQ ≈ 18.57862` metres (It's good practice to keep more decimal places for intermediate calculations).\n\n2.  **Find the angle of elevation for wire PS (∠PSQ) using triangle PQS:**\n    *   Triangle PQS is also a right-angled triangle at Q. We now know the height of the mast (opposite side, PQ ≈ 18.57862 m) and the distance from the base of the mast to anchor point S (adjacent side, QS = 30 m).\n    *   We want to find the angle of elevation (∠PSQ).\n    *   Using the SOH CAH TOA rule: `tan(angle) = Opposite / Adjacent`\n    *   `tan(∠PSQ) = PQ / QS`\n    *   `tan(∠PSQ) = 18.57862 / 30`\n    *   `tan(∠PSQ) ≈ 0.619287`\n    *   To find the angle, we use the inverse tangent function:\n    *   `∠PSQ = arctan(0.619287)`\n    *   `∠PSQ ≈ 31.764°`\n\n3.  **Round the answer to one decimal place:**\n    *   `∠PSQ ≈ 31.8°`\n\nThe angle of elevation of the wire PS from its anchor point S to the top of the mast P is **31.8°**.",
+      "explanation": "The problem requires a two-step application of trigonometry. First, identify the right-angled triangle PQR where the mast PQ is the opposite side to the angle of elevation at R, and PR is the hypotenuse. Use the sine function (SOH) to find the height of the mast (PQ). This calculated height then becomes the opposite side in the second right-angled triangle PQS. The distance QS is the adjacent side in this second triangle. Use the tangent function (TOA) to find the required angle of elevation at S, which is the angle whose tangent is the ratio of PQ to QS. Finally, round the answer to one decimal place.",
+      "hint": "First, use the given wire length and its angle of elevation to calculate the height of the mast. Then, use this calculated height and the second given ground distance to find the required angle of elevation.",
+      "generatedAt": "2026-04-30T14:10:15.497455"
+    },
+    {
+      "id": "m-y9-trig_advanced_002",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Triangle PQR is a right-angled triangle with the right angle at Q. The side PQ has a length of 12.0 cm. The angle PRQ is 28 degrees. Point S lies on the side PR such that the line segment QS is perpendicular to PR. Calculate the length of PS. Give your answer to 3 significant figures. Show your working.",
+      "options": [],
+      "correctAnswer": "5.63 cm",
+      "explanation": "1.  **Identify angles in the larger triangle PQR:**\n    *   Triangle PQR is right-angled at Q, so angle PQR = 90 degrees.\n    *   We are given angle PRQ (angle R) = 28 degrees.\n    *   The sum of angles in a triangle is 180 degrees, so angle QPR (angle P) = 180° - 90° - 28° = 62 degrees.\n\n2.  **Focus on the smaller right-angled triangle PQS:**\n    *   Point S lies on PR such that QS is perpendicular to PR. This means angle QSP = 90 degrees.\n    *   In this triangle, we know:\n        *   Angle QPS (angle P) = 62 degrees (from step 1).\n        *   The side PQ is the hypotenuse (opposite the right angle at S) and has a length of 12.0 cm.\n        *   We want to find the length of PS, which is the side adjacent to angle P.\n\n3.  **Apply SOH CAH TOA:**\n    *   Since we know the angle (P), the hypotenuse (PQ), and want to find the adjacent side (PS), we use the Cosine ratio (CAH: Cosine = Adjacent / Hypotenuse).\n    *   cos(Angle P) = PS / PQ\n    *   cos(62°) = PS / 12.0\n\n4.  **Solve for PS:**\n    *   PS = 12.0 * cos(62°)\n    *   PS = 12.0 * 0.46947156...\n    *   PS = 5.6336587...\n\n5.  **Round to 3 significant figures:**\n    *   PS = 5.63 cm",
+      "hint": "First, calculate the angle at P in the larger triangle PQR. Then consider the properties of the smaller right-angled triangle PQS formed by the perpendicular line segment.",
+      "generatedAt": "2026-04-30T14:10:58.404235"
+    },
+    {
+      "id": "m-y9-trig_advanced_003",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Triangle ABC is a right-angled triangle with the right angle at vertex B. The length of the side AB is 10 cm and the angle BAC is 35 degrees.\nA second right-angled triangle, ACD, shares the side AC with triangle ABC. The right angle in triangle ACD is at vertex D. The angle CAD is 20 degrees.\nCalculate the length of the side CD. Give your answer to 3 significant figures. Show your working clearly.",
+      "options": [
+        "3.59 cm",
+        "4.18 cm",
+        "5.96 cm",
+        "11.47 cm"
+      ],
+      "correctAnswer": "4.18 cm",
+      "explanation": "This problem requires two steps involving trigonometry in right-angled triangles.\n\n**Step 1: Find the length of side AC in Triangle ABC.**\n\n1.  **Identify knowns and unknowns in Triangle ABC:**\n    *   Angle BAC = 35 degrees\n    *   Side AB = 10 cm (Adjacent to angle BAC)\n    *   Side AC = Hypotenuse (This is the side we need to find, and it's common to both triangles)\n\n2.  **Choose the correct trigonometric ratio:**\n    Since we have the Adjacent side and want the Hypotenuse, we use Cosine (CAH: Cosine = Adjacent / Hypotenuse).\n    cos(Angle) = Adjacent / Hypotenuse\n    cos(35°) = AB / AC\n\n3.  **Solve for AC:**\n    AC = AB / cos(35°)\n    AC = 10 / cos(35°)\n    AC ≈ 10 / 0.819152\n    AC ≈ 12.2070 cm (Keep more decimal places for accuracy in the next step)\n\n**Step 2: Find the length of side CD in Triangle ACD.**\n\n1.  **Identify knowns and unknowns in Triangle ACD:**\n    *   Angle CAD = 20 degrees\n    *   Side AC ≈ 12.2070 cm (Hypotenuse in this triangle)\n    *   Side CD = Opposite to angle CAD (This is the side we need to find)\n\n2.  **Choose the correct trigonometric ratio:**\n    Since we have the Hypotenuse and want the Opposite side, we use Sine (SOH: Sine = Opposite / Hypotenuse).\n    sin(Angle) = Opposite / Hypotenuse\n    sin(20°) = CD / AC\n\n3.  **Solve for CD:**\n    CD = AC × sin(20°)\n    CD ≈ 12.2070 × sin(20°)\n    CD ≈ 12.2070 × 0.342020\n    CD ≈ 4.1756 cm\n\n**Step 3: Round to 3 significant figures.**\n\nCD ≈ 4.18 cm",
+      "hint": "Break the problem down into two right-angled triangle calculations. Identify the common side that links the two triangles, and calculate its length first using SOH CAH TOA.",
+      "generatedAt": "2026-04-30T14:11:15.031681"
+    },
+    {
+      "id": "m-y9-trig_advanced_004",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A rectangular sheet of metal, ABCD, has length AB = 15 cm and width BC = 20 cm. A straight line is drawn from point A to point C. Another straight line is drawn from point A to a point E on the side BC. The length AE is 17 cm.\na) Calculate the size of the angle that the line AC makes with the side AB. Give your answer to one decimal place. (3 marks)\nb) Calculate the length of the line segment EC. Give your answer to one decimal place. (3 marks)\nShow all your working for both parts.",
+      "options": [],
+      "correctAnswer": "a) 53.1 degrees\nb) 12.0 cm",
+      "explanation": "a) To calculate the angle that line AC makes with side AB, we consider the right-angled triangle ABC. Angle B is 90 degrees because it's a rectangle.\nWe need to find angle BAC.\n\n*   The side opposite to angle BAC is BC = 20 cm.\n*   The side adjacent to angle BAC is AB = 15 cm.\n\nUsing the SOH CAH TOA rule for tangent:\n\ntan(angle) = Opposite / Adjacent\ntan(angle BAC) = BC / AB\ntan(angle BAC) = 20 cm / 15 cm\ntan(angle BAC) = 4 / 3\n\nTo find the angle, we use the inverse tangent function:\nangle BAC = arctan(4 / 3)\nangle BAC = 53.130102... degrees\n\nRounded to one decimal place, the angle is 53.1 degrees.\n\nb) To calculate the length of the line segment EC, we first need to find the length of BE. We consider the right-angled triangle ABE. Angle B is 90 degrees.\n\n*   The hypotenuse AE = 17 cm.\n*   Side AB = 15 cm.\n*   We need to find side BE.\n\nUsing Pythagoras' theorem (a^2 + b^2 = c^2):\n\nAB^2 + BE^2 = AE^2\n15^2 + BE^2 = 17^2\n225 + BE^2 = 289\nBE^2 = 289 - 225\nBE^2 = 64\nBE = sqrt(64)\nBE = 8 cm\n\nNow we know that point E lies on the side BC. The total length of BC is given as 20 cm. We have found BE = 8 cm.\n\nEC = BC - BE\nEC = 20 cm - 8 cm\nEC = 12 cm\n\nThe length of the line segment EC is 12.0 cm (to one decimal place).",
+      "hint": "For part (a), identify the right-angled triangle formed by points A, B, and C. Decide which trigonometric ratio (SOH CAH TOA) relates the given sides to the angle you need to find. For part (b), identify the right-angled triangle formed by points A, B, and E. Use Pythagoras' theorem or trigonometry to find the length of BE first, then subtract it from the total length of BC.",
+      "generatedAt": "2026-04-30T14:11:57.310373"
+    },
+    {
+      "id": "m-y9-trig_advanced_005",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Three points, A, B, and C, are on level ground. The distance between A and B is 80 meters. The distance between B and C is 60 meters. The angle ABC is 90 degrees. A vertical mast, CD, stands at point C. The angle of elevation of the top of the mast, D, from point A is 15 degrees.\n\nCalculate the angle of elevation of D from point B. Give your answer to one decimal place. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the distance AC.\nPoints A, B, and C form a right-angled triangle on the level ground, with the right angle at B. \nUsing the Pythagorean theorem:\nAC² = AB² + BC²\nAC² = 80² + 60²\nAC² = 6400 + 3600\nAC² = 10000\nAC = √10000\nAC = 100 meters\n\nStep 2: Calculate the height of the mast, CD.\nPoints A, C, and D form a right-angled triangle in a vertical plane, with the right angle at C (since the mast is vertical and AC is on level ground).\nThe angle of elevation of D from A is 15 degrees.\nUsing SOH CAH TOA, specifically tan (Opposite/Adjacent):\ntan(angle DAC) = CD / AC\ntan(15°) = CD / 100\nCD = 100 × tan(15°)\nCD ≈ 100 × 0.26794919...\nCD ≈ 26.7949 meters\n\nStep 3: Calculate the angle of elevation of D from point B.\nPoints B, C, and D form a right-angled triangle in a vertical plane, with the right angle at C (mast is vertical, BC is on level ground).\nWe need to find the angle CBD (the angle of elevation).\nWe know BC = 60 meters and CD ≈ 26.7949 meters.\nUsing SOH CAH TOA, specifically tan (Opposite/Adjacent):\ntan(angle CBD) = CD / BC\ntan(angle CBD) = 26.7949 / 60\ntan(angle CBD) ≈ 0.4465816...\nangle CBD = arctan(0.4465816...)\nangle CBD ≈ 24.053 degrees\n\nRounding to one decimal place, the angle of elevation of D from point B is 24.1 degrees.",
+      "explanation": "The problem requires several steps. First, visualize the points A, B, and C on the ground forming a right-angled triangle. Use the Pythagorean theorem to find the length of the hypotenuse AC. This length is the horizontal distance from point A to the base of the mast C. Next, consider the vertical right-angled triangle formed by A, C, and D. Using the angle of elevation from A and the calculated distance AC, use the tangent function (tan = opposite/adjacent) to find the height of the mast, CD. Finally, consider the vertical right-angled triangle formed by B, C, and D. Use the known distance BC and the calculated height CD, along with the tangent function, to find the angle of elevation from B to D. Remember to round your final answer to one decimal place as requested.",
+      "hint": "Start by finding the length of the diagonal on the ground (AC) using Pythagoras' Theorem. Then, use trigonometry (specifically the tangent ratio) to find the height of the mast (CD). Finally, use trigonometry again with the height of the mast and the distance BC to find the required angle of elevation.",
+      "generatedAt": "2026-04-30T14:12:15.846656"
+    },
+    {
+      "id": "m-y9-trig_advanced_006",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A shape ABCD is composed of two right-angled triangles, ABC and ACD. \nTriangle ABC has a right angle at B. The length of AB is 10 cm and the length of BC is 24 cm. \nTriangle ACD has a right angle at C. The angle CAD is 30 degrees. \n\nCalculate the length of the side AD. Show your working clearly. Give your answer to 3 significant figures.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the length of AC using Pythagoras' Theorem in triangle ABC.\nTriangle ABC is right-angled at B.\nAC² = AB² + BC²\nAC² = 10² + 24²\nAC² = 100 + 576\nAC² = 676\nAC = √676\nAC = 26 cm\n\nStep 2: Use trigonometry in triangle ACD to find AD.\nTriangle ACD is right-angled at C. We know AC = 26 cm (which is the side adjacent to angle CAD) and angle CAD = 30 degrees. We want to find AD (which is the hypotenuse).\nUsing SOH CAH TOA, the cosine function relates the Adjacent side and the Hypotenuse:\ncos(angle) = Adjacent / Hypotenuse\ncos(CAD) = AC / AD\ncos(30°) = 26 / AD\nAD = 26 / cos(30°)\nAD = 26 / (√3 / 2)\nAD = 52 / √3\nAD ≈ 30.0229...\n\nStep 3: Round the answer to 3 significant figures.\nAD = 30.0 cm",
+      "explanation": "The problem requires a two-step approach. First, you must find the length of the common side, AC, by applying Pythagoras' Theorem to the first triangle (ABC). Once the length of AC is determined, it becomes a known side in the second triangle (ACD). Then, using the given angle (CAD) and the known side (AC, which is the adjacent side to angle CAD), you can use the cosine trigonometric ratio (from SOH CAH TOA) to find the length of the hypotenuse AD. Finally, round the calculated length of AD to three significant figures.",
+      "hint": "Start by finding the length of the side that is common to both triangles, AC. You can use Pythagoras' Theorem for this. Once you have AC, consider which trigonometric ratio relates the adjacent side (AC), the given angle (CAD), and the hypotenuse (AD) in triangle ACD.",
+      "generatedAt": "2026-04-30T14:13:05.269474"
+    },
+    {
+      "id": "m-y9-trig_advanced_007",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A vertical flagpole, labelled PQ, stands on horizontal ground at point Q. The top of the flagpole is P.\nA guy wire, PR, is stretched from the top of the flagpole P to a point R on the ground. The length of this wire PR is 12 meters. The wire makes an angle of 50 degrees with the ground at point R.\nA second guy wire, PS, is stretched from the top of the flagpole P to another point S on the ground. Points Q, R and S are collinear, and point Q is located between R and S. The wire PS makes an angle of 35 degrees with the ground at point S.\n\nCalculate the total distance between the two attachment points on the ground, R and S. Give your answer to one decimal place. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Find the height of the flagpole (PQ) using triangle PQR.\nIn right-angled triangle PQR, PR is the hypotenuse (12m), PQ is the opposite side to angle R (50 degrees).\nUsing SOH CAH TOA: sin(angle) = Opposite / Hypotenuse\nsin(50°) = PQ / 12\nPQ = 12 * sin(50°)\nPQ = 12 * 0.76604...\nPQ = 9.19248... meters (height of the flagpole)\n\nStep 2: Find the distance RQ (from the base of the flagpole to point R) using triangle PQR.\nIn right-angled triangle PQR, PR is the hypotenuse (12m), RQ is the adjacent side to angle R (50 degrees).\nUsing SOH CAH TOA: cos(angle) = Adjacent / Hypotenuse\ncos(50°) = RQ / 12\nRQ = 12 * cos(50°)\nRQ = 12 * 0.64278...\nRQ = 7.71343... meters\n\nStep 3: Find the distance QS (from the base of the flagpole to point S) using triangle PQS.\nIn right-angled triangle PQS, PQ is the opposite side to angle S (35 degrees), QS is the adjacent side.\nUsing SOH CAH TOA: tan(angle) = Opposite / Adjacent\ntan(35°) = PQ / QS\nQS = PQ / tan(35°)\nQS = 9.19248... / tan(35°)\nQS = 9.19248... / 0.70020...\nQS = 13.1278... meters\n\nStep 4: Calculate the total distance RS.\nSince Q is between R and S, the total distance RS = RQ + QS.\nRS = 7.71343... + 13.1278...\nRS = 20.8412... meters\n\nRounded to one decimal place, the total distance between R and S is 20.8 meters.",
+      "explanation": "Step 1: Find the height of the flagpole (PQ) using triangle PQR.\nIn right-angled triangle PQR, PR is the hypotenuse (12m), PQ is the opposite side to angle R (50 degrees).\nUsing SOH CAH TOA: sin(angle) = Opposite / Hypotenuse\nsin(50°) = PQ / 12\nPQ = 12 * sin(50°)\nPQ = 12 * 0.76604...\nPQ = 9.19248... meters (height of the flagpole)\n\nStep 2: Find the distance RQ (from the base of the flagpole to point R) using triangle PQR.\nIn right-angled triangle PQR, PR is the hypotenuse (12m), RQ is the adjacent side to angle R (50 degrees).\nUsing SOH CAH TOA: cos(angle) = Adjacent / Hypotenuse\ncos(50°) = RQ / 12\nRQ = 12 * cos(50°)\nRQ = 12 * 0.64278...\nRQ = 7.71343... meters\n\nStep 3: Find the distance QS (from the base of the flagpole to point S) using triangle PQS.\nIn right-angled triangle PQS, PQ is the opposite side to angle S (35 degrees), QS is the adjacent side.\nUsing SOH CAH TOA: tan(angle) = Opposite / Adjacent\ntan(35°) = PQ / QS\nQS = PQ / tan(35°)\nQS = 9.19248... / tan(35°)\nQS = 9.19248... / 0.70020...\nQS = 13.1278... meters\n\nStep 4: Calculate the total distance RS.\nSince Q is between R and S, the total distance RS = RQ + QS.\nRS = 7.71343... + 13.1278...\nRS = 20.8412... meters\n\nRounded to one decimal place, the total distance between R and S is 20.8 meters.",
+      "hint": "Consider breaking the problem down into two right-angled triangles. First, use SOH CAH TOA with the given guy wire length and angle to find the height of the flagpole. Then, use this calculated height to find the distances from the base of the flagpole to each attachment point on the ground.",
+      "generatedAt": "2026-04-30T14:13:30.384341"
+    },
+    {
+      "id": "m-y9-trig_advanced_008",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A ladder, 5 meters long, is leaning against a vertical wall on horizontal ground. The base of the ladder is initially 3 meters away from the wall.\n\nThe base of the ladder is then pulled further away from the wall by an additional 1.5 meters.\n\nCalculate the new angle the ladder makes with the ground, correct to one decimal place. Show your working.",
+      "options": [
+        "A) 36.9 degrees",
+        "B) 53.1 degrees",
+        "C) 25.8 degrees",
+        "D) 17.5 degrees"
+      ],
+      "correctAnswer": "C) 25.8 degrees",
+      "explanation": "Step 1: Understand the initial setup.\nThe ladder's length acts as the hypotenuse, which is 5 meters. The initial distance of the base from the wall acts as the adjacent side, which is 3 meters.\n\nStep 2: Determine the new distance of the ladder's base from the wall.\nThe base is pulled an *additional* 1.5 meters away. So, the new total distance of the base from the wall is 3 meters + 1.5 meters = 4.5 meters.\n\nStep 3: Identify the relevant sides and trigonometric ratio for the new setup.\nFor the new situation, we still have the ladder length (hypotenuse) as 5 meters, and the new distance of the base from the wall (adjacent side) is 4.5 meters. We need to find the angle the ladder makes with the ground.\nThe trigonometric ratio that relates the adjacent side and the hypotenuse is cosine (CAH: Cosine = Adjacent / Hypotenuse).\n\nStep 4: Calculate the new angle.\nLet 'θ' be the new angle the ladder makes with the ground.\ncos(θ) = Adjacent / Hypotenuse\ncos(θ) = 4.5 / 5\ncos(θ) = 0.9\nTo find θ, we use the inverse cosine function:\nθ = arccos(0.9)\nθ = 25.8419... degrees\n\nStep 5: Round the answer to one decimal place.\nθ ≈ 25.8 degrees.",
+      "hint": "Remember that the length of the ladder (the hypotenuse) remains constant throughout the problem. You need to calculate the new adjacent side and then use the appropriate trigonometric ratio to find the angle.",
+      "generatedAt": "2026-04-30T14:13:46.758436"
+    },
+    {
+      "id": "m-y9-trig_advanced_009",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A metal frame is constructed in the shape of a right-angled triangle PQR, with the right angle at Q. The length of the side PQ is 12 cm. The angle at R, angle PRQ, is 28 degrees.\n\nA support beam, ST, is added to the frame. Point S is on the side QR, such that the distance QS is 5 cm. Point T is on the side PR. The support beam ST is perpendicular to QR.\n\nCalculate the length of the support beam ST, correct to 3 significant figures. You must show all your working.",
+      "options": [
+        "A) 8.66 cm",
+        "B) 9.34 cm",
+        "C) 10.15 cm",
+        "D) 11.23 cm"
+      ],
+      "correctAnswer": "B) 9.34 cm",
+      "explanation": "Step 1: Find the length of QR in the main triangle PQR.\nTriangle PQR is a right-angled triangle at Q. We are given the side PQ = 12 cm, which is opposite to angle R (angle PRQ = 28 degrees). We need to find the side QR, which is adjacent to angle R.\nUsing the tangent trigonometric ratio: tan(angle) = Opposite / Adjacent\ntan(28°) = PQ / QR\ntan(28°) = 12 / QR\nRearranging to find QR:\nQR = 12 / tan(28°)\n\nStep 2: Determine the length of SR.\nPoint S is on the side QR, and the distance QS is 5 cm. Therefore, the length of SR is the total length of QR minus QS.\nSR = QR - QS\nSR = (12 / tan(28°)) - 5 cm.\n\nStep 3: Calculate the length of the support beam ST in triangle TSR.\nThe support beam ST is perpendicular to QR, meaning that triangle TSR is a right-angled triangle at S (angle TSR = 90°). The angle at R in this smaller triangle (angle TRS) is the same as the angle at R in the larger triangle, which is 28 degrees. We need to find ST (opposite to angle TRS) and we know SR (adjacent to angle TRS).\nUsing the tangent trigonometric ratio again:\ntan(28°) = ST / SR\nRearranging to find ST:\nST = SR * tan(28°)\nNow substitute the expression for SR from Step 2 into this equation:\nST = ((12 / tan(28°)) - 5) * tan(28°)\nDistribute tan(28°) across the terms in the parenthesis:\nST = (12 / tan(28°)) * tan(28°) - 5 * tan(28°)\nST = 12 - 5 * tan(28°)\n\nStep 4: Calculate the numerical value and round.\nUsing a calculator for tan(28°):\ntan(28°) ≈ 0.5317094\nST ≈ 12 - 5 * 0.5317094\nST ≈ 12 - 2.658547\nST ≈ 9.341453 cm\n\nRounding to 3 significant figures, the length of the support beam ST is 9.34 cm.",
+      "hint": "First, calculate the full length of the side QR using trigonometry in the larger triangle PQR. Then, identify the lengths and angles within the smaller right-angled triangle TSR to calculate ST. Remember to use the correct trigonometric ratios in each step.",
+      "generatedAt": "2026-04-30T14:14:11.989008"
+    },
+    {
+      "id": "m-y9-trig_advanced_010",
+      "topicId": "m-y9-trig",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A triangle XYZ has side XY = 15 cm. Side YZ = 20 cm. The angle at Y, angle XYZ, is 70 degrees. Calculate the length of side XZ. Give your answer to one decimal place. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the length of side XZ, we can draw an altitude from vertex X to the side YZ. Let this altitude meet YZ at point W.\n\nStep 1: Form a right-angled triangle XYW.\nIn the right-angled triangle XYW:\n- Hypotenuse XY = 15 cm.\n- Angle XYW (which is angle XYZ) = 70 degrees.\n\nWe can use SOH CAH TOA to find the lengths of XW (opposite to 70 degrees) and YW (adjacent to 70 degrees).\n\nXW = XY * sin(70°)\nXW = 15 * sin(70°)\nXW ≈ 15 * 0.93969\nXW ≈ 14.095389 cm\n\nYW = XY * cos(70°)\nYW = 15 * cos(70°)\nYW ≈ 15 * 0.34202\nYW ≈ 5.130302 cm\n\nStep 2: Find the length of WZ.\nWe know that YZ = 20 cm and YW ≈ 5.130302 cm.\nSince W lies on YZ (as angle Y is acute), WZ = YZ - YW.\nWZ = 20 - 5.130302\nWZ ≈ 14.869698 cm\n\nStep 3: Form a right-angled triangle XWZ.\nIn the right-angled triangle XWZ:\n- Side XW ≈ 14.095389 cm\n- Side WZ ≈ 14.869698 cm\n\nWe can use the Pythagorean theorem to find the length of XZ (the hypotenuse).\nXZ² = XW² + WZ²\nXZ² ≈ (14.095389)² + (14.869698)²\nXZ² ≈ 198.6779 + 221.1090\nXZ² ≈ 419.7869\n\nXZ = √419.7869\nXZ ≈ 20.4887 cm\n\nStep 4: Round the answer to one decimal place.\nXZ ≈ 20.5 cm\n\nTherefore, the length of side XZ is approximately 20.5 cm.",
+      "explanation": "This question requires students to apply trigonometry in a non-right-angled triangle by first constructing an altitude to form two right-angled triangles. They then use SOH CAH TOA to find unknown sides in the first right-angled triangle, perform a subtraction to find a side length in the second right-angled triangle, and finally apply the Pythagorean theorem to find the required length. This multi-step process combines several concepts within trigonometry and geometry, making it advanced for Year 9.",
+      "hint": "Consider drawing an altitude from vertex X to the side YZ to create a right-angled triangle. You will need to use SOH CAH TOA and the Pythagorean theorem.",
+      "generatedAt": "2026-04-30T14:14:29.974781"
+    }
+  ]
+}

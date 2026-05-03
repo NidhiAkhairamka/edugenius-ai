@@ -1,0 +1,482 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y10-waves_beginner_001",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Identify the correct statement regarding all electromagnetic waves.",
+      "options": [
+        "They are all longitudinal waves.",
+        "They can only travel through a vacuum.",
+        "They all travel at the same speed in a vacuum.",
+        "They all have the same wavelength."
+      ],
+      "correctAnswer": "They all travel at the same speed in a vacuum.",
+      "explanation": "Electromagnetic waves are transverse waves, not longitudinal. While they can travel through a vacuum, they can also travel through various media like air or water. Electromagnetic waves exist across a spectrum of different wavelengths and frequencies. However, a defining characteristic of all electromagnetic waves is that they travel at the same constant speed (the speed of light, approximately 3 x 10^8 m/s) when propagating through a vacuum.",
+      "hint": "Consider the fundamental properties that all electromagnetic waves share, especially concerning their propagation through empty space.",
+      "generatedAt": "2026-04-30T19:51:41.002275"
+    },
+    {
+      "id": "s-y10-waves_beginner_002",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which statement correctly describes the oscillation of particles in a transverse wave relative to the direction of energy transfer?",
+      "options": [
+        "Parallel to the direction of energy transfer.",
+        "Perpendicular to the direction of energy transfer.",
+        "In the opposite direction of energy transfer.",
+        "Randomly, with no specific direction."
+      ],
+      "correctAnswer": "Perpendicular to the direction of energy transfer.",
+      "explanation": "In a transverse wave, the particles of the medium vibrate or oscillate at right angles (perpendicular) to the direction that the wave's energy is travelling. For example, in a light wave, the electric and magnetic fields oscillate perpendicular to the direction the light is moving.",
+      "hint": "Think about how a ripple on the surface of water moves forwards, while individual water particles move up and down.",
+      "generatedAt": "2026-04-30T19:51:51.158916"
+    },
+    {
+      "id": "s-y10-waves_beginner_003",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which type of electromagnetic wave has the longest wavelength?",
+      "options": [
+        "Gamma rays",
+        "Ultraviolet light",
+        "Radio waves",
+        "Microwaves"
+      ],
+      "correctAnswer": "Radio waves",
+      "explanation": "The electromagnetic (EM) spectrum arranges waves by their wavelength and frequency. Radio waves are found at the longest wavelength end of the EM spectrum, meaning they have the lowest frequency. Gamma rays are at the shortest wavelength (highest frequency) end, followed by X-rays, ultraviolet, visible light, infrared, and then microwaves before radio waves.",
+      "hint": "Think about the order of waves in the electromagnetic spectrum, from the one used for communication over long distances to the one produced by radioactive decay.",
+      "generatedAt": "2026-04-30T19:51:58.863981"
+    },
+    {
+      "id": "s-y10-waves_beginner_004",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A sound wave has a frequency of 200 Hz and a wavelength of 1.7 m. Calculate the speed of this sound wave.",
+      "options": [],
+      "correctAnswer": "Formula: Speed = Frequency × Wavelength (v = fλ)\nSubstitution: Speed = 200 Hz × 1.7 m\nAnswer: Speed = 340 m/s",
+      "explanation": "1. Identify the given values: Frequency (f) = 200 Hz, Wavelength (λ) = 1.7 m.\n2. Recall the wave equation: Speed (v) = Frequency (f) × Wavelength (λ).\n3. Substitute the values into the equation: v = 200 Hz × 1.7 m.\n4. Calculate the result: v = 340 m/s.\n5. Ensure the correct units (m/s) are included for speed.",
+      "hint": "Use the wave equation which relates wave speed, frequency, and wavelength.",
+      "generatedAt": "2026-04-30T19:52:06.685770"
+    },
+    {
+      "id": "s-y10-waves_beginner_005",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which electromagnetic wave is commonly used in medical imaging to view bone structures, due to its ability to penetrate soft tissues but be absorbed by denser materials?",
+      "options": [
+        "A) Radio waves",
+        "B) Microwaves",
+        "C) X-rays",
+        "D) Infrared radiation"
+      ],
+      "correctAnswer": "C) X-rays",
+      "explanation": "X-rays are a type of electromagnetic radiation. They have high energy and short wavelengths, which allows them to pass through less dense materials like skin and muscle, but they are absorbed by denser materials like bones. This difference in absorption creates a shadow image that is used to visualise the internal structure of the body, making them ideal for detecting fractures and other bone conditions.",
+      "hint": "Consider the different types of electromagnetic waves and their known applications. Which type is specifically used to 'see through' parts of the body for diagnostic purposes?",
+      "generatedAt": "2026-04-30T19:52:18.457483"
+    },
+    {
+      "id": "s-y10-waves_beginner_006",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Consider the electromagnetic spectrum, ordered by increasing wavelength. Which of the following statements is correct regarding microwaves and visible light?",
+      "options": [
+        "A) Microwaves have a shorter wavelength than visible light.",
+        "B) Microwaves have a higher frequency than visible light.",
+        "C) Microwaves travel at the same speed as visible light in a vacuum.",
+        "D) Microwaves are longitudinal waves, while visible light is transverse."
+      ],
+      "correctAnswer": "C) Microwaves travel at the same speed as visible light in a vacuum.",
+      "explanation": "1.  **Electromagnetic Spectrum Order:** When ordered by increasing wavelength (and decreasing frequency), the electromagnetic spectrum is: Gamma rays, X-rays, Ultraviolet, Visible light, Infrared, Microwaves, Radio waves.\n2.  **Comparing Microwaves and Visible Light:** From this order, microwaves have a longer wavelength than visible light. This means statement A is incorrect.\n3.  **Wavelength and Frequency Relationship:** Since the speed of light (c) is constant in a vacuum for all EM waves (c = frequency × wavelength), a longer wavelength implies a lower frequency. Therefore, microwaves have a lower frequency than visible light, making statement B incorrect.\n4.  **Properties of All Electromagnetic Waves:** All electromagnetic waves are transverse waves and all travel at the same speed (the speed of light, approximately 3 x 10^8 m/s) in a vacuum. Thus, statement C is correct.\n5.  **Wave Type:** Both microwaves and visible light are electromagnetic waves, and all electromagnetic waves are transverse waves. Therefore, statement D, which claims microwaves are longitudinal, is incorrect.",
+      "hint": "Recall the full order of the electromagnetic spectrum and the fundamental properties that all electromagnetic waves share.",
+      "generatedAt": "2026-04-30T19:52:34.541993"
+    },
+    {
+      "id": "s-y10-waves_beginner_007",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A wave is observed travelling through a material. The vibrations of the particles in the material are along the same direction as the wave's energy transfer. What type of wave is being described?",
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave",
+        "Standing wave"
+      ],
+      "correctAnswer": "Longitudinal wave",
+      "explanation": "Longitudinal waves are characterised by particle vibrations that are parallel to the direction of energy transfer or wave propagation. The description states that 'the vibrations of the particles in the material are along the same direction as the wave's energy transfer', which is the defining property of a longitudinal wave.",
+      "hint": "Consider the relationship between the direction of particle vibration and the direction of energy transfer for different types of waves.",
+      "generatedAt": "2026-04-30T19:52:44.653550"
+    },
+    {
+      "id": "s-y10-waves_beginner_008",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following properties is shared by ALL electromagnetic waves when travelling through a vacuum?",
+      "options": [
+        "They all have the same wavelength.",
+        "They all have the same frequency.",
+        "They all have the same speed.",
+        "They all have the same energy."
+      ],
+      "correctAnswer": "They all have the same speed.",
+      "explanation": "All electromagnetic waves, regardless of their position in the electromagnetic spectrum (e.g., radio waves, visible light, X-rays), travel at the same constant speed when moving through a vacuum. This speed is approximately 3 x 10^8 m/s, often referred to as the speed of light. While their wavelengths, frequencies, and energies vary significantly across the spectrum, their speed in a vacuum remains constant.",
+      "hint": "Think about the fundamental constant that relates to the propagation of light and other electromagnetic radiation.",
+      "generatedAt": "2026-04-30T19:52:55.682611"
+    },
+    {
+      "id": "s-y10-waves_beginner_009",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "Which of the following is the approximate speed of all electromagnetic waves when travelling through a vacuum?",
+      "options": [
+        "340 m/s",
+        "3 x 10^8 m/s",
+        "1500 m/s",
+        "3 x 10^6 m/s"
+      ],
+      "correctAnswer": "3 x 10^8 m/s",
+      "explanation": "All electromagnetic waves, which include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, travel at the same constant speed when moving through a vacuum. This universal speed is approximately 3 x 10^8 metres per second (m/s), often referred to as the speed of light in a vacuum. The other options represent speeds for sound waves in different media (like air or water) or incorrect values for electromagnetic waves.",
+      "hint": "Think about the speed of light, as all electromagnetic waves travel at this same speed in empty space.",
+      "generatedAt": "2026-04-30T19:53:05.824820"
+    },
+    {
+      "id": "s-y10-waves_beginner_010",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 10,
+      "text": "A radio wave has a frequency of 5 x 10^7 Hz and travels at a speed of 3 x 10^8 m/s in a vacuum. Calculate the wavelength of this radio wave.",
+      "options": [],
+      "correctAnswer": "Formula: v = fλ\nRearranging for wavelength (λ): λ = v / f\nSubstituting the values:\nλ = (3 x 10^8 m/s) / (5 x 10^7 Hz)\nλ = 6 m\nThe wavelength of the radio wave is 6 m.",
+      "explanation": "The relationship between wave speed (v), frequency (f), and wavelength (λ) is given by the wave equation: v = fλ. To find the wavelength, we need to rearrange this formula to λ = v / f. Given the speed (v) of the radio wave is 3 x 10^8 m/s and its frequency (f) is 5 x 10^7 Hz, we substitute these values into the rearranged formula. Dividing 3 x 10^8 by 5 x 10^7 gives 0.6 x 10^1, which simplifies to 6. The standard unit for wavelength is meters (m).",
+      "hint": "Recall the fundamental wave equation that connects wave speed, frequency, and wavelength. You will need to rearrange it to solve for the unknown.",
+      "generatedAt": "2026-04-30T19:53:18.662222"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y10-waves_intermediate_001",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A radio station broadcasts at a frequency of 102.5 MHz. \n\na) Calculate the wavelength of these radio waves in a vacuum. \nb) A musician produces a sound wave with the same wavelength as the radio waves calculated in part (a). Calculate the frequency of this sound wave. \n\n(Speed of light in a vacuum = 3.0 x 10^8 m/s, Speed of sound in air = 340 m/s)",
+      "options": [
+        "A) a) Wavelength = 2.93 m, b) Frequency = 116 Hz",
+        "B) a) Wavelength = 2.93 m, b) Frequency = 1.02 x 10^8 Hz",
+        "C) a) Wavelength = 2.93 x 10^6 m, b) Frequency = 0.000116 Hz",
+        "D) a) Wavelength = 3.25 m, b) Frequency = 105 Hz"
+      ],
+      "correctAnswer": "A) a) Wavelength = 2.93 m, b) Frequency = 116 Hz",
+      "explanation": "Part a) Calculate the wavelength of radio waves:\n1.  Recall the wave equation for electromagnetic waves: speed (c) = frequency (f) × wavelength (λ).\n2.  Convert the given frequency from MHz to Hz: \n    102.5 MHz = 102.5 × 10^6 Hz.\n3.  Rearrange the formula to solve for wavelength: λ = c / f.\n4.  Substitute the values: \n    λ = (3.0 × 10^8 m/s) / (102.5 × 10^6 Hz)\n5.  Calculate: λ ≈ 2.9268 m. Rounded to 3 significant figures, λ = 2.93 m.\n\nPart b) Calculate the frequency of the sound wave:\n1.  Recall the wave equation for mechanical waves (like sound): speed (v) = frequency (f) × wavelength (λ).\n2.  Use the wavelength calculated in part (a): λ = 2.9268 m.\n3.  Rearrange the formula to solve for frequency: f = v / λ.\n4.  Substitute the values: \n    f = (340 m/s) / (2.9268 m)\n5.  Calculate: f ≈ 116.16 Hz. Rounded to 3 significant figures, f = 116 Hz.",
+      "hint": "Remember the wave equation (speed = frequency × wavelength) and ensure you use the correct wave speed (speed of light for radio waves, speed of sound for sound waves) for each part of the calculation.",
+      "generatedAt": "2026-04-30T19:53:56.780695"
+    },
+    {
+      "id": "s-y10-waves_intermediate_002",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "Gamma rays are the highest energy waves in the electromagnetic spectrum, with wavelengths typically less than 10 picometres (pm).\n\na) Calculate the frequency of a gamma ray with a wavelength of 5.0 pm. (3 marks)\n\nb) Explain why gamma rays are used for medical sterilisation, rather than infrared radiation. (3 marks)\n\n(Speed of electromagnetic waves in a vacuum = 3.0 x 10<sup>8</sup> m/s)",
+      "options": [],
+      "correctAnswer": "a) \n**Formula:** Wave speed (c) = frequency (f) × wavelength (λ)\nRearranging to find frequency: f = c / λ\n\n**Conversion:** Convert wavelength from picometres to metres:\n5.0 pm = 5.0 × 10<sup>-12</sup> m (1 mark for correct conversion)\n\n**Substitution and Calculation:**\nf = (3.0 × 10<sup>8</sup> m/s) / (5.0 × 10<sup>-12</sup> m)\nf = 6.0 × 10<sup>19</sup> Hz (1 mark for correct calculation and units)\n\n(1 mark for correct formula or rearrangement)\n\nb) Gamma rays have a very high frequency and consequently carry a very high amount of energy compared to infrared radiation. (1 mark for linking gamma rays to high energy/frequency/short wavelength)\n\nThis high energy allows gamma rays to ionise atoms and molecules within microorganisms (such as bacteria, viruses, and fungi). Ionisation damages their DNA and other essential cellular structures, effectively killing them and sterilising the medical equipment. (1 mark for explaining ionisation/cell damage as the mechanism)\n\nInfrared radiation, on the other hand, has a much lower frequency and energy. Its primary effect is to cause heating, which can kill some microorganisms but is generally less effective and slower for complete sterilisation compared to the direct destructive power of ionising gamma radiation. (1 mark for contrasting with infrared's lower energy/heating effect and its reduced effectiveness for sterilisation)",
+      "explanation": "This is an open-ended question. The 'correctAnswer' field provides the complete step-by-step working and detailed explanation required for both parts of the question, including mark allocations.",
+      "hint": "For part (a), recall the wave equation (speed = frequency × wavelength) and ensure all units are consistent (convert picometres to metres). For part (b), consider the amount of energy carried by different types of electromagnetic radiation and how this energy interacts with biological matter, particularly the concept of ionisation.",
+      "generatedAt": "2026-04-30T19:54:17.651925"
+    },
+    {
+      "id": "s-y10-waves_intermediate_003",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "An ultrasound scanner uses high-frequency sound waves to create images of internal body structures. A typical ultrasound wave has a frequency of 5.0 MHz. Visible light, a part of the electromagnetic spectrum, is also used in medical procedures (e.g., fibre optic endoscopes). Green light, for example, has a wavelength of approximately 550 nm when travelling in a vacuum.\n\nCalculate and state which of these two waves has a shorter period. (Speed of light in a vacuum = 3.0 x 10^8 m/s)",
+      "options": [
+        "A. The ultrasound wave has a shorter period.",
+        "B. The visible light wave has a shorter period.",
+        "C. Both waves have approximately the same period.",
+        "D. It is not possible to compare their periods with the given information."
+      ],
+      "correctAnswer": "B. The visible light wave has a shorter period.",
+      "explanation": "1.  **Calculate the period of the ultrasound wave:**\n    *   First, convert the frequency from MHz to Hz: \n        5.0 MHz = 5.0 x 10^6 Hz\n    *   The period (T) is the reciprocal of the frequency (f): T = 1/f\n    *   T_ultrasound = 1 / (5.0 x 10^6 Hz) = 0.2 x 10^-6 s = 2.0 x 10^-7 s\n\n2.  **Calculate the period of the visible light wave:**\n    *   First, convert the wavelength from nm to m: \n        550 nm = 550 x 10^-9 m\n    *   Use the wave equation (v = fλ) to find the frequency (f = v/λ): \n        f_light = (3.0 x 10^8 m/s) / (550 x 10^-9 m)\n        f_light ≈ 5.4545 x 10^14 Hz\n    *   Then, calculate the period (T = 1/f): \n        T_light = 1 / (5.4545 x 10^14 Hz)\n        T_light ≈ 1.83 x 10^-15 s\n\n3.  **Compare the periods:**\n    *   Period of ultrasound (T_ultrasound) = 2.0 x 10^-7 s\n    *   Period of visible light (T_light) = 1.83 x 10^-15 s\n    *   Since 1.83 x 10^-15 s is significantly smaller than 2.0 x 10^-7 s, the visible light wave has a shorter period.",
+      "hint": "Remember the relationship between frequency and period, T = 1/f. For the visible light, you'll first need to calculate its frequency using the wave equation, v = fλ, paying close attention to unit conversions for MHz and nm.",
+      "generatedAt": "2026-04-30T19:54:35.377423"
+    },
+    {
+      "id": "s-y10-waves_intermediate_004",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "An astronomer detects an unknown electromagnetic wave reaching Earth from a distant galaxy. The wave has a frequency of 7.5 x 10^14 Hz.\n\na) State the region of the electromagnetic spectrum this wave belongs to. (1)\n\nb) Explain why this wave is classified as a transverse wave. (3)\n\nc) The distant galaxy is located 8.0 x 10^24 m away from Earth. Calculate the time, in years, it takes for this electromagnetic wave to reach Earth. Show your working and include any formula used. (4)",
+      "options": [],
+      "correctAnswer": "a) Visible light\n\nb) An electromagnetic wave is classified as a transverse wave because its oscillations (of electric and magnetic fields) are perpendicular to the direction of energy transfer (or wave propagation). This means the wave moves forward while the fields oscillate at right angles to that direction.\n\nc) Step 1: Recall the speed of electromagnetic waves in a vacuum (c).\nc = 3.0 x 10^8 m/s\n\nStep 2: Calculate time in seconds using the formula:\nTime = Distance / Speed\nt = d / c\nt = (8.0 x 10^24 m) / (3.0 x 10^8 m/s)\nt = 2.666... x 10^16 s\n\nStep 3: Convert time from seconds to years.\nNumber of seconds in a year = 365 days/year * 24 hours/day * 60 minutes/hour * 60 seconds/minute\n= 31,536,000 s/year (or 3.1536 x 10^7 s/year)\n\nTime in years = (2.666... x 10^16 s) / (3.1536 x 10^7 s/year)\nTime in years = 8.455 x 10^8 years\n\nFinal Answer: 8.46 x 10^8 years (to 3 significant figures).",
+      "explanation": "This is an open-ended question. The full model answer with step-by-step working and reasoning serves as the explanation.",
+      "hint": "For part (c), remember the constant speed of all electromagnetic waves in a vacuum, and ensure you convert your final answer into the requested units.",
+      "generatedAt": "2026-04-30T19:54:56.554311"
+    },
+    {
+      "id": "s-y10-waves_intermediate_005",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "An electromagnetic wave, commonly used for disinfecting medical equipment, has a frequency of 1.2 x 10^16 Hz.\n\nCalculate the wavelength of this wave. Then, using your calculated wavelength, identify the specific region of the electromagnetic spectrum to which this wave belongs.\n\n(Speed of light in a vacuum, c = 3.0 x 10^8 m/s)",
+      "options": [],
+      "correctAnswer": "To calculate the wavelength (λ), we use the wave equation for electromagnetic waves: c = fλ, where c is the speed of light in a vacuum, and f is the frequency.\n\n**Step 1: Calculate the wavelength**\nFormula: c = fλ\nRearrange to find wavelength: λ = c / f\n\nSubstitute the given values:\nc = 3.0 x 10^8 m/s\nf = 1.2 x 10^16 Hz\n\nλ = (3.0 x 10^8 m/s) / (1.2 x 10^16 Hz)\nλ = 2.5 x 10^(8 - 16) m\nλ = 2.5 x 10^-8 m\n\n**Step 2: Identify the region of the electromagnetic spectrum**\nThe calculated wavelength is 2.5 x 10^-8 m.\nTo make it easier to compare with typical ranges, convert to nanometres (1 nm = 10^-9 m):\n2.5 x 10^-8 m = 2.5 x 10^-8 x (10^9 nm / 1 m) = 25 nm.\n\nComparing this wavelength to the electromagnetic spectrum:\n- Visible light: 400 nm to 700 nm\n- Ultraviolet (UV) radiation: 1 nm to 400 nm\n- X-rays: 0.01 nm to 10 nm\n\nA wavelength of 25 nm falls within the **Ultraviolet (UV)** region of the electromagnetic spectrum. This is consistent with its use in disinfecting medical equipment.",
+      "explanation": "The problem requires two main steps: first, calculating the wavelength of the electromagnetic wave using the provided frequency and the speed of light. The relevant formula is c = fλ. Once the wavelength is calculated, the second step involves comparing this value to the known ranges of wavelengths for different regions of the electromagnetic spectrum to identify the specific region the wave belongs to. The use of UV radiation for disinfection is a common application that aligns with the calculated wavelength.",
+      "hint": "Remember the universal wave equation and the constant speed of all electromagnetic waves in a vacuum. You will then need to recall the typical wavelength ranges for the different parts of the electromagnetic spectrum.",
+      "generatedAt": "2026-04-30T19:55:34.424090"
+    },
+    {
+      "id": "s-y10-waves_intermediate_006",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A security system's motion detector uses microwaves with a wavelength of 12 cm.\n\nAnother advanced detection system uses a different type of electromagnetic wave that has a frequency 1000 times greater than these microwaves.\n\nCalculate the wavelength of this advanced detection system's electromagnetic wave. Then, Explain which part of the electromagnetic spectrum these waves belong to, and why their properties make them suitable for a specific application in security. (Speed of light in a vacuum, c = 3.0 x 10^8 m/s)",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the frequency of the microwaves.\nFormula: c = fλ\nRearranging for f: f = c / λ\nConvert wavelength to metres: λ = 12 cm = 0.12 m\nSubstitution: f_microwave = (3.0 x 10^8 m/s) / 0.12 m\nAnswer: f_microwave = 2.5 x 10^9 Hz\n\nStep 2: Calculate the frequency of the advanced detection system's waves.\nFrequency_advanced = f_microwave x 1000\nFrequency_advanced = (2.5 x 10^9 Hz) x 1000\nAnswer: Frequency_advanced = 2.5 x 10^12 Hz\n\nStep 3: Calculate the wavelength of the advanced detection system's waves.\nFormula: c = fλ\nRearranging for λ: λ = c / f\nSubstitution: λ_advanced = (3.0 x 10^8 m/s) / (2.5 x 10^12 Hz)\nAnswer: λ_advanced = 1.2 x 10^-4 m\n\nStep 4: Identify the EM spectrum part and explain suitability.\nThe calculated wavelength (1.2 x 10^-4 m) falls within the **infrared (IR)** region of the electromagnetic spectrum.\n\nExplanation of suitability:\nInfrared radiation is suitable for security applications such as thermal imaging or Passive Infrared (PIR) sensors because all objects at human body temperature emit infrared radiation. This property allows for the detection of intruders in complete darkness or through conditions where visible light is obstructed (e.g., smoke or fog), as it senses heat signatures and can differentiate between living beings and inanimate objects based on their emitted IR.",
+      "explanation": "The solution requires multiple steps: First, the frequency of the initial microwave is calculated using the wave equation (c=fλ) by converting the wavelength to metres and using the given speed of light. Second, this calculated frequency is then multiplied by 1000 to determine the frequency of the new advanced detection system's waves. Third, the wave equation is used again, this time to calculate the wavelength of these new waves using their frequency and the speed of light. Finally, the calculated wavelength is compared against the known ranges of the electromagnetic spectrum to identify the correct region (infrared), and its specific properties (emission by warm objects) are then linked to a practical application in security (e.g., thermal imaging, PIR sensors) to explain its suitability.",
+      "hint": "Remember that all electromagnetic waves travel at the same speed (the speed of light) in a vacuum. Use the wave equation (c = fλ) to find unknown values, ensuring consistent units. Once you have the final wavelength, compare it to the typical wavelength ranges for different parts of the electromagnetic spectrum to identify the wave type and consider its common applications.",
+      "generatedAt": "2026-04-30T19:55:52.847376"
+    },
+    {
+      "id": "s-y10-waves_intermediate_007",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A bat emits ultrasound waves with a frequency of 80 kHz to navigate and hunt. The speed of sound in air is approximately 340 m/s.\nAn electromagnetic (EM) wave is observed to have a wavelength that is 5000 times smaller than the wavelength of the bat's ultrasound wave. Given that the speed of all electromagnetic waves in a vacuum is 3.0 x 10^8 m/s, calculate the frequency of this electromagnetic wave.",
+      "options": [
+        "A) 3.53 x 10^11 Hz",
+        "B) 3.53 x 10^14 Hz",
+        "C) 4.00 x 10^11 Hz",
+        "D) 3.53 x 10^13 Hz"
+      ],
+      "correctAnswer": "B) 3.53 x 10^14 Hz",
+      "explanation": "Step 1: Calculate the wavelength of the ultrasound wave.\nFirst, convert the frequency from kHz to Hz:\nFrequency (f_sound) = 80 kHz = 80 x 1000 Hz = 80,000 Hz.\nGiven speed of sound (v_sound) = 340 m/s.\nUsing the wave equation: v = fλ (where v = speed, f = frequency, λ = wavelength)\nRearranging for wavelength: λ = v / f\nλ_sound = 340 m/s / 80,000 Hz = 0.00425 m\n\nStep 2: Calculate the wavelength of the electromagnetic (EM) wave.\nThe EM wave's wavelength (λ_EM) is 5000 times smaller than λ_sound.\nλ_EM = λ_sound / 5000 = 0.00425 m / 5000 = 8.5 x 10^-7 m\n\nStep 3: Calculate the frequency of the EM wave.\nGiven speed of EM wave (c) = 3.0 x 10^8 m/s.\nUsing the wave equation: c = fλ (rearranged as f = c / λ)\nf_EM = (3.0 x 10^8 m/s) / (8.5 x 10^-7 m) = 3.5294... x 10^14 Hz\nRounding to three significant figures, the frequency of the electromagnetic wave is 3.53 x 10^14 Hz.",
+      "hint": "Remember to use the correct wave speed for each type of wave and convert all frequencies to Hertz (Hz) before calculation. The wave equation (speed = frequency x wavelength) will be used in multiple steps.",
+      "generatedAt": "2026-04-30T19:56:13.161012"
+    },
+    {
+      "id": "s-y10-waves_intermediate_008",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "An FM radio station broadcasts at a frequency of 92.0 MHz. \nA medical sterilisation lamp uses ultraviolet (UV) radiation with a wavelength of 2.0 x 10⁻⁷ m.\n\nWhich of the following statements is correct regarding these two electromagnetic waves?\n\n(Speed of light in a vacuum, c = 3.0 x 10⁸ m/s)",
+      "options": [
+        "A) The radio wave has a wavelength of approximately 3.26 m, and the UV wave has a lower frequency than the radio wave.",
+        "B) The radio wave has a wavelength of approximately 3.26 m, and the UV wave has a higher frequency than the radio wave.",
+        "C) The radio wave has a wavelength of approximately 0.326 m, and the UV wave has a lower frequency than the radio wave.",
+        "D) The radio wave has a wavelength of approximately 0.326 m, and the UV wave has a higher frequency than the radio wave."
+      ],
+      "correctAnswer": "B) The radio wave has a wavelength of approximately 3.26 m, and the UV wave has a higher frequency than the radio wave.",
+      "explanation": "To determine the correct statement, we need to perform two main steps:\n\n**Step 1: Calculate the wavelength of the FM radio wave.**\nGiven:\nFrequency (f) = 92.0 MHz = 92.0 × 10⁶ Hz (since 1 MHz = 10⁶ Hz)\nSpeed of light (c) = 3.0 × 10⁸ m/s\n\nUsing the wave equation: `c = fλ`, where `λ` is the wavelength.\nRearranging for wavelength: `λ = c / f`\n\nSubstitution: `λ_radio = (3.0 × 10⁸ m/s) / (92.0 × 10⁶ Hz)`\nCalculation: `λ_radio = 300 / 92 ≈ 3.2608... m`\nRounding to two decimal places: `λ_radio ≈ 3.26 m`\n\n**Step 2: Determine the frequency of the UV radiation and compare it to the radio wave's frequency.**\nGiven:\nWavelength (λ) = 2.0 × 10⁻⁷ m\nSpeed of light (c) = 3.0 × 10⁸ m/s\n\nUsing the wave equation: `c = fλ`, rearranging for frequency: `f = c / λ`\n\nSubstitution: `f_UV = (3.0 × 10⁸ m/s) / (2.0 × 10⁻⁷ m)`\nCalculation: `f_UV = 1.5 × 10¹⁵ Hz`\n\nNow, compare the frequencies:\nFrequency of radio wave (f_radio) = 92.0 × 10⁶ Hz\nFrequency of UV wave (f_UV) = 1.5 × 10¹⁵ Hz\n\nSince 1.5 × 10¹⁵ Hz is significantly greater than 92.0 × 10⁶ Hz, the UV wave has a much higher frequency than the radio wave.\n\nCombining the results: The radio wave has a wavelength of approximately 3.26 m, and the UV wave has a higher frequency than the radio wave. This matches option B.",
+      "hint": "Remember that for all electromagnetic waves, the speed in a vacuum is constant (c). Use the wave equation (c = fλ) to calculate unknown values. Pay close attention to unit conversions, especially for frequency from MHz to Hz.",
+      "generatedAt": "2026-04-30T19:56:38.986912"
+    },
+    {
+      "id": "s-y10-waves_intermediate_009",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A worker is exposed to a type of electromagnetic radiation that can cause damage to skin cells if not properly shielded.\n\n(a) Calculate the wavelength of this radiation if its frequency is 7.5 x 10^14 Hz. Give your answer in nanometres (nm).\n(b) Explain why this type of electromagnetic radiation is damaging to skin cells and describe one safety precaution that should be taken.",
+      "options": [],
+      "correctAnswer": "**(a) Calculate the wavelength:**\nFormula: Speed of light (c) = frequency (f) × wavelength (λ)\nRearranging for wavelength: λ = c / f\n\nGiven: c = 3.0 x 10^8 m/s (speed of electromagnetic waves in a vacuum)\nFrequency (f) = 7.5 x 10^14 Hz\n\nSubstitution: λ = (3.0 x 10^8 m/s) / (7.5 x 10^14 Hz)\nCalculation: λ = 4.0 x 10^-7 m\n\nConvert to nanometres (1 nm = 1 x 10^-9 m):\nλ = 4.0 x 10^-7 m × (1 nm / 1 x 10^-9 m) = 400 nm\n\n**Wavelength = 400 nm**\n\n**(b) Explanation and safety precaution:**\nThe electromagnetic radiation referred to is Ultraviolet (UV) radiation.\n\nUV radiation is damaging to skin cells because it carries sufficient energy (due to its relatively high frequency) to cause ionisation. This means it can break chemical bonds within the DNA of skin cells, leading to mutations, cell damage, or cell death. This can manifest as sunburn, premature skin aging, and significantly increases the risk of skin cancer.\n\nOne safety precaution that should be taken is to wear appropriate protective clothing (e.g., long-sleeved shirts, trousers, hats) to cover exposed skin, or apply sunscreen with a high SPF to block or absorb the UV radiation before it reaches the skin.",
+      "explanation": "Part (a) requires applying the wave equation (c = fλ) to calculate the wavelength and then converting the answer from metres to nanometres. The speed of electromagnetic waves in a vacuum (c) is a constant (3.0 x 10^8 m/s). The frequency is given as 7.5 x 10^14 Hz. After calculating λ in metres, remember that 1 metre = 1 x 10^9 nanometres.\n\nPart (b) requires identifying the type of EM radiation based on its hazard (damaging skin cells, corresponding to UV radiation) and explaining *why* it causes damage by linking its wave properties (high frequency/energy) to its effect on biological cells (ionisation, DNA damage). Finally, a relevant safety precaution is needed.",
+      "hint": "Remember the wave equation (c=fλ) and that 'c' is the speed of light for all electromagnetic waves in a vacuum. Also, consider how high-energy radiation interacts with biological tissues.",
+      "generatedAt": "2026-04-30T19:56:59.260855"
+    },
+    {
+      "id": "s-y10-waves_intermediate_010",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 10,
+      "text": "A wave is observed travelling on the surface of a liquid. It has a speed of 1.5 m/s, and the distance between two consecutive crests is measured to be 0.50 m. If an electromagnetic wave possessed the same frequency as this liquid wave, which region of the electromagnetic spectrum would it belong to?",
+      "options": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared",
+        "Visible light"
+      ],
+      "correctAnswer": "Radio waves",
+      "explanation": "Step 1: Calculate the frequency of the liquid wave.\nThe wave speed (v) is 1.5 m/s and the wavelength (λ) is 0.50 m (the distance between two consecutive crests).\nThe formula linking wave speed, frequency (f), and wavelength is v = fλ.\nRearranging the formula to find frequency: f = v / λ\nSubstitute the given values: f = 1.5 m/s / 0.50 m = 3 Hz.\n\nStep 2: Identify the region of the electromagnetic spectrum for an EM wave with this frequency.\nElectromagnetic waves are categorised into different regions based on their frequency (or wavelength).\n- Radio waves have the lowest frequencies, typically ranging from a few Hz (including Extremely Low Frequency (ELF) radio waves like 3 Hz) up to hundreds of GHz.\n- Microwaves have higher frequencies than radio waves (typically 300 MHz to 300 GHz).\n- Infrared radiation has higher frequencies than microwaves.\n- Visible light has even higher frequencies than infrared.\n\nSince the calculated frequency is 3 Hz, an electromagnetic wave with this frequency would fall into the **Radio waves** region of the electromagnetic spectrum.",
+      "hint": "First, use the wave equation (v = fλ) to calculate the frequency of the liquid wave. Then, recall the approximate frequency ranges for the different regions of the electromagnetic spectrum.",
+      "generatedAt": "2026-04-30T19:57:14.429464"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y10-waves_advanced_001",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "An earthquake occurs, generating both P-waves (primary) and S-waves (secondary) that propagate through the Earth. Seismologists use these waves to study the Earth's internal structure and transmit the data gathered to research stations via satellite communication.\n\n(a) Describe the difference in particle motion relative to the direction of wave propagation for a P-wave and an S-wave. (3 marks)\n\n(b) An S-wave is detected travelling through a particular layer of the Earth at an average speed of 4.2 km/s. If the wave has a frequency of 0.75 Hz, calculate its wavelength in metres. (4 marks)\n\n(c) A radio wave is used to transmit the seismic data from a remote sensor to a satellite. The radio wave has a frequency of 1.5 GHz.\n    (i) State the speed of this radio wave in a vacuum. (1 mark)\n    (ii) Explain why a radio wave is a more suitable choice than an S-wave for transmitting data from the Earth's surface through the atmosphere and beyond to a satellite. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Describe the difference in particle motion relative to the direction of wave propagation for a P-wave and an S-wave. (3 marks)**\n*   **P-wave (longitudinal):** The particles of the medium oscillate parallel to the direction of wave propagation. (1 mark) This creates compressions and rarefactions. (1 mark)\n*   **S-wave (transverse):** The particles of the medium oscillate perpendicular to the direction of wave propagation. (1 mark)\n\n**(b) An S-wave is detected travelling through a particular layer of the Earth at an average speed of 4.2 km/s. If the wave has a frequency of 0.75 Hz, calculate its wavelength in metres. (4 marks)**\n*   **Formula:** Wave speed (v) = frequency (f) × wavelength (λ) OR λ = v / f (1 mark)\n*   **Convert speed to m/s:** 4.2 km/s = 4.2 × 1000 m/s = 4200 m/s (1 mark)\n*   **Substitution:** λ = 4200 m/s / 0.75 Hz (1 mark)\n*   **Calculation:** λ = 5600 m (1 mark)\n\n**(c) A radio wave is used to transmit the seismic data from a remote sensor to a satellite. The radio wave has a frequency of 1.5 GHz.**\n    **(i) State the speed of this radio wave in a vacuum. (1 mark)**\n    *   3.0 × 10⁸ m/s (1 mark)\n\n    **(ii) Explain why a radio wave is a more suitable choice than an S-wave for transmitting data from the Earth's surface through the atmosphere and beyond to a satellite. (4 marks)**\n    *   Radio waves are electromagnetic waves (1 mark), so they do not require a medium to travel (1 mark). This means they can travel through the vacuum of space between the atmosphere and the satellite.\n    *   S-waves are mechanical waves (1 mark) and require a medium for propagation; they cannot travel through gases (like the atmosphere) or the vacuum of space (1 mark). Therefore, they would be unable to propagate through the atmosphere and outer space to reach the satellite.",
+      "explanation": "**(a) Particle Motion:** This part tests the fundamental understanding of longitudinal and transverse waves. P-waves are longitudinal, meaning particles oscillate parallel to wave direction, creating compressions and rarefactions. S-waves are transverse, meaning particles oscillate perpendicular to wave direction.\n\n**(b) Wavelength Calculation:** This is a standard wave equation calculation (v = fλ). The key steps are: 1) identifying the correct formula, 2) converting the given speed from km/s to m/s to ensure consistent units for the final answer in metres, 3) substituting the values into the rearranged formula (λ = v/f), and 4) performing the calculation to get the correct wavelength with units.\n\n**(c)(i) Speed of Radio Wave:** All electromagnetic waves, including radio waves, travel at the speed of light (approximately 3.0 × 10⁸ m/s) in a vacuum. This is a recall question.\n\n**(c)(ii) Suitability Explanation:** This requires comparing the fundamental properties of mechanical waves (like S-waves) and electromagnetic waves (like radio waves). S-waves are mechanical waves that require a medium (solids) to travel and cannot pass through liquids, gases, or a vacuum. Radio waves are electromagnetic waves that do not require a medium and can travel through a vacuum. Therefore, radio waves are suitable for space communication, while S-waves are not.",
+      "hint": "For part (b), remember to use the wave equation (v = fλ) and ensure all units are consistent (convert km/s to m/s) before calculating. For part (c)(ii), consider the fundamental requirement for a medium for different types of waves to propagate.",
+      "generatedAt": "2026-04-30T19:57:32.222449"
+    },
+    {
+      "id": "s-y10-waves_advanced_002",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A team of engineers is developing advanced techniques for monitoring structural integrity of spacecraft components. They are investigating the use of both high-frequency sound waves and electromagnetic radiation for non-destructive testing in environments ranging from a vacuum to dense metallic alloys.\n\n(a) Describe the primary difference in how energy is transferred by a longitudinal wave compared to a transverse wave, using the examples of sound waves and electromagnetic waves respectively. (3 marks)\n\n(b) The engineers use ultrasound waves with a frequency of 8.0 MHz to inspect a component made of a novel composite material. The speed of sound in this composite is measured to be 4800 m/s. Calculate the wavelength of these ultrasound waves within the composite material. Show your working and state the appropriate units. (3 marks)\n\n(c) For inspecting much denser sections, the engineers consider using a form of electromagnetic radiation that has greater penetrating power than visible light but less than gamma rays.\n    (i) State the name of the region of the electromagnetic spectrum most likely being used. (1 mark)\n    (ii) Explain why this type of electromagnetic radiation is effective for penetrating dense materials, relating your answer to its position within the electromagnetic spectrum and its associated energy characteristics. (3 marks)\n\n(d) These electromagnetic waves travel from the vacuum of space into a dense metallic component. Describe the change in the speed of these waves as they enter the metallic component, and explain the resulting change in their wavelength. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) In a longitudinal wave (e.g., sound waves), the particles of the medium oscillate or vibrate parallel to the direction of wave propagation, transferring energy through a series of compressions and rarefactions. In a transverse wave (e.g., electromagnetic waves), the oscillations (of the electric and magnetic fields) are perpendicular to the direction of wave propagation. A key difference is that longitudinal waves require a medium for their propagation, whereas transverse electromagnetic waves do not require a medium and can travel through a vacuum.\n\n(b) Formula: wave speed (v) = frequency (f) × wavelength (λ)\nRearrange: λ = v / f\nGiven: v = 4800 m/s, f = 8.0 MHz = 8.0 × 10^6 Hz\nCalculation: λ = 4800 m/s / (8.0 × 10^6 Hz)\nλ = 0.0006 m\nAnswer: The wavelength of the ultrasound waves is 6.0 × 10^-4 m (or 0.6 mm).\n\n(c) (i) X-rays\n(ii) X-rays are located towards the higher frequency end of the electromagnetic spectrum, between ultraviolet and gamma rays. This position implies that X-ray photons possess significantly higher energy per photon compared to visible light or radio waves. This high energy allows X-ray photons to penetrate through the electron clouds and atomic structures of dense materials with less absorption and scattering, making them highly effective for imaging internal structures.\n\n(d) When electromagnetic waves travel from the vacuum of space into a denser metallic component, their speed decreases. The speed of light in a vacuum (c) is the maximum speed, and it slows down in any material medium. The frequency of the electromagnetic waves, however, remains constant as it is determined by the source and does not change when the wave passes into a new medium. According to the wave equation, v = fλ, if the wave speed (v) decreases and the frequency (f) remains constant, then the wavelength (λ) must also decrease proportionally. Therefore, the wavelength of the electromagnetic waves will become shorter inside the metallic component.",
+      "explanation": "Explanation for each part is provided within the detailed model answer above.",
+      "hint": "For part (b), remember to convert the frequency into Hertz (Hz) before using the wave equation. For part (d), consider which property of a wave (speed, frequency, or wavelength) remains constant when it changes medium, and how that affects the other properties based on the wave equation.",
+      "generatedAt": "2026-04-30T19:57:49.834751"
+    },
+    {
+      "id": "s-y10-waves_advanced_003",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A research submersible in the deep ocean uses two primary wave technologies. Firstly, a sonar system emits sound waves (longitudinal) with a frequency of 50 kHz. The speed of sound in deep seawater is 1500 m/s. Secondly, an Extremely Low Frequency (ELF) radio wave communication system emits electromagnetic waves (transverse) with a frequency of 75 Hz. These ELF waves travel through deep seawater at approximately 2.25 x 10^8 m/s. \n\nWhich of the following statements accurately compares a key property of these waves and explains their suitability for their respective tasks?",
+      "options": [
+        "A) The sonar wave has a wavelength of 0.03 m, and ELF waves have a wavelength of 3.0 x 10^6 m. ELF waves are suitable for long-range communication because their very long wavelength allows them to diffract around obstacles more effectively than sonar waves.",
+        "B) The sonar wave has a wavelength of 30 m, and ELF waves have a wavelength of 3.0 x 10^6 m. ELF waves are suitable for long-range communication because their low frequency experiences less absorption in water compared to higher frequency electromagnetic waves.",
+        "C) The sonar wave has a wavelength of 0.03 m, and ELF waves have a wavelength of 3.0 x 10^6 m. ELF waves are suitable for long-range communication because their low frequency experiences less absorption in water compared to higher frequency electromagnetic waves.",
+        "D) The sonar wave has a wavelength of 0.03 m, and ELF waves have a wavelength of 3.0 x 10^9 m. ELF waves are suitable for long-range communication because their high speed in water ensures rapid data transmission over vast distances."
+      ],
+      "correctAnswer": "C) The sonar wave has a wavelength of 0.03 m, and ELF waves have a wavelength of 3.0 x 10^6 m. ELF waves are suitable for long-range communication because their low frequency experiences less absorption in water compared to higher frequency electromagnetic waves.",
+      "explanation": "To solve this, we first need to calculate the wavelength for both the sonar wave and the ELF radio wave using the wave equation: wavelength (λ) = speed (v) / frequency (f).\n\n**1. Calculate the wavelength of the sonar wave:**\n   *   Frequency (f_sonar) = 50 kHz = 50,000 Hz\n   *   Speed (v_sonar) = 1500 m/s\n   *   λ_sonar = v_sonar / f_sonar = 1500 m/s / 50,000 Hz = 0.03 m\n\n**2. Calculate the wavelength of the ELF radio wave:**\n   *   Frequency (f_ELF) = 75 Hz\n   *   Speed (v_ELF) = 2.25 x 10^8 m/s\n   *   λ_ELF = v_ELF / f_ELF = (2.25 x 10^8 m/s) / 75 Hz = 3.0 x 10^6 m\n\n**3. Evaluate the explanation for ELF wave suitability:**\n   *   Extremely Low Frequency (ELF) electromagnetic waves are used for long-range underwater communication primarily because water, especially seawater, is highly conductive and absorbs higher frequency electromagnetic waves (like visible light, microwave, or standard radio waves) very rapidly. ELF waves, due to their very low frequency, experience significantly less absorption in water, allowing them to penetrate deeper and travel further distances.\n\nNow, let's check the options:\n*   **A)** Calculates wavelengths correctly but incorrectly states that diffraction (while relevant for long wavelengths) is the primary reason for long-range *penetration* compared to sonar waves (which are longitudinal and interact differently). The main reason for ELF's deep penetration is low absorption.\n*   **B)** The calculated sonar wavelength (30 m) is incorrect.\n*   **C)** Calculates both wavelengths correctly (0.03 m and 3.0 x 10^6 m). The explanation accurately identifies that low frequency leads to less absorption in water, which is the key reason for ELF waves' effectiveness in long-range underwater communication. This is the correct statement.\n*   **D)** The calculated ELF wavelength (3.0 x 10^9 m) is incorrect. Also, while speed is a factor for transmission time, it's not the primary reason for *long-range penetration* for EM waves in an attenuating medium like water.",
+      "hint": "Remember the wave equation (speed = frequency x wavelength) and consider how different frequencies of electromagnetic radiation interact with and are absorbed by conductive media like seawater.",
+      "generatedAt": "2026-04-30T19:58:10.816634"
+    },
+    {
+      "id": "s-y10-waves_advanced_004",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly developed medical diagnostic probe, designed for non-invasive tumour detection, incorporates two distinct wave-based technologies:\n\n*   **Module A:** Emits high-frequency ultrasonic waves with a frequency of 5.0 MHz. These waves travel through human tissue at an average speed of 1540 m/s.\n*   **Module B:** Emits electromagnetic radiation with a wavelength of 7.5 x 10⁻⁵ m. This radiation is used to detect thermal variations indicative of metabolic activity.\n\n(a) State the type of wave produced by Module A (ultrasound) based on its oscillations relative to the direction of energy transfer. (1 mark)\n\n(b) Explain why ultrasound waves, unlike the waves from Module B, cannot travel through a vacuum. (3 marks)\n\n(c) Calculate the wavelength of the ultrasonic waves produced by Module A. Give your answer in standard form to an appropriate number of significant figures. (3 marks)\n\n(d) Describe the main difference in how the oscillations of the electromagnetic waves from Module B relate to their direction of energy transfer, compared to the ultrasonic waves from Module A. (2 marks)\n\n(e) Identify the region of the electromagnetic spectrum to which the radiation from Module B belongs. (1 mark)\n\n(f) The diagnostic probe is updated. Module B is replaced with a new emitter producing electromagnetic waves that have 100 times greater frequency than the original Module B radiation. Calculate the new wavelength of the electromagnetic waves emitted by the updated Module B. Assume the speed of electromagnetic waves in a vacuum is 3.0 x 10⁸ m/s. (4 marks)",
+      "options": [
+        "5.0 x 10⁻⁷ m",
+        "7.5 x 10⁻⁷ m",
+        "7.5 x 10⁻³ m",
+        "4.0 x 10¹⁴ Hz"
+      ],
+      "correctAnswer": "7.5 x 10⁻⁷ m",
+      "explanation": "For part (f):\n1.  **Calculate the original frequency of Module B radiation:**\n    Using the wave equation: c = fλ, where c = 3.0 x 10⁸ m/s (speed of light) and λ = 7.5 x 10⁻⁵ m (original wavelength).\n    f_original = c / λ_original\n    f_original = (3.0 x 10⁸ m/s) / (7.5 x 10⁻⁵ m) = 4.0 x 10¹² Hz.\n\n2.  **Calculate the new frequency of Module B radiation:**\n    The new frequency (f_new) is 100 times greater than the original frequency.\n    f_new = 100 × f_original\n    f_new = 100 × (4.0 x 10¹² Hz) = 4.0 x 10¹⁴ Hz.\n\n3.  **Calculate the new wavelength of Module B radiation:**\n    Using the wave equation again: c = fλ, where c = 3.0 x 10⁸ m/s and f = f_new = 4.0 x 10¹⁴ Hz.\n    λ_new = c / f_new\n    λ_new = (3.0 x 10⁸ m/s) / (4.0 x 10¹⁴ Hz) = 0.75 x 10⁻⁶ m.\n\n4.  **Convert to standard form:**\n    λ_new = 7.5 x 10⁻⁷ m.",
+      "hint": "Remember that the speed of all electromagnetic waves in a vacuum is constant. Use the wave equation (v = fλ) to first find the original frequency, then scale it, and finally calculate the new wavelength.",
+      "generatedAt": "2026-04-30T19:58:50.097136"
+    },
+    {
+      "id": "s-y10-waves_advanced_005",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "An advanced planetary probe is designed to investigate a distant exoplanet's atmosphere and surface. It employs two distinct electromagnetic wave systems:\n1.  A **synthetic aperture radar (SAR) system** emits and detects radio waves to penetrate thick cloud layers and generate detailed maps of the planet's hidden surface topography. This system operates at a frequency of 15 GHz.\n2.  A **spectrometer** analyzes the atmospheric composition by detecting specific absorption patterns in the **ultraviolet (UV) region** of the electromagnetic spectrum. This spectrometer is tuned to detect UV radiation with a wavelength of 250 nm.\n\n(Speed of light in a vacuum, c = 3.0 x 10^8 m/s)\n\na) Describe the fundamental difference in how radio waves and sound waves transmit energy through a medium, identifying the type of wave each represents. (4 marks)\n\nb) Calculate the wavelength of the radio waves used by the SAR system. Calculate the frequency of the UV radiation detected by the spectrometer. Show your working and state the units for your answers. (6 marks)\n\nc) Explain why UV radiation is generally considered more hazardous to living organisms than radio waves, despite both being electromagnetic waves. (4 marks)",
+      "options": [],
+      "correctAnswer": {
+        "a": "Radio waves are transverse waves, meaning the oscillations (vibrations) of the electric and magnetic fields are perpendicular to the direction of energy transfer. Sound waves are longitudinal waves, meaning the oscillations (vibrations) of the particles in the medium are parallel to the direction of energy transfer.",
+        "b": "Calculation for radio waves:\nGiven: Speed of light (c) = 3.0 x 10^8 m/s, Frequency (f) = 15 GHz = 15 x 10^9 Hz\nFormula: c = fλ\nRearranging for wavelength (λ): λ = c / f\nSubstitution: λ = (3.0 x 10^8 m/s) / (15 x 10^9 Hz)\nAnswer: λ = 0.02 m\n\nCalculation for UV radiation:\nGiven: Speed of light (c) = 3.0 x 10^8 m/s, Wavelength (λ) = 250 nm = 250 x 10^-9 m\nFormula: c = fλ\nRearranging for frequency (f): f = c / λ\nSubstitution: f = (3.0 x 10^8 m/s) / (250 x 10^-9 m)\nAnswer: f = 1.2 x 10^15 Hz",
+        "c": "UV radiation has a much higher frequency (and thus a shorter wavelength) than radio waves. This means that photons of UV radiation carry significantly more energy than photons of radio waves. Because of this higher energy, UV radiation is classified as ionising radiation, meaning it has enough energy to remove electrons from atoms and molecules in biological tissues. This ionisation can cause damage to DNA and proteins within cells, leading to mutations, cell death, and an increased risk of conditions like skin cancer, whereas radio waves are non-ionising and typically only cause heating effects at high intensities."
+      },
+      "explanation": "a) Marks are awarded for correctly identifying radio waves as transverse and sound waves as longitudinal, and for accurately describing the direction of particle/field oscillations relative to energy transfer for each wave type.\nb) For each calculation, 1 mark is awarded for recalling or rearranging the correct wave equation (c=fλ or v=fλ), 1 mark for correct substitution of values including appropriate unit conversions (e.g., GHz to Hz, nm to m), and 1 mark for the correct numerical answer with the appropriate unit.\nc) 1 mark for stating that UV has higher frequency/shorter wavelength (and thus higher energy) than radio waves. 1 mark for explaining that UV radiation photons carry significantly more energy. 1 mark for identifying UV as ionising radiation. 1 mark for explaining the effect of ionising radiation, such as damaging DNA/cells or causing mutations/cancer.",
+      "hint": "For part (b), remember the wave equation: wave speed (c) = frequency (f) × wavelength (λ). Ensure all units are consistent before calculation; convert GHz to Hz and nm to m.",
+      "generatedAt": "2026-04-30T19:59:09.814651"
+    },
+    {
+      "id": "s-y10-waves_advanced_006",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly designed deep-space probe, 'Ares III', is equipped with advanced sensors for remote analysis of planetary atmospheres and protection against cosmic radiation.\n\n**(a) Wave Nature:** The probe's atmospheric lidar system emits short pulses of electromagnetic radiation.\nDescribe the nature of the electromagnetic wave emitted by the lidar system. (2 marks)\n\n**(b) EM Spectrum & Calculation:** To detect specific atmospheric gases, the probe's spectrometer identifies a spectral line corresponding to an electromagnetic wave with a frequency of 1.15 x 10^15 Hz. The speed of electromagnetic waves in a vacuum is 3.00 x 10^8 m/s.\nCalculate the wavelength of this electromagnetic wave. Give your answer in nanometres (nm). (4 marks)\n\n**(c) Radiation Hazards:** The probe also incorporates shielding against high-energy cosmic radiation, including gamma rays. A separate sensor is designed to detect incoming solar flares, which primarily emit large amounts of ultraviolet (UV) radiation.\nExplain why gamma rays pose a greater health risk to the probe's electronics and future human occupants than UV radiation, referring to their relative positions in the electromagnetic spectrum. (4 marks)\n\n**(d) Sound Waves:** For internal diagnostics, the probe uses ultrasonic sensors to monitor structural integrity.\nCompare and contrast ultrasonic waves with the electromagnetic waves used by the lidar system, focusing on their wave type and transmission through a vacuum. (3 marks)",
+      "options": [],
+      "correctAnswer": "**Model Answer:**\n\n**(a) Describe the nature of the electromagnetic wave emitted by the lidar system. (2 marks)**\nElectromagnetic waves are transverse waves (1 mark). This means the oscillations of the electric and magnetic fields are perpendicular to the direction of energy transfer (wave propagation) (1 mark).\n\n**(b) Calculate the wavelength of this electromagnetic wave. Give your answer in nanometres (nm). (4 marks)**\nFormula: v = fλ (1 mark)\nRearranging for wavelength: λ = v / f (1 mark for rearrangement or correct substitution)\nSubstitution: λ = (3.00 x 10^8 m/s) / (1.15 x 10^15 Hz) (1 mark)\nCalculation: λ = 2.60869... x 10^-7 m\nConversion to nanometres: 1 m = 10^9 nm\nλ = 2.60869... x 10^-7 m * (10^9 nm / 1 m) = 260.869... nm\nFinal Answer: λ = 261 nm (to 3 significant figures) (1 mark for correct answer with units)\n\n**(c) Explain why gamma rays pose a greater health risk to the probe's electronics and future human occupants than UV radiation, referring to their relative positions in the electromagnetic spectrum. (4 marks)**\nGamma rays are located at the high-frequency / short-wavelength end of the electromagnetic spectrum (1 mark). This means they carry significantly more energy per photon than UV radiation (1 mark). Because of their higher energy, gamma rays are highly ionising and have much greater penetrating power (1 mark), so they can cause extensive damage to DNA, cells, and sensitive electronics by breaking molecular bonds and disrupting circuits, whereas UV radiation has lower energy and less penetrating power, causing surface damage but less internal harm (1 mark for clear cause-effect link and comparison).\n\n**(d) Compare and contrast ultrasonic waves with the electromagnetic waves used by the lidar system, focusing on their wave type and transmission through a vacuum. (3 marks)**\n*   **Contrast 1 (Wave Type):** Ultrasonic waves are longitudinal waves (1 mark), meaning particle oscillations are parallel to the direction of energy transfer, whereas electromagnetic waves (like lidar) are transverse waves (1 mark), meaning field oscillations are perpendicular to the direction of energy transfer.\n*   **Contrast 2 (Transmission through Vacuum):** Electromagnetic waves can travel through a vacuum (like space) (1 mark) because they do not require a medium for propagation. Ultrasonic waves, being sound waves, require a material medium (solid, liquid, or gas) for transmission and therefore cannot travel through a vacuum (1 mark).\n(Award up to 3 marks for two clear and correct contrasting points, or one comparison and one contrast.)",
+      "explanation": "See model answer in 'correctAnswer' field for full explanation.",
+      "hint": "For part (b), remember the wave equation that links wave speed, frequency, and wavelength (v = fλ). Also, ensure you convert your final answer into the required units of nanometres (nm) correctly.",
+      "generatedAt": "2026-04-30T19:59:34.879193"
+    },
+    {
+      "id": "s-y10-waves_advanced_007",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly developed 'FusionChef' smart oven utilises a combination of microwave and infrared (IR) radiation to precisely cook food. It uses microwaves with a frequency of 2.45 GHz to heat the internal structure of food, and IR radiation with a wavelength of 1.2 x 10^-6 m for surface browning and crisping. The speed of electromagnetic waves in a vacuum is 3.0 x 10^8 m/s.\n\na) State the type of wave that both microwaves and infrared radiation belong to, based on their oscillation direction relative to energy transfer. (1 mark)\nb) Describe how microwaves primarily transfer energy to food, in contrast to infrared radiation. (2 marks)\nc) Calculate the wavelength of the microwaves used in the oven. Show your formula, substitution, and final answer with units. (3 marks)\nd) Calculate the frequency of the infrared radiation used in the oven. Show your formula, substitution, and final answer with units. (3 marks)\ne) Explain, with reference to their positions in the electromagnetic spectrum, their typical wavelengths, and energy characteristics, why microwaves are highly effective for rapid bulk heating throughout the food, while infrared radiation is more suitable for concentrated surface browning. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Transverse waves.\n\nb) Microwaves transfer energy by causing polar molecules, primarily water within the food, to vibrate and rotate rapidly, generating heat throughout the bulk of the food. In contrast, infrared radiation is predominantly absorbed by the outermost layers and surface molecules of the food, causing them to vibrate more vigorously and heat up these surface layers.\n\nc) Formula: c = fλ\n   Rearranging for wavelength: λ = c / f\n   Convert frequency: 2.45 GHz = 2.45 × 10^9 Hz\n   Substitution: λ = (3.0 × 10^8 m/s) / (2.45 × 10^9 Hz)\n   Answer: λ ≈ 0.122 m\n\nd) Formula: c = fλ\n   Rearranging for frequency: f = c / λ\n   Substitution: f = (3.0 × 10^8 m/s) / (1.2 × 10^-6 m)\n   Answer: f = 2.5 × 10^14 Hz\n\ne) Microwaves are located at the lower-frequency, longer-wavelength end of the electromagnetic spectrum compared to infrared radiation. Their longer wavelength allows them to penetrate several centimetres deep into the food. Although individual microwave photons carry less energy than IR photons, they efficiently transfer energy by causing water molecules throughout the food's volume to resonate and rotate, leading to rapid, uniform heating from the inside out (bulk heating). Infrared radiation, being higher frequency and shorter wavelength than microwaves, carries higher energy per photon. However, its energy is primarily absorbed by the outermost layers of the food. This surface absorption, due to its interaction with molecules at the surface, causes intense heating concentrated on the exterior, which is ideal for browning and crisping without significantly heating the core.",
+      "explanation": "a) Both microwaves and infrared radiation are forms of electromagnetic radiation, which are transverse waves. This means their oscillations (of electric and magnetic fields) are perpendicular to the direction of energy transfer.\n\nb) Microwaves are particularly effective at heating water molecules (which are polar) throughout the food's volume. They cause these molecules to vibrate and rotate at a high frequency, converting the wave energy into kinetic energy (heat). Infrared radiation, however, is absorbed more effectively by the surface molecules of the food, increasing their vibrational energy and thus heating the surface layers rather than penetrating deeply.\n\nc) The relationship between the speed of a wave (c), its frequency (f), and its wavelength (λ) is given by the formula c = fλ. To find the wavelength of microwaves, we rearrange this to λ = c / f. The given frequency is 2.45 GHz, which must be converted to Hertz (Hz): 2.45 × 10^9 Hz. Substituting the values: λ = (3.0 × 10^8 m/s) / (2.45 × 10^9 Hz) ≈ 0.122 meters. This shows the calculation steps as required.\n\nd) Similarly, to find the frequency of infrared radiation, we use the rearranged formula f = c / λ. The given wavelength is 1.2 × 10^-6 m. Substituting the values: f = (3.0 × 10^8 m/s) / (1.2 × 10^-6 m) = 2.5 × 10^14 Hz. This shows the calculation steps as required.\n\ne) The explanation links the position in the EM spectrum (and thus wavelength/frequency) to the energy characteristics and practical cooking effects:\n    *   **Microwaves:** Have longer wavelengths and lower frequencies than infrared radiation. Their longer wavelength allows them to penetrate deeper into the food material (typically several centimetres), interacting with water molecules throughout the volume. Although individual microwave photons have lower energy, their ability to resonate with and agitate water molecules uniformly throughout the food leads to efficient bulk heating from within. This is why food heats 'from the inside out' in a microwave oven.\n    *   **Infrared Radiation:** Has shorter wavelengths and higher frequencies than microwaves. This means IR photons carry more energy individually. However, IR radiation is strongly absorbed by the surface molecules of the food. This concentrated absorption at the surface leads to rapid and intense heating of the exterior layers, causing browning and crisping effects. It does not penetrate significantly into the food's interior, making it ideal for surface-level cooking or heating.\n    The explanation successfully connects cause (wave properties, energy interaction) and effect (bulk heating vs. surface browning) using scientific terminology.",
+      "hint": "For parts (c) and (d), recall the wave equation that relates the speed of a wave, its frequency, and its wavelength (c = fλ). Ensure all units are consistent before calculation, converting gigahertz (GHz) to hertz (Hz). For part (e), consider how the different wavelengths of microwaves and infrared radiation affect their ability to penetrate materials and how their photon energy levels influence their interaction with food molecules at the surface versus internally.",
+      "generatedAt": "2026-04-30T19:59:59.278561"
+    },
+    {
+      "id": "s-y10-waves_advanced_008",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A newly developed atmospheric probe, 'AeroScan', is designed to study the composition of a distant planet's atmosphere. It employs two distinct wave systems:\n*   **System X:** Uses a specific electromagnetic (EM) wave for remote sensing of atmospheric gases. This EM wave has a wavelength of 2.5 x 10⁻⁷ m.\n*   **System Y:** Generates sound waves to map atmospheric turbulence. These sound waves have a frequency of 50 Hz.\n\nThe probe transmits data back to Earth using radio waves with a frequency of 2.0 GHz. The speed of light in a vacuum is 3.0 x 10⁸ m/s.\n\nThe probe detects a region of the atmosphere where the speed of sound is 150 m/s.\n\nWhich of the following statements is **correct** regarding these waves?\n",
+      "options": [
+        "A) The EM wave used by System X is in the visible light spectrum, and the wavelength of the sound wave from System Y in this atmospheric region is 0.3 m.",
+        "B) The EM wave used by System X is in the ultraviolet spectrum, and the wavelength of the sound wave from System Y in this atmospheric region is 3.0 m.",
+        "C) The radio waves used for communication have a wavelength of 0.15 m, and the EM wave from System X has a lower frequency than the radio waves.",
+        "D) The radio waves used for communication have a wavelength of 15 m, and the EM wave from System X is in the infrared spectrum."
+      ],
+      "correctAnswer": "B) The EM wave used by System X is in the ultraviolet spectrum, and the wavelength of the sound wave from System Y in this atmospheric region is 3.0 m.",
+      "explanation": "To determine the correct statement, we need to evaluate each part of the given options:\n\n**1. Identify the EM spectrum region for System X's wave:**\n*   Given wavelength (λ_X) = 2.5 x 10⁻⁷ m.\n*   Comparing this to the EM spectrum:\n    *   Gamma rays: < 10⁻¹² m\n    *   X-rays: 10⁻¹² m to 10⁻⁸ m\n    *   Ultraviolet (UV) light: 10⁻⁸ m to 4 x 10⁻⁷ m\n    *   Visible light: 4 x 10⁻⁷ m to 7 x 10⁻⁷ m\n    *   Infrared (IR): 7 x 10⁻⁷ m to 10⁻³ m\n    *   Microwaves: 10⁻³ m to 1 m\n    *   Radio waves: > 1 m\n*   A wavelength of 2.5 x 10⁻⁷ m (or 250 nm) falls within the **ultraviolet (UV) spectrum**.\n\n**2. Calculate the wavelength of System Y's sound wave:**\n*   Given frequency (f_Y) = 50 Hz.\n*   Given speed of sound (v_sound) = 150 m/s.\n*   Using the wave equation: wavelength (λ) = speed (v) / frequency (f)\n*   λ_Y = 150 m/s / 50 Hz = 3.0 m.\n\n**3. Calculate the wavelength of the radio waves for communication:**\n*   Given frequency (f_radio) = 2.0 GHz = 2.0 x 10⁹ Hz (since 1 GHz = 10⁹ Hz).\n*   Given speed of light (c) = 3.0 x 10⁸ m/s.\n*   Using the wave equation for EM waves: wavelength (λ) = speed of light (c) / frequency (f)\n*   λ_radio = (3.0 x 10⁸ m/s) / (2.0 x 10⁹ Hz) = 0.15 m.\n\n**4. Calculate the frequency of System X's EM wave (for comparison):**\n*   f_X = c / λ_X = (3.0 x 10⁸ m/s) / (2.5 x 10⁻⁷ m) = 1.2 x 10¹⁵ Hz.\n\nNow, let's evaluate each option:\n*   **A) The EM wave used by System X is in the visible light spectrum, and the wavelength of the sound wave from System Y in this atmospheric region is 0.3 m.**\n    *   First part is incorrect (it's UV, not visible).\n    *   Second part is incorrect (it's 3.0 m, not 0.3 m).\n    *   Therefore, Option A is incorrect.\n\n*   **B) The EM wave used by System X is in the ultraviolet spectrum, and the wavelength of the sound wave from System Y in this atmospheric region is 3.0 m.**\n    *   First part is correct (it's UV).\n    *   Second part is correct (it's 3.0 m).\n    *   Therefore, Option B is **correct**.\n\n*   **C) The radio waves used for communication have a wavelength of 0.15 m, and the EM wave from System X has a lower frequency than the radio waves.**\n    *   First part is correct (λ_radio = 0.15 m).\n    *   Second part is incorrect (f_X = 1.2 x 10¹⁵ Hz, while f_radio = 2.0 x 10⁹ Hz. f_X is much higher, not lower).\n    *   Therefore, Option C is incorrect.\n\n*   **D) The radio waves used for communication have a wavelength of 15 m, and the EM wave from System X is in the infrared spectrum.**\n    *   First part is incorrect (λ_radio = 0.15 m, not 15 m).\n    *   Second part is incorrect (it's UV, not IR).\n    *   Therefore, Option D is incorrect.\n\nFinal Answer is B.",
+      "hint": "Recall the wave equation (v = fλ) for both sound and electromagnetic waves, ensuring consistent units. Remember the approximate wavelength ranges for different parts of the electromagnetic spectrum to correctly classify EM waves.",
+      "generatedAt": "2026-04-30T20:00:30.568917"
+    },
+    {
+      "id": "s-y10-waves_advanced_009",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A deep-sea submersible, 'Triton-X', is engaged in scientific research, requiring robust communication with its surface support vessel, 'Ocean Explorer'.\n\n**(a)** To transmit critical emergency signals through the vast expanse of seawater, 'Triton-X' employs Extremely Low Frequency (ELF) radio waves. Explain why ELF radio waves are a more suitable choice than higher frequency electromagnetic waves, such as microwaves, for long-range communication *through* seawater. (4 marks)\n\n**(b)** When 'Triton-X' surfaces, it establishes a high-speed data link using microwaves to transmit collected scientific data to 'Ocean Explorer'. A specific microwave signal used has a frequency of 5.8 GHz.\n\n(i) Calculate the wavelength of this microwave signal in a vacuum. (Speed of light in a vacuum = 3.0 x 10^8 m/s) (3 marks)\n\n(ii) Explain how the wavelength calculated in (b)(i) would affect the diffraction of this microwave signal compared to a higher frequency 5G signal (e.g., 26 GHz) if both signals were to encounter a small rocky outcrop of similar size while travelling in air. (4 marks)",
+      "options": [],
+      "correctAnswer": "**Part (a) Explanation for ELF radio waves suitability (4 marks):**\nSeawater is a highly conductive medium. High-frequency electromagnetic waves, such as microwaves, are rapidly absorbed and significantly attenuated (lose energy) when travelling through seawater because their energy is dissipated into heating the water. In contrast, ELF radio waves have very long wavelengths, which means they interact less with the conductive seawater. So, they can penetrate conductive media like seawater much more effectively with significantly less attenuation, allowing them to travel much further for long-range communication without losing most of their signal strength.\n\n**Part (b)(i) Calculation of wavelength (3 marks):**\n*   **Formula:** Speed of wave (v) = Frequency (f) × Wavelength (λ)\n*   **Rearranging for wavelength:** λ = v / f\n*   **Substitution:**\n    *   v = 3.0 x 10^8 m/s (speed of light in a vacuum)\n    *   f = 5.8 GHz = 5.8 x 10^9 Hz\n    *   λ = (3.0 x 10^8 m/s) / (5.8 x 10^9 Hz)\n*   **Calculation:** λ ≈ 0.051724... m\n*   **Answer:** λ = 0.0517 m (or 5.17 cm) (to 3 significant figures)\n\n**Part (b)(ii) Explanation of diffraction (4 marks):**\nDiffraction is the spreading out of waves as they pass through an opening or around an obstacle. The extent of diffraction is significantly greater when the wavelength of the wave is comparable to or larger than the size of the obstacle or opening. The microwave signal at 5.8 GHz has a wavelength of approximately 0.0517 m. A 5G signal at 26 GHz would have a shorter wavelength (λ = (3.0 x 10^8 m/s) / (26 x 10^9 Hz) ≈ 0.0115 m).\n\nTherefore, the 5.8 GHz microwave signal, having a longer wavelength (approx. 0.0517 m) compared to the 26 GHz 5G signal (approx. 0.0115 m), will experience *more* diffraction around the same small rocky outcrop. This is because its longer wavelength makes it interact more significantly with the edges of the obstacle, causing it to bend and spread out more effectively into the 'shadow' region behind the outcrop.",
+      "explanation": "This question assesses the student's understanding of electromagnetic wave properties across different parts of the spectrum and their interaction with various media and obstacles. Part (a) requires explaining the suitability of ELF waves for underwater communication, linking their long wavelength to reduced attenuation in conductive media. Part (b)(i) is a direct calculation using the wave equation, testing knowledge of units and scientific notation. Part (b)(ii) extends this by requiring an explanation of diffraction, specifically relating the calculated wavelength to the degree of diffraction around an obstacle, thereby comparing two different frequencies of EM waves.",
+      "hint": "Remember the fundamental wave equation linking speed, frequency, and wavelength. For wave phenomena like attenuation and diffraction, consider how the wavelength of an electromagnetic wave relates to its interaction with the medium or the size of obstacles.",
+      "generatedAt": "2026-04-30T20:00:50.919728"
+    },
+    {
+      "id": "s-y10-waves_advanced_010",
+      "topicId": "s-y10-waves",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 10,
+      "text": "A geological survey team is employing a dual-system approach to create highly detailed subsurface maps. They use both **seismic reflection** (generating mechanical waves and detecting echoes from rock layers) and **Ground-Penetrating Radar (GPR)** (emitting electromagnetic pulses and detecting reflections from buried objects or geological interfaces). The properties of the ground significantly affect both wave types.\n\n**(a) Wave Characteristics**\n(i) State the fundamental difference in the direction of particle oscillation relative to wave propagation for a longitudinal wave compared to a transverse wave. (1 mark)\n(ii) Classify seismic waves and GPR waves as either longitudinal or transverse. (2 marks)\n    - Seismic waves:\n    - GPR waves:\n\n**(b) Seismic Wave Analysis**\nDuring a seismic survey, a transducer emits a pulse that travels through a sediment layer with an average speed of 2.1 km/s. The reflected pulse from the bedrock interface is detected 0.18 seconds after emission.\nCalculate the thickness of the sediment layer. Show your working, including the formula used and units in your final answer. (3 marks)\n\n**(c) GPR Wavelength and Attenuation**\nA GPR system uses electromagnetic waves with a frequency of 450 MHz. The speed of these waves in the wet sandy ground is 0.08 times the speed of light in a vacuum (c = 3.0 × 10¹⁰ m/s).\n(i) Calculate the wavelength of these GPR waves in the wet sandy ground. Show your working, including the formula used and units in your final answer. (3 marks)\n(ii) Explain why GPR signals generally lose energy and penetrate less deeply into wet ground compared to dry ground. (3 marks)\n\n**(d) Application Choice**\nA utility company needs to precisely locate buried plastic water pipes, which are relatively small in diameter (e.g., 0.1 m).\nExplain why GPR is a more suitable method than seismic reflection for this specific task, referring to wave properties relevant to detection resolution and material interaction. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Wave Characteristics**\n(i) In a longitudinal wave, particle oscillation is parallel to the direction of wave propagation, whereas in a transverse wave, particle oscillation is perpendicular to the direction of wave propagation.\n(ii)\n    - Seismic waves: Longitudinal\n    - GPR waves: Transverse\n\n**(b) Seismic Wave Analysis**\nFormula: distance = speed × time\nTotal distance travelled by pulse = 2.1 km/s × 0.18 s = 0.378 km = 378 m\nThickness of sediment layer = Total distance / 2\nThickness of sediment layer = 378 m / 2 = 189 m\n\nAnswer: 189 m\n\n**(c) GPR Wavelength and Attenuation**\n(i) Formula: v = fλ (where v = wave speed, f = frequency, λ = wavelength)\nSpeed of light in vacuum (c) = 3.0 × 10¹⁰ m/s\nSpeed of GPR waves in wet sandy ground (v) = 0.08 × (3.0 × 10¹⁰ m/s) = 2.4 × 10⁷ m/s\nFrequency (f) = 450 MHz = 450 × 10⁶ Hz = 4.5 × 10⁸ Hz\nWavelength (λ) = v / f = (2.4 × 10⁷ m/s) / (4.5 × 10⁸ Hz)\nWavelength (λ) ≈ 0.0533 m\n\nAnswer: 0.053 m (or 5.3 cm)\n\n(ii) Wet ground contains water, which often has dissolved salts or minerals, making it electrically conductive. As GPR (electromagnetic) waves pass through conductive media, they induce electrical currents. This process causes energy from the electromagnetic wave to be converted into heat, resulting in significant attenuation (loss of energy) and thus limiting the penetration depth compared to less conductive, dry ground.\n\n**(d) Application Choice**\nGPR is more suitable for locating small plastic pipes for the following reasons:\n1.  **Wavelength and Resolution:** GPR typically operates at much higher frequencies (e.g., 450 MHz) compared to seismic waves used for general geological surveys, resulting in significantly shorter wavelengths (e.g., ≈ 0.053 m as calculated). Shorter wavelengths provide better resolution, allowing for the detection of smaller objects like a 0.1 m diameter pipe. Seismic waves, generally having longer wavelengths, would struggle to resolve such small features.\n2.  **Interaction with Material Properties:** GPR works by reflecting off changes in electrical properties (e.g., dielectric constant or conductivity). Plastic pipes have significantly different electrical properties compared to the surrounding soil, leading to strong reflections. Seismic waves, on the other hand, reflect off changes in density or elastic properties. Plastic pipes may not have a sufficiently different density or elasticity from the soil to generate a clear seismic reflection, especially if they are small and surrounded by similar materials.",
+      "explanation": "This is an open-ended question that requires detailed answers and calculations. The model answer provides step-by-step working for calculations and comprehensive explanations for conceptual parts, linking back to core principles of wave behaviour, the electromagnetic spectrum, and material interactions.",
+      "hint": "Remember to consider how wave speed, frequency, and wavelength are interconnected, and how different wave types (mechanical vs. electromagnetic) interact with various material properties when analysing detection capabilities and wave attenuation.",
+      "generatedAt": "2026-04-30T20:01:14.608347"
+    }
+  ]
+}

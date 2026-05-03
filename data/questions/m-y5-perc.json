@@ -1,0 +1,523 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-perc_beginner_001",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "In a school, there are 50 children in a Year 5 class. 20% of these children have blue eyes. How many children in the class have blue eyes?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": "10",
+      "explanation": "To find 20% of 50, we first understand what a percentage means. 20% means 20 out of every 100, which can be written as the fraction 20/100.\n\nStep 1: Convert the percentage to a fraction: 20% = 20/100.\nStep 2: Simplify the fraction: 20/100 can be simplified by dividing both the top and bottom by 20, which gives 1/5.\nStep 3: Calculate the fraction of the total number of children: Now we need to find 1/5 of 50.\n(1/5) × 50 = 50 ÷ 5 = 10.\n\nSo, 10 children in the class have blue eyes.",
+      "hint": "Remember that a percentage is a fraction out of 100. How can you find one-fifth of the total number of children?",
+      "generatedAt": "2026-04-29T09:43:53.641694"
+    },
+    {
+      "id": "m-y5-perc_beginner_002",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "In a school talent show, 100 people voted for their favourite act. Mia's magic act received 65 votes. What percentage of the votes did Mia's act receive?",
+      "options": [
+        "A) 6.5%",
+        "B) 35%",
+        "C) 65%",
+        "D) 100%"
+      ],
+      "correctAnswer": "C) 65%",
+      "explanation": "Percentages are a way of showing a number as a fraction out of 100. \nMia's act received 65 votes out of a total of 100 votes. \nSo, as a percentage, this is 65 out of 100, which is 65%.",
+      "hint": "Remember that 'per cent' means 'out of 100'.",
+      "generatedAt": "2026-04-29T09:44:02.709326"
+    },
+    {
+      "id": "m-y5-perc_beginner_003",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "In a survey of 100 students, 37 students said their favourite fruit was apples. What percentage of the students chose apples as their favourite fruit?",
+      "options": [
+        "A) 3.7%",
+        "B) 37%",
+        "C) 63%",
+        "D) 370%"
+      ],
+      "correctAnswer": "B) 37%",
+      "explanation": "Percentages represent a value out of 100. If 37 students out of a total of 100 students chose apples, this means 37 out of every 100 students. Therefore, the percentage of students who chose apples is 37%.",
+      "hint": "Remember that 'percent' means 'per 100' or 'out of 100'.",
+      "generatedAt": "2026-04-29T09:44:12.007351"
+    },
+    {
+      "id": "m-y5-perc_beginner_004",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "What fraction, out of 100, is equivalent to 85%?",
+      "options": [
+        "A) 85/100",
+        "B) 100/85",
+        "C) 8/5",
+        "D) 85/10"
+      ],
+      "correctAnswer": "A) 85/100",
+      "explanation": "The word 'percent' means 'per hundred' or 'out of 100'. Therefore, 85% literally means 85 out of 100. As a fraction, this is written as 85/100.",
+      "hint": "Think about what the 'cent' part of 'percent' means in relation to a number.",
+      "generatedAt": "2026-04-29T09:44:21.675031"
+    },
+    {
+      "id": "m-y5-perc_beginner_005",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A baker made 100 cookies. 65% of these cookies were chocolate chip. How many chocolate chip cookies did the baker make?",
+      "options": [
+        "A) 6 cookies",
+        "B) 35 cookies",
+        "C) 65 cookies",
+        "D) 100 cookies"
+      ],
+      "correctAnswer": "C) 65 cookies",
+      "explanation": "The word 'percent' means 'out of 100'. Therefore, 65% means 65 out of every 100. Since the baker made a total of 100 cookies, 65% of them are chocolate chip cookies, which means 65 chocolate chip cookies were made.",
+      "hint": "Remember that 'per cent' literally means 'out of 100'. If you have a total of 100 items, how many does 65% represent?",
+      "generatedAt": "2026-04-29T09:44:34.098415"
+    },
+    {
+      "id": "m-y5-perc_beginner_006",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A large chocolate bar is broken into equal-sized small pieces. If 1% of the entire chocolate bar is equivalent to one small piece, how many small pieces make up the whole chocolate bar?",
+      "options": [
+        "10 pieces",
+        "50 pieces",
+        "100 pieces",
+        "1000 pieces"
+      ],
+      "correctAnswer": "100 pieces",
+      "explanation": "The word 'percent' means 'out of 100'. This means that 1% is the same as 1 out of 100. If 1% of the chocolate bar is one small piece, then one small piece represents 1/100 of the whole bar. To find the total number of small pieces in the whole chocolate bar, we need to consider that the whole bar is 100% of itself. Since 1% corresponds to 1 small piece, then 100% will correspond to 100 small pieces. Therefore, the whole chocolate bar is made up of 100 small pieces.",
+      "hint": "Think about what the symbol '%' means in terms of a fraction with a denominator of 100.",
+      "generatedAt": "2026-04-29T09:44:52.642921"
+    },
+    {
+      "id": "m-y5-perc_beginner_007",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "The word 'percent' means 'out of every 100'.\nA board game has a rule that says 25% of its squares are 'Go Back' squares.\nWhich statement best explains what 25% means in this game?",
+      "options": [
+        "A) If the board has 100 squares in total, then 25 of them are 'Go Back' squares.",
+        "B) If the board has 25 squares in total, then 100 of them are 'Go Back' squares.",
+        "C) You will always go back 25 spaces if you land on a 'Go Back' square.",
+        "D) Only 25 players can play the game at one time."
+      ],
+      "correctAnswer": "A) If the board has 100 squares in total, then 25 of them are 'Go Back' squares.",
+      "explanation": "The word 'percent' means 'out of every 100'. Therefore, 25% means 25 out of every 100.\nIn the context of the board game, if 25% of the squares are 'Go Back' squares, this means that for every 100 squares on the board, 25 of them will be 'Go Back' squares.\nOption A correctly explains this meaning.\nOption B is incorrect as it reverses the numbers. Options C and D are incorrect as they do not relate to the meaning of '25%' as 'out of 100'.",
+      "hint": "Think about what the 'per cent' part of the word means in relation to the number 100.",
+      "generatedAt": "2026-04-29T09:45:14.652330"
+    },
+    {
+      "id": "m-y5-perc_beginner_008",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which of these statements correctly explains what 75% means?",
+      "options": [
+        "75 out of 100",
+        "75 out of 10",
+        "75 out of 75",
+        "75 out of 1000"
+      ],
+      "correctAnswer": "75 out of 100",
+      "explanation": "The word 'percent' means 'out of 100'. So, 75% means 75 parts out of a total of 100 parts. Therefore, '75 out of 100' correctly explains what 75% means.",
+      "hint": "Remember that 'percent' literally means 'per hundred' or 'out of every 100'.",
+      "generatedAt": "2026-04-29T09:45:34.403173"
+    },
+    {
+      "id": "m-y5-perc_beginner_009",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A school garden has 100 plants. 32 of these plants are sunflowers. What percentage of the plants in the garden are sunflowers?",
+      "options": [
+        "A. 100%",
+        "B. 32%",
+        "C. 68%",
+        "D. 32 out of 100"
+      ],
+      "correctAnswer": "B. 32%",
+      "explanation": "A percentage is a way of showing a number as a fraction of 100. If there are 32 sunflowers out of a total of 100 plants, this means that for every 100 plants, 32 are sunflowers. So, 32 out of 100 is equal to 32%.",
+      "hint": "Remember that 'percent' means 'out of 100'. So, if you have a number out of 100, that number directly tells you the percentage.",
+      "generatedAt": "2026-04-29T09:45:52.787181"
+    },
+    {
+      "id": "m-y5-perc_beginner_010",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "In a box of 20 sweets, 30% are lemon flavoured. How many lemon flavoured sweets are in the box?",
+      "options": [
+        "A) 2",
+        "B) 6",
+        "C) 10",
+        "D) 30"
+      ],
+      "correctAnswer": "B) 6",
+      "explanation": "To find 30% of 20, you can think of 30% as 30 out of 100, or three lots of 10%.\n\nFirst, find 10% of 20:\n10% of 20 is 20 ÷ 10 = 2\n\nNext, to find 30%, multiply the value for 10% by 3:\n30% = 3 × 10%\n3 × 2 = 6\n\nSo, there are 6 lemon flavoured sweets in the box.",
+      "hint": "Remember that 'percent' means 'out of 100'. To find a percentage like 30%, it can be helpful to first find 10% of the total.",
+      "generatedAt": "2026-04-29T09:46:10.634658"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-perc_intermediate_001",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A school has 300 students. On sports day, 40% of the students participate in the running race. Of the students who *do not* participate in the running race, 25% volunteer to help organise the event. How many students volunteer to help organise the event? Show your working.",
+      "options": [
+        "45",
+        "75",
+        "120",
+        "180"
+      ],
+      "correctAnswer": "45",
+      "explanation": "Step 1: Calculate the number of students who participate in the running race.\n40% of 300 = (40/100) * 300 = 40 * 3 = 120 students.\n\nStep 2: Calculate the number of students who *do not* participate in the running race.\nTotal students - Students in running race = 300 - 120 = 180 students.\n\nStep 3: Calculate the number of students who volunteer to help organise the event.\nThis is 25% of the students who *do not* participate, which is 25% of 180.\n25% of 180 = (25/100) * 180 = (1/4) * 180 = 45 students.\n\nSo, 45 students volunteer to help organise the event.",
+      "hint": "First, calculate the number of students who *do not* participate in the running race. Then, calculate 25% of that number.",
+      "generatedAt": "2026-04-29T09:46:43.276703"
+    },
+    {
+      "id": "m-y5-perc_intermediate_002",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A shop sells a coat for £60. This selling price includes a 25% profit margin for the shop based on its original cost. The shop then decides to offer a 10% discount on the current selling price of £60. Calculate the profit the shop will make on the coat after the discount. Show your working.",
+      "options": [
+        "£6",
+        "£9",
+        "£12",
+        "£15"
+      ],
+      "correctAnswer": "£6",
+      "explanation": "Step 1: Calculate the original cost price of the coat.\nThe selling price of £60 includes a 25% profit margin based on the original cost. This means the selling price represents 100% (original cost) + 25% (profit) = 125% of the original cost.\nSo, 125% of the original cost = £60.\nTo find 100% (the original cost), divide £60 by 1.25:\nOriginal Cost = £60 / 1.25 = £48.\n\nStep 2: Calculate the discounted selling price.\nThe shop offers a 10% discount on the current selling price of £60.\nDiscount amount = 10% of £60 = 0.10 × £60 = £6.\nDiscounted Selling Price = Original Selling Price - Discount Amount = £60 - £6 = £54.\n\nStep 3: Calculate the profit after the discount.\nProfit = Discounted Selling Price - Original Cost\nProfit = £54 - £48 = £6.\n\nTherefore, the profit the shop will make after the discount is £6.",
+      "hint": "First, use the selling price and profit margin to find the original cost price. Remember that the selling price represents 100% of the cost plus the profit percentage. Then, calculate the new discounted selling price. Finally, find the difference between the discounted selling price and the original cost to get the profit.",
+      "generatedAt": "2026-04-29T09:47:06.896070"
+    },
+    {
+      "id": "m-y5-perc_intermediate_003",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A vintage guitar is valued at £950. Its value increases by 12% in the first year. In the second year, due to market changes, its value then decreases by 5% from its value at the end of the first year. Calculate the final value of the guitar after two years. Show your working.",
+      "options": [
+        "£1010.80",
+        "£1016.50",
+        "£1000.00",
+        "£1117.20"
+      ],
+      "correctAnswer": "£1010.80",
+      "explanation": "Step 1: Calculate the value after the first year's increase.\nOriginal value = £950\nIncrease = 12% of £950 = (12/100) * 950 = 0.12 * 950 = £114\nValue after first year = £950 + £114 = £1064\nAlternatively, using a multiplier: £950 * (1 + 0.12) = £950 * 1.12 = £1064\n\nStep 2: Calculate the value after the second year's decrease.\nValue at end of first year = £1064\nDecrease = 5% of £1064 = (5/100) * 1064 = 0.05 * 1064 = £53.20\nFinal value after second year = £1064 - £53.20 = £1010.80\nAlternatively, using a multiplier: £1064 * (1 - 0.05) = £1064 * 0.95 = £1010.80\n\nThe final value of the guitar after two years is £1010.80.",
+      "hint": "Remember to calculate each percentage change based on the *current* value at the start of that period, not the original value.",
+      "generatedAt": "2026-04-29T09:47:22.113654"
+    },
+    {
+      "id": "m-y5-perc_intermediate_004",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A local library has 750 fiction books in its collection at the start of the year. During the year, the number of fiction books increases by 12% due to new acquisitions. Of the total number of fiction books in the collection *after* this increase, 40% are classified as adventure stories. How many adventure stories does the library have? Show your working.",
+      "options": [
+        "264",
+        "300",
+        "336",
+        "390"
+      ],
+      "correctAnswer": "336",
+      "explanation": "Step 1: Calculate the new total number of fiction books after the increase.\nThe initial number of fiction books is 750.\nThe number increases by 12%.\n12% of 750 = 0.12 × 750 = 90.\nNew total number of fiction books = 750 + 90 = 840 books.\n(Alternatively, 750 × (1 + 0.12) = 750 × 1.12 = 840 books).\n\nStep 2: Calculate the number of adventure stories from the new total.\nOf the new total of 840 fiction books, 40% are adventure stories.\n40% of 840 = 0.40 × 840 = 336 adventure stories.\n\nTherefore, the library has 336 adventure stories.",
+      "hint": "First, calculate the new total number of fiction books after the 12% increase. Then, use this new total to find 40% of it.",
+      "generatedAt": "2026-04-29T09:47:40.816815"
+    },
+    {
+      "id": "m-y5-perc_intermediate_005",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large jar contains 320 assorted sweets. Of these sweets, 15% are green. From the sweets that are *not* green, 25% are yellow. How many yellow sweets are in the jar? Show your working.",
+      "options": [
+        "48",
+        "68",
+        "80",
+        "128"
+      ],
+      "correctAnswer": "68",
+      "explanation": "Step 1: Calculate the number of green sweets.\nGreen sweets = 15% of 320\nTo find 10% of 320, divide by 10: 32.\nTo find 5% of 320, halve 10%: 16.\nSo, 15% = 10% + 5% = 32 + 16 = 48 green sweets.\n\nStep 2: Calculate the number of sweets that are *not* green.\nTotal sweets - Green sweets = Sweets not green\n320 - 48 = 272 sweets that are not green.\n\nStep 3: Calculate the number of yellow sweets (25% of the sweets that are not green).\nYellow sweets = 25% of 272\nAs 25% is equivalent to 1/4, we can divide 272 by 4.\n272 ÷ 4 = 68 yellow sweets.\n\nTherefore, there are 68 yellow sweets in the jar.",
+      "hint": "First, calculate the number of green sweets. Then, subtract this from the total to find the number of remaining sweets. Finally, calculate 25% of that remaining amount.",
+      "generatedAt": "2026-04-29T09:47:58.413085"
+    },
+    {
+      "id": "m-y5-perc_intermediate_006",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A town has a total population of 15,000 residents. 60% of the population are adults. Of the children living in the town, 25% are under 5 years old. How many children in the town are under 5 years old? Show your working.",
+      "options": [
+        "A. 3,750",
+        "B. 9,000",
+        "C. 1,500",
+        "D. 2,250"
+      ],
+      "correctAnswer": "C. 1,500",
+      "explanation": "Step 1: Calculate the number of adults.\n60% of 15,000 = (60/100) * 15,000 = 0.60 * 15,000 = 9,000 adults.\n\nStep 2: Calculate the number of children.\nTotal population - number of adults = 15,000 - 9,000 = 6,000 children.\n(Alternatively, if 60% are adults, then 100% - 60% = 40% are children. 40% of 15,000 = 0.40 * 15,000 = 6,000 children).\n\nStep 3: Calculate the number of children under 5 years old.\n25% of the children are under 5. So, 25% of 6,000 = (25/100) * 6,000 = 0.25 * 6,000 = 1,500 children under 5.\n\nTherefore, there are 1,500 children under 5 years old in the town.",
+      "hint": "First, calculate the number of children in the town. Then, use this number to find how many are under 5 years old.",
+      "generatedAt": "2026-04-29T09:48:18.617070"
+    },
+    {
+      "id": "m-y5-perc_intermediate_007",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A school has 400 students. 65% of these students signed up for the annual talent show. From the students who signed up for the talent show, 30% were chosen to perform in the final round. Calculate the number of students chosen to perform in the final round. Show your working.",
+      "options": [
+        "78",
+        "120",
+        "260",
+        "380"
+      ],
+      "correctAnswer": "78",
+      "explanation": "Step 1: Calculate the number of students who signed up for the talent show.\n65% of 400 students = (65/100) * 400 = 0.65 * 400 = 260 students.\n\nStep 2: Calculate the number of students chosen for the final round from those who signed up.\n30% of 260 students = (30/100) * 260 = 0.30 * 260 = 78 students.\n\nTherefore, 78 students were chosen to perform in the final round.",
+      "hint": "This is a multi-step problem. First, calculate the number of students who signed up for the talent show. Then, calculate the percentage of *those* students who were chosen for the final round.",
+      "generatedAt": "2026-04-29T09:48:32.120845"
+    },
+    {
+      "id": "m-y5-perc_intermediate_008",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A furniture store buys a dining table for £320. The store applies a mark-up of 35% to the cost price to determine its selling price. During a promotional event, a customer receives an additional 15% discount on the selling price. Calculate the final price the customer pays for the dining table. Show your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the selling price after the 35% mark-up.\nMark-up amount = 35% of £320 = 0.35 × £320 = £112\nSelling price (after mark-up) = £320 + £112 = £432\n(Alternatively: £320 × 1.35 = £432)\n\nStep 2: Calculate the final price after the 15% discount.\nDiscount amount = 15% of £432 = 0.15 × £432 = £64.80\nFinal price = £432 - £64.80 = £367.20\n(Alternatively: £432 × 0.85 = £367.20)\n\nThe final price the customer pays for the dining table is £367.20.",
+      "explanation": "The problem requires two sequential percentage calculations. First, calculate the increased price due to the mark-up. Then, calculate the discounted price based on this new selling price. Each percentage is applied to the most recent value.",
+      "hint": "First, calculate the price after the initial mark-up. Then, apply the discount to this new price.",
+      "generatedAt": "2026-04-29T09:48:49.329181"
+    },
+    {
+      "id": "m-y5-perc_intermediate_009",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A factory manufactures 800 electronic components each day. 15% of these components are found to be defective and are discarded. Of the remaining non-defective components, 40% are packaged for export. Calculate the number of components packaged for export each day. Show your working.",
+      "options": [
+        "272",
+        "320",
+        "200",
+        "408"
+      ],
+      "correctAnswer": "272",
+      "explanation": "1. First, determine the percentage of non-defective components.\n   If 15% are defective, then 100% - 15% = 85% are non-defective.\n\n2. Calculate the actual number of non-defective components.\n   Number of non-defective components = 85% of 800\n   = 0.85 × 800\n   = 680 components.\n\n3. Next, calculate the number of components packaged for export from the non-defective ones.\n   40% of the remaining non-defective components are exported.\n   Number of exported components = 40% of 680\n   = 0.40 × 680\n   = 272 components.\n\nTherefore, 272 components are packaged for export each day.",
+      "hint": "Start by calculating the number of components that are *not* defective, then use that new total for the second percentage calculation.",
+      "generatedAt": "2026-04-29T09:49:06.724927"
+    },
+    {
+      "id": "m-y5-perc_intermediate_010",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A small business recorded its monthly sales. In January, the sales were £4000. In February, sales increased by 15% compared to January. In March, sales decreased by 10% compared to February. Calculate the overall percentage change in sales from January to March. Show your working.",
+      "options": [
+        "A) 3.5% decrease",
+        "B) 5.0% increase",
+        "C) 3.5% increase",
+        "D) 5.0% decrease"
+      ],
+      "correctAnswer": "C) 3.5% increase",
+      "explanation": "1.  **Calculate sales in February:**\n    January sales = £4000\n    Sales increased by 15% in February. To find the new amount, multiply the original sales by (1 + percentage increase as a decimal):\n    February sales = £4000 × (1 + 0.15) = £4000 × 1.15 = £4600\n\n2.  **Calculate sales in March:**\n    February sales = £4600\n    Sales decreased by 10% in March. To find the new amount, multiply the February sales by (1 - percentage decrease as a decimal):\n    March sales = £4600 × (1 - 0.10) = £4600 × 0.90 = £4140\n\n3.  **Calculate the overall change from January to March:**\n    Original sales (January) = £4000\n    Final sales (March) = £4140\n    Change = Final sales - Original sales = £4140 - £4000 = £140 (This is an increase).\n\n4.  **Calculate the overall percentage change:**\n    Percentage change = (Overall change / Original sales) × 100\n    Percentage change = (£140 / £4000) × 100 = 0.035 × 100 = 3.5%\n    Since the sales increased, the overall percentage change is a 3.5% increase.",
+      "hint": "First, calculate the sales for February based on the January figure. Then, use the February sales figure to calculate the March sales. Finally, compare the March sales to the original January sales to find the overall percentage change.",
+      "generatedAt": "2026-04-29T09:49:20.458386"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-perc_advanced_001",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A fruit stall has 200 apples and 100 oranges. \n20% of the apples are rotten. \n10% of the oranges are rotten. \n\nWhich of the following statements is true about the rotten fruit? Show your working.",
+      "options": [
+        "A) There are more rotten apples than rotten oranges.",
+        "B) There are more rotten oranges than rotten apples.",
+        "C) The number of rotten apples is equal to the number of rotten oranges.",
+        "D) The total number of rotten fruit is 30."
+      ],
+      "correctAnswer": "A) There are more rotten apples than rotten oranges.",
+      "explanation": "First, we need to calculate the number of rotten apples:\n20% of 200 apples.\n'Percent' means 'out of 100', so 20% is the same as 20/100.\nNumber of rotten apples = (20/100) × 200\nNumber of rotten apples = 20 × 2 = 40 rotten apples.\n\nNext, we calculate the number of rotten oranges:\n10% of 100 oranges.\n10% is the same as 10/100.\nNumber of rotten oranges = (10/100) × 100\nNumber of rotten oranges = 10 rotten oranges.\n\nNow we compare the two numbers:\nRotten apples: 40\nRotten oranges: 10\n\nSince 40 is greater than 10, there are more rotten apples than rotten oranges. Therefore, statement A is the true statement.",
+      "hint": "Remember that 'percent' means 'out of 100'. Calculate the actual number of rotten apples and rotten oranges separately before comparing them.",
+      "generatedAt": "2026-04-29T09:49:35.588262"
+    },
+    {
+      "id": "m-y5-perc_advanced_002",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A baker is preparing a special order of mini treats for a school event. He bakes a total of 250 mini treats.\n30% of these mini treats are chocolate flavour.\nOf the *remaining* mini treats, 40% are vanilla flavour.\nAll other mini treats are strawberry flavour.\nThe baker wants to pack the strawberry flavour mini treats into small boxes, with 5 mini treats in each box. How many small boxes will the baker need for all the strawberry flavour mini treats? Show your working.",
+      "options": [],
+      "correctAnswer": "Step-by-step working:\n\n1.  **Calculate the number of chocolate flavour mini treats:**\n    30% of 250.\n    To find 10% of 250, divide 250 by 10: 250 ÷ 10 = 25.\n    To find 30% (which is 3 lots of 10%), multiply 25 by 3: 3 × 25 = 75 chocolate flavour mini treats.\n\n2.  **Calculate the number of remaining mini treats:**\n    Subtract the chocolate mini treats from the total: 250 - 75 = 175 mini treats.\n\n3.  **Calculate the number of vanilla flavour mini treats:**\n    40% of the *remaining* 175 mini treats.\n    To find 10% of 175, divide 175 by 10: 175 ÷ 10 = 17.5.\n    To find 40% (which is 4 lots of 10%), multiply 17.5 by 4: 4 × 17.5 = 70 vanilla flavour mini treats.\n    (Alternatively, 40% is 4/10 or 2/5. 1/5 of 175 = 35. So 2/5 is 2 × 35 = 70 vanilla flavour mini treats).\n\n4.  **Calculate the number of strawberry flavour mini treats:**\n    Subtract the vanilla mini treats from the remaining mini treats: 175 - 70 = 105 strawberry flavour mini treats.\n\n5.  **Calculate the number of boxes needed:**\n    Divide the total number of strawberry mini treats by the number of treats per box: 105 ÷ 5 = 21 boxes.\n\nThe baker will need 21 small boxes.",
+      "explanation": "This problem involves multiple steps of calculating percentages and then performing subtractions and a final division. You must first find the number of chocolate treats, then work out how many treats are 'remaining'. Next, calculate the vanilla treats from *that remaining amount*. Finally, determine the number of strawberry treats and how many boxes they will fill.",
+      "hint": "Remember that percentages can be broken down (e.g., 30% is 3 lots of 10%). Pay close attention to whether the percentage applies to the *total* amount or the *remaining* amount after a previous step.",
+      "generatedAt": "2026-04-29T09:49:55.843973"
+    },
+    {
+      "id": "m-y5-perc_advanced_003",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A factory manufactures 2400 electronic components each day.\nOn a particular day, 75% of these components are designed for large appliances, and the remaining components are designed for small gadgets.\nOf the components designed for large appliances, 30% are found to be faulty.\nOf the components designed for small gadgets, 40% are found to be faulty.\nCalculate the total number of faulty components produced on this day. Show your working.",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working:\n\n1.  **Calculate the number of components for large appliances:**\n    75% of 2400 components = (75 / 100) × 2400\n    = 0.75 × 2400\n    = 1800 components for large appliances.\n\n2.  **Calculate the number of components for small gadgets:**\n    The remaining components are for small gadgets. If 75% are for large appliances, then 100% - 75% = 25% are for small gadgets.\n    25% of 2400 components = (25 / 100) × 2400\n    = 0.25 × 2400\n    = 600 components for small gadgets.\n    (Alternatively: 2400 total - 1800 large appliances = 600 small gadgets)\n\n3.  **Calculate the number of faulty components from large appliances:**\n    30% of the large appliance components are faulty.\n    30% of 1800 = (30 / 100) × 1800\n    = 0.30 × 1800\n    = 540 faulty components from large appliances.\n\n4.  **Calculate the number of faulty components from small gadgets:**\n    40% of the small gadget components are faulty.\n    40% of 600 = (40 / 100) × 600\n    = 0.40 × 600\n    = 240 faulty components from small gadgets.\n\n5.  **Calculate the total number of faulty components:**\n    Total faulty components = Faulty from large appliances + Faulty from small gadgets\n    = 540 + 240\n    = 780 faulty components.\n\nThe total number of faulty components produced on this day is 780.",
+      "explanation": "The problem requires calculating percentages of different sub-totals and then combining those results. First, determine the number of components in each main category (large appliances and small gadgets). Then, for each category, calculate the specific number of faulty components using the given percentages. Finally, add the numbers of faulty components from both categories to find the total.",
+      "hint": "First, find out how many components are for large appliances and how many are for small gadgets. Then, calculate the number of faulty components in each of these two groups separately, before adding them together.",
+      "generatedAt": "2026-04-29T09:50:15.070911"
+    },
+    {
+      "id": "m-y5-perc_advanced_004",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A local community centre is preparing for a fundraising event and has 500 tickets available for sale. Show your working clearly.\n\nOn Monday, 30% of the total tickets were sold.\n\nOn Tuesday, 20% of the tickets that were still available after Monday's sales were sold.\n\nOn Wednesday, the community centre decided to give away 10% of the original total number of tickets to local schools as a gesture of goodwill.\n\nHow many tickets are left for sale at the end of Wednesday?",
+      "options": [
+        "A: 200",
+        "B: 230",
+        "C: 280",
+        "D: 330"
+      ],
+      "correctAnswer": "B: 230",
+      "explanation": "Step 1: Calculate tickets sold on Monday.\nTotal tickets = 500.\nSold on Monday = 30% of 500.\nTo find 30% of 500, we can calculate (30/100) * 500 = 30 * 5 = 150 tickets.\nTickets remaining after Monday = 500 - 150 = 350 tickets.\n\nStep 2: Calculate tickets sold on Tuesday.\nSold on Tuesday = 20% of the tickets still available after Monday's sales (which is 350).\nTo find 20% of 350, we can calculate (20/100) * 350 = (1/5) * 350 = 70 tickets.\nTickets remaining after Tuesday = 350 - 70 = 280 tickets.\n\nStep 3: Calculate tickets given away on Wednesday.\nGiven away on Wednesday = 10% of the original total number of tickets (which is 500).\nTo find 10% of 500, we can calculate (10/100) * 500 = 1 * 5 = 50 tickets.\n\nStep 4: Calculate the final number of tickets left for sale.\nTickets remaining after Tuesday (280) - Tickets given away on Wednesday (50) = 280 - 50 = 230 tickets.\n\nSo, 230 tickets are left for sale at the end of Wednesday.",
+      "hint": "Remember that percentages are fractions out of 100. Be careful to check if a percentage refers to the original total amount or a remaining amount at each step of the problem.",
+      "generatedAt": "2026-04-29T09:50:36.748682"
+    },
+    {
+      "id": "m-y5-perc_advanced_005",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A local library is raising funds to buy new books. \nFirst, they used 20% of the total money collected to pay for the fundraising event expenses. \nAfter paying the expenses, 50% of the money that was left was used to buy science books. \nIf the library spent £360 on science books, what was the total amount of money initially collected in the fundraising event? \nYou must show your working.",
+      "options": [
+        "£900",
+        "£720",
+        "£864",
+        "£1080"
+      ],
+      "correctAnswer": "£900",
+      "explanation": "1.  **Find the money left after expenses:**\n    The library spent £360 on science books, which was 50% of the money left after expenses.\n    If £360 is 50% (or 1/2) of the money left, then the total money left after expenses was £360 × 2 = £720.\n\n2.  **Find the total money initially collected:**\n    The event expenses used 20% of the total money collected. This means the money *left* after expenses (£720) represents the remaining 100% - 20% = 80% of the total initial collection.\n    So, 80% of the total initial collection = £720.\n    To find 100% (the total initial collection):\n    First, find 10%: £720 ÷ 8 = £90.\n    Then, find 100%: £90 × 10 = £900.\n\n    Alternatively, knowing 80% = 4/5:\n    If 4/5 of the total is £720,\n    Then 1/5 of the total is £720 ÷ 4 = £180.\n    The total (5/5) is £180 × 5 = £900.\n\nTherefore, the total amount of money initially collected was £900.",
+      "hint": "Start by finding the total amount of money remaining *before* buying the science books. Remember that if 20% was used for expenses, the remaining amount represents 80% of the original total.",
+      "generatedAt": "2026-04-29T09:51:01.115963"
+    },
+    {
+      "id": "m-y5-perc_advanced_006",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A special giant chocolate bar is made of exactly 100 small, equally sized squares.\n\nOn Monday, Leo eats 25% of the total squares.\n\nOn Tuesday, his sister Mia eats 20% of the squares that were *left* after Leo finished.\n\nOn Wednesday, their friend Tom eats 50% of the squares that were *left* after Mia finished.\n\nHow many squares are left in the chocolate bar at the end of Wednesday? Show your working.",
+      "options": [],
+      "correctAnswer": "Here's the step-by-step working:\n\n1.  **Initial number of squares:** 100 squares.\n\n2.  **Leo's turn (Monday):**\n    *   Leo eats 25% of the total squares.\n    *   25% of 100 squares = (25/100) * 100 = 25 squares.\n    *   Squares left after Leo: 100 - 25 = 75 squares.\n\n3.  **Mia's turn (Tuesday):**\n    *   Mia eats 20% of the squares *left* after Leo (which is 75 squares).\n    *   20% of 75 squares = (20/100) * 75 = (1/5) * 75 = 15 squares.\n    *   Squares left after Mia: 75 - 15 = 60 squares.\n\n4.  **Tom's turn (Wednesday):**\n    *   Tom eats 50% of the squares *left* after Mia (which is 60 squares).\n    *   50% of 60 squares = (50/100) * 60 = (1/2) * 60 = 30 squares.\n    *   Squares left after Tom: 60 - 30 = 30 squares.\n\nTherefore, 30 squares are left in the chocolate bar at the end of Wednesday.",
+      "explanation": "The problem requires calculating percentages sequentially, with each subsequent percentage being applied to the *remaining* amount, not the original total. First, calculate the squares eaten by Leo and find the remaining amount. Then, calculate the squares eaten by Mia from *that remaining amount* and find the new remaining amount. Finally, calculate the squares eaten by Tom from *that newest remaining amount* to find the final number of squares left.",
+      "hint": "Remember to calculate the percentage for each person based on the number of squares *remaining at the start of their turn*, not the original 100 squares each time.",
+      "generatedAt": "2026-04-29T09:51:18.822595"
+    },
+    {
+      "id": "m-y5-perc_advanced_007",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A school has a storage room containing a large collection of sports equipment. There are 30 red footballs, and this represents exactly 15% of the total number of sports balls in the room. In addition to the footballs, there are blue basketballs and green tennis balls. If 40% of the total number of sports balls are blue basketballs, how many green tennis balls are there in the storage room? Show your working.",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "120"
+      ],
+      "correctAnswer": "90",
+      "explanation": "Step 1: Find the total number of sports balls.\nWe know that 15% of the total balls is 30 red footballs.\nIf 15% = 30 balls, then 1% = 30 ÷ 15 = 2 balls.\nTo find 100% (the total number of balls), we multiply 1% by 100:\nTotal balls = 2 balls × 100 = 200 balls.\n\nStep 2: Find the number of blue basketballs.\n40% of the total balls are blue basketballs.\n40% of 200 = (40/100) × 200 = 40 × 2 = 80 blue basketballs.\n\nStep 3: Calculate the number of green tennis balls.\nWe have:\nRed footballs = 30\nBlue basketballs = 80\nTotal known balls = 30 + 80 = 110 balls.\n\nThe remaining balls are green tennis balls:\nGreen tennis balls = Total balls - Total known balls\nGreen tennis balls = 200 - 110 = 90 green tennis balls.",
+      "hint": "Start by using the information about the red footballs to find the total number of sports balls in the room.",
+      "generatedAt": "2026-04-29T09:51:34.141403"
+    },
+    {
+      "id": "m-y5-perc_advanced_008",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A rare coin collector has a collection of 600 coins. Initially, 35% of these coins are made of silver. The collector then acquires 200 new coins. Of these 200 new coins, 45% are made of silver. After these new coins are added to the collection, what percentage of the *entire* collection of coins is now made of silver? Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the number of silver coins in the initial collection.\n35% of 600 coins = (35/100) × 600 = 35 × 6 = 210 silver coins.\n\nStep 2: Calculate the number of silver coins among the new coins.\n45% of 200 new coins = (45/100) × 200 = 45 × 2 = 90 silver coins.\n\nStep 3: Calculate the total number of coins in the collection now.\nTotal coins = Initial coins + New coins = 600 + 200 = 800 coins.\n\nStep 4: Calculate the total number of silver coins in the collection now.\nTotal silver coins = Initial silver coins + New silver coins = 210 + 90 = 300 silver coins.\n\nStep 5: Calculate the percentage of the entire collection that is silver.\nPercentage = (Total silver coins / Total coins) × 100\nPercentage = (300 / 800) × 100\nPercentage = (3 / 8) × 100\nPercentage = 0.375 × 100\nPercentage = 37.5%\n\nSo, 37.5% of the entire collection of coins is now made of silver.",
+      "explanation": "This advanced problem for Year 5 requires multiple steps using the understanding that a percentage represents a fraction out of 100. First, you calculate the number of silver coins from the initial collection and the new coins separately. Then, you determine the new total number of coins and the new total number of silver coins by adding them together. Finally, you calculate the overall percentage by dividing the total number of silver coins by the total number of all coins and multiplying by 100.",
+      "hint": "Break the problem down into smaller parts. First, find out how many silver coins there are from the initial collection, then how many from the new collection. After that, find the total number of coins and the total number of silver coins, before calculating the final percentage of the whole collection.",
+      "generatedAt": "2026-04-29T09:51:53.619412"
+    },
+    {
+      "id": "m-y5-perc_advanced_009",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A collector has a display case with 400 rare historical buttons.\n25% of these buttons are made of brass.\nOf the buttons that are *not* made of brass, 10% are made of silver.\nOf the buttons that are *not* made of brass or silver, 50% are made of plastic.\nHow many plastic buttons does the collector have? Show your working clearly.",
+      "options": [
+        "130",
+        "135",
+        "150",
+        "180"
+      ],
+      "correctAnswer": "135",
+      "explanation": "Step 1: Calculate the number of brass buttons.\n25% of 400 buttons = (25/100) × 400 = (1/4) × 400 = 100 brass buttons.\n\nStep 2: Calculate the number of buttons remaining after brass buttons are accounted for.\nRemaining buttons = 400 - 100 = 300 buttons.\n\nStep 3: Calculate the number of silver buttons.\n10% of the *remaining* 300 buttons = (10/100) × 300 = (1/10) × 300 = 30 silver buttons.\n\nStep 4: Calculate the number of buttons remaining after silver buttons are accounted for.\nRemaining buttons (not brass or silver) = 300 - 30 = 270 buttons.\n\nStep 5: Calculate the number of plastic buttons.\n50% of the *remaining* 270 buttons = (50/100) × 270 = (1/2) × 270 = 135 plastic buttons.\n\nTherefore, the collector has 135 plastic buttons.",
+      "hint": "Remember that each percentage is calculated from the amount of buttons *remaining* after the previous type has been counted, not the original total number of buttons each time.",
+      "generatedAt": "2026-04-29T09:52:23.319005"
+    },
+    {
+      "id": "m-y5-perc_advanced_010",
+      "topicId": "m-y5-perc",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A factory manufactures miniature building blocks. On Monday morning, the factory had a supply of 700 unpainted blocks. During the day, 40% of these blocks were painted green. From the blocks that remained unpainted, 25% were then painted yellow. How many blocks were left unpainted at the end of the day? Show your working.",
+      "options": [
+        "210",
+        "280",
+        "315",
+        "350"
+      ],
+      "correctAnswer": "315",
+      "explanation": "Step 1: Calculate the number of blocks painted green.\n40% of 700 blocks.\nTo find 10% of 700, we divide 700 by 10, which is 70.\nSo, 40% is 4 times 10%: 4 multiplied by 70 = 280 blocks painted green.\n\nStep 2: Calculate the number of blocks remaining unpainted after painting green.\nTotal initial blocks - Green blocks = 700 - 280 = 420 blocks.\n\nStep 3: Calculate the number of blocks painted yellow from the remaining blocks.\n25% of the remaining 420 blocks.\nWe know that 25% is the same as 1/4.\nSo, 1/4 of 420 = 420 divided by 4 = 105 blocks painted yellow.\n\nStep 4: Calculate the number of blocks left unpainted at the end of the day.\nRemaining blocks after green - Yellow blocks = 420 - 105 = 315 blocks.\n\nTherefore, 315 blocks were left unpainted at the end of the day.",
+      "hint": "First, calculate the number of blocks painted green. Then, calculate how many blocks are left. After that, calculate the percentage for yellow blocks from this *new* remaining total, not the original total.",
+      "generatedAt": "2026-04-29T09:52:37.283912"
+    }
+  ]
+}

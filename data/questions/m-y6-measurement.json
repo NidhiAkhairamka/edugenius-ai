@@ -1,0 +1,483 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y6-measurement_beginner_001",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A building block is shaped like a cube. Each edge of the cube measures 4 cm. What is the volume of this building block?",
+      "options": [
+        "A) 12 cm³",
+        "B) 16 cm³",
+        "C) 64 cm³",
+        "D) 48 cm³"
+      ],
+      "correctAnswer": "C) 64 cm³",
+      "explanation": "To find the volume of a cube, you multiply the length of one edge by itself three times (edge × edge × edge).\n\nFor this building block, the edge length is 4 cm.\nVolume = 4 cm × 4 cm × 4 cm\nVolume = 16 cm² × 4 cm\nVolume = 64 cm³\n\nThe correct unit for volume is cubic centimetres (cm³).",
+      "hint": "Remember that the volume of a cube is found by multiplying its side length by itself three times.",
+      "generatedAt": "2026-04-29T17:25:03.695641"
+    },
+    {
+      "id": "m-y6-measurement_beginner_002",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A rectangular garden has a length of 12 metres and a width of 8 metres. A gardener wants to plant flowers in a triangular section of the garden. This triangular section is formed by cutting the rectangular garden exactly in half, diagonally. What is the area of this triangular section where the flowers will be planted?",
+      "options": [
+        "96 square metres",
+        "48 square metres",
+        "20 square metres",
+        "24 square metres"
+      ],
+      "correctAnswer": "48 square metres",
+      "explanation": "First, calculate the area of the full rectangular garden: \nArea of rectangle = length × width\nArea of rectangle = 12 metres × 8 metres = 96 square metres.\n\nSince the triangular section is formed by cutting the rectangular garden exactly in half diagonally, the area of the triangle is half of the rectangle's area.\n\nArea of triangular section = Area of rectangle / 2\nArea of triangular section = 96 square metres / 2 = 48 square metres.",
+      "hint": "Begin by calculating the total area of the rectangular garden. Remember that a triangle formed by cutting a rectangle diagonally in half will have an area that is half of the rectangle's area.",
+      "generatedAt": "2026-04-29T17:25:18.600057"
+    },
+    {
+      "id": "m-y6-measurement_beginner_003",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A right-angled triangle has two sides that meet at the right angle. These two sides measure 8 cm and 6 cm. Calculate the area of this triangle.",
+      "options": [
+        "14 cm²",
+        "24 cm²",
+        "48 cm²",
+        "20 cm²"
+      ],
+      "correctAnswer": "24 cm²",
+      "explanation": "The area of a triangle is calculated using the formula: Area = (1/2) × base × perpendicular height.\nIn a right-angled triangle, the two sides that meet at the right angle can be considered the base and the perpendicular height.\nGiven base = 8 cm and perpendicular height = 6 cm.\nArea = (1/2) × 8 cm × 6 cm\nArea = 4 cm × 6 cm\nArea = 24 cm²",
+      "hint": "Remember the formula for the area of a triangle which involves half of the base multiplied by its perpendicular height.",
+      "generatedAt": "2026-04-29T17:25:29.829677"
+    },
+    {
+      "id": "m-y6-measurement_beginner_004",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A parallelogram has a base length of 12 cm. The perpendicular height of the parallelogram, measured from this base to the opposite side, is 5 cm. Calculate the area of the parallelogram.",
+      "options": [
+        "17 cm²",
+        "30 cm²",
+        "34 cm²",
+        "60 cm²"
+      ],
+      "correctAnswer": "60 cm²",
+      "explanation": "The area of a parallelogram is calculated using the formula: Area = base × perpendicular height.\nIn this question, the base length is 12 cm and the perpendicular height is 5 cm.\nArea = 12 cm × 5 cm\nArea = 60 cm²",
+      "hint": "Remember the formula for the area of a parallelogram.",
+      "generatedAt": "2026-04-29T17:25:43.330961"
+    },
+    {
+      "id": "m-y6-measurement_beginner_005",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A triangle has three sides with lengths of 7 cm, 9 cm, and 12 cm. Calculate the perimeter of this triangle.",
+      "options": [
+        "A) 18 cm",
+        "B) 25 cm",
+        "C) 28 cm",
+        "D) 30 cm"
+      ],
+      "correctAnswer": "C) 28 cm",
+      "explanation": "The perimeter of any polygon is the total length of all its sides added together. For this triangle, the side lengths are given as 7 cm, 9 cm, and 12 cm. To find the perimeter, you add these lengths together:\nPerimeter = 7 cm + 9 cm + 12 cm\nPerimeter = 16 cm + 12 cm\nPerimeter = 28 cm",
+      "hint": "Remember that the perimeter of any shape is the total distance around its outside edge.",
+      "generatedAt": "2026-04-29T17:26:07.134996"
+    },
+    {
+      "id": "m-y6-measurement_beginner_006",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A right-angled triangle has an area of 24 square centimetres. One of the sides that forms the right angle measures 8 centimetres. What is the length of the other side that forms the right angle?",
+      "options": [
+        "3 cm",
+        "4 cm",
+        "6 cm",
+        "12 cm"
+      ],
+      "correctAnswer": "6 cm",
+      "explanation": "The formula for the area of a right-angled triangle is Area = (1/2) × base × height.\nWe are given the Area = 24 cm² and one side forming the right angle (which can be the base) = 8 cm.\nLet the unknown length of the other side (the height) be 'h'.\nSubstitute the known values into the formula:\n24 = (1/2) × 8 × h\nFirst, calculate (1/2) × 8:\n(1/2) × 8 = 4\nSo the equation becomes:\n24 = 4 × h\nTo find 'h', divide both sides of the equation by 4:\nh = 24 / 4\nh = 6\nTherefore, the length of the other side that forms the right angle is 6 cm.",
+      "hint": "Recall the formula for the area of a right-angled triangle. Remember that the two sides forming the right angle are the base and the perpendicular height.",
+      "generatedAt": "2026-04-29T17:26:31.038522"
+    },
+    {
+      "id": "m-y6-measurement_beginner_007",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A large rectangle is cut exactly in half by a straight line from one corner to the opposite corner, forming two identical right-angled triangles. The original rectangle had a length of 8 centimetres and a width of 5 centimetres. What is the area of one of these right-angled triangles?",
+      "options": [
+        "13 cm²",
+        "20 cm²",
+        "26 cm²",
+        "40 cm²"
+      ],
+      "correctAnswer": "20 cm²",
+      "explanation": "First, calculate the area of the original rectangle. The area of a rectangle is found by multiplying its length by its width.\nArea of rectangle = Length × Width = 8 cm × 5 cm = 40 cm².\nThe question states that the rectangle is cut exactly in half to form two identical right-angled triangles. Therefore, the area of one triangle will be half the area of the rectangle.\nArea of one triangle = Area of rectangle / 2 = 40 cm² / 2 = 20 cm².",
+      "hint": "Think about how the area of a rectangle relates to the area of a right-angled triangle formed by cutting it in half.",
+      "generatedAt": "2026-04-29T17:26:47.009464"
+    },
+    {
+      "id": "m-y6-measurement_beginner_008",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A triangle has a base length of 10 centimetres. The perpendicular height of the triangle, measured from this base to the opposite vertex, is 6 centimetres. Calculate the area of this triangle.",
+      "options": [
+        "16 square centimetres",
+        "30 square centimetres",
+        "32 square centimetres",
+        "60 square centimetres"
+      ],
+      "correctAnswer": "30 square centimetres",
+      "explanation": "To find the area of a triangle, you use the formula: Area = (1/2) × base × perpendicular height.\nIn this question:\nBase = 10 cm\nPerpendicular height = 6 cm\n\nSubstitute these values into the formula:\nArea = (1/2) × 10 cm × 6 cm\nArea = (1/2) × 60 square centimetres\nArea = 30 square centimetres.",
+      "hint": "Remember that the area of a triangle is half the area of a rectangle with the same base and perpendicular height.",
+      "generatedAt": "2026-04-29T17:27:04.713830"
+    },
+    {
+      "id": "m-y6-measurement_beginner_009",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A parallelogram has a base of 8 cm and a perpendicular height of 5 cm. Calculate its area.",
+      "options": [
+        "13 cm²",
+        "26 cm²",
+        "40 cm²",
+        "80 cm²"
+      ],
+      "correctAnswer": "40 cm²",
+      "explanation": "The area of a parallelogram is calculated by multiplying its base by its perpendicular height.\nArea = Base × Perpendicular Height\nArea = 8 cm × 5 cm\nArea = 40 cm²",
+      "hint": "Remember the formula for the area of a parallelogram. It involves multiplying the base length by the perpendicular height.",
+      "generatedAt": "2026-04-29T17:27:19.515636"
+    },
+    {
+      "id": "m-y6-measurement_beginner_010",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A cube has a side length of 4 centimetres. Calculate its volume.",
+      "options": [
+        "16 cm³",
+        "64 cm³",
+        "12 cm³",
+        "24 cm³"
+      ],
+      "correctAnswer": "64 cm³",
+      "explanation": "To calculate the volume of a cube, you multiply the side length by itself three times (side × side × side).\nGiven side length = 4 cm.\nVolume = 4 cm × 4 cm × 4 cm\nVolume = 16 cm² × 4 cm\nVolume = 64 cm³",
+      "hint": "Remember the formula for the volume of a cube: length × width × height. For a cube, all sides are equal.",
+      "generatedAt": "2026-04-29T17:28:38.811771"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y6-measurement_intermediate_001",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A parallelogram has a base length of 8 cm and a perpendicular height of 5 cm. Calculate the area of the parallelogram. A cube has a side length that is numerically equal to half of the parallelogram's area. Calculate the volume of this cube. Show your working clearly.",
+      "options": [
+        "64 cm³",
+        "400 cm³",
+        "8000 cm³",
+        "64000 cm³"
+      ],
+      "correctAnswer": "8000 cm³",
+      "explanation": "Step 1: Calculate the area of the parallelogram.\nArea of parallelogram = base × perpendicular height\nArea = 8 cm × 5 cm = 40 cm²\n\nStep 2: Determine the side length of the cube.\nThe side length of the cube is numerically equal to half of the parallelogram's area.\nSide length (numerical value) = 40 / 2 = 20.\nTherefore, the side length of the cube is 20 cm.\n\nStep 3: Calculate the volume of the cube.\nVolume of cube = side³\nVolume = (20 cm)³ = 20 × 20 × 20 = 8000 cm³",
+      "hint": "Start by finding the area of the parallelogram using the given base and perpendicular height. Then, use that area to determine the side length of the cube before calculating its volume.",
+      "generatedAt": "2026-04-29T17:29:09.776138"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_002",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A builder needs to tile a wall. Part of the wall is shaped like a triangle, with a base of 12 cm and a perpendicular height of 10 cm. Another part of the wall is shaped like a parallelogram, which needs to have an area exactly one-and-a-half times the area of the triangular part. If the parallelogram has a base of 15 cm, calculate the perpendicular height of the parallelogram. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the area of the triangular part.\nArea of a triangle = (1/2) × base × perpendicular height\nArea = (1/2) × 12 cm × 10 cm\nArea = 6 cm × 10 cm\nArea = 60 cm²\n\nStep 2: Calculate the required area of the parallelogram.\nThe parallelogram's area needs to be one-and-a-half times (1.5) the area of the triangular part.\nRequired Area of parallelogram = 1.5 × 60 cm²\nRequired Area of parallelogram = 90 cm²\n\nStep 3: Calculate the perpendicular height of the parallelogram.\nArea of a parallelogram = base × perpendicular height\nWe know the required area is 90 cm² and the base is 15 cm.\n90 cm² = 15 cm × perpendicular height\nPerpendicular height = 90 cm² / 15 cm\nPerpendicular height = 6 cm\n\nThe perpendicular height of the parallelogram must be 6 cm.",
+      "explanation": "The problem requires a sequence of calculations. First, the area of the triangular section is found using its given base and height. Second, this calculated area is scaled by 1.5 to determine the required area for the parallelogram. Finally, using the parallelogram's area formula and its given base, the unknown perpendicular height is calculated by rearranging the formula.",
+      "hint": "Remember the formulas for the area of a triangle and the area of a parallelogram. Work out the area of the triangle first, then use that to find the parallelogram's area.",
+      "generatedAt": "2026-04-29T17:29:26.755073"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_003",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A rectangular plot of land measures 12 metres in length and 8 metres in width. Within this plot, there is a triangular pond and a parallelogram-shaped patio. \n\nThe triangular pond has a base of 5 metres and a perpendicular height of 4 metres.\n\nThe parallelogram-shaped patio has a base of 6 metres and a perpendicular height of 3.5 metres.\n\nThe remaining area of the plot, not covered by the pond or patio, is covered with grass.\n\n1.  Calculate the area of the plot covered with grass. Show your working.\n2.  Fertiliser for the grass costs £2.50 per square metre. Calculate the total cost to fertilise the grass. Show your working.",
+      "options": [],
+      "correctAnswer": "Part 1: Calculate the area of the plot covered with grass.\n\nStep 1: Calculate the area of the rectangular plot.\nArea of rectangle = length × width\nArea of plot = 12 m × 8 m = 96 m²\n\nStep 2: Calculate the area of the triangular pond.\nArea of triangle = ½ × base × perpendicular height\nArea of pond = ½ × 5 m × 4 m = ½ × 20 m² = 10 m²\n\nStep 3: Calculate the area of the parallelogram-shaped patio.\nArea of parallelogram = base × perpendicular height\nArea of patio = 6 m × 3.5 m = 21 m²\n\nStep 4: Calculate the area of the grass.\nArea of grass = Area of plot - Area of pond - Area of patio\nArea of grass = 96 m² - 10 m² - 21 m²\nArea of grass = 86 m² - 21 m² = 65 m²\n\nPart 2: Calculate the total cost to fertilise the grass.\n\nStep 5: Calculate the total cost of fertiliser.\nTotal cost = Area of grass × cost per square metre\nTotal cost = 65 m² × £2.50/m²\nTotal cost = £162.50\n\nFinal Answer: The area of the plot covered with grass is 65 m², and the total cost to fertilise the grass is £162.50.",
+      "explanation": "This is an open-ended question. The full model answer with step-by-step working is provided in the 'correctAnswer' field.",
+      "hint": "Remember the formulas for the area of a rectangle, a triangle, and a parallelogram. You will need to calculate multiple areas and combine them to find the final area for the grass. Then, use that area to determine the total cost.",
+      "generatedAt": "2026-04-29T17:29:42.452712"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_004",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A flat piece of metal is shaped like a parallelogram. It has a base length of 12 cm and a perpendicular height of 7 cm. A craftsman wants to cut a triangular piece of metal from a larger sheet, ensuring it has the exact same area as the parallelogram. If the triangular piece needs to have a perpendicular height of 6 cm, what must be the length of its base? Show your working clearly.",
+      "options": [
+        "14 cm",
+        "24 cm",
+        "28 cm",
+        "42 cm"
+      ],
+      "correctAnswer": "28 cm",
+      "explanation": "1.  **Calculate the area of the parallelogram:**\n    The formula for the area of a parallelogram is Base × Perpendicular Height.\n    Area = 12 cm × 7 cm = 84 cm²\n\n2.  **Use this area to find the base of the triangle:**\n    The triangular piece of metal must have the same area as the parallelogram, so its area is also 84 cm².\n    The formula for the area of a triangle is (1/2) × Base × Perpendicular Height.\n    We know: Area = 84 cm², Perpendicular Height = 6 cm.\n    So, 84 cm² = (1/2) × Base × 6 cm\n    84 = 3 × Base\n\n    To find the Base, divide the area by 3:\n    Base = 84 / 3 = 28 cm\n\n    Therefore, the length of the triangle's base must be 28 cm.",
+      "hint": "First, calculate the area of the parallelogram. Then, use that area with the formula for the area of a triangle to find the missing base length.",
+      "generatedAt": "2026-04-29T17:30:06.777921"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_005",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A solid wooden block is shaped like a cuboid. The bottom face of the cuboid is a square. One of the rectangular side faces has an area of 72 square centimetres. The height of the wooden block is 6 centimetres. Calculate the total volume of the wooden block. Show your working.",
+      "options": [
+        "A) 432 cubic centimetres",
+        "B) 576 cubic centimetres",
+        "C) 864 cubic centimetres",
+        "D) 1728 cubic centimetres"
+      ],
+      "correctAnswer": "C) 864 cubic centimetres",
+      "explanation": "1. First, we need to find the length of the side of the square base. We know that one of the rectangular side faces has an area of 72 square centimetres and its height is 6 centimetres.\n   The area of a rectangle is found by multiplying its length by its width.\n   For the side face: Area = (length of base side) × height\n   72 cm² = (length of base side) × 6 cm\n   To find the length of the base side, divide the area by the height:\n   Length of base side = 72 cm² / 6 cm = 12 cm.\n\n2. Since the bottom face of the cuboid is a square, its length and width are both 12 cm.\n\n3. Now we can calculate the total volume of the cuboid. The volume of a cuboid is found by multiplying its length, width, and height.\n   Volume = Length × Width × Height\n   Volume = 12 cm × 12 cm × 6 cm\n   Volume = 144 cm² × 6 cm\n   Volume = 864 cubic centimetres.",
+      "hint": "Think about how the area of a side face relates to the dimensions of the base. Once you have all three dimensions (length, width, height), you can calculate the volume.",
+      "generatedAt": "2026-04-29T17:30:31.432816"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_006",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A flat sheet of metal is shaped like a parallelogram. It has a base length of 15 cm and a perpendicular height of 8 cm. This sheet is melted down and cast into a solid rectangular prism. The length of the prism is 10 cm, and its cross-sectional area is equal to the area of the original parallelogram. All of this rectangular prism is then cut into small cubes, each with a side length of 2 cm. Calculate the total number of 2 cm cubes that can be made. Show your working clearly. (4 marks)",
+      "options": [],
+      "correctAnswer": "Here's the step-by-step working:\n\n1.  **Calculate the area of the parallelogram:**\n    The formula for the area of a parallelogram is base × perpendicular height.\n    Area = 15 cm × 8 cm = 120 cm².\n\n2.  **Calculate the volume of the rectangular prism:**\n    The cross-sectional area of the prism is equal to the area of the parallelogram, which is 120 cm². The length of the prism is 10 cm.\n    The formula for the volume of a prism is cross-sectional area × length.\n    Volume = 120 cm² × 10 cm = 1200 cm³.\n\n3.  **Calculate the volume of one small cube:**\n    The side length of each cube is 2 cm.\n    The formula for the volume of a cube is side × side × side.\n    Volume of one cube = 2 cm × 2 cm × 2 cm = 8 cm³.\n\n4.  **Calculate the total number of cubes:**\n    Divide the total volume of the rectangular prism by the volume of one small cube.\n    Number of cubes = Total volume of prism / Volume of one cube\n    Number of cubes = 1200 cm³ / 8 cm³ = 150\n\nTherefore, 150 cubes can be made.",
+      "explanation": "The problem requires several steps. First, you calculate the area of the parallelogram using its given base and perpendicular height. This area then becomes the cross-sectional area of the rectangular prism. Next, you use the cross-sectional area and the given length of the prism to find its total volume. Finally, you calculate the volume of one small cube and divide the total volume of the prism by the volume of a single cube to find out how many cubes can be made.",
+      "hint": "Start by finding the area of the parallelogram, then use this to calculate the volume of the rectangular prism, and finally determine how many small cubes can be made from that volume.",
+      "generatedAt": "2026-04-29T17:30:50.443131"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_007",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A flat shape is formed like a triangle. This triangle has a base length of 12 centimetres and a perpendicular height of 5 centimetres. A solid cube is then created where the length of each of its edges is exactly the same numerical value as the area of this triangular shape (when the area is measured in square centimetres). Calculate the total volume of this solid cube in cubic centimetres. Show all your working.",
+      "options": [
+        "A) 27000 cm³",
+        "B) 216000 cm³",
+        "C) 90 cm³",
+        "D) 900 cm³"
+      ],
+      "correctAnswer": "A) 27000 cm³",
+      "explanation": "Step 1: Calculate the area of the triangle.\nThe formula for the area of a triangle is (0.5 * base * perpendicular height).\nArea = 0.5 * 12 cm * 5 cm = 6 cm * 5 cm = 30 cm².\n\nStep 2: Determine the side length of the cube.\nThe problem states that the length of each edge of the cube is the same numerical value as the area of the triangle.\nSo, the side length (s) of the cube = 30 cm.\n\nStep 3: Calculate the volume of the cube.\nThe formula for the volume of a cube is (side * side * side) or s³.\nVolume = 30 cm * 30 cm * 30 cm = 900 cm² * 30 cm = 27000 cm³.",
+      "hint": "First, find the area of the triangular shape using the correct formula. Remember that the calculated area (in cm²) will then become the numerical value for the side length of the cube (in cm).",
+      "generatedAt": "2026-04-29T17:31:10.738251"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_008",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A piece of mosaic tile is shaped like a parallelogram. It has a base length of 9 centimetres and a perpendicular height of 4 centimetres. This tile is used to determine the size of a solid wooden block. The area of the parallelogram tile is exactly the same as the area of one square face of the wooden block. The wooden block is a perfect cube. Calculate the total volume of this wooden cube in cubic centimetres. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the area of the parallelogram tile.\nArea of parallelogram = base × perpendicular height\nArea = 9 cm × 4 cm = 36 cm²\n\nStep 2: Use the area of the parallelogram to find the side length of the cube.\nThe area of one square face of the cube is equal to the area of the parallelogram tile, so the face area is 36 cm².\nFor a square, Area = side × side.\n36 cm² = side × side\nSince 6 × 6 = 36, the side length of the cube is 6 cm.\n\nStep 3: Calculate the volume of the cube.\nVolume of a cube = side × side × side\nVolume = 6 cm × 6 cm × 6 cm = 216 cm³\n\nTherefore, the total volume of the wooden cube is 216 cm³.",
+      "explanation": "The problem requires two main steps. First, you calculate the area of the parallelogram using the formula base multiplied by perpendicular height. This area then represents the area of one face of the cube. Since a cube's face is a square, you need to find the side length of the square whose area is the calculated value (36 cm²). Finally, once you have the side length of the cube (6 cm), you can calculate its volume using the formula side multiplied by itself three times (6 × 6 × 6).",
+      "hint": "Start by finding the area of the parallelogram. This area will help you work out the side length of the cube before you calculate its volume.",
+      "generatedAt": "2026-04-29T17:31:29.121529"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_009",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A solid cube has all its side lengths equal to 6 cm. One of its square faces is partially covered by a triangular sticker. The sticker is a triangle with a base length of 4 cm and a perpendicular height of 3 cm. Calculate the area of the square face that is NOT covered by the sticker. Show your working.",
+      "options": [
+        "24 cm²",
+        "30 cm²",
+        "36 cm²",
+        "42 cm²"
+      ],
+      "correctAnswer": "30 cm²",
+      "explanation": "Step 1: Calculate the area of one square face of the cube.\nSince all side lengths of the cube are 6 cm, one square face has sides of 6 cm.\nArea of a square = side × side\nArea = 6 cm × 6 cm = 36 cm²\n\nStep 2: Calculate the area of the triangular sticker.\nThe sticker is a triangle with a base length of 4 cm and a perpendicular height of 3 cm.\nArea of a triangle = (1/2) × base × perpendicular height\nArea = (1/2) × 4 cm × 3 cm = (1/2) × 12 cm² = 6 cm²\n\nStep 3: Subtract the area of the sticker from the total area of the square face to find the uncovered area.\nUncovered area = Area of square face - Area of triangular sticker\nUncovered area = 36 cm² - 6 cm² = 30 cm²",
+      "hint": "First, find the area of the square face of the cube. Then, calculate the area of the triangular sticker. Finally, subtract the area of the sticker from the area of the square face.",
+      "generatedAt": "2026-04-29T17:31:44.970105"
+    },
+    {
+      "id": "m-y6-measurement_intermediate_010",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A designer is working with geometric shapes. One flat shape is a parallelogram with a base length of 8 cm and a perpendicular height of 4.5 cm.\n\nFirst, calculate the area of this parallelogram. Show your working.\n\nSecondly, imagine a solid cube where the area of one of its square faces is exactly the same as the area of the parallelogram. Calculate the total volume of this cube. Show your working.\n\n(Working is required for full marks.)",
+      "options": [
+        "125 cm³",
+        "216 cm³",
+        "343 cm³",
+        "64 cm³"
+      ],
+      "correctAnswer": "216 cm³",
+      "explanation": "Step 1: Calculate the area of the parallelogram.\nFormula for Area of a parallelogram = base × perpendicular height\nArea = 8 cm × 4.5 cm\nArea = 36 cm²\n\nStep 2: Determine the side length of the cube.\nThe question states that the area of one square face of the cube is exactly the same as the area of the parallelogram. So, the area of one face of the cube is 36 cm².\nFor a square face, the Area = side × side (s²).\ns² = 36 cm²\nTo find the side length (s), take the square root of 36:\ns = √36 cm\ns = 6 cm\n\nStep 3: Calculate the volume of the cube.\nFormula for Volume of a cube = side × side × side (s³)\nVolume = 6 cm × 6 cm × 6 cm\nVolume = 216 cm³",
+      "hint": "Start by finding the area of the parallelogram. Then, use this area to work out the side length of the cube before calculating its volume.",
+      "generatedAt": "2026-04-29T17:32:08.003132"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y6-measurement_advanced_001",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A school playground has a special section for gardening.\nFirst, there is a large flower bed shaped like a parallelogram. The base of the parallelogram is 10 metres and its perpendicular height is 6 metres.\nInside this large flower bed, a smaller triangular patch is designated for planting herbs. The base of this triangular patch is 4 metres and its perpendicular height is 3 metres. The triangular patch is *not* to be filled with new topsoil.\nSeparately, the students built a cubical planter box to grow vegetables. Each edge of this cubical planter box measures 2 metres.\n\nThe school wants to fill the part of the large flower bed *not* covered by the triangular herb patch with a 20cm layer of topsoil. They also want to completely fill the cubical planter box with soil.\n\nWhat is the total volume of soil, in cubic metres, that the school needs to order for both the flower bed (excluding the herb patch) and the cubical planter box?\nShow your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "To find the total volume of soil needed, we must calculate the volume for the flower bed and the volume for the cubical planter box separately, then add them together.\n\n**Step 1: Calculate the area of the parallelogram flower bed.**\nArea of parallelogram = base × perpendicular height\nArea = 10 m × 6 m = 60 m²\n\n**Step 2: Calculate the area of the triangular herb patch.**\nArea of triangle = (base × perpendicular height) ÷ 2\nArea = (4 m × 3 m) ÷ 2 = 12 m² ÷ 2 = 6 m²\n\n**Step 3: Calculate the area of the flower bed that needs soil.**\nArea for soil = Area of parallelogram - Area of triangular patch\nArea for soil = 60 m² - 6 m² = 54 m²\n\n**Step 4: Convert the depth of topsoil to metres and calculate the volume for the flower bed.**\nDepth = 20 cm = 0.2 m\nVolume for flower bed = Area for soil × depth\nVolume = 54 m² × 0.2 m = 10.8 m³\n\n**Step 5: Calculate the volume of the cubical planter box.**\nVolume of cube = edge × edge × edge\nVolume = 2 m × 2 m × 2 m = 8 m³\n\n**Step 6: Calculate the total volume of soil needed.**\nTotal volume = Volume for flower bed + Volume for cubical planter box\nTotal volume = 10.8 m³ + 8 m³ = 18.8 m³\n\n**Answer:** The school needs to order a total of 18.8 cubic metres of soil.",
+      "explanation": "This is an open-ended question. The step-by-step working is provided in the 'correctAnswer' field, showing the calculation for the area of the parallelogram, the area of the triangle, the subtraction to find the area needing soil, the unit conversion for depth, the volume calculation for the flower bed, the volume calculation for the cubical planter, and finally the summation of these volumes to reach the total.",
+      "hint": "Remember to convert all units to metres before calculating volumes, and think carefully about which parts of the garden need soil.",
+      "generatedAt": "2026-04-29T17:32:29.180573"
+    },
+    {
+      "id": "m-y6-measurement_advanced_002",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A craft shop sells various items.\n\n**(a)** They sell small, solid wooden blocks for decorating. Each block is a cube with a side length of 5 cm. The shop has an order for 200 of these wooden blocks. Calculate the total volume of all 200 wooden blocks. Show your working clearly. (3 marks)\n\n**(b)** The shop displays these items on a special mat. This mat is shaped like a parallelogram, with a base length of 60 cm and a perpendicular height of 40 cm. Calculate the total area of this parallelogram mat. If the mat costs £0.02 per square centimetre, what is the total cost of the mat? Show your working clearly. (4 marks)\n\n**(c)** For a special promotion, the shop creates decorative triangular labels to place on the mats. Each triangular label has a base of 6 cm and a perpendicular height of 8 cm. Calculate the area of one of these triangular labels. If one triangular label is placed exactly in the centre of the parallelogram display mat (from part b), what percentage of the mat's total area does this single label cover? Show your working clearly. (5 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Total Volume of Wooden Blocks:**\n1.  **Volume of one cube:** The formula for the volume of a cube is side × side × side (or side³).\n    Volume = 5 cm × 5 cm × 5 cm = 125 cm³.\n2.  **Total volume of 200 cubes:**\n    Total Volume = 125 cm³ × 200 = 25000 cm³.\n    *Total Volume = 25000 cm³*\n\n**(b) Area and Cost of Parallelogram Mat:**\n1.  **Area of the parallelogram mat:** The formula for the area of a parallelogram is base × perpendicular height.\n    Area = 60 cm × 40 cm = 2400 cm².\n2.  **Total cost of the mat:** The cost is £0.02 per square centimetre.\n    Cost = 2400 cm² × £0.02/cm² = £48.00.\n    *Area = 2400 cm²*\n    *Total Cost = £48.00*\n\n**(c) Area of Triangular Label and Percentage Coverage:**\n1.  **Area of one triangular label:** The formula for the area of a triangle is 0.5 × base × perpendicular height.\n    Area = 0.5 × 6 cm × 8 cm = 24 cm².\n2.  **Percentage of mat's area covered:**\n    Percentage = (Area of triangle / Area of parallelogram mat) × 100%\n    Percentage = (24 cm² / 2400 cm²) × 100%\n    Percentage = (1 / 100) × 100% = 1%\n    *Area of label = 24 cm²*\n    *Percentage coverage = 1%*",
+      "explanation": "The problem requires calculating volumes, areas, and percentages using given dimensions. Part (a) involves finding the volume of a single cube and then multiplying by the number of cubes. Part (b) uses the formula for the area of a parallelogram (base × perpendicular height) and then calculates a total cost based on that area. Part (c) involves finding the area of a triangle (0.5 × base × perpendicular height) and then expressing this area as a percentage of the parallelogram's area calculated in part (b). All steps require careful application of the correct geometric formulas and arithmetic.",
+      "hint": "Remember the specific formulas for the volume of a cube (side × side × side), the area of a parallelogram (base × perpendicular height), and the area of a triangle (half × base × perpendicular height). When calculating percentages, divide the part by the whole and multiply by 100.",
+      "generatedAt": "2026-04-29T17:32:58.417102"
+    },
+    {
+      "id": "m-y6-measurement_advanced_003",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A museum is constructing a new display stand. The stand is a solid wooden block in the shape of a cuboid. Its base is a square with sides measuring 20 cm each, and its height is 15 cm.\n\nThe four vertical side surfaces of this display stand are to be covered with special decorative parallelogram tiles. Each parallelogram tile has a base of 10 cm and a perpendicular height of 6 cm.\n\nThe top surface of the display stand is smooth and flat. Small, solid wooden cubes are to be placed side-by-side on this top surface without any gaps or overlaps. Each small wooden cube has a side length of 4 cm.\n\nWorking is required for all parts.\n\nCalculate the following:\n1.  The area of the top surface of the display stand, in cm².\n2.  The total area of the four vertical side surfaces of the display stand, in cm².\n3.  The number of parallelogram tiles needed to cover the four vertical side surfaces.\n4.  The number of small wooden cubes that can fit exactly on the top surface of the display stand.\n5.  The total volume of all the small wooden cubes placed on the top surface, in cm³.",
+      "options": [],
+      "correctAnswer": "1. Area of the top surface: 400 cm²\n2. Total area of the four vertical side surfaces: 1200 cm²\n3. Number of parallelogram tiles needed: 20 tiles\n4. Number of small wooden cubes on top surface: 25 cubes\n5. Total volume of all small wooden cubes: 1600 cm³",
+      "explanation": "Here are the step-by-step calculations:\n\n**Part 1: Area of the top surface of the display stand**\nThe top surface is a square with sides of 20 cm.\nArea of a square = side × side\nArea = 20 cm × 20 cm = 400 cm².\n\n**Part 2: Total area of the four vertical side surfaces of the display stand**\nEach vertical side surface is a rectangle with dimensions 20 cm (base of cuboid) by 15 cm (height of cuboid).\nArea of one side surface = length × height = 20 cm × 15 cm = 300 cm².\nSince there are four identical side surfaces, the total area is:\nTotal Area = 4 × 300 cm² = 1200 cm².\n\n**Part 3: Number of parallelogram tiles needed**\nFirst, calculate the area of one parallelogram tile:\nArea of a parallelogram = base × perpendicular height\nArea = 10 cm × 6 cm = 60 cm².\nTo find how many tiles are needed, divide the total side area by the area of one tile:\nNumber of tiles = Total side area / Area of one tile\nNumber of tiles = 1200 cm² / 60 cm² = 20 tiles.\n\n**Part 4: Number of small wooden cubes that can fit exactly on the top surface**\nThe top surface is a square of 20 cm by 20 cm.\nThe base of each small wooden cube is a square of 4 cm by 4 cm.\nAlong one edge of the top surface, the number of cubes that can fit is 20 cm / 4 cm = 5 cubes.\nAlong the other edge of the top surface, the number of cubes that can fit is 20 cm / 4 cm = 5 cubes.\nTotal number of cubes = 5 cubes × 5 cubes = 25 cubes.\n\n**Part 5: Total volume of all the small wooden cubes placed on the top surface**\nFirst, calculate the volume of one small wooden cube:\nVolume of a cube = side × side × side\nVolume = 4 cm × 4 cm × 4 cm = 64 cm³.\nSince 25 cubes are placed on the top surface (from Part 4), the total volume of these cubes is:\nTotal volume = Number of cubes × Volume of one cube\nTotal volume = 25 × 64 cm³ = 1600 cm³.",
+      "hint": "Remember the formulas for the area of a square (side × side), the area of a rectangle (length × width), the area of a parallelogram (base × perpendicular height), and the volume of a cube (side × side × side). For fitting objects onto a surface, consider how many can fit along each dimension first.",
+      "generatedAt": "2026-04-29T17:33:26.699461"
+    },
+    {
+      "id": "m-y6-measurement_advanced_004",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A young designer is creating a set of three geometric items for a project.\n\nItem 1 is a flat, triangular piece of recycled card. The base of the triangle is 10 cm and its perpendicular height is 8 cm.\nItem 2 is a flat, parallelogram-shaped piece of fabric. One side of the parallelogram measures 12 cm, and the perpendicular distance to the opposite parallel side is 5 cm.\nItem 3 is a solid, clear plastic cube. Each edge of the cube measures 3 cm.\n\nThe recycled card costs £0.02 per square centimetre.\nThe fabric costs £0.05 per square centimetre.\nThe clear plastic costs £0.10 per cubic centimetre.\n\nCalculate the total cost of these three items. Show all your working.",
+      "options": [],
+      "correctAnswer": "Here is the step-by-step working to find the total cost:\n\n**Step 1: Calculate the area and cost of the triangular card.**\nArea of a triangle = (base × perpendicular height) ÷ 2\nArea of card = (10 cm × 8 cm) ÷ 2\nArea of card = 80 cm² ÷ 2\nArea of card = 40 cm²\nCost of card = Area × Price per square centimetre\nCost of card = 40 cm² × £0.02/cm²\nCost of card = £0.80\n\n**Step 2: Calculate the area and cost of the parallelogram fabric.**\nArea of a parallelogram = base × perpendicular height\nArea of fabric = 12 cm × 5 cm\nArea of fabric = 60 cm²\nCost of fabric = Area × Price per square centimetre\nCost of fabric = 60 cm² × £0.05/cm²\nCost of fabric = £3.00\n\n**Step 3: Calculate the volume and cost of the plastic cube.**\nVolume of a cube = edge × edge × edge\nVolume of cube = 3 cm × 3 cm × 3 cm\nVolume of cube = 27 cm³\nCost of cube = Volume × Price per cubic centimetre\nCost of cube = 27 cm³ × £0.10/cm³\nCost of cube = £2.70\n\n**Step 4: Calculate the total cost of all three items.**\nTotal cost = Cost of card + Cost of fabric + Cost of cube\nTotal cost = £0.80 + £3.00 + £2.70\nTotal cost = £6.50",
+      "explanation": "The question requires calculating the area of a triangle, the area of a parallelogram, and the volume of a cube. For each geometric item, the calculated area or volume is then multiplied by its specific cost per unit (square centimetre or cubic centimetre). Finally, all three individual costs are added together to find the total cost. This involves understanding and applying three distinct geometric formulae and performing subsequent multiplication and addition.",
+      "hint": "Remember the formulae: Area of a triangle = (base × height) / 2; Area of a parallelogram = base × perpendicular height; Volume of a cube = edge × edge × edge. Calculate each item's property (area/volume) first, then its cost, before adding all costs together.",
+      "generatedAt": "2026-04-29T17:33:45.630996"
+    },
+    {
+      "id": "m-y6-measurement_advanced_005",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A toy manufacturer produces various interlocking plastic components. \nOne component is a flat, thin panel shaped like a parallelogram, with a base length of 15 cm and a perpendicular height of 8 cm.\nAnother component is a flat triangular panel, with a base length of 12 cm and a perpendicular height of 10 cm.\nThe manufacturer also makes solid cube connectors, where each side of the cube measures 4 cm.\n\nA new toy set contains:\n*   2 of the parallelogram panels\n*   3 of the triangular panels\n*   5 of the solid cube connectors\n\n**(a)** What is the total area of all the flat panels in the toy set? (2 marks - Working required)\n**(b)** What is the total volume of all the solid cube connectors in the toy set? (2 marks - Working required)\n**(c)** Compare the numerical values of your answers from part (a) and part (b). Is the total area of the panels numerically greater than, less than, or equal to the total volume of the cube connectors? (1 mark)",
+      "options": [],
+      "correctAnswer": "**(a) Total Area of Panels:**\nArea of one parallelogram = base × height = 15 cm × 8 cm = 120 cm²\nTotal area of 2 parallelogram panels = 2 × 120 cm² = 240 cm²\n\nArea of one triangle = (base × height) / 2 = (12 cm × 10 cm) / 2 = 60 cm²\nTotal area of 3 triangular panels = 3 × 60 cm² = 180 cm²\n\nTotal area of all flat panels = 240 cm² + 180 cm² = **420 cm²**\n\n**(b) Total Volume of Cube Connectors:**\nVolume of one cube = side × side × side = 4 cm × 4 cm × 4 cm = 64 cm³\nTotal volume of 5 solid cube connectors = 5 × 64 cm³ = **320 cm³**\n\n**(c) Comparison:**\nNumerically comparing total area (420) and total volume (320):\n420 is greater than 320.\nTherefore, the total area of the panels is numerically **greater than** the total volume of the cube connectors.",
+      "explanation": "To solve this problem, first calculate the area of a single parallelogram panel using the formula (base × height) and then multiply by the number of parallelogram panels. Next, calculate the area of a single triangular panel using the formula (base × height / 2) and multiply by the number of triangular panels. Sum these two totals for part (a). For part (b), calculate the volume of a single cube using the formula (side × side × side) and multiply by the number of cube connectors. Finally, for part (c), compare the numerical results from part (a) and part (b).",
+      "hint": "Remember the formulas: Area of a parallelogram = base × height. Area of a triangle = (base × height) / 2. Volume of a cube = side × side × side. Don't forget to multiply by the number of each component.",
+      "generatedAt": "2026-04-29T17:34:06.845562"
+    },
+    {
+      "id": "m-y6-measurement_advanced_006",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A mathematics student is exploring the relationship between two-dimensional areas and three-dimensional volumes. They have defined a rule for determining the side length of a cube based on the combined area of a parallelogram and a triangle. \n\nFirst, there is a parallelogram with a base of 8 cm and a perpendicular height of 5 cm. \n\nAttached to one side of the parallelogram is a triangle. The triangle has a base which is the same length as the parallelogram's base. The triangle's perpendicular height is exactly half of the parallelogram's perpendicular height. \n\nThe total area of this combined two-dimensional shape (the parallelogram and the triangle) is used to find the side length of a solid cube. Specifically, if the total area of the combined shape is A cm², then the side length of the cube is found by calculating (A divided by 10) cm. \n\nCalculate the volume of the solid cube. Show your working clearly.\n\nWorking is required for full marks.",
+      "options": [
+        "100 cm³",
+        "125 cm³",
+        "150 cm³",
+        "216 cm³"
+      ],
+      "correctAnswer": "125 cm³",
+      "explanation": "1.  **Calculate the area of the parallelogram:**\n    Area of parallelogram = base × perpendicular height\n    Area = 8 cm × 5 cm = 40 cm²\n\n2.  **Calculate the perpendicular height of the triangle:**\n    Triangle's perpendicular height = half of the parallelogram's perpendicular height\n    Triangle's perpendicular height = 5 cm / 2 = 2.5 cm\n\n3.  **Calculate the area of the triangle:**\n    Triangle's base = 8 cm (same as parallelogram's base)\n    Area of triangle = (base × perpendicular height) / 2\n    Area = (8 cm × 2.5 cm) / 2 = 20 cm² / 2 = 10 cm²\n\n4.  **Calculate the total area of the combined two-dimensional shape (A):**\n    Total Area (A) = Area of parallelogram + Area of triangle\n    A = 40 cm² + 10 cm² = 50 cm²\n\n5.  **Calculate the side length of the cube:**\n    Side length = A / 10\n    Side length = 50 cm² / 10 = 5 cm\n\n6.  **Calculate the volume of the solid cube:**\n    Volume of cube = side length × side length × side length\n    Volume = 5 cm × 5 cm × 5 cm = 125 cm³",
+      "hint": "Start by calculating the area of the parallelogram. Then, determine the triangle's height and calculate its area. Combine these areas to find the value 'A', then use 'A' to find the cube's side length before calculating its volume.",
+      "generatedAt": "2026-04-29T17:34:28.552556"
+    },
+    {
+      "id": "m-y6-measurement_advanced_007",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A landscape gardener is designing a small feature for a client's garden. They are considering two types of paving tiles and also need to place a cubic planter.\n\n**Tile Type 1:** A parallelogram-shaped tile with a base of 30 cm and a perpendicular height of 20 cm.\n\n**Tile Type 2:** A triangular-shaped tile with a base of 40 cm and a perpendicular height of 15 cm.\n\nThe gardener wants to use enough tiles of **one type** to cover a total area of 3 square metres.\n\nThe cubic planter will have a square base. The side length of the square base of the planter is exactly three times the perpendicular height of Tile Type 1.\n\n**(a)** Calculate the area of one Tile Type 1 in square centimetres.\n**(b)** Calculate the area of one Tile Type 2 in square centimetres.\n**(c)** Which type of tile, Type 1 or Type 2, would require fewer individual tiles to cover a total area of 3 square metres? You must show your working. (3 marks)\n**(d)** Calculate the volume of the cubic planter in cubic centimetres. You must show your working. (3 marks)",
+      "options": [],
+      "correctAnswer": "**Part (a): Area of Tile Type 1**\nArea of a parallelogram = base × perpendicular height\nArea = 30 cm × 20 cm = 600 cm²\n\n**Part (b): Area of Tile Type 2**\nArea of a triangle = ½ × base × perpendicular height\nArea = ½ × 40 cm × 15 cm = ½ × 600 cm² = 300 cm²\n\n**Part (c): Comparing number of tiles (3 marks)**\nFirst, convert the total area from square metres to square centimetres:\n1 metre = 100 cm\n1 square metre = 100 cm × 100 cm = 10,000 cm²\nTotal area to cover = 3 m² = 3 × 10,000 cm² = 30,000 cm²\n\nNumber of Tile Type 1 needed = Total area / Area of one Tile Type 1\nNumber = 30,000 cm² / 600 cm² = 50 tiles\n\nNumber of Tile Type 2 needed = Total area / Area of one Tile Type 2\nNumber = 30,000 cm² / 300 cm² = 100 tiles\n\nTo cover 3 square metres, Tile Type 1 would require 50 tiles, and Tile Type 2 would require 100 tiles. Therefore, **Tile Type 1** would require fewer individual tiles.\n\n**Part (d): Volume of the cubic planter (3 marks)**\nThe perpendicular height of Tile Type 1 is 20 cm.\nThe side length of the cubic planter's base is three times the perpendicular height of Tile Type 1.\nSide length = 3 × 20 cm = 60 cm\n\nFor a cube, all sides are equal, so the height is also 60 cm.\nVolume of a cube = side × side × side\nVolume = 60 cm × 60 cm × 60 cm = 3,600 cm² × 60 cm = 216,000 cm³",
+      "explanation": "This multi-part question requires calculating the area of a parallelogram and a triangle, performing unit conversions from square metres to square centimetres, comparing quantities based on these areas, and finally calculating the volume of a cube where one of its dimensions is derived from another part of the problem. Careful application of formulas and attention to units are key.",
+      "hint": "Remember the formulas: Area of parallelogram = base × height; Area of triangle = ½ × base × height; Volume of cube = side × side × side. Don't forget to convert square metres to square centimetres for part (c) (1 m² = 10,000 cm²).",
+      "generatedAt": "2026-04-29T17:34:47.757280"
+    },
+    {
+      "id": "m-y6-measurement_advanced_008",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "On a large piece of craft paper, a student draws several geometric shapes.\nFirst, a parallelogram is drawn and labelled 'Figure P'. Figure P has a base of 12 cm and a perpendicular height of 7 cm.\nNext, a triangle is drawn and labelled 'Figure T'. Figure T has a base of 8 cm and a perpendicular height of 4 cm.\nThe student then designs a square tile, 'Tile S', which has an area exactly equal to the combined area of Figure P and Figure T.\nFinally, a solid wooden cube, 'Block C', is to be constructed such that one of its faces has the same area as Tile S.\n\n1.  Calculate the area of Figure P.\n2.  Calculate the area of Figure T.\n3.  Calculate the side length of Tile S. Show your working.\n4.  Calculate the total volume of Block C. Show your working.",
+      "options": [],
+      "correctAnswer": "1.  **Area of Figure P:**\n    Area of a parallelogram = base × perpendicular height\n    Area P = 12 cm × 7 cm = 84 cm²\n\n2.  **Area of Figure T:**\n    Area of a triangle = (base × perpendicular height) / 2\n    Area T = (8 cm × 4 cm) / 2 = 32 cm² / 2 = 16 cm²\n\n3.  **Side length of Tile S:**\n    Combined area = Area P + Area T\n    Combined area = 84 cm² + 16 cm² = 100 cm²\n    Tile S is a square with an area of 100 cm². \n    Area of a square = side × side\n    Side length of Tile S = √100 cm² = 10 cm\n\n4.  **Volume of Block C:**\n    Block C is a cube, and one of its faces has the same area as Tile S (100 cm²). This means the side length of the cube is the same as the side length of Tile S, which is 10 cm.\n    Volume of a cube = side × side × side\n    Volume C = 10 cm × 10 cm × 10 cm = 1000 cm³",
+      "explanation": "The problem requires calculating the area of two different 2D shapes, combining those areas to find the side length of a square, and then using that side length to calculate the volume of a cube. This involves multiple steps and different geometric formulas. \n\n**Step 1: Calculate the area of the parallelogram (Figure P).**\nFormula for the area of a parallelogram: Area = base × perpendicular height.\nCalculation: 12 cm × 7 cm = 84 cm².\n\n**Step 2: Calculate the area of the triangle (Figure T).**\nFormula for the area of a triangle: Area = (base × perpendicular height) / 2.\nCalculation: (8 cm × 4 cm) / 2 = 32 cm² / 2 = 16 cm².\n\n**Step 3: Calculate the side length of the square tile (Tile S).**\nFirst, find the combined area of Figure P and Figure T: 84 cm² + 16 cm² = 100 cm².\nSince Tile S is a square with an area of 100 cm², its side length is the square root of its area.\nCalculation: √100 cm² = 10 cm.\n\n**Step 4: Calculate the volume of the wooden cube (Block C).**\nOne face of Block C has the same area as Tile S, meaning the cube's side length is 10 cm.\nFormula for the volume of a cube: Volume = side × side × side.\nCalculation: 10 cm × 10 cm × 10 cm = 1000 cm³.",
+      "hint": "Remember the formulas for the area of a parallelogram (base × perpendicular height), the area of a triangle (base × perpendicular height / 2), and the volume of a cube (side × side × side). To find the side length of a square given its area, you need to find the square root of the area.",
+      "generatedAt": "2026-04-29T17:35:13.021126"
+    },
+    {
+      "id": "m-y6-measurement_advanced_009",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A manufacturer of building materials uses a large, flat sheet of dense recycled plastic. The sheet has a uniform thickness of 1 cm. Its length is 30 cm and its width is 15 cm.\n\nFrom this sheet, a component shaped like a parallelogram is cut out. The parallelogram has a base of 20 cm and a perpendicular height of 10 cm.\n\nThen, another component, shaped like a triangle, is cut out from the remaining plastic. This triangle has a base of 25 cm and a perpendicular height of 10 cm.\n\nThe leftover plastic from the original sheet is melted down and moulded into a single, solid cube to be used as a sample block.\n\nCalculate the side length of the sample cube. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the area of the original rectangular sheet.\nArea_rectangle = Length × Width = 30 cm × 15 cm = 450 cm².\n\nStep 2: Calculate the area of the parallelogram component.\nArea_parallelogram = Base × Perpendicular Height = 20 cm × 10 cm = 200 cm².\n\nStep 3: Calculate the area of the triangle component.\nArea_triangle = 0.5 × Base × Perpendicular Height = 0.5 × 25 cm × 10 cm = 0.5 × 250 cm² = 125 cm².\n\nStep 4: Calculate the total area of plastic cut out.\nTotal_Area_Cut_Out = Area_parallelogram + Area_triangle = 200 cm² + 125 cm² = 325 cm².\n\nStep 5: Calculate the area of the remaining plastic sheet.\nRemaining_Area = Area_rectangle - Total_Area_Cut_Out = 450 cm² - 325 cm² = 125 cm².\n\nStep 6: Calculate the volume of the remaining plastic.\nThe plastic has a uniform thickness of 1 cm. To find the volume, we multiply the remaining area by the thickness.\nVolume = Remaining_Area × Thickness = 125 cm² × 1 cm = 125 cm³.\n\nStep 7: Calculate the side length of the cube.\nFor a cube, Volume = Side_length³.\nSo, Side_length = ³√(Volume) = ³√(125 cm³).\nWe know that 5 × 5 × 5 = 125.\nTherefore, the side length of the sample cube is 5 cm.",
+      "explanation": "This problem requires multiple steps involving area and volume calculations. First, you need to find the area of the initial rectangular sheet. Then, calculate the areas of the parallelogram and triangle cut from it. Subtract these areas from the initial sheet's area to find the remaining two-dimensional area. Since the material has a uniform thickness, this remaining area can be converted into a volume by multiplying it by the thickness. Finally, knowing the volume of the remaining material, you can determine the side length of the cube it forms by finding the cube root of that volume.",
+      "hint": "Remember the formulas for the area of a rectangle, parallelogram, and triangle. To find the volume of the remaining plastic, consider its calculated area and the given uniform thickness. For a cube, the volume is found by multiplying its side length by itself three times (side³).",
+      "generatedAt": "2026-04-29T17:36:22.714893"
+    },
+    {
+      "id": "m-y6-measurement_advanced_010",
+      "topicId": "m-y6-measurement",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A large, flat piece of card is cut into the shape of a triangle, called Triangle ABC. \nThe base of the triangle, AB, is 16 cm long.\nThe perpendicular height from vertex C to the base AB is 8 cm.\n\nThe area of Triangle ABC is exactly equal to the area of one of the square faces of a solid cube.\n\nCalculate the volume of this cube in cubic centimetres. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "Working Required:\n\nStep 1: Calculate the area of Triangle ABC.\nThe formula for the area of a triangle is (base × height) / 2.\nBase (AB) = 16 cm\nHeight = 8 cm\nArea of Triangle ABC = (16 cm × 8 cm) / 2\nArea of Triangle ABC = 128 cm² / 2\nArea of Triangle ABC = 64 cm²\n\nStep 2: Find the side length of the cube.\nThe area of one square face of the cube is equal to the area of Triangle ABC, which is 64 cm².\nFor a square, Area = side × side.\nSo, side × side = 64 cm².\nTo find the side length, we need to find a number that multiplies by itself to make 64.\nWe know that 8 × 8 = 64.\nTherefore, the side length of the cube is 8 cm.\n\nStep 3: Calculate the volume of the cube.\nThe formula for the volume of a cube is side × side × side.\nSide length = 8 cm\nVolume of the cube = 8 cm × 8 cm × 8 cm\nVolume of the cube = 64 cm² × 8 cm\nVolume of the cube = 512 cm³\n\nFinal Answer: The volume of the cube is 512 cubic centimetres.",
+      "explanation": "The problem requires three main steps. First, calculate the area of the given triangle using the formula (base × height) / 2. This area then represents the area of one face of the cube. Since a cube's face is a square, you need to find the number that, when multiplied by itself, gives this area; this will be the side length of the cube. Finally, calculate the volume of the cube using the formula side × side × side.",
+      "hint": "Begin by calculating the area of the triangle. Remember that the area of one face of a cube is a square, and if you know its area, you can find its side length. Then, use the side length to find the cube's volume.",
+      "generatedAt": "2026-04-29T17:36:39.452053"
+    }
+  ]
+}

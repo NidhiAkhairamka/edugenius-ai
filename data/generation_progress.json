@@ -1,0 +1,354 @@
+{
+  "curriculum": [
+    "m-y5-place-value",
+    "m-y5-add-sub",
+    "m-y5-mult-div",
+    "m-y5-fractions",
+    "m-y5-perc",
+    "m-y5-measure",
+    "m-y5-geometry",
+    "m-y5-pos-dir",
+    "m-y5-stats",
+    "s-y5-life-cycles",
+    "s-y5-humans",
+    "s-y5-materials-prop",
+    "s-y5-materials-change",
+    "s-y5-earth-space",
+    "s-y5-forces",
+    "m-y6-fractions",
+    "m-y6-algebra-intro",
+    "m-y6-geometry",
+    "m-y6-measurement",
+    "s-y6-electricity",
+    "s-y6-light",
+    "s-y6-living-things",
+    "s-y6-evolution",
+    "m-y7-directed-numbers",
+    "m-y7-sequences",
+    "m-y7-fractions-calc",
+    "m-y7-prob-basics",
+    "s-y7-cells",
+    "s-y7-particles",
+    "s-y7-forces",
+    "s-y7-sound",
+    "m-y8-ratio",
+    "m-y8-linear-graphs",
+    "m-y8-statistics",
+    "m-y8-3d-geometry",
+    "s-y8-nutrition",
+    "s-y8-periodic-table",
+    "s-y8-energy-transfers",
+    "s-y8-space",
+    "m-y9-pythagoras",
+    "m-y9-trig",
+    "m-y9-equations",
+    "m-y9-standard-form",
+    "m-y9-prob",
+    "m-y9-indices",
+    "s-y9-atoms",
+    "s-y9-energy",
+    "s-y9-cells",
+    "s-y9-bonding",
+    "s-y9-periodic",
+    "m-y10-quadratics",
+    "m-y10-prob-trees",
+    "m-y10-circles",
+    "m-y10-vectors",
+    "s-y10-infection",
+    "s-y10-organic-chem",
+    "s-y10-waves",
+    "s-y10-magnetism"
+  ],
+  "questions": {
+    "m-y5-place-value": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-add-sub": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-mult-div": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-fractions": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-perc": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-measure": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-geometry": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-pos-dir": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y5-stats": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-life-cycles": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-humans": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-materials-prop": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-materials-change": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-earth-space": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y5-forces": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y6-fractions": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y6-algebra-intro": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y6-geometry": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y6-measurement": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y6-electricity": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y6-light": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y6-living-things": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y6-evolution": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y7-directed-numbers": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y7-sequences": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y7-fractions-calc": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y7-prob-basics": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y7-cells": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y7-particles": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y7-forces": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y7-sound": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y8-ratio": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y8-linear-graphs": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y8-statistics": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y8-3d-geometry": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y8-nutrition": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y8-periodic-table": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y8-energy-transfers": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y8-space": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-pythagoras": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-trig": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-equations": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-standard-form": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-prob": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y9-indices": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y9-atoms": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y9-energy": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y9-cells": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y9-bonding": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y9-periodic": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y10-quadratics": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y10-prob-trees": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y10-circles": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "m-y10-vectors": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y10-infection": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y10-organic-chem": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y10-waves": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    },
+    "s-y10-magnetism": {
+      "Beginner": 10,
+      "Intermediate": 10,
+      "Advanced": 10
+    }
+  }
+}

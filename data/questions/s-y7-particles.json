@@ -1,0 +1,488 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y7-particles_beginner_001",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the state of matter where particles are furthest apart and move randomly and quickly.",
+      "options": [
+        "A) Solid",
+        "B) Liquid",
+        "C) Gas",
+        "D) Plasma"
+      ],
+      "correctAnswer": "C) Gas",
+      "explanation": "In a solid, particles are closely packed and vibrate in fixed positions. In a liquid, particles are close but can slide past each other. In a gas, particles have a lot of energy, are very far apart, and move rapidly and randomly in all directions, occupying the entire volume of their container. Therefore, gas particles are the furthest apart.",
+      "hint": "Think about the amount of empty space between particles in each state of matter.",
+      "generatedAt": "2026-04-30T08:19:04.811207"
+    },
+    {
+      "id": "s-y7-particles_beginner_002",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "According to the particle model, what are all substances made up of?",
+      "options": [
+        "Energy",
+        "Light",
+        "Particles",
+        "Forces"
+      ],
+      "correctAnswer": "Particles",
+      "explanation": "The particle model explains that all substances, whether solid, liquid, or gas, are made up of very small, individual units called particles. These particles are the basic building blocks of all matter.",
+      "hint": "Think about the tiny building blocks that make up everything around you, according to science.",
+      "generatedAt": "2026-04-30T08:19:15.179395"
+    },
+    {
+      "id": "s-y7-particles_beginner_003",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following best describes the movement of particles in a solid?",
+      "options": [
+        "Move freely and far apart.",
+        "Vibrate in fixed positions.",
+        "Slide past each other randomly.",
+        "Are completely still."
+      ],
+      "correctAnswer": "Vibrate in fixed positions.",
+      "explanation": "In a solid, the particles are very closely packed together in a regular arrangement. They are held in strong fixed positions by forces of attraction between them. Because they are fixed, they cannot move around freely or slide past each other, but they do constantly vibrate about their fixed positions.",
+      "hint": "Think about how particles are arranged and behave in a solid object, like a block of ice or a metal coin.",
+      "generatedAt": "2026-04-30T08:19:24.842440"
+    },
+    {
+      "id": "s-y7-particles_beginner_004",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following statements accurately describes what happens to the particles in a liquid when it is heated?",
+      "options": [
+        "The particles decrease in size.",
+        "The particles start moving slower and lose energy.",
+        "The particles move faster and gain kinetic energy.",
+        "The particles attract each other more strongly."
+      ],
+      "correctAnswer": "The particles move faster and gain kinetic energy.",
+      "explanation": "When a liquid is heated, energy is transferred to its particles. This absorbed energy is converted into kinetic energy, which causes the particles to move more vigorously and at a faster speed. They do not change in size, move slower, or increase their attraction due to heating.",
+      "hint": "Consider what happens to the energy and movement of any object when it gets hotter.",
+      "generatedAt": "2026-04-30T08:19:33.167019"
+    },
+    {
+      "id": "s-y7-particles_beginner_005",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Describe the arrangement and movement of particles in a solid.",
+      "options": [],
+      "correctAnswer": "In a solid, particles are arranged in a regular, closely packed pattern (or 'fixed positions'). They can only vibrate about these fixed positions.",
+      "explanation": "This question requires recalling knowledge about the particle model of solids. The two key aspects to describe are how the particles are positioned (their arrangement) and how they move. For solids, particles are known to be tightly arranged in a specific structure and their movement is restricted to oscillations around their fixed points.",
+      "hint": "Consider how tightly packed the particles are and how much space they have to move around each other within a solid material.",
+      "generatedAt": "2026-04-30T08:19:42.439411"
+    },
+    {
+      "id": "s-y7-particles_beginner_006",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State one reason why we cannot see individual atoms or particles with our naked eye.",
+      "options": [],
+      "correctAnswer": "Atoms/particles are too small.",
+      "explanation": "The primary reason we cannot see individual atoms or particles is that they are incredibly tiny, far beyond the resolution capability of the human eye.",
+      "hint": "Think about the size of atoms and particles compared to everyday objects.",
+      "generatedAt": "2026-04-30T08:19:54.416429"
+    },
+    {
+      "id": "s-y7-particles_beginner_007",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which statement accurately describes the arrangement and movement of particles in a liquid?",
+      "options": [
+        "A) Particles are very far apart and move randomly and quickly.",
+        "B) Particles are tightly packed in a regular pattern and vibrate in fixed positions.",
+        "C) Particles are close together but randomly arranged, and can slide past each other.",
+        "D) Particles are spread out and only vibrate slowly in place."
+      ],
+      "correctAnswer": "C) Particles are close together but randomly arranged, and can slide past each other.",
+      "explanation": "In a liquid, particles are close together, meaning there are small gaps between them. Unlike a solid, they are not arranged in a fixed, regular pattern; instead, they are randomly arranged. They have enough energy to slide past one another, allowing the liquid to flow and take the shape of its container. Option A describes a gas, Option B describes a solid, and Option D is incorrect for any state.",
+      "hint": "Think about how a liquid behaves, such as being able to flow but still having a definite volume. How would the particles need to be arranged and move to allow this?",
+      "generatedAt": "2026-04-30T08:20:04.182065"
+    },
+    {
+      "id": "s-y7-particles_beginner_008",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which term is used to describe the smallest basic unit of a chemical element?",
+      "options": [
+        "A) Molecule",
+        "B) Compound",
+        "C) Atom",
+        "D) Mixture"
+      ],
+      "correctAnswer": "C) Atom",
+      "explanation": "An atom is defined as the smallest particle of a chemical element that still has the chemical properties of that element. Molecules are made of two or more atoms joined together. Compounds are formed when two or more different elements are chemically bonded. A mixture is a physical combination of substances, not a fundamental unit.",
+      "hint": "Consider the fundamental 'building block' from which all elements on the periodic table are made.",
+      "generatedAt": "2026-04-30T08:20:11.822723"
+    },
+    {
+      "id": "s-y7-particles_beginner_009",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the scientific term for the tiny pieces that make up all substances.",
+      "options": [
+        "Molecules",
+        "Compounds",
+        "Particles",
+        "Elements"
+      ],
+      "correctAnswer": "Particles",
+      "explanation": "All matter, whether it's a solid, liquid, or gas, is made up of extremely tiny pieces. The general scientific term used to describe these tiny pieces is 'particles'. Molecules are specific groupings of atoms, compounds are substances made from two or more different elements chemically bonded, and elements are pure substances made of only one type of atom, which are more specific classifications of particles.",
+      "hint": "Consider the general term used to describe the fundamental building blocks of all matter, before they are classified into specific types like atoms or molecules.",
+      "generatedAt": "2026-04-30T08:20:21.101636"
+    },
+    {
+      "id": "s-y7-particles_beginner_010",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following sub-atomic particles has a negative electrical charge?",
+      "options": [
+        "A. Proton",
+        "B. Neutron",
+        "C. Electron",
+        "D. Nucleus"
+      ],
+      "correctAnswer": "C. Electron",
+      "explanation": "Atoms are composed of three main sub-atomic particles: protons, neutrons, and electrons.\n\n- Protons have a positive (+) electrical charge.\n- Neutrons have no electrical charge; they are neutral.\n- Electrons have a negative (-) electrical charge.\n\nThe nucleus is the central part of the atom, containing protons and neutrons, but it is not a sub-atomic particle itself. Therefore, the electron is the sub-atomic particle with a negative electrical charge.",
+      "hint": "Remember the three main sub-atomic particles and the type of electrical charge each one carries.",
+      "generatedAt": "2026-04-30T08:20:31.046207"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y7-particles_intermediate_001",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "Imagine you have a solid block of copper and a container of helium gas.\n\nDescribe the arrangement and movement of particles in both the solid copper and the helium gas. (3 marks)\n\nExplain, using the particle model, why solids have a fixed shape and volume, while gases can be easily compressed and fill any container. (4 marks)",
+      "options": [],
+      "correctAnswer": "## Model Answer:\n\n**Description of particles (3 marks):**\n*   **Solid copper:** Particles are very closely packed in a regular, ordered arrangement. They are held together by strong forces of attraction. The particles vibrate about fixed positions but cannot move past each other.\n*   **Helium gas:** Particles are very far apart from each other, with large empty spaces between them. They are arranged randomly. There are very weak or negligible forces of attraction between particles. The particles move rapidly and randomly in all directions.\n\n**Explanation of properties (4 marks):**\n*   **Solids have a fixed shape and volume:** The strong forces of attraction between particles hold them in fixed positions, preventing them from moving past each other. This gives solids their definite, fixed shape. Because the particles are already very close together with little empty space, their volume cannot be significantly changed, giving them a fixed volume.\n*   **Gases can be easily compressed and fill any container:** Gas particles are very far apart with large empty spaces between them. This allows them to be pushed closer together easily, which explains why gases are compressible. Due to the very weak forces of attraction, particles move freely and randomly. They will spread out to fill the entire volume of any container they are placed in, as there is nothing holding them to a fixed shape or volume.",
+      "explanation": "This question assesses the student's understanding and application of the particle model. It requires them to recall the distinct characteristics (arrangement, movement, forces) for solid and gaseous states, and then apply these characteristics to explain observed macroscopic properties like fixed shape/volume and compressibility. The student must demonstrate a clear link between the microscopic particle behavior and the macroscopic properties, using 'because' or 'so' to establish cause and effect.",
+      "hint": "For your descriptions, consider how close the particles are, how they are arranged, and how much they move. For the explanations, think about the forces between particles and the amount of space between them for both states of matter.",
+      "generatedAt": "2026-04-30T08:20:47.690426"
+    },
+    {
+      "id": "s-y7-particles_intermediate_002",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A neutral atom of an element has an atomic number of 11 and a mass number of 23. How many more neutrons than protons are found in the nucleus of this atom?",
+      "options": [
+        "1",
+        "11",
+        "12",
+        "23"
+      ],
+      "correctAnswer": "1",
+      "explanation": "1. The atomic number represents the number of protons in the nucleus of an atom. Therefore, this atom has 11 protons.\n2. The mass number represents the total number of protons and neutrons in the nucleus. To find the number of neutrons, subtract the atomic number (protons) from the mass number: Number of neutrons = Mass number - Atomic number = 23 - 11 = 12 neutrons.\n3. To find how many more neutrons than protons, subtract the number of protons from the number of neutrons: 12 neutrons - 11 protons = 1.\nTherefore, there is 1 more neutron than proton in the nucleus.",
+      "hint": "Remember to first determine the number of both protons and neutrons in the nucleus using the given atomic and mass numbers, then find their difference.",
+      "generatedAt": "2026-04-30T08:21:05.474359"
+    },
+    {
+      "id": "s-y7-particles_intermediate_003",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A solid block of aluminium has a mass of 270 g and a volume of 100 cm³. When heated, the aluminium melts into a liquid.\n\nWhich of the following statements correctly describes a property of this aluminium and how its particles would behave when it melts?",
+      "options": [
+        "A) The density of solid aluminium is 2.7 g/cm³. When melted, the particles would become fixed in position and vibrate more vigorously.",
+        "B) The density of solid aluminium is 0.37 g/cm³. When melted, the particles would move more randomly and closer together.",
+        "C) The density of solid aluminium is 2.7 g/cm³. When melted, the particles would be able to move past each other and are randomly arranged, but still close together.",
+        "D) The density of solid aluminium is 0.37 g/cm³. When melted, the particles would spread far apart and move very quickly."
+      ],
+      "correctAnswer": "C) The density of solid aluminium is 2.7 g/cm³. When melted, the particles would be able to move past each other and are randomly arranged, but still close together.",
+      "explanation": "This question requires two steps: calculating density and understanding the particle model for melting.\n\n**Step 1: Calculate the density of the solid aluminium.**\nThe formula for density is:\nDensity = Mass / Volume\nGiven mass = 270 g and volume = 100 cm³.\nDensity = 270 g / 100 cm³ = 2.7 g/cm³.\n\nThis calculation eliminates options B and D, as they state the incorrect density of 0.37 g/cm³.\n\n**Step 2: Understand the changes in particle behaviour when a solid melts into a liquid.**\n*   In a solid, particles are closely packed in fixed positions and vibrate.\n*   When a solid melts into a liquid, the particles gain enough energy to overcome some of the forces holding them in fixed positions. They become randomly arranged, are still relatively close together (though often slightly further apart than in a solid), and can move past each other.\n*   Particles in a gas are far apart and move randomly and quickly.\n\nNow, let's evaluate the remaining options (A and C) based on liquid particle behaviour:\n*   Option A states: \"When melted, the particles would become fixed in position and vibrate more vigorously.\" This describes a solid, not a liquid.\n*   Option C states: \"When melted, the particles would be able to move past each other and are randomly arranged, but still close together.\" This accurately describes the arrangement and movement of particles in a liquid.\n\nTherefore, option C is the correct answer.",
+      "hint": "First, use the formula Density = Mass ÷ Volume. Then, recall how the arrangement and movement of particles change when a substance transitions from a solid to a liquid.",
+      "generatedAt": "2026-04-30T08:21:23.340966"
+    },
+    {
+      "id": "s-y7-particles_intermediate_004",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "You have 100 g of ice (solid water) and 100 g of liquid water. \nThe volume of 100 g of ice is 108.7 cm³.\nThe volume of 100 g of liquid water is 100.0 cm³.\n\n1.  **Calculate** the density of ice and the density of liquid water. Show your working and include units. (4 marks)\n2.  **Explain**, using the particle model, why the density values you calculated are different for ice and liquid water, even though they are both water. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Calculation of Density:**\n    *   **Formula:** Density = Mass / Volume\n\n    *   **For Ice:**\n        Mass = 100 g\n        Volume = 108.7 cm³\n        Density of ice = 100 g / 108.7 cm³ = 0.92 g/cm³ (to 2 decimal places)\n\n    *   **For Liquid Water:**\n        Mass = 100 g\n        Volume = 100.0 cm³\n        Density of liquid water = 100 g / 100.0 cm³ = 1.00 g/cm³ (to 2 decimal places)\n\n2.  **Explanation using the Particle Model:**\n    *   Both ice and liquid water are made of the same particles (water molecules).\n    *   In liquid water, the particles are close together but are randomly arranged and can slide past each other.\n    *   In ice (solid), the particles are arranged in a fixed, regular structure (a lattice). However, due to specific hydrogen bonding, the particles in ice are slightly further apart than they are in liquid water, creating a more open structure.\n    *   Because the same mass of ice occupies a larger volume than liquid water, the particles in ice are effectively less tightly packed (more spread out) compared to liquid water, resulting in a lower density for ice.",
+      "explanation": "The correct answer first calculates the density for both ice (100g / 108.7cm³ = 0.92 g/cm³) and liquid water (100g / 100.0cm³ = 1.00 g/cm³) by correctly applying the formula Density = Mass / Volume and including appropriate units. It then explains the difference in these densities using the particle model, stating that while the mass of particles is the same, their arrangement in ice creates a larger volume (particles are further apart due to the crystal structure), leading to a lower density compared to liquid water where particles are closer together.",
+      "hint": "Remember the definition of density and its formula. For the explanation, focus on how the arrangement and spacing of particles differ between solid and liquid states of the same substance, and how this relates to the amount of space they occupy for a given mass.",
+      "generatedAt": "2026-04-30T08:21:46.519750"
+    },
+    {
+      "id": "s-y7-particles_intermediate_005",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A scientist measures a sample of liquid water to have a mass of 750 g and a volume of 750 cm³. The scientist then freezes the entire sample into a block of ice, which still has a mass of 750 g.\n\nWhich of the following statements accurately describes the volume of the ice block compared to the liquid water, and provides the correct reason based on the particle model?",
+      "options": [
+        "A) The ice block will have a smaller volume than the liquid water because its particles are closer together.",
+        "B) The ice block will have the same volume as the liquid water because the mass has not changed.",
+        "C) The ice block will have a larger volume than the liquid water because its particles are arranged in an open, hexagonal structure, making it less dense.",
+        "D) The ice block will have a larger volume than the liquid water because its particles are moving faster."
+      ],
+      "correctAnswer": "C) The ice block will have a larger volume than the liquid water because its particles are arranged in an open, hexagonal structure, making it less dense.",
+      "explanation": "1.  First, consider the properties of liquid water: mass = 750 g, volume = 750 cm³. The density of liquid water is calculated as mass/volume = 750 g / 750 cm³ = 1 g/cm³.\n2.  When water freezes to become ice, its mass remains the same (750 g), but its density changes. Unlike most substances, water expands when it freezes, meaning ice is less dense than liquid water. This is a unique property of water.\n3.  Since density = mass / volume, if the mass is constant and the density decreases (for ice compared to liquid water), then the volume must increase. Therefore, the ice block will have a larger volume than the liquid water.\n4.  The reason for this expansion is that the water particles (molecules) in ice arrange themselves in a specific, more open structure, often described as a hexagonal lattice, which takes up more space than the more randomly packed particles in liquid water. This arrangement makes ice less dense than liquid water.\n5.  Comparing this to the options:\n    *   A is incorrect because ice has a larger volume and its particles are effectively 'further apart' due to the open structure.\n    *   B is incorrect because although the mass is the same, the volume changes due to the density change.\n    *   C is correct as it states a larger volume and provides the correct scientific reason related to the particle arrangement (open, hexagonal structure) leading to lower density.\n    *   D is incorrect because particles in a solid (ice) move slower (vibrate in fixed positions) than in a liquid, not faster.",
+      "hint": "Think about how the arrangement of water particles changes when it freezes, and what effect this has on how much space the same mass of water occupies in its solid form compared to its liquid form. Remember that density is mass per unit volume.",
+      "generatedAt": "2026-04-30T08:22:04.104300"
+    },
+    {
+      "id": "s-y7-particles_intermediate_006",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A sealed container holds 150 cm³ of a gas at 25°C. When the container is cooled, the gas changes into a liquid, which now occupies a volume of 0.15 cm³. The mass of the gas in the container was measured as 0.25 g.\n\nWhich option correctly describes the change in the *arrangement* of particles and states the *mass* of the liquid formed?",
+      "options": [
+        "A) The particles become further apart and more randomly arranged; the mass of the liquid is 0.025 g.",
+        "B) The particles move closer together and become more ordered; the mass of the liquid is 0.25 g.",
+        "C) The particles become further apart and more randomly arranged; the mass of the liquid is 0.25 g.",
+        "D) The particles move closer together and become more ordered; the mass of the liquid is 0.025 g."
+      ],
+      "correctAnswer": "B) The particles move closer together and become more ordered; the mass of the liquid is 0.25 g.",
+      "explanation": "1.  **Change in Particle Arrangement (Gas to Liquid):** When a gas cools and condenses into a liquid, the particles lose kinetic energy. This reduction in energy allows the forces of attraction between particles to become more significant. As a result, the particles move much closer together and become more 'ordered' or regularly arranged, although they can still slide past each other. They are no longer far apart and randomly moving like in a gas.\n2.  **Mass of the Liquid (Conservation of Mass):** During a change of state (like condensation), no particles are added to or removed from the sealed container. The total amount of matter remains constant. Therefore, the mass of the substance does not change. If the mass of the gas was 0.25 g, the mass of the liquid formed will also be 0.25 g.",
+      "hint": "Consider how the energy and forces between particles change when a gas turns into a liquid, affecting their arrangement. Also, remember that mass is conserved during physical changes in a closed system.",
+      "generatedAt": "2026-04-30T08:22:21.524261"
+    },
+    {
+      "id": "s-y7-particles_intermediate_007",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A block of pure copper metal is heated from room temperature until it completely melts into a liquid.\n\na) Describe the key differences in the arrangement and movement of particles in solid copper compared to liquid copper. (3 marks)\n\nb) An atom of copper has 29 protons and 35 neutrons.\n    i) State the atomic number of a copper atom. (1 mark)\n    ii) Calculate the total number of subatomic particles (protons, neutrons, and electrons) found in one neutral atom of copper. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) In solid copper, particles (atoms) are arranged in fixed positions, often in a regular lattice structure, and can only vibrate about these fixed points. In liquid copper, particles are still close together but are no longer in fixed positions; they can move past each other randomly, allowing the liquid to flow.\n\nb) i) The atomic number is the number of protons in an atom.\n       Atomic number = 29\n   ii) For a neutral atom, the number of electrons is equal to the number of protons. Therefore, a neutral copper atom has 29 electrons.\n       Total subatomic particles = Protons + Neutrons + Electrons\n       Total subatomic particles = 29 + 35 + 29\n       Total subatomic particles = 93 particles",
+      "explanation": "For part b)ii), the problem requires two steps. First, you need to determine the number of electrons. For a neutral atom, the number of electrons is always equal to the number of protons. Once you have the number of protons, neutrons, and electrons, the second step is to sum these three quantities to find the total number of subatomic particles. The sum is 29 (protons) + 35 (neutrons) + 29 (electrons) = 93.",
+      "hint": "For a neutral atom, remember the relationship between the number of protons and electrons. Then, sum all three types of subatomic particles to find the total.",
+      "generatedAt": "2026-04-30T08:22:38.652732"
+    },
+    {
+      "id": "s-y7-particles_intermediate_008",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A substance is found to have a fixed volume but its shape can change to fill the bottom of any container it is placed in.\n\nWhich statement **best** describes the state of this substance and the arrangement of its particles?",
+      "options": [
+        "A: Solid; particles are closely packed in a regular arrangement and vibrate in fixed positions.",
+        "B: Liquid; particles are closely packed but randomly arranged and can slide past each other.",
+        "C: Gas; particles are widely spaced and move randomly and rapidly.",
+        "D: Solid; particles are widely spaced and move randomly."
+      ],
+      "correctAnswer": "B: Liquid; particles are closely packed but randomly arranged and can slide past each other.",
+      "explanation": "Step 1: Identify the state of matter based on its macroscopic properties. A substance with a fixed volume but a variable shape (taking the shape of its container) is characteristic of a liquid. Solids have a fixed volume and fixed shape. Gases have neither a fixed volume nor a fixed shape.\nStep 2: Relate the identified state of matter to its particle arrangement and movement. In a liquid, particles are closely packed (accounting for fixed volume) but are randomly arranged and can slide past each other (accounting for variable shape). \nOption A describes a solid, not a liquid. Option C describes a gas, not a liquid. Option D incorrectly describes a solid.",
+      "hint": "First, consider the macroscopic properties given to determine the state of matter. Then, recall the particle arrangement and movement for that specific state.",
+      "generatedAt": "2026-04-30T08:23:02.985729"
+    },
+    {
+      "id": "s-y7-particles_intermediate_009",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "An atom of element X has 9 protons, 10 neutrons, and 9 electrons.\n\nCalculate the total relative mass of the particles found in the nucleus of this atom.",
+      "options": [
+        "A) 9",
+        "B) 18",
+        "C) 19",
+        "D) 28"
+      ],
+      "correctAnswer": "C) 19",
+      "explanation": "1. Identify the particles located in the nucleus: The nucleus of an atom contains protons and neutrons.\n2. Recall the relative masses of these particles: Each proton has a relative mass of approximately 1. Each neutron has a relative mass of approximately 1. Electrons have a negligible relative mass and are not found in the nucleus.\n3. Calculate the total relative mass: The atom has 9 protons and 10 neutrons in its nucleus.\n   Total relative mass in nucleus = (Number of protons × Relative mass of a proton) + (Number of neutrons × Relative mass of a neutron)\n   Total relative mass = (9 × 1) + (10 × 1) = 9 + 10 = 19.\n\nTherefore, the total relative mass of the particles in the nucleus is 19.",
+      "hint": "Consider only the sub-atomic particles found within the nucleus and their approximate relative masses. Remember, electrons have a negligible mass and are not in the nucleus.",
+      "generatedAt": "2026-04-30T08:23:15.429540"
+    },
+    {
+      "id": "s-y7-particles_intermediate_010",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A pure substance is heated from its liquid state until it completely changes into a gas. The total number of particles remains constant throughout this process. Which of the following statements *correctly* describes the changes in the *average kinetic energy* of the particles and the *space between* the particles as the substance changes from a liquid to a gas?",
+      "options": [
+        "A. Average kinetic energy decreases; space between particles decreases.",
+        "B. Average kinetic energy increases; space between particles decreases.",
+        "C. Average kinetic energy decreases; space between particles increases.",
+        "D. Average kinetic energy increases; space between particles increases."
+      ],
+      "correctAnswer": "D. Average kinetic energy increases; space between particles increases.",
+      "explanation": "When a substance changes from a liquid to a gas, it absorbs energy (heat). This absorbed energy increases the speed and therefore the average kinetic energy of the particles. As the particles gain more energy, they overcome the intermolecular forces holding them relatively close together in the liquid state, causing them to move much further apart and randomly throughout the container, which means the space between particles significantly increases.",
+      "hint": "Recall how adding heat energy affects particle movement and how particles are arranged in a liquid compared to a gas.",
+      "generatedAt": "2026-04-30T08:23:32.174274"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y7-particles_advanced_001",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Substance A has a boiling point of 80°C and a freezing point of 0°C. Substance B has a boiling point of 120°C and a freezing point of -5°C. Both substances are pure. \n\nWhich of the following statements accurately compares the particles of Substance A and Substance B at a temperature of 90°C?",
+      "options": [
+        "A) At 90°C, the particles of Substance A are widely spaced and moving randomly at high speeds, while the particles of Substance B are close together, but randomly arranged and able to slide past each other.",
+        "B) At 90°C, both Substance A and Substance B are liquids, with particles that are closely packed but can slide past each other.",
+        "C) At 90°C, the particles of Substance A are vibrating in fixed positions, while the particles of Substance B are far apart and moving rapidly.",
+        "D) At 90°C, Substance A has particles that are vibrating in fixed positions, and Substance B has particles that are far apart and moving randomly."
+      ],
+      "correctAnswer": "A) At 90°C, the particles of Substance A are widely spaced and moving randomly at high speeds, while the particles of Substance B are close together, but randomly arranged and able to slide past each other.",
+      "explanation": "1.  **Determine the state of Substance A at 90°C:** Substance A boils at 80°C. Since 90°C is above its boiling point, Substance A will be in a gaseous state.\n2.  **Describe particles in gaseous Substance A:** In a gas, particles are widely spaced, move randomly and rapidly, and have high kinetic energy.\n3.  **Determine the state of Substance B at 90°C:** Substance B has a freezing point of -5°C and boils at 120°C. Since 90°C is between its freezing and boiling points, Substance B will be in a liquid state.\n4.  **Describe particles in liquid Substance B:** In a liquid, particles are close together but randomly arranged, and they can slide past each other.\n5.  **Compare these findings with the options:** Option A correctly describes Substance A as a gas (widely spaced, random, high speed) and Substance B as a liquid (close together, randomly arranged, able to slide past each other). Options B, C, and D contain incorrect descriptions of the states or particle behaviour at 90°C.",
+      "hint": "First, determine the state of matter (solid, liquid, or gas) for each substance at 90°C by comparing this temperature to their given freezing and boiling points. Then, recall the characteristic particle arrangement and movement for each of those states.",
+      "generatedAt": "2026-04-30T08:24:12.467151"
+    },
+    {
+      "id": "s-y7-particles_advanced_002",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A scientist is studying a newly discovered element called 'Vaporium' (Vp). At -200°C, Vaporium is a solid with a fixed shape and volume. At -10°C, Vaporium is a gas, which has no fixed shape or volume, and its particles move rapidly and randomly, far apart from each other. When a sample of Vaporium gas is compressed, its volume significantly decreases. However, when a sample of Vaporium solid is compressed with the same force, its volume changes negligibly. A neutral atom of Vaporium has 15 protons and 16 neutrons.\n\nWhich of the following statements *best explains* why Vaporium gas is much more compressible than Vaporium solid, AND correctly identifies the number of electrons in a Vaporium ion with a 1- charge?",
+      "options": [
+        "A. Vaporium gas is more compressible because its particles are far apart with weak forces between them, allowing them to be pushed closer together. A Vaporium ion with a 1- charge would have 14 electrons.",
+        "B. Vaporium gas is more compressible because its particles are arranged in a fixed lattice structure, making them easy to deform. A Vaporium ion with a 1- charge would have 15 electrons.",
+        "C. Vaporium gas is more compressible because its particles are far apart with weak forces between them, allowing them to be pushed closer together. A Vaporium ion with a 1- charge would have 16 electrons.",
+        "D. Vaporium gas is more compressible because its particles are closely packed and vibrate in fixed positions. A Vaporium ion with a 1- charge would have 17 electrons."
+      ],
+      "correctAnswer": "C. Vaporium gas is more compressible because its particles are far apart with weak forces between them, allowing them to be pushed closer together. A Vaporium ion with a 1- charge would have 16 electrons.",
+      "explanation": "Let's break down the two parts of the question:\n\n**Part 1: Explaining compressibility of gas vs. solid**\n*   **Solids:** Particles are very closely packed together in fixed positions, with strong forces of attraction between them. There is very little empty space between particles, so they cannot be pushed much closer together, making solids difficult to compress.\n*   **Gases:** Particles are very far apart from each other, moving randomly and rapidly, with very weak (or negligible) forces of attraction between them. There is a lot of empty space between gas particles. This large amount of empty space means that gas particles can be pushed much closer together under pressure, making gases highly compressible.\n\nBased on this, the explanation that 'Vaporium gas is more compressible because its particles are far apart with weak forces between them, allowing them to be pushed closer together' is correct. This eliminates options B and D as their explanations for gas compressibility are incorrect.\n\n**Part 2: Number of electrons in a Vaporium ion with a 1- charge**\n*   A neutral atom always has an equal number of protons and electrons. The question states that a neutral atom of Vaporium has 15 protons.\n*   Therefore, a neutral Vaporium atom has 15 electrons.\n*   A '1- charge' means the atom has gained one extra electron. Electrons are negatively charged, so gaining an electron makes the atom negatively charged.\n*   So, the number of electrons in a Vaporium ion with a 1- charge would be 15 (initial electrons) + 1 (gained electron) = 16 electrons.\n\nComparing options A and C (which both had the correct explanation for compressibility): Option A states 14 electrons (incorrect), while Option C states 16 electrons (correct).\n\nCombining both parts, Option C correctly explains the compressibility of the gas AND correctly identifies the number of electrons in the 1- ion.",
+      "hint": "Consider the spacing and forces between particles in gases versus solids to explain compressibility. For the ion, remember that a negative charge means an atom has gained electrons.",
+      "generatedAt": "2026-04-30T08:24:33.078002"
+    },
+    {
+      "id": "s-y7-particles_advanced_003",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A newly discovered metallic element, Zirconium-X (Zx), is being investigated in a laboratory. Scientists have collected the following data and observations:\n\n*   **Observation 1:** At a temperature of 25°C, Zirconium-X is a liquid. Its particles are closely packed but are randomly arranged and can slide past one another.\n*   **Observation 2:** When Zirconium-X is cooled to -10°C, it completely solidifies.\n*   **Observation 3:** A sealed container with a volume of 500 cm³ is completely filled with Zirconium-X as a gas at 1000°C. The total mass of the gas measured in this container is 0.82 g.\n*   **Observation 4:** Each neutral atom of Zirconium-X contains 30 protons and 34 neutrons.\n\n---\n\n**(a) Describe the arrangement and movement of particles in Zirconium-X when it is a solid at -10°C. (3 marks)**\n\n**(b) Explain, using the particle model, why Zirconium-X expands significantly when it changes from a liquid to a gas at constant temperature. (4 marks)**\n\n**(c) Calculate the density of Zirconium-X gas at 1000°C in kilograms per cubic metre (kg/m³). Show your formula, substitution, and final answer with units. (3 marks)**\n\n**(d) State the total number of electrons in a neutral atom of Zirconium-X. (1 mark)**\n\n**(e) Explain, in terms of atomic structure, why Zirconium-X is classified as a metallic element. (3 marks)**",
+      "options": [],
+      "correctAnswer": "**Model Answer:**\n\n**(a) Describe the arrangement and movement of particles in Zirconium-X when it is a solid at -10°C. (3 marks)**\n*   **Arrangement:** Particles are very closely packed (1 mark) in a regular, fixed pattern/lattice (1 mark).\n*   **Movement:** They vibrate about these fixed positions (1 mark).\n\n**(b) Explain, using the particle model, why Zirconium-X expands significantly when it changes from a liquid to a gas at constant temperature. (4 marks)**\n*   As Zirconium-X changes from a liquid to a gas, the particles gain sufficient energy (from the heat supplied) to overcome the strong forces of attraction between them (1 mark).\n*   This allows the particles to move far apart from each other (1 mark) and move randomly and rapidly (1 mark).\n*   Because the particles are now widely spaced and fill the entire volume of the container they are in, the substance experiences a significant increase in volume, thus expanding (1 mark).\n\n**(c) Calculate the density of Zirconium-X gas at 1000°C in kilograms per cubic metre (kg/m³). Show your formula, substitution, and final answer with units. (3 marks)**\n*   **Formula:** Density = Mass / Volume (1 mark)\n*   **Substitution (with conversions):**\n    *   Mass = 0.82 g = 0.82 / 1000 kg = 0.00082 kg\n    *   Volume = 500 cm³ = 500 / 1,000,000 m³ = 0.0005 m³\n    *   Density = 0.00082 kg / 0.0005 m³ (1 mark for correct substitution with converted units)\n*   **Answer:** Density = 1.64 kg/m³ (1 mark for correct answer with units)\n\n**(d) State the total number of electrons in a neutral atom of Zirconium-X. (1 mark)**\n*   30 electrons (1 mark)\n\n**(e) Explain, in terms of atomic structure, why Zirconium-X is classified as a metallic element. (3 marks)**\n*   Metallic elements, like Zirconium-X, have electrons in their outermost shell that are not strongly held by the nucleus (1 mark).\n*   These electrons are 'free to move' or 'delocalised' throughout the structure of the substance (1 mark).\n*   This characteristic allows metals to exhibit properties such as good electrical conductivity, which is a defining feature of metallic elements (1 mark).",
+      "explanation": "This question requires students to integrate multiple concepts from the 'Particles & Atoms' topic. Part (a) tests basic recall of the particle model for solids. Part (b) demands an 'Explain' answer, requiring cause-and-effect reasoning about energy, forces, and particle arrangement during a phase change from liquid to gas. Part (c) is an 'Advanced' calculation for Year 7 due to the necessary unit conversions from grams to kilograms and cubic centimetres to cubic metres, applying the density formula. Part (d) assesses a fundamental aspect of atomic structure (protons = electrons in a neutral atom). Finally, part (e) requires students to link the macroscopic property of being 'metallic' to a specific feature of its atomic structure (the presence of free/delocalised electrons), demonstrating a deeper conceptual understanding beyond simple recall of metallic properties.",
+      "hint": "For part (c), remember to convert the given mass from grams to kilograms and the volume from cubic centimetres to cubic metres before applying the density formula. For part (e), think about what makes metals good conductors and how that relates to electrons in their atoms.",
+      "generatedAt": "2026-04-30T08:25:44.366018"
+    },
+    {
+      "id": "s-y7-particles_advanced_004",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A novel substance, \"Cryogel,\" is being investigated. Scientists observe that at extremely low temperatures (-200 °C), Cryogel exists as a stable solid. When heated slowly in a sealed chamber, it does not melt into a liquid. Instead, at exactly -100 °C, Cryogel transitions directly from a solid into a gas. This process is known as sublimation.\n\nThe particles of Cryogel are all identical and consist of a single type of atom.\n\n1.  **Describe** the arrangement and movement of the particles in Cryogel when it is in its solid state at -200 °C. (2 marks)\n2.  **Explain** why Cryogel transitions directly from a solid to a gas when heated to -100 °C, in terms of the energy of its particles. (4 marks)\n3.  A 50 g sample of Cryogel gas occupies a volume of 200 cm³ at -100 °C. When this same 50 g sample is cooled back to -200 °C and becomes a solid, its volume is 50 cm³.\n    **Calculate** the density of Cryogel when it is in its solid state at -200 °C. Show your working and include units in your answer. (3 marks)\n4.  **State** whether Cryogel is an element, a compound, or a mixture, based on the description provided. (1 mark)",
+      "options": [],
+      "correctAnswer": "1.  **Describe** the arrangement and movement of the particles in Cryogel when it is in its solid state at -200 °C. (2 marks)\n    *   **Arrangement:** Particles are closely packed together (1 mark) in a regular pattern/arrangement.\n    *   **Movement:** They vibrate about fixed positions (1 mark).\n\n2.  **Explain** why Cryogel transitions directly from a solid to a gas when heated to -100 °C, in terms of the energy of its particles. (4 marks)\n    *   When solid Cryogel is heated, its particles gain kinetic energy (1 mark).\n    *   The particles gain enough energy to overcome the strong forces of attraction holding them in fixed positions (1 mark).\n    *   Instead of moving freely as a liquid, the particles gain so much energy that they completely overcome all forces of attraction between them (1 mark).\n    *   This allows the particles to move far apart, rapidly and randomly, as a gas (1 mark).\n\n3.  **Calculate** the density of Cryogel when it is in its solid state at -200 °C. Show your working and include units in your answer. (3 marks)\n    *   Formula: Density = Mass / Volume (1 mark)\n    *   Substitution: Density = 50 g / 50 cm³ (1 mark)\n    *   Answer with units: Density = 1 g/cm³ (1 mark)\n\n4.  **State** whether Cryogel is an element, a compound, or a mixture, based on the description provided. (1 mark)\n    *   Element (1 mark)",
+      "explanation": "This question assesses the student's understanding of the particle model, changes of state (including sublimation), energy transfer, basic atomic structure, and simple calculations. Part 1 requires recall of solid particle characteristics. Part 2 asks for an explanation of sublimation using the concept of particle energy, requiring linking cause (heating/energy gain) to effect (overcoming forces and changing state) and understanding why the liquid phase is skipped. Part 3 applies the density formula in a multi-state context. Part 4 tests the definition of an element based on particle composition.",
+      "hint": "For the calculation in part 3, recall the formula that links mass, volume, and density. Ensure you use the correct mass and volume for the solid state.",
+      "generatedAt": "2026-04-30T08:27:06.137206"
+    },
+    {
+      "id": "s-y7-particles_advanced_005",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "### Deep-Sea Submersible Gas Experiment\n\nIn a deep-sea submersible, a sealed research chamber contains a sample of Xenon (Xe) gas. At the start of an experiment, the temperature inside the chamber is 0°C. The scientists then slowly increase the temperature of the chamber to 50°C for analysis. The boiling point of Xenon is -108°C, and its melting point is -112°C.\n\n1.  **Describe** the changes in the movement and average kinetic energy of the Xenon particles as the temperature inside the chamber increases from 0°C to 50°C. (3 marks)\n\n2.  **Explain** why the pressure exerted by the Xenon gas on the walls of the sealed chamber will increase as the temperature rises. (4 marks)\n\n3.  Xenon (Xe) is an element. A neutral atom of Xenon has 54 protons and 77 neutrons.\n    **State** the atomic number of this Xenon atom. (1 mark)\n\n4.  **Calculate** the total number of electrons in a neutral atom of Xenon. Show your working. (2 marks)\n\n5.  Another element, Neon (Ne), is also a gas at these temperatures and is sometimes used in lighting displays. A neutral atom of Neon has 10 protons and 10 neutrons.\n    **Explain** how an atom of Neon differs from an atom of Xenon, referring to its fundamental particles. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  As the temperature increases, the Xenon particles gain more thermal energy (1 mark). This causes them to move faster, increasing their average kinetic energy (1 mark). The particles will move more rapidly and randomly throughout the container (1 mark).\n\n2.  When the temperature rises, the Xenon particles gain more kinetic energy and therefore move faster (1 mark). This means they collide with the walls of the container more frequently (1 mark) and with greater force (1 mark). Since pressure is caused by the force of these collisions over an area, the increased frequency and force of these collisions result in a higher overall pressure on the chamber walls (1 mark).\n\n3.  The atomic number of this Xenon atom is 54 (1 mark).\n\n4.  In a neutral atom, the number of electrons is equal to the number of protons (1 mark).\n    Number of electrons = Number of protons = 54 (1 mark).\n    Total number of electrons = 54.\n\n5.  A Neon atom has fewer protons (10) than a Xenon atom (54), which means they are different elements (1 mark). Neon also has fewer neutrons (10) compared to Xenon (77) (1 mark). Since a neutral atom has an equal number of protons and electrons, a Neon atom will also have significantly fewer electrons (10) than a Xenon atom (54) (1 mark).",
+      "explanation": "1.  This question assesses understanding of the particle model and the relationship between temperature, particle movement, and kinetic energy. Since Xenon is a gas at both 0°C and 50°C (boiling point -108°C), it remains in the gaseous state. Therefore, the particles gain energy, move faster, and their average kinetic energy increases.\n2.  This question requires a multi-step explanation linking increased temperature to increased particle speed, collision frequency, collision force, and finally, pressure. Each step contributes to the overall cause-and-effect chain.\n3.  The atomic number is defined as the number of protons in an atom's nucleus. It's a direct recall question.\n4.  For a neutral atom, the number of electrons is always equal to the number of protons. Students need to state this relationship and then provide the correct numerical answer.\n5.  This question requires students to compare two different elements based on their fundamental particles: protons, neutrons, and electrons. It assesses their understanding that the number of protons defines the element, and that differences in protons, neutrons, and consequently electrons (in neutral atoms), lead to different elements.",
+      "hint": "For questions involving particle behaviour, remember that temperature is a measure of the average kinetic energy of particles. For atomic structure, recall the definitions of atomic number and the composition of neutral atoms.",
+      "generatedAt": "2026-04-30T08:27:50.729924"
+    },
+    {
+      "id": "s-y7-particles_advanced_006",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A Year 7 science class is investigating an unknown mixture of two solid substances, X and Y. Substance X is a green powder that does not dissolve in water. Substance Y is a white crystalline solid that dissolves readily in water.\n\nTo separate them, the students add 50.0 cm³ of water to 5.0 g of the mixture, stir it well, and then pour the contents through filter paper. The green powder (X) remains on the filter paper. A clear liquid, containing dissolved substance Y, passes through. They then gently heat this clear liquid until all the water has evaporated, recovering 2.5 g of pure white solid Y. The density of water is 1.0 g/cm³.\n\n1.  **Describe** the arrangement and movement of particles in substance X when it is in its solid state at room temperature. (3 marks)\n2.  **Explain** why substance Y dissolved in water, referring to the forces between particles and their arrangement. (4 marks)\n3.  **Calculate** the total mass of the clear liquid containing dissolved substance Y, before it was heated. Show your working and include units. (3 marks)\n4.  The students hypothesise that pure solid Y is a compound. Which of the following particle diagrams *best* represents pure substance Y if it is a compound? (1 mark)",
+      "options": [
+        "A: Small, identical circles arranged neatly and closely together.",
+        "B: Different types of small circles, not joined, randomly mixed throughout.",
+        "C: Identical groups of two different types of small circles joined together, arranged neatly and closely.",
+        "D: Groups of identical circles joined together, with only one type of circle in each group, arranged neatly and closely."
+      ],
+      "correctAnswer": "C: Identical groups of two different types of small circles joined together, arranged neatly and closely.",
+      "explanation": "1.  **Description of solid X particles:** Particles are tightly packed/closely arranged (1 mark). They are in fixed positions (1 mark) and vibrate about these fixed positions (1 mark).\n\n2.  **Explanation for dissolving Y:** Water particles are attracted to the particles of substance Y (1 mark). These attractive forces are strong enough to overcome the forces holding the particles of Y together (1 mark). This causes the particles of Y to separate from each other and spread out evenly among the water particles (1 mark), forming a homogeneous solution (1 mark).\n\n3.  **Calculation of total mass of liquid:**\n    *   First, calculate the mass of water using the density formula:\n        Mass of water = Density × Volume\n        Mass of water = 1.0 g/cm³ × 50.0 cm³ = 50.0 g (1 mark)\n    *   Then, add the mass of the dissolved substance Y to the mass of water:\n        Total mass of liquid = Mass of water + Mass of dissolved Y\n        Total mass of liquid = 50.0 g + 2.5 g = 52.5 g (1 mark for substitution, 1 mark for correct answer with units).\n\n4.  **Particle representation of a compound:**\n    *   **A** represents an element in solid form (all identical atoms). \n    *   **B** represents a mixture of elements (different types of atoms not chemically joined). \n    *   **C** represents a compound in solid form. Compounds are made of two or more different types of atoms chemically joined together (represented by different circles joined), and for a pure solid, these compound units would be arranged neatly and closely. This option best fits the definition of a compound and the solid state. \n    *   **D** represents an element whose atoms form molecules (e.g., O₂, N₂) in a solid state, as there is only one type of circle in each group.",
+      "hint": "For the calculation, remember that the total mass of the liquid includes both the water and the dissolved substance Y. For identifying a compound, recall that it is made of two or more *different* types of atoms chemically *joined* together.",
+      "generatedAt": "2026-04-30T08:28:20.792656"
+    },
+    {
+      "id": "s-y7-particles_advanced_007",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A student is investigating the properties of air using a sealed syringe. The syringe initially contains 50 cm³ of air at room temperature. Air is mainly a mixture of nitrogen gas and oxygen gas.\n\na) Describe the arrangement and movement of the particles of nitrogen gas inside the syringe. (2 marks)\n\nb) The student pushes the plunger of the syringe inwards, reducing the volume of air to 25 cm³. Explain, using the particle model, why the volume of the air can be significantly reduced in this way. (3 marks)\n\nc) When the student releases the plunger, it springs back to the original 50 cm³ position. Explain why the plunger returns to its initial position, referring to the behaviour of the particles. (3 marks)\n\nd) Nitrogen atoms have 7 protons, and oxygen atoms have 8 protons.\n    i) State the electrical charge of a proton. (1 mark)\n    ii) Calculate the total number of protons in one molecule of nitrogen gas. A molecule of nitrogen gas consists of two nitrogen atoms joined together. Show your working. (2 marks)\n    iii) Explain why nitrogen and oxygen are classified as different elements. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) The nitrogen gas particles are far apart from each other (1 mark) and are arranged randomly. They move quickly and randomly in all directions (1 mark).\n\nb) Gas particles (like nitrogen and oxygen in the air) have large spaces/gaps between them (1 mark). When the plunger is pushed in, these particles can be forced closer together (1 mark), reducing the total volume because the empty space between them is compressed (1 mark).\n\nc) When the air is compressed, the gas particles are much closer together and collide with the inside walls of the syringe more frequently and/or with greater force (1 mark). These frequent collisions create a higher pressure inside the syringe (1 mark) compared to the outside air, which pushes the plunger back out until the pressures are balanced (1 mark).\n\nd) i) Positive / +1 (1 mark)\n\n    ii) Working: Number of protons = 2 atoms/molecule × 7 protons/atom (1 mark)\n    Total number of protons = 14 protons (1 mark)\n\n    iii) Elements are defined by the number of protons in their atoms (1 mark). Nitrogen atoms have 7 protons (1 mark), while oxygen atoms have 8 protons. Since they have a different number of protons, they are different elements (1 mark).",
+      "explanation": "This advanced Year 7 question assesses the student's ability to apply the particle model to explain gas properties (arrangement, movement, compressibility, and pressure) and their understanding of basic atomic structure (proton charge and the definition of an element). Marks are awarded for accurate scientific terminology, detailed cause-and-effect explanations, and correct calculations with working shown and units.",
+      "hint": "For parts b) and c), remember how the amount of space between particles and their collisions with surfaces relate to the properties of gases. For part d)ii), consider how many nitrogen atoms are in one molecule of nitrogen gas.",
+      "generatedAt": "2026-04-30T08:28:38.869995"
+    },
+    {
+      "id": "s-y7-particles_advanced_008",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Crystillium is a fascinating substance that scientists are investigating. It exists as a solid below 50°C, a liquid between 50°C and 200°C, and a gas above 200°C.\n\n**Part A: Particle Model of Crystillium**\n(a) Describe the arrangement and movement of particles in Crystillium when it is at 25°C. (2 marks)\n(b) Explain what happens to the particles of Crystillium when it changes from a liquid to a gas at 200°C. Include ideas about energy and the forces between particles. (4 marks)\n\n**Part B: Atomic Structure of Crystillium**\nA scientist analyses an atom of Crystillium. They find it contains 17 protons, 18 neutrons, and 17 electrons.\n(a) State the sub-atomic particles found in the nucleus of a Crystillium atom. (1 mark)\n(b) Calculate the total number of sub-atomic particles in this Crystillium atom. Show your working. (2 marks)\n(c) Explain why this atom of Crystillium is electrically neutral. (3 marks)",
+      "options": [],
+      "correctAnswer": "**Part A: Particle Model of Crystillium**\n(a) **Description of particles in Crystillium at 25°C (Solid state):**\n*   Particles are closely packed together / touching. (1 mark)\n*   They are arranged in a regular pattern / fixed positions. (1 mark)\n*   The particles vibrate about their fixed positions. (Accept 2 points for 2 marks)\n\n(b) **Explanation of phase change from liquid to gas:**\n*   Energy is supplied / absorbed by the liquid Crystillium. (1 mark)\n*   The particles gain kinetic energy and move faster / with more energy. (1 mark)\n*   This increased energy allows the particles to overcome the strong forces of attraction between them. (1 mark)\n*   The particles move far apart from each other and randomly / spread out to fill the container. (1 mark)\n\n**Part B: Atomic Structure of Crystillium**\n(a) **Sub-atomic particles in the nucleus:**\n*   Protons and Neutrons (1 mark)\n\n(b) **Calculation of total sub-atomic particles:**\n*   Working: 17 (protons) + 18 (neutrons) + 17 (electrons) (1 mark)\n*   Answer: 52 particles (1 mark)\n\n(c) **Explanation of electrical neutrality:**\n*   Protons have a positive electrical charge. (1 mark)\n*   Electrons have a negative electrical charge. (1 mark)\n*   The number of positively charged protons (17) is equal to the number of negatively charged electrons (17), so their charges cancel each other out, resulting in an overall neutral charge. (1 mark)",
+      "explanation": "This question assesses the student's understanding of the particle model for different states of matter, including how energy affects particle behavior during phase changes, and the basic structure and properties of atoms. \n\nPart A(a) requires recall of the particle arrangement and movement in a solid. Part A(b) demands a multi-step explanation linking energy input to kinetic energy, overcoming intermolecular forces, and resulting in gas-like particle distribution. This requires combining concepts of energy, forces, and particle motion.\n\nPart B(a) tests direct recall of nuclear composition. Part B(b) is a straightforward calculation, ensuring all sub-atomic particles are included. Part B(c) requires understanding the charges of protons and electrons and explaining how their balance leads to electrical neutrality. This integrates knowledge of atomic components with their fundamental properties.",
+      "hint": "Remember how particles are arranged and move in solids, liquids, and gases, and how adding energy affects them during changes of state. For atomic structure, recall the location and electrical charge of protons, neutrons, and electrons.",
+      "generatedAt": "2026-04-30T21:54:34.257614"
+    },
+    {
+      "id": "s-y7-particles_advanced_009",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Scientists are developing a new synthetic material called 'CryoFusion Alloy' (CFA) for use in extreme environments, such as spacecraft components. CFA has a very high melting point of 2500°C and a boiling point of 5000°C.\n\n1.  **Describe** the arrangement and movement of the particles within solid CryoFusion Alloy when it is at room temperature (e.g., 20°C). (2 marks)\n2.  When CFA is heated from 20°C to 2600°C, it undergoes a change of state. **Explain** what happens to the energy of the particles as the CryoFusion Alloy melts at 2500°C. (3 marks)\n3.  CryoFusion Alloy is composed of atoms of several different elements chemically bonded together. **State** what an atom is. (1 mark)\n4.  Imagine a small sample of gaseous CryoFusion Alloy is trapped in a sealed container and then rapidly cooled to 20°C. **Describe** the changes in the forces between particles and their movement as the gaseous CFA cools, condenses, and eventually solidifies. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Arrangement:** The particles are arranged in a regular, fixed pattern (or lattice). They are closely packed together. (1 mark)\n    **Movement:** The particles vibrate about their fixed positions. (1 mark)\n\n2.  As the CryoFusion Alloy is heated to its melting point, its particles gain kinetic energy, so they vibrate more vigorously. (1 mark)\n    At the melting point (2500°C), the particles gain enough energy to overcome the strong forces of attraction holding them in their fixed positions. (1 mark)\n    This allows them to move past each other randomly, forming a liquid. (1 mark)\n\n3.  An atom is the smallest particle of an element. (1 mark)\n    *Alternatively: An atom is the basic building block of all matter.*\n\n4.  As the gaseous CFA cools, the particles lose kinetic energy and slow down. (1 mark)\n    This reduction in energy allows the forces of attraction between the particles to become strong enough to pull them closer together, first into a liquid where they can slide past each other (condense), and then into fixed positions as a solid (solidify). (1 mark)\n    In the solid state, the particles are very close together in a regular arrangement, and can only vibrate about fixed positions. (1 mark)",
+      "explanation": "This is an open-ended question requiring students to apply their knowledge of the particle model of matter and basic atomic structure in an unfamiliar context. The model answer provides a detailed, step-by-step response for each part, demonstrating the expected scientific terminology, understanding of energy changes during phase transitions, and a clear definition of an atom.",
+      "hint": "Remember to describe both the arrangement and movement of particles, and explain changes in state by linking energy changes to the forces between particles. For the definition, think about the fundamental units of elements.",
+      "generatedAt": "2026-04-30T21:54:59.608061"
+    },
+    {
+      "id": "s-y7-particles_advanced_010",
+      "topicId": "s-y7-particles",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A team of young scientists is studying a newly discovered substance called 'Cryo-gel'. At room temperature, Cryo-gel is a transparent, jelly-like solid. They place a 50 g sample of Cryo-gel into a sealed container and heat it.\n\nInitially, the solid Cryo-gel slowly expands into a larger volume of solid. As heating continues, it rapidly melts into a liquid, which then takes up a slightly smaller volume than the expanded solid. Further heating turns the liquid into a gas, which occupies a much larger volume within the container. When the gas is cooled down, it quickly becomes a liquid again, then slowly solidifies.\n\n1.  **Describe** the arrangement and movement of particles when Cryo-gel is in its solid state *after* it has expanded. (2 marks)\n2.  **Explain** why the liquid Cryo-gel occupies a slightly *smaller* volume than the expanded solid Cryo-gel, even though no material has left the container. You must refer to the arrangement of particles in your answer. (4 marks)\n3.  **Explain** why the gaseous Cryo-gel occupies a much larger volume than the liquid Cryo-gel, given that the mass of Cryo-gel remains constant. (3 marks)\n4.  **State** which state of Cryo-gel (solid, liquid, or gas) has the lowest density and give a reason for your answer based on particle arrangement. (2 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Arrangement:** The particles are still closely packed and arranged in a regular, fixed pattern (lattice). (1 mark)\n    **Movement:** They vibrate more vigorously around their fixed positions due to the increased energy from heating. (1 mark)\n\n2.  In the expanded solid state, the particles have gained kinetic energy from heating and are vibrating more vigorously, causing them to push slightly further apart from each other while still maintaining their fixed positions in the regular lattice. This increased spacing within the lattice leads to a larger overall volume for the solid. (1 mark for explaining expanded solid particle spacing and lattice structure)\n    When Cryo-gel melts into a liquid, the particles gain enough energy to overcome some of the forces holding them in fixed positions. They become able to move past each other randomly. (1 mark for explaining liquid particle movement and random arrangement)\n    For some substances like Cryo-gel, the disordered, random arrangement of particles in the liquid state allows them to pack together slightly more efficiently or 'fit together' more closely on average, than they did within the potentially distorted or less efficient expanded solid lattice structure. (1 mark for explaining efficient packing in liquid despite randomness)\n    Therefore, despite being able to move freely, the liquid particles occupy a slightly smaller average volume due to this closer packing compared to the expanded solid. (1 mark for linking closer packing to smaller volume).\n\n3.  When liquid Cryo-gel turns into a gas, the particles gain a very large amount of kinetic energy from heating. This enables them to completely overcome almost all the forces of attraction between them. (1 mark)\n    This causes the particles to move very rapidly and randomly in all directions, crashing into the container walls and each other. (1 mark)\n    As a result, the particles spread out and become extremely far apart from each other, filling the entire volume of the sealed container, leading to a much larger overall volume. (1 mark)\n\n4.  **State:** Gaseous Cryo-gel. (1 mark)\n    **Reason:** Density is defined as mass per unit volume (Density = Mass / Volume). In the gaseous state, the particles are spread out the furthest apart from each other, meaning the same mass of Cryo-gel occupies the largest overall volume. Therefore, a larger volume for the same mass results in the lowest density. (1 mark)",
+      "explanation": "This question assesses the student's understanding of the particle model of matter and how it relates to changes of state and density. It introduces a challenging scenario where the liquid state is denser than the expanded solid state (meaning the liquid occupies a smaller volume than the expanded solid), pushing students to think beyond the typical assumption that solids are always denser than liquids. \n\n*   **Part 1** tests basic recall of solid particle behavior, with the nuance of 'expanded' requiring the inclusion of more vigorous vibration.\n*   **Part 2** is the most advanced part for Year 7. It requires students to explain a counter-intuitive phenomenon by comparing particle packing efficiency in an expanded solid lattice versus a disordered liquid state. They must explain that while solids generally have fixed positions, heating can cause expansion, and for some substances, the liquid's random arrangement can allow for closer average packing than a distended solid lattice.\n*   **Part 3** assesses the standard explanation for the large volume difference between liquids and gases, focusing on kinetic energy and particle spacing.\n*   **Part 4** requires the identification of the lowest density state and a justification based on the relationship between particle spacing, volume, and density (Mass/Volume).",
+      "hint": "Remember that heating gives particles more energy, increasing their movement and spacing. For Question 2, consider how the particles are arranged in a regular lattice versus a disordered liquid, and if one arrangement might allow for tighter average packing, even if the particles in the liquid are free to move.",
+      "generatedAt": "2026-04-30T21:55:30.251119"
+    }
+  ]
+}

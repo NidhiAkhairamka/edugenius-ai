@@ -1,4 +1,3 @@
-
 import { StudentProfile } from "../types";
 
 const API_BASE = (import.meta as any).env.VITE_API_URL || 'http://localhost:5000/api';
@@ -25,6 +24,33 @@ class DatabaseManager {
   async getProfile(name: string): Promise<StudentProfile | null> {
     try {
       const r = await fetch(`${API_BASE}/profile/${name}`);
+      return r.ok ? await r.json() : null;
+    } catch (e) { return null; }
+  }
+
+  // --- Static Content Bank (pre-generated, no AI call) ---
+
+  async getStaticCurriculum(topicId: string): Promise<any | null> {
+    try {
+      const r = await fetch(`${API_BASE}/curriculum/static/${topicId}`);
+      if (r.status === 404) return null;
+      return r.ok ? await r.json() : null;
+    } catch (e) { return null; }
+  }
+
+  async getStaticQuestion(
+    topicId: string,
+    difficulty: string,
+    yearLevel: number,
+    usedIds: string[] = []
+  ): Promise<any | null> {
+    try {
+      const r = await fetch(`${API_BASE}/question/static`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ topicId, difficulty, yearLevel, usedIds })
+      });
+      if (r.status === 404) return null; // bank exhausted — caller uses live AI
       return r.ok ? await r.json() : null;
     } catch (e) { return null; }
   }

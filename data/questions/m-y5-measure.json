@@ -1,0 +1,501 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y5-measure_beginner_001",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A rectangular garden patio has a length of 3 metres and a width of 40 centimetres. What is the area of the patio in square centimetres?",
+      "options": [
+        "A: 120 cm²",
+        "B: 1200 cm²",
+        "C: 12000 cm²",
+        "D: 120000 cm²"
+      ],
+      "correctAnswer": "C: 12000 cm²",
+      "explanation": "To find the area, both measurements (length and width) must be in the same unit. \n\n1.  First, convert the length from metres to centimetres. There are 100 centimetres in 1 metre.\n    So, 3 metres = 3 * 100 centimetres = 300 cm.\n\n2.  Now that both measurements are in centimetres, we can calculate the area of the rectangle using the formula: Area = Length × Width.\n    Area = 300 cm × 40 cm\n    Area = 12000 cm².\n\nTherefore, the area of the patio is 12000 square centimetres.",
+      "hint": "Remember to make sure both measurements are in the same unit (centimetres in this case) before calculating the area. How many centimetres are there in one metre?",
+      "generatedAt": "2026-04-29T09:53:09.858652"
+    },
+    {
+      "id": "m-y5-measure_beginner_002",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A metal frame is built in an L-shape. It has an outer length of 7 metres and another outer length of 6 metres. The two inner lengths are 4 metres and 3 metres. The remaining two sides are 300 centimetres and 2 metres. What is the total perimeter of the metal frame in metres?",
+      "options": [
+        "22 metres",
+        "25 metres",
+        "28 metres",
+        "322 metres"
+      ],
+      "correctAnswer": "25 metres",
+      "explanation": "To find the total perimeter of the L-shaped frame, we need to add the lengths of all six of its sides. First, we must ensure all lengths are in the same unit, which is metres, as the question asks for the answer in metres.\n\nGiven lengths:\n1.  7 metres\n2.  6 metres\n3.  4 metres\n4.  3 metres\n5.  300 centimetres\n6.  2 metres\n\nStep 1: Convert 300 centimetres to metres.\nThere are 100 centimetres in 1 metre. So, to convert centimetres to metres, we divide by 100.\n300 cm ÷ 100 = 3 metres.\n\nStep 2: Add all the lengths together in metres.\n7m + 6m + 4m + 3m + 3m (from conversion) + 2m = 25 metres.\n\nTherefore, the total perimeter of the metal frame is 25 metres.",
+      "hint": "The perimeter is the total distance around the outside of a shape. Make sure all lengths are in the same unit (metres) before you add them up.",
+      "generatedAt": "2026-04-29T09:53:39.502819"
+    },
+    {
+      "id": "m-y5-measure_beginner_003",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Three identical square mosaic tiles are placed in a straight line, side by side, to form a longer rectangular border. Each square tile has a side length of 150 millimetres. What is the total perimeter of this new longer rectangular border, in centimetres?",
+      "options": [
+        "A) 60 cm",
+        "B) 120 cm",
+        "C) 180 cm",
+        "D) 150 cm"
+      ],
+      "correctAnswer": "B) 120 cm",
+      "explanation": "1.  First, determine the dimensions of the new longer rectangular border.\n    Each square tile has a side length of 150 millimetres.\n    When three identical square tiles are placed side by side, the new length of the border will be three times the side length of one tile.\n    New Length = 3 × 150 mm = 450 mm.\n    The width of the new border will be the same as the side length of one tile.\n    New Width = 150 mm.\n\n2.  Next, calculate the perimeter of the new rectangular border.\n    The formula for the perimeter of a rectangle is P = 2 × (Length + Width).\n    P = 2 × (450 mm + 150 mm)\n    P = 2 × (600 mm)\n    P = 1200 mm.\n\n3.  Finally, convert the perimeter from millimetres to centimetres.\n    There are 10 millimetres in 1 centimetre.\n    1200 mm ÷ 10 = 120 cm.\n\nTherefore, the total perimeter of the new longer rectangular border is 120 cm.",
+      "hint": "Remember to first figure out the total length and width of the *new combined shape* before calculating its perimeter, and pay attention to the units requested (millimetres to centimetres).",
+      "generatedAt": "2026-04-29T09:54:02.308822"
+    },
+    {
+      "id": "m-y5-measure_beginner_004",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square field has a side length of 2.5 metres. A new fence needs to be built around the entire field.\n\nCalculate the total length of fencing required, in centimetres. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the total length of fencing required, we first need to calculate the perimeter of the square field.\n\n1.  **Calculate the perimeter of the square field in metres:**\n    A square has 4 equal sides. \n    Perimeter = 4 × side length\n    Perimeter = 4 × 2.5 metres\n    Perimeter = 10 metres\n\n2.  **Convert the perimeter from metres to centimetres:**\n    We know that 1 metre = 100 centimetres.\n    So, 10 metres = 10 × 100 centimetres\n    Total length of fencing = 1000 centimetres\n\n**Answer:** The total length of fencing required is 1000 centimetres.",
+      "explanation": "The problem asks for the total length of fencing required around a square field, which means we need to find its perimeter. The side length is given in metres, but the final answer must be in centimetres. Therefore, two steps are needed: first, calculate the perimeter in metres, and second, convert that measurement into centimetres. The perimeter of a square is found by multiplying its side length by 4. Once the perimeter is in metres, it is converted to centimetres by multiplying by 100, because there are 100 centimetres in every metre.",
+      "hint": "Remember how many centimetres are in a metre, and how to find the perimeter of a square.",
+      "generatedAt": "2026-04-29T09:54:17.581938"
+    },
+    {
+      "id": "m-y5-measure_beginner_005",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A square table has a side length of 80 centimetres. What is the area of the table in square metres?",
+      "options": [
+        "6400 m²",
+        "6.4 m²",
+        "0.64 m²",
+        "64 m²"
+      ],
+      "correctAnswer": "0.64 m²",
+      "explanation": "First, convert the side length from centimetres to metres. There are 100 centimetres in 1 metre.\nSo, 80 cm = 80 ÷ 100 m = 0.8 m.\n\nNext, calculate the area of the square table. The formula for the area of a square is side × side.\nArea = 0.8 m × 0.8 m = 0.64 m².",
+      "hint": "Remember to convert the side length from centimetres to metres before calculating the area. Think about how many centimetres are in a metre.",
+      "generatedAt": "2026-04-29T09:54:27.080962"
+    },
+    {
+      "id": "m-y5-measure_beginner_006",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A classroom floor is made up of two rectangular sections. The first section is 6 metres long and 4 metres wide. The second section is 500 centimetres long and 3 metres wide. What is the total floor area of the classroom in square metres?",
+      "options": [
+        "27 m²",
+        "39 m²",
+        "174 m²",
+        "1524 m²"
+      ],
+      "correctAnswer": "39 m²",
+      "explanation": "Step 1: Calculate the area of the first rectangular section.\nArea = Length × Width = 6 metres × 4 metres = 24 m².\n\nStep 2: Convert the length of the second rectangular section to metres.\nThere are 100 centimetres in 1 metre, so 500 centimetres = 500 ÷ 100 = 5 metres.\n\nStep 3: Calculate the area of the second rectangular section.\nArea = Length × Width = 5 metres × 3 metres = 15 m².\n\nStep 4: Add the areas of both sections to find the total floor area.\nTotal Area = Area of first section + Area of second section = 24 m² + 15 m² = 39 m².",
+      "hint": "Ensure all length measurements are in the same unit (metres) before you calculate the area of each section.",
+      "generatedAt": "2026-04-29T09:54:43.460293"
+    },
+    {
+      "id": "m-y5-measure_beginner_007",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A rectangular patio has a length of 6 metres and a width of 3 metres. A square flower bed, with a side length of 100 centimetres, is built in the middle of the patio. Calculate the area of the patio that is NOT covered by the flower bed, in square metres.",
+      "options": [
+        "17 m²",
+        "15 m²",
+        "19 m²",
+        "18 m²"
+      ],
+      "correctAnswer": "17 m²",
+      "explanation": "First, we need to ensure all measurements are in the same unit. The final answer needs to be in square metres, so we convert the side length of the square flower bed from centimetres to metres:\n100 centimetres = 1 metre.\n\nNext, calculate the area of the rectangular patio:\nArea of patio = length × width = 6 metres × 3 metres = 18 square metres.\n\nThen, calculate the area of the square flower bed:\nArea of flower bed = side × side = 1 metre × 1 metre = 1 square metre.\n\nFinally, to find the area of the patio that is NOT covered by the flower bed, subtract the area of the flower bed from the area of the patio:\nArea not covered = Area of patio - Area of flower bed = 18 m² - 1 m² = 17 m².",
+      "hint": "Remember to convert all measurements to the same unit (metres in this case) before calculating areas and performing subtraction. This is a common first step when working with different units.",
+      "generatedAt": "2026-04-29T09:54:59.671483"
+    },
+    {
+      "id": "m-y5-measure_beginner_008",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A rectangular display board has a length of 1.2 metres and a width of 40 centimetres. Calculate the perimeter of the display board in centimetres.",
+      "options": [
+        "104 cm",
+        "160 cm",
+        "240 cm",
+        "320 cm"
+      ],
+      "correctAnswer": "320 cm",
+      "explanation": "1. The length is given as 1.2 metres. To convert this to centimetres, we multiply by 100 (since 1 metre = 100 centimetres): 1.2 metres * 100 = 120 centimetres.\n2. The width is already given in centimetres: 40 centimetres.\n3. The formula for the perimeter of a rectangle is P = 2 * (Length + Width).\n4. Substitute the values into the formula: P = 2 * (120 cm + 40 cm).\n5. First, add the length and width: 120 cm + 40 cm = 160 cm.\n6. Then, multiply the sum by 2: P = 2 * 160 cm = 320 cm.\nSo, the perimeter of the display board is 320 cm.",
+      "hint": "Make sure all the measurements are in the same units (centimetres) before calculating the perimeter. Remember that 1 metre = 100 centimetres.",
+      "generatedAt": "2026-04-29T09:55:15.624945"
+    },
+    {
+      "id": "m-y5-measure_beginner_009",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A rectangular swimming pool has a length of 8 metres and a width of 350 centimetres. What is the perimeter of the pool in metres?",
+      "options": [
+        "A) 11.5 metres",
+        "B) 23 metres",
+        "C) 19.5 metres",
+        "D) 28 square metres"
+      ],
+      "correctAnswer": "B) 23 metres",
+      "explanation": "Step 1: Convert the width from centimetres to metres.\nThere are 100 centimetres in 1 metre, so 350 centimetres = 350 ÷ 100 = 3.5 metres.\n\nStep 2: Recall the formula for the perimeter of a rectangle.\nPerimeter = 2 × (length + width)\n\nStep 3: Substitute the length and converted width into the formula.\nPerimeter = 2 × (8 metres + 3.5 metres)\nPerimeter = 2 × (11.5 metres)\nPerimeter = 23 metres.",
+      "hint": "Remember to convert all measurements to the same unit before calculating the perimeter. Also, recall the formula for the perimeter of a rectangle.",
+      "generatedAt": "2026-04-29T09:55:30.464358"
+    },
+    {
+      "id": "m-y5-measure_beginner_010",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A garden path is shaped like the letter 'L'. Imagine a large rectangle with a length of 6 metres and a width of 4 metres. A smaller rectangular section, measuring 2 metres long and 1 metre wide, has been removed from one corner of this large rectangle to form the 'L' shape. What is the total perimeter of this L-shaped garden path? Give your answer in centimetres.",
+      "options": [
+        "20 cm",
+        "200 cm",
+        "2000 cm",
+        "2200 cm"
+      ],
+      "correctAnswer": "2000 cm",
+      "explanation": "1.  First, let's find the perimeter of the L-shaped path. When a rectangular section is removed from a corner of a larger rectangle to form an 'L' shape, the total perimeter of the new 'L' shape is actually the same as the perimeter of the original large rectangle.\n2.  The original large rectangle has a length of 6 metres and a width of 4 metres.\n3.  Calculate the perimeter of this large rectangle: Perimeter = 2 × (Length + Width) = 2 × (6 m + 4 m) = 2 × 10 m = 20 metres.\n4.  Now, we need to convert the perimeter from metres to centimetres. We know that 1 metre = 100 centimetres.\n5.  So, 20 metres = 20 × 100 centimetres = 2000 centimetres.\nTherefore, the total perimeter of the L-shaped garden path is 2000 cm.",
+      "hint": "Remember that 1 metre is equal to 100 centimetres. Think about how removing a rectangular corner affects the total perimeter of the shape compared to the original large rectangle.",
+      "generatedAt": "2026-04-29T09:55:52.314286"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y5-measure_intermediate_001",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A floor plan for a storage room is shaped like an 'L'. This shape can be visualized as a large outer rectangle with a smaller rectangular section cut out from one corner. The total length of the outer rectangle is 5 meters, and its total width is 3 meters. The rectangular section that is cut out from the corner has a length of 200 centimetres and a width of 1 meter. Calculate the total area of the floor of the storage room in square meters. You must show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Convert all measurements to the same unit. \nWe have 200 centimetres, which is equal to 2 meters (since 1 meter = 100 centimetres).\n\nStep 2: Calculate the area of the large outer rectangle.\nArea_large = Length × Width = 5 m × 3 m = 15 m².\n\nStep 3: Calculate the area of the smaller rectangular section that is cut out.\nArea_cutout = Length × Width = 2 m × 1 m = 2 m².\n\nStep 4: Calculate the total area of the L-shaped room by subtracting the cut-out area from the large rectangle's area.\nArea_room = Area_large - Area_cutout = 15 m² - 2 m² = 13 m².\n\nThe total area of the floor of the storage room is 13 square meters.",
+      "explanation": "To solve this problem, first, ensure all dimensions are in consistent units (meters in this case). The 200 cm length of the cut-out section needs to be converted to 2 meters. Next, calculate the area of the imaginary larger rectangle (5m x 3m = 15m²). Then, calculate the area of the section that is 'cut out' (2m x 1m = 2m²). Finally, subtract the area of the cut-out section from the area of the larger rectangle to find the area of the L-shaped room (15m² - 2m² = 13m²).",
+      "hint": "Start by converting all length measurements to a single, consistent unit before performing any area calculations.",
+      "generatedAt": "2026-04-29T09:56:06.346840"
+    },
+    {
+      "id": "m-y5-measure_intermediate_002",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large rectangular patio is being built. Its length is 12 metres and its width is 7.5 metres. A section of this patio, intended for a small fountain, is removed from one corner. This removed section is a right-angled triangle. The two perpendicular sides of the triangular section measure 400 centimetres and 3 metres respectively. Calculate the remaining area of the patio in square metres. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Convert all measurements to the same unit (metres).\nThe length of the rectangular patio is 12 m.\nThe width of the rectangular patio is 7.5 m.\nOne perpendicular side of the triangular section is 400 cm. Since 100 cm = 1 m, 400 cm = 4 m.\nThe other perpendicular side of the triangular section is 3 m.\n\nStep 2: Calculate the area of the rectangular patio.\nArea of rectangle = length × width\nArea_rectangle = 12 m × 7.5 m = 90 m²\n\nStep 3: Calculate the area of the triangular section.\nArea of right-angled triangle = (1/2) × base × height\nUsing the perpendicular sides as base and height:\nArea_triangle = (1/2) × 4 m × 3 m\nArea_triangle = (1/2) × 12 m² = 6 m²\n\nStep 4: Calculate the remaining area of the patio.\nRemaining Area = Area_rectangle - Area_triangle\nRemaining Area = 90 m² - 6 m²\nRemaining Area = 84 m²\n\nThe remaining area of the patio is 84 square metres.",
+      "explanation": "Step 1: Convert all measurements to the same unit (metres).\nThe length of the rectangular patio is 12 m.\nThe width of the rectangular patio is 7.5 m.\nOne perpendicular side of the triangular section is 400 cm. Since 100 cm = 1 m, 400 cm = 4 m.\nThe other perpendicular side of the triangular section is 3 m.\n\nStep 2: Calculate the area of the rectangular patio.\nArea of rectangle = length × width\nArea_rectangle = 12 m × 7.5 m = 90 m²\n\nStep 3: Calculate the area of the triangular section.\nArea of right-angled triangle = (1/2) × base × height\nUsing the perpendicular sides as base and height:\nArea_triangle = (1/2) × 4 m × 3 m\nArea_triangle = (1/2) × 12 m² = 6 m²\n\nStep 4: Calculate the remaining area of the patio.\nRemaining Area = Area_rectangle - Area_triangle\nRemaining Area = 90 m² - 6 m²\nRemaining Area = 84 m²\n\nThe remaining area of the patio is 84 square metres.",
+      "hint": "Remember to convert all measurements to the same unit before calculating any areas. Identify the shapes involved and how their areas combine to find the final area.",
+      "generatedAt": "2026-04-29T09:56:22.829191"
+    },
+    {
+      "id": "m-y5-measure_intermediate_003",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A rectangular plot of land has a length of 7.5 metres and a width of 400 centimetres. A square flower bed, with each side measuring 2000 millimetres, is located in one corner of this plot. The remaining area of the plot is to be paved. Calculate the area, in square metres, that needs to be paved. Show your working clearly.",
+      "options": [
+        "A) 26 m²",
+        "B) 30 m²",
+        "C) 4 m²",
+        "D) 296 m²"
+      ],
+      "correctAnswer": "A) 26 m²",
+      "explanation": "To solve this problem, we first need to ensure all measurements are in the same unit, preferably metres, before calculating the areas.\n\n1.  **Convert all dimensions to metres:**\n    *   Length of the rectangular plot = 7.5 m (already in metres)\n    *   Width of the rectangular plot = 400 cm. Since 100 cm = 1 m, width = 400 / 100 = 4 m.\n    *   Side length of the square flower bed = 2000 mm. Since 1000 mm = 1 m, side length = 2000 / 1000 = 2 m.\n\n2.  **Calculate the area of the entire rectangular plot:**\n    *   Area of plot = length × width = 7.5 m × 4 m = 30 m².\n\n3.  **Calculate the area of the square flower bed:**\n    *   Area of flower bed = side × side = 2 m × 2 m = 4 m².\n\n4.  **Calculate the remaining area to be paved:**\n    *   The area to be paved is the total area of the plot minus the area of the flower bed.\n    *   Area to be paved = Area of plot - Area of flower bed = 30 m² - 4 m² = 26 m².",
+      "hint": "Start by converting all given measurements to a single, consistent unit (e.g., metres) before calculating any areas. Then, consider how the area of the flower bed relates to the total area of the plot.",
+      "generatedAt": "2026-04-29T09:56:36.371296"
+    },
+    {
+      "id": "m-y5-measure_intermediate_004",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A rectangular sheet of metal has a length of 8 metres and a width of 5 metres. A smaller rectangular section is cut out from one of its corners. The side of the cut-out section that lies along the 8-metre edge of the large sheet measures 200 centimetres. The side of the cut-out section that lies along the 5-metre edge of the large sheet measures 1.5 metres. Calculate the perimeter of the remaining metal sheet. Show your working clearly.",
+      "options": [
+        "22.5 m",
+        "26 m",
+        "27.5 m",
+        "29.5 m"
+      ],
+      "correctAnswer": "26 m",
+      "explanation": "1.  **Convert units:** The length of the cut-out section along the 8-metre edge is given as 200 centimetres. To be consistent with other measurements, convert this to metres:\n    200 cm = 200 ÷ 100 m = 2 metres.\n\n2.  **Identify dimensions:**\n    *   Original large rectangle length (L) = 8 m\n    *   Original large rectangle width (W) = 5 m\n    *   Cut-out length along L (lc) = 2 m\n    *   Cut-out width along W (wc) = 1.5 m\n\n3.  **Calculate the perimeter of the remaining shape:**\n    When a rectangular section is cut from a corner of a larger rectangle to form an 'L' shape, the perimeter of the new shape is equivalent to the perimeter of the original large rectangle. This is because the two new internal edges created by the cut replace the segments that were removed from the original outer edges.\n\n    Alternatively, we can sum the lengths of all the outer edges of the 'L' shape:\n    *   One full side of the original rectangle: 8 m\n    *   The other full side of the original rectangle: 5 m\n    *   The remaining part of the 8 m side after the cut: L - lc = 8 m - 2 m = 6 m\n    *   The remaining part of the 5 m side after the cut: W - wc = 5 m - 1.5 m = 3.5 m\n    *   The two new internal edges created by the cut-out: lc = 2 m and wc = 1.5 m\n\n    Perimeter = (8 m) + (5 m) + (6 m) + (3.5 m) + (2 m) + (1.5 m)\n    Perimeter = 13 m + 6 m + 3.5 m + 2 m + 1.5 m\n    Perimeter = 19 m + 3.5 m + 2 m + 1.5 m\n    Perimeter = 22.5 m + 2 m + 1.5 m\n    Perimeter = 24.5 m + 1.5 m\n    Perimeter = 26 m\n\n    Using the property (Perimeter of original rectangle): Perimeter = 2 × (L + W) = 2 × (8 m + 5 m) = 2 × 13 m = 26 m.\n\nTherefore, the perimeter of the remaining metal sheet is 26 metres.",
+      "hint": "First, convert all measurements to the same unit. Then, carefully consider all the outer edges of the remaining shape, including any new internal edges created by the cut-out.",
+      "generatedAt": "2026-04-29T09:57:07.720453"
+    },
+    {
+      "id": "m-y5-measure_intermediate_005",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A large metal plate is constructed from two parts: a rectangle and a semicircle. The rectangular part has a length of 2.5 metres and a width of 1.2 metres. The semicircle is attached to one of the 1.2-metre sides of the rectangle, such that its diameter is equal to the width of the rectangle. Calculate the total area of the metal plate in square centimetres. You must show all your working. Use π = 3.14.",
+      "options": [
+        "A) 30,000 cm²",
+        "B) 31,884 cm²",
+        "C) 35,652 cm²",
+        "D) 37,200 cm²"
+      ],
+      "correctAnswer": "C) 35,652 cm²",
+      "explanation": "1.  **Calculate the area of the rectangular part:**\n    First, convert the dimensions of the rectangle from metres to centimetres:\n    Length = 2.5 m = 2.5 × 100 cm = 250 cm\n    Width = 1.2 m = 1.2 × 100 cm = 120 cm\n    Area of rectangle = Length × Width = 250 cm × 120 cm = 30,000 cm²\n\n2.  **Calculate the area of the semicircular part:**\n    The diameter of the semicircle is equal to the width of the rectangle, so the diameter is 1.2 m.\n    Convert the diameter to centimetres: 1.2 m = 120 cm.\n    The radius of the semicircle (r) = Diameter / 2 = 120 cm / 2 = 60 cm.\n    The area of a full circle is given by the formula A = πr².\n    The area of a semicircle is half the area of a full circle: A_semicircle = (πr²) / 2.\n    Using π = 3.14:\n    A_semicircle = (3.14 × (60 cm)²) / 2\n    A_semicircle = (3.14 × 3600 cm²) / 2\n    A_semicircle = 11304 cm² / 2 = 5652 cm²\n\n3.  **Calculate the total area of the metal plate:**\n    Total Area = Area of rectangle + Area of semicircle\n    Total Area = 30,000 cm² + 5652 cm² = 35,652 cm²",
+      "hint": "Remember to convert all linear measurements to centimetres before calculating the area, or convert the final area from square metres to square centimetres. You will need the formulas for the area of a rectangle and a semicircle.",
+      "generatedAt": "2026-04-29T09:57:23.301576"
+    },
+    {
+      "id": "m-y5-measure_intermediate_006",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A rectangular garden has a length of 15 metres and a width of 8 metres. A path of uniform width surrounds the entire garden. The path is 50 centimetres wide. Calculate the area of the path in square metres. Show your working.",
+      "options": [
+        "23 m²",
+        "24 m²",
+        "30 m²",
+        "40 m²"
+      ],
+      "correctAnswer": "24 m²",
+      "explanation": "1.  Convert the path width from centimetres to metres: 50 cm = 0.5 metres.\n2.  Calculate the dimensions of the larger rectangle (garden including the path). Since the path surrounds the entire garden, its width is added to both ends of the length and both ends of the width.\n    *   New Length = Garden Length + (2 × Path Width) = 15 m + (2 × 0.5 m) = 15 m + 1 m = 16 m.\n    *   New Width = Garden Width + (2 × Path Width) = 8 m + (2 × 0.5 m) = 8 m + 1 m = 9 m.\n3.  Calculate the area of the larger rectangle: Area = Length × Width = 16 m × 9 m = 144 m².\n4.  Calculate the area of the garden: Area = Length × Width = 15 m × 8 m = 120 m².\n5.  Subtract the area of the garden from the area of the larger rectangle to find the area of the path: Area of Path = 144 m² - 120 m² = 24 m².",
+      "hint": "Remember to convert all measurements to the same unit (metres in this case) before calculating, and consider how the path adds to the dimensions of the garden on all sides.",
+      "generatedAt": "2026-04-29T09:57:37.476839"
+    },
+    {
+      "id": "m-y5-measure_intermediate_007",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A carpenter is making a desk surface from a large rectangular piece of wood. The original rectangular piece has a length of 6.0 metres and a width of 3.5 metres. To create a specific 'L' shape, a rectangular section is cut out from one corner. This cut-out rectangular section has a length of 1.5 metres and a width of 200 centimetres. Calculate the total area of the final 'L'-shaped desk surface in square metres. Show all your working.",
+      "options": [
+        "A. 19.5 m²",
+        "B. 18.0 m²",
+        "C. 24.0 m²",
+        "D. 20.5 m²"
+      ],
+      "correctAnswer": "B. 18.0 m²",
+      "explanation": "1.  First, convert the width of the cut-out rectangular section from centimetres to metres:\n    200 cm = 200 ÷ 100 m = 2.0 m.\n\n2.  Next, calculate the area of the original large rectangular piece of wood:\n    Area of large rectangle = Length × Width = 6.0 m × 3.5 m = 21.0 m².\n\n3.  Then, calculate the area of the rectangular section that is cut out:\n    Area of cut-out section = Length × Width = 1.5 m × 2.0 m = 3.0 m².\n\n4.  Finally, calculate the total area of the 'L'-shaped desk surface by subtracting the area of the cut-out section from the area of the original large rectangle:\n    Area of 'L'-shaped desk = Area of large rectangle - Area of cut-out section\n    Area of 'L'-shaped desk = 21.0 m² - 3.0 m² = 18.0 m².",
+      "hint": "Ensure all measurements are in the same units (metres) before calculating areas. Consider the 'L' shape as a larger rectangle with a smaller rectangle removed.",
+      "generatedAt": "2026-04-29T09:57:49.939812"
+    },
+    {
+      "id": "m-y5-measure_intermediate_008",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A floor plan for a room consists of a rectangular section, ABCD, and an adjacent right-angled triangular section, CDE. The side CD of the rectangle is also a side of the triangle. The length of side AB is 7.5 metres. The length of side BC is 300 centimetres. The triangular section CDE has its right angle at E, and the length of side CE is 2.0 metres. Calculate the total area of the floor plan in square metres. Show all your working.",
+      "options": [
+        "A) 30.0 m²",
+        "B) 37.5 m²",
+        "C) 9.75 m²",
+        "D) 24.5 m²"
+      ],
+      "correctAnswer": "A) 30.0 m²",
+      "explanation": "Step 1: Convert all measurements to a consistent unit, in this case, metres.\nLength of BC = 300 cm = 300 ÷ 100 m = 3 metres.\nLength of AB = CD = 7.5 metres (since ABCD is a rectangle).\nLength of CE = 2.0 metres.\n\nStep 2: Calculate the area of the rectangular section ABCD.\nArea of rectangle = length × width\nArea_rectangle = AB × BC = 7.5 m × 3 m = 22.5 m².\n\nStep 3: Calculate the area of the triangular section CDE.\nArea of a right-angled triangle = 0.5 × base × height\nFor triangle CDE, the base is CD and the height is CE.\nArea_triangle = 0.5 × CD × CE = 0.5 × 7.5 m × 2.0 m = 7.5 m².\n\nStep 4: Calculate the total area of the floor plan by adding the areas of the two sections.\nTotal Area = Area_rectangle + Area_triangle\nTotal Area = 22.5 m² + 7.5 m² = 30.0 m².",
+      "hint": "First, ensure all dimensions are expressed in the same unit before calculating any areas. Remember the formula for the area of a rectangle and a triangle.",
+      "generatedAt": "2026-04-29T09:58:10.677714"
+    },
+    {
+      "id": "m-y5-measure_intermediate_009",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A rectangular courtyard has a length of 12.5 metres and a width of 8 metres. Inside this courtyard, there is a rectangular flower bed, positioned centrally. The flower bed measures 650 centimetres in length and 4 metres in width. The remaining area of the courtyard is to be paved. Paving stones are sold in packs, and each pack covers an area of 7,500 square centimetres. How many packs of paving stones are needed to cover the remaining area of the courtyard? Show your working.",
+      "options": [],
+      "correctAnswer": "To find the number of paving packs needed, follow these steps:\n\n1.  **Calculate the area of the rectangular courtyard:**\n    Length = 12.5 m\n    Width = 8 m\n    Area of courtyard = Length × Width = 12.5 m × 8 m = 100 m²\n\n2.  **Calculate the area of the rectangular flower bed:**\n    Length = 650 cm\n    Width = 4 m\n    To ensure consistent units, convert the length of the flower bed from centimetres to metres:\n    650 cm = 650 / 100 m = 6.5 m\n    Area of flower bed = Length × Width = 6.5 m × 4 m = 26 m²\n\n3.  **Calculate the remaining area to be paved:**\n    Remaining area = Area of courtyard - Area of flower bed\n    Remaining area = 100 m² - 26 m² = 74 m²\n\n4.  **Convert the area covered by one pack of paving stones to square metres:**\n    One pack covers 7,500 cm².\n    Since 1 m = 100 cm, then 1 m² = 100 cm × 100 cm = 10,000 cm².\n    Area per pack in m² = 7,500 cm² / 10,000 cm²/m² = 0.75 m²\n\n5.  **Calculate the number of packs needed:**\n    Number of packs = Total area to be paved / Area per pack\n    Number of packs = 74 m² / 0.75 m²/pack = 98.666...\n\n6.  **Round up to the nearest whole number as you cannot buy a fraction of a pack:**\n    Therefore, you need **99 packs** of paving stones.",
+      "explanation": "The problem requires calculating the area of a composite shape (a larger rectangle with a smaller rectangle removed), converting units between cm and m (and cm² and m²), and then performing a division and rounding up to find the number of packs. First, the area of the entire courtyard is found. Then, the area of the flower bed is calculated after converting its length to metres to match the courtyard's units. Subtracting the flower bed's area from the courtyard's area gives the paved area. Finally, the area covered by one pack is converted to m², and the total paved area is divided by the pack area. Since you cannot buy a partial pack, the result is always rounded up to the next whole number.",
+      "hint": "Ensure all measurements are in consistent units (e.g., all metres) before calculating areas. Remember to round up when determining the number of packs needed.",
+      "generatedAt": "2026-04-29T09:58:35.680278"
+    },
+    {
+      "id": "m-y5-measure_intermediate_010",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A flat piece of metal is shaped like an L-shape. The largest rectangle that completely encloses this L-shape has a length of 18 metres and a width of 10 metres. To create the L-shape, a rectangular section measuring 700 cm in length and 4 metres in width was removed from one corner of this larger rectangle. The remaining L-shaped metal is to be painted. Each litre of paint covers an area of 5 square metres.\nHow many litres of paint are needed to cover the L-shaped metal piece? Show your working.",
+      "options": [
+        "A. 30.4 litres",
+        "B. 36 litres",
+        "C. 41.6 litres",
+        "D. 35.44 litres"
+      ],
+      "correctAnswer": "A. 30.4 litres",
+      "explanation": "Step 1: Convert all measurements to a consistent unit. The removed section's length is given as 700 cm. Since 100 cm = 1 metre, 700 cm = 7 metres.\n\nStep 2: Calculate the area of the largest rectangle that encloses the L-shape.\nArea of enclosing rectangle = Length × Width = 18 m × 10 m = 180 m².\n\nStep 3: Calculate the area of the rectangular section that was removed.\nArea of removed section = Length × Width = 7 m × 4 m = 28 m².\n\nStep 4: Calculate the area of the L-shaped metal piece by subtracting the removed area from the enclosing area.\nArea of L-shaped metal = Area of enclosing rectangle - Area of removed section = 180 m² - 28 m² = 152 m².\n\nStep 5: Calculate the total amount of paint needed. Each litre covers 5 square metres.\nLitres of paint = Total area / Coverage per litre = 152 m² / 5 m²/litre = 30.4 litres.",
+      "hint": "Begin by ensuring all given measurements are in the same unit. Then, consider how the area of an L-shape can be calculated by using the area of a larger shape and subtracting the area of a smaller, missing part.",
+      "generatedAt": "2026-04-29T09:58:57.698209"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y5-measure_advanced_001",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A rectangular school hall has dimensions 30 meters long and 20 meters wide. A decorative border, 1.5 meters wide, is to be painted around the entire perimeter of the hall floor. The central rectangular area inside the border will be covered with a special non-slip coating.\n\na) Calculate the area of the decorative border in square meters. Show your working. (3 marks)\nb) The non-slip coating is applied at a cost of £12.50 per square meter. Calculate the total cost of the non-slip coating for the central area. Show your working. (3 marks)\nc) Before painting, the border area needs to be cleaned with a special solution. One litre of the solution covers 50,000 square centimeters. How many litres of the cleaning solution are needed for the border area? Give your answer to one decimal place if necessary. Show your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) 141 m^2\nb) £5737.50\nc) 28.2 litres",
+      "explanation": "a) Calculation of the area of the decorative border:\nFirst, find the dimensions of the outer rectangle (the full hall floor):\nLength = 30 m\nWidth = 20 m\nArea of outer rectangle = Length × Width = 30 m × 20 m = 600 m^2\n\nNext, find the dimensions of the inner rectangle (the central area for non-slip coating):\nThe border is 1.5 m wide all around, so it reduces the length and width by 1.5 m on each side.\nNew Length = 30 m - (1.5 m + 1.5 m) = 30 m - 3 m = 27 m\nNew Width = 20 m - (1.5 m + 1.5 m) = 20 m - 3 m = 17 m\nArea of inner rectangle = Length × Width = 27 m × 17 m = 459 m^2\n\nArea of the decorative border = Area of outer rectangle - Area of inner rectangle\nArea of the decorative border = 600 m^2 - 459 m^2 = 141 m^2\n\nb) Calculation of the total cost of the non-slip coating:\nThe non-slip coating is for the central area, which is the inner rectangle.\nArea of central area = 459 m^2 (from part a)\nCost per square meter = £12.50\nTotal cost = Area × Cost per square meter = 459 m^2 × £12.50 = £5737.50\n\nc) Calculation of the litres of cleaning solution needed:\nThe cleaning solution is for the border area.\nArea of border = 141 m^2 (from part a)\n\nFirst, convert the border area from square meters to square centimeters:\n1 meter = 100 centimeters\n1 m^2 = 100 cm × 100 cm = 10,000 cm^2\nArea of border in cm^2 = 141 m^2 × 10,000 cm^2/m^2 = 1,410,000 cm^2\n\nNext, calculate the number of litres needed:\nOne litre covers 50,000 cm^2.\nLitres needed = Total area in cm^2 / Coverage per litre\nLitres needed = 1,410,000 cm^2 / 50,000 cm^2/litre = 141 / 5 litres = 28.2 litres",
+      "hint": "Break down the composite shape into simpler rectangles. Remember to adjust dimensions carefully when working with a border. Pay close attention to unit conversions (meters to centimeters for area) before calculating the final quantity.",
+      "generatedAt": "2026-04-29T09:59:24.876152"
+    },
+    {
+      "id": "m-y5-measure_advanced_002",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A boutique changing room has a floor plan consisting of two rectangular sections forming an L-shape. The larger rectangular section is 4.5 meters long and 3.2 meters wide. The smaller rectangular alcove is attached to one of the 3.2-meter sides. This alcove extends 1.8 meters further, and has a width of 1.5 meters. The owner plans to carpet the entire floor with square carpet tiles, each measuring 50 cm by 50 cm. These tiles are sold in boxes, with each box containing 8 tiles. The cost per box is £36.50. Due to the intricate pattern of the tiles and the need for precision cuts around the room's edges, an additional 15% of the calculated number of tiles must be purchased to account for wastage. \n\nCalculate the total cost of purchasing the carpet tiles for the changing room. Show all your working.",
+      "options": [],
+      "correctAnswer": "£365.00",
+      "explanation": "Here's the step-by-step working:\n\n1.  **Calculate the area of the larger rectangular section:**\n    Length = 4.5 m\n    Width = 3.2 m\n    Area1 = 4.5 m × 3.2 m = 14.4 m²\n\n2.  **Calculate the area of the smaller rectangular alcove:**\n    Length = 1.8 m\n    Width = 1.5 m\n    Area2 = 1.8 m × 1.5 m = 2.7 m²\n\n3.  **Calculate the total area of the changing room floor:**\n    Total Area = Area1 + Area2 = 14.4 m² + 2.7 m² = 17.1 m²\n\n4.  **Calculate the area of one carpet tile in square meters:**\n    Side length = 50 cm. To convert to meters, divide by 100: 50 cm = 0.5 m.\n    Area of one tile = 0.5 m × 0.5 m = 0.25 m²\n\n5.  **Calculate the number of tiles required before accounting for wastage:**\n    Number of tiles (raw) = Total Area / Area of one tile = 17.1 m² / 0.25 m² = 68.4 tiles\n\n6.  **Calculate the number of additional tiles for wastage (15%):**\n    Wastage tiles = 15% of 68.4 tiles = 0.15 × 68.4 = 10.26 tiles\n\n7.  **Calculate the total number of tiles to be purchased, rounding up to the nearest whole tile:**\n    Total tiles to purchase = 68.4 tiles + 10.26 tiles = 78.66 tiles\n    Since tiles are sold as whole units, you must round up to the next whole number: 79 tiles.\n\n8.  **Calculate the number of boxes needed, rounding up as boxes cannot be split:**\n    Tiles per box = 8\n    Number of boxes = Total tiles to purchase / Tiles per box = 79 tiles / 8 tiles/box = 9.875 boxes\n    Since boxes must be purchased whole, you must round up to the next whole number: 10 boxes.\n\n9.  **Calculate the total cost:**\n    Cost per box = £36.50\n    Total Cost = Number of boxes × Cost per box = 10 boxes × £36.50/box = £365.00",
+      "hint": "Start by breaking the L-shaped room into two rectangles to find the total area. Remember to convert all measurements to the same units before calculating areas and tile numbers. Don't forget to account for the wastage percentage and to round up when buying tiles and boxes.",
+      "generatedAt": "2026-04-29T09:59:45.590438"
+    },
+    {
+      "id": "m-y5-measure_advanced_003",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A garden path has a floor plan in the shape of an 'L'. The longest side of the path measures 12 meters. The next longest side, adjacent to the longest side, measures 10 meters. The path has a uniform width of 3 meters. \n\nThe entire path needs to be paved with square paving slabs, each measuring 50 cm by 50 cm. These slabs cost £4.80 each. An additional 15% of slabs must be purchased to account for cutting and wastage. \n\nA decorative border is to be installed along the entire outer and inner edge of the path. The border material costs £8.50 per meter. \n\nCalculate the total cost of paving slabs and the decorative border. Show all your working.",
+      "options": [],
+      "correctAnswer": "Step 1: Calculate the area of the L-shaped path.\nThe L-shaped path can be divided into two simpler rectangles to calculate its area.\nConsider one rectangle as the long arm: 12 m long and 3 m wide.\nArea of Rectangle 1 = 12 m × 3 m = 36 m².\n\nThe second rectangle forms the shorter arm. Its length will be the total length of the shorter side minus the width of the first rectangle: (10 m - 3 m) = 7 m. Its width is the uniform path width, 3 m.\nArea of Rectangle 2 = 7 m × 3 m = 21 m².\n\nTotal Area of path = Area of Rectangle 1 + Area of Rectangle 2 = 36 m² + 21 m² = 57 m².\n\nStep 2: Calculate the area of one paving slab and the number of slabs required.\nFirst, convert the slab dimensions from cm to m: 50 cm = 0.5 m.\nArea of one paving slab = 0.5 m × 0.5 m = 0.25 m².\n\nNumber of slabs needed without wastage = Total Area of path / Area of one slab = 57 m² / 0.25 m² = 228 slabs.\n\nStep 3: Account for wastage and calculate the total number of slabs to purchase.\nAn additional 15% of slabs are needed for wastage:\nWastage amount = 228 slabs × 0.15 = 34.2 slabs.\nTotal slabs to purchase = 228 slabs + 34.2 slabs = 262.2 slabs.\nSince slabs can only be bought as whole units, round up to the nearest whole slab: 263 slabs.\n\nStep 4: Calculate the total cost of the paving slabs.\nCost per slab = £4.80.\nTotal cost of slabs = 263 slabs × £4.80/slab = £1262.40.\n\nStep 5: Calculate the perimeter of the L-shaped path for the decorative border.\nThe perimeter consists of six segments:\n- The longest outer side: 12 m.\n- The next longest outer side: 10 m.\n- The longest inner side: (12 m - 3 m uniform width) = 9 m.\n- The next longest inner side: (10 m - 3 m uniform width) = 7 m.\n- The two connecting segments, each equal to the uniform width: 3 m + 3 m = 6 m.\nTotal Perimeter = 12 m + 10 m + 9 m + 7 m + 3 m + 3 m = 44 m.\n\nStep 6: Calculate the total cost of the decorative border.\nCost per meter of border material = £8.50.\nTotal cost of border = 44 m × £8.50/m = £374.00.\n\nStep 7: Calculate the total combined cost.\nTotal combined cost = Total cost of slabs + Total cost of border = £1262.40 + £374.00 = £1636.40.\n\nThe total cost of paving slabs and the decorative border is £1636.40.",
+      "explanation": "This multi-step problem requires a comprehensive understanding of area and perimeter calculations for composite shapes, unit conversions, and percentage applications in a real-world context. First, the L-shaped path's area is determined by dividing it into two rectangles, allowing for individual area calculations which are then summed. Unit conversion is crucial, transforming the slab dimensions from centimeters to meters to maintain consistency with the path's dimensions. The number of slabs is calculated, followed by accounting for wastage by adding 15% and rounding up to ensure enough material is purchased. The cost of slabs is then found. Next, the perimeter of the L-shape is calculated by identifying and summing all six distinct edge lengths (outer, inner, and connecting segments). Finally, the border cost is calculated from this perimeter, and both material costs are summed to provide the total project cost. Each step builds upon the previous, requiring careful attention to detail and accurate calculations.",
+      "hint": "Start by calculating the area of the L-shaped path by dividing it into two simpler rectangles. Remember to convert all units to meters before calculating areas or lengths to avoid errors. For the perimeter, ensure you account for all six outer and inner edges of the 'L' shape.",
+      "generatedAt": "2026-04-29T10:00:18.808224"
+    },
+    {
+      "id": "m-y5-measure_advanced_004",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A company is creating a unique floor tile for a children's play area. The tile's top-down shape can be described as follows:\nIt starts with a main rectangular section, R1, which is 2.8 meters long and 1.5 meters wide.\nTo one of the 1.5-meter sides of R1, an isosceles triangle, T1, is perfectly attached. The base of T1 matches the full 1.5-meter width of R1. The height of T1, from its base to its apex, is 75 cm.\nFrom the exact centre of the opposite 1.5-meter side of R1, a rectangular section, R2, is removed. R2 has a length of 60 cm and a width of 90 cm. The 90 cm width is aligned along the 1.5-meter side of R1, with its centre matching the centre of that side. The 60 cm length extends inwards from the perimeter of the shape.\n\na) Calculate the total area of the floor tile in square meters. Show all your working.\nb) Calculate the total perimeter of the floor tile in meters. Show all your working.",
+      "options": [],
+      "correctAnswer": {
+        "a": "The total area of the floor tile is 4.2225 m².",
+        "b": "The total perimeter of the floor tile is approximately 10.421 m (to 3 decimal places)."
+      },
+      "explanation": "To solve this, we need to convert all measurements to a consistent unit (meters) and then calculate the area and perimeter of each component shape before combining them.\n\n**Units Conversion:**\n- Main rectangle R1: Length = 2.8 m, Width = 1.5 m\n- Triangle T1: Base = 1.5 m, Height = 75 cm = 0.75 m\n- Removed rectangle R2: Length = 60 cm = 0.6 m, Width = 90 cm = 0.9 m\n\n**Part a) Total Area Calculation:**\n1.  **Area of R1 (main rectangular section):**\n    Area_R1 = Length × Width = 2.8 m × 1.5 m = 4.2 m²\n2.  **Area of T1 (isosceles triangle attached):**\n    Area_T1 = ½ × Base × Height = ½ × 1.5 m × 0.75 m = 0.5 × 1.125 m² = 0.5625 m²\n3.  **Area of R2 (rectangular section removed):**\n    Area_R2 = Length × Width = 0.6 m × 0.9 m = 0.54 m²\n4.  **Total Area of the floor tile:**\n    Total Area = Area_R1 + Area_T1 - Area_R2\n    Total Area = 4.2 m² + 0.5625 m² - 0.54 m² = 4.2225 m²\n\n**Part b) Total Perimeter Calculation:**\nLet's break down the perimeter into segments:\n1.  **Two long sides of R1:** These are the two 2.8 m sides. Their contribution to the perimeter is 2 × 2.8 m = 5.6 m.\n2.  **Slanted sides of T1:** The triangle T1 has a base of 1.5 m and a height of 0.75 m. Since it's an isosceles triangle, we can find the length of each slanted side using Pythagoras' theorem. Each half of the base is 1.5 m / 2 = 0.75 m. So, a right-angled triangle is formed with legs 0.75 m and 0.75 m.\n    Slanted side length = √(0.75² + 0.75²) = √(0.5625 + 0.5625) = √1.125 ≈ 1.06066 m.\n    There are two such sides, so their contribution to the perimeter is 2 × 1.06066 m ≈ 2.12132 m.\n3.  **Edges from R2 cut-out:** The original 1.5 m side of R1, where R2 is removed, is now replaced by five new segments that form part of the perimeter.\n    The removed rectangle R2 is 0.6 m long and 0.9 m wide. The 0.9 m width is centred on the 1.5 m side of R1.\n    The remaining sections of the 1.5 m side, on either side of the 0.9 m cut-out, are (1.5 m - 0.9 m) / 2 = 0.6 m / 2 = 0.3 m each.\n    The edges contributing to the perimeter from this section are:\n    - The two 0.3 m segments on either side of the cut-out (outer edges).\n    - The two 0.6 m lengths (depth) of the cut-out (extending inwards).\n    - The 0.9 m width of the cut-out (the innermost edge).\n    So, the contribution to the perimeter from the R2 cut-out section is 0.3 m + 0.6 m + 0.9 m + 0.6 m + 0.3 m = 2.7 m.\n\n**Total Perimeter:**\nTotal Perimeter = (Long sides of R1) + (Slanted sides of T1) + (Edges from R2 cut-out)\nTotal Perimeter = 5.6 m + 2.12132 m + 2.7 m = 10.42132 m\nRounding to 3 decimal places, the total perimeter is 10.421 m.",
+      "hint": "Remember to convert all units to a consistent measurement (e.g., meters) before performing calculations. For the perimeter, carefully consider which edges contribute to the outer boundary of the composite shape, especially where sections are added or removed. Pythagoras' theorem will be needed to find the length of the slanted sides of the triangular section.",
+      "generatedAt": "2026-04-29T10:01:11.432501"
+    },
+    {
+      "id": "m-y5-measure_advanced_005",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A school is designing a special rectangular display board for an art exhibition. The board has a total length of 2.4 meters and a total width of 1.5 meters. To make space for a special award plaque, a rectangular section is cut out from the exact centre of the board. This rectangular cut-out measures 1.8 meters in length and 0.9 meters in width. The outer edge of the remaining board needs to be covered with decorative tape, and the inner edge of the cut-out also needs to be covered with a different type of tape. Calculate the total length of tape required, in centimetres, for both the outer and inner edges of the display board. Show your working.",
+      "options": [
+        "132 cm",
+        "1320 cm",
+        "13200 cm",
+        "13.2 cm"
+      ],
+      "correctAnswer": "1320 cm",
+      "explanation": "1. Calculate the perimeter of the outer display board:\n   Length = 2.4 m, Width = 1.5 m\n   Outer Perimeter = 2 * (Length + Width)\n   Outer Perimeter = 2 * (2.4 m + 1.5 m)\n   Outer Perimeter = 2 * 3.9 m\n   Outer Perimeter = 7.8 m\n\n2. Calculate the perimeter of the inner cut-out section:\n   Length = 1.8 m, Width = 0.9 m\n   Inner Perimeter = 2 * (Length + Width)\n   Inner Perimeter = 2 * (1.8 m + 0.9 m)\n   Inner Perimeter = 2 * 2.7 m\n   Inner Perimeter = 5.4 m\n\n3. Calculate the total length of tape required in meters:\n   Total Tape Length = Outer Perimeter + Inner Perimeter\n   Total Tape Length = 7.8 m + 5.4 m\n   Total Tape Length = 13.2 m\n\n4. Convert the total length from meters to centimetres:\n   Since 1 meter = 100 centimetres,\n   13.2 m = 13.2 * 100 cm\n   13.2 m = 1320 cm\n\nTherefore, the total length of tape required is 1320 cm.",
+      "hint": "Remember that the total tape involves the perimeter of the outer board and the perimeter of the cut-out section. Be careful to convert your final answer into the requested units.",
+      "generatedAt": "2026-04-29T10:01:27.738155"
+    },
+    {
+      "id": "m-y5-measure_advanced_006",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A local council is planning a new design for a public park's commemorative plaque. The main section of the plaque is a large rectangle with dimensions 3.5 meters in length and 1.2 meters in height. To give it a unique appearance, a smaller rectangular section is added onto the exact middle of one of the 3.5-meter long sides. This smaller section measures 1.5 meters in length and 40 centimeters in height. The 1.5-meter length of the small section aligns perfectly along the center part of the 3.5-meter side it is attached to.\n\nCalculate the total area of the plaque in square meters and the total perimeter of the plaque in meters. Show your working clearly.",
+      "options": [
+        "A: Area = 4.8 m², Perimeter = 10.2 m",
+        "B: Area = 4.8 m², Perimeter = 13.2 m",
+        "C: Area = 4.2 m², Perimeter = 10.2 m",
+        "D: Area = 4.26 m², Perimeter = 9.4 m"
+      ],
+      "correctAnswer": "A: Area = 4.8 m², Perimeter = 10.2 m",
+      "explanation": "To solve this, we first need to convert all measurements to a consistent unit, preferably meters, as the final answer requires meters and square meters. The height of the smaller rectangular section is given as 40 centimeters. Since 1 meter = 100 centimeters, 40 centimeters = 0.4 meters.\n\n**Step 1: Calculate the Area of the plaque.**\nThe total area is the sum of the area of the main rectangle and the area of the smaller rectangular section.\n\nArea of main rectangle = length × height = 3.5 m × 1.2 m = 4.2 m².\n\nArea of smaller rectangular section = length × height = 1.5 m × 0.4 m = 0.6 m².\n\nTotal Area = Area of main rectangle + Area of smaller rectangular section = 4.2 m² + 0.6 m² = 4.8 m².\n\n**Step 2: Calculate the Perimeter of the plaque.**\nThe perimeter is the total length of the outside edge of the composite shape. Imagine tracing the outline of the plaque:\n\n1.  The two vertical sides of the main rectangle: 1.2 m + 1.2 m = 2.4 m.\n2.  The bottom horizontal side of the main rectangle: 3.5 m.\n3.  The top side of the main rectangle is 3.5 m long, but a 1.5 m section in the middle is covered by the smaller rectangular section. This leaves two exposed sections: (3.5 m - 1.5 m) / 2 = 2 m / 2 = 1 m each. So, 1 m + 1 m = 2 m.\n4.  The two vertical sides of the smaller rectangular section: 0.4 m + 0.4 m = 0.8 m.\n5.  The top horizontal side of the smaller rectangular section: 1.5 m.\n\nTotal Perimeter = 2.4 m (main sides) + 3.5 m (main bottom) + 2 m (exposed main top) + 0.8 m (small sides) + 1.5 m (small top) = 10.2 m.\n\nTherefore, the total area is 4.8 m² and the total perimeter is 10.2 m.",
+      "hint": "Remember to convert all measurements to the same unit (meters) before performing calculations. For the perimeter, carefully trace the entire outside edge of the composite shape, ensuring you don't count internal lines or miss any external edges.",
+      "generatedAt": "2026-04-29T10:01:56.717359"
+    },
+    {
+      "id": "m-y5-measure_advanced_007",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A science fair exhibit is set up on a rectangular display area that measures 7 metres in length and 5 metres in width. In the exact centre of this display area, a raised rectangular platform is built for a special exhibit. This platform is 600 centimetres long and 400 centimetres wide. The top edges of the raised exhibit platform are to be lined with LED strip lights. These strip lights are sold in packs of 2 metres, and each pack costs £12. What is the total cost to line the entire perimeter of the platform with these lights? Show your working clearly.",
+      "options": [
+        "£60",
+        "£120",
+        "£144",
+        "£240"
+      ],
+      "correctAnswer": "£120",
+      "explanation": "Step 1: Convert the platform's dimensions from centimetres to metres.\nLength = 600 cm = 6 metres\nWidth = 400 cm = 4 metres\n\nStep 2: Calculate the perimeter of the raised platform.\nPerimeter = 2 × (Length + Width)\nPerimeter = 2 × (6 metres + 4 metres)\nPerimeter = 2 × 10 metres\nPerimeter = 20 metres\n\nStep 3: Determine how many packs of LED strip lights are needed.\nEach pack covers 2 metres.\nNumber of packs = Total perimeter / Length per pack\nNumber of packs = 20 metres / 2 metres/pack\nNumber of packs = 10 packs\n\nStep 4: Calculate the total cost.\nEach pack costs £12.\nTotal cost = Number of packs × Cost per pack\nTotal cost = 10 × £12\nTotal cost = £120",
+      "hint": "First, ensure all measurements for the platform's perimeter are in the same unit. Then, calculate the total length needed for the lights before figuring out how many packs to buy.",
+      "generatedAt": "2026-04-29T10:02:24.409216"
+    },
+    {
+      "id": "m-y5-measure_advanced_008",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Mr. Harrison is renovating a rectangular room in his house. The room measures 6 meters in length and 4 meters in width. He plans to place a rectangular mat in the centre of the room which is 300 centimetres long and 200 centimetres wide. Mr. Harrison wants to paint the floor area that is *not* covered by the mat. Paint costs £5 for every square meter. What will be the total cost to paint the uncovered floor area? Show your working clearly.",
+      "options": [
+        "£60",
+        "£90",
+        "£120",
+        "£150"
+      ],
+      "correctAnswer": "£90",
+      "explanation": "1. First, convert the mat's dimensions from centimetres to meters so all units are the same:\n   Mat length: 300 cm = 3 meters\n   Mat width: 200 cm = 2 meters\n\n2. Next, calculate the area of the entire room:\n   Room Area = Length × Width = 6 m × 4 m = 24 square meters\n\n3. Then, calculate the area of the mat:\n   Mat Area = Length × Width = 3 m × 2 m = 6 square meters\n\n4. Now, find the floor area that is not covered by the mat by subtracting the mat's area from the room's area:\n   Uncovered Area = Room Area - Mat Area = 24 m² - 6 m² = 18 square meters\n\n5. Finally, calculate the total cost to paint the uncovered area:\n   Total Cost = Uncovered Area × Cost per square meter = 18 m² × £5 = £90",
+      "hint": "Remember to convert all measurements to the same unit (e.g., meters) before calculating any areas.",
+      "generatedAt": "2026-04-29T10:02:39.254238"
+    },
+    {
+      "id": "m-y5-measure_advanced_009",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A specialist company is fabricating custom metal panels for an architectural project. Each panel has a unique composite shape.\nThe main section of the panel is a rectangle, ABCD, with side AB measuring 1.8 metres and side BC measuring 0.7 metres.\nA right-angled triangle, CDE, is attached to the panel along the side BC. The base of the triangle is the side BC (length 0.7m), and its height, perpendicular to BC from vertex E, is 40 centimetres.\nFurthermore, a semi-circular section is precisely cut out from the side AB. The diameter of this semi-circle is 600 millimetres, and its centre lies on the side AB.\n\n(a) Calculate the total area of one side of this custom metal panel in square metres. You must show all your working.\n(b) The special metallic coating for these panels costs £3.20 for every 500 square centimetres. Calculate the total cost to coat one side of the panel. You must show all your working.",
+      "options": [],
+      "correctAnswer": "(a) Calculation of total area:\n1.  **Area of the rectangle ABCD:**\n    *   Length = 1.8 m\n    *   Width = 0.7 m\n    *   Area_rectangle = Length × Width = 1.8 m × 0.7 m = 1.26 m²\n\n2.  **Area of the right-angled triangle CDE:**\n    *   Base = BC = 0.7 m\n    *   Height = 40 cm. Convert to metres: 40 cm = 40/100 m = 0.4 m\n    *   Area_triangle = (1/2) × Base × Height = (1/2) × 0.7 m × 0.4 m = 0.14 m²\n\n3.  **Area of the semi-circular section:**\n    *   Diameter = 600 mm. Convert to metres: 600 mm = 600/1000 m = 0.6 m\n    *   Radius (r) = Diameter / 2 = 0.6 m / 2 = 0.3 m\n    *   Area of a full circle = πr² = π × (0.3 m)² = 0.09π m²\n    *   Area_semicircle = (1/2) × 0.09π = 0.045π m²\n\n4.  **Total Area of the panel:**\n    *   The triangle is attached, so its area is added. The semi-circle is cut out, so its area is subtracted.\n    *   Total Area = Area_rectangle + Area_triangle - Area_semicircle\n    *   Total Area = 1.26 m² + 0.14 m² - 0.045π m²\n    *   Total Area = (1.4 - 0.045π) m²\n    *   Using π ≈ 3.14159:\n    *   Total Area ≈ 1.4 - (0.045 × 3.14159) ≈ 1.4 - 0.14137155 ≈ 1.25862845 m²\n    *   Rounded to 3 significant figures: **1.26 m²**\n\n(b) Calculation of total cost to coat one side:\n1.  **Convert the total area from square metres to square centimetres (using the unrounded value for precision):**\n    *   1 m² = (100 cm)² = 10000 cm²\n    *   Total Area in cm² = (1.4 - 0.045π) × 10000 cm² = (14000 - 450π) cm²\n    *   Total Area in cm² ≈ 12586.2845 cm²\n\n2.  **Calculate the number of 500 square centimetre units needed:**\n    *   Cost is £3.20 for every 500 cm².\n    *   Number of units = Total Area (cm²) / 500 cm²\n    *   Number of units = (14000 - 450π) / 500 units = (28 - 0.9π) units\n    *   Number of units ≈ 12586.2845 / 500 ≈ 25.172569\n\n3.  **Calculate the total cost:**\n    *   Total Cost = Number of units × Cost per unit\n    *   Total Cost = (28 - 0.9π) × £3.20\n    *   Total Cost ≈ 25.172569 × £3.20 ≈ £80.5522208\n    *   Rounding to two decimal places for currency: **£80.55**",
+      "explanation": "To solve this problem, first, calculate the area of each individual geometric shape (rectangle, triangle, and semi-circle). Ensure all measurements are converted to a consistent unit (metres) before calculations. Add the area of the rectangle and the attached triangle, then subtract the area of the cut-out semi-circle to find the total area of the panel in square metres. For the cost, convert the total panel area from square metres to square centimetres, then divide by the cost unit area (500 cm²) and multiply by the cost per unit (£3.20). Remember to maintain precision for intermediate steps and round only the final answer for currency.",
+      "hint": "Remember to convert all linear measurements (cm and mm) to metres before calculating areas to ensure consistency. When combining the areas, determine whether each component (rectangle, triangle, semi-circle) should be added to or subtracted from the total area.",
+      "generatedAt": "2026-04-29T10:03:11.342236"
+    },
+    {
+      "id": "m-y5-measure_advanced_010",
+      "topicId": "m-y5-measure",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A company is designing a new metal emblem to be cut from a sheet. The emblem's main body is a rectangle measuring 0.45 meters in length and 250 millimeters in width. Attached along its entire 250mm side is a right-angled triangle. The height of this triangle, perpendicular to the side it is attached to, is 15 cm. A circular hole, with a diameter of 5 cm, is cut out from the center of the rectangular part of the emblem. Calculate the total area of metal, in square centimeters, required for one emblem, accurate to two decimal places. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the total area of metal required, we need to calculate the area of the rectangle, the area of the triangle, and subtract the area of the circular hole. All measurements must be in centimeters.\n\n**Step 1: Convert all measurements to centimeters.**\nRectangle length: 0.45 meters = 0.45 * 100 cm = 45 cm.\nRectangle width (and triangle base): 250 millimeters = 250 / 10 mm = 25 cm.\nTriangle height: 15 cm (already in cm).\nCircle diameter: 5 cm (already in cm). This means the radius is 5 cm / 2 = 2.5 cm.\n\n**Step 2: Calculate the area of the rectangular main body.**\nArea of rectangle = length × width\nArea of rectangle = 45 cm × 25 cm = 1125 cm².\n\n**Step 3: Calculate the area of the attached right-angled triangle.**\nArea of triangle = (1/2) × base × height\nArea of triangle = (1/2) × 25 cm × 15 cm\nArea of triangle = (1/2) × 375 cm² = 187.5 cm².\n\n**Step 4: Calculate the area of the circular hole.**\nArea of circle = π × radius²\nArea of circle = π × (2.5 cm)²\nArea of circle = π × 6.25 cm² ≈ 19.63495 cm² (using π ≈ 3.14159).\n\n**Step 5: Calculate the total area of metal required.**\nTotal area = Area of rectangle + Area of triangle - Area of circular hole\nTotal area = 1125 cm² + 187.5 cm² - 19.63495 cm²\nTotal area = 1312.5 cm² - 19.63495 cm²\nTotal area = 1292.86505 cm².\n\n**Step 6: Round the total area to two decimal places.**\nTotal area ≈ 1292.87 cm².\n\nThe total area of metal required for one emblem is 1292.87 cm².",
+      "explanation": "The problem requires calculating the area of a composite shape, which involves a rectangle and a triangle, with a circular hole removed. The key steps are: first, converting all given measurements to a consistent unit (centimeters); second, calculating the area of each individual geometric component (rectangle, triangle, circle) using their respective area formulas; and finally, combining these areas correctly (adding the rectangle and triangle areas, then subtracting the circular hole's area) and rounding the final answer to the specified precision.",
+      "hint": "Start by converting all dimensions to a single, consistent unit, such as centimeters, before calculating the area of each individual shape. Remember the formulas for the area of a rectangle (length × width), a triangle (½ × base × height), and a circle (π × radius²).",
+      "generatedAt": "2026-04-29T10:03:27.965850"
+    }
+  ]
+}

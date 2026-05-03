@@ -1,0 +1,478 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y5-forces_beginner_001",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Which force pulls all objects towards the centre of the Earth?",
+      "options": [
+        "Air resistance",
+        "Friction",
+        "Gravity",
+        "Water resistance"
+      ],
+      "correctAnswer": "Gravity",
+      "explanation": "Gravity is the force that naturally pulls all objects towards the centre of the Earth. This is why things fall down when you drop them. Air resistance, friction, and water resistance are forces that slow things down or oppose motion, but they do not pull objects towards the Earth's core.",
+      "hint": "Consider the force that makes an object fall to the ground when it is dropped.",
+      "generatedAt": "2026-04-29T16:43:49.734981"
+    },
+    {
+      "id": "s-y5-forces_beginner_002",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A feather and a small stone are dropped at the same time from the same height in a classroom.\n\nState which object will reach the ground first.",
+      "options": [
+        "A. The feather",
+        "B. The stone",
+        "C. Both will reach at the same time",
+        "D. It depends on the colour of the objects"
+      ],
+      "correctAnswer": "B. The stone",
+      "explanation": "Gravity pulls both objects downwards. Air resistance is a force that pushes upwards against falling objects, slowing them down. The feather has a large surface area for its small mass, meaning air resistance has a significant effect on it and slows it down a lot. The stone is much heavier and more compact, so air resistance has less effect on it. Therefore, the stone experiences less slowing down from air resistance and reaches the ground first.",
+      "hint": "Consider which object is more affected by the air pushing against it as it falls.",
+      "generatedAt": "2026-04-29T16:44:00.141406"
+    },
+    {
+      "id": "s-y5-forces_beginner_003",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "Describe how a parachute helps a skydiver land safely by using air resistance. (2 marks)",
+      "options": [],
+      "correctAnswer": "A parachute has a large surface area. This large surface area creates a lot of air resistance, which is an upward force. This upward force slows the skydiver down, allowing them to land safely.",
+      "explanation": "The command word 'Describe' requires you to explain what happens. For 2 marks, the answer should explain that the large surface area of the parachute increases air resistance. It should then link this increased air resistance to its effect: creating an upward force that slows the skydiver down, enabling a safe landing. The model answer provides these linked points.",
+      "hint": "Consider the key features of a parachute's design and how these interact with the air to change the skydiver's speed.",
+      "generatedAt": "2026-04-29T16:44:10.286465"
+    },
+    {
+      "id": "s-y5-forces_beginner_004",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A student pushes a toy car across the floor. The car begins to slow down after the student stops pushing it. State the direction of the friction force acting on the toy car.",
+      "options": [
+        "A) In the same direction as the car's motion",
+        "B) Towards the student who pushed it",
+        "C) Opposite to the car's motion",
+        "D) Downwards, towards the floor"
+      ],
+      "correctAnswer": "C) Opposite to the car's motion",
+      "explanation": "Friction is a force that always opposes the direction of motion between two surfaces in contact. Since the car is moving forwards, the friction force acts in the opposite direction (backwards) to slow it down.",
+      "hint": "Think about what friction does to objects that are trying to move or are already moving.",
+      "generatedAt": "2026-04-29T16:44:22.340515"
+    },
+    {
+      "id": "s-y5-forces_beginner_005",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A boat is moving through water. There is a force that pushes against the boat, trying to slow it down. What is the name of this force?",
+      "options": [
+        "A. Gravity",
+        "B. Friction",
+        "C. Water resistance",
+        "D. Air resistance"
+      ],
+      "correctAnswer": "C. Water resistance",
+      "explanation": "When an object moves through water, the water pushes back against the object, creating a force that opposes its motion and tries to slow it down. This specific force is called water resistance. Gravity is the force that pulls objects towards the Earth, friction is typically between two solid surfaces rubbing together, and air resistance is the force that slows objects moving through the air.",
+      "hint": "Think about what the boat is moving through. The force that slows it down will be a type of 'resistance' from that material.",
+      "generatedAt": "2026-04-29T16:44:35.799324"
+    },
+    {
+      "id": "s-y5-forces_beginner_006",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "When you rub your hands together, you feel warmth and a force that makes it harder to slide them past each other. State the name of this force that opposes the movement between your hands.",
+      "options": [
+        "Gravity",
+        "Air resistance",
+        "Friction",
+        "Water resistance"
+      ],
+      "correctAnswer": "Friction",
+      "explanation": "Friction is a force that opposes motion when two surfaces are in contact and slide, or try to slide, over each other. When you rub your hands, friction between them resists the movement and converts some of the energy into heat, making your hands feel warm.",
+      "hint": "This type of force always acts against movement when two surfaces are touching and trying to move past each other.",
+      "generatedAt": "2026-04-29T16:44:45.881306"
+    },
+    {
+      "id": "s-y5-forces_beginner_007",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A child rides their bicycle very fast. They feel a force pushing against them that makes it harder to cycle faster. State the name of this opposing force.",
+      "options": [],
+      "correctAnswer": "Air resistance",
+      "explanation": "Air resistance is a type of drag force that opposes the motion of an object as it moves through the air. When the child cycles fast, they push against the air, and the air pushes back on them, creating a force that makes it harder to increase their speed or maintain it. This force acts in the opposite direction to the child's movement.",
+      "hint": "Consider the invisible substance surrounding the cyclist that creates this pushing force.",
+      "generatedAt": "2026-04-29T16:44:59.197880"
+    },
+    {
+      "id": "s-y5-forces_beginner_008",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "State the name of the force that pulls all objects downwards towards the centre of the Earth.",
+      "options": [
+        "Friction",
+        "Air resistance",
+        "Gravity",
+        "Water resistance"
+      ],
+      "correctAnswer": "Gravity",
+      "explanation": "Gravity is the natural force that pulls all objects with mass towards each other. On Earth, this force pulls everything downwards towards the planet's core, which is why objects fall when released.",
+      "hint": "Consider the force that makes an apple fall from a tree.",
+      "generatedAt": "2026-04-29T16:45:06.337959"
+    },
+    {
+      "id": "s-y5-forces_beginner_009",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A skydiver jumps out of an aeroplane. They are falling quickly towards the ground. When they open their large parachute, they slow down a lot and float safely to the ground. What is the main reason the skydiver slows down after opening their parachute?",
+      "options": [
+        "A) The parachute makes the skydiver much heavier.",
+        "B) The parachute increases the force of air resistance pushing upwards against the skydiver.",
+        "C) The parachute makes the pull of gravity on the skydiver weaker.",
+        "D) The parachute makes the air around the skydiver much warmer."
+      ],
+      "correctAnswer": "B) The parachute increases the force of air resistance pushing upwards against the skydiver.",
+      "explanation": "1. When a skydiver opens their parachute, the parachute spreads out, creating a very large surface area.\n2. This large surface area causes a significant increase in the amount of air resistance acting on the skydiver.\n3. Air resistance is a force that pushes upwards, opposite to the direction of motion (downwards in this case), and acts to slow down falling objects.\n4. Therefore, the increased air resistance is the main reason the skydiver slows down, allowing them to land safely.",
+      "hint": "Think about the forces acting on the skydiver as they fall and how the parachute changes these forces, especially the one that acts against their movement through the air.",
+      "generatedAt": "2026-04-29T16:45:23.863206"
+    },
+    {
+      "id": "s-y5-forces_beginner_010",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 5,
+      "text": "A child rolls a toy car on a carpet, and it stops quickly. When they roll the same toy car with the same push on a smooth wooden floor, it travels much further before stopping. \n\nState the name of the force that is *reduced* when the toy car moves from the carpet to the smooth wooden floor, allowing it to travel further.",
+      "options": [
+        "A. Gravity",
+        "B. Air resistance",
+        "C. Friction",
+        "D. Water resistance"
+      ],
+      "correctAnswer": "C. Friction",
+      "explanation": "1. The question describes the toy car moving over two different surfaces: a rough carpet and a smooth wooden floor.\n2. The car stops quickly on the carpet, showing that a force is resisting its motion strongly.\n3. The car travels much further on the smooth wooden floor, indicating that the resistive force is weaker.\n4. The force that opposes motion when two surfaces rub together is called friction.\n5. Carpet has a rougher surface, leading to more friction with the car's wheels. A smooth wooden floor has less friction.\n6. Therefore, the force of friction is reduced when the car moves from the carpet to the smooth wooden floor, allowing it to travel further.",
+      "hint": "Consider the force that slows down or stops objects when they are in contact with a surface and moving.",
+      "generatedAt": "2026-04-29T16:45:35.586836"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y5-forces_intermediate_001",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student is investigating how different objects fall. They drop two objects, a flat sheet of paper and a small pebble, from the same height at the same time. They observe that the pebble reaches the ground first.\n\nThe student then crumples the sheet of paper into a tight ball and drops it again, alongside the pebble, from the same height. This time, they notice the crumpled paper ball lands much closer to the same time as the pebble.\n\nExplain why crumpling the paper causes it to fall faster and land much closer to the same time as the pebble. (3-4 marks)",
+      "options": [],
+      "correctAnswer": "Gravity pulls both the paper and the pebble downwards. As objects fall through the air, air resistance pushes upwards against them, slowing them down.\n\nWhen the paper is flat, it has a large surface area that pushes against a lot of air as it falls. This creates a large amount of air resistance pushing upwards, which significantly slows down its descent.\n\nWhen the paper is crumpled into a tight ball, the surface area that pushes against the air becomes much smaller.\n\nBecause the crumpled paper presents a smaller surface to the air, there is much less air resistance pushing upwards against it. With less air resistance slowing it down, the crumpled paper falls faster, much closer to the speed of the pebble, which also experiences relatively little air resistance due to its compact shape.",
+      "explanation": "This is an open-ended 'Explain' question. The provided model answer demonstrates understanding by: \n1. Identifying gravity as the downward force and air resistance as the opposing, upward force.\n2. Explaining that the flat paper has a large surface area, leading to significant air resistance.\n3. Explaining that crumpling the paper significantly reduces its surface area.\n4. Linking the reduced surface area to a reduction in air resistance.\n5. Concluding that less air resistance allows the crumpled paper to fall faster, closer to the fall time of the pebble. This shows a clear cause-and-effect relationship, fulfilling the 'Explain' command.",
+      "hint": "Think about the different forces acting on falling objects and how changing the paper's shape might affect one of these forces, particularly the one that slows things down.",
+      "generatedAt": "2026-04-29T16:45:56.757697"
+    },
+    {
+      "id": "s-y5-forces_intermediate_002",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A car has a mass of 1200 kg. Its engine generates a forward thrust of 3500 N. At a specific speed, the total resistive forces (due to air resistance and friction) acting against the car's motion sum to 1100 N.\n\nCalculate the acceleration of the car at this moment.",
+      "options": [
+        "A) 1.5 m/s²",
+        "B) 2.0 m/s²",
+        "C) 2.9 m/s²",
+        "D) 3.8 m/s²"
+      ],
+      "correctAnswer": "B) 2.0 m/s²",
+      "explanation": "To calculate the acceleration of the car, we first need to determine the net (resultant) force acting on it, and then apply Newton's Second Law (F=ma).\n\nStep 1: Calculate the net force (F_net).\nThe net force is the difference between the forward thrust and the resistive forces:\nF_net = Forward Thrust - Resistive Forces\nF_net = 3500 N - 1100 N\nF_net = 2400 N\n\nStep 2: Calculate the acceleration (a) using Newton's Second Law (F_net = ma).\nRearrange the formula to solve for acceleration: a = F_net / m\na = 2400 N / 1200 kg\na = 2.0 m/s²\n\nTherefore, the acceleration of the car is 2.0 m/s².",
+      "hint": "First, determine the resultant force acting on the car by considering all forces, then apply Newton's Second Law of Motion.",
+      "generatedAt": "2026-04-29T16:46:30.459498"
+    },
+    {
+      "id": "s-y5-forces_intermediate_003",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A remote-controlled boat is moving across a pond. Its motor provides a constant forward thrust of 20 N. As it moves, there is a water resistance of 12 N acting against its motion.\n\n(a) Calculate the resultant force acting on the boat.\n\n(b) The boat then enters a section of the pond where the water is much weedier, causing the water resistance to increase to 25 N, while the motor thrust remains at 20 N. Explain how the boat's motion will change immediately after entering this section.",
+      "options": [],
+      "correctAnswer": "(a) **Calculate the resultant force acting on the boat.**\n   *   **Formula:** Resultant Force = Forward Thrust - Opposing Water Resistance\n   *   **Substitution:** Resultant Force = 20 N - 12 N\n   *   **Answer:** Resultant Force = 8 N (forward)\n\n(b) **Explain how the boat's motion will change immediately after entering this section.**\n   *   When the water resistance increases to 25 N (while thrust is 20 N), the resultant force is calculated as: 20 N - 25 N = -5 N. This means there is now a net force of 5 N acting *backwards* (opposite to the boat's direction of motion).\n   *   **Explanation:** Because the resultant force is now acting in the opposite direction to the boat's current motion, this unbalanced force will cause the boat to **decelerate** (slow down).",
+      "explanation": "Part (a) requires identifying the forward force (thrust) and the opposing force (water resistance). The resultant force is found by subtracting the opposing force from the forward force. A positive resultant force in the direction of motion indicates acceleration.\n\nPart (b) is a two-step problem. First, the student must recognise that the change in water resistance creates a *new* resultant force. When the water resistance (25 N) becomes greater than the forward thrust (20 N), the resultant force becomes negative (20 N - 25 N = -5 N), meaning there is a net force acting opposite to the direction of motion. The second step is to explain the consequence: an unbalanced force acting against motion causes deceleration (slowing down).",
+      "hint": "Remember that the resultant force is the overall force acting on an object. If forces are in opposite directions, you find their difference. An unbalanced force will always cause a change in an object's motion (either acceleration or deceleration).",
+      "generatedAt": "2026-04-29T16:46:49.372912"
+    },
+    {
+      "id": "s-y5-forces_intermediate_004",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A skydiver with a mass of 80 kg jumps from an aircraft. \nThe gravitational field strength (g) is 9.8 N/kg. \nAt one point during the initial fall, the air resistance acting upwards on the skydiver is 150 N. \n\nCalculate the skydiver's acceleration at this moment.",
+      "options": [
+        "A) 1.88 m/s²",
+        "B) 7.93 m/s²",
+        "C) 9.80 m/s²",
+        "D) 11.68 m/s²"
+      ],
+      "correctAnswer": "B) 7.93 m/s²",
+      "explanation": "Step 1: Calculate the skydiver's weight.\nWeight (W) = mass (m) × gravitational field strength (g)\nW = 80 kg × 9.8 N/kg = 784 N\n\nStep 2: Calculate the resultant force.\nThe weight acts downwards, and the air resistance acts upwards. Therefore, the resultant force is the difference between these two forces.\nResultant Force (F_res) = Weight - Air Resistance\nF_res = 784 N - 150 N = 634 N\n\nStep 3: Calculate the acceleration using Newton's Second Law (F = ma).\nAcceleration (a) = Resultant Force (F_res) / mass (m)\na = 634 N / 80 kg = 7.925 m/s²\n\nRounding to two decimal places, the acceleration is 7.93 m/s².",
+      "hint": "First, determine the skydiver's weight. Then, consider all forces acting to find the resultant force, and finally use Newton's Second Law to find acceleration.",
+      "generatedAt": "2026-04-29T16:47:05.873243"
+    },
+    {
+      "id": "s-y5-forces_intermediate_005",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student is pulling a sled, loaded with their school books, across a flat, icy playground. The combined mass of the sled and books is 20 kg. The student applies a horizontal pulling force of 65 N. The frictional force acting against the motion of the sled is 15 N. Assume air resistance is negligible.\n\nCalculate the acceleration of the sled.",
+      "options": [
+        "A) 3.25 m/s²",
+        "B) 4.0 m/s²",
+        "C) 2.5 m/s²",
+        "D) 0.75 m/s²"
+      ],
+      "correctAnswer": "C) 2.5 m/s²",
+      "explanation": "Step 1: First, determine the resultant force acting on the sled.\nThe applied force is 65 N forwards, and the frictional force is 15 N backwards (opposing motion).\nSince these forces act in opposite directions, the resultant force is found by subtracting the smaller force from the larger force.\nFormula: Resultant Force = Applied Force - Frictional Force\nSubstitution: Resultant Force = 65 N - 15 N\nCalculation: Resultant Force = 50 N\n\nStep 2: Now, use Newton's Second Law of Motion to calculate the acceleration.\nNewton's Second Law states that Force (F) = mass (m) × acceleration (a).\nWe need to rearrange this formula to find acceleration: a = F / m\nFormula: a = Resultant Force / Mass\nSubstitution: a = 50 N / 20 kg\nCalculation: a = 2.5 m/s²\n\nTherefore, the acceleration of the sled is 2.5 m/s².",
+      "hint": "First, find the resultant (net) force acting on the sled in the direction of motion. Then, use the relationship between force, mass, and acceleration.",
+      "generatedAt": "2026-04-29T16:47:22.215903"
+    },
+    {
+      "id": "s-y5-forces_intermediate_006",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A toy balloon with a mass of 0.05 kg is released. The helium inside provides a constant upward lift force of 0.7 N.\n\n(a) Calculate the resultant vertical force acting on the balloon immediately after release. (Take gravitational field strength, g = 10 N/kg)\n\n(b) Explain what happens to the balloon's upward speed as it continues to rise, considering the effect of air resistance.",
+      "options": [],
+      "correctAnswer": "(a) Calculation of resultant vertical force:\n1.  **State the formula for weight and substitute values:**\n    Weight = mass × gravitational field strength\n    Weight = 0.05 kg × 10 N/kg\n    Weight = 0.5 N\n\n2.  **State the formula for resultant force and substitute values:**\n    Resultant Force = Upward lift force - Downward weight\n    Resultant Force = 0.7 N - 0.5 N\n    Resultant Force = 0.2 N (upwards)\n\n(b) Explanation of the balloon's upward speed:\nAs the balloon begins to rise, its upward speed increases. This increase in speed causes the air resistance acting downwards on the balloon to also increase. Air resistance opposes the direction of motion, so as it grows larger, the net upward force acting on the balloon decreases. This means the balloon's upward acceleration will decrease, so its upward speed will continue to increase, but at a slower and slower rate. Eventually, the upward air resistance will become equal to the initial net upward force (lift minus weight), causing the resultant force to become zero and the balloon to reach a constant maximum upward speed (terminal velocity).",
+      "explanation": "For part (a), the resultant vertical force is found by first calculating the downward force (weight) using the given mass and gravitational field strength (Weight = mass × g). Then, this weight is subtracted from the given upward lift force to determine the net vertical force. The direction of this resultant force should also be stated. For part (b), the explanation needs to describe how air resistance increases with speed and acts in the opposite direction to the balloon's motion. This increasing resistive force will reduce the net upward force on the balloon, leading to a decrease in its acceleration, and consequently, its upward speed will increase at a progressively slower rate until it reaches a constant terminal velocity.",
+      "hint": "For part (a), remember to calculate the downward force due to gravity (weight) before finding the overall resultant force. For part (b), consider how air resistance changes with speed and its effect on the net force and acceleration of the balloon.",
+      "generatedAt": "2026-04-29T16:47:42.449313"
+    },
+    {
+      "id": "s-y5-forces_intermediate_007",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student investigates how the surface of a ramp affects the motion of a toy car. They release the car from the same starting point on two different ramps.\n*   When the ramp is covered with smooth plastic, the car rolls for 5 seconds until it stops completely.\n*   When the ramp is covered with rough sandpaper, the car rolls for 2 seconds until it stops completely.\n\nExplain the difference in the car's motion on the two ramps, and calculate the difference in time it took for the car to stop.",
+      "options": [
+        "A) The car stopped faster on the rough sandpaper ramp because it had less friction. The time difference is 3 seconds.",
+        "B) The car stopped faster on the smooth plastic ramp because it had more friction. The time difference is 7 seconds.",
+        "C) The car stopped faster on the rough sandpaper ramp because it had more friction. The time difference is 3 seconds.",
+        "D) The car stopped faster on the smooth plastic ramp because it had less friction. The time difference is 7 seconds."
+      ],
+      "correctAnswer": "C) The car stopped faster on the rough sandpaper ramp because it had more friction. The time difference is 3 seconds.",
+      "explanation": "To answer this question, we need to understand the concept of friction and perform a simple calculation.\n\n1.  **Understand Friction:** Friction is a force that opposes motion. Rougher surfaces create more friction, making it harder for objects to move or causing them to stop more quickly.\n2.  **Analyze the Motion:**\n    *   On the smooth plastic ramp (which has less friction), the car took 5 seconds to stop.\n    *   On the rough sandpaper ramp (which has more friction), the car took 2 seconds to stop.\n    This means the car stopped *faster* (in less time) on the rough sandpaper ramp because the greater friction acted more strongly against its motion, bringing it to a halt more quickly.\n3.  **Calculate the Time Difference:** To find the difference, we subtract the shorter time from the longer time.\n    *   Time difference = Time on smooth plastic - Time on rough sandpaper\n    *   Time difference = 5 seconds - 2 seconds = 3 seconds.\n\nTherefore, the correct statement is that the car stopped faster on the rough sandpaper ramp because it had more friction, and the time difference is 3 seconds.",
+      "hint": "Consider how the roughness of a surface affects the force of friction. Think about whether more friction makes things speed up or slow down. Then, calculate the simple difference between the two stopping times.",
+      "generatedAt": "2026-04-29T16:48:09.462079"
+    },
+    {
+      "id": "s-y5-forces_intermediate_008",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student is playing with a toy car on a playground. The car has a mass of 0.15 kg. They push the car with a constant force of 0.75 N across a rough concrete path. The friction force acting on the car is 0.45 N.\n(Gravitational field strength, g = 10 N/kg)\n\n(a) Calculate the weight of the toy car.\n(b) Calculate the acceleration of the toy car.",
+      "options": [],
+      "correctAnswer": "(a) \nWeight = mass × gravitational field strength\nWeight = 0.15 kg × 10 N/kg\nWeight = 1.5 N\n\n(b)\nStep 1: Calculate the resultant force.\nResultant Force = Applied Force - Friction Force\nResultant Force = 0.75 N - 0.45 N\nResultant Force = 0.30 N\n\nStep 2: Calculate the acceleration using Newton's Second Law (F = ma).\na = F / m\na = 0.30 N / 0.15 kg\na = 2.0 m/s²",
+      "explanation": "(a) To calculate the weight, you use the formula Weight = mass × gravitational field strength (g). The mass of the toy car is 0.15 kg and g is given as 10 N/kg. Multiplying these values (0.15 kg × 10 N/kg) gives a weight of 1.5 N.\n\n(b) This is a two-step problem. First, you need to find the resultant (net) force acting on the car. The student pushes with 0.75 N, and friction opposes this motion with 0.45 N. So, the resultant force is the applied force minus the friction force (0.75 N - 0.45 N = 0.30 N). This resultant force is what causes the car to accelerate. Second, you apply Newton's Second Law, which states that Force = mass × acceleration (F = ma). To find the acceleration (a), you rearrange the formula to a = F / m. Substituting the resultant force (0.30 N) and the mass (0.15 kg) into this formula gives 0.30 N / 0.15 kg = 2.0 m/s². The unit for acceleration is metres per second squared.",
+      "hint": "For part (b), remember that the acceleration of an object is determined by the overall (resultant) force acting on it. You will need to calculate this resultant force first, then use the relationship between force, mass, and acceleration.",
+      "generatedAt": "2026-04-29T16:48:26.452466"
+    },
+    {
+      "id": "s-y5-forces_intermediate_009",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A small, dense stone with a mass of 0.2 kg is dropped into a deep tank of water. As it falls, the water exerts an upward resistive force of 0.4 N on the stone. Assume the gravitational field strength (g) is 9.8 N/kg. Calculate the resultant force acting on the stone as it falls through the water.",
+      "options": [
+        "A) 1.56 N",
+        "B) 1.96 N",
+        "C) 0.4 N",
+        "D) 2.36 N"
+      ],
+      "correctAnswer": "A) 1.56 N",
+      "explanation": "Step 1: Calculate the weight of the stone.\nWeight (W) = mass (m) × gravitational field strength (g)\nW = 0.2 kg × 9.8 N/kg\nW = 1.96 N (This force acts downwards).\n\nStep 2: Calculate the resultant force.\nThe water resistance force acts upwards, opposing the downward weight.\nResultant Force (F_res) = Weight - Upward Resistive Force\nF_res = 1.96 N - 0.4 N\nF_res = 1.56 N (This resultant force acts downwards).",
+      "hint": "First, calculate the weight of the stone using its mass and gravitational field strength. Then, consider the direction of all forces to determine if they add or subtract to find the resultant force.",
+      "generatedAt": "2026-04-29T16:48:37.192889"
+    },
+    {
+      "id": "s-y5-forces_intermediate_010",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 5,
+      "text": "A student performs an experiment by dropping two identical small toy figures, Figure A and Figure B, from the same height at the same time. Both figures have a mass of 0.02 kg. Figure A is dropped as it is. Figure B has a very light, flat piece of cardboard securely attached to its base, significantly increasing its overall surface area without adding noticeable mass. They are dropped on Earth.\n\nExplain fully why Figure B takes longer to reach the ground than Figure A. (4 marks)",
+      "options": [],
+      "correctAnswer": "Figure B has a larger surface area (1 mark). This causes it to experience a greater amount of air resistance than Figure A (1 mark). Air resistance is a force that opposes the motion of the falling object (1 mark). Because Figure B has more air resistance pushing upwards, the overall downward force on Figure B is reduced compared to Figure A, making it fall more slowly and therefore take longer to reach the ground (1 mark).",
+      "explanation": "The core of the explanation lies in understanding the forces acting on the objects. Both figures experience gravity pulling them down. However, Figure B, with its increased surface area, experiences more air resistance pushing upwards. This increased opposing force (air resistance) reduces the net downward force on Figure B, causing it to accelerate downwards at a slower rate than Figure A, which experiences less air resistance.",
+      "hint": "Consider how the shape of an object affects the amount of air pushing against it as it falls.",
+      "generatedAt": "2026-04-29T16:48:59.621752"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y5-forces_advanced_001",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Leo, a curious Year 5 scientist, wants to understand how different forces affect movement. He has two identical, small, solid plastic balls. He conducts three separate investigations:\n\n*   **Investigation 1**: Leo drops Ball A from the top of a tall slide in the playground.\n*   **Investigation 2**: Leo drops Ball B (identical to Ball A) from the same height, but this time he drops it into a swimming pool filled with water.\n*   **Investigation 3**: Leo rolls Ball A down the slide, but he first covers the slide surface with sticky, rough sand.\n\nUsing your understanding of forces, **compare and explain** the motion of Ball A in Investigation 1, Ball B in Investigation 2, and Ball A in Investigation 3, focusing on how different forces affect their movement from the moment they are released. Be sure to mention gravity, air resistance, water resistance, and friction where appropriate.",
+      "options": [],
+      "correctAnswer": "In Investigation 1, when Ball A is dropped from the slide, it falls downwards quickly because **gravity** is pulling it towards the Earth. As it gains speed, a small upward force called **air resistance** pushes against it, slightly slowing its fall. However, air resistance is generally small, so the ball will still accelerate rapidly and hit the ground relatively fast.\n\nIn Investigation 2, when Ball B is dropped into the swimming pool, it also falls downwards due to **gravity**. However, it will fall much, much slower than Ball A in the air. This is because the water creates a very strong opposing force called **water resistance**. Water is much thicker than air, so it pushes back on the ball much more strongly, causing the ball to slow down quickly and reach a steady, much slower speed through the water.\n\nIn Investigation 3, when Ball A is rolled down the slide covered in sticky, rough sand, it will still move downwards because **gravity** is pulling it down the slope. However, the rough sand creates a lot of **friction** between the ball and the slide's surface. This friction acts against the direction of movement, slowing the ball down significantly compared to rolling it down a smooth slide. It will move slower down the slope and will not travel as far at the bottom due to this strong frictional force.\n\n**Comparing them**:\n*   Ball A in Investigation 1 falls fastest because it is mainly opposed only by relatively weak air resistance.\n*   Ball B in Investigation 2 falls slowest because water resistance is a very strong opposing force, much greater than air resistance, making it much harder for gravity to pull it through the water.\n*   Ball A in Investigation 3 is slowed by a strong frictional force as it rolls, which works against gravity's pull down the slope, reducing its speed and overall distance travelled compared to a smooth surface.",
+      "explanation": "The model answer demonstrates an advanced understanding by:\n1.  **Systematic Analysis**: Each investigation is analysed individually first, detailing the forces at play and their immediate effects.\n2.  **Accurate Identification of Forces**: All relevant forces (gravity, air resistance, water resistance, friction) are correctly identified and applied to their specific contexts within each investigation.\n3.  **Cause and Effect Explanation**: The answer clearly links the presence and magnitude of each force to the observed motion. For example, 'because water is much thicker... it pushes back more strongly, making it slow down quickly'. This 'because' and 'so' reasoning is central to a strong scientific explanation.\n4.  **Comparative Reasoning**: The final section explicitly compares the outcomes of the three investigations, highlighting the relative strengths of the opposing forces (air resistance vs. water resistance vs. friction) and how these differences lead to variations in speed and movement.\n5.  **Appropriate Terminology and Accessibility**: Correct scientific terms are used throughout, while the language remains accessible and relatable for a Year 5 student's understanding of these physical phenomena.",
+      "hint": "Consider each investigation one by one. For each, identify which forces are acting on the ball and in what direction. Then, think about how strong each force is in that particular situation, and how it affects the ball's movement. Finally, compare how these effects are different across the three investigations.",
+      "generatedAt": "2026-04-29T16:49:22.623420"
+    },
+    {
+      "id": "s-y5-forces_advanced_002",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Maya is playing by a pond with a small, smooth pebble, a flat plastic toy boat, and a sponge.\n\na) State the name of the force that pulls all objects downwards towards the Earth. (1 mark)\n\nb) Maya drops the pebble and the sponge from the same height into the pond at the same time. Describe why the pebble reaches the water much faster than the sponge, focusing on the forces acting on them during their fall through the air. (3 marks)\n\nc) Maya then pushes her plastic toy boat across the pond. Explain why she finds it harder to push the boat through the water compared to how easy it would be to move it through the air (if she could push it like a paper plane), even though the boat is designed to float. (3 marks)\n\nd) Finally, Maya pulls the plastic toy boat from the pond onto a dry, sandy path. Describe the change in the *type* of resistance force she feels when pulling the boat from the water onto the dry, sandy path, and suggest one way she could make it easier to pull the boat on the sand. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravity (1 mark)\n\nb) During their fall through the air, both the pebble and the sponge are pulled downwards by gravity. However, the sponge has a larger and flatter surface area compared to the smooth, compact pebble. This means the sponge experiences more air resistance pushing upwards against its movement. Because of the greater air resistance, the sponge's fall is slowed down more significantly than the pebble's, allowing the pebble to reach the water much faster. (3 marks for mentioning gravity, air resistance, surface area/shape, and effect on speed).\n\nc) Maya finds it harder to push the boat through the water because of a force called water resistance. Water is much more resistant to movement than air, meaning it pushes back more strongly against the boat's movement as the boat tries to push through it. Even though the boat floats, it still has to push through the water, and this resistance acts against its motion, making it harder to move than in air. (3 marks for mentioning water resistance, water being more resistant than air, and cause-effect on movement).\n\nd) When Maya pulls the boat from the water onto the sand, the type of resistance force changes from water resistance to friction. Water resistance is the force of the water pushing against the boat's movement, while friction is the rubbing force between the bottom of the boat and the sandy surface that opposes its sliding motion. Friction on sand is generally much greater than water resistance for a boat of this design, making it much harder to pull. To make it easier to pull the boat on the sand, Maya could try placing a smooth mat or flat board under the boat to reduce the direct contact with the rough sand, or she could put wheels under the boat to reduce the amount of rubbing. (4 marks for identifying water resistance, identifying friction, explaining the change/why it's harder, and a valid suggestion to reduce friction).",
+      "explanation": "This question assesses the student's understanding of various forces (gravity, air resistance, water resistance, friction) and their application in different scenarios.\n\na) Requires recall of the basic force pulling objects down.\n\nb) Demands a comparison, requiring students to identify air resistance as the key difference and link it to object properties like surface area/shape, explaining its effect on falling speed. This combines concepts of gravity and air resistance.\n\nc) Requires explaining the concept of water resistance, comparing the medium (water vs. air) and its impact on motion. This combines concepts of resistance and properties of different fluids.\n\nd) Challenges students to differentiate between water resistance and friction, understand the relative magnitude of these forces in context, and apply their knowledge to suggest a practical solution to reduce friction. This is a multi-step application of understanding different resistance forces and practical problem-solving.",
+      "hint": "Remember that objects moving through a fluid (like air or water) experience a 'push back' force, and objects sliding on a surface experience a 'rubbing' force. Think about what properties of the object or the environment might make these forces stronger or weaker.",
+      "generatedAt": "2026-04-29T16:49:45.462934"
+    },
+    {
+      "id": "s-y5-forces_advanced_003",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A deep-sea research probe, named 'Hydro-Explorer', is being tested in two different environments. The gravitational force pulling the Hydro-Explorer downwards is always 12 Newtons (N).\n\n**Scenario 1:** The Hydro-Explorer is dropped from a helicopter high above the ocean. As it falls through the air, the upward air resistance acting on it is 4 N.\n\n**Scenario 2:** The Hydro-Explorer is then submerged into the deep ocean. When it is released, the upward water resistance acting on it is 9 N.\n\nThe scientists then design a new 'streamlined' shape for the Hydro-Explorer, which reduces the resistance in water by 3 N.\n\nConsidering these tests, what is the *net force* acting on the Hydro-Explorer when it is falling through the air AND what is the *net force* acting on it with the new streamlined shape when falling through the deep ocean?",
+      "options": [
+        "A) Air: 16 N downwards; Water (streamlined): 15 N downwards",
+        "B) Air: 8 N downwards; Water (streamlined): 6 N downwards",
+        "C) Air: 8 N upwards; Water (streamlined): 3 N upwards",
+        "D) Air: 16 N downwards; Water (streamlined): 3 N upwards"
+      ],
+      "correctAnswer": "B) Air: 8 N downwards; Water (streamlined): 6 N downwards",
+      "explanation": "Here's how to calculate the net force for each situation:\n\n1.  **Calculate the net force in the air (Scenario 1):**\n    *   The gravitational force pulling the Hydro-Explorer downwards is 12 N.\n    *   The air resistance pushing upwards is 4 N.\n    *   To find the net force, we subtract the upward force from the downward force: 12 N - 4 N = 8 N.\n    *   Since the gravitational force (downwards) is larger, the net force is 8 N **downwards**.\n\n2.  **Calculate the new water resistance for the streamlined shape (Scenario 2):**\n    *   The original water resistance was 9 N.\n    *   The streamlined shape reduces this resistance by 3 N.\n    *   So, the new water resistance is 9 N - 3 N = 6 N (this force acts upwards).\n\n3.  **Calculate the net force in the water with the streamlined shape (Scenario 2):**\n    *   The gravitational force pulling the Hydro-Explorer downwards is still 12 N.\n    *   The new water resistance pushing upwards is 6 N.\n    *   To find the net force, we subtract the upward force from the downward force: 12 N - 6 N = 6 N.\n    *   Since the gravitational force (downwards) is larger, the net force is 6 N **downwards**.\n\nCombining these results, the correct answer is Air: 8 N downwards; Water (streamlined): 6 N downwards.",
+      "hint": "Remember that gravity always pulls downwards. Resistance forces (like air resistance or water resistance) always push upwards, opposing the motion. To find the *net force*, you need to consider the direction of each force and either add them (if in the same direction) or subtract them (if in opposite directions). The direction of the net force will be the same as the larger force. Also, carefully work out the *new* water resistance after the streamlined shape is added.",
+      "generatedAt": "2026-04-29T16:50:05.033763"
+    },
+    {
+      "id": "s-y5-forces_advanced_004",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A 'Drop-Module' is being tested as part of a science experiment. The module has a mass of 2 kg and is designed to fall from a tall platform with a small parachute attached, eventually landing on a soft mat.\n\n1.  **Describe** two forces acting on the Drop-Module *just after* it is released from the platform, but *before* its parachute opens. (2 marks)\n\n2.  **Explain** why the Drop-Module speeds up as it falls through the air *before* its parachute opens. Your explanation should include the terms \"force,\" \"gravity,\" and \"air resistance.\" (3 marks)\n\n3.  When the parachute opens, the Drop-Module slows down significantly. **State** the name of the force that has dramatically increased, causing this slowdown. (1 mark)\n\n4.  Eventually, the Drop-Module, with its open parachute, reaches a point where it is falling at a steady, constant speed towards the landing mat. At this precise moment, the downward force of gravity acting on the Drop-Module is 20 N, and the upward force of air resistance from the parachute is also 20 N.\n\n    **Calculate** the net (overall) force acting on the Drop-Module at this point.\n",
+      "options": [
+        "A) 40 N downwards",
+        "B) 20 N upwards",
+        "C) 0 N",
+        "D) 20 N downwards"
+      ],
+      "correctAnswer": "C) 0 N",
+      "explanation": "1.  **Description of forces:**\n    *   **Gravity:** Pulling the Drop-Module downwards towards the Earth.\n    *   **Air resistance:** Pushing the Drop-Module upwards, opposing its motion.\n\n2.  **Explanation for speeding up:**\n    *   The force of **gravity** pulling the Drop-Module downwards is stronger than the **force** of **air resistance** pushing upwards. (Cause)\n    *   **Because** of this difference, there is an unbalanced net force acting downwards on the Drop-Module. (Link)\n    *   **So**, this unbalanced downward force causes the Drop-Module to accelerate and speed up as it falls. (Effect)\n\n3.  **State the force:**\n    *   The force that has dramatically increased, causing the slowdown when the parachute opens, is **air resistance**.\n\n4.  **Calculation of net force:**\n    *   Downward force (gravity) = 20 N\n    *   Upward force (air resistance) = 20 N\n    *   Net force = Downward force - Upward force\n    *   Net force = 20 N - 20 N = 0 N\n    *   Therefore, the net (overall) force acting on the Drop-Module at this point is 0 N. This is because when an object falls at a steady, constant speed, the forces acting on it are balanced.",
+      "hint": "When an object is moving at a steady, constant speed (not speeding up or slowing down), what must be true about the total (net) force acting on it?",
+      "generatedAt": "2026-04-29T16:50:34.020171"
+    },
+    {
+      "id": "s-y5-forces_advanced_005",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Astronaut Zola is on 'AquaPrime', a planet with a thick atmosphere and vast oceans. AquaPrime's gravity is similar to Earth's. Zola has a small, dense metal sphere and a large, flat foam disc.\n\na) State the name of the force that pulls both the metal sphere and the foam disc downwards towards the planet's surface. (1 mark)\n\nb) Zola drops the metal sphere and the foam disc from the same height. Describe what she would observe about the initial speed and subsequent falling motion of the foam disc compared to the metal sphere. (2 marks)\n\nc) Explain *why* the foam disc falls differently from the metal sphere on AquaPrime, making sure to name and describe the effect of another force acting on the objects. (3 marks)\n\nd) Zola needs to move a heavy equipment crate across a rough, rocky surface on AquaPrime. Describe one practical way she could reduce the force needed to slide the crate along the ground. (2 marks)\n\ne) Zola then needs to send a small exploration drone through AquaPrime's dense atmosphere and later a similar-sized underwater drone through its deep oceans. Explain *why* the underwater drone would experience much greater resistance to its movement than the aerial drone, even if they were moving at the same speed. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravity / Gravitational force (1 mark)\n\nb) The metal sphere would fall quickly and steadily. The foam disc would initially drop but then slow down significantly / fall much slower than the sphere / 'float' down more slowly. (1 mark for comparison, 1 mark for describing the slower, more resisted motion)\n\nc) The foam disc falls differently because of air resistance (1 mark). Air resistance is a force that pushes upwards against moving objects through the air (1 mark). The large, flat shape of the foam disc means it has a much larger surface area pushing against the thick atmosphere, causing more air resistance to slow it down, unlike the smaller, denser sphere which cuts through the air more easily (1 mark linking shape/surface area to air resistance and its effect).\n\nd) Zola could:\n    - Put wheels or rollers under the crate (1 mark) to change sliding friction into rolling friction (1 mark).\n    - Make the surface smoother (e.g., lay down planks/boards) (1 mark) to reduce the contact between rough surfaces (1 mark).\n    - Lift the crate slightly (1 mark) to reduce the downward push onto the surface (1 mark).\n    - Pour a lubricant (like oil) onto the surface (1 mark) to make it slippery (1 mark). (Any one clear method with a simple explanation for 2 marks)\n\ne) The underwater drone would experience much greater resistance because water is much denser/thicker than air (1 mark). This means there are many more water particles for the drone to push through (1 mark). When the drone moves, it has to push these particles out of the way, and because water is denser, this pushing force (water resistance) is much stronger than the pushing force from air particles (air resistance) (1 mark). So, even at the same speed, the water resistance is significantly higher, making it much harder for the drone to move through the ocean (1 mark for clear cause-effect linking density to resistance).",
+      "explanation": "This question assesses a Year 5 student's understanding of different forces (gravity, air resistance, friction, water resistance) in a multi-step, applied scenario. \n\nPart a) tests basic knowledge of gravity as the force pulling objects down.\nPart b) requires observation and comparison of falling objects, introducing the idea of differing effects of resistance on different shapes/densities.\nPart c) specifically asks for an explanation using 'because'/'so' and naming the relevant force (air resistance) with its effect, linking it to object properties (shape/surface area).\nPart d) applies the concept of friction and practical methods to reduce it in a real-world context.\nPart e) is the most 'advanced' part, requiring a comparison of air and water resistance, explaining the underlying cause (density of the medium) and its effect on movement, thus combining multiple concepts in a predictive and explanatory manner.",
+      "hint": "Remember that objects falling or moving through a fluid (like air or water) experience a force that tries to slow them down. Think about what makes it harder to push your hand through water compared to air.",
+      "generatedAt": "2026-04-29T16:51:00.378982"
+    },
+    {
+      "id": "s-y5-forces_advanced_006",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "The 'Aqua-Diver' is a new toy designed to explore both air and water. It has a special shape to help it move through different materials.\n\n**Part 1: Air Descent**\nThe Aqua-Diver is dropped from a high cliff. The force of gravity pulling it downwards is 15 Newtons.\nAs it falls, the air pushes upwards against the Aqua-Diver. This air resistance force starts at 2 Newtons and increases to 10 Newtons as it speeds up.\n\n1.  **Calculate** the overall (net) force acting on the Aqua-Diver when the air resistance is 2 Newtons. Show your working. (2 marks)\n2.  **Describe** how the Aqua-Diver's speed changes as it falls through the air, explaining the role of the forces acting on it. (3 marks)\n\n**Part 2: Water Exploration**\nThe Aqua-Diver then lands smoothly into a deep lake and continues to sink.\nThe force of gravity pulling it downwards is still 15 Newtons.\nHowever, the water resistance pushing upwards against the Aqua-Diver is much larger, starting at 12 Newtons and quickly increasing to 20 Newtons as it sinks.\n\n3.  **Explain** why the Aqua-Diver slows down and eventually stops sinking once the water resistance reaches 20 Newtons. Use the terms 'force of gravity' and 'water resistance' in your answer. (4 marks)\n4.  While on the lake bed, the Aqua-Diver needs to be moved sideways. A small underwater robot tries to push it with a force of 5 Newtons, but the Aqua-Diver doesn't move. **State** what force is stopping it from moving and **describe** one way the robot could reduce this force. (3 marks)",
+      "options": [],
+      "correctAnswer": "1. **Calculation:**\n   Force of gravity = 15 N (downwards)\n   Air resistance = 2 N (upwards)\n   Net force = Force of gravity - Air resistance\n   Net force = 15 N - 2 N\n   Net force = 13 Newtons (downwards)\n\n2. **Description:**\n   Initially, the Aqua-Diver speeds up quickly because the force of gravity (15 N) is much larger than the air resistance (2 N), so there is a large overall force pulling it downwards. As it speeds up, the air resistance increases (up to 10 N). This means the overall downward force becomes smaller, so it will continue to speed up, but not as quickly, until it might reach a steady speed where air resistance equals gravity.\n\n3. **Explanation:**\n   When the water resistance reaches 20 Newtons, it is greater than the force of gravity (15 Newtons) pulling the Aqua-Diver down. **Because** the upward water resistance force is stronger than the downward force of gravity, there is an overall (net) upward force on the Aqua-Diver. **So**, this upward net force causes the Aqua-Diver to slow down. It eventually stops sinking **because** the upward water resistance force becomes equal to the downward force of gravity, resulting in a zero net force, **so** there is no longer anything pulling it down or pushing it up to make it move.\n\n4. **State and Describe:**\n   The force stopping it from moving is **friction**.\n   One way the robot could reduce this force is to make the surface of the Aqua-Diver (or the lake bed where it sits) smoother, or to lift the Aqua-Diver slightly off the lake bed before pushing it.",
+      "explanation": "This question requires students to apply their understanding of various forces (gravity, air resistance, water resistance, friction) in a multi-step scenario.\n\n1.  **Net Force Calculation (2 marks):** Students must identify the opposing forces and subtract the smaller from the larger to find the net force and its direction. (1 mark for working, 1 mark for correct answer with units and direction).\n2.  **Describing Speed Change (3 marks):** Students need to link the changing balance of forces (gravity vs. increasing air resistance) to changes in speed. (1 mark for initial speed increase, 1 mark for decreasing acceleration as air resistance grows, 1 mark for mentioning role of forces).\n3.  **Explaining Slowing Down/Stopping (4 marks):** This requires understanding that a net force in the opposite direction of motion (water resistance > gravity) causes deceleration, and a zero net force (water resistance = gravity) causes an object to stop moving (or stay still). (1 mark for identifying water resistance > gravity, 1 mark for linking this to upward net force, 1 mark for linking net force to slowing down, 1 mark for explaining stopping when forces balance).\n4.  **Identifying and Reducing Friction (3 marks):** Students must correctly name friction as the opposing force (1 mark) and provide a practical method for reducing it (2 marks). Making surfaces smoother or reducing the contact force (by lifting) are common ways to reduce friction.",
+      "hint": "Remember that forces can act in opposite directions. To find the overall effect, you sometimes need to subtract. Also, think about what happens to an object's movement when forces are balanced or unbalanced, and how different surfaces can affect movement.",
+      "generatedAt": "2026-04-29T16:51:40.120921"
+    },
+    {
+      "id": "s-y5-forces_advanced_007",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A 15 kg 'research drone' is being tested in a controlled environment. In one part of the experiment (Phase 2), the drone is carefully lowered into a large tank filled with a very thick, syrupy liquid. The drone descends vertically through this liquid at a constant, slow speed.\n\nWhich of the following statements correctly explains the forces acting on the drone as it moves downwards at a constant, slow speed in the thick liquid?",
+      "options": [
+        "A. The force of gravity is the only force pulling the drone downwards.",
+        "B. The force of gravity is stronger than the liquid resistance, causing the drone to speed up.",
+        "C. The upward force of liquid resistance is stronger than the downward force of gravity, so the drone is slowing down.",
+        "D. The upward force of liquid resistance is equal in strength to the downward force of gravity."
+      ],
+      "correctAnswer": "D. The upward force of liquid resistance is equal in strength to the downward force of gravity.",
+      "explanation": "When an object moves at a constant speed, it means that all the forces acting on it are balanced. In this scenario, the force of gravity is pulling the drone downwards. As the drone moves downwards through the thick liquid, the liquid resistance acts upwards, opposing its motion. Since the drone is moving downwards at a constant speed, the downward force of gravity must be exactly balanced (equal in strength) by the upward force of liquid resistance. If gravity was stronger, the drone would speed up. If liquid resistance was stronger, the drone would slow down.",
+      "hint": "Think about what happens to an object's speed when the forces pushing it are perfectly balanced.",
+      "generatedAt": "2026-04-29T16:52:00.762272"
+    },
+    {
+      "id": "s-y5-forces_advanced_008",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "A group of Year 5 students, Ben and Mia, are investigating forces using a small toy submarine they made. They use a spring balance to measure the force needed to pull the submarine at a steady speed.\n\n**Experiment 1: Pulling on different surfaces.**\nBen pulls the submarine at a steady speed across a dry, smooth classroom floor. He measures the force as 0.2 Newtons (N).\nThen, he pulls the *same* submarine at the *same steady speed* along the bottom of a shallow paddling pool filled with water. He measures the force as 1.5 N.\n\n1.  **State** the name of the force that makes it harder to pull the submarine across the dry classroom floor. (1 mark)\n2.  **State** the name of the force that makes it harder to pull the submarine through the water. (1 mark)\n3.  **Explain** why Ben needs to pull with a much larger force when the submarine is in the water compared to the classroom floor. (3 marks)\n\n**Experiment 2: Modifying the submarine.**\nMia suggests changing the shape of the submarine to make it move more easily through the water. She redesigns the front of the submarine to be much pointier and smoother.\nShe tests the redesigned submarine in the paddling pool, pulling it at the *same steady speed* as before. She measures the force as 1.1 N.\n\n4.  **Describe** how Mia's redesign affected the force needed to pull the submarine through the water. (2 marks)\n5.  **Calculate** the *reduction* in the force needed to pull the submarine through the water due to Mia's redesign. Show your working and include units. (3 marks)\n6.  **Explain** why making the front of the submarine pointier and smoother helped to reduce the force needed to pull it. (3 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Friction** (1 mark)\n2.  **Water resistance** (1 mark)\n3.  Ben needs to pull with a larger force in water **because** water resistance is much greater than friction on a dry floor (1 mark). Water is thicker and stickier than air, **so** it pushes back more strongly against the submarine's movement (2 marks).\n4.  Mia's redesign *reduced* the force needed to pull the submarine (1 mark). The force decreased from 1.5 N to 1.1 N (1 mark).\n5.  **Formula:** Original force - New force = Reduction in force (1 mark)\n    **Substitution:** 1.5 N - 1.1 N (1 mark)\n    **Answer:** = 0.4 N (1 mark)\n6.  Making the front pointier and smoother (streamlined) helps **because** it allows the submarine to cut through the water more easily (1 mark). This reduces the amount of water it has to push out of the way (1 mark), **so** the water resistance acting on the submarine becomes smaller (1 mark).",
+      "explanation": "This multi-part question assesses understanding of various resistive forces (friction and water resistance) and their causes and effects. Students must apply their knowledge to a practical scenario (toy submarine investigation), interpret experimental results, and perform a simple calculation to quantify a change in force. The explanation tasks require linking cause and effect using scientific reasoning, specifically addressing how shape affects fluid resistance.",
+      "hint": "For question 5, to calculate the 'reduction', you need to find the difference between the initial force in water and the new force after the redesign. Think 'how much less' the new force is compared to the old one.",
+      "generatedAt": "2026-04-29T16:52:27.469454"
+    },
+    {
+      "id": "s-y5-forces_advanced_009",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Leo is playing with his new 'Ocean Explorer' toy, a small capsule that can be dropped through the air and also pulled through water.\n\n**Part A:**\nWhen Leo drops the Ocean Explorer from a high shelf, it falls towards the floor.\nState the name of the force that pulls the Ocean Explorer downwards. (1 mark)\n\n**Part B:**\nLeo has two identical Ocean Explorers. One is smooth and streamlined (Capsule Alpha), and the other has many rough bumps and edges (Capsule Beta). He drops both from the same high shelf at the same time.\nDescribe how the speed of Capsule Alpha would be different from Capsule Beta as they fall through the air, and explain why this happens. (4 marks)\n\n**Part C:**\nNext, Leo carefully pulls Capsule Alpha through a large tank of water at a steady speed. He measures the force he needs to pull with, which is 12 Newtons (N). When Capsule Alpha was falling through the air, the maximum upward force of air resistance acting on it was only 3 Newtons (N).\nExplain why the force needed to pull Capsule Alpha through water is much larger than the maximum force of air resistance it experienced when falling through the air. (3 marks)\n\n**Part D:**\nLeo redesigns Capsule Alpha to be even more streamlined for water. This reduces the water resistance by exactly half.\nCalculate the new pulling force Leo would need to move this redesigned Capsule Alpha through the water at the same steady speed. Show your working and include units. (3 marks)",
+      "options": [],
+      "correctAnswer": "**Part A:**\nGravity (1 mark)\n\n**Part B:**\nCapsule Alpha would fall faster than Capsule Beta (1 mark). This is because Capsule Beta has rough bumps and edges, which increases the amount of friction it has with the air (1 mark). This increased friction causes a larger force of air resistance pushing upwards on Capsule Beta (1 mark), slowing it down more significantly than the smooth, streamlined Capsule Alpha (1 mark).\n\n**Part C:**\nWater is much denser (or thicker) than air (1 mark). This means there are many more water particles hitting and pushing against the capsule as it moves through water compared to the fewer air particles it encounters in the air (1 mark). Therefore, the force of water resistance is significantly greater than air resistance, requiring a much larger pulling force to overcome it (1 mark).\n\n**Part D:**\nWhen moving at a steady speed, the pulling force is equal to the water resistance.\nOriginal water resistance = 12 N\nNew water resistance = Original water resistance / 2 (1 mark)\nNew water resistance = 12 N / 2 = 6 N (1 mark for calculation)\nTherefore, the new pulling force needed is 6 N (1 mark for units).",
+      "explanation": "This question requires students to apply their understanding of gravity, air resistance, water resistance, and friction in different scenarios. \nPart A tests basic knowledge of gravity. \nPart B requires students to compare and explain the effect of shape and surface (linking to friction and air resistance) on speed. \nPart C challenges them to explain the difference in magnitude between air and water resistance based on the medium's properties. \nPart D is a calculation step that requires understanding that at steady speed, applied force equals resistance, and then applying a simple division.",
+      "hint": "For Part D, remember that when an object is pulled at a steady speed, the pulling force exactly balances the resistance force acting against it.",
+      "generatedAt": "2026-04-29T16:52:46.935168"
+    },
+    {
+      "id": "s-y5-forces_advanced_010",
+      "topicId": "s-y5-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 5,
+      "text": "Maya is an enthusiastic young scientist experimenting with forces. She designs two types of toys: a 'Sky-Glider' to fall slowly through the air and a 'Deep-Diver' to sink slowly through water. She wants to understand how to make them fall or sink as slowly as possible by changing their shape and materials.\n\n**a) State** the name of the force that pulls both the 'Sky-Glider' and the 'Deep-Diver' downwards. (1 mark)\n\n**b) Describe** how air resistance affects the falling speed of an object like the 'Sky-Glider'. (2 marks)\n\n**c) Explain** why a 'Deep-Diver' designed with a smooth, streamlined shape sinks slower through water than one with a rough, irregular shape, assuming both have the same weight. (3 marks)\n\n**d) Maya tests two different 'Sky-Glider' designs, X and Y, by dropping them from the same height.**\n*   Sky-Glider X took 5.8 seconds to reach the ground.\n*   Sky-Glider Y took 7.1 seconds to reach the ground.\n**Calculate** the difference in falling time between Sky-Glider Y and Sky-Glider X. Show your formula, substitution, and final answer with units. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Gravity (or gravitational force)\n\nb) Air resistance is a force that pushes upwards against a falling object (1). This upward push slows the object down as it falls (1).\n\nc) A smooth, streamlined 'Deep-Diver' creates less water resistance than a rough, irregular shape (1). This is because water can flow more easily around the smooth shape (1), meaning there is less opposition to the downward pull of gravity, so the toy sinks slower (1).\n\nd) Formula: Difference in time = Time Y - Time X (1 mark)\nSubstitution: Difference in time = 7.1 s - 5.8 s (1 mark)\nAnswer: 1.3 s (1 mark)",
+      "explanation": "This question assesses a Year 5 student's understanding of forces (gravity, air resistance, water resistance) within a multi-step context. \n\n*   **Part a** tests basic recall of the force of gravity, which pulls objects downwards. \n*   **Part b** requires a description of how air resistance acts as an opposing force, reducing the speed of a falling object. \n*   **Part c** demands an explanation of streamlining and its effect on water resistance, linking the cause (smoothness/streamlining) to the effect (less resistance, slower sinking). The explanation must include a 'because' or 'so' to show the cause-effect relationship clearly. \n*   **Part d** is a simple arithmetic calculation presented in a scientific context. It follows the GCSE 'Calculate' command word rules by requiring the student to show the formula used, substitute the given numerical values, and provide the final answer with correct units. The mathematical operation (subtraction of decimals) is appropriate for Year 5.",
+      "hint": "For part d), remember that 'difference' usually means subtraction. Write down the simple subtraction formula, then put the numbers into it, and finally write your answer with the correct time unit.",
+      "generatedAt": "2026-04-29T16:53:15.886244"
+    }
+  ]
+}

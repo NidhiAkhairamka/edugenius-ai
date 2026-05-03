@@ -1,0 +1,508 @@
+{
+  "Beginner": [
+    {
+      "id": "m-y9-pythagoras_beginner_001",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle, the lengths of the two shorter sides are 5 cm and 12 cm. Calculate the length of the longest side (the hypotenuse).",
+      "options": [
+        "7 cm",
+        "13 cm",
+        "17 cm",
+        "169 cm"
+      ],
+      "correctAnswer": "13 cm",
+      "explanation": "Let the lengths of the two shorter sides be 'a' and 'b', and the length of the longest side (hypotenuse) be 'c'. According to Pythagoras' Theorem: a² + b² = c².\nGiven a = 5 cm and b = 12 cm.\nSubstitute the values into the formula:\n5² + 12² = c²\n25 + 144 = c²\n169 = c²\nTo find 'c', take the square root of 169:\nc = √169\nc = 13 cm.\nTherefore, the length of the hypotenuse is 13 cm.",
+      "hint": "Remember Pythagoras' Theorem: in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. The hypotenuse is the longest side, opposite the right angle.",
+      "generatedAt": "2026-04-30T13:55:36.256160"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_002",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Triangle PQR has a right angle at vertex Q. The length of side PQ is 6 cm and the length of side QR is 8 cm. Calculate the length of side PR.",
+      "options": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "In a right-angled triangle, Pythagoras' Theorem states that a² + b² = c², where 'a' and 'b' are the lengths of the two shorter sides (legs), and 'c' is the length of the longest side (hypotenuse).\n\nIn triangle PQR, the right angle is at Q, which means PQ and QR are the two shorter sides (legs), and PR is the hypotenuse.\n\nGiven:\nLength of side PQ (a) = 6 cm\nLength of side QR (b) = 8 cm\nWe need to find the length of side PR (c).\n\nApplying Pythagoras' Theorem:\nc² = a² + b²\nc² = 6² + 8²\nc² = 36 + 64\nc² = 100\nc = √100\nc = 10 cm\n\nTherefore, the length of side PR is 10 cm.",
+      "hint": "Remember to use Pythagoras' Theorem: a² + b² = c². Identify which sides are the legs (a and b) and which is the hypotenuse (c) in the triangle.",
+      "generatedAt": "2026-04-30T13:55:48.989024"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_003",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Triangle ABC is a right-angled triangle. The right angle is at vertex B. The length of the hypotenuse, AC, is 10 cm. The length of side AB is 6 cm. Calculate the length of side BC. Give your answer in cm.",
+      "options": [
+        "A) 4 cm",
+        "B) 8 cm",
+        "C) 16 cm",
+        "D) 11.7 cm"
+      ],
+      "correctAnswer": "B) 8 cm",
+      "explanation": "1. Identify the formula for Pythagoras' Theorem: a² + b² = c², where 'c' is the hypotenuse (the longest side, opposite the right angle) and 'a' and 'b' are the other two shorter sides (legs).\n2. From the question, the hypotenuse (AC) is 10 cm, so c = 10.\n3. One of the shorter sides (AB) is 6 cm, so let a = 6.\n4. We need to find the length of the other shorter side (BC), which we'll call b.\n5. Substitute the known values into the formula: 6² + b² = 10².\n6. Calculate the squares: 36 + b² = 100.\n7. To find b², subtract 36 from both sides: b² = 100 - 36.\n8. This gives b² = 64.\n9. To find b, take the square root of 64: b = √64.\n10. Therefore, b = 8 cm. The length of side BC is 8 cm.",
+      "hint": "Remember to use Pythagoras' Theorem, a² + b² = c², and make sure you correctly identify the hypotenuse before substituting the values into the equation.",
+      "generatedAt": "2026-04-30T13:56:00.932511"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_004",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Consider a right-angled triangle named RST. The right angle is at vertex S. The length of the hypotenuse, side RT, is 17 cm. The length of one of the shorter sides, RS, is 8 cm. Calculate the length of the other shorter side, ST.",
+      "options": [
+        "25 cm",
+        "9 cm",
+        "15 cm",
+        "225 cm"
+      ],
+      "correctAnswer": "15 cm",
+      "explanation": "In a right-angled triangle, Pythagoras' Theorem states that a² + b² = c², where 'c' is the length of the hypotenuse (the longest side, opposite the right angle), and 'a' and 'b' are the lengths of the two shorter sides.\n\nGiven:\nHypotenuse (RT) = c = 17 cm\nOne shorter side (RS) = a = 8 cm\nThe other shorter side (ST) = b = ?\n\nSubstitute the known values into the formula:\na² + b² = c²\n8² + ST² = 17²\n\nCalculate the squares:\n64 + ST² = 289\n\nTo find ST², subtract 64 from both sides:\nST² = 289 - 64\nST² = 225\n\nTo find ST, take the square root of 225:\nST = √225\nST = 15 cm\n\nTherefore, the length of side ST is 15 cm.",
+      "hint": "Remember that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. You are given the hypotenuse and one shorter side, so you will need to rearrange the formula to find the missing shorter side.",
+      "generatedAt": "2026-04-30T13:56:12.056367"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_005",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A right-angled triangle, named XYZ, has its right angle at vertex Y. The length of side XY is 6 cm and the length of side YZ is 8 cm. Calculate the length of the hypotenuse, XZ.",
+      "options": [
+        "10 cm",
+        "14 cm",
+        "100 cm",
+        "28 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "In a right-angled triangle, Pythagoras' Theorem states that the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.\nLet a = length of XY = 6 cm\nLet b = length of YZ = 8 cm\nLet c = length of the hypotenuse XZ\n\nThe formula is a² + b² = c².\nSubstitute the given values:\n6² + 8² = c²\n36 + 64 = c²\n100 = c²\nTo find c, take the square root of 100:\nc = √100\nc = 10 cm\nSo, the length of the hypotenuse XZ is 10 cm.",
+      "hint": "Remember to use the formula a² + b² = c², where 'c' represents the hypotenuse.",
+      "generatedAt": "2026-04-30T13:56:21.274825"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_006",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "Triangle XYZ has a right angle at vertex Y. The length of the side XZ is 13 cm, and the length of the side XY is 5 cm. What is the length of the side YZ?",
+      "options": [
+        "A) 8 cm",
+        "B) 12 cm",
+        "C) 18 cm",
+        "D) 13.9 cm"
+      ],
+      "correctAnswer": "B) 12 cm",
+      "explanation": "In a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides. This is known as Pythagoras' Theorem: a² + b² = c², where c is the hypotenuse.\n\nIn triangle XYZ, the right angle is at Y, so XZ is the hypotenuse (c = 13 cm). XY and YZ are the other two sides (let a = XY = 5 cm, and b = YZ).\n\nSo, we have: \nXY² + YZ² = XZ²\n5² + YZ² = 13²\n25 + YZ² = 169\n\nTo find YZ², subtract 25 from both sides:\nYZ² = 169 - 25\nYZ² = 144\n\nTo find YZ, take the square root of 144:\nYZ = √144\nYZ = 12 cm",
+      "hint": "Remember Pythagoras' Theorem: a² + b² = c². Identify the hypotenuse (c) and the known shorter side (a or b), then rearrange the formula to find the unknown shorter side.",
+      "generatedAt": "2026-04-30T13:56:34.348531"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_007",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A right-angled triangle has two sides measuring 6 cm and 8 cm. These two sides form the right angle. Calculate the length of the third, longest side.",
+      "options": [
+        "10 cm",
+        "14 cm",
+        "50 cm",
+        "24 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "Let 'a' and 'b' be the lengths of the two shorter sides (6 cm and 8 cm), and 'c' be the length of the longest side (hypotenuse). According to Pythagoras' Theorem:\na² + b² = c²\n\nSubstitute the given values:\n6² + 8² = c²\n36 + 64 = c²\n100 = c²\n\nTo find 'c', take the square root of 100:\nc = √100\nc = 10 cm\n\nTherefore, the length of the longest side is 10 cm.",
+      "hint": "Remember that in a right-angled triangle, the square of the hypotenuse (the longest side) is equal to the sum of the squares of the other two sides (a² + b² = c²).",
+      "generatedAt": "2026-04-30T13:56:44.717865"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_008",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle with vertices P, Q, and R, the angle at Q is 90 degrees. The side PQ measures 8 cm and the side QR measures 6 cm. What is the length of the side PR?",
+      "options": [
+        "10 cm",
+        "14 cm",
+        "2.8 cm",
+        "100 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "In a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides. This is known as Pythagoras' Theorem, a² + b² = c².\n\nIn triangle PQR, the angle at Q is 90 degrees, which means PR is the hypotenuse (the longest side, 'c').\nThe lengths of the other two sides (the legs, 'a' and 'b') are PQ = 8 cm and QR = 6 cm.\n\nSo, we can set up the equation:\nPR² = PQ² + QR²\nPR² = 8² + 6²\nPR² = 64 + 36\nPR² = 100\n\nTo find the length of PR, we take the square root of 100:\nPR = √100\nPR = 10 cm\n\nTherefore, the length of the side PR is 10 cm.",
+      "hint": "Remember to identify the hypotenuse (the side opposite the right angle) and apply Pythagoras' theorem: a² + b² = c².",
+      "generatedAt": "2026-04-30T13:56:58.139227"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_009",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "A right-angled triangle has two shorter sides. One side measures 7 cm and the other side measures 24 cm. What is the length of the longest side (hypotenuse)? Show your working.",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 31 cm",
+        "D) 625 cm"
+      ],
+      "correctAnswer": "B) 25 cm",
+      "explanation": "1. Identify the known sides: In a right-angled triangle, the two shorter sides are the legs (a and b). So, a = 7 cm and b = 24 cm.\n2. Identify the unknown side: The longest side is the hypotenuse (c), which we need to find.\n3. Apply Pythagoras' Theorem: The formula is a² + b² = c².\n4. Substitute the known values: 7² + 24² = c².\n5. Calculate the squares: 49 + 576 = c².\n6. Add the values: 625 = c².\n7. Find the square root to get c: c = √625.\n8. Calculate the final result: c = 25 cm.\nTherefore, the length of the longest side is 25 cm.",
+      "hint": "Use Pythagoras' Theorem, a² + b² = c², where 'c' is the length of the longest side (hypotenuse) and 'a' and 'b' are the lengths of the two shorter sides.",
+      "generatedAt": "2026-04-30T13:57:07.453741"
+    },
+    {
+      "id": "m-y9-pythagoras_beginner_010",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Beginner",
+      "yearLevel": 9,
+      "text": "In a right-angled triangle PQR, the right angle is at Q. The length of the side PQ is 5 cm and the length of the side QR is 12 cm. What is the length of the hypotenuse PR? Give your answer in cm.",
+      "options": [
+        "A: 17 cm",
+        "B: 7 cm",
+        "C: 13 cm",
+        "D: 169 cm"
+      ],
+      "correctAnswer": "C: 13 cm",
+      "explanation": "In a right-angled triangle, Pythagoras' Theorem states that the square of the hypotenuse (the longest side, opposite the right angle) is equal to the sum of the squares of the other two sides. This can be written as a² + b² = c², where 'c' is the hypotenuse.\n\nIn triangle PQR:\n- The right angle is at Q, so PR is the hypotenuse.\n- The lengths of the other two sides are PQ = 5 cm and QR = 12 cm.\n\nUsing the formula:\nPR² = PQ² + QR²\nPR² = 5² + 12²\nPR² = 25 + 144\nPR² = 169\n\nTo find the length of PR, take the square root of 169:\nPR = √169\nPR = 13 cm",
+      "hint": "Remember to use Pythagoras' Theorem, a² + b² = c², where 'c' is the hypotenuse. Make sure to square the lengths and then take the square root at the end.",
+      "generatedAt": "2026-04-30T13:57:16.882500"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "m-y9-pythagoras_intermediate_001",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Consider two connected right-angled triangles, ABC and ACD. \n\nIn triangle ABC, angle B is 90 degrees. The length of side AB is 5 cm and the length of side BC is 12 cm. \n\nIn triangle ACD, angle D is 90 degrees. The length of side CD is 5 cm. \n\nCalculate the length of side AD. Show your working clearly.",
+      "options": [
+        "7 cm",
+        "12 cm",
+        "13 cm",
+        "17 cm"
+      ],
+      "correctAnswer": "12 cm",
+      "explanation": "Step 1: Find the length of side AC using Pythagoras' Theorem in triangle ABC.\nSince angle B is 90 degrees, AC is the hypotenuse.\nAC² = AB² + BC²\nAC² = 5² + 12²\nAC² = 25 + 144\nAC² = 169\nAC = √169 = 13 cm.\n\nStep 2: Find the length of side AD using Pythagoras' Theorem in triangle ACD.\nSince angle D is 90 degrees, AC is the hypotenuse. We know AC = 13 cm and CD = 5 cm.\nAC² = AD² + CD²\n13² = AD² + 5²\n169 = AD² + 25\nAD² = 169 - 25\nAD² = 144\nAD = √144 = 12 cm.\n\nTherefore, the length of side AD is 12 cm.",
+      "hint": "Start by finding the length of the common side, AC, using Pythagoras' Theorem in the first triangle. Then use this length to apply Pythagoras' Theorem again in the second triangle.",
+      "generatedAt": "2026-04-30T13:57:30.084304"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_002",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A rectangle has a perimeter of 34 cm. Its shortest side measures 5 cm. Calculate the length of the diagonal of the rectangle. Show your working clearly.",
+      "options": [
+        "A. 12 cm",
+        "B. 13 cm",
+        "C. 17 cm",
+        "D. 17.7 cm"
+      ],
+      "correctAnswer": "B. 13 cm",
+      "explanation": "Step 1: Find the length of the longer side of the rectangle.\nThe perimeter (P) of a rectangle is given by the formula P = 2(length + width).\nGiven P = 34 cm and the shortest side (width) = 5 cm.\n34 = 2(length + 5)\nDivide both sides by 2: 17 = length + 5\nSubtract 5 from both sides: length = 17 - 5 = 12 cm.\n\nStep 2: Use Pythagoras Theorem to find the length of the diagonal.\nThe diagonal of a rectangle forms the hypotenuse of a right-angled triangle with the length and width of the rectangle as the other two sides.\nLet the diagonal be 'd'. According to Pythagoras Theorem, a² + b² = c²:\nd² = length² + width²\nd² = 12² + 5²\nd² = 144 + 25\nd² = 169\nd = √169\nd = 13 cm.\n\nTherefore, the length of the diagonal is 13 cm.",
+      "hint": "First, use the given perimeter and one side length to find the other side length of the rectangle. Then, consider how the diagonal relates to the sides of the rectangle using a specific geometric theorem.",
+      "generatedAt": "2026-04-30T13:57:43.703305"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_003",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A ladder is placed against a vertical wall. The base of the ladder is 3 metres away from the wall, and the top of the ladder reaches 4 metres up the wall. A second ladder, which is 1 metre longer than the first ladder, is placed against the same wall. If the base of the second ladder is 5 metres away from the wall, how high up the wall does the second ladder reach? Give your answer to one decimal place. Show your working.",
+      "options": [
+        "A) 3.3 m",
+        "B) 7.8 m",
+        "C) 4.0 m",
+        "D) 6.4 m"
+      ],
+      "correctAnswer": "A) 3.3 m",
+      "explanation": "Step 1: Calculate the length of the first ladder.\nThe ladder, the wall, and the ground form a right-angled triangle. The distance from the wall (horizontal side) is 3m, and the height up the wall (vertical side) is 4m. The ladder itself is the hypotenuse.\nUsing Pythagoras theorem: a² + b² = c²\n3² + 4² = c²\n9 + 16 = c²\n25 = c²\nc = √25 = 5 metres.\nSo, the first ladder is 5 metres long.\n\nStep 2: Calculate the height the second ladder reaches.\nThe second ladder is 1 metre longer than the first, so its length is 5m + 1m = 6 metres.\nThis second ladder is placed with its base 5 metres away from the wall. We need to find the height it reaches up the wall.\nAgain, we have a right-angled triangle where the ladder length (6m) is the hypotenuse, and the distance from the wall (5m) is one of the shorter sides. We need to find the other shorter side (height).\nUsing Pythagoras theorem to find a shorter side: a² = c² - b²\nLet 'h' be the height. So, h² = 6² - 5²\nh² = 36 - 25\nh² = 11\nh = √11\nh ≈ 3.3166 metres\nRounding to one decimal place, h = 3.3 metres.\nTherefore, the correct answer is A) 3.3 m.",
+      "hint": "First, use Pythagoras theorem to find the length of the first ladder. Then, use that information to find the length of the second ladder. Finally, apply Pythagoras theorem again to find the height the second ladder reaches up the wall, remembering how to find a shorter side.",
+      "generatedAt": "2026-04-30T13:58:04.685976"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_004",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Triangle ABC is a right-angled triangle where angle B is 90 degrees. The length of side AB is 8 cm and the length of side BC is 6 cm.\nA completely separate right-angled triangle, XYZ, has a hypotenuse XY that is equal in length to the hypotenuse of triangle ABC. One of the shorter sides of triangle XYZ, YZ, measures 5 cm.\nCalculate the length of the remaining shorter side, XZ, in triangle XYZ. Give your answer in the form a√b, where a and b are integers. Show your working.",
+      "options": [
+        "A) 2√5 cm",
+        "B) 5√3 cm",
+        "C) 3√5 cm",
+        "D) 4√3 cm"
+      ],
+      "correctAnswer": "B) 5√3 cm",
+      "explanation": "Step 1: Find the length of the hypotenuse AC in triangle ABC.\nUsing Pythagoras theorem, a² + b² = c²:\nAC² = AB² + BC²\nAC² = 8² + 6²\nAC² = 64 + 36\nAC² = 100\nAC = √100\nAC = 10 cm\n\nStep 2: Use this length to find side XZ in triangle XYZ.\nWe know that the hypotenuse XY of triangle XYZ is equal to AC, so XY = 10 cm. We are also given YZ = 5 cm.\nUsing Pythagoras theorem for triangle XYZ (where XY is the hypotenuse):\nXY² = XZ² + YZ²\n10² = XZ² + 5²\n100 = XZ² + 25\nXZ² = 100 - 25\nXZ² = 75\nXZ = √75\nTo express √75 in the form a√b, find the largest perfect square factor of 75:\n75 = 25 × 3\nXZ = √(25 × 3)\nXZ = √25 × √3\nXZ = 5√3 cm",
+      "hint": "Remember to apply the Pythagoras theorem, a² + b² = c², twice. First to find the hypotenuse of the first triangle, and then to find a shorter side of the second triangle, using the hypotenuse found in the first step.",
+      "generatedAt": "2026-04-30T13:58:16.266183"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_005",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Triangle PQR is a right-angled triangle, with angle Q being 90 degrees. The length of the side PQ is 7 cm. The area of triangle PQR is 42 cm². Calculate the length of the hypotenuse PR. Give your answer to one decimal place. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "1. Find the length of QR using the area formula:\n   Area of a triangle = (1/2) * base * height\n   Since angle Q is 90 degrees, PQ and QR are the perpendicular sides.\n   42 = (1/2) * 7 * QR\n   Multiply both sides by 2: 84 = 7 * QR\n   Divide by 7: QR = 84 / 7 = 12 cm\n\n2. Use Pythagoras' Theorem to find the length of PR (the hypotenuse):\n   a² + b² = c²\n   PR² = PQ² + QR²\n   PR² = 7² + 12²\n   PR² = 49 + 144\n   PR² = 193\n   PR = √193\n   PR ≈ 13.8924...\n\n3. Round to one decimal place:\n   PR ≈ 13.9 cm",
+      "explanation": "The problem requires two main steps. First, you need to use the given area of the triangle and the length of one perpendicular side (PQ) to calculate the length of the other perpendicular side (QR). The formula for the area of a right-angled triangle is (1/2) * base * height. Once QR is found, you can then apply Pythagoras' Theorem (a² + b² = c²) using PQ and QR as the shorter sides to find the hypotenuse PR. Remember to round your final answer to one decimal place as requested.",
+      "hint": "First, use the given area and the length of one side to find the length of the other perpendicular side of the triangle. Then, apply Pythagoras' Theorem.",
+      "generatedAt": "2026-04-30T13:58:27.569343"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_006",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "An isosceles triangle PQR has two equal sides, PQ and PR, each measuring 13 cm. The base QR measures 24 cm. Calculate the area of triangle PQR. Show your working.",
+      "options": [
+        "50 cm²",
+        "60 cm²",
+        "72 cm²",
+        "156 cm²"
+      ],
+      "correctAnswer": "60 cm²",
+      "explanation": "To find the area of triangle PQR, we first need its perpendicular height. In an isosceles triangle, the altitude from the vertex (P) to the base (QR) bisects the base and forms two right-angled triangles. Let M be the midpoint of QR.\n\n1.  **Find the length of QM:**\n    Since M is the midpoint of QR, QM = QR / 2 = 24 cm / 2 = 12 cm.\n\n2.  **Use Pythagoras Theorem to find the height (PM):**\n    Consider the right-angled triangle PMQ. The hypotenuse is PQ = 13 cm, and one shorter side is QM = 12 cm. We need to find the height PM.\n    According to Pythagoras Theorem: PM² + QM² = PQ²\n    PM² + 12² = 13²\n    PM² + 144 = 169\n    PM² = 169 - 144\n    PM² = 25\n    PM = √25\n    PM = 5 cm.\n    The perpendicular height of the triangle is 5 cm.\n\n3.  **Calculate the area of triangle PQR:**\n    The formula for the area of a triangle is ½ × base × height.\n    Area = ½ × QR × PM\n    Area = ½ × 24 cm × 5 cm\n    Area = 12 cm × 5 cm\n    Area = 60 cm².",
+      "hint": "To find the area of an isosceles triangle, you need its base and its perpendicular height. You can find the height by dividing the isosceles triangle into two right-angled triangles and applying Pythagoras Theorem.",
+      "generatedAt": "2026-04-30T13:58:39.159064"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_007",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Consider two right-angled triangles, Triangle PQR and Triangle PRS, joined along a common side PR. \n\nIn Triangle PQR, the right angle is at Q. The length of side PQ is 3 cm and the length of side QR is 4 cm.\n\nIn Triangle PRS, the right angle is at R. The length of side RS is 12 cm.\n\nCalculate the length of side PS. Show your working.",
+      "options": [
+        "A) 19 cm",
+        "B) 5 cm",
+        "C) 13 cm",
+        "D) √153 cm"
+      ],
+      "correctAnswer": "C) 13 cm",
+      "explanation": "Step 1: Find the length of the common side PR using Pythagoras' Theorem in Triangle PQR.\nTriangle PQR is a right-angled triangle with the right angle at Q. PR is the hypotenuse.\nPR² = PQ² + QR²\nPR² = 3² + 4²\nPR² = 9 + 16\nPR² = 25\nPR = √25\nPR = 5 cm\n\nStep 2: Find the length of side PS using Pythagoras' Theorem in Triangle PRS.\nTriangle PRS is a right-angled triangle with the right angle at R. PS is the hypotenuse, and PR (calculated in Step 1) and RS are the other two sides.\nPS² = PR² + RS²\nPS² = 5² + 12²\nPS² = 25 + 144\nPS² = 169\nPS = √169\nPS = 13 cm\n\nTherefore, the length of side PS is 13 cm.",
+      "hint": "Break down the problem by first identifying the shared side that needs to be calculated, then use that result in the second right-angled triangle to find the final unknown side.",
+      "generatedAt": "2026-04-30T13:58:54.697612"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_008",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A rectangular field has a length of 24 meters. A diagonal path across the field is 26 meters long. Calculate the perimeter of the field. Show your working.",
+      "options": [
+        "A. 50 meters",
+        "B. 68 meters",
+        "C. 100 meters",
+        "D. 240 meters"
+      ],
+      "correctAnswer": "B. 68 meters",
+      "explanation": "Let the length of the rectangular field be 'l', the width be 'w', and the diagonal be 'd'.\nGiven: l = 24 meters, d = 26 meters.\n\nStep 1: Find the width (w) of the field using Pythagoras Theorem.\nIn a rectangle, the length, width, and diagonal form a right-angled triangle, where the diagonal is the hypotenuse (the longest side).\nSo, we use the formula: w² + l² = d²\nSubstitute the given values:\nw² + 24² = 26²\nw² + 576 = 676\nSubtract 576 from both sides:\nw² = 676 - 576\nw² = 100\nTake the square root of both sides to find w:\nw = √100\nw = 10 meters\n\nStep 2: Calculate the perimeter of the field.\nThe perimeter of a rectangle is given by the formula P = 2 × (l + w).\nSubstitute the length (l = 24 m) and the calculated width (w = 10 m):\nP = 2 × (24 + 10)\nP = 2 × 34\nP = 68 meters\n\nTherefore, the perimeter of the field is 68 meters.",
+      "hint": "First, use the Pythagoras Theorem to find the missing side (width) of the rectangular field. Remember that the diagonal acts as the hypotenuse in the right-angled triangle formed by the length and width of the rectangle. Then, use the formula for the perimeter of a rectangle.",
+      "generatedAt": "2026-04-30T13:59:11.296335"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_009",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "A right-angled triangle, called Triangle PQR, has a hypotenuse of 10 cm. One of its shorter sides measures 6 cm. A second right-angled triangle, called Triangle XYZ, shares its longest leg with Triangle PQR. The hypotenuse of Triangle XYZ is 17 cm. Calculate the length of the remaining leg of Triangle XYZ. Show your working.",
+      "options": [
+        "12 cm",
+        "15 cm",
+        "16 cm",
+        "18 cm"
+      ],
+      "correctAnswer": "15 cm",
+      "explanation": "Step 1: Find the length of the unknown leg (the longest leg) of Triangle PQR.\nLet the known shorter leg of Triangle PQR be 'a' = 6 cm, and the hypotenuse be 'c' = 10 cm. Let the unknown leg be 'b'.\nUsing Pythagoras Theorem (a² + b² = c²):\n6² + b² = 10²\n36 + b² = 100\nb² = 100 - 36\nb² = 64\nb = √64 = 8 cm.\n\nThe legs of Triangle PQR are 6 cm and 8 cm. The longest leg is 8 cm.\n\nStep 2: Use this information for Triangle XYZ.\nTriangle XYZ shares its longest leg with Triangle PQR, so one leg of Triangle XYZ is 8 cm.\nThe hypotenuse of Triangle XYZ is given as 17 cm.\nLet this known leg be 'a'' = 8 cm, and the hypotenuse be 'c'' = 17 cm. Let the remaining leg of Triangle XYZ be 'b''.\nUsing Pythagoras Theorem (a'² + b'² = c'²):\n8² + b'² = 17²\n64 + b'² = 289\nb'² = 289 - 64\nb'² = 225\nb' = √225 = 15 cm.\n\nTherefore, the length of the remaining leg of Triangle XYZ is 15 cm.",
+      "hint": "First, use Pythagoras Theorem to find the length of the unknown leg in Triangle PQR. Remember that the hypotenuse is always the longest side. Then, use that calculated length as one of the legs for Triangle XYZ to find its remaining leg.",
+      "generatedAt": "2026-04-30T13:59:39.207417"
+    },
+    {
+      "id": "m-y9-pythagoras_intermediate_010",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Intermediate",
+      "yearLevel": 9,
+      "text": "Triangle ABC is a right-angled triangle with the right angle at B. The hypotenuse AC has a length of 15 cm. The side AB has a length of 9 cm.\nA second right-angled triangle, Triangle PQR, has its right angle at Q. The hypotenuse PR has a length equal to the length of side BC from Triangle ABC.\nThe side PQ of Triangle PQR has a length of 7 cm.\nCalculate the length of side QR. Show your working.",
+      "options": [],
+      "correctAnswer": "To find the length of side QR, we first need to determine the length of side BC from Triangle ABC.\n\n**Step 1: Find the length of side BC in Triangle ABC.**\nTriangle ABC is a right-angled triangle with the right angle at B. According to Pythagoras' Theorem, a² + b² = c², where c is the hypotenuse.\nHere, AC is the hypotenuse (c = 15 cm), AB is one leg (a = 9 cm), and BC is the other leg (b).\nSo, AB² + BC² = AC²\n9² + BC² = 15²\n81 + BC² = 225\nBC² = 225 - 81\nBC² = 144\nBC = √144\nBC = 12 cm\n\n**Step 2: Find the length of side QR in Triangle PQR.**\nWe are told that the hypotenuse PR of Triangle PQR has a length equal to the length of side BC from Triangle ABC. So, PR = 12 cm.\nTriangle PQR is a right-angled triangle with the right angle at Q. PR is the hypotenuse (c = 12 cm), PQ is one leg (a = 7 cm), and QR is the other leg (b).\nSo, PQ² + QR² = PR²\n7² + QR² = 12²\n49 + QR² = 144\nQR² = 144 - 49\nQR² = 95\nQR = √95 cm\n\nThe length of side QR is √95 cm.",
+      "explanation": "The problem requires two applications of Pythagoras' Theorem. First, use the given lengths for Triangle ABC to calculate the length of its unknown leg, BC. Then, use this calculated length (BC) as the hypotenuse for the second triangle, PQR, along with the given leg PQ, to find the length of the final unknown leg, QR. Both steps involve finding a leg (not the hypotenuse), so the formula rearranges to b² = c² - a² for each step.",
+      "hint": "Start by using Pythagoras' Theorem on Triangle ABC to find the length of side BC. Then, use this length as the hypotenuse for Triangle PQR to find the length of side QR.",
+      "generatedAt": "2026-04-30T13:59:54.772502"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "m-y9-pythagoras_advanced_001",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A landscape architect is designing a park feature that includes a triangular support structure. The main structure consists of two right-angled triangles joined along one side.\nThe first triangle, labelled ABC, has an angle of 90 degrees at B. The side AB measures 8 meters, and the side AC (the hypotenuse) measures 17 meters.\nThe second triangle, labelled BCD, is joined to triangle ABC, sharing the side BC. This second triangle has an angle of 90 degrees at C. The side CD measures 20 meters.\nCalculate the length of the line segment BD. Show all your working.",
+      "options": [
+        "24 meters",
+        "25 meters",
+        "26 meters",
+        "27 meters"
+      ],
+      "correctAnswer": "25 meters",
+      "explanation": "To find the length of BD, we need to first determine the length of the shared side, BC.\n\n**Step 1: Find the length of BC using triangle ABC.**\nTriangle ABC is a right-angled triangle with the right angle at B. AC is the hypotenuse.\nAccording to Pythagoras' Theorem: a² + b² = c²\nHere, AB² + BC² = AC²\n8² + BC² = 17²\n64 + BC² = 289\nBC² = 289 - 64\nBC² = 225\nBC = √225\nBC = 15 meters\n\n**Step 2: Find the length of BD using triangle BCD.**\nTriangle BCD is a right-angled triangle with the right angle at C. BD is the hypotenuse.\nUsing the length of BC found in Step 1:\nBC² + CD² = BD²\n15² + 20² = BD²\n225 + 400 = BD²\n625 = BD²\nBD = √625\nBD = 25 meters\n\nTherefore, the length of the line segment BD is 25 meters.",
+      "hint": "Start by applying the Pythagoras Theorem to the first triangle (ABC) to find the length of the side it shares with the second triangle (BC). Then, use this newly found length in the second triangle (BCD) to calculate the final unknown side (BD).",
+      "generatedAt": "2026-04-30T14:00:08.592988"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_002",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A rectangular field ABCD has a length of 80 metres (side AB) and a width of 60 metres (side BC). A straight path, Path 1, runs from corner A directly to corner C. A second straight path, Path 2, starts from the midpoint of side AB and runs directly to corner D. Calculate the difference in length between Path 1 and Path 2. Give your answer to one decimal place. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the length of Path 1 (AC):\nPath 1 is the hypotenuse of the right-angled triangle ABC. The legs are AB = 80 m and BC = 60 m.\nUsing Pythagoras' Theorem (a² + b² = c²):\nAC² = AB² + BC²\nAC² = 80² + 60²\nAC² = 6400 + 3600\nAC² = 10000\nAC = √10000\nAC = 100 metres.\n\nTo find the length of Path 2 (MD):\nM is the midpoint of side AB. So, AM = AB / 2 = 80 / 2 = 40 metres.\nPath 2 is the hypotenuse of the right-angled triangle AMD. The legs are AM = 40 m and AD. Since ABCD is a rectangle, AD = BC = 60 m.\nUsing Pythagoras' Theorem (a² + b² = c²):\nMD² = AM² + AD²\nMD² = 40² + 60²\nMD² = 1600 + 3600\nMD² = 5200\nMD = √5200\nMD ≈ 72.111025... metres.\n\nTo calculate the difference in length:\nDifference = Length of Path 1 - Length of Path 2\nDifference = 100 - √5200\nDifference ≈ 100 - 72.111025\nDifference ≈ 27.888975 metres.\n\nRounding to one decimal place:\nDifference ≈ 27.9 metres.",
+      "explanation": "This question requires two applications of Pythagoras' Theorem. First, recognise that Path 1 (AC) is the diagonal of the rectangle, forming a right-angled triangle with sides AB and BC. Use a² + b² = c² to find AC. Second, identify that Path 2 (MD) also forms a right-angled triangle (AMD). Calculate the length of AM by halving AB, and use AD (which is equal to BC) as the other leg. Apply Pythagoras' Theorem again to find MD. Finally, subtract the length of Path 2 from Path 1 and round the result.",
+      "hint": "Remember that a rectangle has four right angles and opposite sides are equal in length. You will need to apply Pythagoras' Theorem multiple times to find the lengths of the two paths before calculating their difference.",
+      "generatedAt": "2026-04-30T14:00:37.050938"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_003",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A cuboid has vertices A, B, C, D on its base, arranged such that AB is perpendicular to BC. The vertices E, F, G, H are directly above A, B, C, D respectively, forming the top face of the cuboid. The length of side AB is 8 cm, the length of side BC is 6 cm, and the height of the cuboid, AE, is 15 cm. Calculate the exact length of the space diagonal AG. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the exact length of the space diagonal AG, we need to apply Pythagoras' Theorem twice.\n\n**Step 1: Find the length of the diagonal of the base, AC.**\nConsider the right-angled triangle ABC on the base of the cuboid. The right angle is at B.\nUsing Pythagoras' Theorem: $AC^2 = AB^2 + BC^2$\nGiven $AB = 8$ cm and $BC = 6$ cm.\n$AC^2 = 8^2 + 6^2$\n$AC^2 = 64 + 36$\n$AC^2 = 100$\n$AC = \\sqrt{100}$\n$AC = 10$ cm\n\n**Step 2: Find the length of the space diagonal, AG.**\nNow consider the right-angled triangle ACG. The right angle is at C, as AC lies on the base and CG is a vertical edge (height).\nUsing Pythagoras' Theorem: $AG^2 = AC^2 + CG^2$\nWe found $AC = 10$ cm. The height of the cuboid, $CG$, is the same as $AE$, which is given as 15 cm.\n$AG^2 = 10^2 + 15^2$\n$AG^2 = 100 + 225$\n$AG^2 = 325$\n$AG = \\sqrt{325}$ cm\n\nTo express this as an exact length in its simplest surd form, we look for square factors of 325:\n$325 = 25 \\times 13$\n$AG = \\sqrt{25 \\times 13}$\n$AG = \\sqrt{25} \\times \\sqrt{13}$\n$AG = 5\\sqrt{13}$ cm\n\nThe exact length of the space diagonal AG is $5\\sqrt{13}$ cm.",
+      "explanation": "This problem requires two applications of Pythagoras' Theorem. First, find the diagonal of the base of the cuboid using its length and width. Second, use this calculated base diagonal and the height of the cuboid to find the space diagonal. The final answer should be left in its simplest surd form for an 'exact length'.",
+      "hint": "Start by finding the length of the diagonal across the base of the cuboid, from A to C. Then use this length, along with the cuboid's height, to find the space diagonal from A to G.",
+      "generatedAt": "2026-04-30T14:00:54.983816"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_004",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A drone starts at a central point, O. It first flies 180 metres due East to point A. From point A, it turns 90 degrees and flies 100 metres due North to point B. From point B, it turns 90 degrees again and flies another 60 metres due East to point C. Calculate the direct straight-line distance, in metres, from the drone's starting point O to its final position C. Show your working clearly.",
+      "options": [
+        "200 m",
+        "240 m",
+        "260 m",
+        "340 m"
+      ],
+      "correctAnswer": "260 m",
+      "explanation": "To find the direct straight-line distance from the starting point O to the final point C, we need to determine the total horizontal (East) and total vertical (North) displacements from O.\n\n1.  **Calculate the total East displacement:**\n    The drone first flies 180 m East to point A.\n    Then, from point B, it flies another 60 m East to point C.\n    Total East displacement = 180 m + 60 m = 240 m.\n\n2.  **Calculate the total North displacement:**\n    From point A, the drone flies 100 m North to point B.\n    Total North displacement = 100 m.\n\n3.  **Apply Pythagoras' Theorem:**\n    The direct straight-line path from O to C forms the hypotenuse of a right-angled triangle. The two shorter sides (legs) of this triangle are the total East displacement and the total North displacement.\n    Let the direct distance be 'd'.\n    Using Pythagoras' Theorem: d² = (Total East displacement)² + (Total North displacement)²\n    d² = (240)² + (100)²\n\n4.  **Calculate the squares:**\n    240² = 57600\n    100² = 10000\n\n5.  **Add the squared values:**\n    d² = 57600 + 10000\n    d² = 67600\n\n6.  **Find the square root:**\n    d = √67600\n    d = 260 metres\n\nTherefore, the direct straight-line distance from O to C is 260 m.",
+      "hint": "Break down the drone's journey into its overall horizontal (East) and vertical (North) components from the starting point. These components will form the two shorter sides of a right-angled triangle, with the direct straight-line distance as the hypotenuse.",
+      "generatedAt": "2026-04-30T14:01:16.672094"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_005",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "An engineer is installing a new communication mast. The mast is 12 metres tall and stands vertically on flat ground. Two tension cables are used to support it.\n\nCable P is attached from the top of the mast to an anchor point on the ground, which is 5 metres horizontally away from the base of the mast.\n\nCable Q is also attached from the top of the mast to a different anchor point on the ground. The length of Cable Q is 15 metres.\n\nAssume that the two anchor points and the base of the mast are all in a straight line on the ground, and the anchor points are on opposite sides of the mast's base.\n\nFor full marks, you must show all your working.\n\na) Calculate the exact length of Cable P.\nb) Calculate the horizontal distance from the base of the mast to the anchor point for Cable Q.\nc) Determine the total distance between the anchor point for Cable P and the anchor point for Cable Q.",
+      "options": [],
+      "correctAnswer": "a) For Cable P:\nThe mast, the ground, and Cable P form a right-angled triangle.\nHeight of mast (a) = 12 m\nHorizontal distance (b) = 5 m\nLength of Cable P (c) is the hypotenuse.\nUsing Pythagoras' Theorem: a² + b² = c²\n12² + 5² = c²\n144 + 25 = c²\n169 = c²\nc = √169\nc = 13 m\nTherefore, the length of Cable P is 13 metres.\n\nb) For Cable Q:\nThe mast, the ground, and Cable Q also form a right-angled triangle.\nHeight of mast (a) = 12 m\nLength of Cable Q (c) = 15 m (this is the hypotenuse)\nHorizontal distance (b) is the unknown leg.\nUsing Pythagoras' Theorem: a² + b² = c²\n12² + b² = 15²\n144 + b² = 225\nb² = 225 - 144\nb² = 81\nb = √81\nb = 9 m\nTherefore, the horizontal distance from the base of the mast to the anchor point for Cable Q is 9 metres.\n\nc) The anchor points are on opposite sides of the mast's base and in a straight line.\nDistance for Cable P anchor = 5 m\nDistance for Cable Q anchor = 9 m\nTotal distance between the two anchor points = Distance for Cable P anchor + Distance for Cable Q anchor\nTotal distance = 5 m + 9 m\nTotal distance = 14 m\nTherefore, the total distance between the two anchor points is 14 metres.",
+      "explanation": "This problem requires multiple applications of Pythagoras' Theorem. For each cable, identify the right-angled triangle formed by the mast (vertical side), the ground (horizontal side), and the cable itself (hypotenuse). \n\na) For Cable P, you are given the two shorter sides (legs) of the right-angled triangle (mast height and horizontal distance), so you need to find the hypotenuse (the cable length). Use a² + b² = c².\n\nb) For Cable Q, you are given one shorter side (the mast height) and the hypotenuse (the cable length). You need to find the other shorter side (the horizontal distance). Rearrange Pythagoras' Theorem to find a leg: b² = c² - a² or a² = c² - b².\n\nc) Once you have both horizontal distances, read the condition carefully: \"anchor points are on opposite sides of the mast's base\". This means you will add the two horizontal distances together to find the total distance between them.",
+      "hint": "Remember to identify the hypotenuse correctly in each right-angled triangle formed by the mast, the ground, and each cable. The hypotenuse is always the longest side and opposite the right angle.",
+      "generatedAt": "2026-04-30T14:01:37.383453"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_006",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A trapezium ABCD has side AB parallel to side DC. The length of AB is 18 cm. The length of DC is 10 cm. The side AD is perpendicular to AB. The length of AD is 6 cm. Calculate the length of the side BC. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the length of BC, we can draw a perpendicular line from point C to the side AB, meeting AB at point E.\n\n1.  **Form a rectangle:** Since AD is perpendicular to AB, and CE is drawn perpendicular to AB, the quadrilateral AECD is a rectangle.\n    *   Therefore, AE = DC = 10 cm.\n    *   And CE = AD = 6 cm.\n\n2.  **Calculate the length of EB:**\n    *   The total length of AB is 18 cm.\n    *   AE is 10 cm.\n    *   So, EB = AB - AE = 18 cm - 10 cm = 8 cm.\n\n3.  **Apply Pythagoras Theorem to triangle CEB:**\n    *   Triangle CEB is a right-angled triangle with the right angle at E.\n    *   The lengths of the two shorter sides are CE = 6 cm and EB = 8 cm.\n    *   We need to find the hypotenuse BC.\n    *   Using a² + b² = c²:\n        *   BC² = CE² + EB²\n        *   BC² = 6² + 8²\n        *   BC² = 36 + 64\n        *   BC² = 100\n        *   BC = √100\n        *   BC = 10 cm\n\nTherefore, the length of side BC is 10 cm.",
+      "explanation": "To find the length of BC, we can draw a perpendicular line from point C to the side AB, meeting AB at point E. This creates a right-angled triangle CEB and a rectangle AECD.\n\n1.  **Identify rectangle properties:** Since AD is perpendicular to AB, and we've drawn CE perpendicular to AB, AECD is a rectangle. This means AE = DC = 10 cm and CE = AD = 6 cm.\n\n2.  **Calculate the base of the right triangle:** The full length AB is 18 cm. We know AE is 10 cm. So, the remaining part, EB, is AB - AE = 18 cm - 10 cm = 8 cm.\n\n3.  **Apply Pythagoras Theorem:** Now we have a right-angled triangle CEB with sides CE = 6 cm (height) and EB = 8 cm (base). We want to find the hypotenuse BC.\n    *   Using the formula a² + b² = c²:\n    *   BC² = CE² + EB²\n    *   BC² = 6² + 8²\n    *   BC² = 36 + 64\n    *   BC² = 100\n    *   BC = √100\n    *   BC = 10 cm",
+      "hint": "Consider drawing a perpendicular line from point C to the side AB to form a right-angled triangle. This will also create a rectangle, allowing you to find the lengths of the sides of your new right-angled triangle.",
+      "generatedAt": "2026-04-30T14:01:53.654329"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_007",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "Consider three points P, Q, and R. The angle PQR is 90 degrees. The length of the line segment PQ is 15 cm. The length of the line segment PR is 17 cm.\nA fourth point, S, is located such that the angle QRS is 90 degrees. The length of the line segment RS is 10 cm.\nCalculate the length of the line segment PS. Give your answer to 3 significant figures. Show all your working.",
+      "options": [
+        "8.00 cm",
+        "12.8 cm",
+        "9.43 cm",
+        "18.0 cm"
+      ],
+      "correctAnswer": "9.43 cm",
+      "explanation": "1.  **Find the length of QR:**\n    In the right-angled triangle PQR, the right angle is at Q.\n    PQ = 15 cm (one leg)\n    PR = 17 cm (hypotenuse)\n    Using Pythagoras' Theorem (a² + b² = c²):\n    PQ² + QR² = PR²\n    15² + QR² = 17²\n    225 + QR² = 289\n    QR² = 289 - 225\n    QR² = 64\n    QR = √64 = 8 cm\n\n2.  **Find the length of PS:**\n    Points P, Q, R, and S form a shape where QR is perpendicular to PQ, and RS is perpendicular to QR.\n    This means PQ is perpendicular to QR, and QR is perpendicular to RS.\n    We can imagine a larger right-angled triangle that has PS as its hypotenuse. The legs of this triangle would be the total displacement in one direction (e.g., 'horizontal') and the total displacement in the other direction (e.g., 'vertical').\n    Let's align QR horizontally. So, Q to R is 8 cm horizontally.\n    PQ is perpendicular to QR, so P is 15 cm 'vertically' from Q.\n    RS is perpendicular to QR, so S is 10 cm 'vertically' from R (in a direction perpendicular to QR, which is the same 'vertical' direction as P relative to Q, assuming S is on the 'same side' as P relative to the line QR). \n    \n    Consider the overall 'horizontal' displacement from P to S and the overall 'vertical' displacement from P to S.\n    The 'horizontal' displacement from P to S is the length of QR = 8 cm.\n    The 'vertical' displacement from P to S is the difference between PQ and RS, assuming they are in the same direction, or sum if opposite. Given the arrangement, P and S are on lines perpendicular to QR. The total 'vertical' length (or perpendicular distance from the line PR extended) would be the difference between PQ and RS.  Let's consider the points:\n    If Q is at (0,0):\n    P is at (0, 15) [since PQ is 15 and angle PQR=90, so P is 'up' from Q]\n    R is at (8, 0) [since QR is 8 and angle PQR=90, so R is 'right' from Q]\n    S is at (8, 10) [since RS is 10 and angle QRS=90, so S is 'up' from R, perpendicular to QR]\n    \n    Now, we want the distance between P(0,15) and S(8,10).\n    We can form a right-angled triangle with PS as the hypotenuse.\n    The horizontal leg is the difference in x-coordinates: 8 - 0 = 8 cm.\n    The vertical leg is the difference in y-coordinates: |15 - 10| = 5 cm.\n    \n    Using Pythagoras' Theorem:\n    PS² = 8² + 5²\n    PS² = 64 + 25\n    PS² = 89\n    PS = √89\n    PS ≈ 9.43398...\n\n    Rounding to 3 significant figures, PS = 9.43 cm.",
+      "hint": "First, use Pythagoras' Theorem in triangle PQR to find the length of QR. Then, consider how the segments PQ, QR, and RS are oriented relative to each other due to the given right angles at Q and R, to determine the total perpendicular and parallel displacements between P and S.",
+      "generatedAt": "2026-04-30T14:02:16.041373"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_008",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A rectangular field has vertices P, Q, R, and S in clockwise order. The side PQ measures 24 metres. The side QR measures 10 metres. A straight path runs diagonally across the field from point P to point R. From point R, a second straight path is built to point T. This second path, RT, is perpendicular to the path PR, and its length is 13 metres. Calculate the straight-line distance from point P to point T. Show all your working.",
+      "options": [],
+      "correctAnswer": "To find the straight-line distance from P to T, we need to apply Pythagoras Theorem twice.\n\n**Step 1: Find the length of the path PR.**\n\n1.  Consider the right-angled triangle PQR. Since PQRS is a rectangle, the angle at Q is 90 degrees.\n2.  The lengths of the two shorter sides (legs) are PQ = 24 m and QR = 10 m.\n3.  Using Pythagoras Theorem (a² + b² = c², where c is the hypotenuse):\n    *   PR² = PQ² + QR²\n    *   PR² = 24² + 10²\n    *   PR² = 576 + 100\n    *   PR² = 676\n    *   PR = √676\n    *   PR = 26 m\n\n**Step 2: Find the length of the straight-line distance from P to T.**\n\n1.  Consider the right-angled triangle PRT. We are given that path RT is perpendicular to path PR, so the angle at R is 90 degrees.\n2.  The lengths of the two shorter sides (legs) are PR = 26 m (calculated in Step 1) and RT = 13 m (given).\n3.  Using Pythagoras Theorem (a² + b² = c², where c is the hypotenuse):\n    *   PT² = PR² + RT²\n    *   PT² = 26² + 13²\n    *   PT² = 676 + 169\n    *   PT² = 845\n    *   PT = √845\n    *   PT = √(169 × 5) = 13√5 m\n\nThe straight-line distance from P to T is **13√5 metres** (or approximately **29.07 metres** to 2 decimal places).",
+      "explanation": "The problem requires two applications of the Pythagoras Theorem. First, the diagonal of the rectangle (PR) acts as the hypotenuse of the triangle PQR. This calculated length (PR) then becomes one of the legs of a second right-angled triangle (PRT), where RT is the other leg and PT is the final hypotenuse to be found. Each step involves identifying the right-angled triangle, its legs, and applying the a² + b² = c² formula.",
+      "hint": "Break the problem down into two right-angled triangles. First, find the length of the diagonal path across the field. This length will then be used as one of the shorter sides in the second right-angled triangle.",
+      "generatedAt": "2026-04-30T14:02:34.012213"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_009",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "An isosceles trapezium ABCD has its parallel sides AB and DC. The length of side AB is 14 cm. The length of side DC is 26 cm. The non-parallel sides AD and BC are both 10 cm long. Calculate the perpendicular distance between the parallel sides, often referred to as the height of the trapezium. Give your answer in centimetres.",
+      "options": [
+        "8 cm",
+        "10 cm",
+        "11.66 cm",
+        "12 cm"
+      ],
+      "correctAnswer": "8 cm",
+      "explanation": "1.  To find the perpendicular height of the trapezium, visualize drawing perpendicular lines from the vertices A and B to the longer parallel side DC. Let these points be E and F respectively.\n2.  This action divides the trapezium into a central rectangle ABEF and two congruent right-angled triangles, ADE and BCF, on either side.\n3.  Since ABEF is a rectangle, the length of EF is equal to the length of AB, which is 14 cm.\n4.  The total length of DC is 26 cm. The parts of DC covered by the two triangles (DE and FC) combined will be DC - EF = 26 cm - 14 cm = 12 cm.\n5.  Because the trapezium is isosceles, the two right-angled triangles ADE and BCF are congruent. This means DE = FC.\n6.  Therefore, DE = 12 cm / 2 = 6 cm.\n7.  Now, consider the right-angled triangle ADE. The hypotenuse is AD (one of the non-parallel sides), which is 10 cm. One of the legs is DE, which we found to be 6 cm. The other leg, AE, is the perpendicular height (let's call it 'h') that we need to calculate.\n8.  Apply the Pythagoras Theorem: a² + b² = c², where 'c' is the hypotenuse.\n    In triangle ADE: AE² + DE² = AD²\n    h² + 6² = 10²\n    h² + 36 = 100\n    h² = 100 - 36\n    h² = 64\n    h = √64\n    h = 8 cm.\n\nTherefore, the perpendicular distance between the parallel sides (the height of the trapezium) is 8 cm.",
+      "hint": "To find the height of the trapezium, consider drawing perpendicular lines from the vertices of the shorter parallel side to the longer parallel side. This will help you create a right-angled triangle.",
+      "generatedAt": "2026-04-30T14:03:00.111160"
+    },
+    {
+      "id": "m-y9-pythagoras_advanced_010",
+      "topicId": "m-y9-pythagoras",
+      "subject": "Maths",
+      "difficulty": "Advanced",
+      "yearLevel": 9,
+      "text": "A square ABCD has side length 15 cm. A point P is located inside the square. The perpendicular distance from point P to side AB is 7 cm. The perpendicular distance from point P to side BC is 8 cm. Calculate the exact length of the line segment PD. Show your working clearly.",
+      "options": [],
+      "correctAnswer": "To find the exact length of PD, we first need to determine the lengths of the legs of a right-angled triangle that has PD as its hypotenuse.\n\nLet's consider vertex D as the origin (0,0) of a coordinate system. In this setup:\n*   Vertex A would be at (0, 15).\n*   Vertex B would be at (15, 15).\n*   Vertex C would be at (15, 0).\n*   Side AB is the line segment from (0,15) to (15,15), which represents the top edge of the square.\n*   Side BC is the line segment from (15,15) to (15,0), which represents the right edge of the square.\n\nThe perpendicular distance from point P to side AB is 7 cm. Since AB is the top edge (y=15), and P is inside the square, the y-coordinate of P must be 15 - 7 = 8 cm from D (the bottom edge).\n\nThe perpendicular distance from point P to side BC is 8 cm. Since BC is the right edge (x=15), and P is inside the square, the x-coordinate of P must be 15 - 8 = 7 cm from D (the left edge).\n\nSo, if we consider D to be at (0,0), then point P is effectively at (7, 8).\n\nNow, we can form a right-angled triangle with vertices D(0,0), P(7,8), and an intermediate point, say X(7,0).\n*   The length of the horizontal leg (DX) is the difference in x-coordinates: 7 - 0 = 7 cm.\n*   The length of the vertical leg (PX) is the difference in y-coordinates: 8 - 0 = 8 cm.\n\nUsing Pythagoras' Theorem (a² + b² = c²):\nPD² = (Length of horizontal leg)² + (Length of vertical leg)²\nPD² = 7² + 8²\nPD² = 49 + 64\nPD² = 113\nPD = √113 cm\n\nThe exact length of the line segment PD is √113 cm.",
+      "explanation": "The problem describes a point P inside a square and provides its perpendicular distances to two adjacent sides. By setting up a conceptual coordinate system (or simply visualizing the distances relative to vertex D), we can determine the lengths of the two legs of a right-angled triangle that has PD as its hypotenuse. \n1.  **Identify relative position of P**: If D is considered the origin (0,0), then the distance of P from the left edge (AD) is (15 - 8) = 7 cm. The distance of P from the bottom edge (CD) is (15 - 7) = 8 cm. \n2.  **Form a right-angled triangle**: A right-angled triangle can be formed with vertices D, P, and a point directly below P on the same horizontal line as D (or directly to the left of P on the same vertical line as D). The legs of this triangle will have lengths equal to these calculated distances (7 cm and 8 cm).\n3.  **Apply Pythagoras' Theorem**: Using a² + b² = c², where a=7 and b=8, we calculate c² = 7² + 8² = 49 + 64 = 113. Thus, c = √113 cm.",
+      "hint": "Consider the vertex D as a reference point. Determine the perpendicular distances from point P to the sides of the square that meet at D. These distances will form the legs of a right-angled triangle with PD as the hypotenuse.",
+      "generatedAt": "2026-04-30T14:03:40.591153"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y7-sound_beginner_001",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which part of the human ear is primarily responsible for collecting sound waves from the outside environment and funneling them into the ear canal?",
+      "options": [
+        "A) Eardrum",
+        "B) Cochlea",
+        "C) Pinna",
+        "D) Auditory nerve"
+      ],
+      "correctAnswer": "C) Pinna",
+      "explanation": "The Pinna (also known as the outer ear) is the visible part of your ear. Its funnel shape helps to collect sound waves from the surroundings and direct them into the ear canal towards the eardrum. The Eardrum vibrates from these waves, the Cochlea converts vibrations into electrical signals, and the Auditory nerve transmits these signals to the brain.",
+      "hint": "Consider the very first part of your ear that 'catches' sound waves from the air.",
+      "generatedAt": "2026-04-30T08:41:39.265386"
+    },
+    {
+      "id": "s-y7-sound_beginner_002",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "After sound waves are collected by the outer ear, they travel down the ear canal. Which of the following best describes what happens next inside the ear?",
+      "options": [
+        "A) The sound waves are immediately converted into electrical signals for the brain.",
+        "B) The sound waves cause the eardrum to vibrate.",
+        "C) The sound waves are amplified by the cochlea.",
+        "D) The sound waves are absorbed by the tiny hairs in the inner ear."
+      ],
+      "correctAnswer": "B) The sound waves cause the eardrum to vibrate.",
+      "explanation": "Once sound waves have travelled down the ear canal, they reach the eardrum (also known as the tympanic membrane). The energy from the sound waves causes this thin membrane to vibrate, which is the first step in converting sound waves into signals that the brain can understand.",
+      "hint": "Consider the very first physical structure that sound waves physically interact with and move after entering the ear canal.",
+      "generatedAt": "2026-04-30T08:41:49.853525"
+    },
+    {
+      "id": "s-y7-sound_beginner_003",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Describe what happens to the eardrum when sound waves enter the ear and reach it.",
+      "options": [],
+      "correctAnswer": "When sound waves reach the eardrum, they cause it to vibrate. These vibrations then transmit the sound information further into the middle ear.",
+      "explanation": "The eardrum (tympanic membrane) is a thin membrane located at the end of the ear canal. Its primary function is to vibrate in response to the pressure changes caused by incoming sound waves. These mechanical vibrations are then passed on to the tiny bones (ossicles) in the middle ear, initiating the process of hearing.",
+      "hint": "Consider the physical change the eardrum undergoes when struck by sound energy.",
+      "generatedAt": "2026-04-30T08:42:00.494538"
+    },
+    {
+      "id": "s-y7-sound_beginner_004",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Explain why sound waves can travel through a solid object like a wooden door.",
+      "options": [],
+      "correctAnswer": "Sound waves are vibrations. In a solid object like a wooden door, the particles (atoms or molecules) are very closely packed together. When sound waves reach the door, they cause the particles at the surface to vibrate. Because these particles are so close to each other, they easily pass these vibrations on to their neighbouring particles. This allows the sound waves to travel through the door.",
+      "explanation": "The model answer correctly explains the mechanism of sound propagation through solids. It identifies that sound is a form of vibration and highlights the characteristic arrangement of particles in a solid (closely packed). It then describes how these initial vibrations are transferred efficiently between adjacent particles due to their proximity, providing a clear cause-and-effect explanation for why sound travels through solid mediums.",
+      "hint": "Think about what sound waves are and how particles are arranged in a solid compared to a gas or liquid.",
+      "generatedAt": "2026-04-30T08:42:10.265246"
+    },
+    {
+      "id": "s-y7-sound_beginner_005",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following statements correctly describes what sound waves require to travel from a source to a listener?",
+      "options": [
+        "A) They can travel through a vacuum, like space.",
+        "B) They require a medium (material) made of particles that can vibrate.",
+        "C) They travel fastest when there are no particles to get in the way.",
+        "D) They are a type of electromagnetic wave, like light."
+      ],
+      "correctAnswer": "B) They require a medium (material) made of particles that can vibrate.",
+      "explanation": "Sound waves are mechanical waves, which means they need particles to transfer energy. They cause the particles in a medium (like air, water, or a solid object) to vibrate and pass the sound energy along. Without a medium, such as in a vacuum, there are no particles to vibrate, so sound cannot travel. This is why you cannot hear sounds in space.",
+      "hint": "Consider what sound *is* – a vibration. What does a vibration need to move through?",
+      "generatedAt": "2026-04-30T08:42:20.957295"
+    },
+    {
+      "id": "s-y7-sound_beginner_006",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Explain why sound waves cannot travel through a vacuum.",
+      "options": [],
+      "correctAnswer": "Sound waves are produced by vibrations and need a medium containing particles (like air, water, or solids) to travel. They transfer energy by causing these particles to vibrate. A vacuum is an empty space that contains no (or very few) particles. Therefore, in a vacuum, there are no particles available to vibrate and transmit the sound energy, which means sound waves cannot travel through it.",
+      "explanation": "This question assesses your understanding of the fundamental nature of sound waves and their requirement for a medium. Sound waves are mechanical waves that require the vibration of particles to propagate and transfer energy. A vacuum is defined as a space devoid of matter or particles. Without these particles, there is no material medium for the vibrations to travel through, thus preventing sound transmission.",
+      "hint": "Consider what sound waves need to move from one place to another.",
+      "generatedAt": "2026-04-30T08:42:30.105339"
+    },
+    {
+      "id": "s-y7-sound_beginner_007",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State the name of the part of the human ear that vibrates first when sound waves reach it.",
+      "options": [
+        "A) Cochlea",
+        "B) Ossicles",
+        "C) Eardrum",
+        "D) Auditory nerve"
+      ],
+      "correctAnswer": "C) Eardrum",
+      "explanation": "Sound waves enter the ear canal and travel towards the middle ear. The first structure they encounter that is designed to vibrate in response to these sound waves is the eardrum (also known as the tympanic membrane). The vibration of the eardrum then transmits the sound energy to the tiny bones of the middle ear (ossicles).",
+      "hint": "Consider the very first physical boundary within the ear that sound waves directly impact and cause to move.",
+      "generatedAt": "2026-04-30T08:42:39.141934"
+    },
+    {
+      "id": "s-y7-sound_beginner_008",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Describe the function of the three small bones (ossicles) found in the middle ear during the process of hearing.",
+      "options": [],
+      "correctAnswer": "The ossicles (malleus, incus, and stapes) are three tiny bones located in the middle ear. Their primary function is to receive the vibrations from the eardrum and then amplify (make stronger) and transmit these vibrations to the cochlea in the inner ear. This mechanical amplification and transfer are crucial for converting sound waves into signals the brain can interpret.",
+      "explanation": "The question asks to describe the function of the ossicles. A complete description for a beginner level should include identifying them as small bones in the middle ear, explaining that they receive vibrations from the eardrum, and stating that they amplify and transfer these vibrations to the inner ear (specifically the cochlea) to continue the hearing process.",
+      "hint": "Consider what happens to the sound vibrations after they cause the eardrum to move and before they reach the fluid-filled inner ear.",
+      "generatedAt": "2026-04-30T08:42:50.192698"
+    },
+    {
+      "id": "s-y7-sound_beginner_009",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Sound waves carry energy from a vibrating source to your ear. Which of the following is essential for sound waves to travel from a source to your ear?",
+      "options": [
+        "A) A vacuum",
+        "B) A medium (such as air, water, or a solid)",
+        "C) Light waves",
+        "D) A very high temperature"
+      ],
+      "correctAnswer": "B) A medium (such as air, water, or a solid)",
+      "explanation": "Sound waves are mechanical waves, which means they require a material to vibrate and transfer energy. This material is called a medium. Without a medium (like air, water, or a solid), there are no particles to vibrate, so sound cannot travel. A vacuum contains no particles, so sound cannot travel through it. Light waves are electromagnetic waves and are not required for sound travel. Temperature affects the speed of sound, but it is not essential for sound to travel.",
+      "hint": "Consider what sound waves actually vibrate to move from one place to another.",
+      "generatedAt": "2026-04-30T08:43:00.798986"
+    },
+    {
+      "id": "s-y7-sound_beginner_010",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "When a guitar string vibrates, it produces sound. How do these sound waves travel through the air to reach a person's ear?",
+      "options": [
+        "The sound waves create a vacuum that pulls them to the ear.",
+        "The sound waves are carried by light particles directly to the ear.",
+        "The sound waves cause air particles to vibrate, passing energy from one particle to the next.",
+        "The sound waves travel as a continuous flow of energy without needing any particles."
+      ],
+      "correctAnswer": "The sound waves cause air particles to vibrate, passing energy from one particle to the next.",
+      "explanation": "Sound waves are vibrations that require a medium (like air, water, or solids) to travel. When a source vibrates, it pushes and pulls on the surrounding particles of the medium. These particles then bump into their neighbouring particles, causing them to vibrate and pass the energy along. This chain reaction of vibrations is how sound energy travels through the medium to eventually reach and vibrate the eardrum in your ear.",
+      "hint": "Consider what sound waves need to move through and how they transfer energy.",
+      "generatedAt": "2026-04-30T08:43:12.868622"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y7-sound_intermediate_001",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "Sound waves enter the ear and cause the eardrum to vibrate. These vibrations are then passed through the ossicles (tiny bones) to the inner ear. If a musical instrument produces a sound wave with a frequency of 400 Hz, how many times would the ossicles vibrate in 1.5 seconds?",
+      "options": [
+        "A) 400 times",
+        "B) 600 times",
+        "C) 800 times",
+        "D) 1200 times"
+      ],
+      "correctAnswer": "B) 600 times",
+      "explanation": "1. Understand Frequency: A frequency of 400 Hz means that the sound wave completes 400 vibrations every second.\n2. Calculate Total Vibrations: The ossicles vibrate at the same frequency as the sound wave. To find the total number of vibrations over 1.5 seconds, multiply the frequency by the time duration:\n   Number of vibrations = Frequency × Time\n   Number of vibrations = 400 Hz × 1.5 s\n   Number of vibrations = 600 times.\nSo, the ossicles would vibrate 600 times in 1.5 seconds.",
+      "hint": "Remember that Hertz (Hz) is a unit of frequency, meaning 'cycles per second' or 'vibrations per second'. Use this to calculate the total vibrations over the given time.",
+      "generatedAt": "2026-04-30T08:43:25.215266"
+    },
+    {
+      "id": "s-y7-sound_intermediate_002",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A diver working underwater rings a metal bell. At the exact same moment, another person on a nearby boat rings an identical bell in the air. Both bells are the same distance away from a swimmer who is floating on the surface of the water, listening.\n\nExplain which sound the swimmer will hear first.",
+      "options": [
+        "The sound from the bell in the air, because sound travels faster through gases than through liquids.",
+        "The sound from the bell underwater, because sound travels faster through liquids than through gases.",
+        "Both sounds will arrive at the same time, because they are identical bells and the same distance away.",
+        "The sound from the bell in the air, because sound travels faster through less dense mediums."
+      ],
+      "correctAnswer": "The sound from the bell underwater, because sound travels faster through liquids than through gases.",
+      "explanation": "1. Sound travels by making particles vibrate and transfer energy.\n2. The speed at which sound travels depends on the medium it is passing through. Generally, sound travels fastest through solids, slower through liquids, and slowest through gases.\n3. In this scenario, the sound from the diver's bell travels through water (a liquid), while the sound from the boat's bell travels through air (a gas).\n4. Because sound travels faster through liquids (water) than through gases (air), the sound from the underwater bell will reach the swimmer's ears first.",
+      "hint": "Consider the different materials (mediums) the sound waves are travelling through and how the speed of sound varies in each.",
+      "generatedAt": "2026-04-30T08:47:34.666761"
+    },
+    {
+      "id": "s-y7-sound_intermediate_003",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student stands 85 metres away from a large, flat wall and shouts. The sound wave travels through the air at a speed of 340 m/s. \n\nCalculate the time it takes for the student to hear the echo.",
+      "options": [
+        "A) 0.25 seconds",
+        "B) 0.50 seconds",
+        "C) 1.00 seconds",
+        "D) 2.00 seconds"
+      ],
+      "correctAnswer": "B) 0.50 seconds",
+      "explanation": "To hear an echo, the sound wave must travel from the student to the wall and then reflect back from the wall to the student.\n\nStep 1: Calculate the total distance travelled by the sound wave.\nTotal distance = Distance to wall + Distance back from wall\nTotal distance = 85 m + 85 m = 170 m\n\nStep 2: Use the formula: Time = Distance / Speed\nTime = 170 m / 340 m/s\nTime = 0.5 seconds\n\nTherefore, the student hears the echo after 0.50 seconds.",
+      "hint": "Remember that for an echo, the sound has to travel to the obstacle and then return to the listener. Consider the total distance covered before applying the speed-distance-time formula.",
+      "generatedAt": "2026-04-30T08:47:51.475632"
+    },
+    {
+      "id": "s-y7-sound_intermediate_004",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A research submarine uses its sonar system to map the ocean floor. A sound wave is emitted downwards from the submarine and reflects off the seabed. The reflected sound wave is detected by the submarine 0.8 seconds after it was emitted. The speed of sound in seawater is approximately 1500 m/s.\n\nWhich option correctly calculates the depth of the ocean floor and accurately describes how sound vibrations are processed into electrical signals within the human ear?",
+      "options": [
+        "A) Depth: 1200 m. The eardrum directly converts sound vibrations into electrical signals.",
+        "B) Depth: 600 m. The eardrum amplifies sound vibrations which are then sent to the brain.",
+        "C) Depth: 300 m. The ossicles convert sound vibrations into electrical signals which travel to the brain.",
+        "D) Depth: 600 m. The ossicles transmit and amplify vibrations to the cochlea, where they are converted into electrical signals for the brain."
+      ],
+      "correctAnswer": "D) Depth: 600 m. The ossicles transmit and amplify vibrations to the cochlea, where they are converted into electrical signals for the brain.",
+      "explanation": "1.  **Calculate the total distance travelled by the sound wave:**\n    The formula for distance is speed × time.\n    Distance = 1500 m/s × 0.8 s = 1200 m.\n\n2.  **Calculate the depth of the ocean floor:**\n    The sound wave travels from the submarine to the seabed and then reflects back to the submarine. This means the total distance calculated (1200 m) is twice the depth of the ocean floor. Therefore, the depth is:\n    Depth = Total distance / 2 = 1200 m / 2 = 600 m.\n\n3.  **Analyze how sound vibrations are processed into electrical signals in the human ear:**\n    *   Sound waves cause the eardrum to vibrate.\n    *   These vibrations are then passed to the three tiny bones (ossicles: hammer, anvil, stirrup) in the middle ear, which transmit and amplify these vibrations.\n    *   The stirrup passes these amplified vibrations to the cochlea in the inner ear.\n    *   Inside the cochlea, the mechanical vibrations are converted into electrical signals (nerve impulses).\n    *   These electrical signals are then sent to the brain via the auditory nerve for interpretation.\n\n4.  **Evaluate the options:**\n    *   Options A and C provide incorrect depths (1200 m and 300 m respectively).\n    *   Option B provides the correct depth (600 m) but incorrectly states that the eardrum amplifies vibrations and sends them directly to the brain.\n    *   Option D provides the correct depth (600 m) and accurately describes the role of the ossicles in transmitting and amplifying vibrations to the cochlea, where the conversion to electrical signals for the brain occurs. This makes Option D the correct answer.",
+      "hint": "Remember that sonar measures a return journey, so the calculated distance needs to be adjusted for the actual depth. Also, recall the specific parts of the inner ear responsible for converting mechanical vibrations into nerve signals, particularly after the ossicles.",
+      "generatedAt": "2026-04-30T08:48:11.326375"
+    },
+    {
+      "id": "s-y7-sound_intermediate_005",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A worker uses a hammer to hit one end of a 50-meter long steel pipe. A person standing 50 meters away in the air hears the sound. At the exact same moment, another person has their ear pressed against the other end of the steel pipe, also 50 meters away.\n\nExplain which person hears the sound first and why, referring to how sound waves travel through different mediums.",
+      "options": [],
+      "correctAnswer": "The person with their ear pressed against the steel pipe will hear the sound first. This is because sound waves travel much faster through solids, like steel, than they do through gases, like air. In solids, the particles are very close together and tightly packed. This close proximity allows the vibrations (which carry the sound energy) to be transferred quickly and efficiently from one particle to the next, causing the sound wave to propagate at a higher speed. In contrast, in gases, the particles are much further apart, meaning it takes longer for the vibrations to travel between them, resulting in a slower speed of sound.",
+      "explanation": "1. Identify the mediums: The sound travels through steel (a solid) and air (a gas).\n2. Recall/Apply knowledge about sound speed in different mediums: Sound travels fastest in solids, then liquids, and slowest in gases.\n3. Determine who hears it first: Since steel is a solid, the sound will travel through the pipe faster than through the air. Therefore, the person with their ear on the pipe hears it first.\n4. Explain the 'why': Relate the speed difference to the particle arrangement in each medium. In solids, particles are tightly packed, allowing vibrations to transfer energy quickly. In gases, particles are spread out, making energy transfer slower.",
+      "hint": "Consider the arrangement and spacing of particles in solids compared to gases, and how this affects the transfer of vibrations (sound energy).",
+      "generatedAt": "2026-04-30T08:48:26.964439"
+    },
+    {
+      "id": "s-y7-sound_intermediate_006",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A person is fully submerged underwater in a swimming pool. Their friend stands at the edge of the pool and shouts loudly. The person underwater can only hear a very faint, muffled sound. However, if their friend taps a metal object against the side of the pool, the person underwater hears a much clearer and louder sound.\n\nWhich of the following *best explains* why the tapping sound is heard more clearly and loudly underwater compared to the shout from above the water?",
+      "options": [
+        "A. Sound travels faster in water than in air, so the shout's vibrations quickly dissipate before reaching the swimmer.",
+        "B. The eardrum is designed to vibrate more efficiently when submerged in water, making it more sensitive to direct underwater vibrations.",
+        "C. Sound waves transmit energy much more efficiently through liquids and solids than through gases. Therefore, more sound energy from the metal tap travels through the water to the swimmer's ear, resulting in a louder and clearer perception.",
+        "D. Air molecules are too spread out to carry sound effectively to the water, whereas the metal helps to funnel the sound directly into the water."
+      ],
+      "correctAnswer": "C. Sound waves transmit energy much more efficiently through liquids and solids than through gases. Therefore, more sound energy from the metal tap travels through the water to the swimmer's ear, resulting in a louder and clearer perception.",
+      "explanation": "This is a two-step explanation:\n\n**Step 1: Sound Transmission Efficiency in Different Mediums**\nSound waves are vibrations that require particles to transmit energy. In gases (like air), particles are very spread out, leading to frequent energy loss and inefficient transmission over distance, especially when crossing into a denser medium like water. In contrast, particles in liquids (like water) and solids (like metal) are much closer together. This allows sound vibrations to be transferred from one particle to the next with much less energy loss, making transmission far more efficient.\n\n**Step 2: Effect on Hearing Perception**\nWhen the friend shouts, the sound energy must travel through air, then across the air-water boundary (where much energy is reflected or lost), and finally through the water to the ear. Because of the inefficiency of sound transmission through air and across the boundary, very little sound energy reaches the swimmer's eardrum, resulting in a faint, muffled sound.\n\nHowever, when the friend taps the metal object, the sound energy transmits efficiently from the solid metal directly into the liquid water, and then efficiently through the water to the swimmer's ear. More sound energy reaches the eardrum, causing it to vibrate with a larger amplitude. These stronger vibrations are interpreted by the brain as a louder and clearer sound.",
+      "hint": "Consider how the arrangement of particles in different states of matter (solids, liquids, gases) affects the *efficiency* of sound energy transfer and what this means for the amount of energy reaching the ear.",
+      "generatedAt": "2026-04-30T08:48:46.309476"
+    },
+    {
+      "id": "s-y7-sound_intermediate_007",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A sound wave enters the human ear, causing the eardrum to vibrate. This vibration is then passed through a chain of three tiny bones (ossicles) to a fluid-filled chamber (cochlea) where it is converted into electrical signals. These signals are finally sent to the brain for interpretation.\n\nWhich statement *describes* the *medium* through which the sound energy travels *immediately after* the eardrum vibrates, and *explains* one key *function* this medium performs in the process of hearing?",
+      "options": [
+        "A) Medium: Air within the middle ear; Function: Equalises pressure to prevent eardrum damage.",
+        "B) Medium: Liquid in the cochlea; Function: Directly converts mechanical vibrations into nerve impulses.",
+        "C) Medium: Solid ossicles (tiny bones); Function: Concentrates and amplifies the vibrations' force, transferring them efficiently to the inner ear.",
+        "D) Medium: Nerve fibres; Function: Transmits electrical signals directly from the outer ear to the brain."
+      ],
+      "correctAnswer": "C) Medium: Solid ossicles (tiny bones); Function: Concentrates and amplifies the vibrations' force, transferring them efficiently to the inner ear.",
+      "explanation": "1.  **Identify the medium immediately after the eardrum:** The eardrum vibrates and passes these vibrations to the first of the three tiny bones, the malleus. Therefore, the medium immediately after the eardrum is the solid ossicles.\n2.  **Identify the function of this medium:** The ossicles (malleus, incus, stapes) form a lever system. Their primary function is to concentrate and amplify the pressure of the vibrations from the larger eardrum onto the much smaller oval window of the cochlea, ensuring efficient transfer of sound energy from air to the fluid of the inner ear. This amplification is crucial for effective hearing.\n\nOption A is incorrect because air is the medium in the outer ear canal and around the ossicles, but the vibrations travel *through* the ossicles themselves. Pressure equalisation is done by the Eustachian tube.\nOption B is incorrect because the liquid in the cochlea is the medium *after* the ossicles, and while it's involved in conversion, the ossicles are the immediate next step from the eardrum.\nOption D is incorrect because nerve fibres carry electrical signals *after* they have been generated in the cochlea, not sound energy directly from the outer ear or immediately after the eardrum.",
+      "hint": "Consider the order of structures in the middle ear and their specific mechanical roles in transmitting and modifying the sound vibrations before they reach the inner ear.",
+      "generatedAt": "2026-04-30T08:49:03.772306"
+    },
+    {
+      "id": "s-y7-sound_intermediate_008",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "When a person speaks, sound energy is produced and travels to a listener's ear, allowing them to understand the message.\n\nWhich statement accurately describes both how the sound energy travels from the speaker's mouth and how it is then detected by the listener's ear?",
+      "options": [
+        "A) Sound energy travels as tiny light particles moving in straight lines. When these particles hit the eardrum, it sends visual signals to the brain.",
+        "B) Sound energy travels by causing particles in the medium (like air) to vibrate and pass the energy along. These vibrations cause the eardrum to vibrate, which creates electrical signals sent to the brain.",
+        "C) Sound energy travels as electromagnetic waves that move without needing any particles. These waves directly stimulate nerves in the ear, allowing us to hear.",
+        "D) Sound energy is carried by continuous currents of air molecules that push against the outer ear. The brain then directly converts these air currents into recognizable sounds."
+      ],
+      "correctAnswer": "B) Sound energy travels by causing particles in the medium (like air) to vibrate and pass the energy along. These vibrations cause the eardrum to vibrate, which creates electrical signals sent to the brain.",
+      "explanation": "Sound energy travels as a mechanical wave, meaning it requires a medium (like air) made of particles to propagate. The sound source (e.g., vocal cords) vibrates, transferring energy to the surrounding air particles. These particles then collide with and transfer energy to neighbouring particles, creating a chain reaction of vibrations that moves the sound energy away from the source (the first step).\n\nWhen these sound vibrations reach the listener's ear, they cause the eardrum (tympanic membrane) to vibrate. These mechanical vibrations are then converted into electrical nerve signals by the structures of the inner ear. These electrical signals are then sent to the brain via the auditory nerve, where they are interpreted as sound (the second step).\n\nOption B correctly describes both of these essential stages in the process of hearing.",
+      "hint": "Consider what sound waves are made of and how they move through air, then recall the primary function of the eardrum in receiving these waves.",
+      "generatedAt": "2026-04-30T08:49:41.447869"
+    },
+    {
+      "id": "s-y7-sound_intermediate_009",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student listens to music from a loudspeaker placed 102 meters away from them. The sound waves travel through the air to the student's ears. The speed of sound in air is 340 m/s.\n\n1. Calculate the time it takes for the sound to travel from the loudspeaker to the student's ears. (Show your working and units).\n2. If the student then listens to the same music through a long, solid steel rod of the same length (102 meters) connected to the loudspeaker, Explain whether the sound would reach their ear *faster* or *slower* than through the air, providing a reason for your answer.",
+      "options": [],
+      "correctAnswer": "1. **Calculate the time:**\n   Formula: Time (t) = Distance (d) / Speed (v)\n   Substitution: t = 102 m / 340 m/s\n   Answer: t = 0.3 s\n\n2. **Explain faster/slower and why:**\n   The sound would reach their ear **faster** through the solid steel rod.\n   **Reason:** Sound waves travel faster through solids (like steel) than through gases (like air) because the particles in a solid are much closer together and more tightly packed. This close proximity allows the vibrations (which carry the sound energy) to be transferred more quickly and efficiently from one particle to the next through collisions, resulting in a higher speed of sound.",
+      "explanation": "Part 1 requires the application of the speed-distance-time formula to calculate the time taken for sound to travel a specific distance. Part 2 requires recalling the general principle of sound travelling at different speeds in different mediums, specifically comparing solids and gases, and then explaining the underlying cause (particle arrangement and vibration transfer) that leads to this difference in speed.",
+      "hint": "For part 1, remember that speed, distance, and time are related by an equation. For part 2, consider the arrangement and proximity of particles in solids versus gases and how this affects the transfer of sound vibrations.",
+      "generatedAt": "2026-04-30T08:49:57.930622"
+    },
+    {
+      "id": "s-y7-sound_intermediate_010",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A large church bell rings, producing a sound that travels through different mediums to reach a listener. The sound first travels through a 0.2 meter thick stone wall, then through 15 meters of open air before reaching a person's ear.\n\nThe speed of sound in stone is 6000 m/s.\nThe speed of sound in air is 340 m/s.\n\nCalculate the total time it takes for the sound from the bell to travel from the bell, through the stone wall, and then through the air to reach the person's ear. Give your answer to 3 significant figures.",
+      "options": [
+        "A) 0.0442 s",
+        "B) 0.0441 s",
+        "C) 0.0447 s",
+        "D) 0.00253 s"
+      ],
+      "correctAnswer": "A) 0.0442 s",
+      "explanation": "To calculate the total time, we need to determine the time taken for the sound to travel through each medium (stone and air) separately and then add these individual times together.\n\nStep 1: Calculate the time taken for sound to travel through the stone wall.\nFormula: Time = Distance / Speed\nTime (stone) = 0.2 m / 6000 m/s\nTime (stone) = 0.000033333... s\n\nStep 2: Calculate the time taken for sound to travel through the air.\nFormula: Time = Distance / Speed\nTime (air) = 15 m / 340 m/s\nTime (air) = 0.044117647... s\n\nStep 3: Calculate the total time.\nTotal Time = Time (stone) + Time (air)\nTotal Time = 0.000033333... s + 0.044117647... s\nTotal Time = 0.04415098... s\n\nRounding the total time to 3 significant figures, the answer is 0.0442 s.",
+      "hint": "Remember that sound travels at different speeds in different mediums. Calculate the time taken for each part of the journey separately using the formula 'Time = Distance / Speed' before summing them for the total.",
+      "generatedAt": "2026-04-30T08:50:25.090289"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y7-sound_advanced_001",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A submarine uses sonar to detect objects underwater. Sonar sends out sound waves.\n\na) State the type of wave that sound is. (1 mark)\n\nb) Describe how a sound wave travels through water from the sonar to an object and back again. (3 marks)\n\nc) Explain why sound travels faster through water than through air. (4 marks)\n\nd) If the sonar operator hears the echo after 0.2 seconds and the speed of sound in water is 1500 m/s, Calculate the distance to the object. (4 marks)\n",
+      "options": [],
+      "correctAnswer": "a) Sound is a longitudinal wave.\n\nb) Sound waves are produced by vibrations. In water, these vibrations cause the water particles to move back and forth, transferring energy to neighbouring particles. This continuous transfer creates areas of compression (where particles are close together) and rarefaction (where particles are spread out). This disturbance travels through the water as a wave until it hits the object. The sound wave then reflects off the object and travels back to the sonar in the same way.\n\nc) Sound travels faster through water than through air because water particles are much closer together and more densely packed than air particles. So, the vibrations that make up the sound wave can be transferred more quickly and efficiently from one particle to the next in water, allowing the wave to propagate (travel) faster.\n\nd) Formula: Distance = Speed × Time\n   The time given (0.2 s) is for the sound to travel to the object and back again (an echo). Therefore, the time for the sound to travel to the object only is half of this.\n   Time for one-way journey = 0.2 s / 2 = 0.1 s\n   Distance = 1500 m/s × 0.1 s\n   Distance = 150 m\n   The distance to the object is 150 m.",
+      "explanation": "a) Sound waves are mechanical waves that travel by vibrating particles in the same direction as the wave's energy transfer, which defines a longitudinal wave.\n\nb) This part assesses understanding of wave propagation through a medium. Students need to describe the role of particle vibration, the transfer of energy, the formation of compressions and rarefactions, and the reflection of the wave off an object.\n\nc) This requires a cause-and-effect explanation. The student must link the density and proximity of particles in different mediums (water vs. air) to the efficiency and speed of energy transfer through vibrations. Denser, closer particles allow for faster and more efficient energy transfer.\n\nd) This is a multi-step calculation. First, the student must recognise that the given time is for a round trip (an echo travels to the object and returns) and therefore needs to be halved to find the one-way travel time. Then, the standard speed-distance-time formula (Distance = Speed × Time) is applied, with correct substitution and units provided in the final answer.",
+      "hint": "For part (d), remember that the sound travels from the submarine to the object and then *back* to the submarine. This means the time given for the echo is for the complete return journey.",
+      "generatedAt": "2026-04-30T08:50:40.591952"
+    },
+    {
+      "id": "s-y7-sound_advanced_002",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Mia is playing her drum kit loudly in a purpose-built soundproofed room at a music studio. Her friend, Ben, is outside the room. Ben presses his ear firmly against the solid concrete wall of the soundproofed room. He can hear the drums, but the sound is much quieter and seems 'muffled' or 'duller' compared to how it sounds inside the room.\n\n**(a) State** the initial medium through which the sound waves travel from Mia's drum kit *before* they first interact with the concrete wall. (1 mark)\n\n**(b) Describe** the process by which the sound vibrations from the drum kit travel from the air inside the room, through the solid concrete wall, and then reach Ben's ear. (3 marks)\n\n**(c) Explain** why the sound Ben hears with his ear against the wall is significantly quieter and sounds 'muffled' or 'duller' compared to hearing the drums directly inside the room. Your explanation should link cause and effect. (4 marks)\n\n**(d) Explain** the sequence of events that occurs inside Ben's ear, starting from when the sound vibrations reach his eardrum, leading to his brain interpreting the sound of the drums. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a)** Air.\n\n**(b)** The vibrating drum kit causes the surrounding air particles to vibrate. These vibrating air particles collide with and transfer energy to the particles of the concrete wall. The vibrations then travel through the concrete as its particles vibrate and pass energy to their neighbours. Finally, the vibrating concrete wall causes the air particles on the outside of the room to vibrate, which then reach Ben's eardrum.\n\n**(c)** The sound Ben hears is significantly quieter **because** sound energy is lost as it travels through different mediums (air to concrete, concrete to air). Some energy is absorbed by the concrete material, and some is reflected at the boundaries between the mediums, **so** less energy reaches Ben's ear. The sound appears 'muffled' or 'duller' **because** different frequencies of sound waves are absorbed or transmitted differently by the concrete. Typically, higher frequency sounds (which contribute to sharpness and clarity) are more easily absorbed or blocked by dense materials like concrete than lower frequency sounds, **so** there is a loss of detail and a 'duller' perception.\n\n**(d)** When the sound vibrations reach Ben's ear, they cause his **eardrum** to vibrate. These vibrations are then passed to three tiny bones in the middle ear: the **ossicles** (hammer, anvil, and stirrup). The ossicles amplify these vibrations and transfer them to the **cochlea**, a snail-shaped organ in the inner ear. Inside the cochlea, special fluid and tiny hair cells convert these mechanical vibrations into **electrical signals**. Finally, these electrical signals are sent to the brain via the **auditory nerve**, where the brain interprets them as the sound of the drums.",
+      "explanation": "The model answer fully addresses all parts of the question, demonstrating an advanced understanding of how sound travels through different mediums and how the human ear processes sound. Part (a) correctly identifies the initial medium. Part (b) accurately describes the particle-to-particle transfer of vibrations through multiple mediums. Part (c) explains the reduction in sound volume due to energy loss (absorption/reflection) and the change in sound quality (muffled/duller) by linking it to the differential absorption of sound frequencies by the concrete, providing clear cause-and-effect relationships. Part (d) precisely outlines the sequence of events within the ear, naming key structures (eardrum, ossicles, cochlea, auditory nerve) and their functions in converting mechanical vibrations into electrical signals for the brain.",
+      "hint": "For parts (a) and (b), remember that sound is made of vibrations that travel by passing energy from one particle to the next. For part (c), think about what happens to energy when it moves between different materials and how different parts of a sound (like high or low pitch) might be affected differently. For part (d), recall the main parts of the human ear and the order in which they react to sound vibrations to send a message to the brain.",
+      "generatedAt": "2026-04-30T08:51:01.830793"
+    },
+    {
+      "id": "s-y7-sound_advanced_003",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A group of students are observing a large clock tower from a distance of 170 meters. When the clock strikes, one student, Alex, notices that he feels a faint vibration through the ground before he hears the distinctive chime through the air. The speed of sound in air is approximately 340 m/s, and the speed of sound in the ground is approximately 1700 m/s.\n\nExplain why Alex feels the vibration through the ground *before* hearing the chime through the air, and Calculate the time difference between when Alex feels the vibration and when he hears the chime.",
+      "options": [
+        "A. Sound travels faster through solids than through gases because particles in solids are closer together, allowing vibrations to transfer more efficiently. The sound reaches Alex through the ground in 0.1 s and through the air in 0.5 s, resulting in a time difference of 0.4 s.",
+        "B. Sound travels slower through solids than through gases because solids are denser. The sound reaches Alex through the ground in 0.5 s and through the air in 0.1 s, resulting in a time difference of 0.4 s.",
+        "C. Sound travels faster through solids than through gases because particles in solids are closer together, allowing vibrations to transfer more efficiently. The sound reaches Alex through the ground in 0.1 s and through the air in 0.5 s, resulting in a time difference of 0.6 s.",
+        "D. Sound travels faster through gases than through solids because gases are less dense. The sound reaches Alex through the ground in 0.5 s and through the air in 0.1 s, resulting in a time difference of 0.4 s."
+      ],
+      "correctAnswer": "A. Sound travels faster through solids than through gases because particles in solids are closer together, allowing vibrations to transfer more efficiently. The sound reaches Alex through the ground in 0.1 s and through the air in 0.5 s, resulting in a time difference of 0.4 s.",
+      "explanation": "Here's the step-by-step working:\n\n**1. Explain why sound travels faster through solids:**\nSound travels as vibrations of particles. In solids, such as the ground, the particles are much closer together and more rigidly arranged than in gases (air). This close proximity and strong bonding allows the vibrations to be passed from one particle to the next much more quickly and efficiently, resulting in sound travelling at a higher speed in solids compared to gases.\n\n**2. Calculate the time taken for sound to travel through the air:**\nFormula: Time = Distance / Speed\nDistance = 170 m\nSpeed of sound in air = 340 m/s\nTime (air) = 170 m / 340 m/s = 0.5 s\n\n**3. Calculate the time taken for sound to travel through the ground:**\nFormula: Time = Distance / Speed\nDistance = 170 m\nSpeed of sound in ground = 1700 m/s\nTime (ground) = 170 m / 1700 m/s = 0.1 s\n\n**4. Calculate the time difference:**\nTime difference = Time (air) - Time (ground)\nTime difference = 0.5 s - 0.1 s = 0.4 s\n\nTherefore, Alex feels the vibration through the ground (0.1 s) before hearing the chime through the air (0.5 s), with a time difference of 0.4 seconds. Option A correctly combines this explanation and calculation.",
+      "hint": "Remember that speed, distance, and time are related by the formula: Speed = Distance / Time. You will need to calculate the time for sound to travel through each medium separately before finding the difference.",
+      "generatedAt": "2026-04-30T08:51:41.006900"
+    },
+    {
+      "id": "s-y7-sound_advanced_004",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A large, transparent aquarium tank contains a small, silent device that occasionally emits a gentle clicking sound.\n*   **Student A** places their ear firmly against the glass wall of the aquarium.\n*   **Student B** stands a few metres away from the aquarium in the open air.\n\na) **Describe** the path the sound waves take to reach Student A's ear from the clicking device. (2 marks)\n\nb) **Explain** why Student A is likely to hear the clicking sound more clearly and possibly sooner than Student B, even though Student B is standing closer to the side of the tank. (4 marks)\n\nc) **State** the name of the part of the human ear that vibrates first when sound waves reach it. (1 mark)\n\nd) **Describe** the function of the small bones (ossicles) in the middle ear in the process of hearing. (2 marks)",
+      "options": [],
+      "correctAnswer": "a) The sound waves travel from the device through the **water** (liquid) inside the tank. They then transfer into the **glass wall** of the aquarium (solid), and finally travel from the glass into Student A's ear, causing their eardrum to vibrate.\n\nb) Sound waves travel significantly **faster** and more **efficiently** through liquids and solids (like water and glass) than they do through gases (like air). For Student A, the sound travels directly through the water and then the solid glass to their ear. This direct and efficient transmission means more sound energy reaches their ear, **so** the sound is heard more clearly. Because sound travels faster through these mediums, it also reaches Student A's ear sooner. For Student B, the sound has to travel from the water, through the glass, and then into the air, where it loses more energy and travels slower, **therefore** it is harder to hear and arrives later.\n\nc) Eardrum (or Tympanic membrane).\n\nd) The small bones (ossicles) – the malleus, incus, and stapes – **amplify** (or magnify) the vibrations from the eardrum. They then **transfer** these amplified vibrations to the inner ear, specifically the fluid in the cochlea, allowing the sound signal to be further processed.",
+      "explanation": "The provided model answer covers all aspects of the question by describing the sound path, explaining the differences in sound transmission through various mediums (liquid, solid, gas) and its effect on clarity and speed, identifying the primary vibrating part of the ear, and detailing the role of the ossicles, using correct scientific terminology and command words.",
+      "hint": "For part (b), consider how the *speed* and *efficiency* of sound transfer might differ when moving through solids/liquids compared to gases. Think about how much energy is carried through each medium.",
+      "generatedAt": "2026-04-30T08:53:20.578185"
+    },
+    {
+      "id": "s-y7-sound_advanced_005",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A young scientist is investigating how sound travels through different materials. She sets up an experiment with a long, hollow plastic tube. She places a small speaker at one end of the tube, emitting a continuous, steady tone. She then listens carefully at the other end.\n\n**(a) Describe how the sound waves from the speaker travel through the air inside the tube to her ear. [3 marks]**\n\n**(b) Explain why she might hear the sound *louder* if the tube was completely filled with water instead of air, assuming the sound can still travel effectively to her ear. [4 marks]**\n\n**(c) State the name of the part of the human ear that first vibrates when sound waves reach it. [1 mark]**\n\n**(d) Describe the role of the three tiny bones in the middle ear in transmitting these sound vibrations. [2 marks]**",
+      "options": [],
+      "correctAnswer": "(a) The speaker vibrates, causing the air particles next to it to vibrate. These vibrating particles bump into their neighbouring particles, transferring the energy along the tube. This creates a chain reaction of vibrations, moving the sound energy as a wave through the air until it reaches her ear.\n\n(b) Sound travels by the vibration of particles. Water is much denser than air, meaning its particles are packed closer together. Because the particles are closer, they can transfer vibrations (and thus sound energy) more efficiently from one particle to the next. This more efficient transfer means less energy is lost, resulting in a louder sound reaching her ear compared to air.\n\n(c) Eardrum (or tympanic membrane).\n\n(d) The three tiny bones (ossicles: hammer, anvil, stirrup) receive vibrations from the eardrum. They then amplify these vibrations and pass them on to the inner ear (cochlea).",
+      "explanation": "(a) Sound travels as a mechanical wave. The speaker's vibrations displace adjacent air particles, which then collide with and transfer energy to neighbouring particles. This chain reaction of compressions and rarefactions propagates the sound energy through the air medium as a longitudinal wave.\n\n(b) The explanation for a louder sound in water lies in the medium's density. Sound transmission relies on particle collisions. Water particles are much more closely packed than air particles due to its higher density. This closer proximity allows for more frequent and efficient transfer of vibrational energy between particles. Less energy is dissipated or lost during transmission, leading to a stronger vibration arriving at the ear and thus a perceptibly louder sound.\n\n(c) The eardrum, also known as the tympanic membrane, is a thin membrane at the end of the ear canal. It is the first structure in the ear to vibrate when sound waves strike it, converting sound energy into mechanical vibrations.\n\n(d) The three tiny bones in the middle ear (the ossicles: malleus, incus, and stapes - commonly known as the hammer, anvil, and stirrup) have a crucial role. They receive the vibrations from the eardrum and act as a lever system to amplify these vibrations. This amplification is essential for efficiently transmitting the sound energy from the air-filled middle ear to the fluid-filled cochlea in the inner ear, overcoming the impedance mismatch.",
+      "hint": "For part (b), consider how the spacing and proximity of particles in different substances (like air versus water) affect their ability to transfer energy through collisions. Think about how easily a vibration can pass from one particle to the next.",
+      "generatedAt": "2026-04-30T12:04:58.920189"
+    },
+    {
+      "id": "s-y7-sound_advanced_006",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A group of scientists is conducting an experiment in a sealed, simulated Martian habitat on Earth. The habitat is filled with a very thin gas mixture, designed to mimic Mars's atmosphere. Inside, Dr. Aris is speaking to Dr. Ben, who is in an adjacent section of the habitat. They are trying to communicate only through the air within the habitat, without using electronic devices.\n\n**(a) Describe how the sound waves produced by Dr. Aris's voice travel through the thin gas mixture to Dr. Ben's ear. [3 marks]**\n\n**(b) Explain why Dr. Ben would find Dr. Aris's voice much quieter in this simulated Martian atmosphere compared to hearing a voice in a normal room on Earth. [4 marks]**\n\n**(c) State the name of the part of Dr. Ben's ear that first vibrates when sound waves reach it. [1 mark]**\n\n**(d) After struggling to hear, Dr. Ben presses his ear directly against the solid, metallic wall separating the two sections of the habitat. Explain how pressing his ear against the solid wall might allow him to hear Dr. Aris's voice more clearly than through the thin gas. [4 marks]**",
+      "options": [],
+      "correctAnswer": "**Model Answer:**\n\n**(a) Describe how the sound waves produced by Dr. Aris's voice travel through the thin gas mixture to Dr. Ben's ear. [3 marks]**\n1.  Dr. Aris's voice causes the air particles nearest his mouth to vibrate.\n2.  These vibrating particles then collide with their neighbouring particles, transferring the vibrational energy.\n3.  This series of collisions and energy transfer propagates the sound wave through the gas mixture until it reaches Dr. Ben's ear.\n\n**(b) Explain why Dr. Ben would find Dr. Aris's voice much quieter in this simulated Martian atmosphere compared to hearing a voice in a normal room on Earth. [4 marks]**\n1.  The simulated Martian atmosphere is a very thin gas mixture, meaning it has significantly fewer particles per unit volume (it is much less dense) compared to normal air on Earth.\n2.  Because there are fewer particles in the thin gas, there are fewer collisions between them as the sound wave travels.\n3.  This results in a less efficient transfer of sound energy from one particle to the next (less energy is carried by the wave).\n4.  So, by the time the sound waves reach Dr. Ben's ear, they carry significantly less energy, making Dr. Aris's voice sound much quieter.\n\n**(c) State the name of the part of Dr. Ben's ear that first vibrates when sound waves reach it. [1 mark]**\nEardrum (or tympanic membrane).\n\n**(d) Explain how pressing his ear against the solid wall might allow him to hear Dr. Aris's voice more clearly than through the thin gas. [4 marks]**\n1.  The solid metallic wall is much denser than the thin gas mixture.\n2.  This means the particles in the wall are much more closely packed together.\n3.  Because the particles are closer and more numerous in the solid, sound energy can be transferred much more frequently and efficiently through collisions between them.\n4.  Therefore, more sound energy is successfully transmitted through the solid wall and reaches Dr. Ben's ear, resulting in him hearing Dr. Aris's voice more clearly.",
+      "explanation": "This question assesses a student's understanding of how sound travels through different mediums and the basic function of the ear, applying these concepts in a novel, multi-step scenario. \n\n**(a)** Requires describing the particle model of sound transmission: initial vibration, energy transfer through collisions, and propagation.\n\n**(b)** Demands an explanation of how medium density affects sound amplitude. Students must link the 'thin gas' (cause) to 'fewer particles', then to 'less efficient energy transfer', and finally to 'quieter sound' (effect), demonstrating understanding of cause-and-effect.\n\n**(c)** Is a direct recall question about the ear's structure, testing fundamental vocabulary.\n\n**(d)** Is the most challenging part, requiring students to compare sound transmission through a thin gas versus a dense solid. They must explain that the greater density and closer packing of particles in the solid (cause) leads to more frequent and efficient energy transfer (intermediate effect), resulting in clearer sound perception (final effect). This combines knowledge of material properties with sound wave characteristics and human hearing.",
+      "hint": "To explain the difference in sound clarity between mediums, consider the arrangement and interaction of particles in each medium, and how this affects the transfer of sound energy. Remember what the eardrum does.",
+      "generatedAt": "2026-04-30T12:05:21.798905"
+    },
+    {
+      "id": "s-y7-sound_advanced_007",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Dr. Aris is an acoustics scientist conducting an experiment in a specialized sealed chamber. This chamber is filled with a unique inert gas that is five times denser than the air we normally breathe. Inside, he has placed a speaker emitting a constant tone and a sensitive microphone.\n\n**a) Describe two differences in how sound waves would travel from the speaker to the microphone within this dense gas, compared to how they travel in regular air. (4 marks)**\n\n**b) Explain the sequence of events that allows Dr. Aris to hear the sound waves from the speaker, once they reach his ear. (4 marks)**\n\n**c) If Dr. Aris were to be inside this chamber, would he perceive the sound from the speaker as louder, quieter, or about the same as if the same speaker was playing in regular air outside the chamber? Explain your reasoning, referring to the properties of the sound wave and the function of the human ear. (6 marks)**",
+      "options": [],
+      "correctAnswer": "a) Two differences in how sound waves travel:\n1.  **Speed:** Sound would travel faster in the dense gas. This is because the particles in a denser medium are closer together, allowing vibrations to be transmitted more quickly and efficiently from one particle to the next. (2 marks)\n2.  **Energy Transfer/Amplitude:** The sound wave would transfer vibrational energy more efficiently through the dense gas. This means that for a given distance, the sound wave would maintain a greater amplitude (the maximum displacement of particles from their rest position), which means more energy is carried by the wave. (2 marks)\n\nb) Sequence of events for hearing:\n1.  Sound waves (vibrations in the dense gas) travel into the ear canal and cause the **eardrum** to vibrate. (1 mark)\n2.  These vibrations are then passed to a chain of three tiny bones (the **ossicles**: malleus, incus, and stapes), which amplify the vibrations. (1 mark)\n3.  The stapes transmits these amplified vibrations to the fluid inside the **cochlea**. (1 mark)\n4.  Inside the cochlea, tiny hair cells are stimulated by these fluid vibrations and convert them into electrical signals, which are then sent to the brain via the **auditory nerve**, where they are interpreted as sound. (1 mark)\n\nc) Dr. Aris would perceive the sound as **louder**. (1 mark)\n**Reasoning:**\n*   Sound travels by the vibration and collision of particles in a medium. In a denser gas, there are significantly more particles per unit volume compared to regular air. (1 mark)\n*   This increased particle density means that when the speaker vibrates, it can transfer its energy to the surrounding medium more efficiently because there are more particles to interact with. (1 mark)\n*   As a result, the sound wave propagating through the dense gas will carry more energy and therefore have a greater **amplitude** when it reaches Dr. Aris's ear. (1 mark)\n*   A sound wave with a greater amplitude causes the **eardrum** to vibrate with more force and over a larger displacement. (1 mark)\n*   The human ear and brain interpret larger and more forceful vibrations of the eardrum as a louder sound. Therefore, the same speaker would produce a perceived louder sound in the dense gas chamber due to more efficient energy transfer to the ear. (1 mark)",
+      "explanation": "This question assesses the student's understanding of how sound travels through different mediums and the mechanics of human hearing. \n\n**Part a)** requires students to describe how the properties of sound waves (speed and energy transfer/amplitude) are affected by the density of the medium. They should apply the concept that sound travels faster and more efficiently in denser mediums due to the closer proximity of particles for vibration transmission.\n\n**Part b)** tests the knowledge of the key structures of the human ear and their sequential roles in converting sound vibrations into electrical signals that the brain can interpret. A step-by-step description of the process, naming the eardrum, ossicles, cochlea, and auditory nerve, is expected.\n\n**Part c)** is the 'advanced' part, requiring students to synthesize information from both prior sections. They need to connect the concept of a denser medium leading to more efficient energy transfer (resulting in a greater amplitude of the sound wave) with the ear's function of interpreting amplitude as loudness. A logical chain of cause and effect (denser medium → more efficient energy transfer / greater amplitude → stronger eardrum vibration → perceived louder sound) is crucial for a full mark explanation. This goes beyond simple recall and demands application and synthesis of concepts in a novel context.",
+      "hint": "For part c), consider how the density of a medium affects the transfer of vibrational energy from the sound source to the ear. Then, think about how the human ear interprets the 'strength' or 'amount' of these vibrations.",
+      "generatedAt": "2026-04-30T12:05:43.299024"
+    },
+    {
+      "id": "s-y7-sound_advanced_008",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Imagine a research outpost in a remote savanna. Dr. Anya, a scientist, is studying how elephants communicate over long distances using very low-frequency sounds. These sounds travel effectively through the ground. Dr. Anya is observing a small group of elephants from a safe distance. Suddenly, she feels a faint vibration through the ground beneath her feet, and approximately 3 seconds later, she hears a very low rumble through the air.\n\n**(a) State the initial cause of the low rumble sound produced by the elephant.** (1 mark)\n\n**(b) Describe why Dr. Anya felt the vibration through the ground before hearing the rumble through the air.** (3 marks)\n\n**(c) Explain how the sound wave, once it reaches Dr. Anya's ear, is converted into an electrical signal that her brain can interpret.** (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) (1 mark)**\n*   The initial cause of the low rumble sound is the vibration of the elephant's body / vocal cords.\n\n**(b) (3 marks)**\n*   Sound travels at different speeds through different mediums (1 mark).\n*   Sound travels fastest through solids, slower through liquids, and slowest through gases (1 mark).\n*   The ground is a solid medium, while the air is a gaseous medium. Therefore, the sound vibrations travelled through the ground much faster than through the air, causing Dr. Anya to feel the ground vibrations first before hearing the sound carried by the air (1 mark).\n\n**(c) (4 marks)**\n*   When the sound wave reaches Dr. Anya's ear, it travels down the ear canal and causes the eardrum to vibrate (1 mark).\n*   These vibrations are then passed on to the three tiny bones in the middle ear, called the ossicles (hammer, anvil, stirrup), which amplify the vibrations (1 mark).\n*   The amplified vibrations are then transferred to the fluid-filled cochlea in the inner ear (1 mark).\n*   Inside the cochlea, tiny hair cells convert these mechanical vibrations into electrical signals, which are then sent along the auditory nerve to the brain for interpretation (1 mark).",
+      "explanation": "This is an open-ended question. The model answer provides the full breakdown.",
+      "hint": "For part (b), think about how the arrangement of particles in solids, liquids, and gases affects the speed at which vibrations can pass through them. For part (c), recall the sequence of events and key parts of the human ear involved in converting sound energy into a signal the brain can understand, starting from the eardrum.",
+      "generatedAt": "2026-04-30T12:05:57.887715"
+    },
+    {
+      "id": "s-y7-sound_advanced_009",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A doctor is using a stethoscope to listen to a patient's heartbeat. The sound of the heartbeat originates inside the patient's chest and travels through the body tissue to the stethoscope's chest piece. From there, it travels through the air-filled tubes of the stethoscope and eventually reaches the doctor's ears, where it is processed.\n\n**(a) Describe how the sound of the heartbeat travels through the air inside the stethoscope tubes to reach the doctor's ear.** (3 marks)\n\n**(b) The stethoscope tube is accidentally punctured, creating a small hole. Explain why the doctor might find it much harder to hear the heartbeat through the damaged stethoscope.** (4 marks)\n\n**(c) Once the sound reaches the doctor's ear, it causes vibrations in several parts before it is converted into electrical signals for the brain. State the correct order of the following structures as they are affected by the sound waves:**\n    **Eardrum, Cochlea, Auditory Nerve, Ossicles**\n    (2 marks)\n\n**(d) The speed of sound in the air inside the stethoscope tube is 340 m/s. If the length of the stethoscope tube from the chest piece to the doctor's ear is 0.75 meters, calculate the time it takes for the sound of the heartbeat to travel through the tube. Show your formula, substitution, and final answer with appropriate units.** (3 marks)",
+      "options": [],
+      "correctAnswer": {
+        "a": "The sound waves cause the air particles at the start of the tube to vibrate. These vibrating particles then collide with neighbouring particles, transferring the sound energy along the tube. This chain reaction of vibrations continues until the sound reaches the doctor's ear.",
+        "b": "Sound waves need a continuous medium to travel effectively. When there is a hole in the stethoscope tube, the vibrating air particles can escape through this gap. This means that a significant amount of the sound energy is lost from the tube, so less sound energy reaches the doctor's ear. Therefore, the heartbeat sounds much fainter or cannot be heard at all.",
+        "c": "1. Eardrum\n2. Ossicles\n3. Cochlea\n4. Auditory Nerve",
+        "d": "Formula: Speed = Distance / Time\nRearranging for Time: Time = Distance / Speed\nSubstitution: Time = 0.75 m / 340 m/s\nCalculation: Time = 0.0022058...\nFinal Answer: Time = 0.0022 s (or 2.2 x 10^-3 s or 2.2 ms)"
+      },
+      "explanation": "This multi-part question assesses several aspects of sound and hearing. \n\n**(a) Explanation:** This part requires students to describe the particle-based model of sound propagation. Marks are awarded for mentioning particle vibrations, collisions, and the transfer of sound energy through the medium (air).\n\n**(b) Explanation:** This part tests the understanding that sound requires a continuous medium. Students need to explain the cause (the hole) and its effect (sound energy escaping, reduction in sound reaching the ear), linking these with appropriate scientific reasoning.\n\n**(c) Explanation:** This part evaluates knowledge of the basic sequence of how the human ear processes sound. Students must correctly order the initial mechanical structures involved in converting sound waves into electrical signals.\n\n**(d) Explanation:** This part assesses the ability to apply the fundamental physics formula for speed, distance, and time. Students must correctly recall or rearrange the formula (Time = Distance / Speed), substitute the given values with units, perform the calculation accurately, and state the final answer with the correct unit (seconds), demonstrating an understanding of significant figures or scientific notation for very small values.",
+      "hint": "For part (d), remember that speed, distance, and time are related. You will need to rearrange the formula 'Speed = Distance / Time' to solve for time.",
+      "generatedAt": "2026-04-30T12:06:52.387357"
+    },
+    {
+      "id": "s-y7-sound_advanced_010",
+      "topicId": "s-y7-sound",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A diver is exploring underwater near a large ship. She hears the ship's engine thrumming beneath the waves, while a sailor on the ship's deck also hears the engine.\n\na) Describe how the sound from the ship's engine travels through the water to the diver's ear. (3 marks)\n\nb) Explain why the sound of the engine reaches the diver's ear much faster than it would reach a sailor listening to the same engine through the air. (4 marks)\n\nc) State the name of the part of the human ear that is responsible for converting the mechanical vibrations into electrical signals to be sent to the brain. (1 mark)\n\nd) Calculate the distance the sound travels through the water to reach the diver if it takes 0.25 seconds. (Take the average speed of sound in water as 1500 m/s.) (3 marks)",
+      "options": [],
+      "correctAnswer": "a) The ship's engine creates vibrations. These vibrations are transferred to the water particles, causing them to vibrate. These vibrating water particles then collide with neighbouring particles, passing the energy (sound) through the water as a wave until it reaches the diver's ear. (3 marks)\n\nb) Water is a liquid, and its particles are much closer together and more densely packed than the particles in air (a gas). Because the water particles are closer, they can collide and transfer the sound energy to their neighbours more quickly. This faster transfer of energy means that the sound wave travels at a greater speed through water. Therefore, the sound reaches the diver's ear much faster through water than through the less dense air. (4 marks)\n\nc) Cochlea (1 mark)\n\nd) Formula: Distance = Speed × Time\n   Substitution: Distance = 1500 m/s × 0.25 s\n   Answer: Distance = 375 m (3 marks)",
+      "explanation": "The explanation for each part is integrated directly into the model answer for this open-ended question.",
+      "hint": "For part (d), remember the fundamental relationship between speed, distance, and time. Use the formula that connects these three quantities to find the unknown distance.",
+      "generatedAt": "2026-04-30T12:07:12.017814"
+    }
+  ]
+}

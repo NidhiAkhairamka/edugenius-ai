@@ -1,0 +1,493 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y6-evolution_beginner_001",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Living things often have young that look similar to them. What do we call the features or traits that young animals get from their parents?",
+      "options": [
+        "Adaptations",
+        "Habits",
+        "Inherited characteristics",
+        "Behaviours"
+      ],
+      "correctAnswer": "Inherited characteristics",
+      "explanation": "Inherited characteristics are the features or traits (like fur colour or eye colour) that are passed down from parents to their offspring. This is why young animals often look like their parents, but can also have slight differences. Adaptations are features that help an organism survive in its environment, while habits and behaviours are learned actions.",
+      "hint": "Consider the term used when something is passed down from an older generation to a younger one.",
+      "generatedAt": "2026-04-29T20:15:30.909516"
+    },
+    {
+      "id": "s-y6-evolution_beginner_002",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "What is the scientific term for the differences seen between individual living things of the same species, such as different fur colours in puppies from the same parents?",
+      "options": [
+        "Adaptation",
+        "Evolution",
+        "Reproduction",
+        "Variation"
+      ],
+      "correctAnswer": "Variation",
+      "explanation": "The question asks for the scientific term that describes the differences between individuals of the same species. \n\n*   **Adaptation** refers to a feature that helps a living thing survive in its environment.\n*   **Evolution** is the gradual change in living things over many generations.\n*   **Reproduction** is the process by which living things create offspring.\n*   **Variation** refers to the differences or diversity among individuals within a species or population. Since the question specifically mentions 'differences' (like different fur colours), 'variation' is the correct scientific term.",
+      "hint": "Consider the term that describes why individuals in a group are not all exactly the same.",
+      "generatedAt": "2026-04-29T20:15:39.847413"
+    },
+    {
+      "id": "s-y6-evolution_beginner_003",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A puppy often has some features that are similar to its mother and some features that are similar to its father. State where the puppy gets these features from.",
+      "options": [
+        "A. Only its mother",
+        "B. Only its father",
+        "C. Both its mother and its father",
+        "D. From the food it eats"
+      ],
+      "correctAnswer": "C. Both its mother and its father",
+      "explanation": "Offspring (like a puppy) receive characteristics from both their biological mother and their biological father. This is why they often show a mix of features from both parents, rather than being an exact copy of just one parent.",
+      "hint": "Think about where a new living thing gets its initial characteristics.",
+      "generatedAt": "2026-04-29T21:44:26.735673"
+    },
+    {
+      "id": "s-y6-evolution_beginner_004",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Many different animals have features that help them survive in their specific environments. For example, a polar bear has thick white fur that helps it stay warm and blend in with snow. What is the scientific term for these helpful features that allow an organism to live well in its habitat?",
+      "options": [
+        "Mutation",
+        "Inheritance",
+        "Adaptation",
+        "Variation"
+      ],
+      "correctAnswer": "Adaptation",
+      "explanation": "Adaptation refers to a feature or characteristic that helps an organism survive and reproduce successfully in its particular environment. For example, a polar bear's thick white fur is an adaptation that helps it survive in a cold, snowy environment by providing warmth and camouflage.",
+      "hint": "Think about features that help an animal live successfully in its home.",
+      "generatedAt": "2026-04-29T21:44:39.930166"
+    },
+    {
+      "id": "s-y6-evolution_beginner_005",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A hen lays eggs, and they hatch into chicks. All the chicks have two legs and two wings, just like their mother and father chickens. Some chicks might have white feathers, while others have brown feathers.\n\n**State** one feature that all the chicks inherit from their parents.",
+      "options": [
+        "A) The colour of their feathers",
+        "B) The number of legs they have",
+        "C) The type of sounds they make when happy",
+        "D) How quickly they learn to find food"
+      ],
+      "correctAnswer": "B) The number of legs they have",
+      "explanation": "The question asks for a feature that *all* chicks inherit consistently from their parents. The text states, \"All the chicks have two legs and two wings, just like their mother and father chickens.\" This directly shows that the number of legs (and wings) is a physical feature consistently passed down from parents to all offspring. \n\nOption A (feather colour) is described as varying between the chicks (white or brown), so it's not a feature that *all* chicks inherit in the exact same way. Options C and D relate to behaviour or learning, which are not explicitly stated as consistently inherited physical features in the scenario.",
+      "hint": "Look for a characteristic mentioned in the description that is shared by *all* the chicks and their parents.",
+      "generatedAt": "2026-04-29T21:44:58.227383"
+    },
+    {
+      "id": "s-y6-evolution_beginner_006",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A cat gives birth to a litter of kittens. Although they share many features with their parents, not all the kittens look exactly the same. What is the main reason for these slight differences between the kittens?",
+      "options": [
+        "A) The kittens were born at different times.",
+        "B) Each kitten inherits a unique combination of features from its parents.",
+        "C) The mother cat did not feed them all equally.",
+        "D) Some kittens changed their fur colour after birth."
+      ],
+      "correctAnswer": "B) Each kitten inherits a unique combination of features from its parents.",
+      "explanation": "Offspring like kittens inherit features from both their mother and father. Each individual kitten receives a slightly different mix of these inherited features, which means they will not look exactly identical to each other or their parents, even though they come from the same mother and father. This unique combination of inherited features causes the slight differences seen between them.",
+      "hint": "Think about how characteristics are passed down from parents to their young.",
+      "generatedAt": "2026-04-29T21:45:13.477590"
+    },
+    {
+      "id": "s-y6-evolution_beginner_007",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A female dog has brown fur and a small scar on her nose from playing. When she has puppies, which of these features are the puppies most likely to inherit from her?",
+      "options": [
+        "A) Brown fur only",
+        "B) The scar on her nose only",
+        "C) Both brown fur and the scar on her nose",
+        "D) Neither brown fur nor the scar on her nose"
+      ],
+      "correctAnswer": "A) Brown fur only",
+      "explanation": "Features like fur colour are passed down from parents to offspring through genes. This means puppies can inherit their fur colour from their mother.\nHowever, a scar is an injury that happens during an animal's life. It is not part of the genetic information passed down and therefore cannot be inherited by the puppies. So, the puppies are most likely to inherit the brown fur but not the scar.",
+      "hint": "Consider which traits are determined by an animal's genetic makeup from birth versus those that occur due to events during its life.",
+      "generatedAt": "2026-04-29T21:45:24.749752"
+    },
+    {
+      "id": "s-y6-evolution_beginner_008",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which statement best describes how offspring compare to their parents in terms of their features?",
+      "options": [
+        "A) Offspring always have exactly the same features as their parents.",
+        "B) Offspring always have completely different features from their parents.",
+        "C) Offspring have similar features to their parents, but also some differences.",
+        "D) Offspring are always much stronger and faster than their parents."
+      ],
+      "correctAnswer": "C) Offspring have similar features to their parents, but also some differences.",
+      "explanation": "Offspring inherit characteristics from their parents, which means they will share many similar features. However, they are not exact copies and will always have some unique differences. This variation is a fundamental part of how living things change over time.",
+      "hint": "Consider if a child looks exactly like one of their parents, completely unlike them, or a mix of traits from both parents with some unique ones.",
+      "generatedAt": "2026-04-29T21:45:33.216347"
+    },
+    {
+      "id": "s-y6-evolution_beginner_009",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "A dog breeder notices that a mother dog with brown fur has puppies. The father dog has black fur. When the puppies are born, they all have different fur colours, including some brown, some black, and some patchy brown and black.\n\nWhat does this observation tell us about offspring and their parents?",
+      "options": [
+        "Offspring always have the exact same features as one parent.",
+        "Offspring always look completely different from their parents.",
+        "Offspring can have a mix of features from both parents, and some features might be slightly different.",
+        "Offspring only get features from the mother, not the father."
+      ],
+      "correctAnswer": "Offspring can have a mix of features from both parents, and some features might be slightly different.",
+      "explanation": "The observation shows that the puppies (offspring) have fur colours that come from both the mother (brown) and the father (black), and also combinations (patchy brown and black). This demonstrates that offspring inherit features from both parents, leading to a mix, and they are not exact copies of either parent. Therefore, offspring vary from their parents.",
+      "hint": "Think about where the puppies' different fur colours could have come from, considering both the mother and father.",
+      "generatedAt": "2026-04-29T21:45:46.335696"
+    },
+    {
+      "id": "s-y6-evolution_beginner_010",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 6,
+      "text": "Which of these characteristics is passed down from parents to their children through inheritance?",
+      "options": [
+        "A) A small scar on a knee from falling.",
+        "B) The skill of riding a bicycle.",
+        "C) The natural colour of their hair.",
+        "D) Strong muscles gained from playing sports."
+      ],
+      "correctAnswer": "C) The natural colour of their hair.",
+      "explanation": "Inheritance is the process where characteristics are passed from parents to their offspring. Scars, skills learned (like riding a bicycle), and muscle strength gained from exercise are all 'acquired' characteristics; they are developed during a person's life and are not passed on genetically. Hair colour, eye colour, and height are examples of characteristics determined by genes inherited from parents, making them inherited characteristics.",
+      "hint": "Consider which characteristics you are born with and which you develop or gain throughout your life.",
+      "generatedAt": "2026-04-29T21:46:00.445754"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y6-evolution_intermediate_001",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A population of rabbits lives in an area that experiences very cold winters with heavy snowfall. Within this population, some rabbits naturally have thicker fur, while others have thinner fur. \n\nExplain how the thickness of fur could change in this rabbit population over many generations due to the cold environment. (4 marks)",
+      "options": [],
+      "correctAnswer": "Rabbits with thicker fur are better adapted to the cold environment (1 mark) because their fur provides more insulation, helping them to stay warm (1 mark). This means they are more likely to survive the harsh winters (cause) and live long enough to reproduce (effect), passing on the genes for thick fur to their offspring (1 mark). Over many generations, more offspring will inherit thick fur, leading to an increase in the proportion of thick-furred rabbits in the population (1 mark).",
+      "explanation": "This is an explanation question, requiring you to describe a process with clear cause and effect. \n\nStep 1: Identify the advantageous variation. In a cold environment, thick fur provides better insulation. This is the 'cause' of increased survival.\n\nStep 2: Link this advantage to survival and reproduction. Rabbits with thick fur survive better, so they are more likely to reproduce and pass this trait to their young. This is the 'effect' on individual rabbits.\n\nStep 3: Describe the long-term impact on the population. Over many generations, as advantageous traits are passed on more frequently, the characteristic (thick fur) becomes more common in the entire population. This shows the 'change over time'.\n\nEnsure you use scientific terms like 'adapted', 'insulation', 'survive', 'reproduce', 'offspring', and 'generations'.",
+      "hint": "Consider which fur type offers a survival advantage in a cold environment. Then think about what happens to individuals that survive better and how this affects the next generation.",
+      "generatedAt": "2026-04-29T21:46:13.614077"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_002",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A group of tropical fish lives in a shallow coral reef. Some of these fish have bright, colourful scales, while others have dull, camouflaged scales. A new predator, which hunts by sight in clear water, arrives in the reef.\n\nDescribe what is most likely to happen to the colour of the fish population over many generations, and explain why.",
+      "options": [
+        "A. The fish population will become more brightly coloured, because the bright colours attract more mates, making them reproduce more successfully.",
+        "B. The fish population will become more dull and camouflaged, because these fish are better at hiding from the predator, allowing them to survive and have more offspring.",
+        "C. The fish population will stay the same colour, because all fish will learn to hide better from the new predator, regardless of their scale colour.",
+        "D. All the fish will develop even brighter colours to scare away the new predator, as a quick way to adapt to the new threat."
+      ],
+      "correctAnswer": "A. The fish population will become more brightly coloured, because the bright colours attract more mates, making them reproduce more successfully.",
+      "explanation": "1. The problem states that a new predator hunts by sight in clear water. \n2. Fish with dull, camouflaged scales are better at hiding from predators that hunt by sight compared to fish with bright, colourful scales.\n3. Fish that are better at hiding are more likely to avoid being eaten, allowing them to survive longer.\n4. Fish that survive longer are more likely to reproduce and pass on their genes for dull, camouflaged scales to their offspring.\n5. Over many generations, this advantageous trait (dull scales) will become more common in the fish population, leading to a shift towards more dull and camouflaged fish.",
+      "hint": "Consider which scale colour provides an advantage in avoiding a predator that hunts by sight, and how this advantage affects survival and reproduction over time.",
+      "generatedAt": "2026-04-29T21:46:26.233764"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_003",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Imagine a type of wild flower called a 'Sunpetal' that grows in a large field. Some Sunpetal plants have very bright yellow flowers, and others have pale yellow flowers. These flower colours are passed on from parent plants to their offspring.\n\nRecently, a new type of bee arrived in the field. These new bees are much better at finding and visiting flowers that are very bright yellow.\n\nExplain how the arrival of these new bees could lead to a change in the number of bright yellow Sunpetal plants in the field compared to pale yellow Sunpetal plants over many years.\n(4 marks)",
+      "options": [],
+      "correctAnswer": "1. Sunpetal plants show variation in their flower colour; some are bright yellow, and some are pale yellow.\n2. The new bees are more attracted to the bright yellow Sunpetals, so they will visit these flowers more often than the pale yellow ones.\n3. When bees visit flowers, they help with pollination, which leads to the production of seeds and new offspring. Because bright yellow flowers are visited more, they will produce more seeds and therefore more offspring.\n4. These offspring will inherit the bright yellow colour from their parents. Over many years and generations, more bright yellow Sunpetals will grow in the field, increasing their number compared to the pale yellow ones because they are better at making new plants.",
+      "explanation": "This question assesses the student's ability to explain a basic concept of natural selection and variation over time. The student must:\n1.  Identify the variation in the population (bright vs. pale yellow flowers).\n2.  Recognise the specific advantage of one variation in the new environment (bright yellow flowers attract the new bees more).\n3.  Link this advantage to increased reproductive success (more pollination leads to more seeds/offspring).\n4.  Describe how this increased reproductive success leads to a change in the proportion or number of that specific trait (bright yellow flowers) in the population over multiple generations.",
+      "hint": "Think about which colour of flower is more likely to be visited by the new bees, and what happens when a flower is visited by bees that helps it make more new plants.",
+      "generatedAt": "2026-04-29T21:46:59.689874"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_004",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "In a vast open plain, a species of shrub produces offspring. Some offspring grow with a strong, flexible stem and stay relatively short, while others grow with a taller, more rigid stem. Over many generations, this plain experiences increasingly strong winds. \n\nConsidering the variation in stem structure and height, and the environmental change, which of the following statements most accurately describes the likely long-term outcome for this shrub species in the increasingly windy plain?",
+      "options": [
+        "A) The shrubs will all become taller to reach higher sunlight, regardless of wind.",
+        "B) The population of shrubs will likely show an increase in the proportion of individuals with strong, flexible, shorter stems over many generations.",
+        "C) The shrubs will not change in height or stem structure because wind only affects seed dispersal.",
+        "D) A new type of shrub will suddenly appear that has very broad leaves to resist the wind."
+      ],
+      "correctAnswer": "B) The population of shrubs will likely show an increase in the proportion of individuals with strong, flexible, shorter stems over many generations.",
+      "explanation": "This is a two-step problem:\n1.  **Identify beneficial variation:** In an environment with increasingly strong winds, shrubs with strong, flexible, and shorter stems are better adapted to survive. Taller, more rigid stems would be more prone to breaking or snapping due to wind stress, making these individuals less likely to survive.\n2.  **Relate to long-term change and inheritance:** Individuals with the beneficial traits (strong, flexible, shorter stems) are more likely to survive, reproduce, and pass these advantageous traits to their offspring. Over many generations, as these individuals reproduce more successfully, the proportion of the population exhibiting these traits will increase, leading to a long-term change in the dominant characteristics of the shrub species.",
+      "hint": "Think about which plant features would offer the best chance of survival and successful reproduction when the environment becomes very windy. Remember that offspring often inherit traits from their parents, and these traits can become more common over many generations if they help survival.",
+      "generatedAt": "2026-04-29T21:47:23.861905"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_005",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A scientist is investigating a new type of fast-growing bean plant in a greenhouse. In the first generation of plants, the average stem length was 12 cm. The scientist then carefully collected seeds *only* from the plants that had the longest stems to grow the second generation. The plants in this second generation had an average stem length of 15 cm.\n\nWhich statement *best explains* why the average stem length increased from the first generation to the second?",
+      "options": [
+        "A. The second generation of plants were simply given more fertiliser and water, causing them to grow longer.",
+        "B. The plants somehow learned to grow longer stems over time to reach more sunlight, making the average length increase.",
+        "C. The scientist picked the plants with long stems to breed, which then directly made all the next generation grow longer stems.",
+        "D. The scientist selected plants with longer stems to produce seeds. This meant the feature of longer stems was more likely to be inherited by the offspring, increasing the average stem length of the next generation."
+      ],
+      "correctAnswer": "A. The second generation of plants were simply given more fertiliser and water, causing them to grow longer.",
+      "explanation": "To answer this, first identify the observed change: the average stem length of the bean plants increased from 12 cm in the first generation to 15 cm in the second. Next, consider the scientist's specific action: they collected seeds *only* from the plants that had the longest stems from the first generation.\n\nOption A is incorrect because the scenario does not mention any changes to external factors like fertiliser or water. Without this information, we cannot assume they caused the change.\n\nOption B is incorrect because plants do not 'learn' to grow in response to needs like sunlight in a way that directly changes their inherited traits across generations. This describes an individual's response, not a population-level change through inheritance.\n\nOption C is partially correct in identifying the scientist's action (picking long-stemmed plants) but oversimplifies the outcome. It claims this 'directly made *all* the next generation grow longer stems', which is an overstatement. Inheritance results in a *likelihood* and an *average* increase, not a guarantee that *every single* offspring will be longer.\n\nOption D is the best explanation. It correctly identifies the cause: the scientist's 'selection' of plants with longer stems for breeding. It then clearly links this cause to the effect: the 'feature' (or trait) of longer stems became 'more likely to be inherited' by the offspring. This increased inheritance of the longer stem trait across the population naturally leads to an 'increasing the average stem length' of the subsequent generation.",
+      "hint": "Consider how choosing specific parents with a desired characteristic might affect the traits seen in their children (offspring).",
+      "generatedAt": "2026-04-29T21:47:45.761033"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_006",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A population of 60 unique insects, called 'Leaf-Skippers', lives on green plants. Initially, 20 of them have plain green bodies, allowing them to blend in well with the leaves. The remaining 40 Leaf-Skippers have small yellow dots on their green bodies, making them slightly easier for predators to spot. After a month, a new bird predator has been observed in the garden. Scientists re-count the Leaf-Skippers and find 16 plain green ones and 12 dotted ones remain.\n\nWhich statement correctly identifies the percentage of plain green Leaf-Skippers that survived and explains its likely impact on the future population?",
+      "options": [
+        "A. 80% of plain green Leaf-Skippers survived. This suggests the proportion of dotted Leaf-Skippers will increase because they are more colourful.",
+        "B. 20% of plain green Leaf-Skippers survived. This suggests plain green Leaf-Skippers are better at hiding, so their numbers will increase.",
+        "C. 80% of plain green Leaf-Skippers survived. This suggests plain green Leaf-Skippers are better at hiding, so they are more likely to reproduce and pass on their plain green bodies, leading to a higher proportion of plain green Leaf-Skippers in the future.",
+        "D. 30% of plain green Leaf-Skippers survived. This suggests both types of Leaf-Skippers will eventually disappear due to the new predator."
+      ],
+      "correctAnswer": "A. 80% of plain green Leaf-Skippers survived. This suggests the proportion of dotted Leaf-Skippers will increase because they are more colourful.",
+      "explanation": "1.  **Calculate the percentage of plain green Leaf-Skippers that survived:**\n    *   Initial number of plain green Leaf-Skippers = 20\n    *   Number of plain green Leaf-Skippers remaining = 16\n    *   Percentage survived = (Number remaining / Initial number) × 100\n    *   Percentage survived = (16 / 20) × 100 = 0.8 × 100 = 80%\n\n2.  **Explain the likely impact on the future population:**\n    *   To understand the impact, we can also consider the survival of the dotted Leaf-Skippers:\n        *   Initial number of dotted Leaf-Skippers = 40\n        *   Number of dotted Leaf-Skippers remaining = 12\n        *   Percentage survived = (12 / 40) × 100 = 0.3 × 100 = 30%\n    *   The plain green Leaf-Skippers have a much higher survival rate (80%) compared to the dotted Leaf-Skippers (30%). This means the plain green Leaf-Skippers are better at avoiding the new predator because their plain green bodies help them blend in with the leaves.\n    *   Because more plain green Leaf-Skippers survive, they are more likely to reproduce (have offspring) and pass on their 'plain green body' characteristic to their offspring. Over time, this will lead to a higher proportion (more) of plain green Leaf-Skippers in the garden population.\n\n    Therefore, option C correctly calculates the survival percentage and provides an accurate explanation of the likely impact based on the survival advantage.",
+      "hint": "First, calculate the percentage of plain green Leaf-Skippers that survived by dividing the number that remained by the initial number, then multiply by 100. Then, think about how having a higher survival rate helps a type of animal to become more common in the future.",
+      "generatedAt": "2026-04-29T21:48:08.032400"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_007",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "Mr. and Mrs. Davies both have brown hair. Their first child, Sarah, has brown hair. Their second child, Tom, has blonde hair.\n\n**Which of the following statements best explains why Sarah and Tom have different hair colours, even though both their parents have brown hair?**",
+      "options": [
+        "Sarah and Tom have different hair colours because children always inherit different traits from their parents, and blonde hair is a new trait that appeared by chance.",
+        "Hair colour is not inherited, so Sarah and Tom's hair colour depends only on what they eat and how much sunlight they get, which can make them different.",
+        "Sarah and Tom inherit a mix of traits from both their parents, and sometimes traits like blonde hair can be passed on even if they aren't visible in the parents themselves.",
+        "Sarah's hair changed because she is older, and Tom's hair will also change to brown when he gets older, so they are not really different."
+      ],
+      "correctAnswer": "Sarah and Tom inherit a mix of traits from both their parents, and sometimes traits like blonde hair can be passed on even if they aren't visible in the parents themselves.",
+      "explanation": "The correct answer is that Sarah and Tom inherit a mix of traits from both their parents (Step 1: understanding inheritance). Even if both parents visibly show a particular trait (like brown hair), they can still carry genetic information for other traits (like blonde hair). These 'hidden' traits might not be seen in the parents themselves but can be passed on to their children (Step 2: understanding variation and 'hidden' traits). This explains why offspring from the same parents can have different characteristics and why traits not seen in the parents can sometimes appear in the children. Options A and B are incorrect because inheritance is not always completely random, and hair colour is indeed an inherited trait. Option D is incorrect as it describes changes due to age rather than initial inherited differences.",
+      "hint": "Think about where children get their characteristics from (inheritance) and why siblings often look similar but not identical (variation). Consider if traits can be 'hidden' in parents.",
+      "generatedAt": "2026-04-29T21:48:38.533649"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_008",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A population of squirrels lives in a forest. Some squirrels have inherited very long, bushy tails from their parents, while others have inherited shorter, less bushy tails. These differences in tail length and bushiness are passed down to their offspring. One year, the region experiences much colder temperatures and stronger winds than usual, and these conditions are predicted to continue for many years. Squirrels often use their tails to wrap around themselves for extra warmth. \n\nWhich of the following is the most likely change you would observe in the *proportion* of squirrels with different tail types over many generations if these colder, windier conditions persist?",
+      "options": [
+        "A) All squirrels will instantly develop very long, bushy tails within a single generation.",
+        "B) The number of squirrels with shorter, less bushy tails will gradually increase because they can move faster.",
+        "C) Over many generations, the proportion of squirrels born with longer, bushier tails will gradually increase.",
+        "D) The tail characteristics of the squirrels will remain exactly the same as they will learn to find warmer places to live."
+      ],
+      "correctAnswer": "C) Over many generations, the proportion of squirrels born with longer, bushier tails will gradually increase.",
+      "explanation": "1. **Identify Variation:** The squirrel population shows variation in inherited traits, specifically tail length and bushiness. Some have long, bushy tails, others have short, less bushy tails.\n2. **Identify Environmental Pressure:** The environment becomes much colder and windier, and these conditions are expected to continue.\n3. **Link Trait to Survival/Advantage:** Longer, bushier tails provide more warmth, which is a significant advantage for survival in a cold, windy environment. Squirrels with this trait are more likely to survive the harsh winters.\n4. **Relate to Reproduction:** Squirrels that survive are more likely to reproduce and pass on their advantageous trait (long, bushy tails) to their offspring.\n5. **Predict Population Change:** Over *many generations*, as more squirrels with the beneficial long, bushy tails survive and reproduce, the proportion of offspring born with this trait will gradually increase in the population. This demonstrates how populations change over time in response to their environment.",
+      "hint": "Consider which tail characteristic would help a squirrel survive and reproduce more successfully in very cold, windy weather, and how that would affect future generations.",
+      "generatedAt": "2026-04-29T21:49:11.342295"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_009",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A species of fish called 'River-swimmers' lives in a fast-flowing river. Scientists have observed that some River-swimmers have slightly larger fins, which helps them swim against the strong current more effectively. Other River-swimmers have slightly smaller fins.\n\nImagine a future where the river current becomes even stronger due to changes in the environment.\n\nWhich statement best explains what is most likely to happen to the River-swimmer population over many generations?",
+      "options": [
+        "A) River-swimmers with smaller fins will become more common because they need less energy to move.",
+        "B) The average fin size of River-swimmers will increase because larger fins help them survive in stronger currents.",
+        "C) All River-swimmers will develop new traits, like stronger tails, because fins are no longer useful.",
+        "D) The River-swimmer population will not change, as fin size is not important for survival."
+      ],
+      "correctAnswer": "B) The average fin size of River-swimmers will increase because larger fins help them survive in stronger currents.",
+      "explanation": "1. **Identify the variation:** River-swimmers have different fin sizes; some larger, some smaller.\n2. **Identify the environmental change:** The river current becomes stronger.\n3. **Connect trait to survival:** The question states that larger fins help River-swimmers swim against strong currents more effectively.\n4. **Deduce the outcome:** In a stronger current, River-swimmers with larger fins will be better able to survive and find food, making them more likely to reproduce. They will pass on their 'larger fin' trait to their offspring. Over many generations, the proportion of River-swimmers with larger fins will increase, leading to an overall increase in the average fin size of the population.",
+      "hint": "Consider which fin size would be most beneficial for survival when the river current becomes much stronger.",
+      "generatedAt": "2026-04-29T21:49:30.371918"
+    },
+    {
+      "id": "s-y6-evolution_intermediate_010",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 6,
+      "text": "A type of bird, the 'Nutcracker Finch', lives on an island. There are two main food sources available:\n\n*   **Food Source A:** Hard-shelled nuts that require a lot of force to open.\n*   **Food Source B:** Small insects hidden in narrow cracks of tree bark.\n\nConsider a Nutcracker Finch with a strong, thick beak. Which food source is this bird best adapted to eat, and why?",
+      "options": [
+        "A. Food Source A (hard-shelled nuts) because its strong, thick beak can crack them open.",
+        "B. Food Source A (hard-shelled nuts) because its thin, pointed beak can pick them up easily.",
+        "C. Food Source B (small insects) because its strong, thick beak can easily reach into narrow cracks.",
+        "D. Food Source B (small insects) because its thin, pointed beak can dig them out from the bark."
+      ],
+      "correctAnswer": "A. Food Source A (hard-shelled nuts) because its strong, thick beak can crack them open.",
+      "explanation": "The question describes a Nutcracker Finch with a strong, thick beak. Food Source A consists of hard-shelled nuts that require a lot of force to open. A strong, thick beak is perfectly suited for applying the necessary force to crack these nuts, making option A the correct choice. Options B, C, and D are incorrect because they either misidentify the suited food source for a strong, thick beak, or incorrectly describe the function of a strong, thick beak for the given food source, or attribute characteristics of a different beak type (thin, pointed) to the described bird.",
+      "hint": "Think about what kind of everyday tool would be best for breaking something hard, versus what tool would be best for picking up tiny things or reaching into small spaces.",
+      "generatedAt": "2026-04-29T21:49:48.895143"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y6-evolution_advanced_001",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "River Snails live on the riverbed. For many years, the riverbed was covered in light-coloured rocks. Most River Snails had light-coloured shells, which helped them blend in and hide from birds that eat them. However, some snails were born with slightly darker shells, and some with slightly lighter shells than their parents. \n\nOver a very long time, many new, dark rocks rolled into the river, covering the old light rocks. Now, the riverbed is mostly dark. \n\n1.  **Describe** how the River Snails' ability to hide might change immediately after the new dark rocks appeared, for both light-shelled and dark-shelled snails. (3 marks)\n2.  **Explain** how, over many generations, the population of River Snails might change so that most snails have dark shells. You must explain why some snails are more likely to survive and have offspring in the new environment. (4 marks)\n3.  **State** the scientific term for how living things change over time to suit their environment. (1 mark)",
+      "options": [],
+      "correctAnswer": "1.  Initially, the light-shelled snails were well hidden on light rocks, but after the dark rocks appeared, they would be much easier for birds to spot and eat.\n    The dark-shelled snails, who were previously easier to spot on light rocks, would now be much better camouflaged and hidden against the new dark riverbed.\n\n2.  After the riverbed became dark, the dark-shelled snails were better hidden from predators (like birds) **because** their dark shells blended in with the new dark rocks.\n    **So**, these better-hidden dark-shelled snails were more likely to survive for longer and avoid being eaten.\n    **Because** they survived longer, they had more time to find mates and have more baby snails (offspring).\n    These baby snails would often inherit the dark shell colour from their parents.\n    **Therefore**, over many generations, more and more dark-shelled snails would be born and survive, making the population change to mostly dark-shelled snails.\n\n3.  Adaptation",
+      "explanation": "This is an open-ended question, and the 'correctAnswer' provides the full model answer with the step-by-step reasoning required, directly addressing each part of the question. For part 1, it describes the contrasting effects of the environmental change on different shell colours. For part 2, it provides a cause-and-effect explanation for population change over generations, linking camouflage, survival, reproduction, and inheritance. For part 3, it states the appropriate scientific term.",
+      "hint": "For question 2, think about which snails are most likely to survive and then have baby snails in the changed environment. Remember to link cause (being hidden) to effect (more babies).",
+      "generatedAt": "2026-04-29T21:50:07.240764"
+    },
+    {
+      "id": "s-y6-evolution_advanced_002",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "The 'Bark-Muncher' beetle lives on tree trunks and eats small pieces of bark. Some Bark-Muncher beetles have hard, strong mandibles (mouthparts) that can easily chew tough bark. Other beetles have softer mandibles that struggle with tough bark but are good at scraping soft, decaying bark. Young beetles are hatched from eggs and grow into adult beetles, inheriting characteristics from their parents, but they also show some variation in their mandibles. Over the past 50 years, the type of trees in the forest has changed, leading to an increase in trees with very tough bark. Scientists observed that only 20% of the Bark-Muncher beetles 50 years ago had hard mandibles, but now 75% of the beetles have hard mandibles.\n\nWhich of the following statements *best explains* why the percentage of Bark-Muncher beetles with hard mandibles has increased from 20% to 75% over 50 years?",
+      "options": [
+        "A. The beetles with soft mandibles decided to grow stronger mandibles so they could eat the new tough bark, and then passed this strength to their young.",
+        "B. Beetles with hard mandibles were better able to eat the tough bark and survive to have more young, who then inherited the characteristic of hard mandibles.",
+        "C. The tough bark made the mandibles of all young beetles stronger as they grew up, regardless of what their parents' mandibles were like.",
+        "D. The increase in tough bark meant there was more food available for all Bark-Muncher beetles, causing their population to grow larger and more beetles to be born."
+      ],
+      "correctAnswer": "B. Beetles with hard mandibles were better able to eat the tough bark and survive to have more young, who then inherited the characteristic of hard mandibles.",
+      "explanation": "Option B is the best explanation. The tough bark environment gave beetles with hard mandibles an advantage: they could eat the food and survive. Because they survived, they were able to reproduce and have more offspring. These offspring inherited the hard mandible characteristic from their parents, causing the number of hard-mandibled beetles in the population to increase over generations. Options A and C describe ideas where characteristics change during an individual's lifetime due to effort or environment and are then passed on, which is not how inheritance works (Lamarckian idea). Option D does not explain *why the proportion* of hard-mandibled beetles changed, only suggesting a general population increase.",
+      "hint": "Think about which type of beetle would be most successful at finding food in the changed forest and what happens to the characteristics of successful parents when they have offspring.",
+      "generatedAt": "2026-04-29T21:50:23.707094"
+    },
+    {
+      "id": "s-y6-evolution_advanced_003",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "The 'Glimmerwing Butterfly' lives in a forest environment. There are two main types of Glimmerwing Butterfly in this forest: some have wings with bright, colourful patterns, while others have wings with duller, darker patterns. These wing patterns are passed on from parent butterflies to their offspring.\n\nA new species of bird, the 'Swiftbeak Bird', moves into the forest. Swiftbeak Birds are predators that hunt by sight, looking for movement and bright colours.\n\na) State one difference between the two types of Glimmerwing Butterfly mentioned. (1 mark)\n\nb) Describe how the arrival of the Swiftbeak Bird predator might immediately affect the Glimmerwing Butterflies with bright, colourful patterns. (2 marks)\n\nc) Over many generations, explain how the population of Glimmerwing Butterflies in the forest is likely to change after the Swiftbeak Bird arrives. You must use the words 'survive', 'offspring', and 'patterns' in your explanation. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Wing patterns / colours.\n\nb) The Glimmerwing Butterflies with bright, colourful patterns would be easier for the Swiftbeak Birds to see (1 mark). This means they are more likely to be caught and eaten by the predators (1 mark).\n\nc) The Glimmerwing Butterflies with duller wing patterns are harder for the Swiftbeak Birds to see, so they are more likely to **survive** and live long enough to reproduce (1 mark). These surviving butterflies will then produce **offspring** (1 mark). Their offspring will inherit the duller wing **patterns** from their parents (1 mark). Over many generations, this means there will be an increasing number of butterflies with dull patterns and a decreasing number with bright patterns in the forest (1 mark).",
+      "explanation": "For part (a), the correct answer identifies the visible difference described in the text. For part (b), the answer describes the direct impact of the predator's hunting method on the brightly patterned butterflies, leading to increased predation. For part (c), the model answer correctly links the survival advantage of duller patterns to reproduction, the inheritance of these patterns by offspring, and the subsequent shift in the overall population's characteristics over many generations, fulfilling the requirement to use the specified keywords and demonstrate cause-and-effect reasoning.",
+      "hint": "For part (c), consider which type of butterfly is less likely to be seen and caught by the Swiftbeak Bird. How would this affect their chances of having babies, and what traits would those babies inherit? Think about what happens over a very long time, through many generations of butterflies.",
+      "generatedAt": "2026-04-29T21:50:42.014581"
+    },
+    {
+      "id": "s-y6-evolution_advanced_004",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "On the planet Xylos, live creatures called 'Gliders'. Gliders eat a specific type of soft 'Sky-moss' that grows on tall, thorny trees. Gliders are born with either 'short wings' (average length 15 cm) or 'long wings' (average length 25 cm). Offspring are usually born with wings similar to their parents, but sometimes a Glider is born with wings slightly different from both parents.\n\nScientists observe that Gliders with longer wings can fly higher and move between the tallest, most thorny trees more easily, reaching more Sky-moss. Gliders with shorter wings struggle to reach the highest moss patches.\n\nOver many generations, the number of Gliders with long wings has significantly increased, while the number of Gliders with short wings has decreased.\n\n(a) State the initial variation described in the Glider population. (1 mark)\n\n(b) Describe how Gliders pass on their wing length to their offspring, referring to the information provided. (2 marks)\n\n(c) Explain, using the information above, why the number of long-winged Gliders has increased over many generations. (3 marks)\n\n(d) A new type of 'Ground-moss' starts growing on the low branches of the trees. This Ground-moss is very nutritious but requires Gliders to land and forage for longer periods on the lower, thicker branches, where short wings make it easier to manoeuvre without getting caught in dense foliage. Predict what might happen to the Glider population's average wing length over many more generations if Ground-moss becomes the main food source, and explain your prediction. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) The initial variation described in the Glider population is their wing length (short wings or long wings).\n\n(b) Gliders usually pass on their wing length so that their offspring have wings that are similar to their parents. However, the information also states that sometimes an offspring can be born with wings that are slightly different from both parents.\n\n(c) The number of long-winged Gliders has increased over many generations because Gliders with longer wings have an advantage in reaching the Sky-moss. They can fly higher and move between thorny trees more easily, which allows them to get more food. Because they can access more food, they are more likely to survive and reproduce, passing on their long wings to their offspring. This means more long-winged Gliders are born in each generation, causing their numbers to increase.\n\n(d) Prediction: The average wing length of the Glider population would likely decrease over many generations.\n\nExplanation: If Ground-moss becomes the main food source, short-winged Gliders would now have the advantage. Their shorter wings make it easier for them to land and manoeuvre on the lower, thicker branches without getting caught in the dense foliage, allowing them to access this new food source more effectively. This means short-winged Gliders would be more successful at getting food, so they would be more likely to survive and reproduce. They would pass on their short wings to their offspring, leading to an increase in the number of short-winged Gliders and a decrease in the average wing length of the population over time.",
+      "explanation": "This question assesses a student's ability to identify variation, describe basic inheritance, and apply principles of natural selection (or environmental selection) to explain changes in a population over time, including predicting outcomes in a novel scenario. \n\n(a) Requires identifying the observable difference.\n(b) Requires extracting specific details about inheritance from the provided text.\n(c) Demands a cause-and-effect explanation linking the trait (long wings), its advantage (more food), its consequence (survival/reproduction), and the long-term effect on the population (increased numbers). This shows understanding of how advantageous traits become more common.\n(d) This is the most advanced part, requiring the student to apply the same evolutionary principles to a completely new environmental pressure. They must identify the new advantageous trait (short wings for ground-moss), explain *why* it's an advantage, and predict the population change based on this new selection pressure. This demonstrates multi-step thinking and application of concepts in an unfamiliar context.",
+      "hint": "For parts (c) and (d), consider which wing length provides an advantage for finding food in the given environment. Think about how having an advantage helps a creature survive and have offspring, and what effect this has on the next generation.",
+      "generatedAt": "2026-04-29T21:51:22.493034"
+    },
+    {
+      "id": "s-y6-evolution_advanced_005",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A group of nature observers has been studying a type of wildflower called 'Meadow Sprinter' in a large open field for 80 years.\n\n*   When they first started observing, most Meadow Sprinters had very tall stems (around 60 cm) and bright red flowers.\n*   Over the 80 years, the field became much windier, and the amount of sunlight reaching the plants became more intense.\n*   After 80 years, the observers noticed that most Meadow Sprinters now had shorter stems (around 25 cm) and pale orange flowers. They also recorded that the plants with pale orange flowers produced more seeds in the windier, sunnier conditions compared to plants with bright red flowers.\n\n(a) State two observations that show the Meadow Sprinter plants changed over 80 years. (2 marks)\n\n(b) Explain why the Meadow Sprinter plants with shorter stems and pale orange flowers became more common in the field over 80 years. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) \n1. The average stem height decreased from around 60 cm to 25 cm. \n2. The flower colour changed from bright red to pale orange.\n\n(b) \nPlants with shorter stems became more common **because** shorter stems are less likely to be damaged or broken by the increasingly windy conditions. This meant these plants could survive better. Plants with pale orange flowers became more common **because** pale colours might help reflect the more intense sunlight, or require less energy to produce pigment, which allowed these plants to use their energy to produce more seeds in the sunnier conditions. \n\n**So**, because these Meadow Sprinter plants with shorter stems and pale orange flowers were better suited to the new, windier and sunnier environment, they were more likely to survive and reproduce. This meant they passed on these advantageous traits to more offspring. Over 80 years, these specific traits became more common in the Meadow Sprinter population.",
+      "explanation": "Part (a) assesses the student's ability to extract specific details about changes from the provided text. Two distinct changes are required for full marks.\n\nPart (b) assesses the student's understanding of how environmental changes can lead to changes in a population over time. A full explanation requires the following logical steps:\n1.  Identify how the new traits (shorter stems, pale orange flowers) provide an advantage in the changed environment (windy, intense sunlight).\n2.  Link this advantage to increased survival (less damage, better energy use).\n3.  Link increased survival to increased reproduction (producing more seeds/offspring).\n4.  Conclude that increased reproduction of individuals with these traits leads to those traits becoming more common in the population over generations (over 80 years). The use of 'because' and 'so' demonstrates understanding of cause and effect.",
+      "hint": "For part (b), remember to link the specific changes in the plants' features (shorter stems, pale orange flowers) directly to the changes in the environment (windier, more intense sunlight) and how this affected their ability to survive and produce offspring.",
+      "generatedAt": "2026-04-29T21:51:44.584845"
+    },
+    {
+      "id": "s-y6-evolution_advanced_006",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "The 'Glow-Petal' plant lives in a rocky habitat. Glow-Petals can have flowers with either 3 petals or 5 petals. The number of petals is an inherited feature passed from parent plants to their offspring. Recently, a new type of insect that eats Glow-Petal flowers, called a 'Petal-Muncher', arrived in the habitat. Petal-Munchers find it much easier to land on and eat flowers from plants with 5 petals compared to plants with 3 petals, which are harder for them to access.\n\na) State one inherited feature of the Glow-Petal plant mentioned in the passage. (1 mark)\n\nb) Describe how offspring Glow-Petal plants might show variation compared to their parents regarding their petals. (2 marks)\n\nc) Explain why Glow-Petal plants with 3-petal flowers might have a better chance of surviving and producing seeds in the presence of Petal-Munchers. (3 marks)\n\nd) A scientist observed 60 Glow-Petal plants in the habitat. 45 of these plants had 3-petal flowers. Calculate the percentage of plants that had 3-petal flowers. Show your working and include units. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) Number of petals / Petal number (1 mark)\n\nb) Offspring Glow-Petal plants might have a different number of petals (e.g., 3 petals or 5 petals) than their parent plants. (1 mark) This shows variation in the inherited characteristic from parents. (1 mark)\n\nc) Glow-Petal plants with 3-petal flowers are harder for the Petal-Munchers to land on and eat (1 mark), which means they are less likely to be damaged or eaten by the insects (1 mark). So, these plants have a better chance of surviving and successfully producing more seeds (1 mark).\n\nd) Formula: (Number of 3-petal plants / Total number of plants) × 100% (1 mark)\n   Substitution: (45 / 60) × 100% (1 mark)\n   Calculation: 0.75 × 100% = 75%\n   Answer: 75% (1 mark, including unit)",
+      "explanation": "a) The passage explicitly states that 'The number of petals is an inherited feature'.\n\nb) Variation means differences. The passage states that plants can have either 3 or 5 petals and this is inherited. So, an offspring might receive a different number of petals than its parent, demonstrating variation.\n\nc) The explanation requires cause and effect. The cause is that 3-petal flowers are harder to access for the insects. The immediate effect is that these plants are eaten less. The long-term effect (and evolutionary advantage) is increased survival and ability to reproduce (produce seeds).\n\nd) To calculate a percentage, you divide the 'part' (number of 3-petal plants) by the 'whole' (total plants) and multiply by 100. So, (45 ÷ 60) × 100 = 0.75 × 100 = 75%. The unit is percentage (%).",
+      "hint": "For part (d), remember that a percentage is found by dividing the specific number of items by the total number of items, then multiplying by 100.",
+      "generatedAt": "2026-04-29T21:52:22.645765"
+    },
+    {
+      "id": "s-y6-evolution_advanced_007",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "The 'River Snoutfish' is a unique fish found in the meandering rivers of the Willowbrook Wetlands. These fish primarily eat tiny plant fragments that float on the water surface. River Snoutfish can have snouts of different lengths, ranging from short to long, and their bodies can be either slender or broad. They reproduce once a year, laying eggs that hatch into young fish.\n\n(a) Describe two ways that young Snoutfish might differ from their parents, even if both parents have long snouts and slender bodies. [2 marks]\n\n(b) Imagine that a new, very nutritious type of aquatic insect starts living deep inside narrow cracks in the riverbed rocks. These insects are a much better food source than the plant fragments Snoutfish usually eat. Explain how, over many generations, the River Snoutfish population might change so that *more* Snoutfish have longer snouts. You must explain how this helps them survive and have offspring. [4 marks]\n\n(c) After many generations, most River Snoutfish now have long snouts. However, a new large predator fish, the 'River Ripper', moves into the Willowbrook Wetlands. The River Ripper mainly hunts Snoutfish with very long snouts, as they are slower to escape when feeding from crevices. Explain what might happen to the *average snout length* of the River Snoutfish population over the *next* many generations, now that the River Ripper predator is present. Your answer should consider both the new predator and the food source. [4 marks]",
+      "options": [],
+      "correctAnswer": "(a) (i) Offspring might have a slightly different snout length (e.g., slightly shorter or longer) compared to their parents. (1 mark)\n(ii) Offspring might have a different body shape (e.g., broader even if parents are slender) compared to their parents. (1 mark)\n\n(b) Snoutfish with longer snouts will be better able to reach the new aquatic insects deep in the riverbed cracks. (1 mark - cause/advantage)\nThis means they will get more food, making them stronger and more likely to survive. (1 mark - link to survival)\nThese surviving Snoutfish are then more likely to reproduce and have offspring. (1 mark - link to reproduction)\nSince offspring inherit traits from their parents, more of the next generation will also have longer snouts, and this will continue over many generations, making long snouts more common in the population. (1 mark - link to inheritance and population change over time).\n\n(c) Snoutfish with very long snouts are now at a disadvantage because they are easier for the new predator, the River Ripper, to catch while feeding. (1 mark - new cause/disadvantage)\nThis means fewer very long-snouted Snoutfish will survive to reproduce compared to those with slightly shorter or medium snouts. (1 mark - link to survival)\nAt the same time, Snoutfish still need reasonably long snouts to access the nutritious insect food source. (1 mark - counter-pressure/continued advantage of some length)\nTherefore, over many generations, the population's average snout length might become *medium* or slightly shorter than the maximum, as Snoutfish with *moderately* long snouts (long enough for food, but not so long they are easily caught by the predator) will be the most successful at surviving and reproducing. (1 mark - overall effect, combination of factors).",
+      "explanation": "The question is designed to assess a Year 6 student's understanding of variation within a species, how environmental changes can favour certain traits, and how populations can change over many generations. Part (a) tests the basic concept of offspring variation. Part (b) introduces a selective pressure (new food source) and requires an explanation linking a trait (long snout) to survival, reproduction, and the resulting change in the population over time. Part (c) increases the complexity by introducing a second, conflicting selective pressure (a predator), requiring students to combine these concepts and explain a more nuanced outcome, demonstrating advanced application for this age group. The explanations provided follow the 'cause and effect' structure required by the 'Explain' command word, linking traits to survival and reproduction, and illustrating the concept of change over generations.",
+      "hint": "For parts (b) and (c), remember to explain *how* a specific physical characteristic helps or hinders a Snoutfish in its environment, and then how this affects its chances of surviving long enough to have offspring, which will then pass on those traits. Think about what happens over 'many generations' for the whole group of Snoutfish.",
+      "generatedAt": "2026-04-29T21:52:49.802808"
+    },
+    {
+      "id": "s-y6-evolution_advanced_008",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A small island is home to a unique population of birds that feed on seeds. Some of these birds naturally have slightly shorter, weaker beaks, while others have slightly longer, stronger beaks. For many years, both soft and hard seeds were plentiful. However, a significant change occurred: a new type of tree, producing only very hard, tough-shelled seeds, began to dominate the island. The trees that produced softer seeds slowly disappeared.\n\n**Part a) (1 mark)**\nState two variations observed in the bird population's beaks.\n\n**Part b) (2 marks)**\nDescribe how the change in available seeds might affect the birds with shorter, weaker beaks.\n\n**Part c) (4 marks)**\nExplain why, after many generations, most of the birds on the island are likely to have longer, stronger beaks.",
+      "options": [],
+      "correctAnswer": "Part a) (1 mark)\n1. Beak length (shorter/longer)\n2. Beak strength (weaker/stronger)\n\nPart b) (2 marks)\nBirds with shorter, weaker beaks would struggle to open the very hard, tough-shelled seeds. This would mean they cannot get enough food, making them weaker and less likely to survive.\n\nPart c) (4 marks)\nBecause the environment now only provides very hard seeds, birds with longer, stronger beaks are better able to crack these seeds open. This means they can get enough food to stay healthy and are more likely to survive than birds with shorter, weaker beaks. As they survive, these birds with stronger beaks are more likely to reproduce and have offspring. These offspring will also tend to inherit the trait of stronger beaks. Over many generations, as the birds with weaker beaks struggle to survive and reproduce, the number of birds with longer, stronger beaks will increase, becoming the most common type on the island.",
+      "explanation": "Part a): The question explicitly states the variations: 'shorter, weaker beaks' and 'longer, stronger beaks'. These describe variations in both length and strength.\n\nPart b): 'Describe' requires detailing what happens. The change means soft seeds disappear. Birds with weaker beaks would struggle with the hard seeds, leading to a lack of food and reduced survival chances.\n\nPart c): 'Explain' requires detailing the cause and effect, linking them with 'because' or 'so'.\n1.  **Cause (environmental pressure):** The environment changes, with only hard seeds available.\n2.  **Effect (differential survival):** Birds with stronger beaks have an advantage; they can eat and survive better.\n3.  **Effect (reproduction):** Surviving birds (with stronger beaks) are more likely to reproduce.\n4.  **Effect (inheritance):** Offspring inherit the advantageous stronger beak trait.\n5.  **Effect (population change):** Over many generations, this leads to an increase in the proportion of birds with stronger beaks in the population, as those with weaker beaks struggle to survive and reproduce.",
+      "hint": "For Part c), think about which birds are more likely to survive and have offspring when food is scarce and difficult to get. How would this affect the next generation and generations after that?",
+      "generatedAt": "2026-04-29T21:53:31.134399"
+    },
+    {
+      "id": "s-y6-evolution_advanced_009",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "A team of student naturalists has been observing a large group of insects, let's call them 'Leaf-Crawlers', living on the same type of plant in a local forest. They notice that some Leaf-Crawlers have slightly longer legs, while others have shorter legs. They also observe variations in their body colour, ranging from light green to dark green. The naturalists record how many eggs each Leaf-Crawler lays.\n\n(a) **State** one characteristic that can vary among the Leaf-Crawlers in this forest. (1 mark)\n\n(b) **Describe** how the leg length of a baby Leaf-Crawler is likely to relate to the leg length of its parents. (2 marks)\n\n(c) A new bird species arrives in the forest. These birds find it much easier to catch and eat Leaf-Crawlers with light green bodies and shorter legs, as they stand out more against the dark green leaves and move slower when attempting to escape.\n    **Explain** why, over many generations, the naturalists might expect to find a higher proportion of dark green Leaf-Crawlers with longer legs in the forest. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Leg length OR Body colour. (1 mark)\n\n(b) A baby Leaf-Crawler is likely to have a similar leg length to its parents. For example, if both parents have long legs, their baby will probably also have long legs. (2 marks)\n\n(c) The new birds will eat more of the light green, short-legged Leaf-Crawlers because these are easier to spot and catch on the dark green leaves. This means that the light green, short-legged Leaf-Crawlers are less likely to survive and reproduce to have many offspring. (1 mark for linking bird behaviour to specific traits, 1 mark for reduced survival/reproduction of disadvantaged trait)\nIn contrast, the dark green, long-legged Leaf-Crawlers are harder for the birds to see and catch, so they are more likely to survive. These surviving Leaf-Crawlers will reproduce and pass on their dark green colour and long leg length to their babies. (1 mark for increased survival/reproduction of advantageous trait)\nBecause more dark green, long-legged Leaf-Crawlers survive and have babies over many generations, their proportion in the forest population will increase. (1 mark for linking reproduction/inheritance to change in population proportion over time)",
+      "explanation": "This question assesses a Year 6 student's ability to understand and apply basic concepts of variation, inheritance, and natural selection within a structured, multi-step problem. Part (a) tests knowledge of variation. Part (b) tests understanding of inheritance. Part (c) requires students to explain cause and effect over time, linking environmental pressure (new bird predator) to differential survival and reproduction, and subsequently to a change in the characteristics of the Leaf-Crawler population over multiple generations, which is an advanced application for this age group.",
+      "hint": "For part (c), think about which Leaf-Crawlers are more likely to survive and have offspring when the new birds are present, and how those advantageous traits would then spread over time.",
+      "generatedAt": "2026-04-29T21:54:03.284845"
+    },
+    {
+      "id": "s-y6-evolution_advanced_010",
+      "topicId": "s-y6-evolution",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 6,
+      "text": "Imagine a population of plants called 'Sun-Sprouters' living in a large meadow. Sun-Sprouters can have leaves that are either slightly *wider* or slightly *narrower*. For many years, the meadow was mostly cloudy, and Sun-Sprouters with wider leaves were slightly better at catching the limited sunlight. They grew stronger and produced more seeds.\n\nRecently, the climate in the meadow has changed dramatically. It has become much sunnier and hotter, and the soil is now very dry. Sun-Sprouters with *wider* leaves now struggle to survive because they lose water too quickly in the intense heat and dry conditions. However, Sun-Sprouters with *narrower* leaves are better at keeping their water and surviving in these new, drier conditions.\n\n**(a) State** one characteristic that varies between individual Sun-Sprouter plants. (1 mark)\n\n**(b) Describe** what happened to the Sun-Sprouter population during the time the weather was mostly cloudy. (2 marks)\n\n**(c) Explain** why, after many generations in the hot and dry conditions, you would expect to find a higher proportion of Sun-Sprouters with narrower leaves in the meadow. (4 marks)",
+      "options": [],
+      "correctAnswer": "(a) Leaf width / width of leaves / whether leaves are wider or narrower.\n\n(b) During the cloudy period, Sun-Sprouters with wider leaves were better at catching sunlight and grew stronger (1 mark). This meant they produced more seeds, leading to a higher number of wider-leaved plants in the population (1 mark).\n\n(c) The hot and dry conditions mean Sun-Sprouters with wider leaves lose water too quickly and struggle to survive (1 mark). Sun-Sprouters with narrower leaves are better adapted to these conditions as they lose less water, allowing them to survive more easily (1 mark). Because the narrower-leaved plants survive better, they are more likely to reproduce and pass on their 'narrow leaf' trait to their offspring (1 mark). Over many generations, as more narrow-leaved plants reproduce successfully and more wide-leaved plants struggle, the proportion of Sun-Sprouters with narrower leaves will increase in the meadow (1 mark).",
+      "explanation": "This question assesses the student's ability to apply their understanding of variation, inheritance, and change over time in living things. Part (a) requires identifying a basic variation. Part (b) tests the ability to describe how an environmental factor (cloudy weather) can favour a specific variation (wider leaves) leading to increased survival and reproduction, and thus an increase in that trait within the population. Part (c) requires a multi-step explanation. The student must link the new environmental conditions (hot and dry) to differential survival rates based on leaf width, then connect this differential survival to differential reproduction, and finally explain how this process, repeated over many generations, leads to a change in the overall characteristics (proportion of narrow-leaved plants) of the Sun-Sprouter population. This demonstrates understanding of a fundamental aspect of evolution – natural selection – at an advanced Year 6 level.",
+      "hint": "For part (c), focus on which type of plant is better equipped to survive and produce offspring in the *new* hot and dry environment. Think about cause and effect: what happens to wide-leaved plants, what happens to narrow-leaved plants, and how does this affect how many seeds each type makes over time?",
+      "generatedAt": "2026-04-29T21:54:26.737748"
+    }
+  ]
+}

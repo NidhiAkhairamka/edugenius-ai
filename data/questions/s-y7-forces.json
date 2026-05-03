@@ -1,0 +1,481 @@
+{
+  "Beginner": [
+    {
+      "id": "s-y7-forces_beginner_001",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A student cycles a distance of 50 metres in 10 seconds. Calculate the average speed of the student.",
+      "options": [
+        "A) 5 m/s",
+        "B) 0.2 m/s",
+        "C) 500 m/s",
+        "D) 5 m"
+      ],
+      "correctAnswer": "A) 5 m/s",
+      "explanation": "To calculate speed, use the formula: Speed = Distance / Time.\n\nDistance = 50 metres\nTime = 10 seconds\n\nSpeed = 50 m / 10 s = 5 m/s",
+      "hint": "Remember the formula for calculating speed when you know the distance travelled and the time taken.",
+      "generatedAt": "2026-04-30T08:31:11.678801"
+    },
+    {
+      "id": "s-y7-forces_beginner_002",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A skateboarder maintains a constant speed of 5 m/s. Calculate the total distance the skateboarder travels in 8 seconds.",
+      "options": [
+        "1.6 m",
+        "13 m",
+        "40 m",
+        "40 s"
+      ],
+      "correctAnswer": "40 m",
+      "explanation": "To calculate the distance, use the formula: Distance = Speed × Time.\n\n1. Identify the given values:\n   Speed = 5 m/s\n   Time = 8 s\n\n2. Substitute the values into the formula:\n   Distance = 5 m/s × 8 s\n\n3. Calculate the result:\n   Distance = 40 m\n\n4. The correct unit for distance is metres (m).",
+      "hint": "Recall the formula that connects speed, distance, and time. You need to rearrange it to find the distance.",
+      "generatedAt": "2026-04-30T08:31:22.285971"
+    },
+    {
+      "id": "s-y7-forces_beginner_003",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "An object is moving. State what happens to its motion if the forces acting on it become unbalanced.",
+      "options": [
+        "It stops immediately.",
+        "It continues moving at a constant speed in the same direction.",
+        "Its speed or direction will change.",
+        "It will always speed up."
+      ],
+      "correctAnswer": "Its speed or direction will change.",
+      "explanation": "When the forces acting on an object are unbalanced, it means there is an overall, or 'net', force pushing or pulling the object. This overall force will cause the object to change its motion. This change can be in its speed (either speeding up or slowing down) or in its direction of travel.",
+      "hint": "Think about what happens to an object's movement when the pushes and pulls on it are no longer equal and opposite.",
+      "generatedAt": "2026-04-30T08:31:36.253269"
+    },
+    {
+      "id": "s-y7-forces_beginner_004",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A snail is observed moving at a constant speed of 0.05 metres per second (m/s). Calculate the time, in seconds, it would take for the snail to travel a distance of 0.2 metres.",
+      "options": [
+        "A. 0.01 seconds",
+        "B. 0.25 seconds",
+        "C. 4 seconds",
+        "D. 10 seconds"
+      ],
+      "correctAnswer": "C. 4 seconds",
+      "explanation": "1.  **Recall the formula:** To calculate time, you use the formula: Time = Distance / Speed.\n2.  **Substitute the given values:**\n    Distance (d) = 0.2 metres\n    Speed (s) = 0.05 metres per second\n    So, Time (t) = 0.2 m / 0.05 m/s\n3.  **Perform the calculation:**\n    Time (t) = 4 seconds\n4.  **Include units:** The unit for time is seconds.",
+      "hint": "Remember the relationship: Speed = Distance / Time. You will need to rearrange this formula to find time.",
+      "generatedAt": "2026-04-30T08:31:46.223004"
+    },
+    {
+      "id": "s-y7-forces_beginner_005",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "When a ball rolls along the ground, a force acts between the ball and the surface, slowing the ball down. State the name of this opposing force.",
+      "options": [
+        "Gravity",
+        "Air resistance",
+        "Friction",
+        "Tension"
+      ],
+      "correctAnswer": "Friction",
+      "explanation": "Friction is the force that opposes motion when two surfaces are in contact and slide or try to slide over each other. In this case, it acts between the ball and the ground, slowing the ball down.",
+      "hint": "Think about the force that makes it difficult to slide objects across a rough surface, or why shoes have grips.",
+      "generatedAt": "2026-04-30T08:31:56.501431"
+    },
+    {
+      "id": "s-y7-forces_beginner_006",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A stationary toy car is placed on a flat, level surface. Which of the following statements correctly describes the forces acting on the toy car?",
+      "options": [
+        "A) There is only a single force pushing the car downwards.",
+        "B) The forces acting on the car are unbalanced, causing it to remain still.",
+        "C) The upward force from the surface is exactly equal to the downward force of gravity on the car.",
+        "D) There are no forces acting on the car because it is stationary."
+      ],
+      "correctAnswer": "C) The upward force from the surface is exactly equal to the downward force of gravity on the car.",
+      "explanation": "When an object is stationary (not moving and not accelerating), it means that the forces acting on it are balanced. This means all the forces pushing or pulling in one direction are exactly cancelled out by forces in the opposite direction. In this case, the downward force of gravity pulling the toy car towards the Earth is perfectly balanced by an equal and opposite upward force from the flat surface supporting the car. \n\nOption A is incorrect because gravity is always acting on objects with mass, and a supporting surface also exerts a force. \nOption B is incorrect because unbalanced forces cause an object to accelerate (speed up, slow down, or change direction), not remain still. \nOption D is incorrect because gravity is always acting on objects with mass, and the surface exerts a normal force.",
+      "hint": "Remember what happens to an object's motion when all the forces acting on it are balanced. Think about the forces that act on any object resting on a surface.",
+      "generatedAt": "2026-04-30T08:32:12.021797"
+    },
+    {
+      "id": "s-y7-forces_beginner_007",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A student runs a distance of 100 metres in 20 seconds. Calculate their average speed.",
+      "options": [
+        "A) 5 m",
+        "B) 5 m/s",
+        "C) 2000 m/s",
+        "D) 0.2 m/s"
+      ],
+      "correctAnswer": "B) 5 m/s",
+      "explanation": "To calculate average speed, you use the formula: Speed = Distance ÷ Time.\n\nGiven:\nDistance = 100 metres\nTime = 20 seconds\n\nSubstitute the values into the formula:\nSpeed = 100 m ÷ 20 s\nSpeed = 5 m/s",
+      "hint": "Recall the relationship between speed, distance, and time. Which operation connects them?",
+      "generatedAt": "2026-04-30T08:32:22.350831"
+    },
+    {
+      "id": "s-y7-forces_beginner_008",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "State what happens to the speed of a moving object when the forces acting on it are balanced.",
+      "options": [
+        "A) It increases.",
+        "B) It decreases.",
+        "C) It stays the same.",
+        "D) It stops."
+      ],
+      "correctAnswer": "C) It stays the same.",
+      "explanation": "When the forces acting on a moving object are balanced, it means the overall (net) force on the object is zero. If there is no overall force pushing or pulling the object, it will continue to move at the same speed and in the same direction it was already going. This is why its speed stays the same.",
+      "hint": "Think about what happens when there is no overall push or pull on a moving object.",
+      "generatedAt": "2026-04-30T08:32:37.283373"
+    },
+    {
+      "id": "s-y7-forces_beginner_009",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "A small toy car is already rolling along a smooth, flat floor. If a constant, unbalanced force is then applied to the car *in the direction it is moving*, what will happen to the car's speed?",
+      "options": [
+        "A) The car's speed will decrease.",
+        "B) The car will stop moving.",
+        "C) The car's speed will increase.",
+        "D) The car will continue moving at the same speed."
+      ],
+      "correctAnswer": "C) The car's speed will increase.",
+      "explanation": "When an unbalanced force acts on an object, it causes a change in the object's motion. If this unbalanced force acts in the same direction that the object is already moving, it will cause the object to accelerate, meaning its speed will increase. If the unbalanced force acted in the opposite direction, the object would slow down or stop.",
+      "hint": "Consider what happens to an object's motion when a push or pull acts on it in the same direction it is already travelling. Remember what an unbalanced force does to an object.",
+      "generatedAt": "2026-04-30T08:32:49.687804"
+    },
+    {
+      "id": "s-y7-forces_beginner_010",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Beginner",
+      "yearLevel": 7,
+      "text": "Which of the following statements correctly describes the action of friction on a moving object?",
+      "options": [
+        "A) Friction always makes an object move faster.",
+        "B) Friction acts in the same direction as the object's motion.",
+        "C) Friction always opposes the motion of an object.",
+        "D) Friction has no effect on a moving object."
+      ],
+      "correctAnswer": "C) Friction always opposes the motion of an object.",
+      "explanation": "Friction is a force that occurs when two surfaces rub against each other. This force always works in the opposite direction to the way an object is moving or trying to move. This is why friction can cause moving objects to slow down or stop, and why it makes it harder to push heavy objects.",
+      "hint": "Consider what happens to a toy car when it rolls from a smooth floor onto a carpet.",
+      "generatedAt": "2026-04-30T08:33:02.699955"
+    }
+  ],
+  "Intermediate": [
+    {
+      "id": "s-y7-forces_intermediate_001",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student pushes a toy car along a straight track. The car travels a distance of 12 metres in 4 seconds. During this time, the student applies a forward force of 30 N to the car, and there is a friction force of 20 N acting against the motion.\n\nCalculate the average speed of the car. Then, explain whether the forces acting on the car are balanced or unbalanced, linking this to the car's motion.",
+      "options": [],
+      "correctAnswer": "**Calculate the average speed:**\n*   Formula: Speed = Distance / Time\n*   Substitution: Speed = 12 m / 4 s\n*   Answer: Speed = 3 m/s\n\n**Explain forces and motion:**\nThe forces acting on the car are **unbalanced**.\n*   The applied forward force is 30 N, and the opposing friction force is 20 N.\n*   The net force (also called the resultant force) is calculated as: 30 N (forward) - 20 N (backward) = 10 N in the forward direction.\n*   Because there is a net (unbalanced) force of 10 N acting on the car, the car will accelerate (speed up) in the direction of the net force (forward). So, its speed is continuously increasing throughout the 4 seconds, and 3 m/s is its average speed during this time.",
+      "explanation": "This question requires two main steps: first, calculating the average speed using the distance and time provided. Second, identifying and calculating the net force acting on the car and then using this information to explain whether the forces are balanced or unbalanced and what effect this has on the car's motion. \n\n1.  **Speed Calculation:** The formula for speed is distance divided by time. Plugging in the values (12m / 4s) gives an average speed of 3 m/s.\n2.  **Force Analysis:** The applied force (30 N) and the friction force (20 N) are in opposite directions. To find the net force, you subtract the smaller force from the larger force (30 N - 20 N = 10 N). Since the net force is not zero, the forces are unbalanced. Unbalanced forces cause an object to accelerate (change its speed or direction). In this case, a forward net force means the car is speeding up.",
+      "hint": "Remember to calculate speed using distance and time first. Then, consider all the forces acting on the car to determine the net (resultant) force, and how a net force affects an object's motion.",
+      "generatedAt": "2026-04-30T08:33:23.105675"
+    },
+    {
+      "id": "s-y7-forces_intermediate_002",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A cyclist is riding their bike along a flat road and then stops pedalling. Assume no braking occurs.\n\n**(a) Explain how friction and other resistive forces will affect the cyclist's motion after they stop pedalling. (3 marks)**\n\n**(b) The cyclist then travels a distance of 180 metres in 45 seconds. Calculate the average speed of the cyclist during this time. Show your working and include units in your answer. (3 marks)**",
+      "options": [],
+      "correctAnswer": {
+        "a": "When the cyclist stops pedalling, the forward driving force is removed (or significantly reduced). However, resistive forces such as air resistance and friction (from the tyres on the road and within the bike's moving parts) continue to act on the cyclist and bike. \n\nBecause the resistive forces are now greater than any forward force, the forces acting on the cyclist become unbalanced, with a net force acting in the opposite direction of motion. This unbalanced force causes the cyclist to decelerate (slow down) until they eventually come to a stop.",
+        "b": "Formula: Speed = Distance / Time\nSubstitution: Speed = 180 m / 45 s\nCalculation: Speed = 4 m/s\n\nAverage speed = 4 m/s"
+      },
+      "explanation": "Part (a) requires an understanding of forces. When the forward driving force (from pedalling) is removed, the resistive forces (friction from the tyres and bike parts, and air resistance) continue to act. These forces are no longer opposed by a forward force, making them the net force acting against the direction of motion. A net force causes acceleration or deceleration. Since these forces oppose motion, they cause deceleration, meaning the cyclist slows down. The explanation correctly identifies the forces, the imbalance, and the resulting effect.\n\nPart (b) is a direct calculation of average speed. The formula for speed (distance/time) must be recalled and applied. The given values (distance = 180 m, time = 45 s) are substituted correctly into the formula, and the final answer is provided with the correct units (m/s).",
+      "hint": "For part (a), consider what happens to the balance of forces when the forward push is removed and what effect this has on movement. For part (b), recall the fundamental relationship between distance, time, and average speed.",
+      "generatedAt": "2026-04-30T08:33:38.424899"
+    },
+    {
+      "id": "s-y7-forces_intermediate_003",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A remote-controlled boat is moving across a pond. Its engine provides a constant forward thrust of 40 N. The water resistance (a form of friction) acting on the boat is 10 N. The boat travels for 8 seconds, covering a total distance of 72 metres.\n\nIf the boat were to suddenly encounter thicker water, causing the water resistance to double, but the engine thrust remained the same:\n\nCalculate the new net force acting on the boat.",
+      "options": [
+        "10 N",
+        "20 N",
+        "30 N",
+        "50 N"
+      ],
+      "correctAnswer": "20 N",
+      "explanation": "To calculate the new net force, follow these steps:\n\n1.  **Calculate the new water resistance:** The original water resistance is 10 N. If it doubles, the new water resistance will be:\n    New Water Resistance = Original Water Resistance × 2\n    New Water Resistance = 10 N × 2 = 20 N\n\n2.  **Calculate the new net force:** The net force is the difference between the forward thrust (the force pushing the boat forward) and the opposing resistance (the force slowing it down).\n    New Net Force = Engine Thrust - New Water Resistance\n    New Net Force = 40 N - 20 N = 20 N\n\nThe information about the boat travelling for 8 seconds and covering 72 metres describes its motion, but it is not needed to calculate the new net force.",
+      "hint": "First, calculate the new value for the opposing force (water resistance) after it doubles. Then, use this new resistance and the constant engine thrust to find the net force. Remember to show your steps and include units.",
+      "generatedAt": "2026-04-30T08:34:08.757788"
+    },
+    {
+      "id": "s-y7-forces_intermediate_004",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A drone is launched from the ground. It ascends vertically, covering a distance of 60 meters in 15 seconds. After reaching this height, it remains stationary in the air, hovering for a short period.\n\na) Calculate the average speed of the drone during its ascent.\nb) Describe the forces acting on the drone when it is hovering stationary in the air.",
+      "options": [],
+      "correctAnswer": "a) To calculate the average speed, use the formula:\nSpeed = Distance / Time\n\nSubstitute the given values:\nDistance = 60 m\nTime = 15 s\n\nSpeed = 60 m / 15 s\nSpeed = 4 m/s\n\nb) When the drone is hovering stationary, its velocity is constant (zero), which means there is no acceleration. According to Newton's First Law, this implies that the net force acting on the drone is zero, meaning the forces are balanced.\nSpecifically, the upward force (thrust generated by the drone's propellers) is equal in magnitude and opposite in direction to the downward force (its weight, which is due to gravity).",
+      "explanation": "Part a) requires the student to recall and apply the formula for average speed, which is distance divided by time. The distance given is 60 meters and the time is 15 seconds, leading to a calculation of 60/15 = 4 m/s. It's crucial to include the correct units.\nPart b) tests the student's understanding of balanced forces. When an object is stationary (not moving and not accelerating), the net force acting on it must be zero. This means all forces acting on it are balanced. For a hovering drone, the main forces are the upward thrust from its engines/propellers and its downward weight (due to gravity). For it to hover, these two forces must be equal in magnitude and opposite in direction.",
+      "hint": "For part a), remember that average speed is found by dividing the total distance traveled by the total time taken. For part b), consider what must be true about the forces acting on an object if its velocity is not changing (i.e., it is stationary).",
+      "generatedAt": "2026-04-30T08:34:21.218877"
+    },
+    {
+      "id": "s-y7-forces_intermediate_005",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A student is pulling a small sled across a flat, icy playground. Initially, the student pulls the sled for 8 seconds, covering a distance of 16 meters. After a brief stop, they pull the sled again for another 12 seconds, covering an additional 18 meters before stopping completely. Calculate the average speed of the sled during the *entire pulling journey*.",
+      "options": [
+        "A. 2.0 m/s",
+        "B. 1.5 m/s",
+        "C. 1.7 m/s",
+        "D. 3.4 m/s"
+      ],
+      "correctAnswer": "C. 1.7 m/s",
+      "explanation": "To calculate the average speed for the entire journey, we must first find the total distance covered and the total time taken.\n\n1.  **Calculate Total Distance:**\n    Distance₁ = 16 meters\n    Distance₂ = 18 meters\n    Total Distance = Distance₁ + Distance₂ = 16 m + 18 m = 34 m\n\n2.  **Calculate Total Time:**\n    Time₁ = 8 seconds\n    Time₂ = 12 seconds\n    Total Time = Time₁ + Time₂ = 8 s + 12 s = 20 s\n\n3.  **Calculate Average Speed:**\n    Formula: Speed = Distance / Time\n    Substitution: Average Speed = 34 m / 20 s\n    Answer: Average Speed = 1.7 m/s\n\nTherefore, the average speed of the sled during the entire pulling journey is 1.7 m/s.",
+      "hint": "Remember that average speed over an entire journey requires considering the total distance covered and the total time taken, not just individual parts of the journey.",
+      "generatedAt": "2026-04-30T08:34:37.072592"
+    },
+    {
+      "id": "s-y7-forces_intermediate_006",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small robot is programmed to move across different surfaces.\n\na) The robot travels a distance of 12 meters across a smooth wooden floor in 8 seconds.\n   **Calculate** the average speed of the robot. (3 marks)\n\nb) The robot then moves from the smooth wooden floor onto a rough carpet. Its motor continues to apply the same pulling force as it did on the wooden floor.\n   **Explain** what happens to the robot's motion as it moves onto the rough carpet, and why this change occurs, referring to the forces acting on it. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) Formula: Speed = Distance / Time\n   Substitution: Speed = 12 m / 8 s\n   Answer: Speed = 1.5 m/s\n\nb) As the robot moves onto the rough carpet, its speed will decrease, causing it to slow down. This happens because the rough carpet creates a greater friction force acting opposite to the robot's motion compared to the smooth wooden floor. Since the motor's pulling force remains constant, the increased friction means that there is now a larger unbalanced force acting against the robot's direction of movement. This unbalanced force causes the robot to decelerate, resulting in a reduction of its speed.",
+      "explanation": "a) To calculate speed, you must divide the total distance travelled by the total time taken. Remember to include the correct units for speed.\nb) For the explanation, first state the observed change in motion. Then, identify the cause of this change (friction). Finally, link the increased friction to a change in the balance of forces (unbalanced force) and explain how this unbalanced force causes the observed change in motion.",
+      "hint": "For part (a), recall the fundamental formula connecting distance, time, and speed. For part (b), consider how different surface textures affect friction and what happens to an object's motion when the forces acting on it become unbalanced.",
+      "generatedAt": "2026-04-30T08:34:51.864312"
+    },
+    {
+      "id": "s-y7-forces_intermediate_007",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small remote-controlled car is being tested on a straight track.\n\nIn the first section of the track, the car's engine provides a forward force of 8 N, and the frictional force opposing its motion is 3 N. The car travels at a constant speed of 2 m/s for 4 seconds.\n\nThen, the car enters a second, rougher section of the track. Here, the frictional force increases to 6 N, while the engine still provides 8 N of forward force. The car travels through this rougher section for an additional 2 seconds at a constant speed of 1 m/s.\n\nCalculate the total distance the remote-controlled car travels across both sections of the track.",
+      "options": [
+        "8 m",
+        "10 m",
+        "12 m",
+        "14 m"
+      ],
+      "correctAnswer": "10 m",
+      "explanation": "To calculate the total distance, we need to find the distance travelled in each section of the track and then add them together.\n\n**Step 1: Calculate the distance for the first section.**\nFormula: Distance = Speed × Time\nDistance₁ = 2 m/s × 4 s = 8 m\n\n**Step 2: Calculate the distance for the second section.**\nFormula: Distance = Speed × Time\nDistance₂ = 1 m/s × 2 s = 2 m\n\n**Step 3: Calculate the total distance.**\nTotal Distance = Distance₁ + Distance₂\nTotal Distance = 8 m + 2 m = 10 m\n\nThe information about the engine force and frictional forces is important for understanding the balance of forces and why the car is moving at a constant speed, but it is not needed for calculating the total distance in this specific problem, as the speed and time are already provided for each section.",
+      "hint": "Remember the relationship between distance, speed, and time. You will need to calculate the distance for each part of the journey separately before finding the total.",
+      "generatedAt": "2026-04-30T08:35:15.274972"
+    },
+    {
+      "id": "s-y7-forces_intermediate_008",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A cyclist begins riding along a straight, flat road. For the first 10 seconds, they maintain a constant speed, covering a distance of 80 meters. After this initial period, they stop pedalling but continue to move for another 5 seconds before coming to a complete halt, having travelled an additional 20 meters during this final period.\n\nCalculate the average speed of the cyclist for their entire journey, from the moment they started riding until they completely stopped.",
+      "options": [
+        "8 m/s",
+        "6.67 m/s",
+        "4 m/s",
+        "10 m/s"
+      ],
+      "correctAnswer": "6.67 m/s",
+      "explanation": "To calculate the average speed for the entire journey, you need to determine the total distance covered and the total time taken.\n\n1.  **Calculate Total Distance:**\n    The cyclist first travelled 80 meters, and then an additional 20 meters.\n    Total Distance = 80 m + 20 m = 100 m\n\n2.  **Calculate Total Time:**\n    The first part of the journey took 10 seconds, and the second part took 5 seconds.\n    Total Time = 10 s + 5 s = 15 s\n\n3.  **Apply Average Speed Formula:**\n    Formula: Average Speed = Total Distance / Total Time\n    Substitution: Average Speed = 100 m / 15 s\n    Answer: Average Speed = 6.666... m/s\n\n    Rounding to two decimal places, the average speed is **6.67 m/s**.\n\nDuring the second part of the journey, when the cyclist stopped pedalling, their speed decreased. This happened because the force of friction (from the road and air resistance) was acting against the motion of the bicycle, creating an unbalanced force that slowed the cyclist down until they stopped.",
+      "hint": "To find the average speed for the *entire* journey, you must first calculate the *total* distance covered and the *total* time elapsed. Then, apply the standard speed formula.",
+      "generatedAt": "2026-04-30T08:35:33.098240"
+    },
+    {
+      "id": "s-y7-forces_intermediate_009",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A heavy container is moved across a warehouse floor in two stages.\n\n**Stage 1:** A forklift pushes the container 40 meters in 20 seconds. During this time, the forklift provides a constant forward force of 1000 N, and the friction acting against the container is 800 N.\n\n**Stage 2:** The container then moves onto a smoother section of the floor, where it travels an additional 60 meters in 25 seconds. On this smoother section, the pushing force remains 1000 N, but the friction is reduced to 600 N.\n\na) Describe the resultant force acting on the container during Stage 1. (2 marks)\nb) Explain why the container will experience a greater change in speed during Stage 2 compared to Stage 1, even though the pushing force is the same. (3 marks)\nc) Calculate the average speed of the container over its *entire* journey in m/s. (4 marks)",
+      "options": [],
+      "correctAnswer": "a) During Stage 1, the forward force is 1000 N and the opposing friction force is 800 N. The resultant (or net) force is calculated as 1000 N - 800 N = 200 N. These forces are unbalanced, resulting in a resultant force of 200 N acting in the direction of the container's motion.\n\nb) In Stage 2, the friction is reduced from 800 N to 600 N, while the forward pushing force remains constant at 1000 N. This means the resultant force in Stage 2 (1000 N - 600 N = 400 N) is greater than in Stage 1 (where it was 200 N). Because a larger unbalanced force acts on the container, it will experience a greater acceleration (a greater rate of change in speed) in Stage 2.\n\nc) **Calculate** the average speed of the container over its entire journey in m/s.\n\n**Step 1: Calculate Total Distance**\nTotal Distance = Distance in Stage 1 + Distance in Stage 2\nTotal Distance = 40 m + 60 m = 100 m\n\n**Step 2: Calculate Total Time**\nTotal Time = Time in Stage 1 + Time in Stage 2\nTotal Time = 20 s + 25 s = 45 s\n\n**Step 3: Calculate Average Speed**\nFormula: Average Speed = Total Distance / Total Time\nSubstitution: Average Speed = 100 m / 45 s\nAnswer: Average Speed = 2.22 m/s (to 2 decimal places)",
+      "explanation": "Part (a) assesses understanding of resultant forces by requiring the calculation and description of the net force and its effect. Part (b) tests the understanding of the relationship between unbalanced forces, friction, and acceleration (change in speed), requiring an explanation that links cause (reduced friction leading to greater resultant force) and effect (greater change in speed). Part (c) is an intermediate-level two-step calculation problem: students must first calculate the total distance and total time from the given information for two separate stages, and then use these totals to calculate the overall average speed using the formula 'speed = distance / time', ensuring correct units are applied.",
+      "hint": "For part (c), to calculate the average speed over the *entire* journey, you first need to determine the total distance covered and the total time taken across both stages.",
+      "generatedAt": "2026-04-30T08:36:18.768608"
+    },
+    {
+      "id": "s-y7-forces_intermediate_010",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Intermediate",
+      "yearLevel": 7,
+      "text": "A small toy boat is propelled across a pond.\n\nFirst, it travels 20 meters across the open water in 5 seconds.\nThen, it enters a patch of thick weeds, where it travels an additional 5 meters in 10 seconds before eventually coming to a stop.\n\n(a) Calculate the average speed of the boat while it was travelling across the open water. (3 marks)\n(b) Calculate the overall average speed of the boat for its entire journey, from when it started on the open water until it stopped in the weeds. (4 marks)\n(c) Explain why the boat's speed changed significantly when it entered the patch of thick weeds. (3 marks)\n(d) State whether the forces acting on the boat were balanced or unbalanced when it was slowing down in the weeds. (1 mark)",
+      "options": [],
+      "correctAnswer": "(a) Calculate the average speed of the boat while it was travelling across the open water.\nFormula: Speed = Distance / Time\nSubstitution: Speed = 20 m / 5 s\nAnswer: Speed = 4 m/s\n\n(b) Calculate the overall average speed of the boat for its entire journey, from when it started on the open water until it stopped in the weeds.\nStep 1: Calculate Total Distance and Total Time\nTotal Distance = 20 m + 5 m = 25 m\nTotal Time = 5 s + 10 s = 15 s\nStep 2: Calculate Overall Average Speed\nFormula: Speed = Total Distance / Total Time\nSubstitution: Speed = 25 m / 15 s\nAnswer: Speed ≈ 1.67 m/s (or 1.7 m/s to 2 s.f.)\n\n(c) Explain why the boat's speed changed significantly when it entered the patch of thick weeds.\nWhen the boat entered the thick weeds, there was a significant increase in **friction** (or drag/resistance) acting against its motion. This increased frictional force was greater than the forward propulsive force from the motor, meaning the **unbalanced forces** caused the boat to **decelerate** (slow down) and eventually stop.\n\n(d) State whether the forces acting on the boat were balanced or unbalanced when it was slowing down in the weeds.\nUnbalanced",
+      "explanation": "(a) To calculate average speed, use the formula: Speed = Distance / Time. For the open water section, the distance is 20 m and the time is 5 s. So, Speed = 20 m / 5 s = 4 m/s.\n\n(b) To calculate the *overall* average speed for the entire journey, you must first find the total distance travelled and the total time taken. \nTotal Distance = 20 m (open water) + 5 m (weeds) = 25 m.\nTotal Time = 5 s (open water) + 10 s (weeds) = 15 s.\nNow, apply the speed formula using these total values: Speed = Total Distance / Total Time. So, Speed = 25 m / 15 s ≈ 1.666... m/s. Rounded to two decimal places, this is 1.67 m/s.\n\n(c) The thick weeds create a much greater **resistive force** (a type of friction or drag) against the boat's movement compared to open water. This resistive force opposed the boat's forward motion. If the forward propulsive force from the boat's motor remained constant, the increased resistive force meant the net force on the boat was now acting in the opposite direction to its motion, causing **unbalanced forces** which led to **deceleration** (the boat slowing down).\n\n(d) When an object is slowing down, its speed is changing. A change in speed (or direction) means there is a **net force** acting on the object. Therefore, the forces acting on the boat were **unbalanced**.",
+      "hint": "When calculating the *overall* average speed for the entire journey, remember to first sum up the total distance covered and the total time taken for both parts of the journey before applying the speed formula.",
+      "generatedAt": "2026-04-30T08:36:38.863448"
+    }
+  ],
+  "Advanced": [
+    {
+      "id": "s-y7-forces_advanced_001",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A remote-control car is driven across a concrete path. It travels a distance of 15 meters in 10 seconds. \n\n1.  **Calculate** the average speed of the remote-control car during this journey. (3 marks)\n2.  **Describe** the role of friction in preventing the car from speeding up indefinitely or continuing to move without power. (2 marks)\n3.  Later, the driver releases the accelerator, and the car slows down from its previous speed until it stops. **Explain** why the car slows down and eventually stops, referring to the forces acting on it. (4 marks)",
+      "options": [],
+      "correctAnswer": "1. **Calculate** the average speed:\n    *   Formula: Speed = Distance / Time\n    *   Substitution: Speed = 15 m / 10 s\n    *   Answer: Speed = 1.5 m/s\n\n2.  **Describe** the role of friction:\n    *   Friction is a force that opposes the motion of the car. (1 mark)\n    *   It acts against the forward thrust from the motor when the car is moving, and it is the force that brings the car to a stop when power is removed. (1 mark)\n\n3.  **Explain** why the car slows down and stops:\n    *   When the driver releases the accelerator, the forward thrust/push from the car's motor is removed or significantly reduced. (1 mark)\n    *   However, the force of friction between the car's wheels and the concrete path continues to act, opposing the car's motion. (1 mark)\n    *   Because the force of friction becomes greater than any forward thrust, the forces acting on the car are unbalanced. (1 mark)\n    *   This unbalanced force creates a net force in the opposite direction of motion, causing the car to decelerate (slow down) until its speed reaches zero and it stops. (1 mark)",
+      "explanation": "This multi-part question assesses the student's ability to combine concepts related to 'Forces & Motion'. Part 1 requires the application of the speed formula. Part 2 checks understanding of friction's opposing nature and its practical role. Part 3 is the most advanced, requiring a detailed explanation that links the removal of the forward driving force, the continuous presence of friction, and the resulting unbalanced forces to explain the car's deceleration and eventual stop. This demonstrates understanding of cause-and-effect in terms of forces.",
+      "hint": "For Part 3, think about which forces are acting on the car when the accelerator is released and how their magnitudes compare. Remember that a change in speed means the forces are not balanced.",
+      "generatedAt": "2026-04-30T08:37:12.445226"
+    },
+    {
+      "id": "s-y7-forces_advanced_002",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A small, remote-controlled exploration robot, named 'Pioneer', is travelling across an alien planet's surface. Pioneer starts from rest.\n\n*   **Stage 1:** Pioneer's motor provides a constant forward force of 12 N as it crosses a smooth, dusty plain. The friction force acting against its motion on this plain is 4 N. It travels for 5 seconds.\n*   **Stage 2:** Pioneer then encounters a patch of rough, volcanic gravel. The motor force remains 12 N, but the increased friction force from the gravel is 10 N. Pioneer travels across this gravel for an additional 8 seconds.\n*   **Stage 3:** After the gravel, Pioneer drives onto a very slippery ice field. At this point, the motor is switched off. The friction force on the ice field is negligible (can be considered 0 N).\n\n**(a) Explain the net (resultant) force acting on Pioneer during Stage 1.**\n*(3 marks)*\n\n**(b) Describe how the speed of Pioneer changes during Stage 1. Use the idea of forces in your description.**\n*(2 marks)*\n\n**(c) Describe the motion of Pioneer during Stage 3. Explain why it behaves this way.**\n*(4 marks)*\n\n**(d) Calculate the distance Pioneer travels during Stage 1 and during Stage 2. Then, calculate the total distance travelled over both stages. Assume Pioneer's average speed during Stage 1 was 1.2 m/s and its average speed during Stage 2 was 0.6 m/s.**\n*(5 marks)*",
+      "options": [],
+      "correctAnswer": "**(a) Explain the net (resultant) force acting on Pioneer during Stage 1.**\nDuring Stage 1, the motor provides a forward force of 12 N, and the friction force acts backwards with 4 N. The net force is the difference between these forces (12 N - 4 N = 8 N) in the forward direction. This is because the forward (pushing) force is greater than the backward (friction) force, so there is an overall unbalanced force causing the robot to move faster.\n\n**(b) Describe how the speed of Pioneer changes during Stage 1. Use the idea of forces in your description.**\nDuring Stage 1, Pioneer's speed increases. This is because there is an unbalanced net force (8 N) acting in the direction of motion, meaning the forward force is greater than the opposing friction force. An unbalanced force causes an object to accelerate, which means its speed increases.\n\n**(c) Describe the motion of Pioneer during Stage 3. Explain why it behaves this way.**\nDuring Stage 3, Pioneer moves at a constant speed in a straight line. This is because the motor is switched off, and the friction force on the ice is negligible (almost 0 N). This means there is no overall (net) force acting on Pioneer. When there is no unbalanced force acting on an object that is already moving, it will continue to move at a constant speed in the same direction.\n\n**(d) Calculate the distance Pioneer travels during Stage 1 and during Stage 2. Then, calculate the total distance travelled over both stages. Assume Pioneer's average speed during Stage 1 was 1.2 m/s and its average speed during Stage 2 was 0.6 m/s.**\n*   **Formula:** Distance = Speed × Time\n\n*   **Stage 1 Distance:**\n    *   Distance = 1.2 m/s × 5 s\n    *   Distance = 6.0 m\n\n*   **Stage 2 Distance:**\n    *   Distance = 0.6 m/s × 8 s\n    *   Distance = 4.8 m\n\n*   **Total Distance:**\n    *   Total Distance = Distance (Stage 1) + Distance (Stage 2)\n    *   Total Distance = 6.0 m + 4.8 m\n    *   Total Distance = 10.8 m",
+      "explanation": "The explanation for each part is integrated into the model answer itself, providing step-by-step reasoning and calculations as required by the question format for open-ended questions.",
+      "hint": "Remember to consider all forces acting on the robot to determine the net force, and use the correct formula (Distance = Speed × Time) for calculating distance in each stage.",
+      "generatedAt": "2026-04-30T08:38:06.075076"
+    },
+    {
+      "id": "s-y7-forces_advanced_003",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A child is pulling a sled across different surfaces.\n\n*   **Initial Pull on Snow:** The child starts pulling the sled across a flat, snowy field, applying a pulling force of 25 N. The friction between the sled and the snow is 10 N.\n*   **Transition to Grass:** The child then pulls the sled onto a patch of grass. On the grass, the friction significantly increases to 40 N. The child continues to pull with the same force of 25 N.\n*   **Motion on Grass:** Despite the increased friction, the child manages to pull the sled 6 meters across the grass in 12 seconds before stopping for a rest.\n\na) Explain why the sled initially speeds up when the child starts pulling it on the snow. (3 marks)\nb) Describe how the forces acting on the sled change when it moves from the snow to the grass, while the child maintains the 25 N pulling force. (2 marks)\nc) Explain why the sled might feel much harder to pull and slow down significantly when it reaches the grass. (4 marks)\nd) Calculate the average speed of the sled while it was being pulled across the grass. Show your working and include units in your answer. (3 marks)",
+      "options": [],
+      "correctAnswer": "a) When the child pulls the sled on snow, the pulling force (25 N) is greater than the friction force (10 N). (1 mark) This results in an unbalanced force acting in the direction of the pull. (1 mark) Because there is a net unbalanced force, the sled accelerates and speeds up. (1 mark)\n\nb) When the sled moves from snow to grass:\n    *   The pulling force remains constant at 25 N. (1 mark)\n    *   The friction force increases significantly from 10 N (on snow) to 40 N (on grass). (1 mark)\n\nc) On the grass, the friction force (40 N) is much greater than the child's pulling force (25 N). (1 mark) This creates an unbalanced force acting on the sled in the opposite direction to its motion. (1 mark) Because there is a net force opposing the motion, the sled decelerates or slows down significantly. (1 mark) This backward unbalanced force is why it feels much harder to pull. (1 mark)\n\nd) Formula: Speed = Distance / Time (1 mark)\n    Substitution: Speed = 6 m / 12 s (1 mark)\n    Answer: Speed = 0.5 m/s (1 mark)",
+      "explanation": "This question requires students to apply their understanding of balanced and unbalanced forces, the concept of friction, and the calculation of speed in a multi-step scenario.\n\n*   **Part a** assesses the understanding of how an unbalanced force causes acceleration, linking the greater pulling force to the lesser friction.\n*   **Part b** checks the ability to describe changes in forces when the surface (and thus friction) changes, while the applied force remains constant.\n*   **Part c** is the most complex explanation, requiring students to identify that the friction force becomes greater than the pulling force, leading to a net force opposing motion, which causes deceleration and makes it 'harder to pull'.\n*   **Part d** tests the basic speed calculation, requiring the correct formula, substitution, and units. All parts combine to form an 'advanced' Year 7 question by requiring conceptual explanations tied to numerical values and practical effects, alongside a calculation.",
+      "hint": "For the explanation parts, think about the overall (net) force acting on the sled in each situation and what effect that net force has on its motion. For the calculation, remember the formula that links distance, time, and speed.",
+      "generatedAt": "2026-04-30T08:38:21.499581"
+    },
+    {
+      "id": "s-y7-forces_advanced_004",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "K9 Bolt, a highly trained search and rescue dog, is undergoing an advanced training exercise on an outdoor obstacle course designed to test his speed, agility, and understanding of different terrains.\n\n**(a) Speed Calculation**\nK9 Bolt first runs a distance of 75 meters across a section of uneven terrain in 15 seconds.\n**Calculate** K9 Bolt's average speed across this section. Show your working and include appropriate units. (3 marks)\n\n**(b) Forces and Constant Motion**\nWhile K9 Bolt is running at a constant speed across the uneven terrain, his powerful leg muscles are exerting a forward push.\n**Explain** why K9 Bolt maintains a constant speed, even though he is pushing himself forward, in terms of balanced and unbalanced forces. (3 marks)\n\n**(c) Friction and Surface Change**\nBolt then moves from the uneven terrain onto a smooth, wet wooden plank bridge.\n**Describe** how the force of friction acting on K9 Bolt changes as he moves from the uneven terrain to the smooth, wet wooden plank. (2 marks)\n**Explain** what effect this change in friction would have on K9 Bolt's motion if he attempted to quickly change direction on the wet wooden plank compared to the uneven terrain. (3 marks)\n\n**(d) Multi-stage Travel Time**\nTo complete a specific challenge, K9 Bolt must traverse two consecutive sections of the course:\n*   Section 1: 75 meters of uneven terrain (as described in part a).\n*   Section 2: 50 meters of a sandy path.\nK9 Bolt completed Section 1 (75m) in 15 seconds. He then completed Section 2 (50m) at an average speed of 2.0 m/s.\n**Calculate** the total time, in seconds, K9 Bolt took to complete both Section 1 and Section 2. Show all your working. (4 marks)",
+      "options": [],
+      "correctAnswer": "**(a) Speed Calculation**\nFormula: Speed = Distance / Time (1 mark)\nSubstitution: Speed = 75 m / 15 s (1 mark)\nAnswer: Speed = 5 m/s (1 mark)\n\n**(b) Forces and Constant Motion**\nWhen K9 Bolt runs at a constant speed, the forward force generated by his muscles is balanced by (1 mark) opposing forces such as friction from the terrain and air resistance (1 mark). This means the net (resultant) force acting on him is zero, so there is no change in his speed or direction (1 mark).\n\n**(c) Friction and Surface Change**\n*   **Describe friction change:** The force of friction acting on K9 Bolt would significantly decrease (1 mark) because the uneven terrain provides much more resistance (rougher surface) than a smooth, wet wooden plank (which is slippery) (1 mark).\n*   **Explain effect on changing direction:** A lower friction force on the wet wooden plank means K9 Bolt would have less grip (1 mark). This would make it much harder for him to quickly change direction (1 mark) because there isn't enough frictional force to create the necessary unbalanced force to change his motion sideways, making him more likely to slip and lose control (1 mark).\n\n**(d) Multi-stage Travel Time**\nTime for Section 1 = 15 seconds (given) (1 mark)\n\nFor Section 2:\nFormula: Time = Distance / Speed (1 mark)\nSubstitution: Time = 50 m / 2.0 m/s (1 mark)\nTime for Section 2 = 25 seconds\n\nTotal Time = Time for Section 1 + Time for Section 2\nTotal Time = 15 s + 25 s\nAnswer: Total Time = 40 seconds (1 mark)",
+      "explanation": "This is an open-ended question that requires detailed calculations and explanations for each part, hence the 'correctAnswer' field provides a full model answer with working shown for each part of the question. Each mark is specifically allocated for showing the correct formula, substitution, final answer with units for calculations, and for providing accurate scientific descriptions and explanations linking cause and effect for the conceptual parts.",
+      "hint": "Remember to use the relationship between speed, distance, and time (s=d/t). For forces, recall that a constant speed implies a net force of zero, meaning opposing forces are balanced. Consider how surface texture and moisture affect friction.",
+      "generatedAt": "2026-04-30T08:38:58.659814"
+    },
+    {
+      "id": "s-y7-forces_advanced_005",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "A cylindrical delivery pod is released from an aerial delivery system. It lands horizontally on a prepared landing platform and slides along it.\n\n*   **Section A: Initial Slide**\n    The pod first slides across a 5.0 m smooth, polished section of the platform. It takes 2.5 seconds to cover this distance.\n*   **Section B: Braking Section**\n    It then moves onto a rough, textured section, designed to bring it to a stop.\n\n1.  **Calculate** the average speed of the delivery pod as it slides across the 5.0 m smooth, polished section. Show your working and include units. (3 marks)\n\n2.  **Describe** the horizontal forces acting on the delivery pod when it is sliding across the *rough, textured* section and is slowing down. (2 marks)\n\n3.  **Explain** how the change in surface texture from smooth to rough affects the forces acting on the pod and causes it to slow down significantly. You must use the terms 'friction', 'balanced', and 'unbalanced' in your explanation. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  **Calculate** the average speed of the delivery pod:\n    *   Formula: Speed = Distance / Time\n    *   Substitution: Speed = 5.0 m / 2.5 s\n    *   Answer: Speed = 2.0 m/s\n\n2.  **Describe** the horizontal forces acting on the delivery pod when it is sliding across the *rough, textured* section and is slowing down:\n    *   There is a large friction force acting horizontally in the opposite direction to the pod's motion. This friction force is the dominant horizontal force, meaning the horizontal forces are unbalanced.\n\n3.  **Explain** how the change in surface texture from smooth to rough affects the forces acting on the pod and causes it to slow down significantly:\n    *   When the delivery pod moves from the smooth section to the rough section, the amount of **friction** acting against its motion significantly increases. This is because rougher surfaces have more irregularities that resist movement. This increased **friction** force acting in the opposite direction of motion becomes much larger than any force pushing the pod forward (or effectively the only significant horizontal force). As a result, the horizontal forces acting on the pod become **unbalanced**, with a net force acting backwards. This **unbalanced** force causes the pod to decelerate (slow down) rapidly until it eventually comes to a stop.",
+      "explanation": "This question assesses the student's ability to integrate multiple concepts: calculating speed from given distance and time, identifying and describing horizontal forces (specifically friction) during deceleration, and explaining the cause and effect of changing surface texture on friction, leading to unbalanced forces and a change in motion.",
+      "hint": "For part 1, remember the formula that links speed, distance, and time. For part 3, consider how different surface textures affect the magnitude of the resistive force that opposes motion.",
+      "generatedAt": "2026-04-30T08:39:17.443923"
+    },
+    {
+      "id": "s-y7-forces_advanced_006",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "An experimental 'hydro-sled' designed to collect water samples is undergoing testing. Initially, it is pulled at a constant speed across a dry, textured laboratory floor. A horizontal pulling force of 20 N is applied. The sled travels 6.0 meters in 4.0 seconds on this dry surface. It then enters a shallow testing tank filled with water. The same 20 N horizontal pulling force is maintained. As it enters the water, the sled briefly slows down before reaching a new, slower constant speed.\n\n**a) Describe the horizontal forces acting on the hydro-sled while it is moving at a constant speed across the dry laboratory floor. Explain how these forces are balanced.** (4 marks)\n\n**b) Calculate the speed of the hydro-sled while it was moving across the dry laboratory floor.** (3 marks)\n\n**c) Explain why the hydro-sled initially slows down when it enters the water, even though the horizontal pulling force of 20 N is maintained.** (4 marks)\n\n**d) State one modification that could be made to the hydro-sled's design to reduce the resistive force it experiences when moving through the water.** (1 mark)",
+      "options": [],
+      "correctAnswer": "a) **Description:** There is a forward horizontal pulling force of 20 N and a backward horizontal friction force acting on the hydro-sled.\n   **Explanation:** Because the hydro-sled is moving at a constant speed, the forces acting on it must be balanced. This means the backward friction force is equal in magnitude (20 N) and opposite in direction to the forward pulling force. So, the net force on the sled is zero.\n\nb) **Formula:** Speed = distance / time\n   **Substitution:** Speed = 6.0 m / 4.0 s\n   **Answer:** Speed = 1.5 m/s\n\nc) **Explanation:** When the hydro-sled enters the water, a new resistive force called water resistance (or drag) begins to act against its motion. This water resistance adds to any remaining friction from the sled's runners and is generally much greater than the friction experienced on the dry floor. With the same 20 N pulling force, the total backward resistive forces (friction + water resistance) become greater than the forward pulling force. Therefore, the forces acting on the sled become unbalanced, creating a net force acting backwards (opposite to the direction of motion), which causes the hydro-sled to decelerate and slow down.\n\nd) To reduce resistive force in water, one could:\n   *   Make the hydro-sled more streamlined/aerodynamic.\n   *   Reduce the surface area of the hydro-sled in contact with the water.\n   *   Make the bottom surface smoother.",
+      "explanation": "This is an open-ended question, so the 'correctAnswer' field provides the full model answer with detailed working and explanations for each part as requested.",
+      "hint": "For part (a), consider the relationship between constant speed and forces. For part (b), recall the formula linking distance, time, and speed. For part (c), think about new resistive forces in water and how they affect the balance of forces. For part (d), consider design features that reduce friction or drag in liquids.",
+      "generatedAt": "2026-04-30T08:39:33.246746"
+    },
+    {
+      "id": "s-y7-forces_advanced_007",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "An advanced underwater research drone, 'HydroSurveyor-7', is undergoing tests in a deep ocean trench. It operates by propellers and experiences water resistance.\nDuring a specific test run, the HydroSurveyor-7 travels a total distance of 3.6 kilometers.\n*   **Phase 1 (First 10 minutes):** The drone's propellers generate a constant forward thrust of 500 N. The water resistance acting against its motion is 200 N.\n*   **Phase 2 (Remaining 5 minutes):** The drone's propellers reduce their thrust to 300 N, and the water resistance acting on it also becomes 300 N.\n\nWhat is the average speed of the HydroSurveyor-7 over its entire 3.6 km journey, expressed in meters per second (m/s)?",
+      "options": [
+        "3.5 m/s",
+        "4.0 m/s",
+        "4.5 m/s",
+        "5.0 m/s"
+      ],
+      "correctAnswer": "4.0 m/s",
+      "explanation": "Here's how to calculate the average speed and understand the forces:\n\n**Understanding the Forces:**\n*   **Phase 1 (First 10 minutes):** The forward thrust is 500 N and the water resistance (friction) is 200 N. The net force is 500 N - 200 N = 300 N in the forward direction. Because there is a net (unbalanced) force, the drone would be accelerating (increasing its speed) during this phase.\n*   **Phase 2 (Remaining 5 minutes):** The forward thrust is 300 N and the water resistance (friction) is also 300 N. The net force is 300 N - 300 N = 0 N. When the net force is zero, the forces are balanced. This means the HydroSurveyor-7 would be moving at a constant speed (not accelerating or decelerating) during this phase.\n\n**Calculating Average Speed:**\n1.  **Identify Total Distance:** The total distance travelled is 3.6 kilometers (km).\n    Convert kilometers to meters: 3.6 km = 3.6 × 1000 m = 3600 m.\n2.  **Identify Total Time:** The total journey time is the sum of time from Phase 1 and Phase 2: 10 minutes + 5 minutes = 15 minutes.\n    Convert minutes to seconds: 15 minutes = 15 × 60 seconds = 900 seconds.\n3.  **Apply the Speed Formula:** Average speed = Total Distance / Total Time.\n    Average speed = 3600 m / 900 s\n    Average speed = 4 m/s.\n\nTherefore, the average speed of the HydroSurveyor-7 over its entire journey is 4.0 m/s.",
+      "hint": "Remember to convert all units (distance to meters and time to seconds) to their SI base units before performing the calculation. The average speed formula requires the total distance covered and the total time taken.",
+      "generatedAt": "2026-04-30T08:39:57.207790"
+    },
+    {
+      "id": "s-y7-forces_advanced_008",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "An experimental automated rover, \"TerraProbe-Alpha\", is being tested in a controlled laboratory environment. It has a constant forward thrust force from its motors.\n\n1.  **Describe** what happens to the rover's motion if the forward thrust force is initially greater than the opposing friction force. (2 marks)\n\n2.  On the first part of its test, the rover travels a distance of 1.2 meters across a smooth plastic surface in 4.0 seconds.\n    *   **Calculate** the average speed of the rover across the smooth plastic surface. (2 marks)\n\n3.  The rover then moves onto a rough sandpaper surface. The forward thrust force remains constant. It travels a distance of 0.9 meters across this rough surface in 3.0 seconds.\n    *   **Calculate** the average speed of the rover across the rough sandpaper surface. (2 marks)\n\n4.  **Explain** why the rover's speed changed when it moved from the smooth plastic surface to the rough sandpaper surface, even though its forward thrust force remained constant. (4 marks)",
+      "options": [],
+      "correctAnswer": "1.  If the forward thrust force is greater than the opposing friction force, the rover will accelerate or speed up. This is because there is a resultant (unbalanced) force acting in the direction of motion.\n\n2.  **Calculate** the average speed of the rover across the smooth plastic surface:\n    Speed = Distance / Time\n    Speed = 1.2 m / 4.0 s\n    Speed = 0.3 m/s\n\n3.  **Calculate** the average speed of the rover across the rough sandpaper surface:\n    Speed = Distance / Time\n    Speed = 0.9 m / 3.0 s\n    Speed = 0.3 m/s\n\n4.  The rover's speed *did not change* in this specific scenario (both speeds are 0.3 m/s). This implies that on both surfaces, the forward thrust force from the motors was balanced by the opposing friction force. However, to maintain the same constant speed on a rougher surface, the rover's motors must have been providing a greater *effective* forward thrust, or the setup implies that the friction on the sandpaper surface was *not* high enough to cause a deceleration to a *lower* constant speed. If we assume the question implies a *change in speed was expected or typical*, the explanation for a *decrease* in speed would be:\n    The rough sandpaper surface has a greater coefficient of friction than the smooth plastic surface. This means that when the rover moved onto the rough surface, the opposing friction force acting on it would have increased significantly. Since the forward thrust force from the motors remained constant, the increased friction force would have meant there was a net force acting backwards, causing the rover to decelerate until a new equilibrium (balanced forces) was reached at a lower constant speed, or until it simply moved slower due to the greater opposing force. \n    \n    *(Self-correction: The calculation results in the *same* speed (0.3m/s) for both sections, which makes the premise of Q4 - \"why the rover's speed changed\" - problematic if strictly interpreted. A good advanced question would have different speeds. Let's adjust the distances/times slightly so speeds are different.)*\n    \n    **Revised Calculation Data for Q2 & Q3 to ensure a change in speed:**\n    **Q2 Data:** 1.5 meters across a smooth plastic surface in 3.0 seconds. (Speed = 0.5 m/s)\n    **Q3 Data:** 0.8 meters across a rough sandpaper surface in 2.0 seconds. (Speed = 0.4 m/s)\n\n    **Revised Correct Answer with updated data:**\n    1.  If the forward thrust force is greater than the opposing friction force, the rover will accelerate or speed up. This is because there is a resultant (unbalanced) force acting in the direction of motion.\n\n    2.  **Calculate** the average speed of the rover across the smooth plastic surface:\n        Speed = Distance / Time\n        Speed = 1.5 m / 3.0 s\n        Speed = 0.5 m/s\n\n    3.  **Calculate** the average speed of the rover across the rough sandpaper surface:\n        Speed = Distance / Time\n        Speed = 0.8 m / 2.0 s\n        Speed = 0.4 m/s\n\n    4.  The rough sandpaper surface has a greater coefficient of friction than the smooth plastic surface. This means that when the rover moved onto the rough surface, the opposing friction force acting on it would have increased. Since the forward thrust force from the motors remained constant, the increased friction force would have meant there was a net force acting backwards (unbalanced forces). This would cause the rover to decelerate from 0.5 m/s to 0.4 m/s, reaching a new, lower constant speed once the increased friction force balanced the constant forward thrust.",
+      "explanation": "1.  **Describe (2 marks):** When the forward thrust force is greater than the opposing friction, there is a net (resultant) force acting in the direction of motion. According to Newton's First Law, an object will accelerate (speed up or change direction) if there is a net force acting on it. Therefore, the rover's speed will increase.\n\n2.  **Calculate (2 marks):** The formula for average speed is Distance ÷ Time.\n    *   Formula: Speed = Distance / Time\n    *   Substitution: Speed = 1.5 m / 3.0 s\n    *   Answer with units: Speed = 0.5 m/s\n\n3.  **Calculate (2 marks):** The formula for average speed is Distance ÷ Time.\n    *   Formula: Speed = Distance / Time\n    *   Substitution: Speed = 0.8 m / 2.0 s\n    *   Answer with units: Speed = 0.4 m/s\n\n4.  **Explain (4 marks):**\n    *   **Cause 1 (Surface Change):** The change from a smooth plastic surface to a rough sandpaper surface significantly increases the friction between the rover's wheels and the track.\n    *   **Cause 2 (Force Imbalance):** As the forward thrust force from the motors remained constant, the increased friction force (an opposing force) meant that the opposing forces were now greater than the forward thrust force. This created an unbalanced, net force acting backwards on the rover.\n    *   **Effect 1 (Deceleration):** This unbalanced backward force caused the rover to decelerate, meaning its speed decreased.\n    *   **Effect 2 (New Constant Speed):** The rover continued to move, eventually reaching a new, lower constant speed (0.4 m/s compared to 0.5 m/s) when the new, higher friction force on the sandpaper again balanced the constant forward thrust force.",
+      "hint": "To calculate speed, remember to divide the distance traveled by the time taken. When explaining changes in motion, consider how the different surfaces affect the forces of friction acting on the rover and how this might create an unbalanced force.",
+      "generatedAt": "2026-04-30T08:40:16.504797"
+    },
+    {
+      "id": "s-y7-forces_advanced_009",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Maya is experimenting with a wooden toy block on a long, flat classroom floor. She pulls the block with a string to make it move.\n\n(a) State the names of two forces acting on the wooden block when Maya pulls it horizontally across the floor. (2 marks)\n\n(b) Maya starts the block moving and then pulls it with a constant force of 10 N. If the friction force acting against its motion is also 10 N, describe what happens to the motion of the block. (3 marks)\n\n(c) Explain why the wooden block eventually stops if Maya stops pulling it, even if it was moving initially. (4 marks)\n\n(d) In a different test, Maya pulls the block and it travels a distance of 8 meters in 16 seconds. Calculate the average speed of the wooden block during this time. (3 marks)",
+      "options": [],
+      "correctAnswer": "(a) (Any two from): Pulling force / Tension, Friction / Drag, Weight / Gravity, Normal force / Reaction force. (1 mark for each correct force, max 2 marks)\n\n(b) The pulling force (10 N) is equal in magnitude and opposite in direction to the friction force (10 N), so the forces acting on the block are balanced. (1 mark) Because the forces are balanced, the block will continue to move at a constant speed (1 mark) in a straight line. (1 mark)\n\n(c) When Maya stops pulling, the pulling force on the block becomes zero. (1 mark) However, the friction force is still acting on the block, opposing its motion. (1 mark) This creates an unbalanced force (friction) acting on the block in the opposite direction to its movement. (1 mark) Because of this unbalanced force, the block will decelerate (slow down) and eventually come to a complete stop. (1 mark)\n\n(d) Formula: Speed = Distance / Time (1 mark)\nSubstitution: Speed = 8 m / 16 s (1 mark)\nAnswer: Speed = 0.5 m/s (1 mark, including units)",
+      "explanation": "This question assesses the student's understanding of balanced and unbalanced forces, the role of friction, and the calculation of speed. \nPart (a) requires identifying common forces. \nPart (b) tests the concept of balanced forces leading to constant velocity. \nPart (c) demands an explanation of how friction causes deceleration and stopping when the driving force is removed, requiring a clear cause-and-effect linkage. \nPart (d) is a direct application of the speed formula, requiring correct formula, substitution, and units.",
+      "hint": "For part (d), remember that speed is calculated by dividing the distance travelled by the time taken.",
+      "generatedAt": "2026-04-30T08:40:29.881322"
+    },
+    {
+      "id": "s-y7-forces_advanced_010",
+      "topicId": "s-y7-forces",
+      "subject": "Science",
+      "difficulty": "Advanced",
+      "yearLevel": 7,
+      "text": "Alex is riding a bicycle along a flat, straight path. Initially, Alex pushes the pedals with a force of 70 N. At this moment, the total opposing forces from air resistance and friction are 30 N. Alex then stops pedalling and coasts. While coasting, the total opposing forces remain constant at 25 N. Alex then coasts for a distance of 60 metres, and it takes 12 seconds to cover this distance.\n\nWhich of the following statements is **correct** regarding Alex's motion and average speed while coasting?",
+      "options": [
+        "A) The resultant force when Alex is pedalling is 40 N, and Alex's average speed while coasting is 5 m/s.",
+        "B) The resultant force when Alex is pedalling is 100 N, and Alex's average speed while coasting is 5 m/s.",
+        "C) The resultant force when Alex is pedalling is 40 N, and Alex's average speed while coasting is 720 m/s.",
+        "D) The resultant force when Alex is pedalling is 100 N, and Alex's average speed while coasting is 0.2 m/s."
+      ],
+      "correctAnswer": "A) The resultant force when Alex is pedalling is 40 N, and Alex's average speed while coasting is 5 m/s.",
+      "explanation": "1.  **Calculate the resultant force when Alex is pedalling:**\n    The pedalling force is in the direction of motion (70 N). The opposing forces (air resistance and friction) are against the motion (30 N).\n    Resultant Force = Applied Force - Opposing Force\n    Resultant Force = 70 N - 30 N = 40 N\n    This resultant force is unbalanced and acts in the direction of motion, meaning Alex's speed will increase while pedalling.\n\n2.  **Calculate Alex's average speed while coasting:**\n    Distance covered = 60 metres\n    Time taken = 12 seconds\n    Formula: Speed = Distance / Time\n    Substitution: Speed = 60 m / 12 s\n    Answer: Speed = 5 m/s\n\nComparing these results with the given options, Option A correctly states both the resultant force (40 N) and the average speed (5 m/s).",
+      "hint": "Remember to calculate the resultant force by finding the difference between the forces acting in opposite directions. Then, use the formula Speed = Distance / Time to determine the average speed.",
+      "generatedAt": "2026-04-30T08:41:13.409059"
+    }
+  ]
+}
