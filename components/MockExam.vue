@@ -32,6 +32,32 @@ import { ref, computed, watch, onUnmounted } from 'vue';
 import { CURRICULUM } from '../constants';
 import { db } from '../services/dbService';
 
+// ── AI via Flask proxy — key never in frontend ────────────────────────────────
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+
+const callAI = async (prompt) => {
+  const res = await fetch(`${API_BASE}/ai/generate`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ prompt })
+  });
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data.text || '';
+};
+
+const callAIVision = async (prompt, imageData, mimeType) => {
+  const res = await fetch(`${API_BASE}/ai/vision`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ prompt, imageData, mimeType })
+  });
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data.text || '';
+};
+
+
 const props = defineProps(['student']);
 const emit = defineEmits(['back']);
 
@@ -113,19 +139,10 @@ const extractPaperStyle = async () => {
   isAnalysing.value = true;
   uploadError.value = '';
   try {
-    const GEMINI_KEY = import.meta.env.VITE_API_KEY;
-    if (!GEMINI_KEY) throw new Error('No API key');
-    const { GoogleGenAI } = await import('@google/genai');
-    const ai = new GoogleGenAI({ apiKey: GEMINI_KEY });
     const subjectHint = uploadingForSubject.value === 'Maths'
       ? 'This is a GCSE Maths exam paper.'
       : 'This is a GCSE Science exam paper (Biology, Chemistry, or Physics).';
-    const res = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: {
-        parts: [
-          {
-            text: subjectHint + ` Look at this school exam paper.
+    const visionPrompt = subjectHint + ` Look at this school exam paper.
 Extract ONLY the format, style and structure information — NOT the questions or topics.
 Return ONLY valid JSON:
 {
@@ -139,13 +156,8 @@ Return ONLY valid JSON:
   "sectionStructure": "describe sections e.g. Section A short questions, Section B structured",
   "difficultyProgression": "e.g. easier first or mixed",
   "specialInstructions": "e.g. calculators allowed, show working, significant figures"
-}`
-          },
-          { inlineData: { data: uploadedFile.value.base64, mimeType: uploadedFile.value.mimeType } }
-        ]
-      }
-    });
-    const raw = res.text || '{}';
+}`;
+    const raw = await callAIVision(visionPrompt, uploadedFile.value.base64, uploadedFile.value.mimeType);
     const extracted = JSON.parse(raw.replace(/```json|```/g, '').trim());
     // Save to the correct subject slot
     saveStyleForSubject(uploadingForSubject.value, extracted);
@@ -272,7 +284,7 @@ const generateMockPaper = async () => {
 
   try {
     const CF_WORKER_URL = import.meta.env.VITE_CF_WORKER_URL || '';
-    const GEMINI_KEY = import.meta.env.VITE_API_KEY || '';
+    const GEMINI_KEY = true; // proxy handles auth
     const yr = props.student.yearLevel;
     const subj = activeSubject.value;
 
@@ -460,15 +472,9 @@ Return ONLY this JSON — no markdown fences, no extra text before or after:
       });
       raw = (await r.json())?.result?.response || '';
     } else if (GEMINI_KEY) {
-      const { GoogleGenAI } = await import('@google/genai');
-      const ai = new GoogleGenAI({ apiKey: GEMINI_KEY });
-      const r = await ai.models.generateContent({
-        model: 'gemini-2.5-flash',
-        contents: prompt + promptSuffix
-      });
-      raw = r.text || '';
+      raw = await callAI(prompt + promptSuffix);
     } else {
-      throw new Error('No AI configured. Set VITE_API_KEY in your .env file.');
+      throw new Error('No AI configured.');
     }
     
     console.log('MockExam AI response length:', raw.length, 'Preview:', raw.substring(0, 100));
@@ -619,11 +625,7 @@ const handleScanUpload = async (e) => {
       reader.readAsDataURL(file);
     });
 
-    const GEMINI_KEY = import.meta.env.VITE_API_KEY || '';
-    if (!GEMINI_KEY) throw new Error('No API key configured');
-
-    const { GoogleGenAI } = await import('@google/genai');
-    const ai = new GoogleGenAI({ apiKey: GEMINI_KEY });
+    // callAIVision handles auth via Flask proxy
 
     const paper = scanningPaper.value;
     const questionList = (paper.sections || []).flatMap(s =>
@@ -631,27 +633,14 @@ const handleScanUpload = async (e) => {
     ).join('\n');
 
     // Ask Gemini Vision to read handwritten answers from the photo
-    const res = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: {
-        parts: [
-          {
-            text: 'This is a student handwritten answer paper for a GCSE exam.\n' +
-              'The questions on the paper are:\n' + questionList + '\n\n' +
-              'Read the handwritten answers carefully for each question.\n' +
-              'Return ONLY this JSON:\n' +
-              '{\n' +
-              '  "answers": { "1": "student answer to q1", "2": "student answer to q2" },\n' +
-              '  "readingQuality": "clear or mostly clear or difficult to read",\n' +
-              '  "notes": "any notes about handwriting quality or blank questions"\n' +
-              '}'
-          },
-          { inlineData: { data: base64, mimeType: file.type || 'image/jpeg' } }
-        ]
-      }
-    });
-
-    const raw = res.text || '';
+    const scanPrompt = 'This is a student handwritten answer paper for a GCSE exam.\n' +
+      'The questions on the paper are:\n' + questionList + '\n\n' +
+      'Read the handwritten answers carefully for each question.\n' +
+      'Return ONLY this JSON:\n' +
+      '{"answers":{"1":"student answer to q1","2":"student answer to q2"},' +
+      '"readingQuality":"clear or mostly clear or difficult to read",' +
+      '"notes":"any notes about handwriting quality"}';
+    const raw = await callAIVision(scanPrompt, base64, file.type || 'image/jpeg');
     const clean = raw.replace(/\`\`\`json\s*/g, '').replace(/\`\`\`\s*/g, '').trim();
     const s = clean.indexOf('{'), en = clean.lastIndexOf('}');
     const readResult = s !== -1 ? JSON.parse(clean.substring(s, en + 1)) : { answers: {} };
@@ -728,7 +717,7 @@ const markAnswers = async () => {
   isMarking.value = true;
   const paper = activePaper.value;
   const CF = import.meta.env.VITE_CF_WORKER_URL || '';
-  const GK = import.meta.env.VITE_API_KEY || '';
+  const GK = true; // proxy handles auth
   const qs = paper.sections?.flatMap(s => s.questions) || [];
 
   for (let i = 0; i < qs.length; i++) {
@@ -746,10 +735,7 @@ Return ONLY JSON: {"awardedMarks":<0-${q.marks}>,"feedback":"one sentence","impr
           body: JSON.stringify({ model: '@cf/meta/llama-3.1-8b-instruct', messages: [{ role: 'system', content: 'Return only JSON.' }, { role: 'user', content: p }] }) });
         raw = (await r.json())?.result?.response || '';
       } else if (GK) {
-        const { GoogleGenAI } = await import('@google/genai');
-        const ai = new GoogleGenAI({ apiKey: GK });
-        const r = await ai.models.generateContent({ model: 'gemini-2.5-flash', contents: p,  });
-        raw = r.text || '';
+        raw = await callAI(p);
       }
       const cl = raw.replace(/```json|```/g, '').trim();
       const result = JSON.parse(cl.substring(cl.indexOf('{'), cl.lastIndexOf('}') + 1));

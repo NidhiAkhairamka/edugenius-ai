@@ -136,6 +136,7 @@ const toggleCard = (idx) => {
   else revealedCards.value.add(idx);
 };
 
+
 // ── Phase watcher ──────────────────────────────────────────────────────────────
 watch(phase, (newPhase) => {
   if ((newPhase === 'practice' || newPhase === 'test') && !question.value && !loading.value) {
@@ -267,17 +268,14 @@ const loadSynthesis = async () => {
   try {
     loadState();
 
-    // Try static pre-generated curriculum FIRST (instant, no API call)
-    // Falls back to DB-cached curriculum, then live AI generation
-    const [staticCurriculum, cachedHub, cachedCurriculum] = await Promise.all([
-      db.getStaticCurriculum(props.topic.id).catch(() => null),
-      db.getTopicSynthesis(props.student.name, props.topic.id).catch(() => null),
-      db.getCurriculum(props.topic.id).catch(() => null)
-    ]);
+    // STEP 1: Load static curriculum first — one network call
+    let staticCurriculum = null;
+    try {
+      staticCurriculum = await db.getStaticCurriculum(props.topic.id);
+    } catch(e) { staticCurriculum = null; }
 
-    // If static curriculum exists, use it immediately — no AI call needed
     if (staticCurriculum) {
-      // Wrap in the same shape as curriculum_analysis from DB
+      // Show content immediately — stop spinner now
       curriculumData.value = {
         topicId: props.topic.id,
         subject: props.topic.subject,
@@ -285,26 +283,32 @@ const loadSynthesis = async () => {
         logicProfile: staticCurriculum,
         commonQuestions: staticCurriculum.concepts || []
       };
+      loading.value = false; // ← Content visible NOW, no more waiting
+
+      // STEP 2: Load notes hub in background — doesn't block UI
+      db.getTopicSynthesis(props.student.name, props.topic.id)
+        .then(cachedHub => {
+          if (cachedHub) {
+            notebookHubData.value = cachedHub;
+            isHubSynced.value = true;
+          } else if (briefingCount.value > 0) {
+            resynthesizeWithNotes();
+          }
+        }).catch(() => {});
+      return;
     }
 
-    // Load cached hub (notes + curriculum merged)
+    // STEP 3: No static content — try DB cache then AI (sequential fallback)
+    const [cachedHub, cachedCurriculum] = await Promise.all([
+      db.getTopicSynthesis(props.student.name, props.topic.id).catch(() => null),
+      db.getCurriculum(props.topic.id).catch(() => null)
+    ]);
+
     if (cachedHub) {
       notebookHubData.value = cachedHub;
       isHubSynced.value = true;
     }
 
-    // Static curriculum found — no AI call needed at all
-    // Only fall through to DB cache or live generation if static not available
-    if (staticCurriculum) {
-      // Static content loaded above — just check if notes need synthesising
-      if (!cachedHub && briefingCount.value > 0) {
-        await resynthesizeWithNotes();
-      }
-      // Done — no AI call, no DB curriculum call needed
-      return;
-    }
-
-    // No static content — try DB cached curriculum
     const hasRealCurriculum = cachedCurriculum &&
       isRealAIContent(getLogicProfile(cachedCurriculum));
 
@@ -314,7 +318,6 @@ const loadSynthesis = async () => {
         await resynthesizeWithNotes();
       }
     } else {
-      // Last resort — generate fresh from AI and combine with notes
       await generateAndSyncCurriculum();
     }
   } catch (e) {
@@ -693,6 +696,7 @@ onMounted(loadSynthesis);
 
         <!-- TAB: CONCEPT -->
         <div v-if="briefingTab === 'Concept'" class="space-y-5 animate-in fade-in">
+
           <div class="space-y-2">
             <div class="flex items-center justify-between">
               <div class="flex items-center gap-2">

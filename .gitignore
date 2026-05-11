@@ -33,3 +33,7 @@ Thumbs.db
 android/.gradle/
 android/app/build/
 android/build/
+eas.json
+app.json
+
+assets/public/

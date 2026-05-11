@@ -1,15 +1,9 @@
-import { GoogleGenAI, Type } from '@google/genai';
 import { Question, AssessmentResult, Difficulty, Topic, PaperAnalysis, StudyPack } from '../types';
 
-const getAI = () => {
-  const key = (import.meta as any).env.VITE_API_KEY || '';
-  if (!key) throw new Error('KEY_SYNC_REQUIRED');
-  return new GoogleGenAI({ apiKey: key });
-};
+// ─── Core API calls — all routed through Flask proxy ─────────────────────────
+// Key is stored securely on the server, never in the frontend bundle.
 
-const MODEL = 'gemini-2.5-flash';
-
-// ─── JSON helper ──────────────────────────────────────────────────────────────
+const API_BASE = (import.meta as any).env.VITE_API_URL || 'http://localhost:5000/api';
 
 const parseJSON = (text: string, fallback: any) => {
   if (!text) return fallback;
@@ -26,30 +20,40 @@ const parseJSON = (text: string, fallback: any) => {
   }
 };
 
+// Text prompt → Flask → Gemini → text response
 const ask = async (prompt: string): Promise<string> => {
-  const ai = getAI();
-  const res = await ai.models.generateContent({ model: MODEL, contents: prompt });
-  return res.text || '';
+  const res = await fetch(`${API_BASE}/ai/generate`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ prompt })
+  });
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data.text || '';
 };
 
+// Text prompt with system instruction → Flask → Gemini
 const askWithSystem = async (prompt: string, system: string): Promise<string> => {
-  const ai = getAI();
-  const res = await ai.models.generateContent({
-    model: MODEL,
-    contents: prompt,
-    config: { systemInstruction: system }
+  const res = await fetch(`${API_BASE}/ai/generate`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ prompt, system })
   });
-  return res.text || '';
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data.text || '';
 };
 
+// Vision: image + prompt → Flask → Gemini Vision
 const askVision = async (prompt: string, imageData: string, mimeType: string): Promise<string> => {
-  const ai = getAI();
-  const res = await ai.models.generateContent({
-    model: MODEL,
-    contents: { parts: [{ text: prompt }, { inlineData: { data: imageData, mimeType } }] },
-    config: { responseMimeType: 'application/json' }
+  const res = await fetch(`${API_BASE}/ai/vision`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ prompt, imageData, mimeType })
   });
-  return res.text || '';
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data.text || '';
 };
 
 const prepareBase64 = (base64: string, fallbackMime: string) => {
@@ -62,9 +66,6 @@ const prepareBase64 = (base64: string, fallbackMime: string) => {
 
 export const Agents = {
 
-  // ── SOCRATES MODE 1: Question Hint ────────────────────────────────────────
-  // Used in Practice/Test when student is stuck on a specific question.
-  // Strict Socratic mode — NEVER gives the answer. Only guided hints.
   Socrates: {
     hintForQuestion: async (
       userQuery: string,
@@ -83,7 +84,6 @@ export const Agents = {
 
         const system = `You are Socrates tutoring a Year ${yearLevel} GCSE student.
 The student is stuck on a specific exam question. Your ONLY job is to guide them toward the answer without giving it.
-
 STRICT RULES:
 1. NEVER state the answer or give the final calculation result
 2. Ask ONE guiding question that points them in the right direction
@@ -97,9 +97,6 @@ STRICT RULES:
       }
     },
 
-    // ── SOCRATES MODE 2: Topic Explanation ──────────────────────────────────
-    // Used in Briefing tab when student has a conceptual doubt about the topic.
-    // Free explanation mode — can explain concepts clearly, no answer restriction.
     explainTopic: async (
       userQuery: string,
       briefingContext: { topicName: string; overview: string; formulas: string[]; steps: string[]; flashcards: Array<{front: string; back: string}>; mistakes: string[] },
@@ -117,7 +114,6 @@ STRICT RULES:
 
         const system = `You are a GCSE tutor helping a Year ${yearLevel} student understand a topic concept.
 The student has a CONCEPTUAL DOUBT — they are not asking for help with an exam question.
-
 RULES:
 1. Explain concepts CLEARLY — you CAN give full explanations and definitions
 2. Use simple language appropriate for Year ${yearLevel}
@@ -132,7 +128,6 @@ RULES:
     }
   },
 
-  // ── Tutor — generates briefing content ────────────────────────────────────
   Tutor: {
     generateExplanation: async (topic: Topic, yearLevel: number, studyPacks: StudyPack[] = []) => {
       const fallback = {
@@ -185,7 +180,6 @@ Return ONLY this JSON (no other text):
     }
   },
 
-  // ── Briefing — vision: extract knowledge from uploaded notes ───────────────
   Briefing: {
     processSource: async (base64Data: string, mimeType: string): Promise<StudyPack> => {
       const fallback = { playbook: '', proceduralDNA: '', logicSteps: [], flashcards: [], commonMistakes: [], keyFormulas: [] };
@@ -209,9 +203,6 @@ Return this JSON exactly:
     }
   },
 
-  // ── NotebookLM — combines notes AND curriculum into unified hub ────────────
-  // KEY CHANGE: now receives both notes AND curriculum content and explicitly merges them.
-  // Curriculum = foundational accuracy. Notes = teacher-specific emphasis and examples.
   NotebookLM: {
     synthesizeHub: async (
       studyPacks: StudyPack[],
@@ -230,7 +221,7 @@ Explanation: ${curriculumContent.explanation}`
           : `Use standard GCSE Year ${yearLevel} curriculum for "${topicName}" as the foundation.`;
 
         const notesBlock = studyPacks?.length > 0
-          ? `STUDENT NOTES (enrich the curriculum with these — include teacher examples, specific emphasis, additional worked examples):
+          ? `STUDENT NOTES (enrich the curriculum with these):
 ${JSON.stringify(studyPacks.map(s => ({ playbook: s.playbook, logicSteps: s.logicSteps, keyFormulas: s.keyFormulas, flashcards: s.flashcards })))}`
           : 'No student notes uploaded — use curriculum only.';
 
@@ -244,13 +235,11 @@ INSTRUCTIONS:
 - The curriculum provides the foundational, exam-accurate content
 - The student notes add their teacher's specific examples, phrasing, and emphasis
 - Merge both: keep curriculum accuracy, add notes-specific detail
-- Flashcards should include both curriculum fundamentals AND any specific examples from notes
-- If notes have specific worked examples, include them in logicSteps
 
 Return ONLY this JSON:
 {
   "playbook": "combined overview: curriculum foundation + any additional context from notes",
-  "logicSteps": ["specific step 1 from curriculum/notes", "specific step 2", "specific step 3", "specific step 4"],
+  "logicSteps": ["specific step 1", "specific step 2", "specific step 3", "specific step 4"],
   "flashcards": [
     {"front": "key question from curriculum", "back": "answer"},
     {"front": "question from student notes if available", "back": "answer"},
@@ -270,7 +259,7 @@ Return ONLY this JSON:
   }
 };
 
-// ─── Vision Agent (Paper Scanner) ─────────────────────────────────────────────
+// ─── Vision Agent ─────────────────────────────────────────────────────────────
 
 export const VisionAgent = {
   analyzePaper: async (base64Data: string, mimeType: string): Promise<PaperAnalysis> => {
@@ -293,8 +282,6 @@ export const VisionAgent = {
 };
 
 // ─── Question Agent ───────────────────────────────────────────────────────────
-// KEY CHANGE: now receives full structured knowledge context, not just a brief string.
-// Also tracks recently asked questions to avoid repetition.
 
 export const QuestionAgent = {
   generateQuestion: async (
@@ -307,7 +294,7 @@ export const QuestionAgent = {
       concepts?: string[];
       commonMistakes?: string[];
       explanation?: string;
-      recentQuestions?: string[]; // avoid repeating these
+      recentQuestions?: string[];
     },
     isTest?: boolean,
     studyPacks?: StudyPack[]
@@ -324,7 +311,6 @@ export const QuestionAgent = {
     };
 
     try {
-      // Build rich structured knowledge context
       const ctx = knowledgeContext || {};
       const knowledgeBlock = [
         ctx.overview ? `Topic overview: ${ctx.overview}` : '',
@@ -339,7 +325,7 @@ export const QuestionAgent = {
         : '';
 
       const notesStyle = studyPacks?.length
-        ? `\nMatch question style and emphasis from student's uploaded notes: ${studyPacks.map(s => s.proceduralDNA).filter(Boolean).join('; ')}`
+        ? `\nMatch question style from student notes: ${studyPacks.map(s => s.proceduralDNA).filter(Boolean).join('; ')}`
         : '';
 
       const raw = await ask(`Write a ${difficulty} GCSE ${topic.subject} question on "${topic.name}" for Year ${studentYear}.
@@ -360,26 +346,22 @@ DIAGRAM RULES (no images available):
 
 Return ONLY this JSON:
 {
-  "text": "complete self-contained question with all values — student needs nothing else to answer it",
+  "text": "complete self-contained question with all values",
   "options": ["option A", "option B", "option C", "option D"],
   "correctAnswer": "must match one option exactly",
-  "explanation": "step by step working showing why this is correct, referencing the formula used",
+  "explanation": "step by step working showing why this is correct",
   "hint": "specific clue about which method or formula to use"
 }
 For open-ended: options:[] and correctAnswer:"full model answer with working".`);
 
       const data = parseJSON(raw, null);
-
       if (!data?.text || data.text.length < 15) {
         console.warn('EduGenius QuestionAgent: weak response for', topic.name);
         return fallback;
       }
-
       if (data.options?.length > 0 && !data.options.includes(data.correctAnswer)) {
-        console.warn('EduGenius: correctAnswer not in options, fixing');
         data.correctAnswer = data.options[0];
       }
-
       return {
         id: Math.random().toString(36).substr(2, 9),
         subject: topic.subject, topic: topic.name, difficulty, isExamStyle: isTest,

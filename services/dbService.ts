@@ -1,6 +1,6 @@
 import { StudentProfile } from "../types";
 
-const API_BASE = (import.meta as any).env.VITE_API_URL || 'http://localhost:5000/api';
+const API_BASE = 'http://192.168.1.69:5000/api';
 
 class DatabaseManager {
   async init(): Promise<boolean> {

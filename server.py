@@ -405,6 +405,64 @@ def save_mock_paper():
         return jsonify({"error": str(e)}), 500
 
 # ─────────────────────────────────────────────────────────────────────────────
+# ── Gemini AI Proxy ──────────────────────────────────────────────────────────
+# All AI calls go through here — key never touches the frontend
+
+def _call_gemini_api(payload):
+    import urllib.request, urllib.error
+    key = os.environ.get('GEMINI_API_KEY', '')
+    if not key:
+        raise Exception('GEMINI_API_KEY not set as environment variable')
+    model = payload.get('model', 'gemini-2.5-flash')
+    url = f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}'
+    body = json.dumps({'contents': payload['contents']}).encode('utf-8')
+    req = urllib.request.Request(url, data=body,
+        headers={'Content-Type': 'application/json'}, method='POST')
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data = json.loads(r.read())
+        return data['candidates'][0]['content']['parts'][0]['text']
+
+@app.route('/api/ai/generate', methods=['POST'])
+def ai_generate():
+    try:
+        data = request.json or {}
+        prompt = data.get('prompt', '')
+        system = data.get('system', '')
+
+        if system:
+            full_prompt = 'SYSTEM: ' + system + '\n\nUSER: ' + prompt
+        else:
+            full_prompt = prompt
+
+        text = _call_gemini_api({
+            'contents': [{'parts': [{'text': full_prompt}]}]
+        })
+        return jsonify({'text': text})
+    except Exception as e:
+        print(f'AI generate error: {e}')
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/ai/vision', methods=['POST'])
+def ai_vision():
+    try:
+        data = request.json or {}
+        prompt    = data.get('prompt', '')
+        image_data = data.get('imageData', '')
+        mime_type  = data.get('mimeType', 'image/jpeg')
+
+        text = _call_gemini_api({
+            'contents': [{
+                'parts': [
+                    {'text': prompt},
+                    {'inline_data': {'mime_type': mime_type, 'data': image_data}}
+                ]
+            }]
+        })
+        return jsonify({'text': text})
+    except Exception as e:
+        print(f'AI vision error: {e}')
+        return jsonify({'error': str(e)}), 500
+
 # ── Static Question Bank Routes ───────────────────────────────────────────────
 
 @app.route('/api/question/static', methods=['POST'])
