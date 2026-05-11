@@ -29,7 +29,9 @@ from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-API_KEY    = os.environ.get('GEMINI_API_KEY') or 'AIzaSyCBDFr38KZNmZdyG1wvvGAwCLrSkzf9o7w'
+API_KEY = os.environ.get('GEMINI_API_KEY', '')
+if not API_KEY:
+    raise ValueError('Set GEMINI_API_KEY as an environment variable before running')
 MODEL      = 'gemini-2.5-flash'
 DATA_DIR   = Path(__file__).parent / 'data'
 Q_DIR      = DATA_DIR / 'questions'
