@@ -8,10 +8,17 @@ An AI-powered GCSE revision app for Years 5–10, built as a native Android app.
 
 ## Screenshots
 
+## Screenshots
+
 <div align="center">
 
-| Dashboard | Briefing | Practice | Flashcards | MockExam |
-| <img src="screenshots/Dashboard.jpg" width="200"/> | <img src="screenshots/Concept.jpg" width="200"/> | <img src="screenshots/Practice.jpg" width="200"/> | <img src="screenshots/Flashcards.jpg" width="200"/> | <img src="screenshots/MockExam.jpg" width="200"/> |
+| Dashboard | Briefing | Practice |
+|:---------:|:--------:|:--------:|
+| <img src="screenshots/Dashboard.jpeg" width="200"/> | <img src="screenshots/Concept.jpeg" width="200"/> | <img src="screenshots/Practice.jpeg" width="200"/> |
+
+| Flashcards | Mock Exam |
+|:----------:|:---------:|
+| <img src="screenshots/Flashcards.jpeg" width="200"/> | <img src="screenshots/MockExam.jpeg" width="200"/> |
 
 </div>
 
