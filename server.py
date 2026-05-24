@@ -543,6 +543,10 @@ def bank_stats():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+@app.route('/', methods=['GET'])
+def root():
+    return jsonify({"service": "EduGenius API", "status": "online"})
+
 # ── Start ─────────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
     init_db()
