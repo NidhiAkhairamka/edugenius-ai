@@ -37,3 +37,4 @@ eas.json
 app.json
 
 assets/public/
+.vercel
