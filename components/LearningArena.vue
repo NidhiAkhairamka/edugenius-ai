@@ -1,8 +1,8 @@
 <script setup>
 import { ref, onMounted, computed, watch } from 'vue';
 import { AssessmentAgent, Agents } from '../services/geminiService';
-import { generateValidatedQuestion } from '../services/questionManager';
-import { AdaptiveDifficultyEngine } from '../services/adaptiveDifficulty';
+import { generateValidatedQuestion } from '../services/Questionmanager';
+import { AdaptiveDifficultyEngine } from '../services/Adaptivedifficulty';
 import { Difficulty } from '../types';
 import { db } from '../services/dbService';
 
