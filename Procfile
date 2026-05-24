@@ -1,1 +1,1 @@
-web: gunicorn server:app
+'web: gunicorn server:app --bind 0.0.0.0:$PORT' | Out-File -Encoding UTF8 Procfile
