@@ -8,7 +8,9 @@ const navItems = [
   { id: 'dashboard', label: 'Home',     icon: '🏠' },
   { id: 'mockexam',  label: 'Mock',     icon: '📝' },
   { id: 'shop',      label: 'Armory',   icon: '🛡️' },
-  { id: 'stats',     label: 'Progress', icon: '📈' }
+  { id: 'stats',     label: 'Progress', icon: '📈' },
+  { id: 'diagnostic', label: 'Diagnostic', icon: 'ti-clipboard-check' },
+{ id: 'skillmap',   label: 'Skill Map',  icon: 'ti-network' },
 ];
 
 // Hide the header/nav inside LearningArena (it has its own UI)

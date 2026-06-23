@@ -4,6 +4,8 @@ import Auth from './components/Auth.vue';
 import Dashboard from './components/Dashboard.vue';
 import LearningArena from './components/LearningArena.vue';
 import Layout from './components/Layout.vue';
+import AdaptiveDiagnostic from './components/Adaptivediagnostic.vue';
+import SkillMap from './components/SkillMap.vue';
 import Statistics from './components/Statistics.vue';
 import AgentShop from './components/AgentShop.vue';
 import AcademyGuide from './components/AcademyGuide.vue';
@@ -71,6 +73,10 @@ const handleStartTopic = async (topic) => {
 
 const handleComplete = () => {
   view.value = 'dashboard';
+};
+
+const handleDiagnosticComplete = (data) => {
+  view.value = 'skillmap';
 };
 
 const handleUpdateProgress = (topicId, score, difficulty) => {
@@ -148,6 +154,21 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
           <AcademyGuide v-else-if="view === 'guide'" @back="view = 'dashboard'" />
           <MockExam v-else-if="view === 'mockexam'" :student="student" @back="view = 'dashboard'" />
           <PaperScanner v-else-if="view === 'scanning'" @analysisComplete="() => view = 'dashboard'" @cancel="view = 'dashboard'" />
+
+          <AdaptiveDiagnostic
+  v-else-if="view === 'diagnostic'"
+  :student="student"
+  @exit="view = 'dashboard'"
+  @complete="(data) => { view = 'skillmap'; }"
+/>
+<SkillMap
+  v-else-if="view === 'skillmap'"
+  :student="student"
+  @back="view = 'dashboard'"
+  @takeDiagnostic="view = 'diagnostic'"
+  @planGenerated="view = 'dashboard'"
+/>
+
         </Transition>
       </Layout>
 

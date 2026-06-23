@@ -547,6 +547,274 @@ def bank_stats():
 def root():
     return jsonify({"service": "EduGenius API", "status": "online"})
 
+
+# ── Diagnostic Results ───────────────────────────────────────────────────────
+# Add these routes to server.py after the existing /api/logs routes
+# These store per-question diagnostic results mapped to skill nodes
+
+@app.route('/api/diagnostic/save', methods=['POST'])
+def save_diagnostic_result():
+    """Save a single diagnostic answer with skill node mapping."""
+    try:
+        d = request.json or {}
+        conn = get_db()
+
+        # Create table if not exists
+        if DB_TYPE == 'postgres':
+            db_execute(conn, '''
+                CREATE TABLE IF NOT EXISTS diagnostic_results (
+                    id TEXT PRIMARY KEY,
+                    "studentName" TEXT NOT NULL,
+                    "sessionId" TEXT NOT NULL,
+                    "questionId" TEXT NOT NULL,
+                    "skillNode" TEXT NOT NULL,
+                    "skillLevel" INTEGER NOT NULL,
+                    section TEXT NOT NULL,
+                    "isCorrect" BOOLEAN NOT NULL,
+                    "wasSkipped" BOOLEAN DEFAULT FALSE,
+                    "studentAnswer" TEXT,
+                    "correctAnswer" TEXT,
+                    "timeTakenSecs" INTEGER,
+                    evidence TEXT,
+                    "createdAt" TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                )
+            ''')
+        else:
+            db_execute(conn, '''
+                CREATE TABLE IF NOT EXISTS diagnostic_results (
+                    id TEXT PRIMARY KEY,
+                    studentName TEXT NOT NULL,
+                    sessionId TEXT NOT NULL,
+                    questionId TEXT NOT NULL,
+                    skillNode TEXT NOT NULL,
+                    skillLevel INTEGER NOT NULL,
+                    section TEXT NOT NULL,
+                    isCorrect INTEGER NOT NULL,
+                    wasSkipped INTEGER DEFAULT 0,
+                    studentAnswer TEXT,
+                    correctAnswer TEXT,
+                    timeTakenSecs INTEGER,
+                    evidence TEXT,
+                    createdAt DATETIME DEFAULT CURRENT_TIMESTAMP
+                )
+            ''')
+
+        conn.commit()
+
+        # Save the result
+        import uuid
+        result_id = d.get('id', str(uuid.uuid4()))
+
+        if DB_TYPE == 'postgres':
+            db_execute(conn, '''
+                INSERT INTO diagnostic_results
+                (id, "studentName", "sessionId", "questionId", "skillNode",
+                 "skillLevel", section, "isCorrect", "wasSkipped",
+                 "studentAnswer", "correctAnswer", "timeTakenSecs", evidence)
+                VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+                ON CONFLICT (id) DO NOTHING
+            ''', (
+                result_id, d['studentName'], d['sessionId'], d['questionId'],
+                d['skillNode'], d['skillLevel'], d['section'],
+                d['isCorrect'], d.get('wasSkipped', False),
+                d.get('studentAnswer', ''), d.get('correctAnswer', ''),
+                d.get('timeTakenSecs', 0), d.get('evidence', '')
+            ))
+        else:
+            db_execute(conn, '''
+                INSERT OR IGNORE INTO diagnostic_results
+                (id, studentName, sessionId, questionId, skillNode,
+                 skillLevel, section, isCorrect, wasSkipped,
+                 studentAnswer, correctAnswer, timeTakenSecs, evidence)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+            ''', (
+                result_id, d['studentName'], d['sessionId'], d['questionId'],
+                d['skillNode'], d['skillLevel'], d['section'],
+                1 if d['isCorrect'] else 0,
+                1 if d.get('wasSkipped') else 0,
+                d.get('studentAnswer', ''), d.get('correctAnswer', ''),
+                d.get('timeTakenSecs', 0), d.get('evidence', '')
+            ))
+
+        conn.commit()
+        conn.close()
+        return jsonify({"status": "saved", "id": result_id})
+    except Exception as e:
+        print(f"Diagnostic save error: {e}")
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route('/api/diagnostic/results/<student_name>', methods=['GET'])
+def get_diagnostic_results(student_name):
+    """Get all diagnostic results for a student — used to build the skill map."""
+    try:
+        conn = get_db()
+
+        # Ensure table exists
+        if DB_TYPE == 'postgres':
+            db_execute(conn, '''
+                CREATE TABLE IF NOT EXISTS diagnostic_results (
+                    id TEXT PRIMARY KEY,
+                    "studentName" TEXT NOT NULL,
+                    "sessionId" TEXT NOT NULL,
+                    "questionId" TEXT NOT NULL,
+                    "skillNode" TEXT NOT NULL,
+                    "skillLevel" INTEGER NOT NULL,
+                    section TEXT NOT NULL,
+                    "isCorrect" BOOLEAN NOT NULL,
+                    "wasSkipped" BOOLEAN DEFAULT FALSE,
+                    "studentAnswer" TEXT,
+                    "correctAnswer" TEXT,
+                    "timeTakenSecs" INTEGER,
+                    evidence TEXT,
+                    "createdAt" TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                )
+            ''')
+        else:
+            db_execute(conn, '''
+                CREATE TABLE IF NOT EXISTS diagnostic_results (
+                    id TEXT PRIMARY KEY,
+                    studentName TEXT NOT NULL,
+                    sessionId TEXT NOT NULL,
+                    questionId TEXT NOT NULL,
+                    skillNode TEXT NOT NULL,
+                    skillLevel INTEGER NOT NULL,
+                    section TEXT NOT NULL,
+                    isCorrect INTEGER NOT NULL,
+                    wasSkipped INTEGER DEFAULT 0,
+                    studentAnswer TEXT,
+                    correctAnswer TEXT,
+                    timeTakenSecs INTEGER,
+                    evidence TEXT,
+                    createdAt DATETIME DEFAULT CURRENT_TIMESTAMP
+                )
+            ''')
+        conn.commit()
+
+        cur = db_execute(conn,
+            'SELECT * FROM diagnostic_results WHERE studentName = ? ORDER BY createdAt DESC',
+            (student_name,))
+        rows = cur.fetchall()
+        conn.close()
+        return jsonify(rows_to_list(rows))
+    except Exception as e:
+        print(f"Diagnostic get error: {e}")
+        return jsonify([])
+
+
+@app.route('/api/diagnostic/session/<student_name>/<session_id>', methods=['GET'])
+def get_diagnostic_session(student_name, session_id):
+    """Get results for one specific diagnostic session."""
+    try:
+        conn = get_db()
+        cur = db_execute(conn,
+            'SELECT * FROM diagnostic_results WHERE studentName = ? AND sessionId = ? ORDER BY createdAt ASC',
+            (student_name, session_id))
+        rows = cur.fetchall()
+        conn.close()
+        return jsonify(rows_to_list(rows))
+    except Exception as e:
+        return jsonify([])
+
+
+@app.route('/api/diagnostic/skillmap/<student_name>', methods=['GET'])
+def get_skill_map(student_name):
+    """
+    Compute skill map from all diagnostic results for a student.
+    Returns per-node: confidence, source, evidence, last_tested.
+    Only uses confirmed diagnostic evidence — never guesses.
+    """
+    try:
+        conn = get_db()
+        try:
+            cur = db_execute(conn,
+                'SELECT * FROM diagnostic_results WHERE studentName = ? ORDER BY createdAt DESC',
+                (student_name,))
+            rows = rows_to_list(cur.fetchall())
+        except:
+            rows = []
+        conn.close()
+
+        if not rows:
+            return jsonify({
+                "studentName": student_name,
+                "nodes": {},
+                "summary": {
+                    "totalTested": 0,
+                    "confirmed_strong": 0,
+                    "confirmed_gaps": 0,
+                    "message": "No diagnostic results yet. Take the diagnostic test to build your skill map."
+                }
+            })
+
+        # Group by skill node — take most recent result per node
+        node_results = {}
+        for row in rows:
+            node = row.get('skillNode') or row.get('skill_node') or row.get('skillnode', '')
+            if not node:
+                continue
+            if node not in node_results:
+                node_results[node] = []
+            node_results[node].append(row)
+
+        # Compute confidence per node from all attempts
+        skill_map = {}
+        for node_id, results in node_results.items():
+            correct = sum(1 for r in results if r.get('isCorrect') or r.get('is_correct'))
+            total = len(results)
+            skipped = sum(1 for r in results if r.get('wasSkipped') or r.get('was_skipped'))
+            attempted = total - skipped
+
+            if attempted == 0:
+                # Only skipped — confirms awareness gap
+                conf = 15
+                source = 'diagnostic'
+                evidence = f'Skipped in diagnostic — not yet attempted'
+            else:
+                # Calculate confidence from actual answers
+                accuracy = correct / attempted
+                # Weight: more attempts = more confident in the score
+                weight = min(attempted / 3, 1.0)  # Full confidence after 3 questions
+                conf = int((accuracy * 80 + 10) * weight + 50 * (1 - weight))
+                conf = max(10, min(95, conf))
+                source = 'diagnostic'
+
+                if accuracy >= 0.8:
+                    evidence = f'Correct {correct}/{attempted} in diagnostic — strong'
+                elif accuracy >= 0.5:
+                    evidence = f'Correct {correct}/{attempted} — developing, more practice needed'
+                else:
+                    evidence = f'Correct {correct}/{attempted} — gap confirmed, targeted practice needed'
+
+            skill_map[node_id] = {
+                'confidence': conf,
+                'source': source,
+                'evidence': evidence,
+                'correct': correct,
+                'attempted': attempted,
+                'total': total,
+                'level': results[0].get('skillLevel') or results[0].get('skill_level', 0),
+                'section': results[0].get('section', ''),
+                'lastTested': results[0].get('createdAt') or results[0].get('created_at', ''),
+            }
+
+        confirmed_strong = sum(1 for v in skill_map.values() if v['confidence'] >= 70)
+        confirmed_gaps = sum(1 for v in skill_map.values() if v['confidence'] < 45)
+
+        return jsonify({
+            "studentName": student_name,
+            "nodes": skill_map,
+            "summary": {
+                "totalTested": len(skill_map),
+                "confirmed_strong": confirmed_strong,
+                "confirmed_gaps": confirmed_gaps,
+                "message": f"{len(skill_map)} nodes tested. {confirmed_strong} strong, {confirmed_gaps} gaps identified."
+            }
+        })
+    except Exception as e:
+        print(f"Skill map error: {e}")
+        return jsonify({"error": str(e)}), 500
+
 # ── Start ─────────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
     init_db()
