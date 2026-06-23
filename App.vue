@@ -20,10 +20,9 @@ import { db } from './services/dbService';
 const view = ref('login');
 const isLoadingDB = ref(true);
 
-// 'parent' | 'child' | null
+// 'parent' | 'child' | 'admin' | null
 const role = ref(null);
 const parentProfile = ref(null);
-const parentView = ref('home'); // home | review
 
 const student = reactive({
   ...INITIAL_STUDENT,
@@ -39,7 +38,11 @@ onMounted(async () => {
     if (sessionName) {
       const profile = await db.getProfile(sessionName);
       if (profile) {
-        if (sessionRole === 'parent' || profile.role === 'parent') {
+        if (sessionRole === 'admin' || profile.role === 'admin') {
+          parentProfile.value = profile;
+          role.value = 'admin';
+          view.value = 'admin';
+        } else if (sessionRole === 'parent' || profile.role === 'parent') {
           parentProfile.value = profile;
           role.value = 'parent';
           view.value = 'parent';
@@ -62,10 +65,17 @@ const currentSubject = ref('Maths');
 const currentTopic = ref(null);
 
 const handleLogin = async (profile) => {
+  if (profile?.role === 'admin') {
+    parentProfile.value = profile;
+    role.value = 'admin';
+    view.value = 'admin';
+    localStorage.setItem('edugenius_active_session_name', profile.email || profile.name);
+    localStorage.setItem('edugenius_active_session_role', 'admin');
+    return;
+  }
   if (profile?.role === 'parent') {
     parentProfile.value = profile;
     role.value = 'parent';
-    parentView.value = 'home';
     view.value = 'parent';
     localStorage.setItem('edugenius_active_session_name', profile.email || profile.name);
     localStorage.setItem('edugenius_active_session_role', 'parent');
@@ -129,6 +139,20 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
       <!-- LOGIN -->
       <Auth v-if="view === 'login'" @login="handleLogin" />
 
+      <!-- ADMIN (question review only) -->
+      <div v-else-if="role === 'admin'" class="h-full flex flex-col bg-slate-50">
+        <header class="flex-shrink-0 bg-white border-b border-slate-100 px-4 py-3 flex justify-between items-center shadow-sm">
+          <div class="flex items-center gap-2">
+            <div class="w-7 h-7 bg-slate-800 rounded-lg flex items-center justify-center text-white font-black text-sm shadow">🔐</div>
+            <h1 class="text-sm font-black tracking-tighter text-slate-800">EduGenius · Admin</h1>
+          </div>
+          <button @click="handleLogout" class="text-[10px] font-black uppercase tracking-widest text-slate-400 hover:text-slate-600">Log out</button>
+        </header>
+        <main class="flex-1 overflow-y-auto px-4 pt-4 pb-6">
+          <QuestionReview @back="handleLogout" />
+        </main>
+      </div>
+
       <!-- PARENT -->
       <div v-else-if="role === 'parent'" class="h-full flex flex-col bg-slate-50">
         <header class="flex-shrink-0 bg-white border-b border-slate-100 px-4 py-3 flex justify-between items-center shadow-sm">
@@ -136,15 +160,9 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
             <div class="w-7 h-7 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-black text-sm shadow">E</div>
             <h1 class="text-sm font-black tracking-tighter text-slate-800">EduGenius · Parent</h1>
           </div>
-          <button @click="parentView = parentView === 'review' ? 'home' : 'review'"
-            class="text-[10px] font-black uppercase tracking-widest px-2.5 py-1.5 rounded-lg"
-            :class="parentView === 'review' ? 'bg-indigo-600 text-white' : 'bg-slate-100 text-slate-500'">
-            {{ parentView === 'review' ? '← Family' : '✅ Review questions' }}
-          </button>
         </header>
         <main class="flex-1 overflow-y-auto px-4 pt-4 pb-6">
-          <QuestionReview v-if="parentView === 'review'" @back="parentView = 'home'" />
-          <ParentDashboard v-else :parent="parentProfile" @logout="handleLogout" />
+          <ParentDashboard :parent="parentProfile" @logout="handleLogout" />
         </main>
       </div>
 

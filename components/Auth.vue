@@ -46,6 +46,16 @@ async function childSignIn() {
   if (res.ok) emit('login', res.profile);
   else fail(res.error === 'invalid_credentials' ? 'Wrong username or password.' : 'Login failed.');
 }
+
+async function adminSignIn() {
+  error.value = '';
+  if (!email.value || !password.value) return fail('Email and password required.');
+  busy.value = true;
+  const res = await db.adminLogin(email.value, password.value);
+  busy.value = false;
+  if (res.ok) emit('login', res.profile);
+  else fail(res.error === 'invalid_credentials' ? 'Wrong admin credentials.' : 'Login failed.');
+}
 </script>
 
 <template>
@@ -62,7 +72,7 @@ async function childSignIn() {
       </div>
 
       <!-- Role selector -->
-      <div class="flex bg-slate-100 p-1.5 rounded-2xl mb-2 shadow-inner relative z-10">
+      <div v-if="role !== 'admin'" class="flex bg-slate-100 p-1.5 rounded-2xl mb-2 shadow-inner relative z-10">
         <button @click="role = 'parent'; error = ''"
           :class="['flex-1 py-2.5 rounded-xl text-[10px] font-black transition-all uppercase tracking-widest', role === 'parent' ? 'bg-white text-indigo-600 shadow-md' : 'text-slate-500']">
           👨‍👩‍👧 Parent
@@ -116,8 +126,26 @@ async function childSignIn() {
         <p class="text-[9px] text-slate-400 font-bold text-center leading-relaxed">No account yet? Ask your parent to set one up for you.</p>
       </div>
 
+      <!-- ADMIN -->
+      <div v-if="role === 'admin'" class="space-y-4 relative z-10">
+        <div class="text-center">
+          <span class="text-[10px] font-black uppercase tracking-widest text-slate-500">🔐 Admin — Question Review</span>
+        </div>
+        <div class="space-y-1">
+          <label class="text-[9px] font-black text-slate-400 uppercase tracking-widest ml-1">Admin email</label>
+          <input v-model="email" type="email" placeholder="admin@edugenius.ai" class="auth-input" @keydown.enter="adminSignIn" />
+        </div>
+        <div class="space-y-1">
+          <label class="text-[9px] font-black text-slate-400 uppercase tracking-widest ml-1">Password</label>
+          <input v-model="password" type="password" placeholder="••••••••" class="auth-input" @keydown.enter="adminSignIn" />
+        </div>
+        <button @click="adminSignIn" :disabled="busy" class="auth-btn">{{ busy ? 'Signing in…' : 'Enter Review 🔐' }}</button>
+      </div>
+
       <div class="pt-4 border-t border-slate-50 relative z-10 text-center">
-        <p class="text-[7px] text-slate-300 font-bold uppercase tracking-[0.4em]">Evidence-based • Skill-graph driven</p>
+        <button v-if="role !== 'admin'" @click="role = 'admin'; error = ''" class="text-[8px] text-slate-300 hover:text-slate-500 font-bold uppercase tracking-[0.3em]">Admin access</button>
+        <button v-else @click="role = 'parent'; error = ''" class="text-[8px] text-slate-300 hover:text-slate-500 font-bold uppercase tracking-[0.3em]">← Back to login</button>
+        <p class="text-[7px] text-slate-300 font-bold uppercase tracking-[0.4em] mt-2">Evidence-based • Skill-graph driven</p>
       </div>
     </div>
   </div>

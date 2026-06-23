@@ -177,6 +177,7 @@ def init_db():
 
         # Seed demo user
         _seed_demo(conn)
+        _seed_admin(conn)
         print("EduGenius DB initialised.")
     except Exception as e:
         print(f"DB init error: {e}")
@@ -184,6 +185,30 @@ def init_db():
             conn.rollback()
     finally:
         conn.close()
+
+def _seed_admin(conn):
+    """Seed a single admin (question reviewer) account.
+
+    Credentials come from ADMIN_EMAIL / ADMIN_PASSWORD env vars; falls back to
+    a default for first-run so review is reachable. Uses INSERT-if-missing so an
+    existing admin (e.g. with a changed password) is never overwritten.
+    """
+    email = os.environ.get('ADMIN_EMAIL', 'admin@edugenius.ai').strip().lower()
+    password = os.environ.get('ADMIN_PASSWORD', 'changeme123')
+    admin = {'role': 'admin', 'name': email, 'email': email,
+             'password': password, 'displayName': 'Admin'}
+    try:
+        if DB_TYPE == 'postgres':
+            cur = conn.cursor()
+            cur.execute('INSERT INTO profiles (name, data) VALUES (%s, %s) ON CONFLICT (name) DO NOTHING',
+                        (email, json.dumps(admin)))
+            conn.commit()
+        else:
+            conn.execute('INSERT OR IGNORE INTO profiles (name, data) VALUES (?, ?)',
+                         (email, json.dumps(admin)))
+            conn.commit()
+    except Exception as e:
+        print(f"Admin seed warning: {e}")
 
 def _seed_demo(conn):
     demo = {
@@ -291,6 +316,22 @@ def parent_signup():
         conn.commit(); conn.close()
         parent.pop('password', None)
         return jsonify({'status': 'success', 'profile': parent})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/auth/admin/login', methods=['POST'])
+def admin_login():
+    """Admin (question reviewer) login — separate from parents."""
+    try:
+        d = request.json or {}
+        email = (d.get('email') or '').strip().lower()
+        conn = get_db()
+        a = _get_profile_row(conn, email)
+        conn.close()
+        if not a or a.get('role') != 'admin' or a.get('password') != d.get('password'):
+            return jsonify({'error': 'invalid_credentials'}), 401
+        a.pop('password', None)
+        return jsonify({'status': 'success', 'profile': a})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 

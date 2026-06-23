@@ -80,6 +80,17 @@ class DatabaseManager {
     } catch (e) { return { ok: false, error: 'network' }; }
   }
 
+  async adminLogin(email: string, password: string): Promise<{ ok: boolean; profile?: any; error?: string }> {
+    try {
+      const r = await fetch(`${API_BASE}/auth/admin/login`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password })
+      });
+      const data = await r.json();
+      return r.ok ? { ok: true, profile: data.profile } : { ok: false, error: data.error };
+    } catch (e) { return { ok: false, error: 'network' }; }
+  }
+
   async childLogin(username: string, password: string): Promise<{ ok: boolean; profile?: any; error?: string }> {
     try {
       const r = await fetch(`${API_BASE}/auth/child/login`, {
