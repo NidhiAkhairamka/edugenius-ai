@@ -189,12 +189,16 @@ def init_db():
 def _seed_admin(conn):
     """Seed a single admin (question reviewer) account.
 
-    Credentials come from ADMIN_EMAIL / ADMIN_PASSWORD env vars; falls back to
-    a default for first-run so review is reachable. Uses INSERT-if-missing so an
-    existing admin (e.g. with a changed password) is never overwritten.
+    Credentials MUST come from ADMIN_EMAIL / ADMIN_PASSWORD env vars. No default
+    is used — a hard-coded password would be public in the repo and let anyone
+    into the review panel. If the vars are unset, no admin is seeded.
+    Uses INSERT-if-missing so an existing admin is never overwritten.
     """
-    email = os.environ.get('ADMIN_EMAIL', 'admin@edugenius.ai').strip().lower()
-    password = os.environ.get('ADMIN_PASSWORD', 'changeme123')
+    email = (os.environ.get('ADMIN_EMAIL') or '').strip().lower()
+    password = os.environ.get('ADMIN_PASSWORD') or ''
+    if not email or not password:
+        print("Admin not seeded — set ADMIN_EMAIL and ADMIN_PASSWORD to enable.")
+        return
     admin = {'role': 'admin', 'name': email, 'email': email,
              'password': password, 'displayName': 'Admin'}
     try:
