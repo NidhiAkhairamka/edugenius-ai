@@ -1,6 +1,21 @@
 import { StudentProfile } from "../types";
 
-const API_BASE = (import.meta as any).env.VITE_API_URL || 'http://localhost:5000/api';
+/**
+ * Resolve the API base URL defensively. VITE_API_URL has historically been set
+ * inconsistently (sometimes the bare host `web-production-...railway.app` with
+ * no protocol and no `/api` suffix), which silently broke every db call because
+ * `fetch` then treated it as a relative path. Normalise to a full origin + /api
+ * so it works regardless of how the env var is configured.
+ */
+function resolveApiBase(): string {
+  let base: string = (import.meta as any).env.VITE_API_URL || 'http://localhost:5000/api';
+  base = base.trim().replace(/\/+$/, '');
+  if (!/^https?:\/\//i.test(base)) base = 'https://' + base;   // bare host -> https://host
+  if (!/\/api$/i.test(base)) base = base + '/api';             // ensure /api path
+  return base;
+}
+
+const API_BASE = resolveApiBase();
 
 class DatabaseManager {
   async init(): Promise<boolean> {
