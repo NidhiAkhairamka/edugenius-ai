@@ -177,6 +177,7 @@ def init_db():
 
         # Seed demo user
         _seed_demo(conn)
+        _cleanup_default_admin(conn)
         _seed_admin(conn)
         print("EduGenius DB initialised.")
     except Exception as e:
@@ -185,6 +186,19 @@ def init_db():
             conn.rollback()
     finally:
         conn.close()
+
+def _cleanup_default_admin(conn):
+    """Remove the insecure default admin (admin@edugenius.ai / changeme123) that
+    an earlier deploy may have seeded. Only deletes it if it still has the public
+    default password — never touches a deliberately-configured admin."""
+    try:
+        row = _get_profile_row(conn, 'admin@edugenius.ai')
+        if row and row.get('role') == 'admin' and row.get('password') == 'changeme123':
+            db_execute(conn, 'DELETE FROM profiles WHERE name = ?', ('admin@edugenius.ai',))
+            conn.commit()
+            print("Removed insecure default admin account.")
+    except Exception as e:
+        print(f"Default admin cleanup warning: {e}")
 
 def _seed_admin(conn):
     """Seed a single admin (question reviewer) account.
