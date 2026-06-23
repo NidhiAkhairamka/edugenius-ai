@@ -43,6 +43,19 @@ class DatabaseManager {
     } catch (e) { return null; }
   }
 
+  /** Generic AI text generation via the Flask proxy (normalised base URL). */
+  async aiGenerate(prompt: string, system = ''): Promise<string> {
+    try {
+      const r = await fetch(`${API_BASE}/ai/generate`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt, system })
+      });
+      const data = await r.json();
+      if (data.error) throw new Error(data.error);
+      return data.text || '';
+    } catch (e) { console.error('aiGenerate failed:', e); return ''; }
+  }
+
   // ── ACCOUNTS: parent (email) + child (username) ───────────────────────────
 
   async parentSignup(email: string, password: string, displayName = ''): Promise<{ ok: boolean; profile?: any; error?: string }> {

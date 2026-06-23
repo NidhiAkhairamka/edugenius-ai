@@ -21,8 +21,9 @@
  * TRUST: Every mark is auditable. Source code is the marking scheme.
  */
 
-import { ref, computed, onUnmounted } from 'vue';
+import { ref, computed, onUnmounted, onMounted } from 'vue';
 import { db } from '../services/dbService';
+import { nodeName } from '../services/skillGraph';
 
 const props = defineProps(['student']);
 const emit = defineEmits(['complete', 'exit']);
@@ -210,6 +211,41 @@ const POOL = {
 
 const START = { beginner:3, developing:5, confident:7, strong:8 };
 
+// ── Live bank: merge approved questions over the built-in set ─────────────────
+// The built-in QB/POOL above is the guaranteed fallback so the test always works.
+// On mount we pull parent-approved questions and merge them in, then rebuild the
+// per-section/per-level POOL so the adaptive picker draws from the live bank.
+const bankReady = ref(false);
+
+function rebuildPool() {
+  SECTIONS.forEach(s => { POOL[s] = {}; });
+  Object.values(QB).forEach(q => {
+    if (!q || !q.section || !q.level) return;
+    if (!POOL[q.section]) POOL[q.section] = {};
+    (POOL[q.section][q.level] ||= []).push(q.id);
+  });
+}
+
+onMounted(async () => {
+  try {
+    const res = await db.getApprovedDiagnosticQuestions();
+    const approved = res?.questions || {};
+    let merged = 0;
+    Object.values(approved).forEach(q => {
+      // Only merge well-formed diagnostic questions (skip anything malformed)
+      if (q && q.id && q.section && q.level && q.skillNode && q.type) {
+        QB[q.id] = q; merged++;
+      }
+    });
+    if (merged > 0) rebuildPool();
+  } catch (e) {
+    // Keep the built-in bank on any failure — never block the diagnostic.
+    console.warn('Approved bank unavailable, using built-in questions.', e);
+  } finally {
+    bankReady.value = true;
+  }
+});
+
 // State
 const qSeq = ref([]);
 const curIdx = ref(0);
@@ -339,8 +375,7 @@ const cGaps = computed(()=> !diagResults.value?.nodes ? [] :
 const cStrong = computed(()=> !diagResults.value?.nodes ? [] :
   Object.entries(diagResults.value.nodes).filter(([,v])=>v.confidence>=70).sort((a,b)=>b[1].confidence-a[1].confidence));
 
-const NODE_NAMES = { 'place-value-large':'Place value','fractions-basic':'Fractions','fractions-add':'Adding fractions','percentages-basic':'Percentages','percentages-change':'% change','ratio-basic':'Ratio','prime-factorisation':'Prime factorisation','standard-form':'Standard form','surds':'Surds','indices-advanced':'Indices','patterns-basic':'Number patterns','algebra-intro':'Algebra intro','equations-linear-basic':'Linear equations','sequences-linear':'Sequences','algebra-expand':'Expanding brackets','algebra-factorise':'Factorising','equations-simultaneous':'Simultaneous eq','quadratics-factorise':'Quadratics','angles-intro':'Angles intro','angles-triangles':'Angles in triangles','area-triangle':'Area — triangles','pythagoras':'Pythagoras','area-circle':'Circle area','trigonometry-basic':'Trigonometry','circle-theorems':'Circle theorems','mean-median-mode':'Averages & range','data-basic':'Data & charts','probability-basic':'Probability','probability-combined':'Combined probability','probability-tree':'Tree diagrams' };
-function nname(id){ return NODE_NAMES[id]||id; }
+function nname(id){ return nodeName(id); }
 
 onUnmounted(()=>{ if(timerInterval.value) clearInterval(timerInterval.value); });
 
