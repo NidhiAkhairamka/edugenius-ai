@@ -33,10 +33,19 @@ if DATABASE_URL:
 else:
     import sqlite3
 
+    # Write the DB file onto the Railway persistent volume when one is mounted
+    # (RAILWAY_VOLUME_MOUNT_PATH is set automatically by Railway). Falls back to
+    # the working directory for local dev. Without this, the SQLite file lives on
+    # the container's ephemeral filesystem and is wiped on every redeploy.
+    _DB_DIR = os.environ.get('RAILWAY_VOLUME_MOUNT_PATH', '.')
+    _DB_PATH = os.path.join(_DB_DIR, 'edugenius.db')
+
     def get_db():
-        conn = sqlite3.connect('edugenius.db')
+        conn = sqlite3.connect(_DB_PATH)
         conn.row_factory = sqlite3.Row
         return conn
+
+    print(f"SQLite path: {_DB_PATH}")
 
     def db_execute(conn, sql, params=()):
         return conn.execute(sql, params)
@@ -757,7 +766,24 @@ def get_skill_map(student_name):
                 node_results[node] = []
             node_results[node].append(row)
 
-        # Compute confidence per node from all attempts
+        # Compute confidence per node from all attempts.
+        #
+        # Design principles:
+        #   1. Confidence reflects the *observed accuracy* directly. A single
+        #      correct answer is real evidence of competence and must be able to
+        #      reach the "strong" band — it should never be capped below it by a
+        #      sample-size penalty. (The previous formula blended every node
+        #      toward 50, which made "confirmed strong" unreachable on the common
+        #      single-attempt node and contradicted the product's core promise.)
+        #   2. Sample size is reported via the separate `reliability` field, not
+        #      by distorting the confidence number.
+        #   3. "We don't know yet" is an explicit state (`status: 'untested'`),
+        #      not a 50% score that masquerades as a measurement. Here every node
+        #      present has at least one attempt or a skip, so it is never untested,
+        #      but the band labelling keeps the distinction honest.
+        STRONG_BAND = 70
+        GAP_BAND = 45
+
         skill_map = {}
         for node_id, results in node_results.items():
             correct = sum(1 for r in results if r.get('isCorrect') or r.get('is_correct'))
@@ -766,29 +792,40 @@ def get_skill_map(student_name):
             attempted = total - skipped
 
             if attempted == 0:
-                # Only skipped — confirms awareness gap
+                # Only skipped — confirms the student did not attempt it.
                 conf = 15
-                source = 'diagnostic'
-                evidence = f'Skipped in diagnostic — not yet attempted'
+                status = 'gap'
+                reliability = 'low'
+                evidence = 'Skipped in diagnostic — not yet attempted'
             else:
-                # Calculate confidence from actual answers
                 accuracy = correct / attempted
-                # Weight: more attempts = more confident in the score
-                weight = min(attempted / 3, 1.0)  # Full confidence after 3 questions
-                conf = int((accuracy * 80 + 10) * weight + 50 * (1 - weight))
+                # Confidence maps accuracy onto a 20–95 band so a perfect score
+                # reads as "strong" and a zero score reads as a "gap", without
+                # ever claiming absolute certainty.
+                conf = int(round(20 + accuracy * 75))
                 conf = max(10, min(95, conf))
-                source = 'diagnostic'
+
+                # Reliability is about how much evidence backs the score.
+                reliability = 'high' if attempted >= 3 else 'medium' if attempted >= 2 else 'low'
 
                 if accuracy >= 0.8:
+                    status = 'strong'
                     evidence = f'Correct {correct}/{attempted} in diagnostic — strong'
                 elif accuracy >= 0.5:
+                    status = 'developing'
                     evidence = f'Correct {correct}/{attempted} — developing, more practice needed'
                 else:
+                    status = 'gap'
                     evidence = f'Correct {correct}/{attempted} — gap confirmed, targeted practice needed'
+
+                if reliability == 'low':
+                    evidence += ' (single question — confirm with more practice)'
 
             skill_map[node_id] = {
                 'confidence': conf,
-                'source': source,
+                'status': status,
+                'reliability': reliability,
+                'source': 'diagnostic',
                 'evidence': evidence,
                 'correct': correct,
                 'attempted': attempted,
@@ -798,8 +835,8 @@ def get_skill_map(student_name):
                 'lastTested': results[0].get('createdAt') or results[0].get('created_at', ''),
             }
 
-        confirmed_strong = sum(1 for v in skill_map.values() if v['confidence'] >= 70)
-        confirmed_gaps = sum(1 for v in skill_map.values() if v['confidence'] < 45)
+        confirmed_strong = sum(1 for v in skill_map.values() if v['confidence'] >= STRONG_BAND)
+        confirmed_gaps = sum(1 for v in skill_map.values() if v['confidence'] < GAP_BAND)
 
         return jsonify({
             "studentName": student_name,
@@ -814,6 +851,163 @@ def get_skill_map(student_name):
     except Exception as e:
         print(f"Skill map error: {e}")
         return jsonify({"error": str(e)}), 500
+
+# ── Diagnostic Question Review Queue ─────────────────────────────────────────
+# Admin workflow: draft questions land here, get reviewed/edited/approved,
+# and only approved ones are served to the live diagnostic.
+
+_REVIEW_SEED = _DATA_DIR / 'diagnostic_review.json'
+
+
+def _ensure_review_table(conn):
+    if DB_TYPE == 'postgres':
+        db_execute(conn, '''
+            CREATE TABLE IF NOT EXISTS diagnostic_questions (
+                id TEXT PRIMARY KEY,
+                data TEXT NOT NULL,
+                reviewed BOOLEAN DEFAULT FALSE,
+                approved BOOLEAN DEFAULT FALSE,
+                "updatedAt" TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            )''')
+    else:
+        db_execute(conn, '''
+            CREATE TABLE IF NOT EXISTS diagnostic_questions (
+                id TEXT PRIMARY KEY,
+                data TEXT NOT NULL,
+                reviewed INTEGER DEFAULT 0,
+                approved INTEGER DEFAULT 0,
+                updatedAt DATETIME DEFAULT CURRENT_TIMESTAMP
+            )''')
+    conn.commit()
+
+
+def _seed_review_questions(conn):
+    """Load draft questions from diagnostic_review.json into the table once."""
+    if not _REVIEW_SEED.exists():
+        return
+    try:
+        cur = db_execute(conn, 'SELECT COUNT(*) AS c FROM diagnostic_questions')
+        row = cur.fetchone()
+        count = (row['c'] if isinstance(row, dict) or hasattr(row, 'keys') else row[0]) or 0
+        if count and int(count) > 0:
+            return  # already seeded — don't clobber review progress
+    except Exception:
+        pass
+
+    payload = json.loads(_REVIEW_SEED.read_text(encoding='utf-8'))
+    questions = payload.get('questions', {})
+    for qid, q in questions.items():
+        reviewed = bool(q.get('reviewed'))
+        approved = bool(q.get('approved'))
+        if DB_TYPE == 'postgres':
+            db_execute(conn,
+                'INSERT INTO diagnostic_questions (id, data, reviewed, approved) VALUES (%s,%s,%s,%s) ON CONFLICT (id) DO NOTHING',
+                (qid, json.dumps(q), reviewed, approved))
+        else:
+            db_execute(conn,
+                'INSERT OR IGNORE INTO diagnostic_questions (id, data, reviewed, approved) VALUES (?,?,?,?)',
+                (qid, json.dumps(q), 1 if reviewed else 0, 1 if approved else 0))
+    conn.commit()
+
+
+def _review_row_to_question(row):
+    d = row_to_dict(row)
+    try:
+        q = json.loads(d['data'])
+    except Exception:
+        q = {}
+    q['id'] = d['id']
+    q['reviewed'] = bool(d['reviewed'])
+    q['approved'] = bool(d['approved'])
+    return q
+
+
+@app.route('/api/diagnostic/review/all', methods=['GET'])
+def review_all():
+    """List every draft question with its review/approval status."""
+    try:
+        conn = get_db()
+        _ensure_review_table(conn)
+        _seed_review_questions(conn)
+        cur = db_execute(conn, 'SELECT * FROM diagnostic_questions ORDER BY id ASC')
+        rows = cur.fetchall()
+        conn.close()
+        questions = [_review_row_to_question(r) for r in rows]
+        return jsonify({
+            'total': len(questions),
+            'reviewed_count': sum(1 for q in questions if q['reviewed']),
+            'approved_count': sum(1 for q in questions if q['approved']),
+            'questions': questions,
+        })
+    except Exception as e:
+        print(f'Review list error: {e}')
+        return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/diagnostic/review/update', methods=['POST'])
+def review_update():
+    """Update one question: edited fields and/or reviewed/approved flags."""
+    try:
+        d = request.json or {}
+        qid = d.get('id')
+        if not qid:
+            return jsonify({'error': 'id required'}), 400
+        conn = get_db()
+        _ensure_review_table(conn)
+
+        cur = db_execute(conn, 'SELECT data FROM diagnostic_questions WHERE id = ?', (qid,))
+        row = cur.fetchone()
+        if not row:
+            conn.close()
+            return jsonify({'error': 'not_found'}), 404
+
+        existing = json.loads(row_to_dict(row)['data'])
+        # Merge any edited question fields (text, correctAnswer, options, etc.)
+        edits = d.get('question') or {}
+        existing.update(edits)
+        reviewed = bool(d.get('reviewed', existing.get('reviewed', False)))
+        approved = bool(d.get('approved', existing.get('approved', False)))
+        # Approval implies review.
+        if approved:
+            reviewed = True
+        existing['reviewed'] = reviewed
+        existing['approved'] = approved
+
+        if DB_TYPE == 'postgres':
+            db_execute(conn,
+                'UPDATE diagnostic_questions SET data=%s, reviewed=%s, approved=%s, "updatedAt"=CURRENT_TIMESTAMP WHERE id=%s',
+                (json.dumps(existing), reviewed, approved, qid))
+        else:
+            db_execute(conn,
+                'UPDATE diagnostic_questions SET data=?, reviewed=?, approved=?, updatedAt=CURRENT_TIMESTAMP WHERE id=?',
+                (json.dumps(existing), 1 if reviewed else 0, 1 if approved else 0, qid))
+        conn.commit()
+        conn.close()
+        return jsonify({'status': 'success', 'id': qid, 'reviewed': reviewed, 'approved': approved})
+    except Exception as e:
+        print(f'Review update error: {e}')
+        return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/diagnostic/questions/approved', methods=['GET'])
+def approved_questions():
+    """Approved questions only — this is what the live diagnostic consumes."""
+    try:
+        conn = get_db()
+        _ensure_review_table(conn)
+        _seed_review_questions(conn)
+        if DB_TYPE == 'postgres':
+            cur = db_execute(conn, 'SELECT * FROM diagnostic_questions WHERE approved = TRUE ORDER BY id ASC')
+        else:
+            cur = db_execute(conn, 'SELECT * FROM diagnostic_questions WHERE approved = 1 ORDER BY id ASC')
+        rows = cur.fetchall()
+        conn.close()
+        questions = {q['id']: q for q in (_review_row_to_question(r) for r in rows)}
+        return jsonify({'total': len(questions), 'questions': questions})
+    except Exception as e:
+        print(f'Approved questions error: {e}')
+        return jsonify({'error': str(e)}), 500
+
 
 # ── Start ─────────────────────────────────────────────────────────────────────
 if __name__ == '__main__':

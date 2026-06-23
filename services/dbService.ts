@@ -235,6 +235,49 @@ class DatabaseManager {
     } catch (e) { return []; }
   }
 
+  // ── DIAGNOSTIC QUESTION REVIEW (admin) ────────────────────────────────────
+
+  /** List every draft diagnostic question with review/approval status. */
+  async getReviewQuestions(): Promise<{
+    total: number;
+    reviewed_count: number;
+    approved_count: number;
+    questions: any[];
+  } | null> {
+    try {
+      const r = await fetch(`${API_BASE}/diagnostic/review/all`);
+      return r.ok ? await r.json() : null;
+    } catch (e) { return null; }
+  }
+
+  /**
+   * Update one draft question. Pass edited fields in `question`, and/or flip
+   * `reviewed` / `approved`. Approval implies review server-side.
+   */
+  async updateReviewQuestion(payload: {
+    id: string;
+    question?: Record<string, any>;
+    reviewed?: boolean;
+    approved?: boolean;
+  }): Promise<{ status: string; reviewed: boolean; approved: boolean } | null> {
+    try {
+      const r = await fetch(`${API_BASE}/diagnostic/review/update`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      return r.ok ? await r.json() : null;
+    } catch (e) { return null; }
+  }
+
+  /** Approved questions only — what the live diagnostic should consume. */
+  async getApprovedDiagnosticQuestions(): Promise<{ total: number; questions: Record<string, any> } | null> {
+    try {
+      const r = await fetch(`${API_BASE}/diagnostic/questions/approved`);
+      return r.ok ? await r.json() : null;
+    } catch (e) { return null; }
+  }
+
   async migrateFromLegacy(): Promise<StudentProfile | null> {
     const legacy = localStorage.getItem('edugenius_users');
     if (legacy) {

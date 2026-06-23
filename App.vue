@@ -11,6 +11,7 @@ import AgentShop from './components/AgentShop.vue';
 import AcademyGuide from './components/AcademyGuide.vue';
 import PaperScanner from './components/PaperScanner.vue';
 import MockExam from './components/MockExam.vue';
+import QuestionReview from './components/QuestionReview.vue';
 import { INITIAL_STUDENT, RANKS } from './constants';
 import { db } from './services/dbService';
 
@@ -167,6 +168,10 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
   @back="view = 'dashboard'"
   @takeDiagnostic="view = 'diagnostic'"
   @planGenerated="view = 'dashboard'"
+/>
+<QuestionReview
+  v-else-if="view === 'review'"
+  @back="view = 'dashboard'"
 />
 
         </Transition>
