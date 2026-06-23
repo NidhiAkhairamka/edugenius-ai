@@ -43,6 +43,64 @@ class DatabaseManager {
     } catch (e) { return null; }
   }
 
+  // ── ACCOUNTS: parent (email) + child (username) ───────────────────────────
+
+  async parentSignup(email: string, password: string, displayName = ''): Promise<{ ok: boolean; profile?: any; error?: string }> {
+    try {
+      const r = await fetch(`${API_BASE}/auth/parent/signup`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password, displayName })
+      });
+      const data = await r.json();
+      return r.ok ? { ok: true, profile: data.profile } : { ok: false, error: data.error };
+    } catch (e) { return { ok: false, error: 'network' }; }
+  }
+
+  async parentLogin(email: string, password: string): Promise<{ ok: boolean; profile?: any; error?: string }> {
+    try {
+      const r = await fetch(`${API_BASE}/auth/parent/login`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password })
+      });
+      const data = await r.json();
+      return r.ok ? { ok: true, profile: data.profile } : { ok: false, error: data.error };
+    } catch (e) { return { ok: false, error: 'network' }; }
+  }
+
+  async childLogin(username: string, password: string): Promise<{ ok: boolean; profile?: any; error?: string }> {
+    try {
+      const r = await fetch(`${API_BASE}/auth/child/login`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password })
+      });
+      const data = await r.json();
+      return r.ok ? { ok: true, profile: data.profile } : { ok: false, error: data.error };
+    } catch (e) { return { ok: false, error: 'network' }; }
+  }
+
+  /** Parent creates a child account during onboarding. */
+  async createChild(payload: {
+    parentEmail: string; username: string; password: string;
+    displayName?: string; ageBand?: string; targetExam?: string; yearLevel?: number;
+    reports?: any; aiAnalysis?: string; recommendedLevel?: string;
+  }): Promise<{ ok: boolean; profile?: any; error?: string }> {
+    try {
+      const r = await fetch(`${API_BASE}/auth/child/create`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...payload, createdAt: new Date().toISOString() })
+      });
+      const data = await r.json();
+      return r.ok ? { ok: true, profile: data.profile } : { ok: false, error: data.error };
+    } catch (e) { return { ok: false, error: 'network' }; }
+  }
+
+  async getChildren(parentEmail: string): Promise<any[]> {
+    try {
+      const r = await fetch(`${API_BASE}/children/${encodeURIComponent(parentEmail)}`);
+      return r.ok ? await r.json() : [];
+    } catch (e) { return []; }
+  }
+
   // --- Curriculum Cache ---
   async getCurriculum(topicId: string): Promise<any | null> {
     try {
