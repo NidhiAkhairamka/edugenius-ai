@@ -1,22 +1,29 @@
 <script setup>
-import { ref, reactive, onMounted, watch, computed } from 'vue';
+import { ref, reactive, onMounted, computed } from 'vue';
 import Auth from './components/Auth.vue';
 import Dashboard from './components/Dashboard.vue';
 import LearningArena from './components/LearningArena.vue';
 import Layout from './components/Layout.vue';
 import AdaptiveDiagnostic from './components/Adaptivediagnostic.vue';
 import SkillMap from './components/SkillMap.vue';
+import StudyPlan from './components/StudyPlan.vue';
 import Statistics from './components/Statistics.vue';
 import AgentShop from './components/AgentShop.vue';
 import AcademyGuide from './components/AcademyGuide.vue';
 import PaperScanner from './components/PaperScanner.vue';
 import MockExam from './components/MockExam.vue';
 import QuestionReview from './components/QuestionReview.vue';
-import { INITIAL_STUDENT, RANKS } from './constants';
+import ParentDashboard from './components/ParentDashboard.vue';
+import { INITIAL_STUDENT } from './constants';
 import { db } from './services/dbService';
 
 const view = ref('login');
 const isLoadingDB = ref(true);
+
+// 'parent' | 'child' | null
+const role = ref(null);
+const parentProfile = ref(null);
+const parentView = ref('home'); // home | review
 
 const student = reactive({
   ...INITIAL_STUDENT,
@@ -27,12 +34,20 @@ const student = reactive({
 onMounted(async () => {
   try {
     await db.init();
-    const currentSessionName = localStorage.getItem('edugenius_active_session_name');
-    if (currentSessionName) {
-      const profile = await db.getProfile(currentSessionName);
+    const sessionName = localStorage.getItem('edugenius_active_session_name');
+    const sessionRole = localStorage.getItem('edugenius_active_session_role');
+    if (sessionName) {
+      const profile = await db.getProfile(sessionName);
       if (profile) {
-        Object.assign(student, profile);
-        view.value = 'dashboard';
+        if (sessionRole === 'parent' || profile.role === 'parent') {
+          parentProfile.value = profile;
+          role.value = 'parent';
+          view.value = 'parent';
+        } else {
+          Object.assign(student, profile);
+          role.value = 'child';
+          view.value = 'dashboard';
+        }
       }
     }
   } catch (err) {
@@ -42,23 +57,34 @@ onMounted(async () => {
   }
 });
 
-const currentLevel = computed(() => Math.floor(student.experience / 1000) + 1);
+const currentLevel = computed(() => Math.floor((student.experience || 0) / 1000) + 1);
 const currentSubject = ref('Maths');
 const currentTopic = ref(null);
 
 const handleLogin = async (profile) => {
-  Object.assign(student, profile);
-  localStorage.setItem('edugenius_active_session_name', profile.name);
-  view.value = 'dashboard';
-  try {
-    await db.saveProfile(student);
-  } catch (err) {
-    console.warn('EduGenius: Profile Sync failed, using local mode.', err);
+  if (profile?.role === 'parent') {
+    parentProfile.value = profile;
+    role.value = 'parent';
+    parentView.value = 'home';
+    view.value = 'parent';
+    localStorage.setItem('edugenius_active_session_name', profile.email || profile.name);
+    localStorage.setItem('edugenius_active_session_role', 'parent');
+    return;
   }
+  // child
+  Object.assign(student, profile);
+  role.value = 'child';
+  localStorage.setItem('edugenius_active_session_name', profile.name);
+  localStorage.setItem('edugenius_active_session_role', 'child');
+  view.value = 'dashboard';
+  try { await db.saveProfile(student); } catch (err) { console.warn('Profile sync failed.', err); }
 };
 
 const handleLogout = () => {
   localStorage.removeItem('edugenius_active_session_name');
+  localStorage.removeItem('edugenius_active_session_role');
+  role.value = null;
+  parentProfile.value = null;
   Object.assign(student, INITIAL_STUDENT);
   view.value = 'login';
 };
@@ -70,14 +96,6 @@ const handleStartTopic = async (topic) => {
   student.currentBriefingVault = await db.getBriefingVault(student.name, topic.id);
   student.currentAgentEyeVault = await db.getAgentEyeVault(student.name, topic.id);
   view.value = 'learning';
-};
-
-const handleComplete = () => {
-  view.value = 'dashboard';
-};
-
-const handleDiagnosticComplete = (data) => {
-  view.value = 'skillmap';
 };
 
 const handleUpdateProgress = (topicId, score, difficulty) => {
@@ -96,10 +114,6 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
 </script>
 
 <template>
-  <!-- 
-    ROOT: full-screen, no overflow hidden at this level.
-    The scroll happens INSIDE Layout's <main> element, not here.
-  -->
   <div class="fixed inset-0 bg-slate-50 flex items-center justify-center font-sans">
 
     <!-- Loading Overlay -->
@@ -110,11 +124,31 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
       </div>
     </Transition>
 
-    <!-- Main App Shell -->
     <div class="w-full h-full max-w-md mx-auto relative bg-white shadow-2xl overflow-hidden flex flex-col">
 
+      <!-- LOGIN -->
       <Auth v-if="view === 'login'" @login="handleLogin" />
 
+      <!-- PARENT -->
+      <div v-else-if="role === 'parent'" class="h-full flex flex-col bg-slate-50">
+        <header class="flex-shrink-0 bg-white border-b border-slate-100 px-4 py-3 flex justify-between items-center shadow-sm">
+          <div class="flex items-center gap-2">
+            <div class="w-7 h-7 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-black text-sm shadow">E</div>
+            <h1 class="text-sm font-black tracking-tighter text-slate-800">EduGenius · Parent</h1>
+          </div>
+          <button @click="parentView = parentView === 'review' ? 'home' : 'review'"
+            class="text-[10px] font-black uppercase tracking-widest px-2.5 py-1.5 rounded-lg"
+            :class="parentView === 'review' ? 'bg-indigo-600 text-white' : 'bg-slate-100 text-slate-500'">
+            {{ parentView === 'review' ? '← Family' : '✅ Review questions' }}
+          </button>
+        </header>
+        <main class="flex-1 overflow-y-auto px-4 pt-4 pb-6">
+          <QuestionReview v-if="parentView === 'review'" @back="parentView = 'home'" />
+          <ParentDashboard v-else :parent="parentProfile" @logout="handleLogout" />
+        </main>
+      </div>
+
+      <!-- CHILD -->
       <Layout
         v-else
         :student="student"
@@ -140,7 +174,7 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
             v-else-if="view === 'learning'"
             :topic="currentTopic"
             :student="student"
-            @complete="handleComplete"
+            @complete="view = 'dashboard'"
             @exit="view = 'dashboard'"
             @updateProgress="handleUpdateProgress"
           />
@@ -157,23 +191,25 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
           <PaperScanner v-else-if="view === 'scanning'" @analysisComplete="() => view = 'dashboard'" @cancel="view = 'dashboard'" />
 
           <AdaptiveDiagnostic
-  v-else-if="view === 'diagnostic'"
-  :student="student"
-  @exit="view = 'dashboard'"
-  @complete="(data) => { view = 'skillmap'; }"
-/>
-<SkillMap
-  v-else-if="view === 'skillmap'"
-  :student="student"
-  @back="view = 'dashboard'"
-  @takeDiagnostic="view = 'diagnostic'"
-  @planGenerated="view = 'dashboard'"
-/>
-<QuestionReview
-  v-else-if="view === 'review'"
-  @back="view = 'dashboard'"
-/>
-
+            v-else-if="view === 'diagnostic'"
+            :student="student"
+            @exit="view = 'dashboard'"
+            @complete="() => { view = 'skillmap'; }"
+          />
+          <SkillMap
+            v-else-if="view === 'skillmap'"
+            :student="student"
+            @back="view = 'dashboard'"
+            @takeDiagnostic="view = 'diagnostic'"
+            @planGenerated="() => { view = 'plan'; }"
+          />
+          <StudyPlan
+            v-else-if="view === 'plan'"
+            :student="student"
+            @back="view = 'dashboard'"
+            @takeDiagnostic="view = 'diagnostic'"
+            @startTopic="handleStartTopic"
+          />
         </Transition>
       </Layout>
 
@@ -182,24 +218,14 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
 </template>
 
 <style>
-/* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; }
 
 html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%;
-  /* 
-    CRITICAL FIX: overflow:hidden on html/body was preventing ALL scrolling.
-    Remove it here — scroll is managed per-component inside Layout's <main>.
-  */
-  overflow: hidden;
-  overscroll-behavior: none;
+  margin: 0; padding: 0; height: 100%; width: 100%;
+  overflow: hidden; overscroll-behavior: none;
   -webkit-tap-highlight-color: transparent;
 }
 
-/* ── Transitions ── */
 .slide-fade-enter-active { transition: all 0.35s cubic-bezier(0.2, 0.8, 0.2, 1); }
 .slide-fade-leave-active { transition: all 0.25s ease-in; }
 .slide-fade-enter-from { transform: translateY(12px); opacity: 0; }
@@ -208,16 +234,11 @@ html, body {
 .fade-enter-active, .fade-leave-active { transition: opacity 0.3s; }
 .fade-enter-from, .fade-leave-to { opacity: 0; }
 
-/* ── Scrollbar styling — thin and subtle ── */
-* {
-  scrollbar-width: thin;
-  scrollbar-color: #e2e8f0 transparent;
-}
+* { scrollbar-width: thin; scrollbar-color: #e2e8f0 transparent; }
 *::-webkit-scrollbar { width: 3px; height: 3px; }
 *::-webkit-scrollbar-track { background: transparent; }
 *::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
 
-/* ── No scrollbar utility ── */
 .no-scrollbar { scrollbar-width: none; -ms-overflow-style: none; }
 .no-scrollbar::-webkit-scrollbar { display: none; }
 </style>

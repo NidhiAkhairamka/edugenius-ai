@@ -246,6 +246,155 @@ def save_profile():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+# ── Accounts: Parent (email) + Child (username), Beast-Academy style ─────────
+# Reuses the profiles table: each account is one row (name = PK).
+#   Parent row: name = email,    data.role = 'parent', data.children = [usernames]
+#   Child row:  name = username, data.role = 'child',  data.parentEmail = email
+# Passwords are stored in the profile JSON (consistent with existing demo seed).
+
+def _get_profile_row(conn, key):
+    cur = db_execute(conn, 'SELECT data FROM profiles WHERE name = ?', (key,))
+    row = cur.fetchone()
+    return json.loads(row['data']) if row else None
+
+def _save_profile_row(conn, key, data):
+    if DB_TYPE == 'postgres':
+        db_execute(conn,
+            'INSERT INTO profiles (name, data) VALUES (%s, %s) ON CONFLICT (name) DO UPDATE SET data = EXCLUDED.data',
+            (key, json.dumps(data)))
+    else:
+        db_execute(conn,
+            'INSERT OR REPLACE INTO profiles (name, data) VALUES (?, ?)',
+            (key, json.dumps(data)))
+
+@app.route('/api/auth/parent/signup', methods=['POST'])
+def parent_signup():
+    try:
+        d = request.json or {}
+        email = (d.get('email') or '').strip().lower()
+        password = d.get('password') or ''
+        if not email or not password:
+            return jsonify({'error': 'email and password required'}), 400
+        conn = get_db()
+        if _get_profile_row(conn, email):
+            conn.close()
+            return jsonify({'error': 'account_exists'}), 409
+        parent = {
+            'role': 'parent',
+            'name': email,
+            'email': email,
+            'password': password,
+            'displayName': d.get('displayName', ''),
+            'children': [],
+        }
+        _save_profile_row(conn, email, parent)
+        conn.commit(); conn.close()
+        parent.pop('password', None)
+        return jsonify({'status': 'success', 'profile': parent})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/auth/parent/login', methods=['POST'])
+def parent_login():
+    try:
+        d = request.json or {}
+        email = (d.get('email') or '').strip().lower()
+        conn = get_db()
+        p = _get_profile_row(conn, email)
+        conn.close()
+        if not p or p.get('role') != 'parent' or p.get('password') != d.get('password'):
+            return jsonify({'error': 'invalid_credentials'}), 401
+        p.pop('password', None)
+        return jsonify({'status': 'success', 'profile': p})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/auth/child/create', methods=['POST'])
+def child_create():
+    """Parent creates a child account during onboarding."""
+    try:
+        d = request.json or {}
+        parent_email = (d.get('parentEmail') or '').strip().lower()
+        username = (d.get('username') or '').strip()
+        password = d.get('password') or ''
+        if not parent_email or not username or not password:
+            return jsonify({'error': 'parentEmail, username and password required'}), 400
+        conn = get_db()
+        parent = _get_profile_row(conn, parent_email)
+        if not parent or parent.get('role') != 'parent':
+            conn.close()
+            return jsonify({'error': 'parent_not_found'}), 404
+        if _get_profile_row(conn, username):
+            conn.close()
+            return jsonify({'error': 'username_taken'}), 409
+
+        child = {
+            'role': 'child',
+            'name': username,
+            'password': password,
+            'parentEmail': parent_email,
+            'displayName': d.get('displayName', username),
+            'ageBand': d.get('ageBand', ''),
+            'targetExam': d.get('targetExam', ''),
+            'yearLevel': d.get('yearLevel', 7),
+            'reports': d.get('reports', {}),
+            'aiAnalysis': d.get('aiAnalysis', ''),
+            'recommendedLevel': d.get('recommendedLevel', ''),
+            # standard learner fields
+            'experience': 0, 'totalPoints': 0, 'gems': 100, 'streak': 1,
+            'rank': 'Novice Apprentice',
+            'activeSkinId': 'skin-og', 'unlockedSkins': ['skin-og'],
+            'badges': [], 'dailyMissions': [], 'masteryData': {},
+            'createdAt': d.get('createdAt', ''),
+        }
+        _save_profile_row(conn, username, child)
+        if username not in parent.get('children', []):
+            parent.setdefault('children', []).append(username)
+            _save_profile_row(conn, parent_email, parent)
+        conn.commit(); conn.close()
+        child.pop('password', None)
+        return jsonify({'status': 'success', 'profile': child})
+    except Exception as e:
+        print(f'Child create error: {e}')
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/auth/child/login', methods=['POST'])
+def child_login():
+    try:
+        d = request.json or {}
+        username = (d.get('username') or '').strip()
+        conn = get_db()
+        c = _get_profile_row(conn, username)
+        conn.close()
+        if not c or c.get('role') != 'child' or c.get('password') != d.get('password'):
+            return jsonify({'error': 'invalid_credentials'}), 401
+        c.pop('password', None)
+        return jsonify({'status': 'success', 'profile': c})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/children/<parent_email>', methods=['GET'])
+def list_children(parent_email):
+    """All child profiles for a parent (passwords stripped)."""
+    try:
+        parent_email = parent_email.strip().lower()
+        conn = get_db()
+        parent = _get_profile_row(conn, parent_email)
+        if not parent or parent.get('role') != 'parent':
+            conn.close()
+            return jsonify([])
+        kids = []
+        for uname in parent.get('children', []):
+            c = _get_profile_row(conn, uname)
+            if c:
+                c.pop('password', None)
+                kids.append(c)
+        conn.close()
+        return jsonify(kids)
+    except Exception as e:
+        print(f'List children error: {e}')
+        return jsonify([])
+
 # ── Seed endpoint (reset demo user) ──────────────────────────────────────────
 @app.route('/api/seed', methods=['POST'])
 def seed():

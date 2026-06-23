@@ -11,7 +11,7 @@ const navItems = [
   { id: 'stats',     label: 'Progress', icon: '📈' },
   { id: 'diagnostic', label: 'Diagnostic', icon: '📋' },
   { id: 'skillmap',   label: 'Skill Map',  icon: '🗺️' },
-  { id: 'review',     label: 'Review',     icon: '✅' },
+  { id: 'plan',       label: 'Plan',       icon: '🎯' },
 ];
 
 // Hide the header/nav inside LearningArena (it has its own UI)
