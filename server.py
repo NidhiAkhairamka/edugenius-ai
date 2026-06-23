@@ -882,17 +882,14 @@ def _ensure_review_table(conn):
 
 
 def _seed_review_questions(conn):
-    """Load draft questions from diagnostic_review.json into the table once."""
+    """Load draft questions from diagnostic_review.json into the table.
+
+    Incremental and idempotent: INSERT OR IGNORE / ON CONFLICT DO NOTHING means
+    existing rows (and their review/approval progress) are never overwritten,
+    while any newly-added questions in the JSON get inserted on the next call.
+    """
     if not _REVIEW_SEED.exists():
         return
-    try:
-        cur = db_execute(conn, 'SELECT COUNT(*) AS c FROM diagnostic_questions')
-        row = cur.fetchone()
-        count = (row['c'] if isinstance(row, dict) or hasattr(row, 'keys') else row[0]) or 0
-        if count and int(count) > 0:
-            return  # already seeded — don't clobber review progress
-    except Exception:
-        pass
 
     payload = json.loads(_REVIEW_SEED.read_text(encoding='utf-8'))
     questions = payload.get('questions', {})
