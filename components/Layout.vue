@@ -4,14 +4,17 @@ import { computed } from 'vue';
 const props = defineProps(['student', 'level', 'activeSubject', 'currentView']);
 const emit = defineEmits(['selectSubject', 'goHome', 'logout', 'changeView']);
 
+// Bottom nav holds ONLY the journey spine, in order:
+// Learn(Home) → Assess(Diagnostic) → Skill Map → Plan → Prove(Mock) → Track(Progress).
+// Engagement (Armory/shop) is a header layer, not a stage. Study tools
+// (flashcards, cheat sheet, notes, Socrates) live inside the topic workspace.
 const navItems = [
-  { id: 'dashboard', label: 'Home',     icon: '🏠' },
-  { id: 'mockexam',  label: 'Mock',     icon: '📝' },
-  { id: 'shop',      label: 'Armory',   icon: '🛡️' },
-  { id: 'stats',     label: 'Progress', icon: '📈' },
+  { id: 'dashboard',  label: 'Home',      icon: '🏠' },
   { id: 'diagnostic', label: 'Diagnostic', icon: '📋' },
   { id: 'skillmap',   label: 'Skill Map',  icon: '🗺️' },
   { id: 'plan',       label: 'Plan',       icon: '🎯' },
+  { id: 'mockexam',   label: 'Mock',       icon: '📝' },
+  { id: 'stats',      label: 'Progress',   icon: '📈' },
 ];
 
 // Hide the header/nav inside LearningArena (it has its own UI)
@@ -46,6 +49,17 @@ const hideChrome = computed(() => props.currentView === 'learning');
       </div>
 
       <div class="flex items-center gap-2">
+        <!-- Engagement layer: streak + gems, tap gems to open the Armory -->
+        <div v-if="student?.streak" class="flex items-center gap-1 text-[10px] font-black text-orange-500" title="Daily streak">
+          🔥 {{ student.streak }}
+        </div>
+        <button
+          @click="emit('changeView', 'shop')"
+          class="flex items-center gap-1 bg-amber-50 text-amber-600 px-2 py-1 rounded-full text-[10px] font-black hover:bg-amber-100 transition-colors"
+          title="Armory — spend your gems"
+        >
+          💎 {{ student?.gems ?? 0 }}
+        </button>
         <div class="bg-slate-100 p-0.5 rounded-full flex">
           <button
             v-for="s in ['Maths', 'Science']"
