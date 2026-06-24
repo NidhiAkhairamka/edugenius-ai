@@ -7,6 +7,7 @@ import Layout from './components/Layout.vue';
 import AdaptiveDiagnostic from './components/Adaptivediagnostic.vue';
 import SkillMap from './components/SkillMap.vue';
 import StudyPlan from './components/StudyPlan.vue';
+import GapPractice from './components/GapPractice.vue';
 import Statistics from './components/Statistics.vue';
 import AgentShop from './components/AgentShop.vue';
 import AcademyGuide from './components/AcademyGuide.vue';
@@ -63,6 +64,7 @@ onMounted(async () => {
 const currentLevel = computed(() => Math.floor((student.experience || 0) / 1000) + 1);
 const currentSubject = ref('Maths');
 const currentTopic = ref(null);
+const currentGapNode = ref(null);
 
 const handleLogin = async (profile) => {
   if (profile?.role === 'admin') {
@@ -227,6 +229,16 @@ const handleUpdateProgress = (topicId, score, difficulty) => {
             @back="view = 'dashboard'"
             @takeDiagnostic="view = 'diagnostic'"
             @startTopic="handleStartTopic"
+            @practiceGap="({ node, topic }) => { currentGapNode = node; currentTopic = topic; view = 'practice'; }"
+          />
+          <GapPractice
+            v-else-if="view === 'practice'"
+            :student="student"
+            :node="currentGapNode"
+            :topic="currentTopic"
+            @back="view = 'plan'"
+            @mastered="view = 'skillmap'"
+            @learnTopic="handleStartTopic"
           />
         </Transition>
       </Layout>

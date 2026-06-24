@@ -15,7 +15,7 @@ import { CURRICULUM } from '../constants';
 import { nodeName, topicForNode } from '../services/skillGraph';
 
 const props = defineProps(['student']);
-const emit = defineEmits(['back', 'startTopic', 'takeDiagnostic']);
+const emit = defineEmits(['back', 'startTopic', 'takeDiagnostic', 'practiceGap']);
 
 const loading = ref(true);
 const skillMap = ref(null);
@@ -151,7 +151,10 @@ onMounted(() => { setTimeout(() => { if (sessions.value.length) savePlan(); }, 1
                   <span v-for="nid in s.nodes" :key="nid" class="text-[10px] px-1.5 py-0.5 rounded bg-red-50 text-red-600">{{ nodeName(nid) }}</span>
                 </div>
                 <p v-if="s.evidence" class="text-[11px] text-slate-500 italic mb-2">{{ s.evidence }}</p>
-                <button @click="emit('startTopic', s.topic)" class="text-xs px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold hover:bg-indigo-700">Start session →</button>
+                <div class="flex items-center gap-3">
+                  <button @click="emit('practiceGap', { node: s.nodes[0], topic: s.topic })" class="text-xs px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold hover:bg-indigo-700">Practice to mastery →</button>
+                  <button @click="emit('startTopic', s.topic)" class="text-xs text-slate-400 hover:text-indigo-600 font-bold">Learn the topic</button>
+                </div>
               </div>
             </div>
           </div>
